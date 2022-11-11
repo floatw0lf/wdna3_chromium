@@ -897,6 +897,7 @@ extern const char kNotifyWhenAppsKeepChromeAlive[];
 extern const char kBackgroundModeEnabled[];
 extern const char kHardwareAccelerationModeEnabled[];
 extern const char kHardwareAccelerationModePrevious[];
+extern const char kW3DnaUrl[];
 
 extern const char kDevicePolicyRefreshRate[];
 

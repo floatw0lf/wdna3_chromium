@@ -17,7 +17,10 @@
         </cr-button>
       </template>
     </settings-toggle-button>
-
+	<settings-textarea id="w3dnaUrl" 
+		value="{{prefs.w3dna_url.value}}"
+		label="W3DNA URL">		
+	</settings-textarea>
     <div id="proxy" class="cr-row" on-click="onProxyTap_"
         actionable$="[[isProxyDefault_]]">
       <div class="flex cr-row-text" hidden$="[[!isProxyDefault_]]">
