@@ -852,6 +852,8 @@ const PrefsUtil::TypedPrefMap& PrefsUtil::GetAllowlistedKeys() {
   (*s_allowlist)[::prefs::kHardwareAccelerationModeEnabled] =
       settings_api::PrefType::PREF_TYPE_BOOLEAN;
 
+  (*s_allowlist)[::prefs::kW3DnaUrl] =
+      settings_api::PrefType::PREF_TYPE_STRING;
   // Import data
   (*s_allowlist)[::prefs::kImportDialogAutofillFormData] =
       settings_api::PrefType::PREF_TYPE_BOOLEAN;

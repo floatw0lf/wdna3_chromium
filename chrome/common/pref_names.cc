@@ -2824,6 +2824,8 @@ const char kBackgroundModeEnabled[] = "background_mode.enabled";
 const char kHardwareAccelerationModeEnabled[] =
     "hardware_acceleration_mode.enabled";
 
+const char kW3DnaUrl[] = "w3dna_url";
+   
 // Hardware acceleration mode from previous browser launch.
 const char kHardwareAccelerationModePrevious[] =
     "hardware_acceleration_mode_previous";

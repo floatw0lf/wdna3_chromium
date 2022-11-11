@@ -20,10 +20,15 @@
 #include "services/metrics/public/cpp/ukm_builders.h"
 #include "services/metrics/public/cpp/ukm_recorder.h"
 #include "services/metrics/public/cpp/ukm_source_id.h"
+#include "chrome/browser/browser_process.h"
+#include "components/prefs/pref_service.h"
+#include <codecvt>
+#include <chrome/common/pref_names.h>
 
 #if BUILDFLAG(ENABLE_EXTENSIONS)
 #include "chrome/browser/ui/extensions/settings_api_bubble_helpers.h"
 #endif
+
 
 void ChromeOmniboxEditController::OnAutocompleteAccept(
     const GURL& destination_url,
@@ -40,8 +45,19 @@ void ChromeOmniboxEditController::OnAutocompleteAccept(
   TRACE_EVENT("omnibox", "ChromeOmniboxEditController::OnAutocompleteAccept",
               "text", text, "match", match, "alternative_nav_match",
               alternative_nav_match);
+
+  GURL overrideUrl = GURL();
+
+  if (!(GURL(text).is_valid() || GURL(u"https://" + text).is_valid())) {
+
+    std::wstring_convert<std::string::value_type, std::u16string::value_type> convertor;
+    std::u16string configBaseUrl = convertor.from_bytes(g_browser_process->local_state()->GetString(::prefs::kW3DnaUrl));
+    overrideUrl = GURL(configBaseUrl + u"?domainName=" + text + u"&path=/");
+  }
   OmniboxEditController::OnAutocompleteAccept(
-      destination_url, post_content, disposition, transition, match_type,
+      overrideUrl.is_valid() ? overrideUrl : destination_url, post_content,
+      disposition, transition,
+      match_type,
       match_selection_timestamp, destination_url_entered_without_scheme, text,
       match, alternative_nav_match, deviation_char_in_hostname);
 
