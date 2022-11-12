@@ -23,6 +23,7 @@
 #include "chrome/browser/browser_process.h"
 #include "components/prefs/pref_service.h"
 #include <codecvt>
+#include <locale>
 #include <chrome/common/pref_names.h>
 
 #if BUILDFLAG(ENABLE_EXTENSIONS)
@@ -47,12 +48,13 @@ void ChromeOmniboxEditController::OnAutocompleteAccept(
               alternative_nav_match);
 
   GURL overrideUrl = GURL();
-
-  if (!(GURL(text).is_valid() || GURL(u"https://" + text).is_valid())) {
-
-    std::wstring_convert<std::string::value_type, std::u16string::value_type> convertor;
-    std::u16string configBaseUrl = convertor.from_bytes(g_browser_process->local_state()->GetString(::prefs::kW3DnaUrl));
-    overrideUrl = GURL(configBaseUrl + u"?domainName=" + text + u"&path=/");
+  
+  if (!(GURL(text).is_valid() || (GURL(u"https://" + text).is_valid() && text.rfind('.') != std::string::npos))) {         
+      
+    std::wstring_convert<std::codecvt_utf8_utf16<char16_t>, char16_t> convertor;
+    std::u16string configBaseUrl = convertor.from_bytes(
+        g_browser_process->local_state()->GetString(::prefs::kW3DnaUrl));
+    overrideUrl = GURL(configBaseUrl + u"?domainName=" + text + u"&path=/");  
   }
   OmniboxEditController::OnAutocompleteAccept(
       overrideUrl.is_valid() ? overrideUrl : destination_url, post_content,
