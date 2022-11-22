@@ -11,6 +11,7 @@
 #include <set>
 #include <utility>
 #include <vector>
+#include <numeric>
 
 #include "base/base_switches.h"
 #include "base/bind.h"
