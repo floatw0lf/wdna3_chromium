@@ -507,9 +507,9 @@ Browser::Browser(const CreateParams& params)
   }
 
   tab_strip_model_->AddObserver(this);
-
+  
   location_bar_model_ = std::make_unique<LocationBarModelImpl>(
-      location_bar_model_delegate_.get(), content::kMaxURLDisplayChars);
+      location_bar_model_delegate_.get(), content::kMaxURLDisplayChars, GURL(g_browser_process->local_state()->GetString(prefs::kW3DnaUrl)));
 
   ThemeServiceFactory::GetForProfile(profile_)->AddObserver(this);
 

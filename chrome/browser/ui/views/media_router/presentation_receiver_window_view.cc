@@ -114,7 +114,7 @@ PresentationReceiverWindowView::PresentationReceiverWindowView(
       delegate_(delegate),
       location_bar_model_(
           std::make_unique<LocationBarModelImpl>(this,
-                                                 content::kMaxURLDisplayChars)),
+                                                 content::kMaxURLDisplayChars, GURL())),
       command_updater_(this),
       exclusive_access_manager_(this) {
   SetHasWindowSizeControls(true);

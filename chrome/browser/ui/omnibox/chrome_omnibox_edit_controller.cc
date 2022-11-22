@@ -47,15 +47,11 @@ void ChromeOmniboxEditController::OnAutocompleteAccept(
               "text", text, "match", match, "alternative_nav_match",
               alternative_nav_match);
 
-  GURL overrideUrl = GURL();
-  
-  if (!(GURL(text).is_valid() || (GURL(u"https://" + text).is_valid() && text.rfind('.') != std::string::npos))) {         
-      
-    std::wstring_convert<std::codecvt_utf8_utf16<char16_t>, char16_t> convertor;
-    std::u16string configBaseUrl = convertor.from_bytes(
-        g_browser_process->local_state()->GetString(::prefs::kW3DnaUrl));
-    overrideUrl = GURL(configBaseUrl + u"?domainName=" + text + u"&path=/");  
-  }
+    GURL overrideUrl = GURL(text);  
+    if (!(GURL(text).is_valid() || (GURL(u"https://" + text).is_valid() && text.rfind('.') != std::string::npos))) {        
+         
+        overrideUrl = GURL(u"w3dna://" + text + u"/");  
+    }
   OmniboxEditController::OnAutocompleteAccept(
       overrideUrl.is_valid() ? overrideUrl : destination_url, post_content,
       disposition, transition,
@@ -65,8 +61,7 @@ void ChromeOmniboxEditController::OnAutocompleteAccept(
 
   if (browser_) {
     auto navigation = chrome::OpenCurrentURL(browser_);
-    ChromeOmniboxNavigationObserver::Create(navigation.get(), profile_, text,
-                                            match, alternative_nav_match);
+    ChromeOmniboxNavigationObserver::Create(navigation.get(), profile_, text, match, alternative_nav_match);
 
     // If this navigation was typed by the user and the hostname contained an
     // IDNA 2008 deviation character, record a UKM. See idn_spoof_checker.h

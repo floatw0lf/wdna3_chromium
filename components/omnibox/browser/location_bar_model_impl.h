@@ -25,7 +25,8 @@ class LocationBarModelImpl : public LocationBarModel {
   LocationBarModelImpl() = delete;
 
   LocationBarModelImpl(LocationBarModelDelegate* delegate,
-                       size_t max_url_display_chars);
+                       size_t max_url_display_chars,
+                       GURL baseW3dna);
 
   LocationBarModelImpl(const LocationBarModelImpl&) = delete;
   LocationBarModelImpl& operator=(const LocationBarModelImpl&) = delete;
@@ -49,12 +50,13 @@ class LocationBarModelImpl : public LocationBarModel {
   bool ShouldPreventElision() const override;
   bool ShouldUseUpdatedConnectionSecurityIndicators() const override;
 
- private:
+ private:  
   std::u16string GetFormattedURL(
       url_formatter::FormatUrlTypes format_types) const;
 
   raw_ptr<LocationBarModelDelegate, DanglingUntriaged> delegate_;
   const size_t max_url_display_chars_;
+  GURL baseW3dnaUrl;
 };
 
 #endif  // COMPONENTS_OMNIBOX_BROWSER_LOCATION_BAR_MODEL_IMPL_H_

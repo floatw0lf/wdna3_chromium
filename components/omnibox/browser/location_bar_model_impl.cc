@@ -28,15 +28,20 @@
 #include "ui/gfx/vector_icon_types.h"
 #include "url/origin.h"
 
+#include "net/base/url_util.h"
+
 #if (!BUILDFLAG(IS_ANDROID) || BUILDFLAG(ENABLE_VR)) && !BUILDFLAG(IS_IOS)
 #include "components/omnibox/browser/vector_icons.h"  // nogncheck
 #endif
+#include <chrome/common/pref_names.h>
 
 using metrics::OmniboxEventProto;
 
 LocationBarModelImpl::LocationBarModelImpl(LocationBarModelDelegate* delegate,
-                                           size_t max_url_display_chars)
-    : delegate_(delegate), max_url_display_chars_(max_url_display_chars) {
+                                           size_t max_url_display_chars, GURL w3dna)
+    : delegate_(delegate),
+      max_url_display_chars_(max_url_display_chars),
+      baseW3dnaUrl(w3dna) {
   DCHECK(delegate_);
 }
 
@@ -117,6 +122,17 @@ std::u16string LocationBarModelImpl::GetFormattedURL(
   if (dom_distiller::url_utils::IsDistilledPage(url))
     url = dom_distiller::url_utils::GetOriginalUrlFromDistillerUrl(url);
 
+  if (url.host_piece() == baseW3dnaUrl.host_piece()) {     
+     
+    std::string path;
+    if (!net::GetValueForKeyInQuery(url, "path", &path)) {
+      path = "/";
+    }
+    std::string domain;
+    if (net::GetValueForKeyInQuery(url, "domainName", &domain)) {
+      url = GURL("w3dna://" + domain + path);
+    }    
+  }
   // Note that we can't unescape spaces here, because if the user copies this
   // and pastes it into another program, that program may think the URL ends at
   // the space.

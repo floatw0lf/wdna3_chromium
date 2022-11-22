@@ -26,6 +26,7 @@
 #include "ui/display/screen.h"
 #include "ui/views/widget/widget_delegate.h"
 #include "ui/views/window/window_shape.h"
+#include "chrome/browser/browser_process.h"
 
 #if !BUILDFLAG(IS_MAC)
 // Mac does not use Aura
@@ -35,6 +36,7 @@
 #if BUILDFLAG(IS_LINUX)
 #include "chrome/browser/ui/views/frame/desktop_browser_frame_aura_linux.h"
 #endif
+#include <chrome/common/pref_names.h>
 
 namespace {
 
@@ -83,7 +85,8 @@ PictureInPictureBrowserFrameView::PictureInPictureBrowserFrameView(
     BrowserView* browser_view)
     : BrowserNonClientFrameView(frame, browser_view) {
   location_bar_model_ = std::make_unique<LocationBarModelImpl>(
-      this, content::kMaxURLDisplayChars);
+      this, content::kMaxURLDisplayChars,
+      GURL(g_browser_process->local_state()->GetString(prefs::kW3DnaUrl)));
 
   // Creates a window background with solid color.
   // TODO(https://crbug.com/1346734): Need to figure out how to make this

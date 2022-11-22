@@ -25,7 +25,7 @@ LocationBarHelper::LocationBarHelper(BrowserUiInterface* ui,
     : ui_(ui),
       location_bar_model_(
           std::make_unique<LocationBarModelImpl>(delegate,
-                                                 kMaxURLDisplayChars)) {}
+                                                 kMaxURLDisplayChars, GURL())) {}
 
 LocationBarHelper::~LocationBarHelper() {}
 
