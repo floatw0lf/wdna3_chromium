@@ -1548,19 +1548,16 @@ static std::string CreateFromPiece(const std::vector<base::StringPiece>&& string
 
 static bool RewriteW3dna(GURL* url, content::BrowserContext* browser_context) {
 
-  const auto& settingBaseUrl = g_browser_process->local_state()->GetString(prefs::kW3DnaUrl);
-
-  if (url->SchemeIs("w3dna")) {       
-    
+  if (url->SchemeIs("w3dna")) {
+          
     size_t next = 0;
-    auto domain = ReadBetween(url->path_piece(), "//", "/", next);    
+    auto domain = ReadBetween(url->path_piece(), "//", "/", next);
     if (domain.empty()) return false;
-
-    auto full = CreateFromPiece({settingBaseUrl,
-         "?domainName=", domain, "&path=", url->path_piece().substr(next)});
+    auto path = url->path_piece().substr(next);
+    auto full = CreateFromPiece({g_browser_process->local_state()->GetString(prefs::kW3DnaUrl),"?domainName=", domain, "&path=", path.empty() ? "/" : path});
     *url = GURL(full);
-    return true;  
-  }   
+    return true;
+  }
   return false;
 
 }
