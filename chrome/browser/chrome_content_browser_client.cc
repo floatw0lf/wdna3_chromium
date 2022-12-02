@@ -11,7 +11,7 @@
 #include <set>
 #include <utility>
 #include <vector>
-#include <numeric>
+
 
 #include "base/base_switches.h"
 #include "base/bind.h"
@@ -1506,62 +1506,6 @@ ChromeContentBrowserClient::~ChromeContentBrowserClient() {
     delete extra_parts_[i];
   extra_parts_.clear();
 }
-
-class BrowserContext;
-
-
-static base::StringPiece ReadBetween(const base::StringPiece& origin,
-                                     const base::StringPiece& first,
-                                     const base::StringPiece& second,
-                                     size_t& cursor) {  
-  auto skip = first.size();
-  auto f = origin.find(first, cursor);
-
-  if (f == std::string::npos) {
-    cursor = 0;
-    return base::StringPiece();
-  }
-  auto s = origin.find(second, f + skip);
-  if (s == std::string::npos) {
-    s = origin.size();
-  }
-  cursor = s;  
-  return origin.substr(f + skip, s - (f + second.size() + 1));
-}
-
-
-static std::string CreateFromPiece(const std::vector<base::StringPiece>&& strings) {
-    
-
-    size_t allSize = std::accumulate(
-      strings.begin(), strings.end(), (size_t)0,
-      [](size_t sum, const base::StringPiece& elem) -> auto { return sum + elem.size(); });
-    std::string buffer;
-    buffer.reserve(allSize);
-    for (const auto& item : strings) {
-      
-      buffer.append(item.data(), item.size());
-    }
-    return buffer;   
-  
-}
-
-static bool RewriteW3dna(GURL* url, content::BrowserContext* browser_context) {
-
-  if (url->SchemeIs("w3dna")) {
-          
-    size_t next = 0;
-    auto domain = ReadBetween(url->path_piece(), "//", "/", next);
-    if (domain.empty()) return false;
-    auto path = url->path_piece().substr(next);
-    auto full = CreateFromPiece({g_browser_process->local_state()->GetString(prefs::kW3DnaUrl),"?domainName=", domain, "&path=", path.empty() ? "/" : path});
-    *url = GURL(full);
-    return true;
-  }
-  return false;
-
-}
-
 // static
 void ChromeContentBrowserClient::RegisterLocalStatePrefs(
     PrefRegistrySimple* registry) {
@@ -1572,11 +1516,7 @@ void ChromeContentBrowserClient::RegisterLocalStatePrefs(
   registry->RegisterBooleanPref(prefs::kTabFreezingEnabled, true);
   registry->RegisterIntegerPref(prefs::kSCTAuditingHashdanceReportCount, 0);
   registry->RegisterStringPref(prefs::kW3DnaUrl,"https://w3dna.pro/content"); 
-
-  content::BrowserURLHandler::GetInstance()->AddHandlerPair(&RewriteW3dna, content::BrowserURLHandler::null_handler());
 }
- 
-
 
 // static
 void ChromeContentBrowserClient::RegisterProfilePrefs(

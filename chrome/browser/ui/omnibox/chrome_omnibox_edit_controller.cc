@@ -22,14 +22,49 @@
 #include "services/metrics/public/cpp/ukm_source_id.h"
 #include "chrome/browser/browser_process.h"
 #include "components/prefs/pref_service.h"
-#include <codecvt>
-#include <locale>
 #include <chrome/common/pref_names.h>
+#include <numeric>
+
 
 #if BUILDFLAG(ENABLE_EXTENSIONS)
 #include "chrome/browser/ui/extensions/settings_api_bubble_helpers.h"
 #endif
 
+static base::StringPiece16 ReadBetween(const base::StringPiece16& origin,
+                                       const base::StringPiece16& first,
+                                       const base::StringPiece16& second,
+                                     size_t& cursor) {
+  auto skip = first.size();
+  auto f = origin.find(first, cursor);
+
+  if (f == std::u16string::npos) {
+    cursor = 0;
+    return base::StringPiece16();
+  }
+  auto s = origin.find(second, f + skip);
+  if (s == std::u16string::npos) {
+    s = origin.size();    
+    cursor = s;
+    return origin.substr(f + skip);    
+  }
+  cursor = s;
+  return origin.substr(f + skip, s - (f + second.size() + 1));
+}
+
+static std::u16string CreateFromPiece(
+    const std::vector<base::StringPiece16>&& strings) {
+  size_t allSize = std::accumulate(
+      strings.begin(), strings.end(), (size_t)0,
+      [](size_t sum, const base::StringPiece16& elem) -> auto{
+        return sum + elem.size();
+      });
+  std::u16string buffer;
+  buffer.reserve(allSize);
+  for (const auto& item : strings) {
+    buffer.append(item.data(), item.size());
+  }
+  return buffer;
+}
 
 void ChromeOmniboxEditController::OnAutocompleteAccept(
     const GURL& destination_url,
@@ -47,11 +82,22 @@ void ChromeOmniboxEditController::OnAutocompleteAccept(
               "text", text, "match", match, "alternative_nav_match",
               alternative_nav_match);
 
-    GURL overrideUrl = GURL(text);  
-    if (!(GURL(text).is_valid() || (GURL(u"https://" + text).is_valid() && text.rfind('.') != std::string::npos))) {        
-         
-        overrideUrl = GURL(u"w3dna://" + text + u"/");  
-    }
+  GURL overrideUrl;  
+  if ((!text.empty() && text.at(0) == '*')) {
+
+    size_t cursor = 0;    
+    auto domainUTF8 =  base::UTF16ToUTF8(ReadBetween(text, u"*", u"/", cursor));
+    auto domain = base::UTF8ToUTF16(base::EscapeUrlEncodedData(domainUTF8, true));
+    auto path = ReadBetween(text, u"/", u"", cursor);
+    auto baseUrl = base::UTF8ToUTF16(g_browser_process->local_state()->GetString(prefs::kW3DnaUrl));
+    path = path.empty() ? u"/" : path;
+    overrideUrl = GURL(CreateFromPiece({baseUrl, u"?domainName=", domain, u"&path=", path }));  
+  } else if (!(GURL(text).is_valid() || GURL(u"https://" + text).is_valid())) {
+
+    auto baseUrl = base::UTF8ToUTF16(g_browser_process->local_state()->GetString(prefs::kW3DnaUrl));   
+    overrideUrl = GURL(CreateFromPiece({baseUrl, u"?domainName=",base::UTF8ToUTF16(base::EscapeUrlEncodedData(base::UTF16ToUTF8(text), true)),u"&path=/"}));
+  }
+
   OmniboxEditController::OnAutocompleteAccept(
       overrideUrl.is_valid() ? overrideUrl : destination_url, post_content,
       disposition, transition,

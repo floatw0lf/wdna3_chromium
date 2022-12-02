@@ -125,13 +125,16 @@ std::u16string LocationBarModelImpl::GetFormattedURL(
   if (url.host_piece() == baseW3dnaUrl.host_piece()) {     
      
     std::string path;
-    if (!net::GetValueForKeyInQuery(url, "path", &path)) {
-      path = "/";
+    if (net::GetValueForKeyInQuery(url, "path", &path) && path == "/") {
+      path = "";
     }
+    
     std::string domain;
     if (net::GetValueForKeyInQuery(url, "domainName", &domain)) {
-      url = GURL("w3dna://" + domain + path);
-    }    
+      return gfx::TruncateString(
+          base::UTF8ToUTF16(std::string("*") + domain + path),
+          max_url_display_chars_, gfx::CHARACTER_BREAK);
+    }   
   }
   // Note that we can't unescape spaces here, because if the user copies this
   // and pastes it into another program, that program may think the URL ends at
