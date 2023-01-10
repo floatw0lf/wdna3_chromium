@@ -15,7 +15,7 @@
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
 #define PRODUCT_STRING "Google Chrome"
 #elif BUILDFLAG(CHROMIUM_BRANDING)
-#define PRODUCT_STRING "Chromium"
+#define PRODUCT_STRING "WEB3 DNA Browser"
 #else
 #error Unknown branding
 #endif

@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Jep detaje të tjera</translation>
 <translation id="1019413721762100891">Joaktive</translation>
 <translation id="1021110881106174305">Kartat e pranuara</translation>
-<translation id="1021753677514347426">Ky problem ndodh për shkak të një certifikate që instalove ti ose dikush tjetër në pajisjen tënde. Certifikata njihet se është përdorur për të monitoruar dhe ndërhyrë në rrjete dhe nuk është e besuar nga Chromium. Megjithëse ekzistojnë disa raste legjitime për monitorimin, si p.sh. një rrjet shkolle ose kompanie, Chromium dëshiron të sigurohet që je në dijeni se kjo ndodh, edhe nëse nuk arrin ta ndalosh. Monitorimi mund të ndodhë në çdo shfletues ose aplikacion që ka qasje në ueb.</translation>
+<translation id="6843750610117699926">Ky problem ndodh për shkak të një certifikate që instalove ti ose dikush tjetër në pajisjen tënde. Certifikata njihet se është përdorur për të monitoruar dhe ndërhyrë në rrjete dhe nuk është e besuar nga WEB3 DNA Browser. Megjithëse ekzistojnë disa raste legjitime për monitorimin, si p.sh. një rrjet shkolle ose kompanie, WEB3 DNA Browser dëshiron të sigurohet që je në dijeni se kjo ndodh, edhe nëse nuk arrin ta ndalosh. Monitorimi mund të ndodhë në çdo shfletues ose aplikacion që ka qasje në ueb.</translation>
 <translation id="1024111578869940408">Sulmuesit ndonjëherë i imitojnë sajtet duke bërë tek adresa e uebit ndryshime që janë të vështira për t'u dalluar.</translation>
 <translation id="1028781062521375153">Shiko detajet</translation>
 <translation id="1030706264415084469"><ph name="URL" /> do të ruajë në mënyrë të përhershme të dhëna të mëdha në pajisjen tënde</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Zhbëj shtimin</translation>
 <translation id="1056663316309890343">Softueri i fotografive</translation>
 <translation id="1056898198331236512">Paralajmërim</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të luajtur lojën Dino Run në Chrome</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të luajtur lojën Dino Run në WEB3 DNA Browser</translation>
 <translation id="1058479211578257048">Po ruhen kartat...</translation>
 <translation id="1060320201901229167">Zarf Kaku 5</translation>
 <translation id="10614374240317010">Nuk u ruaj asnjëherë</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Shto emrin në kartë</translation>
 <translation id="1089439967362294234">Ndrysho fjalëkalimin</translation>
 <translation id="1096545575934602868">Kjo fushë nuk duhet të ketë më shumë se <ph name="MAX_ITEMS_LIMIT" /> regjistrime. Të gjitha regjistrimet e mëtejshme do të refuzohen.</translation>
-<translation id="1100782917270858593">Butoni "Vazhdo udhëtimin". Shtyp "Enter" për të vazhduar udhëtimin tënd dhe për të parë aktivitetin përkatës në historikun tënd të Chrome</translation>
+<translation id="3985486898664025513">Butoni "Vazhdo udhëtimin". Shtyp "Enter" për të vazhduar udhëtimin tënd dhe për të parë aktivitetin përkatës në historikun tënd të WEB3 DNA Browser</translation>
 <translation id="1101672080107056897">Veprimi i gabimit</translation>
 <translation id="1103523840287552314">Përkthe gjithmonë nga <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Ke futur fjalëkalimin tënd në një sajt që nuk menaxhohet nga organizata jote. Për të mbrojtur llogarinë tënde, mos e ripërdor fjalëkalimin në aplikacione dhe sajte të tjera.</translation>
 <translation id="1257553931232494454">nivelet e zmadhimit</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar cilësimet e Chrome</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar cilësimet e WEB3 DNA Browser</translation>
 <translation id="1263231323834454256">Lista e leximit</translation>
 <translation id="1264309058268477500">Alternative</translation>
 <translation id="1264974993859112054">Sport</translation>
@@ -131,7 +131,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="1285320974508926690">Asnjëherë mos e përkthe këtë sajt</translation>
 <translation id="1288548991597756084">Ruaje kartën në mënyrë të sigurt</translation>
 <translation id="1292571435393770077">Tabakaja 16</translation>
-<translation id="1292701964462482250">"Një softuer në kompjuterin tënd po e ndalon Chrome që të lidhet në mënyrë të sigurt me uebin" (vetëm kompjuterët me Windows)</translation>
+<translation id="3610512443326918645">"Një softuer në kompjuterin tënd po e ndalon WEB3 DNA Browser që të lidhet në mënyrë të sigurt me uebin" (vetëm kompjuterët me Windows)</translation>
 <translation id="1293797321964802402">Zarf 9 x 11 inç</translation>
 <translation id="1294154142200295408">Variantet e rreshtit të komandës</translation>
 <translation id="129553762522093515">Të mbyllura së fundi</translation>
@@ -150,7 +150,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="1323433172918577554">Shfaq më shumë</translation>
 <translation id="132390688737681464">Ruaj dhe plotëso adresat</translation>
 <translation id="1330449323196174374">Palosje me dritare majtas</translation>
-<translation id="1333745675627230582">Luaj lojën Chrome Dino</translation>
+<translation id="6227572462599550594">Luaj lojën WEB3 DNA Browser Dino</translation>
 <translation id="1333989956347591814">Aktiviteti yt <ph name="BEGIN_EMPHASIS" />mund të jetë përsëri i dukshëm<ph name="END_EMPHASIS" /> për:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Sajtet e uebit që viziton
@@ -223,7 +223,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="1483493594462132177">Dërgo</translation>
 <translation id="1484290072879560759">Zgjidh adresën e dërgimit</translation>
 <translation id="1492194039220927094">Politikat e detyruara:</translation>
-<translation id="149293076951187737">Kur mbyll të gjitha skedat "e fshehta" në Chrome, aktiviteti yt në këto skeda fshihet nga kjo pajisje:
+<translation id="3175654283800723944">Kur mbyll të gjitha skedat "e fshehta" në WEB3 DNA Browser, aktiviteti yt në këto skeda fshihet nga kjo pajisje:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Aktiviteti i shfletimit<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Historiku i kërkimeve<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="154408704832528245">Zgjidh adresën e dorëzimit</translation>
 <translation id="1549470594296187301">Duhet të aktivizohet JavaScript për të përdorur këtë funksion.</translation>
 <translation id="1551884710160394169">Freeware dhe shareware</translation>
-<translation id="1553358976309200471">Përditëso Chrome</translation>
+<translation id="1553358976309200471">Përditëso WEB3 DNA Browser</translation>
 <translation id="1555130319947370107">E kaltër</translation>
 <translation id="1559447966090556585">Dëshiron të marrësh njoftime?</translation>
 <translation id="1559528461873125649">Nuk ka skedar apo direktori të tillë</translation>
@@ -263,7 +263,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="156703335097561114">Informacioni i rrjetit, si p.sh. adresat, konfigurimi i ndërfaqes dhe cilësia e lidhjes</translation>
 <translation id="1567040042588613346">Kjo politikë funksionon sipas parashikimit, por diku është caktuar e njëjta vlerë dhe ajo është zëvendësuar nga kjo politikë.</translation>
 <translation id="1569487616857761740">Fut datën e skadimit</translation>
-<translation id="1569694109004336106">Google Chrome po përpiqet të aktivizojë Windows Hello për plotësimin e fjalëkalimeve.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser po përpiqet të aktivizojë Windows Hello për plotësimin e fjalëkalimeve.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> inç</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Shkoi diçka keq kur po shfaqej faqja e uebit.</translation>
@@ -273,7 +273,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="1594030484168838125">Zgjidh</translation>
 <translation id="1596296697375291157">Filmat melodramë, krim dhe mister</translation>
 <translation id="1599199147673445968">Kartë e re? <ph name="BEGIN_LINK" />Fut detajet e kartës<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Luaj lojën Dino Run në Chrome</translation>
+<translation id="160851722280695521">Luaj lojën Dino Run në WEB3 DNA Browser</translation>
 <translation id="161042844686301425">E bruztë</translation>
 <translation id="1611101756749861742">Ruli i dytë</translation>
 <translation id="1615402009686901181">Politika e administratorit çaktivizon regjistrimin e ekranit kur përmbajtja konfidenciale është e dukshme</translation>
@@ -293,13 +293,13 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="1642410292376109062">Butoni "Ndrysho fjalëkalimin e Google", shtyp Enter për të ndryshuar fjalëkalimin e "Llogarisë sate të Google"</translation>
 <translation id="1644574205037202324">Historiku</translation>
 <translation id="1645368109819982629">Protokolli nuk mbështetet</translation>
-<translation id="1650602712345345441">Menaxho cilësimet e tua të Chrome</translation>
+<translation id="1650602712345345441">Menaxho cilësimet e tua të WEB3 DNA Browser</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome e ka thjeshtuar këtë faqe për ta bërë më të lehtë për t'u lexuar. Chrome e mori faqen origjinale nëpërmjet një lidhjeje të sigurt.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser e ka thjeshtuar këtë faqe për ta bërë më të lehtë për t'u lexuar. WEB3 DNA Browser e mori faqen origjinale nëpërmjet një lidhjeje të sigurt.</translation>
 <translation id="1656489000284462475">Marrja</translation>
 <translation id="1658918301167915956">Pajisjet me Bluetooth</translation>
 <translation id="1662550410081243962">Ruaj dhe plotëso mënyrat e pagesës</translation>
-<translation id="1663943134801823270">Kartat dhe adresat janë nga Chrome. Ato mund t'i menaxhosh te <ph name="BEGIN_LINK" />Cilësimet<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Kartat dhe adresat janë nga WEB3 DNA Browser. Ato mund t'i menaxhosh te <ph name="BEGIN_LINK" />Cilësimet<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">Faqet në <ph name="SOURCE_LANGUAGE" /> do të përkthehen në <ph name="TARGET_LANGUAGE" /> nga tani e në vazhdim.</translation>
 <translation id="1674504678466460478">Nga <ph name="SOURCE_LANGUAGE" /> në <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Ana e shkurtër në fillim</translation>
@@ -345,9 +345,9 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="1756026472674246267">Hape lidhjen në një skedë të re</translation>
 <translation id="175656076281618225">Magjia</translation>
 <translation id="1757773103848038814">Fonti me hapësirë fikse</translation>
-<translation id="1763864636252898013">Ky server nuk mundi të dëshmonte se ky është <ph name="DOMAIN" />; certifikata e tij e sigurisë nuk është e besueshme nga Chromium. Kjo mund të shkaktohet nga keqkonfigurimi ose ndonjë sulmues që po kap lidhjen tënde.</translation>
+<translation id="1763864636252898013">Ky server nuk mundi të dëshmonte se ky është <ph name="DOMAIN" />; certifikata e tij e sigurisë nuk është e besueshme nga WEB3 DNA Browser. Kjo mund të shkaktohet nga keqkonfigurimi ose ndonjë sulmues që po kap lidhjen tënde.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Provo të ekzekutosh diagnostikimin e rrjetit të Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Mëso më shumë për modalitetin "I fshehtë" në Chromium<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Mëso më shumë për modalitetin "I fshehtë" në WEB3 DNA Browser<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Skedat e tua të hapura shfaqen këtu</translation>
 <translation id="1791429645902722292">Smart Lock-u i Google</translation>
@@ -398,11 +398,11 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="1919526244108283799">400 x 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Asnjë}=1{1 sajt}other{# sajte}}</translation>
 <translation id="1924727005275031552">I ri</translation>
-<translation id="1927439593081478069">Ekzekuto butonin e kontrollit të sigurisë të Chrome, shtyp "Enter" për të ekzekutuar një kontroll sigurie te cilësimet e Chrome</translation>
+<translation id="1927439593081478069">Ekzekuto butonin e kontrollit të sigurisë të WEB3 DNA Browser, shtyp "Enter" për të ekzekutuar një kontroll sigurie te cilësimet e WEB3 DNA Browser</translation>
 <translation id="1935995810530254458">Kopjo gjithsesi</translation>
 <translation id="1939175642807587452">Mund të kërkojë të dërgojë njoftime</translation>
 <translation id="1943994668912612445">Dizajni</translation>
-<translation id="1945968466830820669">Mund të humbasësh qasjen në llogarinë e organizatës ose mund të pësosh vjedhje të identitetit. Chromium rekomandon që ta ndryshosh fjalëkalimin tani.</translation>
+<translation id="5087943717045213809">Mund të humbasësh qasjen në llogarinë e organizatës ose mund të pësosh vjedhje të identitetit. WEB3 DNA Browser rekomandon që ta ndryshosh fjalëkalimin tani.</translation>
 <translation id="1946849748901605102">12 x 15 inç</translation>
 <translation id="1947454675006758438">Kapje me tel lart djathtas</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -425,8 +425,8 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2001146170449793414">{COUNT,plural, =1{dhe 1 tjetër}other{dhe # të tjera}}</translation>
 <translation id="2003709556000175978">Rivendos fjalëkalimin tënd tani</translation>
 <translation id="2003775180883135320">Katër shpime lart</translation>
-<translation id="201174227998721785">Menaxho lejet dhe të dhënat e ruajtura nëpër sajte te cilësimet e Chrome</translation>
-<translation id="2019607688127825327">Butoni "Menaxho cilësimet e qasshmërisë". Shtyp "Enter" për të personalizuar veglat e qasshmërisë te cilësimet e Chrome</translation>
+<translation id="201174227998721785">Menaxho lejet dhe të dhënat e ruajtura nëpër sajte te cilësimet e WEB3 DNA Browser</translation>
+<translation id="2019607688127825327">Butoni "Menaxho cilësimet e qasshmërisë". Shtyp "Enter" për të personalizuar veglat e qasshmërisë te cilësimet e WEB3 DNA Browser</translation>
 <translation id="202224654587969958">12 x 19 inç</translation>
 <translation id="2025115093177348061">Realiteti i zgjeruar</translation>
 <translation id="2025186561304664664">Përfaqësuesi është i caktuar për konfigurim automatik.</translation>
@@ -443,7 +443,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2048261947532620704">Faqja po përkthet</translation>
 <translation id="205212645995975601">Skara dhe pjekja në skarë</translation>
 <translation id="2053111141626950936">Faqet në <ph name="LANGUAGE" /> nuk do të përkthehen.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Kur ky kontroll është aktiv dhe statusi është aktiv, Chrome përcakton se me cilin grup të madh personash (kohortë) është më i ngjashëm aktiviteti yt i shfletimit së fundi. Reklamuesit mund të zgjedhin reklamat për grupin dhe aktiviteti yt i shfletimit mbahet privat në pajisjen tënde. Grupi yt përditësohet çdo ditë.}=1{Kur ky kontroll është aktiv dhe statusi është aktiv, Chrome përcakton se me cilin grup të madh personash (kohortë) është më i ngjashëm aktiviteti yt i shfletimit së fundi. Reklamuesit mund të zgjedhin reklamat për grupin dhe aktiviteti yt i shfletimit mbahet privat në pajisjen tënde. Grupi yt përditësohet çdo ditë.}other{Kur ky kontroll është aktiv dhe statusi është aktiv, Chrome përcakton se me cilin grup të madh personash (kohortë) është më i ngjashëm aktiviteti yt i shfletimit së fundi. Reklamuesit mund të zgjedhin reklamat për grupin dhe aktiviteti yt i shfletimit mbahet privat në pajisjen tënde. Grupi yt përditësohet çdo {NUM_DAYS} ditë.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Kur ky kontroll është aktiv dhe statusi është aktiv, WEB3 DNA Browser përcakton se me cilin grup të madh personash (kohortë) është më i ngjashëm aktiviteti yt i shfletimit së fundi. Reklamuesit mund të zgjedhin reklamat për grupin dhe aktiviteti yt i shfletimit mbahet privat në pajisjen tënde. Grupi yt përditësohet çdo ditë.}=1{Kur ky kontroll është aktiv dhe statusi është aktiv, WEB3 DNA Browser përcakton se me cilin grup të madh personash (kohortë) është më i ngjashëm aktiviteti yt i shfletimit së fundi. Reklamuesit mund të zgjedhin reklamat për grupin dhe aktiviteti yt i shfletimit mbahet privat në pajisjen tënde. Grupi yt përditësohet çdo ditë.}other{Kur ky kontroll është aktiv dhe statusi është aktiv, WEB3 DNA Browser përcakton se me cilin grup të madh personash (kohortë) është më i ngjashëm aktiviteti yt i shfletimit së fundi. Reklamuesit mund të zgjedhin reklamat për grupin dhe aktiviteti yt i shfletimit mbahet privat në pajisjen tënde. Grupi yt përditësohet çdo {NUM_DAYS} ditë.}}</translation>
 <translation id="2059202684901022309">22 x 34 inç</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 sugjerim}other{# sugjerime}}</translation>
 <translation id="2066915425250589881">të kërkosh që të fshihen</translation>
@@ -455,9 +455,9 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="20817612488360358">Cilësimet e përfaqësuesit të sistemit janë caktuar që të përdoren, por është specifikuar po ashtu një konfigurim i qartë i përfaqësuesit.</translation>
 <translation id="2082238445998314030">Rezultati <ph name="RESULT_NUMBER" /> nga <ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">Ruaj…</translation>
-<translation id="2088086323192747268">Butoni "Menaxho sinkronizimin". Shtyp "Enter" për të menaxhuar se çfarë informacionesh sinkronizon ti te cilësimet e Chrome</translation>
+<translation id="2088086323192747268">Butoni "Menaxho sinkronizimin". Shtyp "Enter" për të menaxhuar se çfarë informacionesh sinkronizon ti te cilësimet e WEB3 DNA Browser</translation>
 <translation id="2091887806945687916">Tingulli</translation>
-<translation id="2093982008204312032">Google Chrome po përpiqet të çaktivizojë Windows Hello për plotësimin e fjalëkalimeve.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser po përpiqet të çaktivizojë Windows Hello për plotësimin e fjalëkalimeve.</translation>
 <translation id="2094505752054353250">Mospërputhje domeni</translation>
 <translation id="2099652385553570808">Tri kapje me tel majtas</translation>
 <translation id="2101225219012730419">Versioni:</translation>
@@ -540,7 +540,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2292556288342944218">Qasja jote në internet është bllokuar</translation>
 <translation id="2293443924986248631">Kur është aktivizuar, sajtet nuk mund t'i përdorin kukit për të të monitoruar në ueb. Veçoritë në disa sajte mund të ndalojnë së funksionuari.</translation>
 <translation id="2295290966866883927">URL-të e faqeve që viziton i dërgohen Google Cloud ose palëve të treta për analizim. Për shembull, mund të skanohen për të zbuluar faqe interneti të pasigurta.</translation>
-<translation id="2298855485018661510">Butoni "Menaxho kukit". Shtyp "Enter" për të menaxhuar preferencat e tua për kukit te cilësimet e Chrome</translation>
+<translation id="2298855485018661510">Butoni "Menaxho kukit". Shtyp "Enter" për të menaxhuar preferencat e tua për kukit te cilësimet e WEB3 DNA Browser</translation>
 <translation id="2300306941146563769">Pa ngarkuar</translation>
 <translation id="2316159751672436664">Personalizo veglat e qasshmërisë te cilësimet e ChromeOS</translation>
 <translation id="2316887270356262533">Liron më pak se 1 MB. Disa sajte mund të ngarkohen më ngadalë gjatë vizitës tënde të radhës.</translation>
@@ -568,9 +568,9 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="236340516568226369">Ndrysho përmasat e menysë së aktivizimit/çaktivizimit</translation>
 <translation id="2367567093518048410">Niveli</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Personalizo veglat e qasshmërisë te cilësimet e Chrome</translation>
+<translation id="2383455408879745299">Personalizo veglat e qasshmërisë te cilësimet e WEB3 DNA Browser</translation>
 <translation id="2384307209577226199">Parazgjedhja e ndërmarrjes</translation>
-<translation id="2385809941344967209">Përditësoje Chrome nga cilësimet e tua të Chrome</translation>
+<translation id="2385809941344967209">Përditësoje WEB3 DNA Browser nga cilësimet e tua të WEB3 DNA Browser</translation>
 <translation id="2386255080630008482">Certifikata e serverit është revokuar.</translation>
 <translation id="239293030466334554">Kabrioletë</translation>
 <translation id="2392959068659972793">Shfaq politikat pa asnjë vlerë të caktuar</translation>
@@ -589,7 +589,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2463739503403862330">Plotëso</translation>
 <translation id="2465655957518002998">Zgjidh mënyrën e dorëzimit</translation>
 <translation id="2465688316154986572">Kapje me tel</translation>
-<translation id="2465914000209955735">Menaxho skedarët që ke shkarkuar në Chrome</translation>
+<translation id="2465914000209955735">Menaxho skedarët që ke shkarkuar në WEB3 DNA Browser</translation>
 <translation id="2466004615675155314">Shfaq informacione nga uebi</translation>
 <translation id="2467272921457885625">Specifikimet dhe statistikat e harduerit të pajisjes, si p.sh. historiku i përdorimit të CPU/RAM</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Po ekzekuton diagnostikimin e rrjetit<ph name="END_LINK" /></translation>
@@ -606,7 +606,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2505268675989099013">Mbroje llogarinë</translation>
 <translation id="2509167091171468975">Shitësit me pakicë të ushqimeve dhe produkteve ushqimore</translation>
 <translation id="2512101340618156538">Nuk lejohet (e parazgjedhur)</translation>
-<translation id="2512413427717747692">Cakto Chrome si butonin e shfletuesit të parazgjedhur; shtyp "Enter" për të caktuar Chrome si shfletuesin e parazgjedhur të sistemit te cilësimet e iOS</translation>
+<translation id="2512413427717747692">Cakto WEB3 DNA Browser si butonin e shfletuesit të parazgjedhur; shtyp "Enter" për të caktuar WEB3 DNA Browser si shfletuesin e parazgjedhur të sistemit te cilësimet e iOS</translation>
 <translation id="2515629240566999685">Të kontrollosh sinjalin në zonën tënde</translation>
 <translation id="2515761554693942801">Ti zgjodhe që të verifikohesh me Touch ID në sajtet e uebit që përdorin <ph name="PROVIDER_ORIGIN" />. Ky ofrues mund të ketë ruajtur informacione për mënyrën tënde të pagesës, të cilat mund <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Kapje me tel poshtë djathtas</translation>
@@ -623,7 +623,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2542106216580219892">Sërfi</translation>
 <translation id="2544546346215446551">Administratori yt rinisi pajisjen tënde</translation>
 <translation id="2544644783021658368">Një dokument i vetëm</translation>
-<translation id="254524874071906077">Cakto Chrome si shfletuesin e parazgjedhur</translation>
+<translation id="1319028298140338735">Cakto WEB3 DNA Browser si shfletuesin e parazgjedhur</translation>
 <translation id="2546283357679194313">Kukit dhe të dhënat e faqes</translation>
 <translation id="2547466893236767989">Dizajnimi dhe zhvillimi i uebit</translation>
 <translation id="254947805923345898">Vlera e politikës nuk është e vlefshme.</translation>
@@ -638,19 +638,19 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2570734079541893434">Menaxho cilësimet</translation>
 <translation id="2573834589046842510">Printimi dhe publikimi</translation>
 <translation id="257674075312929031">Grup</translation>
-<translation id="2576880857912732701">Butoni "Menaxho cilësimet e sigurisë". Shtyp "Enter" për të menaxhuar "Shfletimin e sigurt" dhe më shumë te cilësimet e Chrome</translation>
+<translation id="2576880857912732701">Butoni "Menaxho cilësimet e sigurisë". Shtyp "Enter" për të menaxhuar "Shfletimin e sigurt" dhe më shumë te cilësimet e WEB3 DNA Browser</translation>
 <translation id="2586657967955657006">Kujtesa e fragmenteve</translation>
 <translation id="2587730715158995865">Nga <ph name="ARTICLE_PUBLISHER" />. Lexo këtë dhe <ph name="OTHER_ARTICLE_COUNT" /> artikuj të tjerë.</translation>
 <translation id="2587841377698384444">ID-ja e ndërfaqes API të direktorisë:</translation>
 <translation id="2594318783181750337">Pamja e shpejtë e uebit:</translation>
 <translation id="2595719060046994702">Kjo pajisje dhe llogari nuk menaxhohen nga një kompani ose organizatë tjetër.</translation>
-<translation id="2596415276201385844">Për të krijuar një lidhje të sigurt, ora duhet të vendoset në mënyrë të saktë. Kjo është e domosdoshme për shkak se certifikatat, që faqet e internetit i përdorin për të identifikuar vetveten, janë të vlefshme vetëm për periudha specifike kohore. Meqenëse ora e pajisjes është e pasaktë, Chrome nuk mund t'i verifikojë këto certifikata.</translation>
+<translation id="7968235694092767490">Për të krijuar një lidhje të sigurt, ora duhet të vendoset në mënyrë të saktë. Kjo është e domosdoshme për shkak se certifikatat, që faqet e internetit i përdorin për të identifikuar vetveten, janë të vlefshme vetëm për periudha specifike kohore. Meqenëse ora e pajisjes është e pasaktë, WEB3 DNA Browser nuk mund t'i verifikojë këto certifikata.</translation>
 <translation id="2597378329261239068">Ky dokument mbrohet me fjalëkalim. Fut një fjalëkalim.</translation>
 <translation id="259821504105826686">Artet fotografike dhe dixhitale</translation>
 <translation id="2601150049980261779">Filmat romantikë</translation>
 <translation id="2604589665489080024">Muzika pop</translation>
 <translation id="2610561535971892504">Kliko për të kopjuar</translation>
-<translation id="2617988307566202237">Chrome <ph name="BEGIN_EMPHASIS" />nuk do të ruajë<ph name="END_EMPHASIS" /> informacionet e mëposhtme:
+<translation id="6174516088921923215">WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />nuk do të ruajë<ph name="END_EMPHASIS" /> informacionet e mëposhtme:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Historikun tënd të shfletimit
             <ph name="LIST_ITEM" />Kukit dhe të dhënat e sajteve
@@ -658,14 +658,14 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
           <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Ora jote është përpara</translation>
 <translation id="262745152991669301">Mund të kërkojë të lidhet me pajisjet me USB</translation>
-<translation id="2629325967560697240">Për të marrë nivelin më të lartë të sigurisë së Chrome, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />aktivizo mbrojtjen e përmirësuar<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">Për të marrë nivelin më të lartë të sigurisë së WEB3 DNA Browser, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />aktivizo mbrojtjen e përmirësuar<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">Adresa e IP-së së serverit të <ph name="HOST_NAME" /> nuk mund të gjendej.</translation>
 <translation id="2639739919103226564">Statusi:</translation>
 <translation id="2643134278432436513">Kujdesi për flokët</translation>
 <translation id="2647852283046201479">Lojërat strategjike</translation>
 <translation id="264810637653812429">Nuk u gjetën pajisje të përputhshme.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të pastruar historikun e shfletimit, kukit, memorien specifike etj. te cilësimet e Chrome</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të pastruar historikun e shfletimit, kukit, memorien specifike etj. te cilësimet e WEB3 DNA Browser</translation>
 <translation id="2650446666397867134">Qasja te skedari u refuzua</translation>
 <translation id="2653659639078652383">Dërgoje</translation>
 <translation id="2657637947725373811">{0,plural, =1{Të transferohet skedari konfidencial?}other{Të transferohen skedarët konfidencialë?}}</translation>
@@ -693,11 +693,11 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2705137772291741111">Kopja e ruajtur (në memorien specifike) të këtij sajti ishte e palexueshme.</translation>
 <translation id="2709516037105925701">Plotëso automatikisht</translation>
 <translation id="2713444072780614174">E bardhë</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të menaxhuar informacionet e pagesave dhe të kartës së kreditit te cilësimet e Chrome</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të menaxhuar informacionet e pagesave dhe të kartës së kreditit te cilësimet e WEB3 DNA Browser</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Shtyp |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| për të dalë nga ekrani i plotë</translation>
 <translation id="2721148159707890343">Kërkesa pati sukses</translation>
-<translation id="2723669454293168317">Ekzekuto një kontroll sigurie te cilësimet e Chrome</translation>
+<translation id="2723669454293168317">Ekzekuto një kontroll sigurie te cilësimet e WEB3 DNA Browser</translation>
 <translation id="2726001110728089263">Tabakaja rrëshqitëse</translation>
 <translation id="2728127805433021124">Certifikata e serverit është nënshkruar duke përdorur një algoritëm të dobët nënshkrimi.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Po ekzekuton diagnostikimin e lidhjes<ph name="END_LINK" /></translation>
@@ -737,7 +737,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="287596039013813457">Miqësor</translation>
 <translation id="28761159517501904">Filmat</translation>
 <translation id="2876489322757410363">Po del nga modaliteti "i fshehtë" për të paguar nëpërmjet një aplikacioni të jashtëm. Të vazhdohet?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar "Shfletimin e sigurt" dhe më shumë te cilësimet e Chrome</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar "Shfletimin e sigurt" dhe më shumë te cilësimet e WEB3 DNA Browser</translation>
 <translation id="2878197950673342043">Palosje posteri</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Të ruhet karta?</translation>
@@ -749,7 +749,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="290376772003165898">Faqja nuk është në <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">U zbulua një ndryshim i rrjetit.</translation>
 <translation id="2911973620368911614">ID-ja e përdoruesit të llogarisë së punës</translation>
-<translation id="2914160345369867329"><ph name="SITE" /> përdor zakonisht enkriptimin për mbrojtjen e informacionit tënd. Kur Chrome u përpoq të lidhej me <ph name="SITE" /> këtë herë, sajti i uebit dërgoi prapa kredenciale të pazakonta dhe të pasakta. Kjo mund të ndodhë kur një sulmues po përpiqet të pretendojë se është <ph name="SITE" /> ose lidhja është ndërprerë nga një ekran i identifikimit të Wi-Fi. Informacioni yt është ende i sigurt sepse Chrome e ndaloi lidhjen para se të shkëmbehej ndonjë e dhënë.</translation>
+<translation id="6754677106668042373"><ph name="SITE" /> përdor zakonisht enkriptimin për mbrojtjen e informacionit tënd. Kur WEB3 DNA Browser u përpoq të lidhej me <ph name="SITE" /> këtë herë, sajti i uebit dërgoi prapa kredenciale të pazakonta dhe të pasakta. Kjo mund të ndodhë kur një sulmues po përpiqet të pretendojë se është <ph name="SITE" /> ose lidhja është ndërprerë nga një ekran i identifikimit të Wi-Fi. Informacioni yt është ende i sigurt sepse WEB3 DNA Browser e ndaloi lidhjen para se të shkëmbehej ndonjë e dhënë.</translation>
 <translation id="2915068235268646559">Ndërprerje aksidentale nga <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Pikturimi</translation>
 <translation id="2916038427272391327">Mbyll programet e tjera</translation>
@@ -766,7 +766,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2943895734390379394">Koha e ngarkimit:</translation>
 <translation id="2945026002409061480">Komunitetet në linjë</translation>
 <translation id="2948083400971632585">Mund të çaktivizosh çdo përfaqësues të konfiguruar për një lidhje nga faqja e cilësimeve.</translation>
-<translation id="2949183777371959169">Shpërfillur sepse pajisja nuk është regjistruar me Chrome Browser Cloud Management.</translation>
+<translation id="7786089409521529641">Shpërfillur sepse pajisja nuk është regjistruar me WEB3 DNA Browser Browser Cloud Management.</translation>
 <translation id="2951588413176968965">Kutia ime postare</translation>
 <translation id="2952820037279740115">Mbylli të gjitha dritaret "e fshehta"</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -780,7 +780,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="2977665033722899841"><ph name="ROW_NAME" />, aktualisht e zgjedhur. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2983666748527428214">Hap skedën "e fshehtë"</translation>
-<translation id="2985306909656435243">Nëse aktivizohet, Chromium do të ruajë një kopje të kartës tënde në këtë pajisje për plotësim më të shpejtë të formularit.</translation>
+<translation id="6458065442802745995">Nëse aktivizohet, WEB3 DNA Browser do të ruajë një kopje të kartës tënde në këtë pajisje për plotësim më të shpejtë të formularit.</translation>
 <translation id="2985398929374701810">Fut një adresë të vlefshme</translation>
 <translation id="2986368408720340940">Kjo mënyrë marrjeje nuk ofrohet. Provo një mënyrë tjetër.</translation>
 <translation id="2987034854559945715">Nuk ka asnjë veçori që përputhet</translation>
@@ -802,7 +802,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3037177537145227281">Çmimi po monitorohet</translation>
 <translation id="3037605927509011580">Ndërprerje aksidentale!</translation>
 <translation id="3041612393474885105">Informacioni i certifikatës</translation>
-<translation id="305162504811187366">Historiku i "Desktopit në distancë të Chrome", duke përfshirë vulat kohore, organizatorët dhe ID-të e seancës së klientit.</translation>
+<translation id="6009592758194948058">Historiku i "Desktopit në distancë të WEB3 DNA Browser", duke përfshirë vulat kohore, organizatorët dhe ID-të e seancës së klientit.</translation>
 <translation id="3052964831964880138"><ph name="PRICE_DROP" /> ulje çmimi në <ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Shërbimi i korrigjimit</translation>
 <translation id="306573536155379004">Loja filloi.</translation>
@@ -850,7 +850,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3194737229810486521"><ph name="URL" /> kërkon të ruajë në mënyrë të përhershme të dhëna në pajisjen tënde</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> në <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Mund të kërkojë të dijë kur e përdor pajisjen tënde në mënyrë aktive</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar se çfarë informacionesh sinkronizon ti te cilësimet e Chrome</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar se çfarë informacionesh sinkronizon ti te cilësimet e WEB3 DNA Browser</translation>
 <translation id="320323717674993345">Anulo pagesën</translation>
 <translation id="3203366800380907218">Nga uebi</translation>
 <translation id="3207960819495026254">Regjistruar në faqeshënues</translation>
@@ -874,7 +874,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të personalizuar pamjen e shfletuesit tënd</translation>
 <translation id="3240791268468473923">Kredenciali i pagesës së sigurt pa fletë përkatëse kredenciali është i hapur</translation>
 <translation id="324180406144491771">Lidhjet e "<ph name="HOST_NAME" />" janë bllokuar</translation>
-<translation id="3248611290851046188">Ky sajt përcakton interesat që sajtet e tjera mund të përdorin për të të shfaqur reklama. Gjithashtu, ky sajt merr interesat e tua nga Chrome për të të shfaqur reklama më të përshtatshme</translation>
+<translation id="8141792378421105106">Ky sajt përcakton interesat që sajtet e tjera mund të përdorin për të të shfaqur reklama. Gjithashtu, ky sajt merr interesat e tua nga WEB3 DNA Browser për të të shfaqur reklama më të përshtatshme</translation>
 <translation id="3249151924975132674">Kreditë studentore dhe financimi për kolegjin</translation>
 <translation id="3249845759089040423">Moderne</translation>
 <translation id="3250640885957938546">Reklamimi dhe marketingu</translation>
@@ -884,7 +884,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3256863843508922226">Dalja në pension dhe pensioni</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp Tab pastaj Enter për të krijuar shpejt një ngjarje të re në "Google Calendar"</translation>
 <translation id="3261488570342242926">Mëso rreth kartave virtuale</translation>
-<translation id="3264837738038045344">Butoni "Menaxho cilësimet e Chrome". Shtyp "Enter" për të vizituar cilësimet e Chrome</translation>
+<translation id="3264837738038045344">Butoni "Menaxho cilësimet e WEB3 DNA Browser". Shtyp "Enter" për të vizituar cilësimet e WEB3 DNA Browser</translation>
 <translation id="3266793032086590337">Vlera (konflikt)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Nuk është bllokuar asnjë sajt, duke përfshirë sajtet e lidhura}=1{1 sajt i bllokuar, duke përfshirë sajtet e lidhura}other{# sajte të lidhura, duke përfshirë sajtet e lidhura}}</translation>
 <translation id="3268451620468152448">Hap skedat</translation>
@@ -898,7 +898,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3287510313208355388">Shkarko kur të jetë në linjë</translation>
 <translation id="3288238092761586174"><ph name="URL" /> mund të duhet të marrë hapa të mëtejshëm për të verifikuar pagesën tënde</translation>
 <translation id="3293642807462928945">Mëso më shumë për politikën <ph name="POLICY_NAME" /></translation>
-<translation id="3295444047715739395">Shiko dhe menaxho fjalëkalimet e tua te cilësimet e Chrome</translation>
+<translation id="3295444047715739395">Shiko dhe menaxho fjalëkalimet e tua te cilësimet e WEB3 DNA Browser</translation>
 <translation id="3299098170013242198">Windows Hello është aktiv për plotësimin e fjalëkalimeve</translation>
 <translation id="3303176609391916566">30 x 42 inç</translation>
 <translation id="3303855915957856445">Nuk u gjetën rezultate kërkimi</translation>
@@ -928,9 +928,9 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3366477098757335611">Shiko kartat</translation>
 <translation id="3369192424181595722">Gabim i orës</translation>
 <translation id="3369459162151165748">Pjesët dhe aksesorët e automjeteve</translation>
-<translation id="3371064404604898522">Cakto Chrome si shfletuesin e parazgjedhur</translation>
+<translation id="3371064404604898522">Cakto WEB3 DNA Browser si shfletuesin e parazgjedhur</translation>
 <translation id="337363190475750230">Qasja u çaktivizua</translation>
-<translation id="3375754925484257129">Ekzekuto kontrollin e sigurisë të Chrome</translation>
+<translation id="3375754925484257129">Ekzekuto kontrollin e sigurisë të WEB3 DNA Browser</translation>
 <translation id="3377144306166885718">Serveri ka përdorur një version të vjetruar të protokollit TLS.</translation>
 <translation id="3377188786107721145">Gabim i analizimit të politikës</translation>
 <translation id="3377736046129930310">Përdor kyçjen e ekranit për të konfirmuar kartat më shpejt</translation>
@@ -954,7 +954,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3423742043356668186">Specifikuar nga sistemi</translation>
 <translation id="3427092606871434483">Lejo (parazgjedhja)</translation>
 <translation id="3427342743765426898">&amp;Ribëj redaktimin</translation>
-<translation id="342781501876943858">Chromium rekomandon rivendosjen e fjalëkalimit tënd nëse e ke ripërdorur në sajte të tjera.</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser rekomandon rivendosjen e fjalëkalimit tënd nëse e ke ripërdorur në sajte të tjera.</translation>
 <translation id="3428151540071562330">Një ose disa nga URI-të e shablloneve të serverit DnsOverHttpsTemplates janë të pavlefshme dhe nuk do të përdoren.</translation>
 <translation id="3431216045099978607">Shtyp |<ph name="ACCELERATOR" />| për të dalë nga ekrani i plotë dhe për të parë shkarkimin.</translation>
 <translation id="3431636764301398940">Ruaje këtë kartë në këtë pajisje</translation>
@@ -976,7 +976,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të mbyllur të gjitha dritaret "e fshehta" që janë aktualisht të hapura</translation>
 <translation id="3477679029130949506">Listimet e filmave dhe oraret e shfaqjeve në kinema</translation>
 <translation id="3479552764303398839">Jo tani</translation>
-<translation id="3484560055331845446">Mund të humbësh qasjen në "Llogarinë tënde të Google". Chrome rekomandon që ta ndryshosh fjalëkalimin tani. Do të të kërkohet që të identifikohesh.</translation>
+<translation id="2148205384604312372">Mund të humbësh qasjen në "Llogarinë tënde të Google". WEB3 DNA Browser rekomandon që ta ndryshosh fjalëkalimin tani. Do të të kërkohet që të identifikohesh.</translation>
 <translation id="3484861421501147767">Rikujtesë: Një kod promocional i ruajtur është i disponueshëm</translation>
 <translation id="3487845404393360112">Tabakaja 4</translation>
 <translation id="3495081129428749620">Gjej në faqen
@@ -984,7 +984,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="350069200438440499">Emri i dosjes:</translation>
 <translation id="3507936815618196901">Të krijojë një hartë 3D të ambientit tënd rrethues dhe të gjurmojë pozicionin e kamerës</translation>
 <translation id="3512163584740124171">Kjo politikë shpërfillet pasi një politikë tjetër nga i njëjti grup politikash ka përparësi më të lartë.</translation>
-<translation id="35172538073169599">Butoni "Menaxho adresat". Shtyp "Enter" për të shtuar dhe menaxhuar adresat te cilësimet e Chrome</translation>
+<translation id="35172538073169599">Butoni "Menaxho adresat". Shtyp "Enter" për të shtuar dhe menaxhuar adresat te cilësimet e WEB3 DNA Browser</translation>
 <translation id="3518941727116570328">Menaxhimi i shumë objekteve</translation>
 <translation id="3525130752944427905">10 x 14 inç</translation>
 <translation id="3528171143076753409">Certifikata e serverit nuk është e besuar.</translation>
@@ -1011,7 +1011,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3576616784287504635">Një faqe e integruar në <ph name="SITE" /> thotë</translation>
 <translation id="3577473026931028326">Ndodhi një gabim. Provo përsëri.</translation>
 <translation id="3577902790357386792">Gjimnastika</translation>
-<translation id="3581089476000296252">Chrome do të të njoftojë kur kjo faqe të jetë gati. &lt;a&gt;Anuloje&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser do të të njoftojë kur kjo faqe të jetë gati. &lt;a&gt;Anuloje&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Shto emrin</translation>
 <translation id="3583757800736429874">&amp;Bëje përsëri zhvendosjen</translation>
 <translation id="3584299510153766161">Dy shpime poshtë</translation>
@@ -1026,7 +1026,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3611317423880285981">Artikujt për shtëpinë</translation>
 <translation id="3614103345592970299">Madhësia 2</translation>
 <translation id="361438452008624280">Regjistrimi i listës "<ph name="LANGUAGE_ID" />": Gjuhë e panjohur ose e pambështetur.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të ekzekutuar një kontroll sigurie te cilësimet e Chrome</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të ekzekutuar një kontroll sigurie te cilësimet e WEB3 DNA Browser</translation>
 <translation id="3615877443314183785">Fut një datë të vlefshme skadimi</translation>
 <translation id="36224234498066874">Pastro të dhënat e shfletimit...</translation>
 <translation id="362276910939193118">Shfaq historikun e plotë</translation>
@@ -1037,9 +1037,9 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3631244953324577188">Sistemet biometrike</translation>
 <translation id="3632503704576938756">"Ndarja e ekranit" rifilloi</translation>
 <translation id="3632892046558972264">"Ndarja e ekranit" është vendosur në pauzë</translation>
-<translation id="3633738897356909127">Butoni "Përditëso Chrome", shtyp "Enter" për të përditësuar Chrome nga cilësimet e Chrome</translation>
+<translation id="3633738897356909127">Butoni "Përditëso WEB3 DNA Browser", shtyp "Enter" për të përditësuar WEB3 DNA Browser nga cilësimet e WEB3 DNA Browser</translation>
 <translation id="3634530185120165534">Tabakaja 5</translation>
-<translation id="3634567936866541746">Sapo e fute fjalëkalimin tënd në një sajt mashtrues. Për të siguruar llogaritë e tua, Chrome rekomandon të kontrollosh fjalëkalimet e ruajtura.</translation>
+<translation id="6586777830476909681">Sapo e fute fjalëkalimin tënd në një sajt mashtrues. Për të siguruar llogaritë e tua, WEB3 DNA Browser rekomandon të kontrollosh fjalëkalimet e ruajtura.</translation>
 <translation id="3642638418806704195">Aplikacioni:</translation>
 <translation id="3647286794400715637">Çdo hyrje e vargjeve të URL-ve duhet të përfshijë nga 1 deri në 2 URL.</translation>
 <translation id="3650584904733503804">Vlerësimi është i suksesshëm</translation>
@@ -1082,7 +1082,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="3740319564441798148">Autobusët dhe trenat për distanca të largëta</translation>
 <translation id="3744111561329211289">Sinkronizimi në sfond</translation>
 <translation id="3744286742364977428">Skedarët që shkarkon dërgohen te Google Cloud ose te palë të treta për analizim. Për shembull, ata mund të skanohen për të dhëna delikate ose softuerë keqdashës dhe mund të ruhen bazuar në politikat e kompanisë.</translation>
-<translation id="3744899669254331632">Nuk mund ta vizitosh <ph name="SITE" /> tani sepse sajti i uebit dërgoi kredenciale të koduara që nuk mund të përpunohen nga Chromium. Gabimet dhe sulmet në rrjet zakonisht janë të përkohshme, kështu që kjo faqe ndoshta do të punojë më vonë.</translation>
+<translation id="3461179235677384837">Nuk mund ta vizitosh <ph name="SITE" /> tani sepse sajti i uebit dërgoi kredenciale të koduara që nuk mund të përpunohen nga WEB3 DNA Browser. Gabimet dhe sulmet në rrjet zakonisht janë të përkohshme, kështu që kjo faqe ndoshta do të punojë më vonë.</translation>
 <translation id="3745099705178523657">Pasi t'i konfirmosh, detajet e kartës nga "Llogaria jote e Google" do të ndahen me këtë sajt.</translation>
 <translation id="3748148204939282805">Sulmuesit në  <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> mund të të mashtrojnë që të bësh diçka të rrezikshme si instalimi i softuerëve ose të zbulosh informacion personal (për shembull, fjalëkalime, numra telefoni ose karta krediti). <ph name="BEGIN_LEARN_MORE_LINK" />Mëso më shumë<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Industria e aviacionit</translation>
@@ -1201,7 +1201,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4097288585054919042">Çaktivizo sinjalizimet</translation>
 <translation id="4098354747657067197">Sajt mashtrues përpara</translation>
 <translation id="4099048595830172239">Politika e administratorit nuk rekomandon ndarjen e ekranit me <ph name="APPLICATION_TITLE" /> kur përmbajtja konfidenciale është e dukshme:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të personalizuar madhësitë e fonteve dhe llojet e karaktereve në Chrome</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të personalizuar madhësitë e fonteve dhe llojet e karaktereve në WEB3 DNA Browser</translation>
 <translation id="4101413244023615925">Teksti dhe grafika</translation>
 <translation id="410148943680000050">Publikimi në desktop</translation>
 <translation id="4103249731201008433">Numri i serisë së pajisjes është i pavlefshëm</translation>
@@ -1253,7 +1253,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4214357935346142455">profili i ekranit të identifikimit</translation>
 <translation id="4220128509585149162">Ndërprerjet aksidentale</translation>
 <translation id="422022731706691852">Sulmuesit në <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> mund të përpiqen të të mashtrojnë të instalosh programe që dëmtojnë përvojën tënde të shfletimit (për shembull, duke ndryshuar faqen kryesore ose duke shfaqur reklama shtesë në faqen që viziton). <ph name="BEGIN_LEARN_MORE_LINK" />Mëso më shumë<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;Hapi 1: Identifikohu në portal&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;Hapi 1: Identifikohu në portal&lt;/h4&gt;
     &lt;p&gt;Rrjetet Wi-Fi në vende të tilla si kafenetë apo aeroportet kërkojnë që të identifikohesh. Për të parë faqen e identifikimit, vizito një faqe që përdor &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Shko te një sajt uebi që fillon me &lt;code&gt;http://&lt;/code&gt;, si &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1261,11 +1261,11 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
     &lt;/ol&gt;
     &lt;h4&gt;Hapi 2: Hap faqen në modalitetin "e fshehtë" (vetëm kompjuter)&lt;/h4&gt;
     &lt;p&gt;Hap faqen që po viziton në një dritare "të fshehtë".&lt;/p&gt;
-    &lt;p&gt;Nëse faqja hapet, një shtesë e Chrome nuk po funksionon siç duhet. Për të rregulluar gabimin, çaktivizo shtesën.&lt;/p&gt;
+    &lt;p&gt;Nëse faqja hapet, një shtesë e WEB3 DNA Browser nuk po funksionon siç duhet. Për të rregulluar gabimin, çaktivizo shtesën.&lt;/p&gt;
     &lt;h4&gt;Hapi 3: Përditëso sistemin operativ&lt;/h4&gt;
     &lt;p&gt;Sigurohu që pajisja jote të jetë e përditësuar.&lt;/p&gt;
     &lt;h4&gt;Hapi 4: Çaktivizo përkohësisht antivirusin&lt;/h4&gt;
-    &lt;p&gt;Do të shohësh këtë gabim nëse ke softuer antivirusi që ofron "Mbrojtje HTTPS" ose "Skanim HTTPS". Antivirusi nuk lejon që Chrome të ofrojë siguri.&lt;/p&gt;
+    &lt;p&gt;Do të shohësh këtë gabim nëse ke softuer antivirusi që ofron "Mbrojtje HTTPS" ose "Skanim HTTPS". Antivirusi nuk lejon që WEB3 DNA Browser të ofrojë siguri.&lt;/p&gt;
     &lt;p&gt;Për të rregulluar problemin, çaktivizo softuerin e antivirusit. Nëse faqja funksionon pasi çaktivizohet softueri, çaktivizo këtë softuer kur përdor sajte të sigurta.&lt;/p&gt;
     &lt;p&gt;Mos harro të aktivizosh sërish programin e antivirusit kur të mbarosh.&lt;/p&gt;
     &lt;h4&gt;Hapi 5: Merr më shumë ndihmë&lt;/h4&gt;
@@ -1301,7 +1301,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4305666528087210886">Qasja te skedari ishte e pamundur</translation>
 <translation id="4306529830550717874">Të ruhet adresa?</translation>
 <translation id="4306812610847412719">kujtesa e fragmenteve</translation>
-<translation id="4308567447483056043">Kjo politikë është shpërfillur sepse përdoruesi nuk është i lidhur. Që kjo politikë të zbatohet, shfletuesi dhe profili i Chrome duhet të menaxhohen nëpërmjet "Panelit të administratorit" nga e njëjta organizatë.</translation>
+<translation id="3323451588703398074">Kjo politikë është shpërfillur sepse përdoruesi nuk është i lidhur. Që kjo politikë të zbatohet, shfletuesi dhe profili i WEB3 DNA Browser duhet të menaxhohen nëpërmjet "Panelit të administratorit" nga e njëjta organizatë.</translation>
 <translation id="4310070645992025887">Kërko për udhëtime</translation>
 <translation id="4310496734563057511">Nëse e ndan këtë pajisje me të tjerët, mund të aktivizosh Windows Hello për të verifikuar që je ti sa herë që përdor një fjalëkalim të ruajtur</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1317,8 +1317,8 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4331519897422864041">Stivuesi 5</translation>
 <translation id="4331708818696583467">Jo e sigurt</translation>
 <translation id="4333561522337981382">Të menaxhojë dritaret në të gjitha ekranet e tua</translation>
-<translation id="4340575312453649552">Kjo reklamë përdorte shumë burime për pajisjen tënde, prandaj Chrome e hoqi.</translation>
-<translation id="4340982228985273705">Ky kompjuter nuk është zbuluar si i menaxhuar nga ndërmarrja, prandaj politika mund të instalojë automatikisht vetëm shtesat e strehuara në "Dyqanin e uebit të Chrome". URL-ja e përditësimit të "Dyqanit të uebit të Chrome" është "<ph name="CWS_UPDATE_URL" />".</translation>
+<translation id="3964216933844012257">Kjo reklamë përdorte shumë burime për pajisjen tënde, prandaj WEB3 DNA Browser e hoqi.</translation>
+<translation id="2218799635675752219">Ky kompjuter nuk është zbuluar si i menaxhuar nga ndërmarrja, prandaj politika mund të instalojë automatikisht vetëm shtesat e strehuara në "Dyqanin e uebit të WEB3 DNA Browser". URL-ja e përditësimit të "Dyqanit të uebit të WEB3 DNA Browser" është "<ph name="CWS_UPDATE_URL" />".</translation>
 <translation id="4346197816712207223">Kartat e pranuara të kreditit</translation>
 <translation id="4348834659292907206">Lidhja me <ph name="SITE" /> nuk është e sigurt</translation>
 <translation id="4349365535725594680">Përmbajtja konfidenciale nuk mund të ndahet</translation>
@@ -1329,7 +1329,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4356973930735388585">Sulmuesit në këtë sajt mund të përpiqen të instalojnë programe të rrezikshme në kompjuterin tënd që vjedhin ose fshijnë informacionet e tua (për shembull, fotografi, fjalëkalime, mesazhe dhe karta krediti).</translation>
 <translation id="4358059973562876591">Shabllonet që ke specifikuar mund të mos zbatohen për shkak të një gabimi me politikën DnsOverHttpsMode.</translation>
 <translation id="4358461427845829800">Menaxho mënyrat e pagesës...</translation>
-<translation id="4359160567981085931">Sapo fute fjalëkalimin tënd në një sajt mashtrues. Chrome mund të të ndihmojë. Për të ndryshuar fjalëkalimin dhe për të njoftuar Google se llogaria jote mund të jetë në rrezik, kliko te "Mbroje llogarinë".</translation>
+<translation id="4550052488331606118">Sapo fute fjalëkalimin tënd në një sajt mashtrues. WEB3 DNA Browser mund të të ndihmojë. Për të ndryshuar fjalëkalimin dhe për të njoftuar Google se llogaria jote mund të jetë në rrezik, kliko te "Mbroje llogarinë".</translation>
 <translation id="4363222835916186793">Sinjalizimet për këtë produkt janë çaktivizuar</translation>
 <translation id="437040971055499437">Ndodh ngjarje sigurie</translation>
 <translation id="4372948949327679948">Pritet një vlerë <ph name="VALUE_TYPE" />.</translation>
@@ -1346,7 +1346,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4411435778612100394">Pajisje elektronike konsumi</translation>
 <translation id="4414515549596849729">kukit dhe të dhënat e faqes</translation>
 <translation id="4415426530740016218">Adresa e marrjes</translation>
-<translation id="4424024547088906515">Ky server nuk mundi të dëshmonte se ky është <ph name="DOMAIN" />; certifikata e tij e sigurisë nuk është e besueshme nga Chrome. Kjo mund të shkaktohet nga keqkonfigurimi ose ndonjë sulmues që po ndërhyn në lidhjen tënde.</translation>
+<translation id="7486060888782747880">Ky server nuk mundi të dëshmonte se ky është <ph name="DOMAIN" />; certifikata e tij e sigurisë nuk është e besueshme nga WEB3 DNA Browser. Kjo mund të shkaktohet nga keqkonfigurimi ose ndonjë sulmues që po ndërhyn në lidhjen tënde.</translation>
 <translation id="4428065317363009941">Personalizimi i reklamave</translation>
 <translation id="443121186588148776">Porta seriale</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> nuk e pranoi certifikatën tënde të identifikimit ose ajo mund të mos jetë dhënë.</translation>
@@ -1370,7 +1370,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4489023393592172404">Zarf Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Enkripto fjalëkalimet e sinkronizuara me "Llogarinë tënde të Google"</translation>
-<translation id="4492519888999857993">Këto veçori janë të çaktivizuara si parazgjedhje. Ato nuk do të ofrohen në versionet e ardhshme të Chrome.</translation>
+<translation id="5711551727888568041">Këto veçori janë të çaktivizuara si parazgjedhje. Ato nuk do të ofrohen në versionet e ardhshme të WEB3 DNA Browser.</translation>
 <translation id="4493480324863638523">URL e pavlefshme. Duhet të jetë URL me një skemë standarde, p.sh. http://shembull.com ose https://shembull.com.</translation>
 <translation id="4500587658229086076">përmbajtja e pasigurt</translation>
 <translation id="4506176782989081258">Gabim i miratimit: <ph name="VALIDATION_ERROR" /></translation>
@@ -1378,7 +1378,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="450710068430902550">Ndarja me administratorin</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për ta përkthyer këtë faqe me "Përkthe me Google"</translation>
 <translation id="4514308731478712184">Çaktivizo "Udhëtimet"</translation>
-<translation id="4515275063822566619">Kartat dhe adresat janë nga Chrome dhe llogaria jote e Google (<ph name="ACCOUNT_EMAIL" />). Ato mund t'i menaxhosh te <ph name="BEGIN_LINK" />Cilësimet<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Kartat dhe adresat janë nga WEB3 DNA Browser dhe llogaria jote e Google (<ph name="ACCOUNT_EMAIL" />). Ato mund t'i menaxhosh te <ph name="BEGIN_LINK" />Cilësimet<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">Shkarkimi i këtij skedari është bllokuar nga politika e administratorit</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Zarf monark</translation>
@@ -1394,10 +1394,10 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Provo të çaktivizosh shtesat.</translation>
 <translation id="4566017918361049074">Ambientet e hapura</translation>
-<translation id="4567686777917670400">Administratori yt mund të ndryshojë konfigurimin e shfletuesit në distancë. Aktiviteti në këtë pajisje mund të menaxhohet edhe jashtë Chromium. <ph name="BEGIN_LINK" />Mëso më shumë<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Administratori yt mund të ndryshojë konfigurimin e shfletuesit në distancë. Aktiviteti në këtë pajisje mund të menaxhohet edhe jashtë WEB3 DNA Browser. <ph name="BEGIN_LINK" />Mëso më shumë<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Dorëzimi</translation>
 <translation id="4582204425268416675">Hiq kartën</translation>
-<translation id="4587425331216688090">Të hiqet adresa nga Chrome?</translation>
+<translation id="4549859745110415735">Të hiqet adresa nga WEB3 DNA Browser?</translation>
 <translation id="459089498662672729">Ngjitja nga <ph name="ORIGIN_NAME" /> në këtë vendndodhje nuk rekomandohet nga politika e administratorit</translation>
 <translation id="4592951414987517459">Lidhja jote me <ph name="DOMAIN" /> është enkriptuar duke përdorur një paketë moderne shifrimi.</translation>
 <translation id="4594403342090139922">&amp;Zhbëje fshirjen</translation>
@@ -1406,17 +1406,17 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4600084978141515058">Kuzhina vegane</translation>
 <translation id="4602465984861132303">Loja me birila</translation>
 <translation id="4606870351894164739">Me impakt</translation>
-<translation id="4607603470419975064">Butoni "Shiko këshilla për Chrome", shtyp Enter për të mësuar për veçoritë e Chrome</translation>
-<translation id="4607608436550361748">Shiko këshillat për Chrome</translation>
+<translation id="4607603470419975064">Butoni "Shiko këshilla për WEB3 DNA Browser", shtyp Enter për të mësuar për veçoritë e WEB3 DNA Browser</translation>
+<translation id="4607608436550361748">Shiko këshillat për WEB3 DNA Browser</translation>
 <translation id="4610279718074907952">Ky sajt është në një grup, i përcaktuar nga <ph name="SET_OWNER" />, që mund ta shikojë aktivitetin tënd</translation>
 <translation id="4617273035598175554">Softuerët për grafika dhe animim</translation>
 <translation id="4622292761762557753">Transfero gjithsesi</translation>
-<translation id="4627675673814409125">Kjo politikë nuk mund të caktohet në nivelin e profilit të Chrome dhe do të shpërfillet.</translation>
+<translation id="6607050922769407881">Kjo politikë nuk mund të caktohet në nivelin e profilit të WEB3 DNA Browser dhe do të shpërfillet.</translation>
 <translation id="4628948037717959914">Fotografia</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Oferta e kthimit të parave është e lidhur</translation>
 <translation id="4636930964841734540">Informacion</translation>
-<translation id="4638670630777875591">Modaliteti "I fshehtë" në Chromium</translation>
+<translation id="9064160697734393810">Modaliteti "I fshehtë" në WEB3 DNA Browser</translation>
 <translation id="464342062220857295">Veçoritë e kërkimit</translation>
 <translation id="4644670975240021822">Renditja e kundërt e kthyer poshtë</translation>
 <translation id="4646534391647090355">Më ço atje tani</translation>
@@ -1454,7 +1454,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4731638775147756694">Ky aplikacion është bllokuar nga administratori yt</translation>
 <translation id="4733082559415072992"><ph name="URL" /> kërkon të përdorë vendndodhjen e pajisjes sate</translation>
 <translation id="4736491186715342415">Automjetet motorike</translation>
-<translation id="4736825316280949806">Rinis Chromium</translation>
+<translation id="1624940062651381269">Rinis WEB3 DNA Browser</translation>
 <translation id="4736934858538408121">Karta virtuale</translation>
 <translation id="473775607612524610">Përditësoje</translation>
 <translation id="4738601419177586157">Sugjerim kërkimi për <ph name="TEXT" /></translation>
@@ -1468,10 +1468,10 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4754461935447132332">Nuk lejohet për sajtet e pasigurta</translation>
 <translation id="4756388243121344051">&amp;Historiku</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Sapo e fute fjalëkalimin tënd në një sajt mashtrues. Për të siguruar llogaritë e tua, Chromium rekomandon të kontrollosh fjalëkalimet e ruajtura.</translation>
+
 <translation id="4758311279753947758">Shto informacionet e kontaktit</translation>
 <translation id="4761104368405085019">Përdor mikrofonin</translation>
-<translation id="4761869838909035636">Ekzekuto "Kontrollin e sigurisë" të Chrome</translation>
+<translation id="2178430137592069173">Ekzekuto "Kontrollin e sigurisë" të WEB3 DNA Browser</translation>
 <translation id="4764776831041365478">Faqja e internetit në <ph name="URL" /> mund të mos ofrohet përkohësisht ose është zhvendosur përgjithmonë në një adresë të re interneti.</translation>
 <translation id="4766713847338118463">Dy kapje me tel në fund</translation>
 <translation id="4771973620359291008">Ka ndodhur një gabim i panjohur.</translation>
@@ -1502,7 +1502,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4834250788637067901">Mënyrat e pagesës, ofertat dhe adresat që përdorin Google Pay</translation>
 <translation id="4838327282952368871">Si në ëndërr</translation>
 <translation id="4839087176073128681">Paguaj më shpejt herën tjetër dhe mbroje kartën tënde me sigurinë e nivelit më të lartë në këtë industri nga Google.</translation>
-<translation id="4840250757394056958">Shiko historikun tënd të Chrome</translation>
+<translation id="4840250757394056958">Shiko historikun tënd të WEB3 DNA Browser</translation>
 <translation id="484462545196658690">Automatike</translation>
 <translation id="484671803914931257">Merr zbritje në <ph name="MERCHANT_NAME" /> dhe të tjera</translation>
 <translation id="484988093836683706">Përdor shkyçjen e pajisjes</translation>
@@ -1544,7 +1544,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4934780484581617878">Menaxhimi i dritareve</translation>
 <translation id="4936134414789135531"><ph name="VALUE_NAME" /> që është futur nuk mund të gjendej.</translation>
 <translation id="4936675324097895694">Financa</translation>
-<translation id="4940163644868678279">Modaliteti "I fshehtë" në Chrome</translation>
+
 <translation id="4943872375798546930">Asnjë rezultat</translation>
 <translation id="4943933359574417591">Tekstet dhe mesazhet e çastit</translation>
 <translation id="4950898438188848926">Butoni i ndërrimit të skedës. Shtyp "Enter" për të kaluar te skeda e hapur, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1567,7 +1567,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="4995216769782533993">Konfirmo kodin e sigurisë për të ndarë të dhënat e kartës sate me këtë sajt</translation>
 <translation id="4995474875135717171">Modifikuar:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar kërkimin te sajti dhe motorin e parazgjedhur të kërkimit</translation>
-<translation id="5002932099480077015">Nëse aktivizohet, Chrome do të ruajë një kopje të kartës tënde në këtë pajisje për plotësim më të shpejtë të formularit.</translation>
+
 <translation id="5011561501798487822">Gjuha e zbuluar</translation>
 <translation id="5015510746216210676">Emri i pajisjes:</translation>
 <translation id="5017554619425969104">Teksti që kopjove</translation>
@@ -1576,7 +1576,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5018802455907704660">16 x 20 inç</translation>
 <translation id="5019198164206649151">Mbështetja e ruajtjes është në gjendje të keqe</translation>
 <translation id="5020776957610079374">Muzika botërore</translation>
-<translation id="5021557570875267742">Monitoro çmimet me Chrome</translation>
+<translation id="4735860266347344416">Monitoro çmimet me WEB3 DNA Browser</translation>
 <translation id="5023310440958281426">Kontrollo politikat e administratorit tënd</translation>
 <translation id="5029568752722684782">Pastro kopjen</translation>
 <translation id="5030338702439866405">Lëshuar nga</translation>
@@ -1609,7 +1609,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5087580092889165836">Shto kartë</translation>
 <translation id="5088142053160410913">Mesazhi për operatorin</translation>
 <translation id="5093232627742069661">Palosje Z</translation>
-<translation id="5094747076828555589">Ky server nuk mundi të dëshmonte se kjo është <ph name="DOMAIN" />; certifikata e tij e sigurisë nuk është e besueshme nga Chromium. Kjo mund të shkaktohet nga keqkonfigurimi ose një sulmues që po kap lidhjen tënde.</translation>
+
 <translation id="5097099694988056070">Statistikat e pajisjes si p.sh. përdorimin e njësisë CPU/RAM</translation>
 <translation id="5097468150760963273">27 x 39 inç</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1643,7 +1643,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5161506081086828129">Stivuesi 9</translation>
 <translation id="5164798890604758545">Është futur tekst</translation>
 <translation id="516920405563544094">Shkruaj kodin CVC për <ph name="CREDIT_CARD" />. Pasi t'i konfirmosh, detajet e kartës nga "Llogaria jote e Google" do të ndahen me këtë sajt.</translation>
-<translation id="5169827969064885044">Mund të humbasësh qasjen në llogarinë e organizatës ose mund të pësosh vjedhje të identitetit. Chrome rekomandon që ta ndryshosh fjalëkalimin tani.</translation>
+
 <translation id="5171045022955879922">Kërko ose shkruaj URL-në</translation>
 <translation id="5172758083709347301">Pajisja</translation>
 <translation id="5177076414499237632">Mëso rreth temës dhe burimit të kësaj faqeje</translation>
@@ -1655,7 +1655,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="51918995459521422"><ph name="ORIGIN" /> dëshiron të shkarkojë disa skedarë</translation>
 <translation id="519422657042045905">Shënimi nuk ofrohet</translation>
 <translation id="5201306358585911203">Një faqe e integruar në këtë faqe thotë</translation>
-<translation id="5204468114771111727">Chrome e gjeti fjalëkalimin që sapo përdore në një nxjerrje të paautorizuar të të dhënave. "Asistenti yt i Google" mund ta ndryshojë fjalëkalimin tënd automatikisht.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser e gjeti fjalëkalimin që sapo përdore në një nxjerrje të paautorizuar të të dhënave. "Asistenti yt i Google" mund ta ndryshojë fjalëkalimin tënd automatikisht.</translation>
 <translation id="5205222826937269299">Emri është i detyrueshëm</translation>
 <translation id="5209518306177824490">Gjurma e gishtit SHA-1</translation>
 <translation id="5209670883520018268">Tabakaja 20</translation>
@@ -1672,7 +1672,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5239623327352565343">Vendndodhja lejohet</translation>
 <translation id="5242889659037569123">Aksesorët për bagazhe dhe udhëtime</translation>
 <translation id="5250209940322997802">"Lidhu me rrjetin"</translation>
-<translation id="52517543715119994">Mëso për veçoritë e Chrome</translation>
+<translation id="52517543715119994">Mëso për veçoritë e WEB3 DNA Browser</translation>
 <translation id="5251803541071282808">Reja kompjuterike</translation>
 <translation id="5254043433801397071">Optimizo përmbajtjen e printimit</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1694,7 +1694,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5287456746628258573">Ky sajt përdor një konfigurim të vjetruar të sigurisë, i cili mund t'i ekspozojë informacionet e tua (p.sh. fjalëkalimin ose numrat e kartës së kreditit) kur dërgohen te ky sajt.</translation>
 <translation id="5288108484102287882">Vërtetimi i vlerave të politikës ka ngritur shqetësime</translation>
 <translation id="5288393065350884210">Kontabiliteti dhe auditimi</translation>
-<translation id="5288808348893593856">Lidhja e faqes është e sigurt përveç nëse Chrome të thotë ndryshe.</translation>
+<translation id="8429736460204202092">Lidhja e faqes është e sigurt përveç nëse WEB3 DNA Browser të thotë ndryshe.</translation>
 <translation id="5289384342738547352">Menaxhimi i shumë dokumenteve</translation>
 <translation id="5293919335876685914">Kupetë</translation>
 <translation id="5296589789433599000">Gatimi dhe recetat</translation>
@@ -1713,14 +1713,14 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5324080437450482387">Zgjidh informacionet e kontaktit</translation>
 <translation id="5329858041417644019">Shfletuesi yt nuk është i menaxhuar</translation>
 <translation id="5332219387342487447">Mënyra e dërgimit</translation>
-<translation id="5333022057423422993">Chrome e gjeti fjalëkalimin që sapo përdore në një nxjerrje të paautorizuar të të dhënave. Për t'i siguruar llogaritë e tua, ne rekomandojmë të kontrollosh fjalëkalimet e tua të ruajtura.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser e gjeti fjalëkalimin që sapo përdore në një nxjerrje të paautorizuar të të dhënave. Për t'i siguruar llogaritë e tua, ne rekomandojmë të kontrollosh fjalëkalimet e tua të ruajtura.</translation>
 <translation id="5334013548165032829">Evidencat e detajuara të sistemit</translation>
 <translation id="5334145288572353250">Të ruhet adresa?</translation>
 <translation id="5335920952954443287">Zemër që rreh</translation>
 <translation id="5340250774223869109">Aplikacioni është bllokuar</translation>
 <translation id="534295439873310000">Pajisjet me NFC</translation>
 <translation id="5344579389779391559">Kjo faqe mund të përpiqet të të tarifojë në para</translation>
-<translation id="5347645913823149105">Butoni "Personalizo fontet në Chrome". Shtyp "Enter" për të personalizuar madhësitë e fonteve dhe llojin e karaktereve në Chrome</translation>
+<translation id="5347645913823149105">Butoni "Personalizo fontet në WEB3 DNA Browser". Shtyp "Enter" për të personalizuar madhësitë e fonteve dhe llojin e karaktereve në WEB3 DNA Browser</translation>
 <translation id="5355557959165512791">Nuk mund ta vizitosh <ph name="SITE" /> tani, sepse certifikata e tij është revokuar. Gabimet dhe sulmet në rrjet zakonisht janë të përkohshme, prandaj kjo faqe ndoshta do të punojë më vonë.</translation>
 <translation id="5356837363448394805">Skuqur</translation>
 <translation id="5357848622083956825">Artet pamore dhe dizajni</translation>
@@ -1739,7 +1739,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="540630185148148480">Aktivizo sinjalizimet</translation>
 <translation id="540969355065856584">Ky server nuk mund të provojë se është <ph name="DOMAIN" />; certifikata e tij e sigurisë është e pavlefshme në këtë moment. Kjo mund të shkaktohet për shkak të konfigurimit të pasaktë ose në rast të ndërhyrjes së ndonjë sulmuesi në lidhjen tënde.</translation>
 <translation id="5412040515238827314">Format i pavlefshëm: Pritet një listë motivesh.</translation>
-<translation id="5412236728747081950">Ky sajt merr interesat e tua nga Chrome për të të shfaqur reklama më të përshtatshme</translation>
+<translation id="3825896935771081728">Ky sajt merr interesat e tua nga WEB3 DNA Browser për të të shfaqur reklama më të përshtatshme</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> - <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Stivuesi 4</translation>
 <translation id="5414511064953050917">Zhvendos gjithsesi</translation>
@@ -1782,7 +1782,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të personalizuar veglat e qasshmërisë te cilësimet e ChromeOS.</translation>
 <translation id="5528532273234423708">Automatizimi i shtëpisë</translation>
 <translation id="55293785478302737">Qepje anësore</translation>
-<translation id="5535133333442455806">Pastro butonin e të dhënave të shfletimit, shtyp "Enter" për të pastruar historikun tënd të shfletimit, kukit, memorien specifike etj. në cilësimet e Chrome</translation>
+<translation id="5535133333442455806">Pastro butonin e të dhënave të shfletimit, shtyp "Enter" për të pastruar historikun tënd të shfletimit, kukit, memorien specifike etj. në cilësimet e WEB3 DNA Browser</translation>
 <translation id="5536214594743852365">Shfaq seksionin "<ph name="SECTION" />"</translation>
 <translation id="553782666181800029">Zarf Chou 2</translation>
 <translation id="5539243836947087108">Bazamenti i kapjes</translation>
@@ -1792,7 +1792,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5541546772353173584">Shto email</translation>
 <translation id="5545756402275714221">Artikuj për ty</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="5552137475244467770">Chrome i kontrollon periodikisht fjalëkalimet e tua për t'i krahasuar me listat që janë publikuar në linjë. Kur vepron kështu, fjalëkalimet dhe emrat e tu të përdoruesit janë të enkriptuara, në mënyrë që të mos lexohen nga askush, duke përfshirë Google.</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser i kontrollon periodikisht fjalëkalimet e tua për t'i krahasuar me listat që janë publikuar në linjë. Kur vepron kështu, fjalëkalimet dhe emrat e tu të përdoruesit janë të enkriptuara, në mënyrë që të mos lexohen nga askush, duke përfshirë Google.</translation>
 <translation id="5556459405103347317">Ringarko</translation>
 <translation id="5560088892362098740">Data e skadimit</translation>
 <translation id="55635442646131152">Konturi i dokumentit</translation>
@@ -1855,7 +1855,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5720705177508910913">Përdoruesi aktual</translation>
 <translation id="5723287205918986743">Industria e mbrojtjes</translation>
 <translation id="5725567311035061582">Menaxho kukit dhe të dhënat e sajtit</translation>
-<translation id="5730040223043577876">Chrome rekomandon rivendosjen e fjalëkalimit tënd nëse e ke ripërdorur në sajte të tjera.</translation>
+
 <translation id="5736165827969430182">Metalet dhe minierat</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Ruaje kartën në "Llogarinë tënde të Google"}other{Ruaji kartat në "Llogarinë tënde të Google"}}</translation>
 <translation id="5738385766833540397">Menaxho se si i merr sinjalizimet për uljet e çmimeve për produktet që monitoron</translation>
@@ -1880,14 +1880,14 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="5784606427469807560">Kishte një problem me konfirmimin e kartës tënde. Kontrollo lidhjen e internetit dhe provo përsëri.</translation>
 <translation id="5785756445106461925">Për më tepër, kjo faqe përfshin burime të tjera që nuk janë të sigurta. Këto burime mund të shikohen nga të tjerët kur janë në procesin e kalimit dhe mund të modifikohen nga ndonjë sulmues për të ndryshuar pamjen e faqes.</translation>
 <translation id="5786044859038896871">Dëshiron që të plotësosh informacionet e kartës?</translation>
-<translation id="578633867165174378">Chrome e gjeti fjalëkalimin që sapo përdore në një nxjerrje të paautorizuar të të dhënave. Ne rekomandojmë ta ndryshosh këtë fjalëkalim tani.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser e gjeti fjalëkalimin që sapo përdore në një nxjerrje të paautorizuar të të dhënave. Ne rekomandojmë ta ndryshosh këtë fjalëkalim tani.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Dëshiron që të plotësosh informacionet për <ph name="CARD_DETAIL" />?</translation>
 <translation id="5804241973901381774">Lejet</translation>
-<translation id="5808435672482059465">Shiko historikun tënd të Chrome</translation>
+<translation id="7552154626705223867">Shiko historikun tënd të WEB3 DNA Browser</translation>
 <translation id="5808542072418270309">Lojërat me simulime</translation>
 <translation id="5810442152076338065">Lidhja jote me <ph name="DOMAIN" /> është enkriptuar duke përdorur një paketë të vjetër shifrimi.</translation>
-<translation id="5812947184178430888">Kur sinjalizohen ngjarje sigurie nga Chrome, të dhënat përkatëse rreth ngjarjeve i dërgohen administratorit tënd. Kjo mund të përfshijë URL-të e faqeve që viziton në Chrome, emrat e skedarëve ose të dhënat meta dhe emrin e përdoruesit që përdor për t'u identifikuar në aplikacionet me bazë uebi, pajisjen tënde dhe Chrome.</translation>
+<translation id="8479644990349381409">Kur sinjalizohen ngjarje sigurie nga WEB3 DNA Browser, të dhënat përkatëse rreth ngjarjeve i dërgohen administratorit tënd. Kjo mund të përfshijë URL-të e faqeve që viziton në WEB3 DNA Browser, emrat e skedarëve ose të dhënat meta dhe emrin e përdoruesit që përdor për t'u identifikuar në aplikacionet me bazë uebi, pajisjen tënde dhe WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Ribëje shtimin</translation>
 <translation id="5813309815819933152">Shfaqje televizive realiteti</translation>
 <translation id="5813753398265398978">Fizika</translation>
@@ -2003,10 +2003,10 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6116338172782435947">Shiko tekstin dhe imazhet e kopjuara te kujtesa e fragmenteve</translation>
 <translation id="6118782133429281336">Lista e origjinave është bosh.</translation>
 <translation id="6120179357481664955">Të kujtohet ID-ja e UPI?</translation>
-<translation id="6124432979022149706">Chrome Enterprise Connectors</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise Connectors</translation>
 <translation id="6126565365696310362">Zarf kinez nr. 2</translation>
 <translation id="6127379762771434464">Artikulli u hoq</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Mëso më shumë për modalitetin "I fshehtë" në Chrome<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Shtesa e skedarit është bosh ose e keqformuar.</translation>
 <translation id="6139975341602920272">17 x 22 inç</translation>
 <translation id="6146055958333702838">Kontrollo kabllot dhe rindiz router-it, modemët ose pajisjet e tjera të rrjetit që mund të jesh duke përdorur.</translation>
@@ -2031,10 +2031,10 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6197648101609735209">89 x 89 mm</translation>
 <translation id="6203231073485539293">Kontrollo lidhjen e internetit.</translation>
 <translation id="6212314149070368045">Palosje fizarmonikë (SHBA)</translation>
-<translation id="6218753634732582820">Të hiqet adresa nga Chromium?</translation>
+
 <translation id="622039917539443112">Palosje paralele</translation>
 <translation id="6221345481584921695">Kohët e fundit "Shfletimi i sigurt" i Google <ph name="BEGIN_LINK" />zbuloi softuerin keqdashës<ph name="END_LINK" /> në <ph name="SITE" />. Sajtet e uebit që normalisht janë të sigurta, ndonjëherë infektohen me softuerë keqdashës. Përmbajtja keqdashëse vjen nga <ph name="SUBRESOURCE_HOST" />, një shpërndarës i njohur softuerësh keqdashës.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Shtyp "Tab" dhe më pas "Enter" për të personalizuar veglat e qasshmërisë te cilësimet e Chrome</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Shtyp "Tab" dhe më pas "Enter" për të personalizuar veglat e qasshmërisë te cilësimet e WEB3 DNA Browser</translation>
 <translation id="6229649258872345286">Udhëtime familjare</translation>
 <translation id="6232271601416750929">Estetika e pastër</translation>
 <translation id="6233160458685643793">Duke qeshur</translation>
@@ -2043,7 +2043,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6240447795304464094">Logo e Google Pay</translation>
 <translation id="6241121617266208201">Fshih sugjerimet</translation>
 <translation id="624499991300733384">Shërbimi i krijuesit të printimit</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar skedarët që ke shkarkuar në Chrome</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar skedarët që ke shkarkuar në WEB3 DNA Browser</translation>
 <translation id="6254436959401408446">Nuk ka memorie të mjaftueshme për të hapur këtë faqe</translation>
 <translation id="6259156558325130047">&amp;Ribëj riporosinë</translation>
 <translation id="6263376278284652872">Faqeshënuesit e <ph name="DOMAIN" /></translation>
@@ -2051,21 +2051,21 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6264485186158353794">Kthehu aty ku je i sigurt</translation>
 <translation id="6265794661083428563">Kopjo vlerën e politikës së <ph name="POLICY_NAME" /></translation>
 <translation id="6266934640124581640">Gurkali e çelur</translation>
-<translation id="6272088941196661550">Vazhdo udhëtimin për të parë aktivitetin përkatës në historikun tënd të Chrome</translation>
+<translation id="1989642600714730446">Vazhdo udhëtimin për të parë aktivitetin përkatës në historikun tënd të WEB3 DNA Browser</translation>
 <translation id="6272383483618007430">Përditësimi i Google</translation>
 <translation id="6276112860590028508">Faqet nga lista jote e leximit shfaqen këtu</translation>
 <translation id="627746635834430766">Për të paguar më shpejt herën tjetër, ruaje kartën dhe adresën tënde të faturimit në llogarinë tënde të Google.</translation>
 <translation id="6279183038361895380">Shtyp |<ph name="ACCELERATOR" />| për të shfaqur kursorin</translation>
 <translation id="6280223929691119688">Nuk mund të dorëzohet në këtë adresë. Zgjidh një adresë tjetër.</translation>
 <translation id="6284292079994426700">26 x 38 inç</translation>
-<translation id="6285507000506177184">Butoni "Menaxho shkarkimet në Chrome". Shtyp "Enter" për të menaxhuar skedarët që ke shkarkuar në Chrome</translation>
+<translation id="6285507000506177184">Butoni "Menaxho shkarkimet në WEB3 DNA Browser". Shtyp "Enter" për të menaxhuar skedarët që ke shkarkuar në WEB3 DNA Browser</translation>
 <translation id="6289939620939689042">Ngjyra e faqes</translation>
 <translation id="6290238015253830360">Artikujt e tu të sugjeruar shfaqen këtu</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Pajisja do të riniset tani}=1{Pajisja do të riniset pas 1 sekonde}other{Pajisja do të riniset pas # sekondash}}</translation>
 <translation id="6301104306974789820">Merr njoftime për monitorimin e çmimeve</translation>
-<translation id="6302269476990306341">"Asistenti i Google" në Chrome po ndalon</translation>
+<translation id="6804344251855709483">"Asistenti i Google" në WEB3 DNA Browser po ndalon</translation>
 <translation id="6305205051461490394"><ph name="URL" /> është i paarritshëm.</translation>
 <translation id="6311165245110979290">Karta virtuale është e disponueshme</translation>
 <translation id="6312113039770857350">Faqja e uebit nuk është e disponueshme</translation>
@@ -2074,7 +2074,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6319249456820053699">Kamerat dhe videokamerat</translation>
 <translation id="6321917430147971392">Kontrollo cilësimet e tua të DNS-së</translation>
 <translation id="6322182122604171028">Windows Hello nuk mund të përdorej</translation>
-<translation id="6326947323444967009">Cakto Chrome si shfletuesin e parazgjedhur të sistemit te cilësimet e iOS</translation>
+<translation id="6326947323444967009">Cakto WEB3 DNA Browser si shfletuesin e parazgjedhur të sistemit te cilësimet e iOS</translation>
 <translation id="6328639280570009161">Provo çaktivizimin e parashikimit të rrjetit</translation>
 <translation id="6328784461820205019">"Lidhja jote nuk është private" ose "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" ose "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" ose "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" ose "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" ose "Gabim i certifikatës SSL"</translation>
 <translation id="6328786501058569169">Ky është një sajt mashtrues</translation>
@@ -2085,7 +2085,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6348220984832452017">Variantet aktive</translation>
 <translation id="6349101878882523185">Instalo <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Asnjë}=1{1 fjalëkalim (për <ph name="DOMAIN_LIST" />, sinkronizuar)}=2{2 fjalëkalime (për <ph name="DOMAIN_LIST" />, sinkronizuar)}other{# fjalëkalime (për <ph name="DOMAIN_LIST" />, sinkronizuar)}}</translation>
-<translation id="6355392890578844978">Ky shfletues nuk menaxhohet nga një kompani ose organizatë tjetër. Aktiviteti në këtë pajisje mund të menaxhohet jashtë Chromium. <ph name="BEGIN_LINK" />Mëso më shumë<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Ky shfletues nuk menaxhohet nga një kompani ose organizatë tjetër. Aktiviteti në këtë pajisje mund të menaxhohet jashtë WEB3 DNA Browser. <ph name="BEGIN_LINK" />Mëso më shumë<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Çfarë kuptimi kanë këto?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Të kontrollosh përfaqësuesin, murin mbrojtës dhe konfigurimin e DNS-së së sigurt<ph name="END_LINK" /></translation>
@@ -2110,7 +2110,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6405181733356710802">Do të vazhdosh te "<ph name="APP_NAME" />"?</translation>
 <translation id="6410264514553301377">Fut datën e skadimit dhe kodin CVC për <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium mund të të ndihmojë ta mbrosh "Llogarinë tënde të Google" dhe të ndryshosh fjalëkalimin tënd.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser mund të të ndihmojë ta mbrosh "Llogarinë tënde të Google" dhe të ndryshosh fjalëkalimin tënd.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Material</translation>
 <translation id="6427730057873428458">Palosje me dritare</translation>
@@ -2148,7 +2148,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6502626736864595182">Ofruesit e forumeve dhe të bisedave</translation>
 <translation id="6502991525169604759">Pa ndryshimet e tua</translation>
 <translation id="6506959208958864820">Zarf</translation>
-<translation id="6508722015517270189">Rinis Chrome</translation>
+
 <translation id="6513005815064132016">Mund të kërkojë të monitorojë pozicionin e kamerës</translation>
 <translation id="6517596291481585650">Paralajmërim: Kjo politikë nuk është bashkuar si listë siç specifikohet nga politika sepse nuk është listë.</translation>
 <translation id="6518133107902771759">Verifiko</translation>
@@ -2169,11 +2169,11 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="657902945730878902">Vizatimi dhe ngjyrosja</translation>
 <translation id="6579630537141957243">Të lidhet pajisja MIDI?</translation>
 <translation id="6579990219486187401">Rozë e çelur</translation>
-<translation id="6587182488465657433">Chrome e gjeti fjalëkalimin që sapo përdore në një nxjerrje të paautorizuar të të dhënave. Për t'i siguruar llogaritë e tua, ne rekomandojmë ta ndryshosh atë tani dhe më pas të kontrollosh fjalëkalimet e tua të ruajtura.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser e gjeti fjalëkalimin që sapo përdore në një nxjerrje të paautorizuar të të dhënave. Për t'i siguruar llogaritë e tua, ne rekomandojmë ta ndryshosh atë tani dhe më pas të kontrollosh fjalëkalimet e tua të ruajtura.</translation>
 <translation id="6587893660316489419">Zarf B5</translation>
 <translation id="6587923378399804057">Lidhja që kopjove</translation>
 <translation id="6591833882275308647">Pajisja jote <ph name="DEVICE_TYPE" /> nuk është e menaxhuar</translation>
-<translation id="6592952801936330159">Butoni "Menaxho cilësimet e sajtit". Shtyp "Enter" për të menaxhuar lejet dhe të dhënat e ruajtura nëpër sajte te cilësimet e Chrome</translation>
+<translation id="6592952801936330159">Butoni "Menaxho cilësimet e sajtit". Shtyp "Enter" për të menaxhuar lejet dhe të dhënat e ruajtura nëpër sajte te cilësimet e WEB3 DNA Browser</translation>
 <translation id="6596325263575161958">Opsionet e enkriptimit</translation>
 <translation id="6599642189720630047">Produktet e monitoruara</translation>
 <translation id="6611723696964473273">Lajmet nga ekonomia</translation>
@@ -2190,7 +2190,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6645291930348198241">Të ketë qasje te kukit dhe të dhënat e sajtit.</translation>
 <translation id="6645478838938543427">Sinjalizimet për uljet e çmimeve do të dërgohen te <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Asnjë}=1{Nga 1 sajt (nuk do të dalësh nga llogaria jote e Google)}other{Nga # sajte (nuk do të dalësh nga llogaria jote e Google)}}</translation>
-<translation id="6648459603387803038">Administratori yt mund të ndryshojë konfigurimin e shfletuesit në distancë. Aktiviteti në këtë pajisje mund të menaxhohet edhe jashtë Chrome.</translation>
+<translation id="6228269625838082008">Administratori yt mund të ndryshojë konfigurimin e shfletuesit në distancë. Aktiviteti në këtë pajisje mund të menaxhohet edhe jashtë WEB3 DNA Browser.</translation>
 <translation id="6648524591329069940">Fonti serif</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
 <translation id="6651270836885078973">Menaxhohet nga:</translation>
@@ -2202,7 +2202,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6663846344464066639">Duar të bashkuara</translation>
 <translation id="6665553082534466207">Tri shpime djathtas</translation>
 <translation id="6668389483194953109">U gjet një madhësi letre me emrin "custom", por karakteristika "custom_size" është bosh ose e pavlefshme.</translation>
-<translation id="6671697161687535275">Të hiqet sugjerimi i formularit nga Chromium?</translation>
+<translation id="3922033200710514285">Të hiqet sugjerimi i formularit nga WEB3 DNA Browser?</translation>
 <translation id="6683717648675961851">Listimet e punëve</translation>
 <translation id="6685834062052613830">Dil dhe përfundo konfigurimin</translation>
 <translation id="6687335167692595844">Kërkohet madhësia e fontit</translation>
@@ -2210,7 +2210,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6688743156324860098">Përditëso…</translation>
 <translation id="6688775486821967877">Karta virtuale nuk ofrohet për momentin, provo përsëri më vonë</translation>
 <translation id="6689249931105087298">Relative me ngjeshjen e pikës së zezë</translation>
-<translation id="6689271823431384964">Chrome po ofron që të ruash kartat e tua në "Llogarinë tënde të Google" sepse je identifikuar. Mund ta ndryshosh këtë sjellje te cilësimet. Emri i mbajtësit të kartës vjen nga llogaria jote.</translation>
+<translation id="6568883612935818921">WEB3 DNA Browser po ofron që të ruash kartat e tua në "Llogarinë tënde të Google" sepse je identifikuar. Mund ta ndryshosh këtë sjellje te cilësimet. Emri i mbajtësit të kartës vjen nga llogaria jote.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të përdorur "Gjej pajisjen tënde" me "Llogarinë tënde të Google"</translation>
 <translation id="6696588630955820014">Butoni "Ndaj këtë skedë". Shtyp "Enter" për ta ndarë këtë skedë duke ndarë lidhjen, duke krijuar një kod QR, duke transmetuar etj.</translation>
 <translation id="6698381487523150993">Krijuar:</translation>
@@ -2275,7 +2275,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="6883221904761970440">Fleta e vërtetimit të sigurt të kredencialeve të pagesës është e mbyllur</translation>
 <translation id="6884662655240309489">Madhësia 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome e ka thjeshtuar këtë faqe për ta bërë më të lehtë për t'u lexuar. Chrome e mori faqen origjinale nëpërmjet një lidhjeje të pasigurt.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser e ka thjeshtuar këtë faqe për ta bërë më të lehtë për t'u lexuar. WEB3 DNA Browser e mori faqen origjinale nëpërmjet një lidhjeje të pasigurt.</translation>
 <translation id="6890443033788248019">Të lejohet vendndodhja?</translation>
 <translation id="6890531741535756070">Ti ke zgjedhur të verifikohesh me <ph name="DEVICE_LABEL" /> në sajtet e uebit që përdorin <ph name="PROVIDER_ORIGIN" />. Ky ofrues mund të ketë ruajtur informacione për mënyrën tënde të pagesës, për të cilat mund <ph name="BEGIN_LINK" />të kërkosh që të fshihen<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Niveli i politikës nuk mbështetet.</translation>
@@ -2348,7 +2348,7 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="7058774143982824355">Shërbimi i analizuesit të fjalëkalimeve në CSV</translation>
 <translation id="7061777300866737982">Mbrojtja dhe siguria e shtëpisë</translation>
 <translation id="7062635574500127092">Gurkali</translation>
-<translation id="706295145388601875">Shto dhe menaxho adresat te cilësimet e Chrome</translation>
+<translation id="706295145388601875">Shto dhe menaxho adresat te cilësimet e WEB3 DNA Browser</translation>
 <translation id="7064851114919012435">Informacionet e kontaktit</translation>
 <translation id="7067633076996245366">Soul dhe R&amp;B</translation>
 <translation id="7068733155164172741">Fut kodin <ph name="OTP_LENGTH" />-shifror</translation>
@@ -2359,23 +2359,18 @@ Ndryshe kjo do të bllokohet nga cilësimet e tua të privatësisë. Kjo do ta l
 <translation id="7081308185095828845">Kjo veçori nuk ofrohet në pajisjen tënde</translation>
 <translation id="7083258188081898530">Tabakaja 9</translation>
 <translation id="7086090958708083563">Përditësimi u kërkua nga përdoruesi</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar lejet dhe të dhënat e ruajtura nëpër sajte te cilësimet e Chrome</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar lejet dhe të dhënat e ruajtura nëpër sajte te cilësimet e WEB3 DNA Browser</translation>
 <translation id="7096937462164235847">Identiteti i këtij sajti uebi nuk është i verifikuar.</translation>
 <translation id="7101893872976785596">Filmat horror</translation>
 <translation id="7102079138917191645">Ndërtimi dhe mirëmbajtja</translation>
-<translation id="7102554173784142865">Luaj lojën Chrome Dino</translation>
+<translation id="7102554173784142865">Luaj lojën WEB3 DNA Browser Dino</translation>
 <translation id="7108338896283013870">Fshih</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> kërkon të përdorë kamerën</translation>
 <translation id="7108819624672055576">Lejuar nga një shtesë</translation>
 <translation id="7111012039238467737">(E vlefshme)</translation>
 <translation id="7118618213916969306">Kërko për URL-në e kujtesës së fragmenteve, <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Mbyll skedat ose programet e tjera</translation>
-<translation id="7129355289156517987">Kur mbyll të gjitha skedat "e fshehta" në Chromium, aktiviteti yt në këto skeda fshihet nga kjo pajisje:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Aktiviteti i shfletimit<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Historiku i kërkimeve<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Informacionet e futura në formularë<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Nuk mund të dërgohet në këtë adresë. Zgjidh një adresë tjetër.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Ngarkimi u bllokua</translation>
@@ -2462,13 +2457,13 @@ Detaje shtesë:
 <translation id="7359588939039777303">Reklamat janë të bllokuara.</translation>
 <translation id="7360451453306104998">Kur Google gjen zbritjet që ofrohen, ato do të shfaqen gjatë përfundimit të blerjes</translation>
 <translation id="7363096869660964304">Sidoqoftë, ti nuk je i padukshëm. Kalimi në modalitetin "e fshehtë" nuk e fsheh shfletimin tënd nga punëdhënësi yt, ofruesi i shërbimit të internetit apo sajtet e uebit që viziton.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të shtuar dhe menaxhuar adresat te cilësimet e Chrome</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të shtuar dhe menaxhuar adresat te cilësimet e WEB3 DNA Browser</translation>
 <translation id="7365849542400970216">Të dinë përdorimin e pajisjes sate?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Përpunuesit e pagesave</translation>
 <translation id="7372973238305370288">rezultati i kërkimit</translation>
 <translation id="7374461526650987610">Përpunuesit e protokollit</translation>
-<translation id="7374733840632556089">Ky problem ndodh për shkak të një certifikate që instalove ti ose dikush tjetër në pajisjen tënde. Certifikata njihet se është përdorur për të monitoruar dhe ndërhyrë në rrjete dhe nuk është e besuar nga Chrome. Megjithëse ekzistojnë disa raste legjitime për monitorimin, si p.sh. një rrjet shkolle ose kompanie, Chrome dëshiron të sigurohet që je në dijeni se kjo ndodh, edhe nëse nuk arrin ta ndalosh. Monitorimi mund të ndodhë në çdo shfletues ose aplikacion që ka qasje në ueb.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Nuk lejohet asnjë sajt}=1{Lejohet 1 sajt}other{Lejohen # sajte}}</translation>
 <translation id="7375818412732305729">Skedari është bashkëngjitur</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2486,7 +2481,7 @@ Detaje shtesë:
 <translation id="7400418766976504921">URL-ja</translation>
 <translation id="7403392780200267761">Ndaje këtë skedë duke ndarë lidhjen, duke krijuar një kod QR, duke transmetuar etj.</translation>
 <translation id="7403591733719184120">Pajisja jote <ph name="DEVICE_NAME" /> është e menaxhuar</translation>
-<translation id="7407424307057130981">&lt;p&gt;Do të shohësh këtë gabim nëse ke softuer Superfish në kompjuterin tënd me Windows.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Do të shohësh këtë gabim nëse ke softuer Superfish në kompjuterin tënd me Windows.&lt;/p&gt;
     &lt;p&gt;Ndiq këta hapa për të çaktivizuar përkohësisht softuerin në mënyrë që të hysh në ueb. Do të të nevojiten privilegjet e administratorit.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Kliko &lt;strong&gt;Nis&lt;/strong&gt;, më pas kërko dhe zgjidh &lt;strong&gt;"Shiko shërbimet lokale"&lt;/strong&gt;
@@ -2494,7 +2489,7 @@ Detaje shtesë:
     &lt;li&gt;Te &lt;strong&gt;Lloji i nisjes&lt;/strong&gt;, zgjidh &lt;strong&gt;Çaktivizuar&lt;/strong&gt;
     &lt;li&gt;Te &lt;strong&gt;Statusi i shërbimit&lt;/strong&gt;, kliko &lt;strong&gt;Ndalo&lt;/strong&gt;
     &lt;li&gt;Kliko &lt;strong&gt;Zbato&lt;/strong&gt;, më pas kliko &lt;strong&gt;Në rregull&lt;/strong&gt;
-    &lt;li&gt;Vizito &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Qendrën e ndihmës së Chrome&lt;/a&gt; për të mësuar se si të heqësh përgjithmonë softuerin nga kompjuteri yt
+    &lt;li&gt;Vizito &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Qendrën e ndihmës së WEB3 DNA Browser&lt;/a&gt; për të mësuar se si të heqësh përgjithmonë softuerin nga kompjuteri yt
     &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">I këndshëm</translation>
 <translation id="741204030948306876">Po, jam dakord</translation>
@@ -2502,7 +2497,7 @@ Detaje shtesë:
 <translation id="7418620734632363981">Programimi</translation>
 <translation id="7419106976560586862">Shtegu i profilit</translation>
 <translation id="7421067045979951561">përpunuesit e protokolleve</translation>
-<translation id="7426022697669111648">Butoni "Shiko historikun tënd të Chrome". Shtyp "Enter" për të shikuar dhe menaxhuar historikun tënd të shfletimit te cilësimet e Chrome</translation>
+<translation id="7426022697669111648">Butoni "Shiko historikun tënd të WEB3 DNA Browser". Shtyp "Enter" për të shikuar dhe menaxhuar historikun tënd të shfletimit te cilësimet e WEB3 DNA Browser</translation>
 <translation id="7427366580982928791">Siguria e fëmijës në rrjet</translation>
 <translation id="7429429656042611765">Ekzekutive</translation>
 <translation id="7437289804838430631">Shto informacionet e kontaktit</translation>
@@ -2531,12 +2526,7 @@ Detaje shtesë:
 <translation id="7497998058912824456">Butoni "Krijo dokument", shtyp Enter për të krijuar shpejt një "Dokument të ri të Google"</translation>
 <translation id="7501663406926337752">Sajti ku je drejtuar është raportuar nga organizata jote</translation>
 <translation id="7501853161948120656">Burimet edukative</translation>
-<translation id="7506488012654002225">Chromium <ph name="BEGIN_EMPHASIS" />nuk do të ruajë<ph name="END_EMPHASIS" /> informacionet e mëposhtme:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Historikun tënd të shfletimit
-            <ph name="LIST_ITEM" />Kukit dhe të dhënat e sajteve
-            <ph name="LIST_ITEM" />Informacionet e futura në formularë
-          <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Zarf nr. 9</translation>
 <translation id="7508255263130623398">ID-ja e kthyer e pajisjes së politikës është bosh ose nuk përputhet me ID-në e pajisjes aktuale</translation>
 <translation id="7508870219247277067">Jeshile avokadoje</translation>
@@ -2558,7 +2548,7 @@ Detaje shtesë:
 <translation id="7542995811387359312">Plotësimi automatik i kartës së kreditit është çaktivizuar sepse ky formular nuk përdor një lidhje të sigurt.</translation>
 <translation id="7548892272833184391">Rregullo gabimet në lidhje</translation>
 <translation id="7549584377607005141">Që të shfaqet si duhet, kjo faqe uebi kërkon të dhëna që i ke futur më herët. Mund t'i dërgosh përsëri këto të dhëna, por duke bërë këtë, do të përsëritësh çdo veprim që ka kryer më parë kjo faqe.</translation>
-<translation id="7550637293666041147">Emri i përdoruesit të pajisjes dhe emri i përdoruesit të Chrome</translation>
+<translation id="4843621636877577887">Emri i përdoruesit të pajisjes dhe emri i përdoruesit të WEB3 DNA Browser</translation>
 <translation id="7551484245293639699">Sigurimi i udhëtimit</translation>
 <translation id="755279583747225797">Prova është aktive</translation>
 <translation id="7552846755917812628">Provo këshillat e mëposhtme:</translation>
@@ -2566,13 +2556,13 @@ Detaje shtesë:
 <translation id="7554791636758816595">Skedë e re</translation>
 <translation id="7555777498260651025">Shfaqjet televizive për familje</translation>
 <translation id="7559278538486662777">Përmasat e këtij aplikacioni nuk mund të ndryshohen.</translation>
-<translation id="7564049878696755256">Mund të ndodhë që të humbësh qasjen në llogarinë tënde të <ph name="ORG_NAME" /> ose mund të pësosh vjedhje të identitetit. Chrome rekomandon që ta ndryshosh fjalëkalimin tani.</translation>
+<translation id="8940464370390138384">Mund të ndodhë që të humbësh qasjen në llogarinë tënde të <ph name="ORG_NAME" /> ose mund të pësosh vjedhje të identitetit. WEB3 DNA Browser rekomandon që ta ndryshosh fjalëkalimin tani.</translation>
 <translation id="7564680668369175887">Automjetet me portobagazh</translation>
 <translation id="7567204685887185387">Ky server nuk mund të dëshmonte se është <ph name="DOMAIN" />; certifikata e tij e sigurisë mund të jetë lëshuar në mënyrë mashtruese. Kjo mund të shkaktohet nga një konfigurim i pasaktë ose ndërhyrja e një sulmuesi në lidhjen tënde.</translation>
-<translation id="7568616151991626879">Google Chrome po përpiqet të plotësojë fjalëkalimin tënd në <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser po përpiqet të plotësojë fjalëkalimin tënd në <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golfi</translation>
 <translation id="7569761772822664555">Menaxho butonin e motorëve të kërkimit, shtyp "Enter" për të menaxhuar motorin e parazgjedhur të kërkimit dhe kërkimin në sajte</translation>
-<translation id="7569952961197462199">Të hiqet karta e kreditit nga Chrome?</translation>
+<translation id="9202224267417193484">Të hiqet karta e kreditit nga WEB3 DNA Browser?</translation>
 <translation id="7569983096843329377">E zezë</translation>
 <translation id="7575207903026901870">Butoni "Hiq sugjerimin", shtyp Enter për ta hequr këtë sugjerim</translation>
 <translation id="7577900504646297215">Menaxho interesat</translation>
@@ -2591,15 +2581,15 @@ Detaje shtesë:
 <translation id="7600965453749440009">Asnjëherë mos përkthe <ph name="LANGUAGE" /></translation>
 <translation id="7610193165460212391">Vlera është jashtë gamës <ph name="VALUE" />.</translation>
 <translation id="7613889955535752492">Data e skadimit: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të shikuar dhe menaxhuar fjalëkalimet e tua te cilësimet e Chrome</translation>
-<translation id="7616645509853975347">Administratori yt ka aktivizuar Chrome Enterprise Connectors në shfletuesin tënd. Këta bashkues kanë qasje te disa nga të dhënat e tua.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të shikuar dhe menaxhuar fjalëkalimet e tua te cilësimet e WEB3 DNA Browser</translation>
+<translation id="2698924724374512123">Administratori yt ka aktivizuar WEB3 DNA Browser Enterprise Connectors në shfletuesin tënd. Këta bashkues kanë qasje te disa nga të dhënat e tua.</translation>
 <translation id="7617825962482469577">Zarf C7/C6</translation>
 <translation id="7619838219691048931">Fleta e fundit</translation>
 <translation id="7625242817712715120">Politika e administratorit nuk rekomandon printimin e kësaj përmbajtjeje</translation>
 <translation id="762844065391966283">Një nga një</translation>
 <translation id="7631444403134069754">Pista dhe fusha</translation>
 <translation id="7633909222644580952">Raportet e të dhënave të cilësisë së funksionimit dhe të ndërprerjeve aksidentale</translation>
-<translation id="7637571805876720304">Të hiqet karta e kreditit nga Chromium?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Asnjë}=1{1 fjalëkalim në llogarinë tënde (për <ph name="DOMAIN_LIST" />)}other{# fjalëkalime në llogarinë tënde (për <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Portat seriale</translation>
 <translation id="7639968568612851608">Gri e errët</translation>
@@ -2623,7 +2613,7 @@ Detaje shtesë:
 <translation id="7673278391011283842">Kutia postare 6</translation>
 <translation id="7675325315208090829">Menaxho mënyrat e pagesës...</translation>
 <translation id="7676643023259824263">Kërko për tekstin e kujtesës së fragmenteve, <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Shiko dhe menaxho historikun e shfletimit te cilësimet e Chrome</translation>
+<translation id="7679367271685653708">Shiko dhe menaxho historikun e shfletimit te cilësimet e WEB3 DNA Browser</translation>
 <translation id="7679947978757153706">Bejsbolli</translation>
 <translation id="7681273392938116652">Sportet fantazi</translation>
 <translation id="7682287625158474539">Transporti</translation>
@@ -2652,7 +2642,7 @@ Detaje shtesë:
 <translation id="7740996059027112821">Standard</translation>
 <translation id="77424286611022110">Ky sajt shfaq reklama ndërhyrëse ose mashtruese.<ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">U bllokua një përmbajtje e rrezikshme</translation>
-<translation id="7751971323486164747">Personalizo madhësitë e fonteve dhe llojin e karaktereve në Chrome</translation>
+<translation id="7751971323486164747">Personalizo madhësitë e fonteve dhe llojin e karaktereve në WEB3 DNA Browser</translation>
 <translation id="7752995774971033316">I pamenaxhuar</translation>
 <translation id="7755624218968747854">Ruli parësor</translation>
 <translation id="7758069387465995638">Muri mbrojtës ose softueri i antivirusit mund ta ketë bllokuar lidhjen.</translation>
@@ -2675,7 +2665,7 @@ Detaje shtesë:
 <translation id="7805571567667010077">Menaxhohet nga organizata jote</translation>
 <translation id="7805768142964895445">Statusi</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Të hiqet sugjerimi i formularit nga Chrome?</translation>
+
 <translation id="781440967107097262">Të ndahet kujtesa e fragmenteve?</translation>
 <translation id="7815407501681723534">U gjetën <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> për "<ph name="SEARCH_STRING" />"</translation>
 <translation id="7822320754433038727">Gjuetia dhe qitja</translation>
@@ -2710,8 +2700,8 @@ Detaje shtesë:
 <translation id="7943397946612013052">Shkarkimi u bllokua</translation>
 <translation id="7943893128817522649">Mund të kërkojë të shkarkojë automatikisht shumë skedarë</translation>
 <translation id="7947285636476623132">Kontrollo vitin e skadimit dhe provo përsëri</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp Tab pastaj Enter për të mësuar për veçoritë e Chrome</translation>
-<translation id="7950027195171824198">Menaxho preferencat e tua për kukit te cilësimet e Chrome</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp Tab pastaj Enter për të mësuar për veçoritë e WEB3 DNA Browser</translation>
+<translation id="7950027195171824198">Menaxho preferencat e tua për kukit te cilësimet e WEB3 DNA Browser</translation>
 <translation id="7951415247503192394">(32-bitësh)</translation>
 <translation id="7952192831285741665">EDP (evropiane)</translation>
 <translation id="7953569069500808819">Qepje anësore lart</translation>
@@ -2726,7 +2716,7 @@ Detaje shtesë:
 <translation id="7981129096182302364">Muzika kërcimi dhe elektronike</translation>
 <translation id="798134797138789862">Mund të kërkojë të përdorë të dhënat dhe pajisjet e realitetit virtual</translation>
 <translation id="7983008347525536475">SUV-të</translation>
-<translation id="7984945080620862648">Nuk mund ta vizitosh <ph name="SITE" /> tani sepse sajti i uebit dërgoi kredenciale të koduara që nuk mund të përpunohen nga Chrome. Gabimet dhe sulmet në rrjet zakonisht janë të përkohshme, kështu që kjo faqe ndoshta do të punojë më vonë.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Lidhje</translation>
 <translation id="7992044431894087211">U riaktivizua ndarja e ekranit me <ph name="APPLICATION_TITLE" /></translation>
@@ -2759,7 +2749,7 @@ Detaje shtesë:
 <translation id="8057711352706143257">"<ph name="SOFTWARE_NAME" />" nuk është konfiguruar mirë. Zakonisht këtë problem e zgjidh çinstalimi i "<ph name="SOFTWARE_NAME" />". <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Prodhimi ushqimor</translation>
 <translation id="8066225060526005217">Menaxhohen nga cilësimet e kukive</translation>
-<translation id="8067872629359326442">Sapo fute fjalëkalimin tënd në një sajt mashtrues. Chromium mund të të ndihmojë. Për të ndryshuar fjalëkalimin dhe për të njoftuar Google se llogaria jote mund të jetë në rrezik, kliko te "Mbroje llogarinë".</translation>
+
 <translation id="8070439594494267500">Ikona e aplikacionit</translation>
 <translation id="8075736640322370409">Krijo shpejt një "Fletë të re të Google"</translation>
 <translation id="8075898834294118863">Menaxho cilësimet e sajtit</translation>
@@ -2789,7 +2779,7 @@ Detaje shtesë:
 <translation id="8116925261070264013">Zëri i çaktivizuar</translation>
 <translation id="8118489163946903409">Mënyra e pagesës</translation>
 <translation id="8123046743443732598">Kompjuterët</translation>
-<translation id="8124639700796374294">Butoni "Personalizo Chrome". Shtyp "Enter" për të personalizuar pamjen e shfletuesit tënd</translation>
+<translation id="8124639700796374294">Butoni "Personalizo WEB3 DNA Browser". Shtyp "Enter" për të personalizuar pamjen e shfletuesit tënd</translation>
 <translation id="8126056688005753476">Udhëtimet për aventurë</translation>
 <translation id="8127301229239896662">"<ph name="SOFTWARE_NAME" />" nuk është instaluar mirë në kompjuter ose në rrjet. Kërkoji administratorit të TI-së që të zgjidhë këtë problem.</translation>
 <translation id="8131740175452115882">Konfirmo</translation>
@@ -2800,7 +2790,7 @@ Detaje shtesë:
 <translation id="8157295877370077682">Largohu nga sajti</translation>
 <translation id="8163866351304776260">Katër shpime majtas</translation>
 <translation id="8175330382720204696">Letër qeveritare</translation>
-<translation id="8175796834047840627">Chrome po ofron që të ruash kartat e tua në "Llogarinë tënde të Google" sepse je identifikuar. Mund ta ndryshosh këtë sjellje te cilësimet.</translation>
+<translation id="8903986195054043594">WEB3 DNA Browser po ofron që të ruash kartat e tua në "Llogarinë tënde të Google" sepse je identifikuar. Mund ta ndryshosh këtë sjellje te cilësimet.</translation>
 <translation id="8176440868214972690">Administratori i kësaj pajisjeje ka dërguar disa informacione te sajtet e mëposhtme të uebit, si p.sh. cilësime ose politika.</translation>
 <translation id="8184538546369750125">Përdor parazgjedhjen globale (Lejo)</translation>
 <translation id="8186706823560132848">Softuer</translation>
@@ -2845,11 +2835,11 @@ Detaje shtesë:
 <translation id="8270242299912238708">Dokumentet PDF</translation>
 <translation id="8275952078857499577">Mos ofro ta përkthesh këtë sajt</translation>
 <translation id="8277900682056760511">Fleta e përpunuesit të pagesës është hapur</translation>
-<translation id="8279611986089885641">Njoftimet e Chrome duhet të jenë aktive. Mund t'i aktivizosh te <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">Njoftimet e WEB3 DNA Browser duhet të jenë aktive. Mund t'i aktivizosh te <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">Tabakaja 11</translation>
 <translation id="8281886186245836920">Kapërceje</translation>
 <translation id="8282947398454257691">Njihu me identifikuesin unik të pajisjes tënde</translation>
-<translation id="8284769179630993263">Menaxho shfletimin e sigurt dhe më shumë te cilësimet e Chrome</translation>
+<translation id="8284769179630993263">Menaxho shfletimin e sigurt dhe më shumë te cilësimet e WEB3 DNA Browser</translation>
 <translation id="8286036467436129157">Identifikohu</translation>
 <translation id="8288807391153049143">Shfaq certifikatën</translation>
 <translation id="8289355894181816810">Kontakto me administratorin e rrjetit nëse nuk je i sigurt se çfarë do të thotë kjo.</translation>
@@ -2888,7 +2878,7 @@ Detaje shtesë:
 <translation id="8390725133630534698">Ndarja nga <ph name="ORIGIN_NAME" /> te <ph name="VM_NAME" /> është bllokuar nga politika e administratorit</translation>
 <translation id="8396522675989118466">Ky është kodi me <ph name="NUMBER_OF_DIGITS" /> shifra në <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Gjej telefonin tënd</translation>
-<translation id="8405579342203358118">Menaxho se çfarë informacionesh sinkronizon ti te cilësimet e Chrome</translation>
+<translation id="8405579342203358118">Menaxho se çfarë informacionesh sinkronizon ti te cilësimet e WEB3 DNA Browser</translation>
 <translation id="8409413588194360210">përpunuesit e pagesave</translation>
 <translation id="8412145213513410671">Ndërprerjet aksidentale (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Duhet ta fusësh dy herë të njëjtën frazë kalimi.</translation>
@@ -2899,7 +2889,7 @@ Detaje shtesë:
 <translation id="8427848540066057481">500 x 750 mm</translation>
 <translation id="8428213095426709021">Cilësimet</translation>
 <translation id="8428634594422941299">E kuptova</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar preferencat e tua për kukit te cilësimet e Chrome</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të menaxhuar preferencat e tua për kukit te cilësimet e WEB3 DNA Browser</translation>
 <translation id="8433057134996913067">Kjo do të bëjë të dalësh nga shumica e sajteve të uebit.</translation>
 <translation id="8434840396568290395">Kafshët shtëpiake</translation>
 <translation id="8437238597147034694">&amp;Zhbëj zhvendosjen</translation>
@@ -2919,12 +2909,12 @@ Detaje shtesë:
 <translation id="8473863474539038330">Adresat dhe të tjera</translation>
 <translation id="8474910779563686872">Shfaq detajet e zhvilluesit</translation>
 <translation id="8479754468255770962">Kapje me tel poshtë majtas</translation>
-<translation id="8483780878231876732">Për të përdorur kartat nga llogaria jote e Google, identifikohu në Chrome</translation>
+<translation id="8483780878231876732">Për të përdorur kartat nga llogaria jote e Google, identifikohu në WEB3 DNA Browser</translation>
 <translation id="8488350697529856933">Zbatohet për</translation>
 <translation id="8490137692873530638">Stivuesi 10</translation>
 <translation id="8493948351860045254">Liro hapësirë</translation>
 <translation id="8498891568109133222"><ph name="HOST_NAME" /> kërkoi shumë kohë për t'u përgjigjur.</translation>
-<translation id="8503559462189395349">Fjalëkalimet e Chrome</translation>
+<translation id="1863492395079744896">Fjalëkalimet e WEB3 DNA Browser</translation>
 <translation id="8503813439785031346">Emri i përdoruesit</translation>
 <translation id="8507227106804027148">Rreshti i komandës</translation>
 <translation id="8508648098325802031">Ikona e kërkimit</translation>
@@ -2932,8 +2922,8 @@ Detaje shtesë:
 <translation id="851353418319061866">Kontrolli i saktësisë</translation>
 <translation id="8513580896341796021">Shkarkimi filloi. Për ta parë atë, shtyp |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">Pajisja HID e lejuar nga administratori yt</translation>
-<translation id="8522552481199248698">Chrome mund të të ndihmojë ta mbrosh "Llogarinë tënde të Google" dhe të ndryshosh fjalëkalimin tënd.</translation>
-<translation id="8530813470445476232">Pastro historikun e shfletimit, kukit, memorien specifike etj. te cilësimet e Chrome</translation>
+
+<translation id="8530813470445476232">Pastro historikun e shfletimit, kukit, memorien specifike etj. te cilësimet e WEB3 DNA Browser</translation>
 <translation id="853332391023689529">Kamionçinat</translation>
 <translation id="8533619373899488139">Vizito &lt;strong&gt;chrome://policy&lt;/strong&gt; për të parë listën e URL-ve të bllokuara dhe politika të tjera të detyruara nga administratori i sistemit tënd.</translation>
 <translation id="8539500321752640291">Të lejohen 2 leje?</translation>
@@ -2949,7 +2939,7 @@ Detaje shtesë:
 <translation id="8557066899867184262">Kodi CVC ndodhet në pjesën e pasme të kartës.</translation>
 <translation id="8559762987265718583">Nuk mund të vendoset një lidhje private me <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" />sepse data dhe ora (<ph name="DATE_AND_TIME" />) e pajisjes tënde nuk janë të sakta.</translation>
 <translation id="8564182942834072828">Dokumente të ndara/kopje të parenditura</translation>
-<translation id="8564985650692024650">Chromium rekomandon rivendosjen e fjalëkalimit tënd të <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> nëse e ke ripërdorur në sajte të tjera.</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser rekomandon rivendosjen e fjalëkalimit tënd të <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> nëse e ke ripërdorur në sajte të tjera.</translation>
 <translation id="8576310925653847813">Sistemet e kinemasë së shtëpisë</translation>
 <translation id="8577348305244205642">Karta virtuale nuk ofrohet</translation>
 <translation id="858637041960032120">Shto numrin e telefonit</translation>
@@ -2981,7 +2971,7 @@ Detaje shtesë:
 <translation id="868922510921656628">Faqe për grup</translation>
 <translation id="869891660844655955">Data e skadimit</translation>
 <translation id="8699041776323235191">Pajisje HID</translation>
-<translation id="8699899385443889493">Butoni "Luaj Chrome Dino". Shtyp "Enter" për të luajtur lojën Dino Run në Chrome</translation>
+<translation id="8699899385443889493">Butoni "Luaj WEB3 DNA Browser Dino". Shtyp "Enter" për të luajtur lojën Dino Run në WEB3 DNA Browser</translation>
 <translation id="8699985386408839112">Zarf Kaku 1</translation>
 <translation id="8703575177326907206">Lidhja me <ph name="DOMAIN" /> nuk është e enkriptuar.</translation>
 <translation id="8705331520020532516">Numri i serisë</translation>
@@ -2998,12 +2988,12 @@ Detaje shtesë:
 <translation id="8725066075913043281">Provo sërish</translation>
 <translation id="8726549941689275341">Madhësia e faqes:</translation>
 <translation id="8730621377337864115">U krye</translation>
-<translation id="8731544501227493793">Menaxho butonin e fjalëkalimeve, shtyp "Enter" për të parë dhe menaxhuar fjalëkalimet e tua në cilësimet e Chrome</translation>
+<translation id="8731544501227493793">Menaxho butonin e fjalëkalimeve, shtyp "Enter" për të parë dhe menaxhuar fjalëkalimet e tua në cilësimet e WEB3 DNA Browser</translation>
 <translation id="8734529307927223492">Pajisja jote <ph name="DEVICE_TYPE" /> menaxhohet nga <ph name="MANAGER" /></translation>
 <translation id="8736059027199600831">30 x 40 inç</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të hapur një dritare të re "të fshehtë" për të shfletuar në mënyrë private</translation>
 <translation id="8737685506611670901">Hap lidhjet e <ph name="PROTOCOL" /> në vend të <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Për të krijuar një lidhje të sigurt, ora duhet të vendoset në mënyrë të saktë. Kjo ndodh sepse certifikatat që përdorin sajtet e internetit për t'u identifikuar janë të vlefshme vetëm për periudha specifike kohore. Meqenëse ora e pajisjes është e pasaktë, Chromium nuk mund t'i verifikojë këto certifikata.</translation>
+
 <translation id="8740359287975076522">&lt;abbr id="dnsDefinition"&gt;Adresa DNS&lt;/abbr&gt; e <ph name="HOST_NAME" /> nuk mund të gjendej. Problemi po diagnostikohet.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> është kodi për <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Shtoje këtë skedë te faqeshënuesit</translation>
@@ -3022,9 +3012,9 @@ Detaje shtesë:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motoçikletat</translation>
 <translation id="8790007591277257123">&amp;Bëje përsëri fshirjen</translation>
-<translation id="8792621596287649091">Mund të ndodhë që të humbësh qasjen në llogarinë tënde të <ph name="ORG_NAME" /> ose mund të pësosh vjedhje të identitetit. Chromium rekomandon që ta ndryshosh fjalëkalimin tani.</translation>
+
 <translation id="8792626944327216835">mikrofoni</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> ka aktivizuar Chrome Enterprise Connectors në shfletuesin tënd. Këta bashkues kanë qasje te disa nga të dhënat e tua.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> ka aktivizuar WEB3 DNA Browser Enterprise Connectors në shfletuesin tënd. Këta bashkues kanë qasje te disa nga të dhënat e tua.</translation>
 <translation id="8798099450830957504">I parazgjedhur</translation>
 <translation id="8798739476508189189">Të kërkohet për flamujt e shfletuesit? Vizito</translation>
 <translation id="8805819170075074995">Hyrja e listës "<ph name="LANGUAGE_ID" />": Hyrja është shpërfillur sepse është e përfshirë edhe në politikën e SpellcheckLanguage.</translation>
@@ -3032,7 +3022,7 @@ Detaje shtesë:
 <translation id="8807160976559152894">Prerje pas çdo faqeje</translation>
 <translation id="8813277370772331957">Më kujto më vonë</translation>
 <translation id="8814707942599948500">Zarf C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të përditësuar Chrome nga cilësimet e tua të Chrome</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, shtyp "Tab", më pas "Enter" për të përditësuar WEB3 DNA Browser nga cilësimet e tua të WEB3 DNA Browser</translation>
 <translation id="8820817407110198400">Faqeshënuesit</translation>
 <translation id="882338992931677877">Foleja manuale</translation>
 <translation id="8830320733681313421">Hagaki (kartolinë)</translation>
@@ -3046,7 +3036,7 @@ Detaje shtesë:
 <translation id="885306012106043620">Tenisi</translation>
 <translation id="8855742650226305367">Kërcimi</translation>
 <translation id="885730110891505394">Ndarja me Google</translation>
-<translation id="8858065207712248076">Chrome rekomandon rivendosjen e fjalëkalimit tënd të <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> nëse e ke ripërdorur në sajte të tjera.</translation>
+
 <translation id="885906927438988819">Nëse nuk ka ndonjë gabim drejtshkrimor, <ph name="BEGIN_LINK" />provo të ekzekutosh "Diagnostikimin e rrjetit të Windows"<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Kolonat zanore</translation>
 <translation id="8866481888320382733">Gabim gjatë analizimit të cilësimeve të politikës</translation>
@@ -3066,7 +3056,7 @@ Detaje shtesë:
 <translation id="8903921497873541725">Zmadho</translation>
 <translation id="890493561996401738">Butoni "Hiq sugjerimin", shtyp Enter për ta hequr, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Llogaria e Google</translation>
-<translation id="8913778647360618320">Butoni "Menaxho mënyrat e pagesës", shtyp "Enter" për të menaxhuar informacionet e pagesave dhe të kartës së kreditit te cilësimet e Chrome</translation>
+<translation id="8913778647360618320">Butoni "Menaxho mënyrat e pagesës", shtyp "Enter" për të menaxhuar informacionet e pagesave dhe të kartës së kreditit te cilësimet e WEB3 DNA Browser</translation>
 <translation id="8922013791253848639">Lejo gjithmonë reklamat në këtë sajt</translation>
 <translation id="892588693504540538">Shpim lart djathtas</translation>
 <translation id="8930330541574156305">Pasuritë e patundshme</translation>
@@ -3087,7 +3077,7 @@ Detaje shtesë:
 <translation id="8975263830901772334">Emrat e skedarëve që printon</translation>
 <translation id="8978053250194585037">"Shfletimi i sigurt i Google" <ph name="BEGIN_LINK" />zbuloi së fundi mashtrime<ph name="END_LINK" /> në <ph name="SITE" />. Sajtet mashtruese pretendojnë se janë sajte të tjera uebi për të të mashtruar.</translation>
 <translation id="8983369100812962543">Tani mund t'i ndryshosh përmasat e aplikacionit</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të shikuar historikun tënd të shfletimit në Chrome</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp "Tab" dhe më pas "Enter" për të shikuar historikun tënd të shfletimit në WEB3 DNA Browser</translation>
 <translation id="8987927404178983737">Muaji</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Po kërkon për versionin e sistemit? Vizito</translation>
@@ -3134,19 +3124,19 @@ Detaje shtesë:
 <translation id="908796725011587895">Sportet universitare</translation>
 <translation id="9089260154716455634">Politika për jashtë orarit:</translation>
 <translation id="9095388113577226029">Gjuhë të tjera...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />; shtyp "Tab" dhe më pas "Enter" për të caktuar Chrome si shfletuesin e parazgjedhur të sistemit te cilësimet e iOS</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />; shtyp "Tab" dhe më pas "Enter" për të caktuar WEB3 DNA Browser si shfletuesin e parazgjedhur të sistemit te cilësimet e iOS</translation>
 <translation id="9096679202588811390">Shfaqjet dhe programet televizive</translation>
 <translation id="9101630580131696064">Tabakaja 1</translation>
 <translation id="9102081333385212048">Skedarët që kopjon ose zhvendos dërgohen te Google Cloud ose te palë të treta për analizim. Për shembull, mund të skanohen për të dhëna delikate ose softuerë keqdashës.</translation>
 <translation id="9103537084693478942">Softuerët e videove</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> përdor zakonisht enkriptimin për mbrojtjen e informacioneve të tua. Kur Chromium u përpoq të lidhej me <ph name="SITE" /> këtë herë, sajti i uebit dërgoi prapa kredenciale të pazakonta dhe të pasakta. Kjo mund të ndodhë kur një sulmues pretendon se është <ph name="SITE" /> ose kur lidhja është ndërprerë nga një ekran i identifikimit të Wi-Fi. Informacionet e tua janë ende të sigurta sepse Chromium e ndaloi lidhjen përpara se të shkëmbeheshin të dhënat.</translation>
+
 <translation id="9106062320799175032">Shto adresë faturimi</translation>
 <translation id="9107467864910557787">Shfletuesi yt menaxhohet nga <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Politika e administratorit çaktivizon ndarjen e ekranit me <ph name="APPLICATION_TITLE" /> kur përmbajtja konfidenciale është e dukshme</translation>
 <translation id="9114524666733003316">Karta po konfirmohet…</translation>
-<translation id="9114581008513152754">Ky shfletues nuk menaxhohet nga një kompani ose organizatë tjetër. Aktiviteti në këtë pajisje mund të menaxhohet jashtë Chrome. <ph name="BEGIN_LINK" />Mëso më shumë<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">I freskët</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp Tab dhe më pas Enter për të rifilluar udhëtimin tënd dhe për të parë aktivitetin përkatës në historikun tënd të Chrome</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />. Shtyp Tab dhe më pas Enter për të rifilluar udhëtimin tënd dhe për të parë aktivitetin përkatës në historikun tënd të WEB3 DNA Browser</translation>
 <translation id="9119042192571987207">Ngarkuar</translation>
 <translation id="9122954576417194280">Tregtia e artikujve bazë dhe kontratave të të ardhmes</translation>
 <translation id="9128016270925453879">Politikat janë ngarkuar</translation>
@@ -3161,7 +3151,7 @@ Detaje shtesë:
 <translation id="9148088599418889305">Zgjidh mënyrën e dërgimit</translation>
 <translation id="9148507642005240123">&amp;Zhbëje redaktimin</translation>
 <translation id="9150045010208374699">Përdor kamerën</translation>
-<translation id="9150685862434908345">Administratori yt mund të ndryshojë konfigurimin e shfletuesit në distancë. Aktiviteti në këtë pajisje mund të menaxhohet edhe jashtë Chrome. <ph name="BEGIN_LINK" />Mëso më shumë<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">I përditësuar</translation>
 <translation id="9155211586651734179">Pajisjet periferike audio të lidhura</translation>
 <translation id="9157595877708044936">Po konfiguron...</translation>
@@ -3176,7 +3166,7 @@ Detaje shtesë:
 <translation id="917450738466192189">Certifikata e serverit është e pavlefshme.</translation>
 <translation id="9174623988242579721">Automjetet e personalizuara dhe të performancës</translation>
 <translation id="9174917557437862841">Butoni i ndërrimit të skedës, shtyp "Enter" për të kaluar te kjo skedë</translation>
-<translation id="9179703756951298733">Menaxho informacionet e pagesave dhe të kartës së kreditit te cilësimet e Chrome</translation>
+<translation id="9179703756951298733">Menaxho informacionet e pagesave dhe të kartës së kreditit te cilësimet e WEB3 DNA Browser</translation>
 <translation id="9179907736442194268">Merr sinjalizime me email nëse ulet çmimi në ndonjë sajt</translation>
 <translation id="9183302530794969518">Dokumentet e Google</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> përdor një protokoll të pambështetur.</translation>
@@ -3187,12 +3177,12 @@ Detaje shtesë:
 <translation id="920511547311754821">Nuk mund ta gjesh kodin tënd? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Dështoi në shtimin e artikullit.</translation>
 <translation id="9213433120051936369">Personalizo pamjen</translation>
-<translation id="9215416866750762878">Një aplikacion e pengon Chrome që të lidhet në mënyrë të sigurt me këtë sajt</translation>
+<translation id="717994082075351832">Një aplikacion e pengon WEB3 DNA Browser që të lidhet në mënyrë të sigurt me këtë sajt</translation>
 <translation id="9219103736887031265">Imazhet</translation>
-<translation id="922152298093051471">Personalizo Chrome</translation>
+<translation id="922152298093051471">Personalizo WEB3 DNA Browser</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">PASTRO FORMULARIN</translation>
-<translation id="936602727769022409">Mund të humbësh qasjen në "Llogarinë tënde të Google". Chromium rekomandon që ta ndryshosh fjalëkalimin tani. Do të të kërkohet që të identifikohesh.</translation>
+
 <translation id="937457230470581909">Kopshtet zoologjike, akuariumet dhe rezervuarët</translation>
 <translation id="939736085109172342">Dosje e re</translation>
 <translation id="940053046584497293">Udhëtimi dhe transporti</translation>

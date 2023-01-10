@@ -4,386 +4,386 @@
 <translation id="1026101648481255140">Reprèn la instal·lació</translation>
 <translation id="1029669172902658969">Reinicia per actualitzar &amp;Chromium OS</translation>
 <translation id="1065672644894730302">No es poden llegir les vostres preferències. És possible que algunes funcions no estiguin disponibles i que els canvis a les preferències no es desin.</translation>
-<translation id="1098170124587656448">Chromium pot ajudar a protegir-te de violacions de les dades, d'extensions malicioses i més</translation>
-<translation id="1104942323762546749">Chromium vol exportar les teves contrasenyes. Escriu la contrasenya de Windows per permetre-ho.</translation>
-<translation id="113122355610423240">Chromium és el navegador predeterminat</translation>
-<translation id="1131805035311359397">Per comprovar si les teves contrasenyes estan protegides contra violacions de les dades i contra altres problemes de seguretat, <ph name="BEGIN_LINK" />inicia la sessió a Chromium<ph name="END_LINK" />.</translation>
-<translation id="1185134272377778587">Quant a Chromium</translation>
+<translation id="4960963727707787489">WEB3 DNA Browser pot ajudar a protegir-te de violacions de les dades, d'extensions malicioses i més</translation>
+<translation id="1018420750873862665">WEB3 DNA Browser vol exportar les teves contrasenyes. Escriu la contrasenya de Windows per permetre-ho.</translation>
+<translation id="8728335547814212082">WEB3 DNA Browser és el navegador predeterminat</translation>
+<translation id="3462550327714525487">Per comprovar si les teves contrasenyes estan protegides contra violacions de les dades i contra altres problemes de seguretat, <ph name="BEGIN_LINK" />inicia la sessió a WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="4464481789599383598">Quant a WEB3 DNA Browser</translation>
 <translation id="1203500561924088507">T'agraïm la instal·lació. Has de reiniciar el navegador abans d'utilitzar <ph name="BUNDLE_NAME" />.</translation>
-<translation id="1231839967188101156">Quan aquesta opció està activada, Chromium allibera memòria de les pestanyes inactives. Així, les pestanyes actives i altres aplicacions disposen de més recursos de l'ordinador i es manté l'agilitat de Chromium. Les pestanyes inactives s'activen de nou automàticament quan hi tornes. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
-<translation id="1261119230216066228">Estalvi de memòria ha fet que Chromium sigui més ràpid</translation>
-<translation id="1315551408014407711">Configura el teu perfil de Chromium nou</translation>
-<translation id="1385859895174722837">L'Assistent de Google a Chromium</translation>
-<translation id="1396446129537741364">Chromium està provant de mostrar les contrasenyes.</translation>
-<translation id="1414495520565016063">Teniu la sessió iniciada a Chromium.</translation>
-<translation id="1493803763272692301">Pots treure el màxim profit de Chromium</translation>
-<translation id="1524282610922162960">Comparteix una pestanya de Chromium</translation>
-<translation id="1553461853655228091">Chromium necessita permís per accedir a la càmera i poder crear un mapa 3D del teu entorn</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{L'administrador necessita que reiniciïs Chromium per aplicar una actualització}=1{L'administrador necessita que reiniciïs Chromium per aplicar una actualització. La finestra d'incògnit no es tornarà a obrir.}other{L'administrador necessita que reiniciïs Chromium per aplicar una actualització. Les # finestres d'incògnit no es tornaran a obrir.}}</translation>
-<translation id="1625909126243026060">Revisa els controls principals de privadesa i seguretat a Chromium</translation>
-<translation id="1632539827495546968">Si vols utilitzar aquest compte només una vegada, pots utilitzar el <ph name="GUEST_LINK_BEGIN" />mode de convidat<ph name="GUEST_LINK_END" /> al navegador Chromium. Si vols afegir un compte per a algú altre, <ph name="LINK_BEGIN" />afegeix una persona nova<ph name="LINK_END" /> al teu <ph name="DEVICE_TYPE" />.
+<translation id="5978964989109500768">Quan aquesta opció està activada, WEB3 DNA Browser allibera memòria de les pestanyes inactives. Així, les pestanyes actives i altres aplicacions disposen de més recursos de l'ordinador i es manté l'agilitat de WEB3 DNA Browser. Les pestanyes inactives s'activen de nou automàticament quan hi tornes. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
+<translation id="2556820941333974881">Estalvi de memòria ha fet que WEB3 DNA Browser sigui més ràpid</translation>
+<translation id="8674698533637405550">Configura el teu perfil de WEB3 DNA Browser nou</translation>
+<translation id="5897235607289042281">L'Assistent de Google a WEB3 DNA Browser</translation>
+<translation id="4011302926653396528">WEB3 DNA Browser està provant de mostrar les contrasenyes.</translation>
+<translation id="7808556894409107558">Teniu la sessió iniciada a WEB3 DNA Browser.</translation>
+<translation id="2448956114941459869">Pots treure el màxim profit de WEB3 DNA Browser</translation>
+<translation id="6123758632973468022">Comparteix una pestanya de WEB3 DNA Browser</translation>
+<translation id="1232307829393891937">WEB3 DNA Browser necessita permís per accedir a la càmera i poder crear un mapa 3D del teu entorn</translation>
+<translation id="5103307222334991576">{COUNT,plural, =0{L'administrador necessita que reiniciïs WEB3 DNA Browser per aplicar una actualització}=1{L'administrador necessita que reiniciïs WEB3 DNA Browser per aplicar una actualització. La finestra d'incògnit no es tornarà a obrir.}other{L'administrador necessita que reiniciïs WEB3 DNA Browser per aplicar una actualització. Les # finestres d'incògnit no es tornaran a obrir.}}</translation>
+<translation id="7291131704197390431">Revisa els controls principals de privadesa i seguretat a WEB3 DNA Browser</translation>
+<translation id="5962221630684419652">Si vols utilitzar aquest compte només una vegada, pots utilitzar el <ph name="GUEST_LINK_BEGIN" />mode de convidat<ph name="GUEST_LINK_END" /> al navegador WEB3 DNA Browser. Si vols afegir un compte per a algú altre, <ph name="LINK_BEGIN" />afegeix una persona nova<ph name="LINK_END" /> al teu <ph name="DEVICE_TYPE" />.
 
 És possible que els permisos que ja hagis donat a llocs web i aplicacions s'apliquin a aquest compte. Pots gestionar els teus Comptes de Google a <ph name="SETTINGS_LINK_BEGIN" />Configuració<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1640672724030957280">S'està baixant...</translation>
-<translation id="1708666629004767631">Hi ha disponible una versió nova més segura de Chromium.</translation>
-<translation id="17264556997921157">Pots veure i suprimir els temes d'interès que els llocs web utilitzen per mostrar-te anuncis. Chromium estima els teus interessos basant-se en l'historial de navegació recent.</translation>
-<translation id="1774152462503052664">Permet que Chromium s'executi en segon pla</translation>
-<translation id="1779356040007214683">Perquè Chromium sigui més segur, hem desactivat algunes de les extensions que no apareixen a <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i que és possible que s'hagin afegit sense que ho sapigueu.</translation>
-<translation id="1808667845054772817">Torna a instal·lar Chromium</translation>
-<translation id="185970820835152459">Pots gestionar els Comptes de Google en què tens la sessió iniciada. Els Comptes de Google s'utilitzen per al navegador Chromium, Play Store, Gmail i més. Si vols afegir un compte per a algú altre, com ara un membre de la família, afegeix una persona nova al teu dispositiu <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Més informació<ph name="LINK_END" /></translation>
-<translation id="1863308913976887472">Els llocs web poden emmagatzemar informació a Chromium sobre els teus interessos. Per exemple, si visites un lloc web per comprar sabatilles per a una marató, és possible que el lloc web defineixi que t'interessa córrer maratons. Més endavant, si visites un altre lloc web per inscriure't a una cursa, aquest altre lloc web et pot mostrar un anunci de sabatilles de curses basant-se en els teus interessos.</translation>
-<translation id="1881322772814446296">Esteu a punt d'iniciar la sessió amb un compte gestionat i d'atorgar el control del vostre perfil de Chromium a l'administrador corresponent. Les dades de Chromium, com ara aplicacions, adreces d'interès, historial, contrasenyes i altres configuracions, s'enllaçaran permanentment amb <ph name="USER_NAME" />. Podreu suprimir aquestes dades mitjançant el Tauler de Comptes de Google, però no les podreu associar amb un altre compte. De manera opcional, podeu crear un perfil nou per mantenir les vostres dades de Chromium a part. <ph name="LEARN_MORE" /></translation>
-<translation id="1911763535808217981">En desactivar aquesta opció, pots iniciar la sessió en llocs web de Google, com ara Gmail, sense iniciar la sessió a Chromium</translation>
-<translation id="1929939181775079593">Chromium no respon. Voleu tornar-lo a iniciar ara?</translation>
+<translation id="2804101107797787361">Hi ha disponible una versió nova més segura de WEB3 DNA Browser.</translation>
+<translation id="9029405963934901712">Pots veure i suprimir els temes d'interès que els llocs web utilitzen per mostrar-te anuncis. WEB3 DNA Browser estima els teus interessos basant-se en l'historial de navegació recent.</translation>
+<translation id="2051400772676536118">Permet que WEB3 DNA Browser s'executi en segon pla</translation>
+<translation id="9219442880476358008">Perquè WEB3 DNA Browser sigui més segur, hem desactivat algunes de les extensions que no apareixen a <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i que és possible que s'hagin afegit sense que ho sapigueu.</translation>
+<translation id="2776567154969336836">Torna a instal·lar WEB3 DNA Browser</translation>
+<translation id="4915372523140836376">Pots gestionar els Comptes de Google en què tens la sessió iniciada. Els Comptes de Google s'utilitzen per al navegador WEB3 DNA Browser, Play Store, Gmail i més. Si vols afegir un compte per a algú altre, com ara un membre de la família, afegeix una persona nova al teu dispositiu <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Més informació<ph name="LINK_END" /></translation>
+<translation id="4370275707492934729">Els llocs web poden emmagatzemar informació a WEB3 DNA Browser sobre els teus interessos. Per exemple, si visites un lloc web per comprar sabatilles per a una marató, és possible que el lloc web defineixi que t'interessa córrer maratons. Més endavant, si visites un altre lloc web per inscriure't a una cursa, aquest altre lloc web et pot mostrar un anunci de sabatilles de curses basant-se en els teus interessos.</translation>
+<translation id="4590088122952951314">Esteu a punt d'iniciar la sessió amb un compte gestionat i d'atorgar el control del vostre perfil de WEB3 DNA Browser a l'administrador corresponent. Les dades de WEB3 DNA Browser, com ara aplicacions, adreces d'interès, historial, contrasenyes i altres configuracions, s'enllaçaran permanentment amb <ph name="USER_NAME" />. Podreu suprimir aquestes dades mitjançant el Tauler de Comptes de Google, però no les podreu associar amb un altre compte. De manera opcional, podeu crear un perfil nou per mantenir les vostres dades de WEB3 DNA Browser a part. <ph name="LEARN_MORE" /></translation>
+<translation id="1773107071029134155">En desactivar aquesta opció, pots iniciar la sessió en llocs web de Google, com ara Gmail, sense iniciar la sessió a WEB3 DNA Browser</translation>
+<translation id="1404683263809963517">WEB3 DNA Browser no respon. Voleu tornar-lo a iniciar ara?</translation>
 <translation id="193439633299369377">Cal reiniciar Chromium OS per aplicar l'actualització.</translation>
-<translation id="1940680973325097484">Si vols utilitzar aquest compte només una vegada, pots utilitzar el mode de convidat al navegador Chromium. Si vols afegir un compte per a algú altre, <ph name="LINK_BEGIN" />afegeix una persona nova<ph name="LINK_END" /> al teu <ph name="DEVICE_TYPE" />.
+<translation id="2844934533235602125">Si vols utilitzar aquest compte només una vegada, pots utilitzar el mode de convidat al navegador WEB3 DNA Browser. Si vols afegir un compte per a algú altre, <ph name="LINK_BEGIN" />afegeix una persona nova<ph name="LINK_END" /> al teu <ph name="DEVICE_TYPE" />.
 
 És possible que els permisos que ja hagis donat a llocs web i aplicacions s'apliquin a aquest compte. Pots gestionar els teus Comptes de Google a <ph name="SETTINGS_LINK_BEGIN" />Configuració<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1953553007165777902">S'està baixant... Queden <ph name="MINUTE" /> minuts</translation>
-<translation id="1966382378801805537">Chromium no pot determinar ni definir el navegador predeterminat</translation>
-<translation id="2008474315282236005">Amb aquesta acció, se suprimirà 1 element d'aquest dispositiu. Per recuperar les teves dades més endavant, inicia la sessió a Chromium com a <ph name="USER_EMAIL" />.</translation>
+<translation id="7100172292317798034">WEB3 DNA Browser no pot determinar ni definir el navegador predeterminat</translation>
+<translation id="7388619658790717510">Amb aquesta acció, se suprimirà 1 element d'aquest dispositiu. Per recuperar les teves dades més endavant, inicia la sessió a WEB3 DNA Browser com a <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">La instal·lació ha fallat. Torna-ho a provar.</translation>
-<translation id="2020032459870799438">Per comprovar si les teves altres contrasenyes estan protegides contra violacions de les dades i contra altres problemes de seguretat, <ph name="BEGIN_LINK" />inicia la sessió a Chromium<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Tria si vols incloure l'historial de Chromium per obtenir experiències més personalitzades als serveis de Google</translation>
-<translation id="2088953378266246249">Informació sobre com gestiona Chromium els seus certificats arrel</translation>
-<translation id="2174178932569897599">Personalitza Chromium</translation>
+<translation id="8775681507105719302">Per comprovar si les teves altres contrasenyes estan protegides contra violacions de les dades i contra altres problemes de seguretat, <ph name="BEGIN_LINK" />inicia la sessió a WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="6765354414432698675">Tria si vols incloure l'historial de WEB3 DNA Browser per obtenir experiències més personalitzades als serveis de Google</translation>
+<translation id="5773286839920477494">Informació sobre com gestiona WEB3 DNA Browser els seus certificats arrel</translation>
+<translation id="1342703999636762729">Personalitza WEB3 DNA Browser</translation>
 <translation id="2174917724755363426">La instal·lació no s'ha completat. Confirmes que vols cancel·lar-la?</translation>
-<translation id="2185166961232948079">Chromium - Inici de sessió a la xarxa - <ph name="PAGE_TITLE" /></translation>
-<translation id="2241627712206172106">Si compartiu un ordinador, els amics i els familiars poden navegar de manera independent i configurar Chromium com vulguin.</translation>
-<translation id="2313870531055795960">Compara els URL amb una llista de llocs web no segurs emmagatzemada a Chromium. Si un lloc web prova de robar-te la contrasenya o si baixes un fitxer maliciós, és possible que Chromium també n'enviï els URL, inclosos fragments de contingut de les pàgines, a Navegació segura.</translation>
-<translation id="2343156876103232566">Per enviar un número d'aquí al teu telèfon Android, inicia la sessió a Chromium en tots dos dispositius.</translation>
-<translation id="2347108572062610441">Aquesta extensió ha canviat la pàgina que es mostra quan inicieu Chromium.</translation>
+<translation id="4604256298037443917">WEB3 DNA Browser - Inici de sessió a la xarxa - <ph name="PAGE_TITLE" /></translation>
+<translation id="3692764894142598026">Si compartiu un ordinador, els amics i els familiars poden navegar de manera independent i configurar WEB3 DNA Browser com vulguin.</translation>
+<translation id="1653667178840181002">Compara els URL amb una llista de llocs web no segurs emmagatzemada a WEB3 DNA Browser. Si un lloc web prova de robar-te la contrasenya o si baixes un fitxer maliciós, és possible que WEB3 DNA Browser també n'enviï els URL, inclosos fragments de contingut de les pàgines, a Navegació segura.</translation>
+<translation id="4170954887813547201">Per enviar un número d'aquí al teu telèfon Android, inicia la sessió a WEB3 DNA Browser en tots dos dispositius.</translation>
+<translation id="7632546848754920458">Aquesta extensió ha canviat la pàgina que es mostra quan inicieu WEB3 DNA Browser.</translation>
 <translation id="2359808026110333948">Continua</translation>
 <translation id="2384373936468275798">Chromium OS no ha pogut sincronitzar les teves dades perquè la informació d'inici de sessió del teu compte no està actualitzada.</translation>
-<translation id="2396765026452590966">L'extensió <ph name="EXTENSION_NAME" /> ha canviat la pàgina que es mostra quan inicieu Chromium.</translation>
-<translation id="2401032172288869980">Chromium necessita permís d'accés a la càmera i al micròfon per a aquest lloc web</translation>
-<translation id="2483889755041906834">A Chromium</translation>
+<translation id="3766979587851503326">L'extensió <ph name="EXTENSION_NAME" /> ha canviat la pàgina que es mostra quan inicieu WEB3 DNA Browser.</translation>
+<translation id="3197411627422504716">WEB3 DNA Browser necessita permís d'accés a la càmera i al micròfon per a aquest lloc web</translation>
+<translation id="6895208784707407784">A WEB3 DNA Browser</translation>
 <translation id="2485422356828889247">Desinstal·la</translation>
-<translation id="2560420686485554789">Chromium necessita accedir a l'emmagatzematge per baixar fitxers</translation>
-<translation id="2572494885440352020">Aplicació d'ajuda de Chromium</translation>
-<translation id="2583187216237139145">L'administrador del perfil de treball pot suprimir qualsevol dada de Chromium que es generi durant l'ús d'aquest perfil, com ara les adreces d'interès, l'historial, les contrasenyes i altres opcions de configuració. <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Continua utilitzant Chromium</translation>
-<translation id="2648074677641340862">S'ha produït un error en el sistema operatiu durant la instal·lació. Torneu a baixar Chromium.</translation>
-<translation id="2661879430930417727">Si comparteixes un dispositiu, els amics i els familiars poden navegar per separat i configurar Chromium com vulguin</translation>
-<translation id="2669853942967761236">Chromium ha bloquejat aquest fitxer d'arxiu perquè és possible que amagui programari maliciós</translation>
-<translation id="268602741124540128"><ph name="ACCOUNT_FIRST_NAME" />, et donem la benvinguda a Chromium</translation>
-<translation id="2711502716910134313">Pestanya de Chromium</translation>
-<translation id="2718390899429598676">Per a més seguretat, Chromium encriptarà les teves dades.</translation>
+<translation id="5049950391929594900">WEB3 DNA Browser necessita accedir a l'emmagatzematge per baixar fitxers</translation>
+<translation id="2749516262341915024">Aplicació d'ajuda de WEB3 DNA Browser</translation>
+<translation id="2113242903075215938">L'administrador del perfil de treball pot suprimir qualsevol dada de WEB3 DNA Browser que es generi durant l'ús d'aquest perfil, com ara les adreces d'interès, l'historial, les contrasenyes i altres opcions de configuració. <ph name="LEARN_MORE" /></translation>
+<translation id="4952960270884842265">Continua utilitzant WEB3 DNA Browser</translation>
+<translation id="2731252252225464533">S'ha produït un error en el sistema operatiu durant la instal·lació. Torneu a baixar WEB3 DNA Browser.</translation>
+<translation id="1821196395946518624">Si comparteixes un dispositiu, els amics i els familiars poden navegar per separat i configurar WEB3 DNA Browser com vulguin</translation>
+<translation id="5872680003660133275">WEB3 DNA Browser ha bloquejat aquest fitxer d'arxiu perquè és possible que amagui programari maliciós</translation>
+<translation id="7648513030043385007"><ph name="ACCOUNT_FIRST_NAME" />, et donem la benvinguda a WEB3 DNA Browser</translation>
+<translation id="544374351717235856">Pestanya de WEB3 DNA Browser</translation>
+<translation id="5554916945232735698">Per a més seguretat, WEB3 DNA Browser encriptarà les teves dades.</translation>
 <translation id="2770231113462710648">Canvia el navegador predeterminat a:</translation>
 <translation id="2799223571221894425">Reinicia</translation>
-<translation id="2837693172913560447">Es crearà un perfil de Chromium nou per a <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="2847479871509788944">Suprimeix de Chromium...</translation>
-<translation id="2850691299438350830">Et protegeix a Chromium i és possible que s'utilitzi per millorar la teva seguretat en altres aplicacions de Google quan tinguis la sessió iniciada</translation>
+<translation id="7343868188703540938">Es crearà un perfil de WEB3 DNA Browser nou per a <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="4410717336615333062">Suprimeix de WEB3 DNA Browser...</translation>
+<translation id="4055140529823965372">Et protegeix a WEB3 DNA Browser i és possible que s'utilitzi per millorar la teva seguretat en altres aplicacions de Google quan tinguis la sessió iniciada</translation>
 <translation id="2885378588091291677">Gestor de tasques</translation>
-<translation id="2910007522516064972">Quant a &amp;Chromium</translation>
+<translation id="224853752763613334">Quant a &amp;WEB3 DNA Browser</translation>
 <translation id="2915996080311180594">Reinicia més tard</translation>
 <translation id="2928420929544864228">La instal·lació s'ha completat.</translation>
-<translation id="2977470724722393594">Chromium està actualitzat</translation>
-<translation id="2977506796191543575">Si un lloc web prova de robar-te la contrasenya o si baixes un fitxer maliciós, és possible que Chromium també n'enviï els URL, inclosos fragments de contingut de les pàgines, a Navegació segura.</translation>
-<translation id="2983934633046890458">Chromium està provant d'editar les contrasenyes.</translation>
-<translation id="3032706164202344641">Chromium no pot comprovar les teves contrasenyes. Torna-ho a provar més tard.</translation>
-<translation id="3032787606318309379">S'està afegint a Chromium...</translation>
+<translation id="8483611164641766271">WEB3 DNA Browser està actualitzat</translation>
+<translation id="2739338544529681223">Si un lloc web prova de robar-te la contrasenya o si baixes un fitxer maliciós, és possible que WEB3 DNA Browser també n'enviï els URL, inclosos fragments de contingut de les pàgines, a Navegació segura.</translation>
+<translation id="6709063507223740532">WEB3 DNA Browser està provant d'editar les contrasenyes.</translation>
+<translation id="6416874087185776406">WEB3 DNA Browser no pot comprovar les teves contrasenyes. Torna-ho a provar més tard.</translation>
+<translation id="7632657090539802919">S'està afegint a WEB3 DNA Browser...</translation>
 <translation id="3038232873781883849">S'està esperant per instal·lar...</translation>
-<translation id="3068515742935458733">Ajudeu a millorar Chromium; envieu informes d'error i <ph name="UMA_LINK" /> a Google.</translation>
-<translation id="3101560983689755071">El teu historial de navegació afecta els anuncis que veus i les estimacions d'interessos que es mostren més avall. Amb la finalitat de protegir la teva privadesa, Chromium suprimeix automàticament els interessos de manera contínua cada mes, i es poden actualitzar tret que els suprimeixis.</translation>
-<translation id="3103660991484857065">L'instal·lador no ha pogut descomprimir l'arxiu. Torneu a baixar Chromium.</translation>
-<translation id="3130323860337406239">Chromium està utilitzant el micròfon.</translation>
-<translation id="3155163173539279776">Torna a iniciar Chromium</translation>
-<translation id="3179665906251668410">Obre l'enllaç en una finestra d'incò&amp;gnit a Chromium</translation>
-<translation id="3185330573522821672">Personalitza el teu perfil de Chromium nou</translation>
-<translation id="3190315855212034486">Chromium s'ha bloquejat. Voleu tornar-lo a iniciar?</translation>
-<translation id="3229526316128325841">Chromium vol exportar les teves contrasenyes.</translation>
-<translation id="3258596308407688501">Chromium no pot llegir ni escriure en el directori de dades:
+<translation id="8517483409722571699">Ajudeu a millorar WEB3 DNA Browser; envieu informes d'error i <ph name="UMA_LINK" /> a Google.</translation>
+<translation id="4288053573753081242">El teu historial de navegació afecta els anuncis que veus i les estimacions d'interessos que es mostren més avall. Amb la finalitat de protegir la teva privadesa, WEB3 DNA Browser suprimeix automàticament els interessos de manera contínua cada mes, i es poden actualitzar tret que els suprimeixis.</translation>
+<translation id="4786656728645530523">L'instal·lador no ha pogut descomprimir l'arxiu. Torneu a baixar WEB3 DNA Browser.</translation>
+<translation id="9049602934378376908">WEB3 DNA Browser està utilitzant el micròfon.</translation>
+<translation id="5623271663074009477">Torna a iniciar WEB3 DNA Browser</translation>
+<translation id="8452871758697304895">Obre l'enllaç en una finestra d'incò&amp;gnit a WEB3 DNA Browser</translation>
+<translation id="1129084746726669073">Personalitza el teu perfil de WEB3 DNA Browser nou</translation>
+<translation id="5492613633683347362">WEB3 DNA Browser s'ha bloquejat. Voleu tornar-lo a iniciar?</translation>
+<translation id="8199824399077877420">WEB3 DNA Browser vol exportar les teves contrasenyes.</translation>
+<translation id="4228792865955409287">WEB3 DNA Browser no pot llegir ni escriure en el directori de dades:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3283186697780795848">Està instal·lada la versió <ph name="PRODUCT_VERSION" /> de Chromium</translation>
+<translation id="3857433786109736615">Està instal·lada la versió <ph name="PRODUCT_VERSION" /> de WEB3 DNA Browser</translation>
 <translation id="3286538390144397061">Reinicia ara</translation>
-<translation id="328888136576916638">Falten les claus de l'API de Google. Es desactivaran algunes de les funcions de Chromium.</translation>
-<translation id="3296368748942286671">Continua executant les aplicacions en segon pla quan es tanqui Chromium</translation>
-<translation id="3350761136195634146">Ja existeix un perfil de Chromium amb aquest compte</translation>
+<translation id="1496654316150745021">Falten les claus de l'API de Google. Es desactivaran algunes de les funcions de WEB3 DNA Browser.</translation>
+<translation id="1658920309978171288">Continua executant les aplicacions en segon pla quan es tanqui WEB3 DNA Browser</translation>
+<translation id="6099044929456210951">Ja existeix un perfil de WEB3 DNA Browser amb aquest compte</translation>
 <translation id="3387527074123400161">Chromium OS</translation>
-<translation id="3406848076815591792">Vols canviar al perfil de Chromium existent?</translation>
+<translation id="3490516070300665202">Vols canviar al perfil de WEB3 DNA Browser existent?</translation>
 <translation id="3412460710772753638">Al gestor de contrasenyes en aquest dispositiu</translation>
-<translation id="3420193029125244288">{COUNT,plural, =1{L'administrador ha configurat Chromium perquè es tanqui si està inactiu durant més d'1 minut.}other{L'administrador ha configurat Chromium perquè es tanqui si està inactiu durant més de # minuts.}}</translation>
-<translation id="3430503420100763906">Els perfils de Chromium et permeten separar tot el contingut de Chromium. Crea perfils per a amics i familiars, o separa la feina de la diversió.</translation>
-<translation id="347328004046849135">Chromium t'enviarà una notificació quan iniciïs la sessió amb una contrasenya en perill</translation>
-<translation id="3474745554856756813">Amb aquesta acció, se suprimiran <ph name="ITEMS_COUNT" /> elements d'aquest dispositiu. Per recuperar les teves dades més endavant, inicia la sessió a Chromium com a <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931"><ph name="SHORTCUT" /> permet canviar entre perfils de Chromium</translation>
-<translation id="3509308970982693815">Tanqueu totes les finestres de Chromium i torneu-ho a provar.</translation>
-<translation id="3518180795744733843">L'Assistent de Google a Chromium pot dur a terme accions per tu en llocs web</translation>
-<translation id="3533435340678213462">Amb la finalitat de protegir la teva privadesa, suprimim automàticament els interessos que tenen més de 4 setmanes. A mesura que continuïs navegant, és possible que torni a aparèixer un interès a la llista. També pots suprimir els interessos que no vulguis que Chromium tingui en compte.</translation>
-<translation id="3567254597502212821">El teu historial de navegació, que és un registre dels llocs web que has visitat amb Chromium en aquest dispositiu.</translation>
-<translation id="3575459661164320785">Hi ha programari nociu a l'ordinador. Chromium el pot suprimir, restaurar la configuració i desactivar les extensions perquè el navegador torni a funcionar amb normalitat.</translation>
-<translation id="3593091352817399191">Ja s'ha iniciat la sessió amb un altre compte. Per continuar amb la teva navegació per separat, Chromium et pot crear un perfil propi.</translation>
-<translation id="3639635944603682591">Les dades de navegació d'aquesta persona se suprimiran d'aquest dispositiu. Per recuperar-les, inicia la sessió a Chromium com a <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Hi ha una actualització nova de Chromium disponible i s'aplicarà tan aviat com el reiniciïs.}=1{Hi ha una actualització nova de Chromium disponible i s'aplicarà tan aviat com el reiniciïs. La finestra d'incògnit no es tornarà a obrir.}other{Hi ha una actualització nova de Chromium disponible i s'aplicarà tan aviat com el reiniciïs. Les # finestres d'incògnit no es tornaran a obrir.}}</translation>
-<translation id="3651803019964686660">Per enviar un número del dispositiu <ph name="ORIGIN" /> al teu telèfon Android, inicia la sessió a Chromium en tots dos dispositius.</translation>
-<translation id="3685209450716071127">Chromium no pot comprovar les teves contrasenyes. Comprova la connexió a Internet.</translation>
-<translation id="3702352323269013324">Més informació sobre la personalització d'anuncis a Chromium</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{L'administrador et demana que reiniciïs Chromium per aplicar aquesta actualització}=1{L'administrador et demana que reiniciïs Chromium per aplicar aquesta actualització. La finestra d'incògnit no es tornarà a obrir.}other{L'administrador et demana que reiniciïs Chromium per aplicar aquesta actualització. Les # finestres d'incògnit no es tornaran a obrir.}}</translation>
-<translation id="3713809861844741608">Obre l'enllaç en una pes&amp;tanya nova a Chromium</translation>
-<translation id="3728336900324680424">Chromium accedirà a Drive per fer suggeriments a la barra d'adreces</translation>
-<translation id="378917192836375108">Chromium us permet fer clic en un número de telèfon al web i trucar-hi amb Skype!</translation>
+<translation id="3459447433517900945">{COUNT,plural, =1{L'administrador ha configurat WEB3 DNA Browser perquè es tanqui si està inactiu durant més d'1 minut.}other{L'administrador ha configurat WEB3 DNA Browser perquè es tanqui si està inactiu durant més de # minuts.}}</translation>
+<translation id="8670809163194068299">Els perfils de WEB3 DNA Browser et permeten separar tot el contingut de WEB3 DNA Browser. Crea perfils per a amics i familiars, o separa la feina de la diversió.</translation>
+<translation id="9066892520177234564">WEB3 DNA Browser t'enviarà una notificació quan iniciïs la sessió amb una contrasenya en perill</translation>
+<translation id="2558936839934178842">Amb aquesta acció, se suprimiran <ph name="ITEMS_COUNT" /> elements d'aquest dispositiu. Per recuperar les teves dades més endavant, inicia la sessió a WEB3 DNA Browser com a <ph name="USER_EMAIL" />.</translation>
+<translation id="3356184603360407459"><ph name="SHORTCUT" /> permet canviar entre perfils de WEB3 DNA Browser</translation>
+<translation id="4904006555695224532">Tanqueu totes les finestres de WEB3 DNA Browser i torneu-ho a provar.</translation>
+<translation id="1702866421814791137">L'Assistent de Google a WEB3 DNA Browser pot dur a terme accions per tu en llocs web</translation>
+<translation id="5618636199529337261">Amb la finalitat de protegir la teva privadesa, suprimim automàticament els interessos que tenen més de 4 setmanes. A mesura que continuïs navegant, és possible que torni a aparèixer un interès a la llista. També pots suprimir els interessos que no vulguis que WEB3 DNA Browser tingui en compte.</translation>
+<translation id="319672769194370808">El teu historial de navegació, que és un registre dels llocs web que has visitat amb WEB3 DNA Browser en aquest dispositiu.</translation>
+<translation id="4060507003609322665">Hi ha programari nociu a l'ordinador. WEB3 DNA Browser el pot suprimir, restaurar la configuració i desactivar les extensions perquè el navegador torni a funcionar amb normalitat.</translation>
+<translation id="6858481853319304501">Ja s'ha iniciat la sessió amb un altre compte. Per continuar amb la teva navegació per separat, WEB3 DNA Browser et pot crear un perfil propi.</translation>
+<translation id="7181053905423306884">Les dades de navegació d'aquesta persona se suprimiran d'aquest dispositiu. Per recuperar-les, inicia la sessió a WEB3 DNA Browser com a <ph name="USER_EMAIL" />.</translation>
+<translation id="8833453854863974594">{COUNT,plural, =0{Hi ha una actualització nova de WEB3 DNA Browser disponible i s'aplicarà tan aviat com el reiniciïs.}=1{Hi ha una actualització nova de WEB3 DNA Browser disponible i s'aplicarà tan aviat com el reiniciïs. La finestra d'incògnit no es tornarà a obrir.}other{Hi ha una actualització nova de WEB3 DNA Browser disponible i s'aplicarà tan aviat com el reiniciïs. Les # finestres d'incògnit no es tornaran a obrir.}}</translation>
+<translation id="890421963650512515">Per enviar un número del dispositiu <ph name="ORIGIN" /> al teu telèfon Android, inicia la sessió a WEB3 DNA Browser en tots dos dispositius.</translation>
+<translation id="8559660999448670332">WEB3 DNA Browser no pot comprovar les teves contrasenyes. Comprova la connexió a Internet.</translation>
+<translation id="2460459186000985919">Més informació sobre la personalització d'anuncis a WEB3 DNA Browser</translation>
+<translation id="1249507445971540698">{COUNT,plural, =0{L'administrador et demana que reiniciïs WEB3 DNA Browser per aplicar aquesta actualització}=1{L'administrador et demana que reiniciïs WEB3 DNA Browser per aplicar aquesta actualització. La finestra d'incògnit no es tornarà a obrir.}other{L'administrador et demana que reiniciïs WEB3 DNA Browser per aplicar aquesta actualització. Les # finestres d'incògnit no es tornaran a obrir.}}</translation>
+<translation id="8552541042755991172">Obre l'enllaç en una pes&amp;tanya nova a WEB3 DNA Browser</translation>
+<translation id="6916875900143115982">WEB3 DNA Browser accedirà a Drive per fer suggeriments a la barra d'adreces</translation>
+<translation id="336867116231879142">WEB3 DNA Browser us permet fer clic en un número de telèfon al web i trucar-hi amb Skype!</translation>
 <translation id="3830894615770080216">Sistema Chromium OS</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" />: Chromium</translation>
+<translation id="8864402478426522531"><ph name="PAGE_TITLE" />: WEB3 DNA Browser</translation>
 <translation id="386822487697155367">Obtén ajuda per a Chromium OS</translation>
-<translation id="3871664619793219264">Obtén el contingut del teu navegador Chromium del compte <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="388648406173476553">Personalitza i controla Chromium. Cal la teva intervenció. Fes clic per obtenir més informació.</translation>
-<translation id="3889543394854987837">Feu clic al vostre nom per obrir Chromium i començar a navegar.</translation>
-<translation id="390528597099634151"><ph name="EXISTING_USER" /> ja té la sessió iniciada en aquest perfil de Chromium. Per continuar amb la teva navegació per separat, Chromium et pot crear un perfil propi.</translation>
-<translation id="391789666908693569"><ph name="MANAGER_NAME" /> gestiona el teu compte. L'administrador pot veure i editar aquest perfil del navegador Chromium i les dades associades, com ara les adreces d'interès, l'historial i les contrasenyes.</translation>
-<translation id="3945058413678539331">Chromium està provant de copiar les contrasenyes. Escriu la teva contrasenya de Windows per permetre-ho.</translation>
-<translation id="3962623956404948996">Chromium et recomana que analitzis el fitxer perquè pot ser perillós</translation>
+<translation id="3532820600057985798">Obtén el contingut del teu navegador WEB3 DNA Browser del compte <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="3254774751045951355">Personalitza i controla WEB3 DNA Browser. Cal la teva intervenció. Fes clic per obtenir més informació.</translation>
+<translation id="5690972056512883402">Feu clic al vostre nom per obrir WEB3 DNA Browser i començar a navegar.</translation>
+<translation id="5645023388974281920"><ph name="EXISTING_USER" /> ja té la sessió iniciada en aquest perfil de WEB3 DNA Browser. Per continuar amb la teva navegació per separat, WEB3 DNA Browser et pot crear un perfil propi.</translation>
+<translation id="8552133641824014764"><ph name="MANAGER_NAME" /> gestiona el teu compte. L'administrador pot veure i editar aquest perfil del navegador WEB3 DNA Browser i les dades associades, com ara les adreces d'interès, l'historial i les contrasenyes.</translation>
+<translation id="1745190996116952155">WEB3 DNA Browser està provant de copiar les contrasenyes. Escriu la teva contrasenya de Windows per permetre-ho.</translation>
+<translation id="2363126436977372294">WEB3 DNA Browser et recomana que analitzis el fitxer perquè pot ser perillós</translation>
 <translation id="3997429360543082038">Sobre Chromium OS</translation>
 <translation id="4019629340646866719">Chromium OS és possible gràcies a <ph name="BEGIN_LINK_CROS_OSS" />programari lliure<ph name="END_LINK_CROS_OSS" /> addicional, igual que l‘<ph name="BEGIN_LINK_LINUX_OSS" />entorn de desenvolupament de Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="4036079820698952681">Informa de la <ph name="BEGIN_LINK" />configuració actual<ph name="END_LINK" /> per ajudar-nos a millorar Chromium</translation>
+<translation id="7039332938370903722">Informa de la <ph name="BEGIN_LINK" />configuració actual<ph name="END_LINK" /> per ajudar-nos a millorar WEB3 DNA Browser</translation>
 <translation id="4050175100176540509">La versió més recent incorpora millores de seguretat i funcions noves importants.</translation>
 <translation id="4148957013307229264">S'està instal·lant...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> - Inici de sessió a la xarxa - Chromium</translation>
-<translation id="421369550622382712">Descobriu aplicacions, jocs, extensions i temes genials per a Chromium.</translation>
-<translation id="4216212958613226427">És l'idioma en què es mostra la IU de Chromium</translation>
+<translation id="9037768363939314060"><ph name="PAGE_TITLE" /> - Inici de sessió a la xarxa - WEB3 DNA Browser</translation>
+<translation id="65082721690930806">Descobriu aplicacions, jocs, extensions i temes genials per a WEB3 DNA Browser.</translation>
+<translation id="8180918330054927789">És l'idioma en què es mostra la IU de WEB3 DNA Browser</translation>
 <translation id="4222932583846282852">S'està cancel·lant...</translation>
-<translation id="4230135487732243613">Voleu enllaçar les vostres dades de Chromium amb aquest compte?</translation>
-<translation id="4271805377592243930">Obtén ajuda per a Chromium</translation>
-<translation id="4285930937574705105">S'ha produït un error no especificat durant la instal·lació. Si Chromium s'està executant en aquests moments, tanqueu-lo i torneu-ho a provar.</translation>
+<translation id="4117615645977273587">Voleu enllaçar les vostres dades de WEB3 DNA Browser amb aquest compte?</translation>
+<translation id="2562528065031024752">Obtén ajuda per a WEB3 DNA Browser</translation>
+<translation id="4628286205171331451">S'ha produït un error no especificat durant la instal·lació. Si WEB3 DNA Browser s'està executant en aquests moments, tanqueu-lo i torneu-ho a provar.</translation>
 <translation id="4304713468139749426">Gestor de contrasenyes</translation>
 <translation id="4334294535648607276">S'ha completat la baixada.</translation>
 <translation id="439358628917130594"><ph name="MANAGER" /> requereix que llegeixis i acceptis les condicions del servei següents abans d'utilitzar el dispositiu. Aquestes condicions no amplien, modifiquen ni limiten les condicions de Chromium OS.</translation>
-<translation id="4407044323746248786">Vols sortir de Chromium igualment?</translation>
-<translation id="4415566066719264597">Permet que Chromium s'executi en segon pla</translation>
-<translation id="4423735387467980091">Personalitza i controla Chromium</translation>
+<translation id="5363800095683563940">Vols sortir de WEB3 DNA Browser igualment?</translation>
+<translation id="4413681411297396618">Permet que WEB3 DNA Browser s'executi en segon pla</translation>
+<translation id="4960563596527056032">Personalitza i controla WEB3 DNA Browser</translation>
 <translation id="4427306783828095590">La protecció millorada és més efiçaç a l'hora de bloquejar la pesca de credencials i el programari maliciós</translation>
-<translation id="452711251841752011">Et donem la benvinguda a Chromium; s'ha obert una altra finestra del navegador</translation>
-<translation id="4544142686420020088">No s'ha actualitzat Chromium. S'ha produït un error. <ph name="BEGIN_LINK" />Soluciona els problemes i errors d'actualització de Chromium<ph name="END_LINK" />.</translation>
-<translation id="454579500955453258">Vols continuar en un perfil de Chromium nou?</translation>
+<translation id="5075487038316202932">Et donem la benvinguda a WEB3 DNA Browser; s'ha obert una altra finestra del navegador</translation>
+<translation id="8333408299151688471">No s'ha actualitzat WEB3 DNA Browser. S'ha produït un error. <ph name="BEGIN_LINK" />Soluciona els problemes i errors d'actualització de WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="5710517655208362990">Vols continuar en un perfil de WEB3 DNA Browser nou?</translation>
 <translation id="4567424176335768812">Has iniciat la sessió com a <ph name="USER_EMAIL_ADDRESS" />. Ja pots accedir a les teves adreces d'interès, al teu historial i a altres paràmetres en tots els dispositius en què tens la sessió iniciada.</translation>
 <translation id="4594305310729380060">Al gestor de contrasenyes en aquest dispositiu</translation>
-<translation id="459535195905078186">Aplicacions de Chromium</translation>
+<translation id="8700214093481776621">Aplicacions de WEB3 DNA Browser</translation>
 <translation id="4613863813562375431">Versió de Chromium OS</translation>
-<translation id="4621240073146040695">Gairebé has acabat amb l'actualització. Reinicia Chromium per completar-la.</translation>
-<translation id="4665829708273112819">Advertiment: Chromium no pot evitar que les extensions registrin l'historial de navegació. Per desactivar aquesta extensió en mode d'incògnit, desselecciona aquesta opció.</translation>
-<translation id="4673151026126227699">Si també comparteixes els informes d'ús de Chromium, aquests informes inclouen els URL que visites</translation>
-<translation id="4677944499843243528">Sembla que un altre procés de Chromium (<ph name="PROCESS_ID" />) està fent servir el perfil en un altre ordinador (<ph name="HOST_NAME" />). Chromium ha bloquejat el perfil perquè no es malmeti. Si esteu segur que no hi ha cap altre procés que utilitzi el perfil, podeu desbloquejar-lo i tornar a iniciar Chromium.</translation>
+<translation id="6951246183774166202">Gairebé has acabat amb l'actualització. Reinicia WEB3 DNA Browser per completar-la.</translation>
+<translation id="1967316171334904609">Advertiment: WEB3 DNA Browser no pot evitar que les extensions registrin l'historial de navegació. Per desactivar aquesta extensió en mode d'incògnit, desselecciona aquesta opció.</translation>
+<translation id="6242940079717718930">Si també comparteixes els informes d'ús de WEB3 DNA Browser, aquests informes inclouen els URL que visites</translation>
+<translation id="4405105480942922067">Sembla que un altre procés de WEB3 DNA Browser (<ph name="PROCESS_ID" />) està fent servir el perfil en un altre ordinador (<ph name="HOST_NAME" />). WEB3 DNA Browser ha bloquejat el perfil perquè no es malmeti. Si esteu segur que no hi ha cap altre procés que utilitzi el perfil, podeu desbloquejar-lo i tornar a iniciar WEB3 DNA Browser.</translation>
 <translation id="4680828127924988555">Cancel·la la instal·lació</translation>
-<translation id="4708774505295300557">Algú ha iniciat anteriorment la sessió a Chromium en aquest ordinador com a <ph name="ACCOUNT_EMAIL_LAST" />. Crea un usuari de Chromium per mantenir la informació separada.</translation>
-<translation id="4746050847053251315">Vols sortir de Chromium igualment?</translation>
-<translation id="4748217263233248895">S'acaba d'aplicar una actualització de seguretat especial per a Chromium. Reinicia el navegador i restaurarem les pestanyes.</translation>
-<translation id="4765210420921718862">Si canvies d'opinió, pots modificar la configuració de Chromium en qualsevol moment. Com que les proves s'executen en paral·lel a la manera actual de difondre els anuncis, no veuràs els canvis de seguida.</translation>
-<translation id="4788777615168560705">Chromium no pot comprovar les teves contrasenyes. Torna-ho a provar al cap de 24 hores o <ph name="BEGIN_LINK" />comprova les contrasenyes desades al teu Compte de Google<ph name="END_LINK" />.</translation>
+<translation id="3750760070906465924">Algú ha iniciat anteriorment la sessió a WEB3 DNA Browser en aquest ordinador com a <ph name="ACCOUNT_EMAIL_LAST" />. Crea un usuari de WEB3 DNA Browser per mantenir la informació separada.</translation>
+<translation id="1217313267986183942">Vols sortir de WEB3 DNA Browser igualment?</translation>
+<translation id="4805555266423130696">S'acaba d'aplicar una actualització de seguretat especial per a WEB3 DNA Browser. Reinicia el navegador i restaurarem les pestanyes.</translation>
+<translation id="3541589509773411057">Si canvies d'opinió, pots modificar la configuració de WEB3 DNA Browser en qualsevol moment. Com que les proves s'executen en paral·lel a la manera actual de difondre els anuncis, no veuràs els canvis de seguida.</translation>
+<translation id="2655572098566031184">WEB3 DNA Browser no pot comprovar les teves contrasenyes. Torna-ho a provar al cap de 24 hores o <ph name="BEGIN_LINK" />comprova les contrasenyes desades al teu Compte de Google<ph name="END_LINK" />.</translation>
 <translation id="479167709087336770">Fa servir el mateix corrector ortogràfic que s'utilitza a la Cerca de Google. El text que escrius al navegador s'envia a Google. Pots canviar aquest comportament sempre que vulguis a la configuració.</translation>
-<translation id="4888717733111232871">Regla d'entrada de Chromium per permetre el trànsit de mDNS.</translation>
-<translation id="4893347770495441059">Reinicia per actualitzar &amp;Chromium</translation>
-<translation id="4943838377383847465">Chromium està en mode de segon pla.</translation>
-<translation id="4987820182225656817">Els convidats poden utilitzar Chromium sense deixar-hi rastre.</translation>
-<translation id="4994636714258228724">Afegeix-me a Chromium</translation>
-<translation id="5114678101347489141">Chromium està explorant noves funcions que permetin als llocs web oferir la mateixa experiència de navegació utilitzant menys informació teva</translation>
-<translation id="5224391634244552924">No hi ha cap contrasenya desada. Chromium pot comprovar les teves contrasenyes quan les deses.</translation>
-<translation id="5252179775517634216"><ph name="EXISTING_USER" /> ja té la sessió iniciada en aquest perfil de Chromium. Es crearà un perfil de Chromium nou per a <ph name="USER_EMAIL_ADDRESS" />.</translation>
-<translation id="5277894862589591112">Torna a iniciar Chromium perquè s'apliquin els canvis</translation>
-<translation id="5296845517486664001">Quan les proves estan activades, i si Chromium t'ha inclòs aleatòriament en una prova activa, el teu historial de navegació afecta els anuncis que veus i les estimacions d'interessos que es mostren més avall. Amb la finalitat de protegir la teva privadesa, Chromium suprimeix els interessos de manera contínua cada mes.</translation>
-<translation id="5358375970380395591">Esteu a punt d'iniciar la sessió amb un compte gestionat i d'atorgar el control del vostre perfil de Chromium a l'administrador corresponent. Les dades de Chromium, com ara aplicacions, adreces d'interès, historial, contrasenyes i altres configuracions, s'enllaçaran permanentment amb <ph name="USER_NAME" />. Podreu suprimir aquestes dades mitjançant el Tauler de Comptes de Google, però no les podreu associar amb un altre compte. <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">S'està actualitzant Chromium (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Permet l'inici de sessió a Chromium</translation>
-<translation id="5398878173008909840">Hi ha disponible una versió nova de Chromium.</translation>
-<translation id="5405650547142096840">Elimina de Chromium</translation>
-<translation id="5421879995290576427">{0,plural, =0{Chromium es tancarà ara.}=1{Chromium es tancarà d'aquí a 1 segon.}other{Chromium es tancarà d'aquí a # segons.}}</translation>
-<translation id="5427571867875391349">Defineix Chromium com a navegador predeterminat</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> - Chromium Beta</translation>
-<translation id="5473971139929175403">Pot ser que Chromium no funcioni correctament perquè ja no és compatible amb aquesta distribució de Linux</translation>
-<translation id="5480860683791598150">Chromium necessita accedir a la teva ubicació per compartir-la amb aquest lloc web</translation>
-<translation id="5487574057737591516">Amb la finalitat de protegir la teva privadesa, suprimim automàticament els interessos que tenen més de 4 setmanes. A mesura que continuïs navegant, és possible que torni a aparèixer un interès a la llista. Si Chromium s'equivoca o no vols veure determinats anuncis, pots suprimir un interès.</translation>
-<translation id="549669000822060376">Espereu mentre Chromium instal·la les darreres actualitzacions del sistema.</translation>
-<translation id="5496810170689441661">Chromium està provant d'editar les contrasenyes. Escriu la teva contrasenya de Windows per permetre-ho.</translation>
-<translation id="5527463683072221100">Obre els fitxers PDF a Chromium</translation>
-<translation id="5614091477838198795">Si aquesta opció està activada, també se't tancarà la sessió de Chromium</translation>
-<translation id="5623402015214259806">{0,plural, =0{Hi ha una actualització de Chromium disponible}=1{Hi ha una actualització de Chromium disponible}other{Fa # dies que hi ha una actualització de Chromium disponible}}</translation>
-<translation id="5634636535844844681">Chromium requereix Windows 7 o una versió posterior.</translation>
-<translation id="5653831366781983928">Reinicia Chromium ara</translation>
-<translation id="5698481217667032250">Mostra Chromium en aquest idioma</translation>
-<translation id="5862307444128926510">Us donem la benvinguda a Chromium</translation>
-<translation id="5883558403894052917">Chromium ha detectat que aquests elements contenen programari maliciós:</translation>
+<translation id="6402416911698425675">Regla d'entrada de WEB3 DNA Browser per permetre el trànsit de mDNS.</translation>
+<translation id="5496148131599227635">Reinicia per actualitzar &amp;WEB3 DNA Browser</translation>
+<translation id="3889712706226772861">WEB3 DNA Browser està en mode de segon pla.</translation>
+<translation id="5502939625951695202">Els convidats poden utilitzar WEB3 DNA Browser sense deixar-hi rastre.</translation>
+<translation id="4935574428555172200">Afegeix-me a WEB3 DNA Browser</translation>
+<translation id="60503244591890876">WEB3 DNA Browser està explorant noves funcions que permetin als llocs web oferir la mateixa experiència de navegació utilitzant menys informació teva</translation>
+<translation id="282690038359289128">No hi ha cap contrasenya desada. WEB3 DNA Browser pot comprovar les teves contrasenyes quan les deses.</translation>
+<translation id="3588920839125338516"><ph name="EXISTING_USER" /> ja té la sessió iniciada en aquest perfil de WEB3 DNA Browser. Es crearà un perfil de WEB3 DNA Browser nou per a <ph name="USER_EMAIL_ADDRESS" />.</translation>
+<translation id="1712448899328197828">Torna a iniciar WEB3 DNA Browser perquè s'apliquin els canvis</translation>
+<translation id="5425968257754155673">Quan les proves estan activades, i si WEB3 DNA Browser t'ha inclòs aleatòriament en una prova activa, el teu historial de navegació afecta els anuncis que veus i les estimacions d'interessos que es mostren més avall. Amb la finalitat de protegir la teva privadesa, WEB3 DNA Browser suprimeix els interessos de manera contínua cada mes.</translation>
+<translation id="4715135477147720071">Esteu a punt d'iniciar la sessió amb un compte gestionat i d'atorgar el control del vostre perfil de WEB3 DNA Browser a l'administrador corresponent. Les dades de WEB3 DNA Browser, com ara aplicacions, adreces d'interès, historial, contrasenyes i altres configuracions, s'enllaçaran permanentment amb <ph name="USER_NAME" />. Podreu suprimir aquestes dades mitjançant el Tauler de Comptes de Google, però no les podreu associar amb un altre compte. <ph name="LEARN_MORE" /></translation>
+<translation id="3959775081883542439">S'està actualitzant WEB3 DNA Browser (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="8468846229743402892">Permet l'inici de sessió a WEB3 DNA Browser</translation>
+<translation id="868709743621506099">Hi ha disponible una versió nova de WEB3 DNA Browser.</translation>
+<translation id="8954902894032987165">Elimina de WEB3 DNA Browser</translation>
+<translation id="8529594966625997901">{0,plural, =0{WEB3 DNA Browser es tancarà ara.}=1{WEB3 DNA Browser es tancarà d'aquí a 1 segon.}other{WEB3 DNA Browser es tancarà d'aquí a # segons.}}</translation>
+<translation id="2581842036863502750">Defineix WEB3 DNA Browser com a navegador predeterminat</translation>
+<translation id="2775837035201231287"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Beta</translation>
+<translation id="3342188394733679831">Pot ser que WEB3 DNA Browser no funcioni correctament perquè ja no és compatible amb aquesta distribució de Linux</translation>
+<translation id="6744035239102820989">WEB3 DNA Browser necessita accedir a la teva ubicació per compartir-la amb aquest lloc web</translation>
+<translation id="1336779017674457494">Amb la finalitat de protegir la teva privadesa, suprimim automàticament els interessos que tenen més de 4 setmanes. A mesura que continuïs navegant, és possible que torni a aparèixer un interès a la llista. Si WEB3 DNA Browser s'equivoca o no vols veure determinats anuncis, pots suprimir un interès.</translation>
+<translation id="5998903067774658363">Espereu mentre WEB3 DNA Browser instal·la les darreres actualitzacions del sistema.</translation>
+<translation id="840929360644660930">WEB3 DNA Browser està provant d'editar les contrasenyes. Escriu la teva contrasenya de Windows per permetre-ho.</translation>
+<translation id="7784374736068182823">Obre els fitxers PDF a WEB3 DNA Browser</translation>
+<translation id="5825191796443441681">Si aquesta opció està activada, també se't tancarà la sessió de WEB3 DNA Browser</translation>
+<translation id="2714796268816869066">{0,plural, =0{Hi ha una actualització de WEB3 DNA Browser disponible}=1{Hi ha una actualització de WEB3 DNA Browser disponible}other{Fa # dies que hi ha una actualització de WEB3 DNA Browser disponible}}</translation>
+<translation id="685484431195180374">WEB3 DNA Browser requereix Windows 7 o una versió posterior.</translation>
+<translation id="8800866953688530873">Reinicia WEB3 DNA Browser ara</translation>
+<translation id="6138729568957684301">Mostra WEB3 DNA Browser en aquest idioma</translation>
+<translation id="3263014421647076303">Us donem la benvinguda a WEB3 DNA Browser</translation>
+<translation id="5243775519569499373">WEB3 DNA Browser ha detectat que aquests elements contenen programari maliciós:</translation>
 <translation id="5895138241574237353">Reinicia</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> - Inici de sessió a la xarxa</translation>
 <translation id="5924017743176219022">S'està connectant a Internet...</translation>
 <translation id="5941711191222866238">Minimitza</translation>
-<translation id="5972142260211327093">Si Chromium t'ha inclòs aleatòriament en una prova activa, el teu historial de navegació afecta els anuncis que veus i les estimacions d'interessos que es mostren més avall. Amb la finalitat de protegir la teva privadesa, Chromium suprimeix els interessos de manera contínua cada mes, i s'actualitzen tret que els suprimeixis.</translation>
-<translation id="5987687638152509985">Actualitza Chromium per iniciar la sincronització</translation>
-<translation id="5988505247484123880">És habitual que els llocs web que visites recordin coses que t'interessen per personalitzar la teva experiència. Els llocs web també poden emmagatzemar informació a Chromium sobre els teus interessos.</translation>
+<translation id="3298053682358110562">Si WEB3 DNA Browser t'ha inclòs aleatòriament en una prova activa, el teu historial de navegació afecta els anuncis que veus i les estimacions d'interessos que es mostren més avall. Amb la finalitat de protegir la teva privadesa, WEB3 DNA Browser suprimeix els interessos de manera contínua cada mes, i s'actualitzen tret que els suprimeixis.</translation>
+<translation id="692313353224514675">Actualitza WEB3 DNA Browser per iniciar la sincronització</translation>
+<translation id="616886729690540411">És habitual que els llocs web que visites recordin coses que t'interessen per personalitzar la teva experiència. Els llocs web també poden emmagatzemar informació a WEB3 DNA Browser sobre els teus interessos.</translation>
 <translation id="6003112304606738118">S'està baixant… Queden <ph name="HOURS" /> hores</translation>
 <translation id="6040143037577758943">Tanca</translation>
-<translation id="6055895534982063517">Hi ha disponible una versió nova de Chromium, i és més ràpida que mai.</translation>
-<translation id="6063093106622310249">&amp;Obre a Chromium</translation>
-<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> s'ha afegit a Chromium</translation>
-<translation id="6072463441809498330">Fes que Chromium sigui més ràpid</translation>
+<translation id="6530764363503202587">Hi ha disponible una versió nova de WEB3 DNA Browser, i és més ràpida que mai.</translation>
+<translation id="9118683902399158578">&amp;Obre a WEB3 DNA Browser</translation>
+<translation id="6636913786172654081"><ph name="EXTENSION_NAME" /> s'ha afegit a WEB3 DNA Browser</translation>
+<translation id="8335626147292265662">Fes que WEB3 DNA Browser sigui més ràpid</translation>
 <translation id="608006075545470555">Afegeix un perfil de treball a aquest navegador</translation>
-<translation id="6096348254544841612">Personalitza i controla Chromium. Hi ha una actualització disponible.</translation>
-<translation id="6119438414301547735">Permet que l'extensió mostri sol·licituds d'accés a la barra d'eines de Chromium</translation>
-<translation id="6120345080069858279">Chromium desarà aquesta contrasenya al Compte de Google. No caldrà que la recordis.</translation>
-<translation id="6129621093834146363">Chromium ha bloquejat <ph name="FILE_NAME" /> perquè és perillós.</translation>
-<translation id="6134968993075716475">Navegació segura està desactivada. Chromium recomana activar-la.</translation>
-<translation id="6145820983052037069">Pots canviar entre perfils de Chromium aquí</translation>
-<translation id="6183079672144801177">Assegura't que tinguis la sessió iniciada a Chromium a <ph name="TARGET_DEVICE_NAME" /> i prova d'enviar-ho de nou.</translation>
-<translation id="6212496753309875659">Aquest equip ja té una versió més recent de Chromium. Si el programari no funciona, desinstal·leu Chromium i torneu-ho a provar.</translation>
-<translation id="6219195342503754812">{0,plural, =0{Chromium es reiniciarà ara}=1{Chromium es reiniciarà d'aquí a 1 segon}other{Chromium es reiniciarà d'aquí a # segons}}</translation>
-<translation id="6241367896540709610">Chromium necessita permís d'accés a l'emmagatzematge per poder baixar fitxers</translation>
-<translation id="6245734527075554892">Compara els URL amb una llista de llocs web no segurs emmagatzemada a Chromium</translation>
-<translation id="6248213926982192922">Estableix Chromium com a navegador predeterminat</translation>
-<translation id="6266342355635466082">Chromium no pot cercar actualitzacions. Comprova la connexió a Internet.</translation>
-<translation id="6268381023930128611">Voleu tancar la sessió de Chromium?</translation>
+<translation id="584202866735675117">Personalitza i controla WEB3 DNA Browser. Hi ha una actualització disponible.</translation>
+<translation id="7117732708950464239">Permet que l'extensió mostri sol·licituds d'accés a la barra d'eines de WEB3 DNA Browser</translation>
+<translation id="5619841049631523040">WEB3 DNA Browser desarà aquesta contrasenya al Compte de Google. No caldrà que la recordis.</translation>
+<translation id="6208909969393126843">WEB3 DNA Browser ha bloquejat <ph name="FILE_NAME" /> perquè és perillós.</translation>
+<translation id="3631145753627335779">Navegació segura està desactivada. WEB3 DNA Browser recomana activar-la.</translation>
+<translation id="5305820434154384954">Pots canviar entre perfils de WEB3 DNA Browser aquí</translation>
+<translation id="3213257950272370797">Assegura't que tinguis la sessió iniciada a WEB3 DNA Browser a <ph name="TARGET_DEVICE_NAME" /> i prova d'enviar-ho de nou.</translation>
+<translation id="4829390996077196027">Aquest equip ja té una versió més recent de WEB3 DNA Browser. Si el programari no funciona, desinstal·leu WEB3 DNA Browser i torneu-ho a provar.</translation>
+<translation id="1584253311175653367">{0,plural, =0{WEB3 DNA Browser es reiniciarà ara}=1{WEB3 DNA Browser es reiniciarà d'aquí a 1 segon}other{WEB3 DNA Browser es reiniciarà d'aquí a # segons}}</translation>
+<translation id="2125787073718346702">WEB3 DNA Browser necessita permís d'accés a l'emmagatzematge per poder baixar fitxers</translation>
+<translation id="7121868166864824169">Compara els URL amb una llista de llocs web no segurs emmagatzemada a WEB3 DNA Browser</translation>
+<translation id="4611945660893475598">Estableix WEB3 DNA Browser com a navegador predeterminat</translation>
+<translation id="5093746667503154407">WEB3 DNA Browser no pot cercar actualitzacions. Comprova la connexió a Internet.</translation>
+<translation id="3169777041995452544">Voleu tancar la sessió de WEB3 DNA Browser?</translation>
 <translation id="6273793429163604305">Preparats…</translation>
-<translation id="6281746429495226318">Personalitza el teu perfil de Chromium</translation>
-<translation id="6290827346642914212">Posa nom al teu perfil de Chromium</translation>
-<translation id="6295779123002464101">Chromium ha bloquejat <ph name="FILE_NAME" /> perquè pot ser perillós.</translation>
-<translation id="6309712487085796862">Chromium està utilitzant la càmera.</translation>
-<translation id="632355235628111698">Chromium ha bloquejat aquest fitxer perquè és perillós</translation>
+<translation id="6865466134977675861">Personalitza el teu perfil de WEB3 DNA Browser</translation>
+<translation id="3066241024811585202">Posa nom al teu perfil de WEB3 DNA Browser</translation>
+<translation id="4551717314122756729">WEB3 DNA Browser ha bloquejat <ph name="FILE_NAME" /> perquè pot ser perillós.</translation>
+<translation id="3046912207030099554">WEB3 DNA Browser està utilitzant la càmera.</translation>
+<translation id="6384166038402983055">WEB3 DNA Browser ha bloquejat aquest fitxer perquè és perillós</translation>
 <translation id="6327105987658262776">No hi ha cap actualització disponible.</translation>
-<translation id="6333502561965082103">Hi ha una altra operació en curs a Chromium. Torna-ho a provar més tard.</translation>
-<translation id="6334986366598267305">Ara resulta més fàcil utilitzar Chromium amb el vostre compte de Google i en ordinadors compartits.</translation>
-<translation id="6373523479360886564">Confirmeu que voleu desinstal·lar Chromium?</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Com utilitzem aquestes dades<ph name="END_BOLD" />: Chromium pot estimar els teus interessos. Després, un lloc web que visitis pot demanar els teus interessos a Chromium per personalitzar els anuncis que veus.</translation>
-<translation id="6403826409255603130">Chromium és un navegador web que executa les pàgines web i les aplicacions a gran velocitat. És ràpid, estable i fàcil d'utilitzar. Navegueu per Internet amb més seguretat amb protecció inserida a Chromium contra el programari maliciós i contra la pesca de credencials.</translation>
+<translation id="1452531430459107501">Hi ha una altra operació en curs a WEB3 DNA Browser. Torna-ho a provar més tard.</translation>
+<translation id="5949643712250952992">Ara resulta més fàcil utilitzar WEB3 DNA Browser amb el vostre compte de Google i en ordinadors compartits.</translation>
+<translation id="3428207813941614733">Confirmeu que voleu desinstal·lar WEB3 DNA Browser?</translation>
+<translation id="8367277764281804913"><ph name="BEGIN_BOLD" />Com utilitzem aquestes dades<ph name="END_BOLD" />: WEB3 DNA Browser pot estimar els teus interessos. Després, un lloc web que visitis pot demanar els teus interessos a WEB3 DNA Browser per personalitzar els anuncis que veus.</translation>
+<translation id="3646769559663834227">WEB3 DNA Browser és un navegador web que executa les pàgines web i les aplicacions a gran velocitat. És ràpid, estable i fàcil d'utilitzar. Navegueu per Internet amb més seguretat amb protecció inserida a WEB3 DNA Browser contra el programari maliciós i contra la pesca de credencials.</translation>
 <translation id="6442900851116057561">Reinicia Chromium OS</translation>
-<translation id="6455857529632101747">Et donem la benvinguda als perfils de Chromium</translation>
-<translation id="6457450909262716557">{SECONDS,plural, =1{Chromium es reiniciarà d'aquí a 1 segon}other{Chromium es reiniciarà d'aquí a # segons}}</translation>
-<translation id="6475912303565314141">També controla la pàgina que es mostra quan inicieu Chromium.</translation>
-<translation id="6510925080656968729">Desinstal·la Chromium</translation>
-<translation id="6542839706527980775">Cada perfil conserva la seva pròpia informació de Chromium, com ara les adreces d'interès, l'historial, les contrasenyes i més</translation>
-<translation id="6570579332384693436">Per corregir els errors d'ortografia, Chromium envia a Google el que escrius als camps de text</translation>
-<translation id="6598877126913850652">Ves a la configuració de notificacions de Chromium</translation>
-<translation id="6613594504749178791">Els canvis s'aplicaran la propera vegada que reinicieu Chromium.</translation>
-<translation id="665732753414869868">Chromium necessita permís d'accés a la càmera per poder crear un mapa en 3D del teu entorn</translation>
+<translation id="4806322893637813344">Et donem la benvinguda als perfils de WEB3 DNA Browser</translation>
+<translation id="3150453102283643478">{SECONDS,plural, =1{WEB3 DNA Browser es reiniciarà d'aquí a 1 segon}other{WEB3 DNA Browser es reiniciarà d'aquí a # segons}}</translation>
+<translation id="6475912303565314141">També controla la pàgina que es mostra quan inicieu WEB3 DNA Browser.</translation>
+<translation id="1113676425111919541">Desinstal·la WEB3 DNA Browser</translation>
+<translation id="4127557045835948655">Cada perfil conserva la seva pròpia informació de WEB3 DNA Browser, com ara les adreces d'interès, l'historial, les contrasenyes i més</translation>
+<translation id="82412484113149506">Per corregir els errors d'ortografia, WEB3 DNA Browser envia a Google el que escrius als camps de text</translation>
+<translation id="1041508100495026545">Ves a la configuració de notificacions de WEB3 DNA Browser</translation>
+<translation id="8823298025665339355">Els canvis s'aplicaran la propera vegada que reinicieu WEB3 DNA Browser.</translation>
+<translation id="2513279141152484388">WEB3 DNA Browser necessita permís d'accés a la càmera per poder crear un mapa en 3D del teu entorn</translation>
 <translation id="6676384891291319759">Accedeix a Internet</translation>
 <translation id="668175097507315160">Chromium OS no ha pogut sincronitzar les teves dades a causa d'un error en iniciar la sessió.</translation>
-<translation id="6709350901466051922">Chromium necessita permís d'accés al micròfon per a aquest lloc web</translation>
-<translation id="6717134281241384636">El vostre perfil no es pot utilitzar perquè es va crear amb una versió més recent de Chromium.
+<translation id="3485439540953416536">WEB3 DNA Browser necessita permís d'accés al micròfon per a aquest lloc web</translation>
+<translation id="3898949707616141056">El vostre perfil no es pot utilitzar perquè es va crear amb una versió més recent de WEB3 DNA Browser.
 
-És possible que algunes funcions no estiguin disponibles. Especifiqueu un altre directori de perfil o utilitzeu una versió més nova de Chromium.</translation>
-<translation id="6730677189742196061">Estalvi de memòria ha fet que Chromium sigui més ràpid</translation>
-<translation id="6734291798041940871">Ja tens instal·lat Chromium per a tots els usuaris de l'ordinador.</translation>
-<translation id="673636774878526923">Per accedir al teu contingut de Chromium des de tots els teus dispositius, inicia la sessió i, després, activa la sincronització.</translation>
-<translation id="6774082503108938489">Els teus pares han desactivat Permisos per a llocs web, aplicacions i extensions en relació amb Chromium. No es permet activar aquesta <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
+És possible que algunes funcions no estiguin disponibles. Especifiqueu un altre directori de perfil o utilitzeu una versió més nova de WEB3 DNA Browser.</translation>
+<translation id="2841305420532702376">Estalvi de memòria ha fet que WEB3 DNA Browser sigui més ràpid</translation>
+<translation id="4553621150701650138">Ja tens instal·lat WEB3 DNA Browser per a tots els usuaris de l'ordinador.</translation>
+<translation id="3957858324423880626">Per accedir al teu contingut de WEB3 DNA Browser des de tots els teus dispositius, inicia la sessió i, després, activa la sincronització.</translation>
+<translation id="1489635928648141251">Els teus pares han desactivat Permisos per a llocs web, aplicacions i extensions en relació amb WEB3 DNA Browser. No es permet activar aquesta <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
 <translation id="6779406956731413166">Chromium OS és possible gràcies a <ph name="BEGIN_LINK_CROS_OSS" />programari lliure addicional<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="6847869444787758381">Chromium et permet saber si les contrasenyes s'han posat en perill</translation>
-<translation id="6852530923436401894">Chromium ha bloquejat aquest fitxer perquè inclou programari maliciós</translation>
-<translation id="6857782730669500492">Chromium: <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">Google Pay (copiada a Chromium)</translation>
-<translation id="6873893289264747459">Chromium ha detectat que l'extensió "<ph name="EXTENSION_NAME" />" conté programari maliciós</translation>
-<translation id="6893813176749746474">S'ha actualitzat Chromium, però fa almenys 30 dies que no l'heu utilitzat.</translation>
-<translation id="691026815377248078">Chromium necessita accedir al Bluetooth per continuar 
+<translation id="6798439930306865443">WEB3 DNA Browser et permet saber si les contrasenyes s'han posat en perill</translation>
+<translation id="877665203225711835">WEB3 DNA Browser ha bloquejat aquest fitxer perquè inclou programari maliciós</translation>
+<translation id="7732765206800238484">WEB3 DNA Browser: <ph name="PAGE_TITLE" /></translation>
+<translation id="2089740034323086528">Google Pay (copiada a WEB3 DNA Browser)</translation>
+<translation id="2329130305935541101">WEB3 DNA Browser ha detectat que l'extensió "<ph name="EXTENSION_NAME" />" conté programari maliciós</translation>
+<translation id="2947483933825476413">S'ha actualitzat WEB3 DNA Browser, però fa almenys 30 dies que no l'heu utilitzat.</translation>
+<translation id="8828344991758417694">WEB3 DNA Browser necessita accedir al Bluetooth per continuar 
  amb la vinculació. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Quan les proves estan activades, el mesurament d'anuncis permet als llocs web que visites sol·licitar informació de Chromium que els ajudi a mesurar el rendiment dels anuncis. El mesurament d'anuncis restringeix el seguiment entre llocs web transferint la quantitat mínima possible d'informació entre llocs web.</translation>
-<translation id="6940431691900807093">Després, un lloc web que visitis pot demanar els teus interessos a Chromium per personalitzar els anuncis que veus. Chromium pot compartir un màxim de 3 interessos.</translation>
-<translation id="6964305034639999644">Obre l'enllaç en una finestra d'incò&amp;gnit a Chromium</translation>
-<translation id="6978145336957848883">Les contrasenyes poc segures són fàcils d'endevinar. Deixa que Chromium <ph name="BEGIN_LINK" />creï i recordi contrasenyes segures en nom teu<ph name="END_LINK" />.</translation>
-<translation id="6984667024406244807">Chromium està inactiu</translation>
+<translation id="9067852028442542655">Quan les proves estan activades, el mesurament d'anuncis permet als llocs web que visites sol·licitar informació de WEB3 DNA Browser que els ajudi a mesurar el rendiment dels anuncis. El mesurament d'anuncis restringeix el seguiment entre llocs web transferint la quantitat mínima possible d'informació entre llocs web.</translation>
+<translation id="6638774777596425412">Després, un lloc web que visitis pot demanar els teus interessos a WEB3 DNA Browser per personalitzar els anuncis que veus. WEB3 DNA Browser pot compartir un màxim de 3 interessos.</translation>
+<translation id="1618581910910744310">Obre l'enllaç en una finestra d'incò&amp;gnit a WEB3 DNA Browser</translation>
+<translation id="1141174083986936166">Les contrasenyes poc segures són fàcils d'endevinar. Deixa que WEB3 DNA Browser <ph name="BEGIN_LINK" />creï i recordi contrasenyes segures en nom teu<ph name="END_LINK" />.</translation>
+<translation id="1422439798626251044">WEB3 DNA Browser està inactiu</translation>
 <translation id="6985329841647292029">Condicions de Chromium OS</translation>
-<translation id="6990124437352146030">Per visitar aquest lloc web, Chromium necessita permís per accedir al micròfon</translation>
+<translation id="8045464583440265694">Per visitar aquest lloc web, WEB3 DNA Browser necessita permís per accedir al micròfon</translation>
 <translation id="7025789849649390912">La instal·lació s'ha aturat.</translation>
-<translation id="705851970750939768">Actualitza Chromium</translation>
-<translation id="7067091210845072982">Si una imatge no té una descripció útil, Chromium provarà d'oferir-te'n una. Per crear les descripcions, les imatges s'envien a Google.</translation>
-<translation id="718435575166326686">Chromium necessita permís d'accés a la càmera per a aquest lloc web</translation>
-<translation id="7196312274710523067">No s'ha pogut iniciar Chromium. Torna-ho a provar.</translation>
-<translation id="7197677400338048821">Chromium no pot comprovar les teves contrasenyes. Torna-ho a provar al cap de 24 hores.</translation>
-<translation id="7218568399872925918">Els llocs web que visites recorden la teva informació fins que tanques Chromium.</translation>
-<translation id="7223968959479464213">Gestor de tasques: Chromium</translation>
-<translation id="7246575524853130370">Els teus interessos segons les estimacions de Chromium</translation>
-<translation id="7309928523159922338">El mesurament d'anuncis permet als llocs web que visites sol·licitar informació de Chromium que els ajudi a mesurar el rendiment dels anuncis. El mesurament d'anuncis restringeix el seguiment entre llocs web transferint la quantitat mínima possible d'informació entre llocs web.</translation>
-<translation id="731795002583552498">S'està actualitzant Chromium</translation>
-<translation id="7318036098707714271">El fitxer de preferències està malmès o no és vàlid.
+<translation id="475843105037256922">Actualitza WEB3 DNA Browser</translation>
+<translation id="326486748351990910">Si una imatge no té una descripció útil, WEB3 DNA Browser provarà d'oferir-te'n una. Per crear les descripcions, les imatges s'envien a Google.</translation>
+<translation id="5618043080831675837">WEB3 DNA Browser necessita permís d'accés a la càmera per a aquest lloc web</translation>
+<translation id="6831720849639347633">No s'ha pogut iniciar WEB3 DNA Browser. Torna-ho a provar.</translation>
+<translation id="7914905542208857296">WEB3 DNA Browser no pot comprovar les teves contrasenyes. Torna-ho a provar al cap de 24 hores.</translation>
+<translation id="2219572028161280443">Els llocs web que visites recorden la teva informació fins que tanques WEB3 DNA Browser.</translation>
+<translation id="3988179273882088670">Gestor de tasques: WEB3 DNA Browser</translation>
+<translation id="8082426603469914763">Els teus interessos segons les estimacions de WEB3 DNA Browser</translation>
+<translation id="3791422786486318548">El mesurament d'anuncis permet als llocs web que visites sol·licitar informació de WEB3 DNA Browser que els ajudi a mesurar el rendiment dels anuncis. El mesurament d'anuncis restringeix el seguiment entre llocs web transferint la quantitat mínima possible d'informació entre llocs web.</translation>
+<translation id="3826673197841439968">S'està actualitzant WEB3 DNA Browser</translation>
+<translation id="3105300744480734014">El fitxer de preferències està malmès o no és vàlid.
 
-Chromium no pot recuperar la configuració.</translation>
-<translation id="7337881442233988129">Chromium</translation>
+WEB3 DNA Browser no pot recuperar la configuració.</translation>
+<translation id="4691707200828155405">WEB3 DNA Browser</translation>
 <translation id="7339898014177206373">Finestra nova</translation>
-<translation id="734373864078049451">El vostre web, les adreces d'interès i altres coses de Chromium resideixen aquí.</translation>
-<translation id="7349591376906416160">L'administrador del sistema ha configurat Chromium perquè obri <ph name="ALTERNATIVE_BROWSER_NAME" /> per accedir a <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7398989605938454041">Els perfils de Chromium et permeten separar tot el teu contingut de Chromium. Així et serà més fàcil separar la feina de la diversió.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> - Chromium Dev</translation>
-<translation id="7451052299415159299">Per visitar aquest lloc web, Chromium necessita permís per accedir a la càmera</translation>
-<translation id="7461356015007898716">Per obtenir actualitzacions de Chromium en el futur, necessitaràs Windows 10 o una versió posterior. Aquest ordinador utilitza Windows 7.</translation>
-<translation id="7467949745582939695">Vols tornar a iniciar Chromium?</translation>
-<translation id="7483335560992089831">No es pot instal·lar la mateixa versió de Chromium que s'està executant actualment. Tanqueu Chromium i torneu-ho a provar.</translation>
-<translation id="753534427205733210">{0,plural, =1{Chromium es reiniciarà d'aquí a 1 minut}other{Chromium es reiniciarà d'aquí a # minuts}}</translation>
-<translation id="7561906087460245826">Esborra també les dades de Chromium (<ph name="URL" />)</translation>
-<translation id="7582945390259497898">Chromium pot estimar els teus interessos. Després, un lloc web que visitis pot demanar els teus interessos a Chromium per personalitzar els anuncis que veus.</translation>
+<translation id="866415121309420782">El vostre web, les adreces d'interès i altres coses de WEB3 DNA Browser resideixen aquí.</translation>
+<translation id="2516718275146731816">L'administrador del sistema ha configurat WEB3 DNA Browser perquè obri <ph name="ALTERNATIVE_BROWSER_NAME" /> per accedir a <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="5218043865814307173">Els perfils de WEB3 DNA Browser et permeten separar tot el teu contingut de WEB3 DNA Browser. Així et serà més fàcil separar la feina de la diversió.</translation>
+<translation id="5690617926609878272"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Dev</translation>
+<translation id="3479625329890795142">Per visitar aquest lloc web, WEB3 DNA Browser necessita permís per accedir a la càmera</translation>
+<translation id="3327138471292503109">Per obtenir actualitzacions de WEB3 DNA Browser en el futur, necessitaràs Windows 10 o una versió posterior. Aquest ordinador utilitza Windows 7.</translation>
+<translation id="570029382864869633">Vols tornar a iniciar WEB3 DNA Browser?</translation>
+<translation id="7081567920020845898">No es pot instal·lar la mateixa versió de WEB3 DNA Browser que s'està executant actualment. Tanqueu WEB3 DNA Browser i torneu-ho a provar.</translation>
+<translation id="2308694661846361163">{0,plural, =1{WEB3 DNA Browser es reiniciarà d'aquí a 1 minut}other{WEB3 DNA Browser es reiniciarà d'aquí a # minuts}}</translation>
+<translation id="7403013663461228352">Esborra també les dades de WEB3 DNA Browser (<ph name="URL" />)</translation>
+<translation id="5628570284195611526">WEB3 DNA Browser pot estimar els teus interessos. Després, un lloc web que visitis pot demanar els teus interessos a WEB3 DNA Browser per personalitzar els anuncis que veus.</translation>
 <translation id="7583399374488819119">Instal·lador de <ph name="COMPANY_NAME" /></translation>
-<translation id="7597596667193879455">Has activat Navegació segura millorada al teu compte. Ara, activa-la a Chromium.</translation>
-<translation id="761356813943268536">Chromium està utilitzant la càmera i el micròfon.</translation>
-<translation id="7617377681829253106">Chromium és millor que mai</translation>
+<translation id="18937021822671718">Has activat Navegació segura millorada al teu compte. Ara, activa-la a WEB3 DNA Browser.</translation>
+<translation id="2422729508884289622">WEB3 DNA Browser està utilitzant la càmera i el micròfon.</translation>
+<translation id="7649176261008984828">WEB3 DNA Browser és millor que mai</translation>
 <translation id="7649070708921625228">Ajuda</translation>
-<translation id="7682213815243802460">Pots obtenir més informació sobre aquestes funcions a la configuració de Chromium.</translation>
-<translation id="7682601070171973634">Chromium està explorant noves funcions que permetin als llocs web oferir la mateixa experiència de navegació utilitzant menys dades</translation>
-<translation id="7686590090926151193">Chromium no és el navegador predeterminat</translation>
-<translation id="7689606757190482937">Sincronitza i personalitza Chromium en tots els teus dispositius</translation>
-<translation id="7745317241717453663">Amb aquesta acció, se suprimiran les teves dades de navegació d'aquest dispositiu. Per recuperar les teves dades més endavant, inicia la sessió a Chromium com a <ph name="USER_EMAIL" />.</translation>
+<translation id="5663191066657660868">Pots obtenir més informació sobre aquestes funcions a la configuració de WEB3 DNA Browser.</translation>
+<translation id="1180711544607099420">WEB3 DNA Browser està explorant noves funcions que permetin als llocs web oferir la mateixa experiència de navegació utilitzant menys dades</translation>
+<translation id="1427927054102592884">WEB3 DNA Browser no és el navegador predeterminat</translation>
+<translation id="7195845268083706212">Sincronitza i personalitza WEB3 DNA Browser en tots els teus dispositius</translation>
+<translation id="4540014860380760179">Amb aquesta acció, se suprimiran les teves dades de navegació d'aquest dispositiu. Per recuperar les teves dades més endavant, inicia la sessió a WEB3 DNA Browser com a <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">L'instal·lador no ha pogut crear un directori temporal. Comprova que hi ha espai lliure al disc i que tens permís per instal·lar el programari.</translation>
-<translation id="7786760609782648049">Fes que Chromium sigui més ràpid</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> - Chromium Canary</translation>
-<translation id="7828947555739565424">Ja existeix un perfil de Chromium amb aquest compte en aquest dispositiu</translation>
+<translation id="3341158123816213810">Fes que WEB3 DNA Browser sigui més ràpid</translation>
+<translation id="6564515530956462009"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Canary</translation>
+<translation id="8502268940781535829">Ja existeix un perfil de WEB3 DNA Browser amb aquest compte en aquest dispositiu</translation>
 <translation id="7845233973568007926">T'agraïm la instal·lació. Has de reiniciar l'equip abans d'utilitzar <ph name="BUNDLE_NAME" />.</translation>
-<translation id="7867198900892795913">Chromium no s'ha pogut actualitzar a la darrera versió, així que no pots gaudir de les noves funcions ni de les correccions de seguretat.</translation>
+<translation id="5422417406245013307">WEB3 DNA Browser no s'ha pogut actualitzar a la darrera versió, així que no pots gaudir de les noves funcions ni de les correccions de seguretat.</translation>
 <translation id="7872446069773932638">S'està baixant… Queden <ph name="SECONDS" /> segons</translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Com pots gestionar les teves dades<ph name="END_BOLD" />: amb la finalitat de protegir la teva privadesa, suprimim automàticament els interessos que tenen més de 4 setmanes. A mesura que continuïs navegant, és possible que torni a aparèixer un interès a la llista. També pots suprimir els interessos que no vulguis que Chromium tingui en compte.</translation>
-<translation id="7937630085815544518">Teníeu la sessió iniciada a Chromium com a <ph name="USER_EMAIL_ADDRESS" />. Utilitzeu el mateix compte per tornar a iniciar-hi la sessió.</translation>
-<translation id="7975919845073681630">Aquesta és una instal·lació secundària de Chromium i no pot definir-se com a navegador predeterminat.</translation>
-<translation id="7997934263947464652">Les extensions, les aplicacions i els temes de fonts desconegudes poden malmetre el dispositiu. Chromium recomana que només n'instal·lis de <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />.</translation>
-<translation id="8013436988911883588">Un cop Chromium tingui accés, els llocs web et podran demanar accés.</translation>
+<translation id="6590823489474620893"><ph name="BEGIN_BOLD" />Com pots gestionar les teves dades<ph name="END_BOLD" />: amb la finalitat de protegir la teva privadesa, suprimim automàticament els interessos que tenen més de 4 setmanes. A mesura que continuïs navegant, és possible que torni a aparèixer un interès a la llista. També pots suprimir els interessos que no vulguis que WEB3 DNA Browser tingui en compte.</translation>
+<translation id="7280500878215405781">Teníeu la sessió iniciada a WEB3 DNA Browser com a <ph name="USER_EMAIL_ADDRESS" />. Utilitzeu el mateix compte per tornar a iniciar-hi la sessió.</translation>
+<translation id="2253021454574730566">Aquesta és una instal·lació secundària de WEB3 DNA Browser i no pot definir-se com a navegador predeterminat.</translation>
+<translation id="2180063386451170761">Les extensions, les aplicacions i els temes de fonts desconegudes poden malmetre el dispositiu. WEB3 DNA Browser recomana que només n'instal·lis de <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />.</translation>
+<translation id="1446133009793910887">Un cop WEB3 DNA Browser tingui accés, els llocs web et podran demanar accés.</translation>
 <translation id="80471789339884597">T'agraïm la instal·lació. Has de reiniciar tots els navegadors abans d'utilitzar <ph name="BUNDLE_NAME" />.</translation>
-<translation id="8105840573057009683">Chromium necessita permís d'accés a la ubicació per a aquest lloc web</translation>
+<translation id="3869525261991846539">WEB3 DNA Browser necessita permís d'accés a la ubicació per a aquest lloc web</translation>
 <translation id="8133124826068723441">Chromium OS no ha pogut sincronitzar les teves dades perquè la sincronització no està disponible per al teu domini.</translation>
 <translation id="813913629614996137">S'està inicialitzant…</translation>
-<translation id="81770708095080097">Chromium ha bloquejat aquest fitxer perquè és perillós.</translation>
-<translation id="8213374284266571500">Chromium ha bloquejat aquest fitxer perquè aquest tipus de fitxer és perillós</translation>
-<translation id="8248265253516264921">Si una imatge no té una descripció útil, Chromium provarà d'oferir-te'n una. Per crear les descripcions, les imatges s'envien a Google. Pots desactivar aquesta funció en qualsevol moment a la configuració.</translation>
-<translation id="8266560134891435528">Chromium no pot comprovar les teves contrasenyes perquè no tens la sessió iniciada</translation>
-<translation id="8276522524898344151">Chromium està provant de copiar les contrasenyes.</translation>
-<translation id="8290862415967981663">Chromium ha bloquejat aquest fitxer perquè pot ser perillós.</translation>
-<translation id="8330519371938183845">Inicia la sessió per sincronitzar i personalitzar Chromium en tots els teus dispositius</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> abans utilitzava Chromium</translation>
-<translation id="8357820681460164151">Per accedir al teu contingut del navegador Chromium des de tots els teus dispositius, inicia la sessió i, després, activa la sincronització</translation>
-<translation id="8360718212975266891">Per obtenir actualitzacions de Chromium en el futur, necessitaràs Windows 10 o una versió posterior. Aquest ordinador utilitza Windows 8.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Reinicia Chromium en 1 dia}other{Reinicia Chromium en # dies}}</translation>
-<translation id="8453117565092476964">L'arxiu d'instal·lació està malmès o no és vàlid. Torneu a baixar Chromium.</translation>
+<translation id="6871375725780252705">WEB3 DNA Browser ha bloquejat aquest fitxer perquè és perillós.</translation>
+<translation id="8821717781402291672">WEB3 DNA Browser ha bloquejat aquest fitxer perquè aquest tipus de fitxer és perillós</translation>
+<translation id="8394136310056741303">Si una imatge no té una descripció útil, WEB3 DNA Browser provarà d'oferir-te'n una. Per crear les descripcions, les imatges s'envien a Google. Pots desactivar aquesta funció en qualsevol moment a la configuració.</translation>
+<translation id="4863557335992202213">WEB3 DNA Browser no pot comprovar les teves contrasenyes perquè no tens la sessió iniciada</translation>
+<translation id="8332908002682218419">WEB3 DNA Browser està provant de copiar les contrasenyes.</translation>
+<translation id="3862328687893385239">WEB3 DNA Browser ha bloquejat aquest fitxer perquè pot ser perillós.</translation>
+<translation id="7450630974943556627">Inicia la sessió per sincronitzar i personalitzar WEB3 DNA Browser en tots els teus dispositius</translation>
+<translation id="8910359951607649198"><ph name="USER_EMAIL_ADDRESS" /> abans utilitzava WEB3 DNA Browser</translation>
+<translation id="7837286795552251352">Per accedir al teu contingut del navegador WEB3 DNA Browser des de tots els teus dispositius, inicia la sessió i, després, activa la sincronització</translation>
+<translation id="4231941262737361466">Per obtenir actualitzacions de WEB3 DNA Browser en el futur, necessitaràs Windows 10 o una versió posterior. Aquest ordinador utilitza Windows 8.</translation>
+<translation id="4708615805477131870">{0,plural, =1{Reinicia WEB3 DNA Browser en 1 dia}other{Reinicia WEB3 DNA Browser en # dies}}</translation>
+<translation id="8293407095466346653">L'arxiu d'instal·lació està malmès o no és vàlid. Torneu a baixar WEB3 DNA Browser.</translation>
 <translation id="8463672209299734063">Opcional: ajuda a millorar les funcions i el rendiment de Chromium OS enviant automàticament dades de diagnòstic i d'ús a Google.</translation>
-<translation id="8493179195440786826">Chromium no està actualitzat</translation>
+<translation id="2275026549113043779">WEB3 DNA Browser no està actualitzat</translation>
 <translation id="8550334526674375523">Aquest perfil de treball és completament independent del teu perfil personal.</translation>
-<translation id="8558383651099478961">Els teus pares han desactivat Permisos per a llocs web, aplicacions i extensions en relació amb Chromium. No es permet afegir aquesta <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
-<translation id="8561285221328166383">Per obtenir actualitzacions de Chromium en un futur, necessitaràs macOS 10.13 o una versió posterior. Aquest ordinador utilitza macOS 10.12.</translation>
-<translation id="8568283329061645092">Chromium pot comprovar les teves contrasenyes quan inicies la sessió amb el Compte de Google</translation>
-<translation id="8574036838419011058">Quan aquesta opció està activada, Chromium estalvia bateria limitant l'activitat en segon pla i els efectes visuals, com ara el desplaçament suau i els fotogrames per segon dels vídeos. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> Els autors de Chromium. Tots els drets reservats.</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Com utilitzem aquestes dades<ph name="END_BOLD" />: els llocs web poden emmagatzemar informació a Chromium sobre els teus interessos. Per exemple, si visites un lloc web per comprar sabatilles per a una marató, és possible que el lloc web defineixi que t'interessa córrer maratons. Més endavant, si visites un altre lloc web per inscriure't a una cursa, aquest altre lloc web et pot mostrar un anunci de sabatilles de curses basant-se en els teus interessos.</translation>
-<translation id="8619360774459241877">S'està iniciant Chromium...</translation>
-<translation id="8621669128220841554">La instal·lació ha fallat a causa d'un error no especificat. Torneu a baixar Chromium.</translation>
-<translation id="8697124171261953979">També controla la pàgina que es mostra quan inicieu Chromium o quan feu una cerca des de l'omnibox.</translation>
-<translation id="8704119203788522458">Aquest és el vostre Chromium</translation>
-<translation id="8713679423359107094">Quan tanques totes les finestres de Chromium, les galetes i les dades de llocs web s'esborren automàticament.</translation>
-<translation id="8796443464227412154">Quan tanquis Chromium, se't <ph name="BEGIN_BOLD" />tancarà la sessió de la majoria de llocs web<ph name="END_BOLD" />. Si la sincronització està desactivada, també se't <ph name="BEGIN_BOLD" />tancarà la sessió de Chromium i dels serveis de Google<ph name="END_BOLD" />.</translation>
-<translation id="8796602469536043152">Per visitar aquest lloc web, Chromium necessita permís per accedir a la càmera i al micròfon</translation>
+<translation id="3829194378861761606">Els teus pares han desactivat Permisos per a llocs web, aplicacions i extensions en relació amb WEB3 DNA Browser. No es permet afegir aquesta <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
+<translation id="6148620910029690666">Per obtenir actualitzacions de WEB3 DNA Browser en un futur, necessitaràs macOS 10.13 o una versió posterior. Aquest ordinador utilitza macOS 10.12.</translation>
+<translation id="1246723111619277441">WEB3 DNA Browser pot comprovar les teves contrasenyes quan inicies la sessió amb el Compte de Google</translation>
+<translation id="7115352036028984404">Quan aquesta opció està activada, WEB3 DNA Browser estalvia bateria limitant l'activitat en segon pla i els efectes visuals, com ara el desplaçament suau i els fotogrames per segon dels vídeos. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
+<translation id="4799188800355420938">Copyright <ph name="YEAR" /> Els autors de WEB3 DNA Browser. Tots els drets reservats.</translation>
+<translation id="1392803118131207008"><ph name="BEGIN_BOLD" />Com utilitzem aquestes dades<ph name="END_BOLD" />: els llocs web poden emmagatzemar informació a WEB3 DNA Browser sobre els teus interessos. Per exemple, si visites un lloc web per comprar sabatilles per a una marató, és possible que el lloc web defineixi que t'interessa córrer maratons. Més endavant, si visites un altre lloc web per inscriure't a una cursa, aquest altre lloc web et pot mostrar un anunci de sabatilles de curses basant-se en els teus interessos.</translation>
+<translation id="5546249279042208244">S'està iniciant WEB3 DNA Browser...</translation>
+<translation id="5255237181758616742">La instal·lació ha fallat a causa d'un error no especificat. Torneu a baixar WEB3 DNA Browser.</translation>
+<translation id="8697124171261953979">També controla la pàgina que es mostra quan inicieu WEB3 DNA Browser o quan feu una cerca des de l'omnibox.</translation>
+<translation id="4220559821674570264">Aquest és el vostre WEB3 DNA Browser</translation>
+<translation id="8072998028605263569">Quan tanques totes les finestres de WEB3 DNA Browser, les galetes i les dades de llocs web s'esborren automàticament.</translation>
+<translation id="6903751245620697304">Quan tanquis WEB3 DNA Browser, se't <ph name="BEGIN_BOLD" />tancarà la sessió de la majoria de llocs web<ph name="END_BOLD" />. Si la sincronització està desactivada, també se't <ph name="BEGIN_BOLD" />tancarà la sessió de WEB3 DNA Browser i dels serveis de Google<ph name="END_BOLD" />.</translation>
+<translation id="7277260025828649281">Per visitar aquest lloc web, WEB3 DNA Browser necessita permís per accedir a la càmera i al micròfon</translation>
 <translation id="8833697763442816810">Sistema Chromium OS</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Quines dades s'utilitzen<ph name="END_BOLD" />: el teu historial de navegació, que és un registre dels llocs web que has visitat amb Chromium en aquest dispositiu.</translation>
+<translation id="7404934872971073925"><ph name="BEGIN_BOLD" />Quines dades s'utilitzen<ph name="END_BOLD" />: el teu historial de navegació, que és un registre dels llocs web que has visitat amb WEB3 DNA Browser en aquest dispositiu.</translation>
 <translation id="8862326446509486874">No disposeu dels drets necessaris per instal·lar aplicacions al sistema. Proveu de tornar a executar l'instal·lador com a administrador.</translation>
-<translation id="8880203542552872219">Si ja ho has fet, edita la contrasenya desada a Chromium perquè coincideixi amb la contrasenya nova.</translation>
-<translation id="8897323336392112261">També controla la pàgina que es mostra quan inicieu Chromium o quan feu clic al botó d'inici.</translation>
-<translation id="8907580949721785412">Chromium està provant de mostrar contrasenyes. Escriviu la vostra contrasenya de Windows per permetre-ho.</translation>
-<translation id="8931379085695076764">Chromium pot estimar els teus interessos basant-se en l'historial de navegació de les darreres setmanes. Aquesta informació es queda al teu telèfon.</translation>
-<translation id="8941642502866065432">Chromium no es pot actualitzar</translation>
-<translation id="897581876605952338">Logotip de Chromium Enterprise</translation>
+<translation id="8304007095757244531">Si ja ho has fet, edita la contrasenya desada a WEB3 DNA Browser perquè coincideixi amb la contrasenya nova.</translation>
+<translation id="8897323336392112261">També controla la pàgina que es mostra quan inicieu WEB3 DNA Browser o quan feu clic al botó d'inici.</translation>
+<translation id="257978004891740263">WEB3 DNA Browser està provant de mostrar contrasenyes. Escriviu la vostra contrasenya de Windows per permetre-ho.</translation>
+<translation id="7500894618301979366">WEB3 DNA Browser pot estimar els teus interessos basant-se en l'historial de navegació de les darreres setmanes. Aquesta informació es queda al teu telèfon.</translation>
+<translation id="3731673200617615844">WEB3 DNA Browser no es pot actualitzar</translation>
+<translation id="1787382483918628946">Logotip de WEB3 DNA Browser Enterprise</translation>
 <translation id="8986207147630327271">Estàs afegint un perfil de treball a aquest navegador i donant control al teu administrador únicament sobre el perfil de treball.</translation>
-<translation id="9019929317751753759">Per tal que Chromium sigui més segur, hem desactivat algunes de les extensions que no figuren a <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i que és possible que s'hagin afegit sense que ho sapigueu.</translation>
-<translation id="9022552996538154597">Inicia la sessió a Chromium</translation>
-<translation id="9089354809943900324">Chromium no està actualitzat</translation>
-<translation id="9093206154853821181">{0,plural, =1{Chromium es reiniciarà d'aquí a 1 hora}other{Chromium es reiniciarà d'aquí a # hores}}</translation>
-<translation id="9106612006984859720">Per obtenir actualitzacions de Chromium en el futur, necessitaràs Windows 10 o una versió posterior. Aquest ordinador utilitza Windows 8.1.</translation>
-<translation id="91086099826398415">Obre l'enllaç en una pes&amp;tanya nova a Chromium</translation>
+<translation id="8867249455463470821">Per tal que WEB3 DNA Browser sigui més segur, hem desactivat algunes de les extensions que no figuren a <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i que és possible que s'hagin afegit sense que ho sapigueu.</translation>
+<translation id="8879833215600767638">Inicia la sessió a WEB3 DNA Browser</translation>
+<translation id="853293422536067733">WEB3 DNA Browser no està actualitzat</translation>
+<translation id="325086175188777548">{0,plural, =1{WEB3 DNA Browser es reiniciarà d'aquí a 1 hora}other{WEB3 DNA Browser es reiniciarà d'aquí a # hores}}</translation>
+<translation id="8024211601023847048">Per obtenir actualitzacions de WEB3 DNA Browser en el futur, necessitaràs Windows 10 o una versió posterior. Aquest ordinador utilitza Windows 8.1.</translation>
+<translation id="2383920618768832592">Obre l'enllaç en una pes&amp;tanya nova a WEB3 DNA Browser</translation>
 <translation id="911206726377975832">També voleu suprimir les dades de navegació?</translation>
-<translation id="9144490074902256427">Durant les proves, pots veure i suprimir els temes d'interès que els llocs web utilitzen per mostrar-te anuncis. Chromium estima els teus interessos basant-se en l'historial de navegació recent.</translation>
-<translation id="9158494823179993217">L'administrador del sistema ha configurat Chromium perquè obri un navegador alternatiu per accedir a <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="9185526690718004400">Reinicia per actualitzar &amp;Chromium</translation>
-<translation id="9190841055450128916">Chromium (mDNS-In)</translation>
-<translation id="93478295209880648">Pot ser que Chromium no funcioni correctament perquè ja no és compatible amb Windows XP ni Windows Vista</translation>
-<translation id="942598560705308788">Certificats gestionats per Chromium</translation>
-<translation id="945990405696787151">Per obtenir actualitzacions de Chromium en un futur, necessitaràs macOS 10.13 o una versió posterior. Aquest ordinador utilitza OS X 10.11.</translation>
-<translation id="965162752251293939">Qui està utilitzant Chromium?</translation>
-<translation id="967427899662692980">Obtén la seguretat més efectiva de Chromium</translation>
-<translation id="985602178874221306">Els autors de Chromium</translation>
+<translation id="3209098675401285328">Durant les proves, pots veure i suprimir els temes d'interès que els llocs web utilitzen per mostrar-te anuncis. WEB3 DNA Browser estima els teus interessos basant-se en l'historial de navegació recent.</translation>
+<translation id="3219820530884298089">L'administrador del sistema ha configurat WEB3 DNA Browser perquè obri un navegador alternatiu per accedir a <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="3490070383213151269">Reinicia per actualitzar &amp;WEB3 DNA Browser</translation>
+<translation id="6090927689465861839">WEB3 DNA Browser (mDNS-In)</translation>
+<translation id="5838682317838879726">Pot ser que WEB3 DNA Browser no funcioni correctament perquè ja no és compatible amb Windows XP ni Windows Vista</translation>
+<translation id="864578822176559036">Certificats gestionats per WEB3 DNA Browser</translation>
+<translation id="5999581564161388420">Per obtenir actualitzacions de WEB3 DNA Browser en un futur, necessitaràs macOS 10.13 o una versió posterior. Aquest ordinador utilitza OS X 10.11.</translation>
+<translation id="8170259981824726476">Qui està utilitzant WEB3 DNA Browser?</translation>
+<translation id="848072905736697318">Obtén la seguretat més efectiva de WEB3 DNA Browser</translation>
+<translation id="3707690415152488007">Els autors de WEB3 DNA Browser</translation>
 </translationbundle>

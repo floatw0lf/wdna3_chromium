@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="id">
 <translation id="130631256467250065">Perubahan Anda akan diterapkan pada saat Anda nanti menyalakan ulang perangkat.</translation>
-<translation id="275588974610408078">Pelaporan kerusakan tidak tersedia di Chromium.</translation>
-<translation id="3064346599913645280">Anda melihat halaman Chromium yang aman</translation>
-<translation id="358997566136285270">Logo Chromium</translation>
-<translation id="4365115785552740256">Chromium tercipta berkat proyek sumber terbuka <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> dan berbagai <ph name="BEGIN_LINK_OSS" />software sumber terbuka<ph name="END_LINK_OSS" /> lainnya.</translation>
-<translation id="4559775032954821361">Buka
-          menu Chromium &gt;
+<translation id="4791283969776588221">Pelaporan kerusakan tidak tersedia di WEB3 DNA Browser.</translation>
+<translation id="2844608976961792034">Anda melihat halaman WEB3 DNA Browser yang aman</translation>
+<translation id="1982446651380677046">Logo WEB3 DNA Browser</translation>
+<translation id="4523656775797881494">WEB3 DNA Browser tercipta berkat proyek sumber terbuka <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> dan berbagai <ph name="BEGIN_LINK_OSS" />software sumber terbuka<ph name="END_LINK_OSS" /> lainnya.</translation>
+<translation id="4029636627665768575">Buka
+          menu WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,21 +16,21 @@
           &gt;
           Setelan LAN
           dan hapus pilihan pada kotak centang "Gunakan server proxy untuk LAN".</translation>
-<translation id="4622039161600275920">Halaman ini telah diblokir oleh Chromium</translation>
-<translation id="48558539577516920">Izinkan Chromium untuk mengakses jaringan di setelan firewall atau antivirus
+<translation id="7398528135240070983">Halaman ini telah diblokir oleh WEB3 DNA Browser</translation>
+<translation id="329184862608851407">Izinkan WEB3 DNA Browser untuk mengakses jaringan di setelan firewall atau antivirus
           Anda.</translation>
 <translation id="4918837013875648434">ChromiumOS belum menyelesaikan penyiapan awal.</translation>
-<translation id="580822234363523061">Buka
-          menu Chromium &gt;
+<translation id="7951541701556745073">Buka
+          menu WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           dan pastikan konfigurasi Anda disetel ke "tanpa proxy" atau "langsung".</translation>
-<translation id="6613594504749178791">Perubahan Anda akan berlaku saat berikutnya Anda membuka Chromium.</translation>
-<translation id="7861509383340276692">Buka
-          menu Chromium &gt;
+<translation id="8823298025665339355">Perubahan Anda akan berlaku saat berikutnya Anda membuka WEB3 DNA Browser.</translation>
+<translation id="5334530291357334686">Buka
+          menu WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -40,5 +40,5 @@
 <translation id="8187289872471304532">Buka
           Aplikasi &gt; Preferensi Sistem &gt; Jaringan &gt; Lanjutan &gt; Proxy
           dan hapus centang proxy apa pun yang telah dipilih.</translation>
-<translation id="8684913864886094367">Chromium tidak menutup dengan benar.</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser tidak menutup dengan benar.</translation>
 </translationbundle>

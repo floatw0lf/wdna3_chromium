@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="lo">
 <translation id="130631256467250065">ການປ່ຽນແປງຂອງທ່ານຈະມີຜົນຄັ້ງຕໍ່ໄປທີ່ທ່ານເລີ່ມເປີດໃຊ້ອຸປະກອນຂອງທ່ານໃໝ່.</translation>
-<translation id="275588974610408078">ບໍ່ມີການລາຍງານການຂັດຂ້ອງຢູ່ໃນ Chromium​.</translation>
-<translation id="3064346599913645280">ທ່ານກຳລັງເບິ່ງໜ້າ Chromium ທີ່ປອດໄພ</translation>
-<translation id="358997566136285270">ໂລໂກ້ Chromium</translation>
-<translation id="4365115785552740256">Chromium ເຮັດໃຫ້ເປັນໄປໄດ້ໂດຍ <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> ໂຄງການ open source ແລະ <ph name="BEGIN_LINK_OSS" />ຊອບແວ open source<ph name="END_LINK_OSS" /> ອື່ນໆ.</translation>
-<translation id="4559775032954821361">ໄປທີ່
-          ເມນູ Chromium &gt;
+<translation id="4791283969776588221">ບໍ່ມີການລາຍງານການຂັດຂ້ອງຢູ່ໃນ WEB3 DNA Browser​.</translation>
+<translation id="2844608976961792034">ທ່ານກຳລັງເບິ່ງໜ້າ WEB3 DNA Browser ທີ່ປອດໄພ</translation>
+<translation id="1982446651380677046">ໂລໂກ້ WEB3 DNA Browser</translation>
+<translation id="4523656775797881494">WEB3 DNA Browser ເຮັດໃຫ້ເປັນໄປໄດ້ໂດຍ <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> ໂຄງການ open source ແລະ <ph name="BEGIN_LINK_OSS" />ຊອບແວ open source<ph name="END_LINK_OSS" /> ອື່ນໆ.</translation>
+<translation id="4029636627665768575">ໄປທີ່
+          ເມນູ WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,21 +16,21 @@
           &gt;
           ການຕັ້ງຄ່າ LAN
           ແລະຖອນເລືອກກ່ອງໝາຍຕິກ "ໃຊ້ເຊີບເວີພຣັອກຊີສໍາລັບ LAN ຂອງທ່ານ".</translation>
-<translation id="4622039161600275920">ໜ້ານີ້ຖືກບລັອກໄວ້ໂດຍ Chromium</translation>
-<translation id="48558539577516920">ອະນຸຍາດໃຫ້ Chromium ເຂົ້າເຖິງເຄືອຂ່າຍໃນການຕັ້ງຄ່າໄຟຣ໌ວໍ ຫຼື ໂປຣແກຣມ
+<translation id="7398528135240070983">ໜ້ານີ້ຖືກບລັອກໄວ້ໂດຍ WEB3 DNA Browser</translation>
+<translation id="329184862608851407">ອະນຸຍາດໃຫ້ WEB3 DNA Browser ເຂົ້າເຖິງເຄືອຂ່າຍໃນການຕັ້ງຄ່າໄຟຣ໌ວໍ ຫຼື ໂປຣແກຣມ
           ຕ້ານໄວຣັສຂອງທ່ານ.</translation>
 <translation id="4918837013875648434">ChromiumOS ຍັງບໍ່ສຳເລັດການຕັ້ງຄ່າເບື້ອງຕົ້ນຂອງມັນເທື່ອ.</translation>
-<translation id="580822234363523061">ໄປທີ່
-          ເມນູ Chromium &gt;
+<translation id="7951541701556745073">ໄປທີ່
+          ເມນູ WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           ແລະເບິ່ງໃຫ້ແນ່ໃຈວ່າ ການກໍານົດຂອງທ່ານໄດ້ຕັ້ງເປັນ "ບໍ່ມີພຣັອກຊີ" ຫຼື "ໂດຍກົງ" ແລ້ວ.</translation>
-<translation id="6613594504749178791">ການປ່ຽນແປງຂອງທ່ານຈະມີຜົນຄັ້ງຕໍ່ໄປທີ່ທ່ານເລີ່ມເປີດໃຊ້ Chromium ໃໝ່.</translation>
-<translation id="7861509383340276692">ໄປ​ທີ່
-          ເມ​ນູ Chromium &gt;
+<translation id="8823298025665339355">ການປ່ຽນແປງຂອງທ່ານຈະມີຜົນຄັ້ງຕໍ່ໄປທີ່ທ່ານເລີ່ມເປີດໃຊ້ WEB3 DNA Browser ໃໝ່.</translation>
+<translation id="5334530291357334686">ໄປ​ທີ່
+          ເມ​ນູ WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -39,5 +39,5 @@
           ອີກ​ເພື່ອ​ເພີ່ມ​ການ​ປະ​ຕິ​ບັດ​ງານ.</translation>
 <translation id="8187289872471304532">ໄປທີ່
           ແອັບພລິເຄຊັນ &gt; ຄວາມມັກລະບົບ &gt; ເຄືອຂ່າຍ &gt; ຂັ້ນສູງ &gt; ພຣັອກຊີ ແລະຖອນເລືອກພຣັອກຊີທີ່ໄດ້ເລືອກໄວ້ແລ້ວ.</translation>
-<translation id="8684913864886094367">Chromium ມອດ​ຢ່າງບໍ່​ຖືກ​ຕ້ອງ.</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser ມອດ​ຢ່າງບໍ່​ຖືກ​ຕ້ອງ.</translation>
 </translationbundle>

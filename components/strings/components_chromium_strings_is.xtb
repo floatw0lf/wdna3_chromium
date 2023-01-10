@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="is">
 <translation id="130631256467250065">Breytingarnar taka gildi næst þegar þú endurræsir tækið.</translation>
-<translation id="275588974610408078">Hrunskýrslur eru ekki í boði í Chromium.</translation>
-<translation id="3064346599913645280">Þú ert að skoða örugga Chromium síðu</translation>
-<translation id="358997566136285270">Chromium lógóið</translation>
-<translation id="4365115785552740256">Opna kóðaverkefnið <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> og annar <ph name="BEGIN_LINK_OSS" />opinn hugbúnaður<ph name="END_LINK_OSS" /> gerir Chromium mögulegt.</translation>
-<translation id="4559775032954821361">Farðu í
-          valmynd Chromium &gt;
+<translation id="4791283969776588221">Hrunskýrslur eru ekki í boði í WEB3 DNA Browser.</translation>
+<translation id="2844608976961792034">Þú ert að skoða örugga WEB3 DNA Browser síðu</translation>
+<translation id="1982446651380677046">WEB3 DNA Browser lógóið</translation>
+<translation id="4523656775797881494">Opna kóðaverkefnið <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> og annar <ph name="BEGIN_LINK_OSS" />opinn hugbúnaður<ph name="END_LINK_OSS" /> gerir WEB3 DNA Browser mögulegt.</translation>
+<translation id="4029636627665768575">Farðu í
+          valmynd WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,21 +16,21 @@
           &gt;
           Stillingar staðarnets
           og taktu valið af gátreitnum „Nota proxy-þjón fyrir staðarnet“.</translation>
-<translation id="4622039161600275920">Chromium setti þessa síðu á bannlista</translation>
-<translation id="48558539577516920">Veittu Chromium aðgang að netkerfinu þínu í eldveggsstillingunum þínum eða
+<translation id="7398528135240070983">WEB3 DNA Browser setti þessa síðu á bannlista</translation>
+<translation id="329184862608851407">Veittu WEB3 DNA Browser aðgang að netkerfinu þínu í eldveggsstillingunum þínum eða
           vírusvarnarstillingunum.</translation>
 <translation id="4918837013875648434">ChromeOS hefur ekki lokið við frumuppsetningu</translation>
-<translation id="580822234363523061">Farðu í
-          valmynd Chromium &gt;
+<translation id="7951541701556745073">Farðu í
+          valmynd WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           og gakktu úr skugga um að stillt sé á „ekki proxy“ eða „beint“.</translation>
-<translation id="6613594504749178791">Breytingar þínar munu taka gildi næst þegar þú endurræsir Chromium.</translation>
-<translation id="7861509383340276692">Farðu í
-        valmynd Chromium &gt;
+<translation id="8823298025665339355">Breytingar þínar munu taka gildi næst þegar þú endurræsir WEB3 DNA Browser.</translation>
+<translation id="5334530291357334686">Farðu í
+        valmynd WEB3 DNA Browser &gt;
         <ph name="SETTINGS_TITLE" />
         &gt;
         <ph name="ADVANCED_TITLE" />
@@ -40,5 +40,5 @@
 <translation id="8187289872471304532">Farðu í
           Applications &gt; System Preferences &gt; Network &gt; Advanced &gt; Proxies
           og taktu valið af öllum proxy-þjónum sem hafa verið valdir.</translation>
-<translation id="8684913864886094367">Chromium lokaðist ekki á réttan hátt.</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser lokaðist ekki á réttan hátt.</translation>
 </translationbundle>

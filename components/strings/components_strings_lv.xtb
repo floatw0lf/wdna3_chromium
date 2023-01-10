@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Sniegt papildu informāciju</translation>
 <translation id="1019413721762100891">Izsl.</translation>
 <translation id="1021110881106174305">Pieņemtās kartes</translation>
-<translation id="1021753677514347426">Šīs problēmas iemesls ir sertifikāts, kuru jūs vai kāds cits ir instalējis jūsu ierīcē. Ir zināms, ka šis sertifikāts tiek izmantots tīklu pārraudzībai un pārtveršanai, un pārlūks Chromium tam neuzticas. Lai gan pastāv daži likumīgi pārraudzības gadījumi, piemēram, skolas vai uzņēmuma tīklā, pārlūks Chromium vēlas pārliecināties, ka esat par to informēts, pat ja nevarat to apturēt. Pārraudzība var notikt jebkurā pārlūkā vai lietojumprogrammā ar piekļuvi tīmeklim.</translation>
+<translation id="6843750610117699926">Šīs problēmas iemesls ir sertifikāts, kuru jūs vai kāds cits ir instalējis jūsu ierīcē. Ir zināms, ka šis sertifikāts tiek izmantots tīklu pārraudzībai un pārtveršanai, un pārlūks WEB3 DNA Browser tam neuzticas. Lai gan pastāv daži likumīgi pārraudzības gadījumi, piemēram, skolas vai uzņēmuma tīklā, pārlūks WEB3 DNA Browser vēlas pārliecināties, ka esat par to informēts, pat ja nevarat to apturēt. Pārraudzība var notikt jebkurā pārlūkā vai lietojumprogrammā ar piekļuvi tīmeklim.</translation>
 <translation id="1024111578869940408">Uzbrucēji dažkārt atdarina vietnes, veicot grūti pamanāmas izmaiņas tīmekļa adresē.</translation>
 <translation id="1028781062521375153">Skatīt informāciju</translation>
 <translation id="1030706264415084469">Vietnē <ph name="URL" /> tika pieprasīta atļauja pastāvīgi glabāt jūsu ierīcē lielu datu apjomu.</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Pievienošanas atsaukšana</translation>
 <translation id="1056663316309890343">Fotoattēlu apstrādes programmatūra</translation>
 <translation id="1056898198331236512">Brīdinājums</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai spēlētu dinozaura skriešanas spēli pārlūkā Chrome, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai spēlētu dinozaura skriešanas spēli pārlūkā WEB3 DNA Browser, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="1058479211578257048">Notiek karšu datu saglabāšana...</translation>
 <translation id="1060320201901229167">Aploksne Kaku 5</translation>
 <translation id="10614374240317010">Netiek saglabātas</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Uz kartes norādītā vārda pievienošana</translation>
 <translation id="1089439967362294234">Nomainīt paroli</translation>
 <translation id="1096545575934602868">Šajā laukā drīkst būt ne vairāk kā <ph name="MAX_ITEMS_LIMIT" /> ierakstu. Visi turpmākie ieraksti tiks atmesti.</translation>
-<translation id="1100782917270858593">Poga Atsākt meklēšanas ceļu. Lai atsāktu meklēšanas ceļu un skatītu atbilstošās darbības savā Chrome vēsturē, nospiediet taustiņu Enter.</translation>
+<translation id="3985486898664025513">Poga Atsākt meklēšanas ceļu. Lai atsāktu meklēšanas ceļu un skatītu atbilstošās darbības savā WEB3 DNA Browser vēsturē, nospiediet taustiņu Enter.</translation>
 <translation id="1101672080107056897">Darbība pēc kļūdas konstatēšanas</translation>
 <translation id="1103523840287552314">Vienmēr tulkot <ph name="LANGUAGE" /> valodas saturu</translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Jūs ievadījāt paroli vietnē, kuru nepārvalda jūsu organizācija. Lai aizsargātu savu kontu, neizmantojiet šo paroli citās lietotnēs un vietnēs.</translation>
 <translation id="1257553931232494454">tālummaiņas līmeņi</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai pārvaldītu Chrome iestatījumus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai pārvaldītu WEB3 DNA Browser iestatījumus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
 <translation id="1263231323834454256">Lasīšanas saraksts</translation>
 <translation id="1264309058268477500">Alternatīva</translation>
 <translation id="1264974993859112054">Sports</translation>
@@ -131,7 +131,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1285320974508926690">Nekad netulkot šo vietni</translation>
 <translation id="1288548991597756084">Droši saglabājiet karti</translation>
 <translation id="1292571435393770077">16. paplāte</translation>
-<translation id="1292701964462482250">“Programmatūra jūsu datorā, kuras dēļ pārlūkā Chrome nevar izveidot drošu tīmekļa savienojumu” (tikai Windows datoros)</translation>
+<translation id="3610512443326918645">“Programmatūra jūsu datorā, kuras dēļ pārlūkā WEB3 DNA Browser nevar izveidot drošu tīmekļa savienojumu” (tikai Windows datoros)</translation>
 <translation id="1293797321964802402">Aploksne (9 x 11 collas)</translation>
 <translation id="1294154142200295408">Komandrindu varianti</translation>
 <translation id="129553762522093515">Nesen aizvērtas</translation>
@@ -150,7 +150,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1323433172918577554">Rādīt vairāk</translation>
 <translation id="132390688737681464">Saglabāt un aizpildīt adreses</translation>
 <translation id="1330449323196174374">Abpusējs locījums pa kreisi</translation>
-<translation id="1333745675627230582">Spēlēt Chrome dinozaura spēli</translation>
+<translation id="6227572462599550594">Spēlēt WEB3 DNA Browser dinozaura spēli</translation>
 <translation id="1333989956347591814">Iespējams, jūsu darbības <ph name="BEGIN_EMPHASIS" />joprojām būs redzamas<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />jūsu apmeklētajām vietnēm;
@@ -223,7 +223,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1483493594462132177">Sūtīt</translation>
 <translation id="1484290072879560759">Izvēlēties nosūtīšanas adresi</translation>
 <translation id="1492194039220927094">Politiku informatīvie ziņojumi:</translation>
-<translation id="149293076951187737">Kad aizvērsiet visas Chrome inkognito cilnes, no šīs ierīces tiks notīrītas šajās cilnēs veiktās darbības:
+<translation id="3175654283800723944">Kad aizvērsiet visas WEB3 DNA Browser inkognito cilnes, no šīs ierīces tiks notīrītas šajās cilnēs veiktās darbības:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />pārlūkošanas darbības;<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />meklēšanas vēsture;<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="154408704832528245">Izvēlēties piegādes adresi</translation>
 <translation id="1549470594296187301">Lai izmantotu šo funkciju, ir jābūt iespējotai valodai JavaScript.</translation>
 <translation id="1551884710160394169">Bezmaksas programmatūra un izplatāmprogrammatūra</translation>
-<translation id="1553358976309200471">Atjaunināt Chrome</translation>
+<translation id="1553358976309200471">Atjaunināt WEB3 DNA Browser</translation>
 <translation id="1555130319947370107">Zila</translation>
 <translation id="1559447966090556585">Vai drīkst saņemt paziņojumus?</translation>
 <translation id="1559528461873125649">Nav tāda faila vai direktorija</translation>
@@ -263,7 +263,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="156703335097561114">Tīklošanas informācija, piemēram, adreses, saskarnes konfigurācija, savienojuma kvalitāte</translation>
 <translation id="1567040042588613346">Šī politika darbojas, kā paredzēts, taču citur ir iestatīta tāda pati vērtība, kas tiek ignorēta šīs politikas dēļ.</translation>
 <translation id="1569487616857761740">Ievadīt derīguma termiņu</translation>
-<translation id="1569694109004336106">Google Chrome mēģina ieslēgt Windows Hello, lai aizpildītu paroles.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser mēģina ieslēgt Windows Hello, lai aizpildītu paroles.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> collas</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Šīs tīmekļa lapas rādīšanas laikā radās kļūda.</translation>
@@ -273,7 +273,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1594030484168838125">Izvēlēties</translation>
 <translation id="1596296697375291157">Trilleri, noziegumu un šausmu filmas</translation>
 <translation id="1599199147673445968">Vai jums ir jauna karte? <ph name="BEGIN_LINK" />Ievadīt kartes datus<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Spēlēt dinozaura skriešanas spēli pārlūkā Chrome</translation>
+<translation id="160851722280695521">Spēlēt dinozaura skriešanas spēli pārlūkā WEB3 DNA Browser</translation>
 <translation id="161042844686301425">Ciānzila</translation>
 <translation id="1611101756749861742">Otrais rullis</translation>
 <translation id="1615402009686901181">Ja ekrānā ir redzams konfidenciāls saturs, administratora politika atspējo ekrāna uzņemšanu</translation>
@@ -293,13 +293,13 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1642410292376109062">Google paroles nomaiņas poga. Lai nomainītu Google konta paroli, nospiediet taustiņu Enter.</translation>
 <translation id="1644574205037202324">Vēsture</translation>
 <translation id="1645368109819982629">Neatbalstīts protokols</translation>
-<translation id="1650602712345345441">Pārvaldīt Chrome iestatījumus</translation>
+<translation id="1650602712345345441">Pārvaldīt WEB3 DNA Browser iestatījumus</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome vienkāršoja šo lapu, lai atvieglotu lasīšanu. Chrome izguva sākotnējo lapu, izmantojot drošu savienojumu.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser vienkāršoja šo lapu, lai atvieglotu lasīšanu. WEB3 DNA Browser izguva sākotnējo lapu, izmantojot drošu savienojumu.</translation>
 <translation id="1656489000284462475">Informācija par saņemšanu</translation>
 <translation id="1658918301167915956">Bluetooth ierīces</translation>
 <translation id="1662550410081243962">Saglabāt un aizpildīt maksājuma veidus</translation>
-<translation id="1663943134801823270">Kartes un adreses tiek iegūtas no Chrome. Varat pārvaldīt tās <ph name="BEGIN_LINK" />iestatījumos<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Kartes un adreses tiek iegūtas no WEB3 DNA Browser. Varat pārvaldīt tās <ph name="BEGIN_LINK" />iestatījumos<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">Turpmāk lapas, kas būs šādā valodā: <ph name="SOURCE_LANGUAGE" />, tiks tulkotas šādā valodā: <ph name="TARGET_LANGUAGE" />.</translation>
 <translation id="1674504678466460478">No <ph name="SOURCE_LANGUAGE" /> uz <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Vispirms īsākā mala</translation>
@@ -347,7 +347,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1757773103848038814">Vienplatuma fonts</translation>
 <translation id="1763864636252898013">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts netiek uzskatīts par uzticamu jūsu ierīces operētājsistēmā. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Mēģiniet palaist Windows tīkla diagnostiku<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Uzzināt vairāk par inkognito režīmu pārlūkā Chromium<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Uzzināt vairāk par inkognito režīmu pārlūkā WEB3 DNA Browser<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Šeit tiks parādītas jūsu atvērtās cilnes</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -398,11 +398,11 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1919526244108283799">400 x 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Nav}=1{1 vietne}zero{# vietnes}one{# vietne}other{# vietnes}}</translation>
 <translation id="1924727005275031552">Jaunā</translation>
-<translation id="1927439593081478069">Poga Chrome drošības pārbaudes veikšanai. Lai Chrome iestatījumos veiktu drošības pārbaudi, nospiediet taustiņu Enter.</translation>
+<translation id="1927439593081478069">Poga WEB3 DNA Browser drošības pārbaudes veikšanai. Lai WEB3 DNA Browser iestatījumos veiktu drošības pārbaudi, nospiediet taustiņu Enter.</translation>
 <translation id="1935995810530254458">Tik un tā kopēt</translation>
 <translation id="1939175642807587452">Var pieprasīt atļauju sūtīt paziņojumus</translation>
 <translation id="1943994668912612445">Dizains</translation>
-<translation id="1945968466830820669">Varat zaudēt piekļuvi savam organizācijas kontam, vai jūsu identitāte var tikt nozagta. Chromium iesaka nekavējoties nomainīt paroli.</translation>
+<translation id="5087943717045213809">Varat zaudēt piekļuvi savam organizācijas kontam, vai jūsu identitāte var tikt nozagta. WEB3 DNA Browser iesaka nekavējoties nomainīt paroli.</translation>
 <translation id="1946849748901605102">12 x 15 collas</translation>
 <translation id="1947454675006758438">Skavojums augšējā labajā malā</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -425,8 +425,8 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2001146170449793414">{COUNT,plural, =1{un vēl 1}zero{un vēl #}one{un vēl #}other{un vēl #}}</translation>
 <translation id="2003709556000175978">Nekavējoties atiestatiet paroli</translation>
 <translation id="2003775180883135320">Četri caurumi augšdaļā</translation>
-<translation id="201174227998721785">Chrome iestatījumos pārvaldiet atļaujas un datus, kas tiek glabāti vietnēs.</translation>
-<translation id="2019607688127825327">Poga pieejamības iestatījumu pārvaldībai. Lai Chrome iestatījumos personalizētu pieejamības rīkus, nospiediet taustiņu Enter.</translation>
+<translation id="201174227998721785">WEB3 DNA Browser iestatījumos pārvaldiet atļaujas un datus, kas tiek glabāti vietnēs.</translation>
+<translation id="2019607688127825327">Poga pieejamības iestatījumu pārvaldībai. Lai WEB3 DNA Browser iestatījumos personalizētu pieejamības rīkus, nospiediet taustiņu Enter.</translation>
 <translation id="202224654587969958">12 x 19 collas</translation>
 <translation id="2025115093177348061">Papildinātā realitāte</translation>
 <translation id="2025186561304664664">Starpniekserverim ir iestatīta autokonfigurācija.</translation>
@@ -443,7 +443,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2048261947532620704">Notiek lapas tulkošana…</translation>
 <translation id="205212645995975601">Barbekjū un grilēšana</translation>
 <translation id="2053111141626950936">Lapas netiks tulkotas no šīs valodas: <ph name="LANGUAGE" /></translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā Chrome tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti katru dienu.}=1{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā Chrome tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti katru dienu.}zero{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā Chrome tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti ik pēc {NUM_DAYS} dienām.}one{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā Chrome tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti ik pēc {NUM_DAYS} dienām.}other{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā Chrome tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti ik pēc {NUM_DAYS} dienām.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā WEB3 DNA Browser tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti katru dienu.}=1{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā WEB3 DNA Browser tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti katru dienu.}zero{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā WEB3 DNA Browser tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti ik pēc {NUM_DAYS} dienām.}one{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā WEB3 DNA Browser tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti ik pēc {NUM_DAYS} dienām.}other{Ja šī vadīkla ir ieslēgta un statuss ir aktīvs, pārlūkā WEB3 DNA Browser tiek noteikts, kurai lielai lietotāju grupai jeb kohortai jūsu nesenās pārlūkošanas darbības līdzinās visvairāk. Reklāmdevēji var atlasīt grupai atbilstošas reklāmas, bet jūsu pārlūkošanas darbības tiek privāti glabātas jūsu ierīcē. Jūsu grupas dati tiek atjaunināti ik pēc {NUM_DAYS} dienām.}}</translation>
 <translation id="2059202684901022309">22 x 34 collas</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 ieteikums}zero{# ieteikumi}one{# ieteikums}other{# ieteikumi}}</translation>
 <translation id="2066915425250589881">pieprasīt tās dzēšanu</translation>
@@ -455,9 +455,9 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="20817612488360358">Ir iestatīta datora starpniekserveru iestatījumu lietošana, bet ir norādīta arī atklāta starpniekservera konfigurācija.</translation>
 <translation id="2082238445998314030"><ph name="RESULT_NUMBER" />. rezultāts no <ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">Saglabāt…</translation>
-<translation id="2088086323192747268">Poga “Pārvaldīt sinhronizāciju”: nospiediet ievadīšanas taustiņu, lai Chrome iestatījumos pārvaldītu, kāda informācija tiek sinhronizēta.</translation>
+<translation id="2088086323192747268">Poga “Pārvaldīt sinhronizāciju”: nospiediet ievadīšanas taustiņu, lai WEB3 DNA Browser iestatījumos pārvaldītu, kāda informācija tiek sinhronizēta.</translation>
 <translation id="2091887806945687916">Signāls</translation>
-<translation id="2093982008204312032">Google Chrome mēģina izslēgt funkciju Windows Hello, kas paredzēta paroļu aizpildei.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser mēģina izslēgt funkciju Windows Hello, kas paredzēta paroļu aizpildei.</translation>
 <translation id="2094505752054353250">Domēni nesaskan</translation>
 <translation id="2099652385553570808">Trīskāršs skavojums kreisajā pusē</translation>
 <translation id="2101225219012730419">versija:</translation>
@@ -540,9 +540,9 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2292556288342944218">Piekļuve internetam ir bloķēta</translation>
 <translation id="2293443924986248631">Ja šis iestatījums ir ieslēgts, vietnes nevar izmantot sīkfailus, lai izsekotu jūsu darbības tīmeklī. Noteiktās vietnēs funkcijas var nedarboties.</translation>
 <translation id="2295290966866883927">Jūsu apmeklēto lapu vietrāži URL tiek nosūtīti uz pakalpojumu Google Cloud vai trešajām pusēm, lai veiktu analīzi. Piemēram, šie vietrāži var tikt pārmeklēti, lai konstatētu nedrošas vietnes.</translation>
-<translation id="2298855485018661510">Poga “Pārvaldīt sīkfailus”: nospiediet ievadīšanas taustiņu, lai Chrome iestatījumos pārvaldītu savas sīkfailu preferences.</translation>
+<translation id="2298855485018661510">Poga “Pārvaldīt sīkfailus”: nospiediet ievadīšanas taustiņu, lai WEB3 DNA Browser iestatījumos pārvaldītu savas sīkfailu preferences.</translation>
 <translation id="2300306941146563769">Nav augšupielādēts</translation>
-<translation id="2316159751672436664">Personalizēt pieejamības rīkus Chrome OS iestatījumos</translation>
+<translation id="2316159751672436664">Personalizēt pieejamības rīkus WEB3 DNA Browser OS iestatījumos</translation>
 <translation id="2316887270356262533">Tiks atbrīvots mazāk nekā 1 MB. Dažas vietnes nākamajā apmeklējumā var ielādēt lēnāk.</translation>
 <translation id="2317259163369394535">Vietnē <ph name="DOMAIN" /> ir jāievada lietotājvārds un parole.</translation>
 <translation id="2318594867107319532">Pēdējais politikas laikspiedols:</translation>
@@ -568,9 +568,9 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="236340516568226369">Pārslēgšanas izvēlnes lieluma maiņa</translation>
 <translation id="2367567093518048410">Līmenis</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Chrome iestatījumos personalizēt pieejamības rīkus</translation>
+<translation id="2383455408879745299">WEB3 DNA Browser iestatījumos personalizēt pieejamības rīkus</translation>
 <translation id="2384307209577226199">Uzņēmuma noklusējuma politika</translation>
-<translation id="2385809941344967209">Atjauniniet pārlūku Chrome savos Chrome iestatījumos.</translation>
+<translation id="2385809941344967209">Atjauniniet pārlūku WEB3 DNA Browser savos WEB3 DNA Browser iestatījumos.</translation>
 <translation id="2386255080630008482">Servera sertifikāts ir atsaukts.</translation>
 <translation id="239293030466334554">Kabrioleti</translation>
 <translation id="2392959068659972793">Rādīt politikas, kuru vērtība nav iestatīta</translation>
@@ -589,7 +589,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2463739503403862330">Aizpildīt</translation>
 <translation id="2465655957518002998">Izvēlēties piegādes veidu</translation>
 <translation id="2465688316154986572">Skavojums</translation>
-<translation id="2465914000209955735">Pārvaldīt pārlūkā Chrome lejupielādētos failus</translation>
+<translation id="2465914000209955735">Pārvaldīt pārlūkā WEB3 DNA Browser lejupielādētos failus</translation>
 <translation id="2466004615675155314">Rādīt informāciju no tīmekļa</translation>
 <translation id="2467272921457885625">Ierīces aparatūras specifikācijas un statistika, piemēram, centrālā procesora / RAM lietojuma vēsture</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Palaist tīkla diagnostiku<ph name="END_LINK" /></translation>
@@ -606,7 +606,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2505268675989099013">Aizsargāt kontu</translation>
 <translation id="2509167091171468975">Pārtikas mazumtirdzniecība</translation>
 <translation id="2512101340618156538">Atļauja nav piešķirta (noklusējums)</translation>
-<translation id="2512413427717747692">Poga “Iestatīt Chrome kā noklusējuma pārlūku”; nospiediet taustiņu Enter, lai iestatītu Chrome kā sistēmas noklusējuma pārlūku iOS iestatījumos.</translation>
+<translation id="2512413427717747692">Poga “Iestatīt WEB3 DNA Browser kā noklusējuma pārlūku”; nospiediet taustiņu Enter, lai iestatītu WEB3 DNA Browser kā sistēmas noklusējuma pārlūku iOS iestatījumos.</translation>
 <translation id="2515629240566999685">Pārbaudiet signālu savā apkaimē.</translation>
 <translation id="2515761554693942801">Jūs izvēlējāties veikt verifikāciju ar Touch ID tīmekļa vietnēs, kas izmanto <ph name="PROVIDER_ORIGIN" /> pakalpojumus. Šis pakalpojumu sniedzējs, iespējams, ir saglabājis informāciju par jūsu maksājuma veidu, un jūs varat <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Skavojums apakšējā labajā malā</translation>
@@ -623,7 +623,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2542106216580219892">Sērfošana</translation>
 <translation id="2544546346215446551">Administrators restartēja jūsu ierīci</translation>
 <translation id="2544644783021658368">Viens dokuments</translation>
-<translation id="254524874071906077">Iestata Chrome par noklusējuma pārlūku</translation>
+<translation id="1319028298140338735">Iestata WEB3 DNA Browser par noklusējuma pārlūku</translation>
 <translation id="2546283357679194313">Sīkfaili un vietņu dati</translation>
 <translation id="2547466893236767989">Tīmekļa dizains un izstrāde</translation>
 <translation id="254947805923345898">Politikas vērtība nav derīga.</translation>
@@ -638,19 +638,19 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2570734079541893434">Pārvaldīt iestatījumus</translation>
 <translation id="2573834589046842510">Drukāšana un izdevējdarbība</translation>
 <translation id="257674075312929031">Grupa</translation>
-<translation id="2576880857912732701">Poga drošības iestatījumu pārvaldībai. Lai Chrome iestatījumos pārvaldītu funkciju “Droša pārlūkošana” un citas funkcijas, nospiediet taustiņu Enter.</translation>
+<translation id="2576880857912732701">Poga drošības iestatījumu pārvaldībai. Lai WEB3 DNA Browser iestatījumos pārvaldītu funkciju “Droša pārlūkošana” un citas funkcijas, nospiediet taustiņu Enter.</translation>
 <translation id="2586657967955657006">Starpliktuve</translation>
 <translation id="2587730715158995865">No: <ph name="ARTICLE_PUBLISHER" />. Lasiet šo un vēl <ph name="OTHER_ARTICLE_COUNT" /> rakstus.</translation>
 <translation id="2587841377698384444">Direktorija API ID:</translation>
 <translation id="2594318783181750337">Ātrais tīmekļa skats:</translation>
 <translation id="2595719060046994702">Šī ierīce un konts netiek pārvaldīts uzņēmumā vai citā organizācijā.</translation>
-<translation id="2596415276201385844">Lai izveidotu drošu savienojumu, ir jāiestata pareizs pulksteņa laiks. Tas ir nepieciešams, jo sertifikāti, kurus vietnes izmanto, lai tiktu identificētas, ir derīgi tikai noteiktos laika periodos. Tā kā jūsu ierīces pulkstenis nav pareizi iestatīts, Chrome nevar verificēt šos sertifikātus.</translation>
+<translation id="7968235694092767490">Lai izveidotu drošu savienojumu, ir jāiestata pareizs pulksteņa laiks. Tas ir nepieciešams, jo sertifikāti, kurus vietnes izmanto, lai tiktu identificētas, ir derīgi tikai noteiktos laika periodos. Tā kā jūsu ierīces pulkstenis nav pareizi iestatīts, WEB3 DNA Browser nevar verificēt šos sertifikātus.</translation>
 <translation id="2597378329261239068">Šis dokuments ir aizsargāts ar paroli. Lūdzu, ievadiet paroli.</translation>
 <translation id="259821504105826686">Fotogrāfija un digitālā māksla</translation>
 <translation id="2601150049980261779">Romantiskās filmas</translation>
 <translation id="2604589665489080024">Popmūzika</translation>
 <translation id="2610561535971892504">Noklikšķināt, lai kopētu</translation>
-<translation id="2617988307566202237">Pārlūkā Chrome <ph name="BEGIN_EMPHASIS" />netiks saglabāta<ph name="END_EMPHASIS" /> šāda informācija:
+<translation id="6174516088921923215">Pārlūkā WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />netiks saglabāta<ph name="END_EMPHASIS" /> šāda informācija:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />jūsu pārlūkošanas vēsture;
             <ph name="LIST_ITEM" />sīkfaili un vietņu dati;
@@ -658,14 +658,14 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
           <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Norādītais laiks ir pārāk tālu nākotnē</translation>
 <translation id="262745152991669301">Var pieprasīt atļauju veidot savienojumu ar USB ierīcēm</translation>
-<translation id="2629325967560697240">Lai pārlūkprogrammā Chrome izmantotu visaugstāko drošības līmeni, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />ieslēdziet uzlaboto aizsardzību<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">Lai pārlūkprogrammā WEB3 DNA Browser izmantotu visaugstāko drošības līmeni, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />ieslēdziet uzlaboto aizsardzību<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">Nevarēja atrast vietnes <ph name="HOST_NAME" /> servera IP adresi.</translation>
 <translation id="2639739919103226564">Statuss:</translation>
 <translation id="2643134278432436513">Matu kopšana</translation>
 <translation id="2647852283046201479">Stratēģiskās spēles</translation>
 <translation id="264810637653812429">Netika atrasta neviena saderīga ierīce.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai notīrītu jūsu pārlūkošanas vēsturi, sīkfailus, kešatmiņu un citus datus Chrome iestatījumos, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai notīrītu jūsu pārlūkošanas vēsturi, sīkfailus, kešatmiņu un citus datus WEB3 DNA Browser iestatījumos, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
 <translation id="2650446666397867134">Piekļuve failam tika noraidīta.</translation>
 <translation id="2653659639078652383">Iesniegt</translation>
 <translation id="2657637947725373811">{0,plural, =1{Vai pārsūtīt konfidenciālu failu?}zero{Vai pārsūtīt konfidenciālus failus?}one{Vai pārsūtīt konfidenciālus failus?}other{Vai pārsūtīt konfidenciālus failus?}}</translation>
@@ -693,11 +693,11 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2705137772291741111">Nevar nolasīt šīs vietnes saglabāto (kešatmiņā ievietoto) kopiju.</translation>
 <translation id="2709516037105925701">Automātiskā aizpilde</translation>
 <translation id="2713444072780614174">Balta</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai pārvaldītu savus maksājumus un kredītkaršu informāciju Chrome iestatījumos, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai pārvaldītu savus maksājumus un kredītkaršu informāciju WEB3 DNA Browser iestatījumos, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Nospiediet |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />|, lai izietu no pilnekrāna režīma.</translation>
 <translation id="2721148159707890343">Pieprasījums bija veiksmīgs.</translation>
-<translation id="2723669454293168317">Veiciet drošības pārbaudi Chrome iestatījumos.</translation>
+<translation id="2723669454293168317">Veiciet drošības pārbaudi WEB3 DNA Browser iestatījumos.</translation>
 <translation id="2726001110728089263">Sānu paplāte</translation>
 <translation id="2728127805433021124">Servera sertifikāts ir parakstīts, izmantojot vāju paraksta algoritmu.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Palaist savienojamības diagnostiku<ph name="END_LINK" /></translation>
@@ -737,7 +737,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="287596039013813457">Draudzīga</translation>
 <translation id="28761159517501904">Filmas</translation>
 <translation id="2876489322757410363">Ja maksāšanai tiks izmantota ārēja lietojumprogramma, tiks aizvērts inkognito režīms. Vai turpināt?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai Chrome iestatījumos pārvaldītu funkciju “Droša pārlūkošana” un citas funkcijas, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai WEB3 DNA Browser iestatījumos pārvaldītu funkciju “Droša pārlūkošana” un citas funkcijas, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="2878197950673342043">Plakāta locījums</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Vai saglabāt karti?</translation>
@@ -749,7 +749,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="290376772003165898">Vai lapa nav šajā valodā: <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">Konstatētas tīkla izmaiņas.</translation>
 <translation id="2911973620368911614">Uzdevuma konta lietotāja ID</translation>
-<translation id="2914160345369867329">Vietnē <ph name="SITE" /> informācijas aizsargāšanai parasti tiek izmantota šifrēšana. Kad pārlūkā Chrome tika mēģināts izveidot savienojumu ar vietni <ph name="SITE" />, šoreiz tā atgrieza neparastus un nepareizus akreditācijas datus. Iespējams, tā notika, jo uzbrucējs mēģināja uzdoties par vietni <ph name="SITE" />, vai arī tika pārtraukts savienojums ar Wi-Fi pierakstīšanās ekrānu. Jūsu informācija joprojām ir drošībā, jo pārlūkā Chrome tika apturēts savienojums, pirms tika veikta jebkādu datu apmaiņa.</translation>
+<translation id="6754677106668042373">Vietnē <ph name="SITE" /> informācijas aizsargāšanai parasti tiek izmantota šifrēšana. Kad pārlūkā WEB3 DNA Browser tika mēģināts izveidot savienojumu ar vietni <ph name="SITE" />, šoreiz tā atgrieza neparastus un nepareizus akreditācijas datus. Iespējams, tā notika, jo uzbrucējs mēģināja uzdoties par vietni <ph name="SITE" />, vai arī tika pārtraukts savienojums ar Wi-Fi pierakstīšanās ekrānu. Jūsu informācija joprojām ir drošībā, jo pārlūkā WEB3 DNA Browser tika apturēts savienojums, pirms tika veikta jebkādu datu apmaiņa.</translation>
 <translation id="2915068235268646559">Avārija no: <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Gleznošana</translation>
 <translation id="2916038427272391327">Aizveriet citas programmas</translation>
@@ -766,7 +766,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2943895734390379394">Augšupielādes laiks:</translation>
 <translation id="2945026002409061480">Tiešsaistes kopienas</translation>
 <translation id="2948083400971632585">Iestatījumu lapā varat atspējot jebkurus starpniekserverus, kas konfigurēti savienojuma izveidei.</translation>
-<translation id="2949183777371959169">Tiek ignorēta, jo iekārta nav reģistrēta pārlūka Chrome mākoņa pārvaldībā.</translation>
+<translation id="7786089409521529641">Tiek ignorēta, jo iekārta nav reģistrēta pārlūka WEB3 DNA Browser mākoņa pārvaldībā.</translation>
 <translation id="2951588413176968965">Mana pastkaste</translation>
 <translation id="2952820037279740115">Aizvērt visus inkognito režīma logus</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -780,7 +780,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2977665033722899841">Pašlaik ir atlasīta rinda “<ph name="ROW_NAME" />”. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2983666748527428214">Atvērt inkognito cilni</translation>
-<translation id="2985306909656435243">Ja šī opcija ir iespējota, Chromium saglabās jūsu kartes informāciju šajā ierīcē, lai nodrošinātu ātrāku veidlapu aizpildi.</translation>
+<translation id="6458065442802745995">Ja šī opcija ir iespējota, WEB3 DNA Browser saglabās jūsu kartes informāciju šajā ierīcē, lai nodrošinātu ātrāku veidlapu aizpildi.</translation>
 <translation id="2985398929374701810">Ievadiet derīgu adresi</translation>
 <translation id="2986368408720340940">Šis saņemšanas veids nav pieejams. Izmēģiniet citu veidu.</translation>
 <translation id="2987034854559945715">Nav atbilstošu līdzekļu</translation>
@@ -802,7 +802,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3037177537145227281">Notiek cenas izsekošana</translation>
 <translation id="3037605927509011580">Cilnes avārija.</translation>
 <translation id="3041612393474885105">Sertifikāta informācija</translation>
-<translation id="305162504811187366">Chrome attālās darbvirsmas vēsture, tostarp laikspiedoli, saimniekdatori un klientu sesiju identifikatori</translation>
+<translation id="6009592758194948058">WEB3 DNA Browser attālās darbvirsmas vēsture, tostarp laikspiedoli, saimniekdatori un klientu sesiju identifikatori</translation>
 <translation id="3052964831964880138"><ph name="PRICE_DROP" /> cenas kritums produktam “<ph name="PRODUCT_NAME" />”</translation>
 <translation id="3061707000357573562">Ielāpu pakalpojums</translation>
 <translation id="306573536155379004">Spēle sākta.</translation>
@@ -850,7 +850,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3194737229810486521">Vietnē <ph name="URL" /> tiek pieprasīta atļauja pastāvīgi glabāt datus jūsu ierīcē.</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> serverī <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Var pieprasīt informāciju par to, kad jūs aktīvi lietojat šo ierīci</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai Chrome iestatījumos pārvaldītu, kāda informācija tiek sinhronizēta.</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai WEB3 DNA Browser iestatījumos pārvaldītu, kāda informācija tiek sinhronizēta.</translation>
 <translation id="320323717674993345">Atcelt maksājumu</translation>
 <translation id="3203366800380907218">No tīmekļa</translation>
 <translation id="3207960819495026254">Atzīmēts kā grāmatzīme</translation>
@@ -874,7 +874,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai pielāgotu pārlūka izskatu, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="3240791268468473923">Ir atvērta lapa ar akreditācijas datiem, kas neatbilst drošu maksājumu akreditācijas datiem</translation>
 <translation id="324180406144491771">“<ph name="HOST_NAME" />” saites ir bloķētas</translation>
-<translation id="3248611290851046188">Šī vietne definē intereses, ko citās vietnēs var izmantot, lai rādītu jums reklāmas. Turklāt šī vietne iegūst informāciju par jūsu interesēm no pārlūka Chrome, lai rādītu jums atbilstošākas reklāmas.</translation>
+<translation id="8141792378421105106">Šī vietne definē intereses, ko citās vietnēs var izmantot, lai rādītu jums reklāmas. Turklāt šī vietne iegūst informāciju par jūsu interesēm no pārlūka WEB3 DNA Browser, lai rādītu jums atbilstošākas reklāmas.</translation>
 <translation id="3249151924975132674">Studiju un studējošā kredīti</translation>
 <translation id="3249845759089040423">Moderna</translation>
 <translation id="3250640885957938546">Reklamēšana un mārketings</translation>
@@ -884,7 +884,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3256863843508922226">Pensionēšanās un pensijas</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai ātri izveidotu jaunu pasākumu Google kalendārā, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="3261488570342242926">Uzzināt vairāk par virtuālajām kartēm</translation>
-<translation id="3264837738038045344">Poga Chrome iestatījumu pārvaldībai, lai apmeklētu Chrome iestatījumus, nospiediet taustiņu Enter</translation>
+<translation id="3264837738038045344">Poga WEB3 DNA Browser iestatījumu pārvaldībai, lai apmeklētu WEB3 DNA Browser iestatījumus, nospiediet taustiņu Enter</translation>
 <translation id="3266793032086590337">Vērtība (konfliktē)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Nav bloķēta neviena vietne, tostarp saistītās vietnes}=1{Bloķēta 1 vietne, tostarp saistītās vietnes}zero{Bloķētas # vietnes, tostarp saistītās vietnes}one{Bloķēta # vietne, tostarp saistītās vietnes}other{Bloķētas # vietnes, tostarp saistītās vietnes}}</translation>
 <translation id="3268451620468152448">Atvērtās cilnes</translation>
@@ -898,7 +898,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3287510313208355388">Lejupielādēt, kad pieejama tiešsaiste</translation>
 <translation id="3288238092761586174">Iespējams, vietnē <ph name="URL" /> būs jāveic papildu darbības, lai apstiprinātu maksājumu.</translation>
 <translation id="3293642807462928945">Uzzināt vairāk par politiku <ph name="POLICY_NAME" /></translation>
-<translation id="3295444047715739395">Skatiet un pārvaldiet savas paroles Chrome iestatījumos.</translation>
+<translation id="3295444047715739395">Skatiet un pārvaldiet savas paroles WEB3 DNA Browser iestatījumos.</translation>
 <translation id="3299098170013242198">Paroļu aizpildei ir ieslēgta funkcija Windows Hello.</translation>
 <translation id="3303176609391916566">30 x 42 collas</translation>
 <translation id="3303855915957856445">Netika atrasts neviens meklēšanas rezultāts.</translation>
@@ -928,9 +928,9 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3366477098757335611">Skatīt kartes</translation>
 <translation id="3369192424181595722">Pulksteņa kļūda</translation>
 <translation id="3369459162151165748">Transportlīdzekļu detaļas un piederumi</translation>
-<translation id="3371064404604898522">Iestatīt Chrome kā noklusējuma pārlūku</translation>
+<translation id="3371064404604898522">Iestatīt WEB3 DNA Browser kā noklusējuma pārlūku</translation>
 <translation id="337363190475750230">Tika noņemta piekļuve</translation>
-<translation id="3375754925484257129">Veikt Chrome drošības pārbaudi</translation>
+<translation id="3375754925484257129">Veikt WEB3 DNA Browser drošības pārbaudi</translation>
 <translation id="3377144306166885718">Serveris izmantoja novecojušu TLS versiju.</translation>
 <translation id="3377188786107721145">Radās politikas parsēšanas kļūda.</translation>
 <translation id="3377736046129930310">Izmantot ekrāna bloķēšanu, lai kartes apstiprinātu ātrāk</translation>
@@ -954,7 +954,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3423742043356668186">Sistēmas noteikta</translation>
 <translation id="3427092606871434483">Atļaut (pēc noklusējuma)</translation>
 <translation id="3427342743765426898">&amp;Labojuma atsaukuma atcelšana</translation>
-<translation id="342781501876943858">Chromium iesaka atiestatīt jūsu paroli, ja izmantojāt to citās vietnēs.</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser iesaka atiestatīt jūsu paroli, ja izmantojāt to citās vietnēs.</translation>
 <translation id="3428151540071562330">Viens vai vairāki DnsOverHttpsTemplates servera veidņu identifikatori URI nav derīgi un netiks izmantoti.</translation>
 <translation id="3431216045099978607">Nospiediet taustiņu |<ph name="ACCELERATOR" />|, lai izietu no pilnekrāna režīma un skatītu lejupielādi.</translation>
 <translation id="3431636764301398940">Saglabāt šo karti šajā ierīcē</translation>
@@ -976,7 +976,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai aizvērtu visus atvērtos inkognito režīma logus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="3477679029130949506">Filmu seansi un teātru izrāžu laiki</translation>
 <translation id="3479552764303398839">Vēlāk</translation>
-<translation id="3484560055331845446">Varat zaudēt piekļuvi savam Google kontam. Chrome iesaka nekavējoties nomainīt paroli. Jums tiks lūgts pierakstīties.</translation>
+<translation id="2148205384604312372">Varat zaudēt piekļuvi savam Google kontam. WEB3 DNA Browser iesaka nekavējoties nomainīt paroli. Jums tiks lūgts pierakstīties.</translation>
 <translation id="3484861421501147767">Atgādinājums: saglabātais akcijas kods ir pieejams</translation>
 <translation id="3487845404393360112">4. paplāte</translation>
 <translation id="3495081129428749620">Meklēt lapā
@@ -984,7 +984,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="350069200438440499">Faila vārds:</translation>
 <translation id="3507936815618196901">Izveidot jūsu apkārtnes 3D karti un izsekot kameras pozīciju</translation>
 <translation id="3512163584740124171">Šī politika tiek ignorēta, jo citai tās pašas politiku grupas politikai ir augstāka prioritāte.</translation>
-<translation id="35172538073169599">Poga “Pārvaldīt adreses”: nospiediet ievadīšanas taustiņu, lai Chrome iestatījumos pievienotu un pārvaldītu adreses.</translation>
+<translation id="35172538073169599">Poga “Pārvaldīt adreses”: nospiediet ievadīšanas taustiņu, lai WEB3 DNA Browser iestatījumos pievienotu un pārvaldītu adreses.</translation>
 <translation id="3518941727116570328">Vairāku objektu apstrāde</translation>
 <translation id="3525130752944427905">10 x 14 collas</translation>
 <translation id="3528171143076753409">Servera sertifikāts nav uzticams.</translation>
@@ -1011,7 +1011,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3576616784287504635">Vietnē <ph name="SITE" /> iegultā lapā ir rakstīts</translation>
 <translation id="3577473026931028326">Radās kļūda. Mēģiniet vēlreiz.</translation>
 <translation id="3577902790357386792">Vingrošana</translation>
-<translation id="3581089476000296252">Chrome jūs informēs, kad šī lapa būs gatava. &lt;a&gt;Atcelt&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser jūs informēs, kad šī lapa būs gatava. &lt;a&gt;Atcelt&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Pievienojiet vārdu.</translation>
 <translation id="3583757800736429874">&amp;Pārvietošanas atsaukuma atcelšana</translation>
 <translation id="3584299510153766161">Divi caurumi apakšdaļā</translation>
@@ -1026,7 +1026,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3611317423880285981">Mājsaimniecības piederumi</translation>
 <translation id="3614103345592970299">2. izmērs</translation>
 <translation id="361438452008624280">Saraksta ieraksts “<ph name="LANGUAGE_ID" />”: nezināma vai neatbalstīta valoda.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai Chrome iestatījumos veiktu drošības pārbaudi, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai WEB3 DNA Browser iestatījumos veiktu drošības pārbaudi, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="3615877443314183785">Ievadiet derīgu datumu</translation>
 <translation id="36224234498066874">Dzēst pārlūkošanas datus...</translation>
 <translation id="362276910939193118">Rādīt pilnu vēsturi</translation>
@@ -1036,9 +1036,9 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3631244953324577188">Biometrija</translation>
 <translation id="3632503704576938756">Ekrāna kopīgošana atsākta</translation>
 <translation id="3632892046558972264">Ekrāna kopīgošana apturēta</translation>
-<translation id="3633738897356909127">Poga “Atjaunināt Chrome”. Lai Chrome iestatījumos atjauninātu pārlūkprogrammu Chrome, nospiediet ievadīšanas taustiņu.</translation>
+<translation id="3633738897356909127">Poga “Atjaunināt WEB3 DNA Browser”. Lai WEB3 DNA Browser iestatījumos atjauninātu pārlūkprogrammu WEB3 DNA Browser, nospiediet ievadīšanas taustiņu.</translation>
 <translation id="3634530185120165534">5. paplāte</translation>
-<translation id="3634567936866541746">Jūs tikko ievadījāt savu paroli maldinošā vietnē. Chrome ieteikums jūsu kontu aizsardzībai: pārbaudiet saglabātās paroles.</translation>
+<translation id="6586777830476909681">Jūs tikko ievadījāt savu paroli maldinošā vietnē. WEB3 DNA Browser ieteikums jūsu kontu aizsardzībai: pārbaudiet saglabātās paroles.</translation>
 <translation id="3642638418806704195">Lietojumprogramma:</translation>
 <translation id="3647286794400715637">Katrā URL virknes ierakstā ir jābūt 1–2 vietrāžiem URL.</translation>
 <translation id="3650584904733503804">Validācija bija veiksmīga.</translation>
@@ -1081,7 +1081,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3740319564441798148">Tālsatiksmes autobusi un vilcieni</translation>
 <translation id="3744111561329211289">Sinhronizācija fonā</translation>
 <translation id="3744286742364977428">Jūsu lejupielādētie faili tiek nosūtīti uz Google mākoni vai trešajām pusēm, lai veiktu analīzi. Piemēram, saturs var tikt pārmeklēts, lai konstatētu, vai tajā nav ietverti sensitīvi dati vai ļaunprātīga programmatūra, un tas var tikt saglabāts saskaņā ar uzņēmuma politikām.</translation>
-<translation id="3744899669254331632">Pašlaik jūs nevarat apmeklēt vietni <ph name="SITE" />, jo šī vietne nosūtīja kodētus akreditācijas datus, kurus Chromium nevar apstrādāt. Tā kā tīkla kļūdas un uzbrukumi parasti ir īslaicīga problēma, iespējams, vēlāk šī lapa atkal darbosies.</translation>
+<translation id="3461179235677384837">Pašlaik jūs nevarat apmeklēt vietni <ph name="SITE" />, jo šī vietne nosūtīja kodētus akreditācijas datus, kurus WEB3 DNA Browser nevar apstrādāt. Tā kā tīkla kļūdas un uzbrukumi parasti ir īslaicīga problēma, iespējams, vēlāk šī lapa atkal darbosies.</translation>
 <translation id="3745099705178523657">Pēc apstiprināšanas kartes informācija no Google konta tiks kopīgota ar šo vietni.</translation>
 <translation id="3748148204939282805">Uzbrucēji vietnē <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> var mudināt jūs veikt bīstamas darbības, piemēram, instalēt programmatūru vai atklāt personas informāciju (piemēram, paroles, tālruņa numurus vai kredītkaršu datus). <ph name="BEGIN_LEARN_MORE_LINK" />Uzziniet vairāk<ph name="END_LEARN_MORE_LINK" />.</translation>
 <translation id="3748912308089554501">Aviācijas nozare</translation>
@@ -1200,7 +1200,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4097288585054919042">Izslēgt paziņojumus</translation>
 <translation id="4098354747657067197">Maldinoša vietne</translation>
 <translation id="4099048595830172239">Administratora politika nosaka, ka nav ieteicams kopīgot ekrānu ar lietotni <ph name="APPLICATION_TITLE" />, ja ir redzams konfidenciāls saturs:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai pielāgotu fontu izmērus un burtveidolus pārlūkā Chrome, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai pielāgotu fontu izmērus un burtveidolus pārlūkā WEB3 DNA Browser, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
 <translation id="4101413244023615925">Teksts un grafika</translation>
 <translation id="410148943680000050">Maketēšana</translation>
 <translation id="4103249731201008433">Ierīces sērijas numurs nav derīgs.</translation>
@@ -1215,7 +1215,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4117700440116928470">Politikas diapazons netiek atbalstīts.</translation>
 <translation id="4121428309786185360">Beigu datums</translation>
 <translation id="4123572138124678573">Trīs caurumi apakšdaļā</translation>
-<translation id="4127575959421463246">Vai meklējat Chrome OS karodziņus? Apmeklējiet lapu</translation>
+<translation id="4127575959421463246">Vai meklējat WEB3 DNA Browser OS karodziņus? Apmeklējiet lapu</translation>
 <translation id="4129401438321186435">{COUNT,plural, =1{vēl 1}zero{vēl #}one{vēl #}other{vēl #}}</translation>
 <translation id="4130226655945681476">Pārbaudiet tīkla kabeļus, modemu un maršrutētāju</translation>
 <translation id="4132448310531350254">Faila paplašinājumam “<ph name="FILE_EXTENSION" />” ir dublēti apdarinātāji, kas norādīti lietotnēs: “<ph name="POLICY_IDS_LIST" />”.</translation>
@@ -1252,7 +1252,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4214357935346142455">pierakstīšanās ekrāna profils</translation>
 <translation id="4220128509585149162">Avārijas</translation>
 <translation id="422022731706691852">Uzbrucēji vietnē <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> var mudināt jūs instalēt programmas, kas var negatīvi ietekmēt pārlūkošanas pieredzi (piemēram, mainot sākumlapu vai rādot papildu reklāmas jūsu apmeklētajās vietnēs). <ph name="BEGIN_LEARN_MORE_LINK" />Uzziniet vairāk<ph name="END_LEARN_MORE_LINK" />.</translation>
-<translation id="4221630205957821124">&lt;h4&gt;1. darbība. Pierakstīšanās portālā&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;1. darbība. Pierakstīšanās portālā&lt;/h4&gt;
     &lt;p&gt;Wi-Fi tīklos tādās vietās kā kafejnīcas un lidostas ir jāveic pierakstīšanās. Lai atvērtu pierakstīšanās lapu, apmeklējiet lapu, kurā tiek izmantots &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Pārejiet uz jebkuru vietni, kuras adrese sākas ar &lt;code&gt;http://&lt;/code&gt;, piemēram, &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1260,11 +1260,11 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
     &lt;/ol&gt;
     &lt;h4&gt;2. darbība. Lapas atvēršana inkognito režīmā (tikai datorā)&lt;/h4&gt;
     &lt;p&gt;Atveriet apmeklēto lapu inkognito režīma logā.&lt;/p&gt;
-    &lt;p&gt;Ja lapa tiek atvērta, Chrome paplašinājums nedarbojas pareizi. Lai novērstu kļūdu, izslēdziet paplašinājumu.&lt;/p&gt;
+    &lt;p&gt;Ja lapa tiek atvērta, WEB3 DNA Browser paplašinājums nedarbojas pareizi. Lai novērstu kļūdu, izslēdziet paplašinājumu.&lt;/p&gt;
     &lt;h4&gt;3. darbība. Operētājsistēmas atjaunināšana&lt;/h4&gt;
     &lt;p&gt;Ierīcē ir jābūt instalētai jaunākajai operētājsistēmas versijai.&lt;/p&gt;
     &lt;h4&gt;4. darbība. Pretvīrusu programmas īslaicīga izslēgšana&lt;/h4&gt;
-    &lt;p&gt;Šis kļūdas ziņojums tiek rādīts, ja pretvīrusu programmatūra ietver HTTPS aizsardzību vai HTTPS skenēšanu. Šī pretvīrusa programmatūra novērš Chrome drošības funkciju darbību.&lt;/p&gt;
+    &lt;p&gt;Šis kļūdas ziņojums tiek rādīts, ja pretvīrusu programmatūra ietver HTTPS aizsardzību vai HTTPS skenēšanu. Šī pretvīrusa programmatūra novērš WEB3 DNA Browser drošības funkciju darbību.&lt;/p&gt;
     &lt;p&gt;Lai novērstu šo problēmu, izslēdziet pretvīrusu programmatūru. Ja pēc programmatūras izslēgšanas lapa darbojas, izslēdziet šo programmatūru, kad apmeklējat drošas vietnes.&lt;/p&gt;
     &lt;p&gt;Pēc darba beigšanas noteikti atkal ieslēdziet pretvīrusu programmatūru.&lt;/p&gt;
     &lt;h4&gt;5. darbība. Papildu palīdzības saņemšana&lt;/h4&gt;
@@ -1300,7 +1300,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4305666528087210886">Jūsu failam nevarēja piekļūt</translation>
 <translation id="4306529830550717874">Vai saglabāt adresi?</translation>
 <translation id="4306812610847412719">starpliktuve</translation>
-<translation id="4308567447483056043">Šī politika tiek ignorēta, jo lietotājs nav saistīts. Lai šī politika tiktu lietota, pārlūks Chrome un profils ir jāpārvalda administratora konsolē vienā organizācijā.</translation>
+<translation id="3323451588703398074">Šī politika tiek ignorēta, jo lietotājs nav saistīts. Lai šī politika tiktu lietota, pārlūks WEB3 DNA Browser un profils ir jāpārvalda administratora konsolē vienā organizācijā.</translation>
 <translation id="4310070645992025887">Meklēt jūsu ceļos</translation>
 <translation id="4310496734563057511">Ja šo ierīci izmanto arī citas personas, varat ieslēgt Windows Hello, lai tiktu pārbaudīta jūsu identitāte ikreiz, kad izmantojat saglabātu paroli.</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1316,8 +1316,8 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4331519897422864041">5. izvades vieta</translation>
 <translation id="4331708818696583467">Nav droši</translation>
 <translation id="4333561522337981382">Pārvaldīt logus visos jūsu displejos</translation>
-<translation id="4340575312453649552">Šī reklāma izmantoja pārāk daudz resursu jūsu ierīcē, tādēļ Chrome to noņēma.</translation>
-<translation id="4340982228985273705">Šo datoru nepārvalda uzņēmums, tāpēc politika var automātiski instalēt tikai tos paplašinājumus, kas tiek mitināti Chrome interneta veikalā. Chrome interneta veikala atjauninājumu URL: <ph name="CWS_UPDATE_URL" />.</translation>
+<translation id="3964216933844012257">Šī reklāma izmantoja pārāk daudz resursu jūsu ierīcē, tādēļ WEB3 DNA Browser to noņēma.</translation>
+<translation id="2218799635675752219">Šo datoru nepārvalda uzņēmums, tāpēc politika var automātiski instalēt tikai tos paplašinājumus, kas tiek mitināti WEB3 DNA Browser interneta veikalā. WEB3 DNA Browser interneta veikala atjauninājumu URL: <ph name="CWS_UPDATE_URL" />.</translation>
 <translation id="4346197816712207223">Pieņemtās kredītkartes</translation>
 <translation id="4348834659292907206">Savienojums ar vietni <ph name="SITE" /> nav drošs</translation>
 <translation id="4349365535725594680">Nevar kopīgot konfidenciālu saturu</translation>
@@ -1328,7 +1328,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4356973930735388585">Šajā vietnē esošie uzbrucēji jūsu datorā var mēģināt instalēt bīstamas programmas, kuras var nozagt vai dzēst jūsu informāciju (piemēram, fotoattēlus, paroles, ziņojumus un informāciju par kredītkartēm).</translation>
 <translation id="4358059973562876591">Norādītās veidnes, iespējams, netiks lietotas, jo ir radusies kļūda ar politiku DnsOverHttpsMode.</translation>
 <translation id="4358461427845829800">Pārvaldīt maksājumu veidus...</translation>
-<translation id="4359160567981085931">Jūs tikko ievadījāt savu paroli maldinošā vietnē. Chrome var palīdzēt. Lai mainītu paroli un paziņotu uzņēmumam Google, ka jūsu konts, iespējams, ir apdraudēts, noklikšķiniet uz pogas Aizsargāt kontu.</translation>
+<translation id="4550052488331606118">Jūs tikko ievadījāt savu paroli maldinošā vietnē. WEB3 DNA Browser var palīdzēt. Lai mainītu paroli un paziņotu uzņēmumam Google, ka jūsu konts, iespējams, ir apdraudēts, noklikšķiniet uz pogas Aizsargāt kontu.</translation>
 <translation id="4363222835916186793">Paziņojumi par šo produktu ir izslēgti.</translation>
 <translation id="437040971055499437">Rodas ar drošību saistīts notikums</translation>
 <translation id="4372948949327679948">Tika gaidīta vērtība <ph name="VALUE_TYPE" />.</translation>
@@ -1345,7 +1345,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4411435778612100394">Sadzīves elektropreces</translation>
 <translation id="4414515549596849729">sīkfaili un vietņu dati</translation>
 <translation id="4415426530740016218">Saņemšanas adrese</translation>
-<translation id="4424024547088906515">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts netiek uzskatīts par uzticamu pārlūkā Chrome. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
+<translation id="7486060888782747880">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts netiek uzskatīts par uzticamu pārlūkā WEB3 DNA Browser. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
 <translation id="4428065317363009941">Reklāmu personalizēšana</translation>
 <translation id="443121186588148776">Seriālais ports</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> nepieņēma jūsu pieteikšanās sertifikātu, vai arī pieteikšanās sertifikāts netika iesniegts.</translation>
@@ -1369,7 +1369,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4489023393592172404">Aploksne Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Šifrēt sinhronizētās paroles, izmantojot jūsu Google konta datus</translation>
-<translation id="4492519888999857993">Šīs funkcijas ir atspējotas pēc noklusējuma. Turpmākajās Chrome versijās tās nebūs pieejamas.</translation>
+<translation id="5711551727888568041">Šīs funkcijas ir atspējotas pēc noklusējuma. Turpmākajās WEB3 DNA Browser versijās tās nebūs pieejamas.</translation>
 <translation id="4493480324863638523">Nederīgs URL. Vietrādim URL ir jābūt ar standarta shēmu, piemēram, “http://example.com” vai “https://example.com”.</translation>
 <translation id="4500587658229086076">nedrošs saturs</translation>
 <translation id="4506176782989081258">Validācijas kļūda: <ph name="VALIDATION_ERROR" /></translation>
@@ -1377,7 +1377,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="450710068430902550">Kopīgošana ar administratoru</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai tulkotu šo lapu, izmantojot Google tulkotāju, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
 <translation id="4514308731478712184">Izslēgt funkciju Meklēšanas ceļi</translation>
-<translation id="4515275063822566619">Kartes un adreses tiek iegūtas no Chrome un jūsu Google konta (<ph name="ACCOUNT_EMAIL" />). Varat tās pārvaldīt <ph name="BEGIN_LINK" />iestatījumos<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Kartes un adreses tiek iegūtas no WEB3 DNA Browser un jūsu Google konta (<ph name="ACCOUNT_EMAIL" />). Varat tās pārvaldīt <ph name="BEGIN_LINK" />iestatījumos<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">Administratora politika bloķē šī faila lejupielādi.</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Aploksne Monarch</translation>
@@ -1393,10 +1393,10 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Atspējojiet paplašinājumus.</translation>
 <translation id="4566017918361049074">Aktivitātes brīvā dabā</translation>
-<translation id="4567686777917670400">Jūsu administrators var attālināti mainīt jūsu pārlūka iestatījumus. Darbības šajā ierīcē var pārvaldīt arī ārpus pārlūka Chromium. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
+<translation id="5323229076538691433">Jūsu administrators var attālināti mainīt jūsu pārlūka iestatījumus. Darbības šajā ierīcē var pārvaldīt arī ārpus pārlūka WEB3 DNA Browser. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
 <translation id="457875822857220463">Piegāde</translation>
 <translation id="4582204425268416675">Noņemt karti</translation>
-<translation id="4587425331216688090">Vai noņemt adresi no pārlūka Chrome?</translation>
+<translation id="4549859745110415735">Vai noņemt adresi no pārlūka WEB3 DNA Browser?</translation>
 <translation id="459089498662672729">Administratora politikā ir ieteikts neveikt ielīmēšanu no <ph name="ORIGIN_NAME" /> šajā atrašanās vietā</translation>
 <translation id="4592951414987517459">Savienojums ar domēnu <ph name="DOMAIN" /> ir šifrēts, izmantojot mūsdienīgu šifra komplektu.</translation>
 <translation id="4594403342090139922">&amp;Dzēšanas atsaukšana</translation>
@@ -1405,17 +1405,17 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4600084978141515058">Vegāniskā virtuve</translation>
 <translation id="4602465984861132303">Boulings</translation>
 <translation id="4606870351894164739">Pamanāma</translation>
-<translation id="4607603470419975064">Chrome padomu skatīšanas poga. Lai uzzinātu vairāk par Chrome funkcijām, nospiediet taustiņu Enter.</translation>
-<translation id="4607608436550361748">Skatīt Chrome padomus</translation>
+<translation id="4607603470419975064">WEB3 DNA Browser padomu skatīšanas poga. Lai uzzinātu vairāk par WEB3 DNA Browser funkcijām, nospiediet taustiņu Enter.</translation>
+<translation id="4607608436550361748">Skatīt WEB3 DNA Browser padomus</translation>
 <translation id="4610279718074907952">Šī vietne ir uzņēmuma <ph name="SET_OWNER" /> definētā grupā, un jūsu darbības ir redzamas visai grupai.</translation>
 <translation id="4617273035598175554">Grafikas un animācijas programmatūra</translation>
 <translation id="4622292761762557753">Tomēr pārsūtīt</translation>
-<translation id="4627675673814409125">Šo politiku nevar iestatīt Chrome profila līmenī, un tā tiks ignorēta.</translation>
+<translation id="6607050922769407881">Šo politiku nevar iestatīt WEB3 DNA Browser profila līmenī, un tā tiks ignorēta.</translation>
 <translation id="4628948037717959914">Fotoattēls</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Saistīta skaidras naudas atmaksa</translation>
 <translation id="4636930964841734540">Informācija</translation>
-<translation id="4638670630777875591">Inkognito režīms pārlūkā Chromium</translation>
+<translation id="9064160697734393810">Inkognito režīms pārlūkā WEB3 DNA Browser</translation>
 <translation id="464342062220857295">Meklēšanas funkcijas</translation>
 <translation id="4644670975240021822">Pretēja secība, virspuse uz leju</translation>
 <translation id="4646534391647090355">Doties uz turieni tagad</translation>
@@ -1453,7 +1453,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4731638775147756694">Šo lietojumprogrammu bloķēja jūsu administrators.</translation>
 <translation id="4733082559415072992">Vietnē <ph name="URL" /> tiek pieprasīta atļauja izmantot jūsu ierīces atrašanās vietu.</translation>
 <translation id="4736491186715342415">Autotransports</translation>
-<translation id="4736825316280949806">Restartējiet pārlūku Chromium</translation>
+<translation id="1624940062651381269">Restartējiet pārlūku WEB3 DNA Browser</translation>
 <translation id="4736934858538408121">Virtuāla karte</translation>
 <translation id="473775607612524610">Atjaunināt</translation>
 <translation id="4738601419177586157">Meklēšanas ieteikums vaicājumam “<ph name="TEXT" />”</translation>
@@ -1467,10 +1467,10 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4754461935447132332">Nav atļauts nedrošām vietnēm</translation>
 <translation id="4756388243121344051">Vēsture</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Jūs tikko ievadījāt savu paroli maldinošā vietnē. Chromium ieteikums jūsu kontu aizsardzībai: pārbaudiet saglabātās paroles.</translation>
+
 <translation id="4758311279753947758">Pievienot kontaktinformāciju</translation>
 <translation id="4761104368405085019">Izmantot jūsu mikrofonu</translation>
-<translation id="4761869838909035636">Veikt Chrome drošības pārbaudi</translation>
+<translation id="2178430137592069173">Veikt WEB3 DNA Browser drošības pārbaudi</translation>
 <translation id="4764776831041365478">Tīmekļa lapa vietnē <ph name="URL" /> var īslaicīgi nebūt pieejama, vai tā var būt pārvietota uz jaunu tīmekļa adresi.</translation>
 <translation id="4766713847338118463">Dubults skavojums apakšdaļā</translation>
 <translation id="4771973620359291008">Radās nezināma kļūda.</translation>
@@ -1501,7 +1501,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4834250788637067901">Maksājumu veidi, piedāvājumi un adreses no pakalpojuma Google Pay</translation>
 <translation id="4838327282952368871">Mierīga</translation>
 <translation id="4839087176073128681">Nākamreiz maksājiet ātrāk un aizsargājiet savu karti ar nozarē vadošo Google drošības risinājumu.</translation>
-<translation id="4840250757394056958">Skatīt Chrome vēsturi</translation>
+<translation id="4840250757394056958">Skatīt WEB3 DNA Browser vēsturi</translation>
 <translation id="484462545196658690">Autom.</translation>
 <translation id="484671803914931257">Saņemiet atlaides, iepērkoties pie <ph name="MERCHANT_NAME" /> un citiem tirgotājiem</translation>
 <translation id="484988093836683706">Izmantot ierīces atbloķēšanu</translation>
@@ -1543,7 +1543,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4934780484581617878">Logu pārvaldība</translation>
 <translation id="4936134414789135531">Ievietoto elementu “<ph name="VALUE_NAME" />” nevarēja atrast.</translation>
 <translation id="4936675324097895694">Finanses</translation>
-<translation id="4940163644868678279">Inkognito režīms pārlūkā Chrome</translation>
+
 <translation id="4943872375798546930">Nav rezultātu</translation>
 <translation id="4943933359574417591">Īsziņas un tūlītējā ziņojumapmaiņa</translation>
 <translation id="4950898438188848926">Ciļņu pārslēgšanas poga. Nospiediet ievadīšanas taustiņu, lai pārslēgtos uz atvērto cilni, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" />.</translation>
@@ -1566,7 +1566,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4995216769782533993">Lai kopīgotu kartes datus ar šo vietni, apstipriniet drošības kodu.</translation>
 <translation id="4995474875135717171">Pārveidots:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai pārvaldītu meklēšanu vietnēs un noklusējuma meklētājprogrammu, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
-<translation id="5002932099480077015">Iespējojot šo opciju, Chrome saglabās jūsu kartes informāciju šajā ierīcē, lai jūs varētu ātrāk aizpildīt veidlapas.</translation>
+
 <translation id="5011561501798487822">Noteiktā valoda</translation>
 <translation id="5015510746216210676">Ierīces nosaukums:</translation>
 <translation id="5017554619425969104">Kopētais teksts</translation>
@@ -1575,7 +1575,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5018802455907704660">16 x 20 collas</translation>
 <translation id="5019198164206649151">Dublējumu krātuve nav labā stāvoklī.</translation>
 <translation id="5020776957610079374">Pasaules mūzika</translation>
-<translation id="5021557570875267742">Cenu izsekošana, izmantojot pārlūku Chrome</translation>
+<translation id="4735860266347344416">Cenu izsekošana, izmantojot pārlūku WEB3 DNA Browser</translation>
 <translation id="5023310440958281426">Administratora politiku pārbaude</translation>
 <translation id="5029568752722684782">Dzēst kopiju</translation>
 <translation id="5030338702439866405">Izsniedzis</translation>
@@ -1608,7 +1608,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5087580092889165836">Pievienot karti</translation>
 <translation id="5088142053160410913">Ziņojums operatoram</translation>
 <translation id="5093232627742069661">Z-veida locījums</translation>
-<translation id="5094747076828555589">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts netiek uzskatīts par uzticamu Chromium sistēmā. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
+
 <translation id="5097099694988056070">Ierīces statistika, piemēram, CPU/RAM lietojums</translation>
 <translation id="5097468150760963273">27 x 39 collas</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1642,7 +1642,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5161506081086828129">9. izvades vieta</translation>
 <translation id="5164798890604758545">Tiek ievadīts teksts</translation>
 <translation id="516920405563544094">Ievadiet kredītkartes <ph name="CREDIT_CARD" /> CVC kodu. Pēc apstiprināšanas kartes informācija no Google konta tiks kopīgota ar šo vietni.</translation>
-<translation id="5169827969064885044">Varat zaudēt piekļuvi savam organizācijas kontam, vai jūsu identitāte var tikt nozagta. Chrome iesaka nekavējoties nomainīt paroli.</translation>
+
 <translation id="5171045022955879922">Meklējiet vai ievadiet URL.</translation>
 <translation id="5172758083709347301">Ierīce</translation>
 <translation id="5177076414499237632">Skatīt informāciju par šīs lapas avotu un tēmu</translation>
@@ -1654,7 +1654,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="51918995459521422"><ph name="ORIGIN" /> vēlas lejupielādēt vairākus failus</translation>
 <translation id="519422657042045905">Anotācija nav pieejama</translation>
 <translation id="5201306358585911203">Šajā lapā iegultā lapā ir rakstīts</translation>
-<translation id="5204468114771111727">Pārlūkā Chrome tika konstatēts, ka nupat izmantotā parole ir atklāta datu aizsardzības pārkāpuma dēļ. Google asistents var nomainīt jūsu paroli automātiski.</translation>
+<translation id="214264184283456941">Pārlūkā WEB3 DNA Browser tika konstatēts, ka nupat izmantotā parole ir atklāta datu aizsardzības pārkāpuma dēļ. Google asistents var nomainīt jūsu paroli automātiski.</translation>
 <translation id="5205222826937269299">Jānorāda vārds vai nosaukums.</translation>
 <translation id="5209518306177824490">SHA-1 pirkstu nospiedums</translation>
 <translation id="5209670883520018268">20. paplāte</translation>
@@ -1671,7 +1671,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5239623327352565343">Piekļuve atrašanās vietai ir atļauta</translation>
 <translation id="5242889659037569123">Bagāža un ceļošanas piederumi</translation>
 <translation id="5250209940322997802">“Izveidojiet savienojumu ar tīklu”</translation>
-<translation id="52517543715119994">Uzzināt vairāk par Chrome funkcijām</translation>
+<translation id="52517543715119994">Uzzināt vairāk par WEB3 DNA Browser funkcijām</translation>
 <translation id="5251803541071282808">Mākonis</translation>
 <translation id="5254043433801397071">Drukājamā satura optimizācija</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1693,7 +1693,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5287456746628258573">Šajā vietnē tiek izmantota novecojusi drošības konfigurācija, tādēļ var tikt atklāta jūsu informācija (piemēram, paroles vai kredītkaršu numuri), kad tā tiek nosūtīta uz šo vietni.</translation>
 <translation id="5288108484102287882">Validējot politikas vērtības, tika konstatētas kļūdas</translation>
 <translation id="5288393065350884210">Grāmatvedība un auditēšana</translation>
-<translation id="5288808348893593856">Vietnes savienojums ir drošs, ja vien pārlūkā Chrome nav norādīts citādi.</translation>
+<translation id="8429736460204202092">Vietnes savienojums ir drošs, ja vien pārlūkā WEB3 DNA Browser nav norādīts citādi.</translation>
 <translation id="5289384342738547352">Vairāku dokumentu apstrāde</translation>
 <translation id="5293919335876685914">Kupejas</translation>
 <translation id="5296589789433599000">Kulinārija un receptes</translation>
@@ -1712,14 +1712,14 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5324080437450482387">Izvēlēties kontaktinformāciju</translation>
 <translation id="5329858041417644019">Jūsu pārlūks netiek pārvaldīts</translation>
 <translation id="5332219387342487447">Piegādes veids</translation>
-<translation id="5333022057423422993">Pārlūkā Chrome tika konstatēts, ka nupat izmantotā parole ir atklāta datu aizsardzības pārkāpuma dēļ. Lai aizsargātu kontus, ieteicams pārbaudīt saglabātās paroles.</translation>
+<translation id="5377534826839863091">Pārlūkā WEB3 DNA Browser tika konstatēts, ka nupat izmantotā parole ir atklāta datu aizsardzības pārkāpuma dēļ. Lai aizsargātu kontus, ieteicams pārbaudīt saglabātās paroles.</translation>
 <translation id="5334013548165032829">Sistēmas žurnāli ar detalizētu informāciju</translation>
 <translation id="5334145288572353250">Vai saglabāt adresi?</translation>
 <translation id="5335920952954443287">Pukstoša sirds</translation>
 <translation id="5340250774223869109">Lietojumprogramma ir bloķēta</translation>
 <translation id="534295439873310000">NFC ierīces</translation>
 <translation id="5344579389779391559">Šajā lapā var tikt mēģināts pieprasīt naudu</translation>
-<translation id="5347645913823149105">Poga Pielāgot fontus pārlūkā Chrome. Lai pielāgotu fontu lielumus un burtveidolus pārlūkā Chrome, nospiediet taustiņu Enter.</translation>
+<translation id="5347645913823149105">Poga Pielāgot fontus pārlūkā WEB3 DNA Browser. Lai pielāgotu fontu lielumus un burtveidolus pārlūkā WEB3 DNA Browser, nospiediet taustiņu Enter.</translation>
 <translation id="5355557959165512791">Pašlaik nevarat apmeklēt vietni <ph name="SITE" />, jo tās sertifikāts ir atsaukts. Tā kā tīkla kļūdas un uzbrukumi parasti ir īslaicīgi, visticamāk, šī lapa vēlāk darbosies.</translation>
 <translation id="5356837363448394805">Nosarkšana</translation>
 <translation id="5357848622083956825">Vizuālā māksla un dizains</translation>
@@ -1738,7 +1738,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="540630185148148480">Ieslēgt paziņojumus</translation>
 <translation id="540969355065856584">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tā drošības sertifikāts šobrīd nav derīgs. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ļaunprātīgi izmanto jūsu savienojumu.</translation>
 <translation id="5412040515238827314">Nederīgs formāts: ir jābūt rakstu sarakstam.</translation>
-<translation id="5412236728747081950">Šī vietne iegūst informāciju par jūsu interesēm no pārlūka Chrome, lai rādītu jums atbilstošākas reklāmas.</translation>
+<translation id="3825896935771081728">Šī vietne iegūst informāciju par jūsu interesēm no pārlūka WEB3 DNA Browser, lai rādītu jums atbilstošākas reklāmas.</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> — <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">4. izvades vieta</translation>
 <translation id="5414511064953050917">Tik un tā pārvietot</translation>
@@ -1778,10 +1778,10 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5519516356611866228">Ar jūsu veiktajām izmaiņām</translation>
 <translation id="5523118979700054094">Politikas nosaukums</translation>
 <translation id="5525755241743357906">Fails tiek kopēts vai pārvietots</translation>
-<translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai Chrome OS iestatījumos personalizētu pieejamības rīkus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
+<translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai WEB3 DNA Browser OS iestatījumos personalizētu pieejamības rīkus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="5528532273234423708">Mājas ierīču automatizācija</translation>
 <translation id="55293785478302737">Malu sašuvums</translation>
-<translation id="5535133333442455806">Poga “Notīrīt pārlūkošanas datus”. Lai notīrītu jūsu pārlūkošanas vēsturi, sīkfailus, kešatmiņu un citus datus Chrome iestatījumos, nospiediet ievadīšanas taustiņu.</translation>
+<translation id="5535133333442455806">Poga “Notīrīt pārlūkošanas datus”. Lai notīrītu jūsu pārlūkošanas vēsturi, sīkfailus, kešatmiņu un citus datus WEB3 DNA Browser iestatījumos, nospiediet ievadīšanas taustiņu.</translation>
 <translation id="5536214594743852365">Rādīt sadaļu “<ph name="SECTION" />”</translation>
 <translation id="553782666181800029">Aploksne Chou 2</translation>
 <translation id="5539243836947087108">Pamatne</translation>
@@ -1791,7 +1791,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5541546772353173584">E-pasta adreses pievienošana</translation>
 <translation id="5545756402275714221">Ieteiktie raksti</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="5552137475244467770">Pārlūkā Chrome tiek periodiski pārbaudītas jūsu paroles, salīdzinot tās ar tiešsaistē publicētiem sarakstiem. Šo pārbaužu laikā paroles un lietotājvārdi ir šifrēti, lai neviens tos nevarētu lasīt, tostarp Google.</translation>
+<translation id="8518722024434498270">Pārlūkā WEB3 DNA Browser tiek periodiski pārbaudītas jūsu paroles, salīdzinot tās ar tiešsaistē publicētiem sarakstiem. Šo pārbaužu laikā paroles un lietotājvārdi ir šifrēti, lai neviens tos nevarētu lasīt, tostarp Google.</translation>
 <translation id="5556459405103347317">Pārlādēt</translation>
 <translation id="5560088892362098740">Derīguma termiņš</translation>
 <translation id="55635442646131152">Dokumenta struktūrskats</translation>
@@ -1854,7 +1854,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5720705177508910913">Pašreizējais lietotājs</translation>
 <translation id="5723287205918986743">Aizsardzības nozare</translation>
 <translation id="5725567311035061582">Pārvaldīt sīkfailus un vietņu datus</translation>
-<translation id="5730040223043577876">Chrome iesaka atiestatīt jūsu paroli, ja izmantojāt to citās vietnēs.</translation>
+
 <translation id="5736165827969430182">Metāli un kalnrūpniecība</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Kartes datu saglabāšana Google kontā}zero{Karšu datu saglabāšana Google kontā}one{Karšu datu saglabāšana Google kontā}other{Karšu datu saglabāšana Google kontā}}</translation>
 <translation id="5738385766833540397">Pārvaldiet, kā saņemt paziņojumus par izsekoto produktu cenu kritumu</translation>
@@ -1879,14 +1879,14 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5784606427469807560">Apstiprinot karti, radās problēma. Pārbaudiet interneta savienojumu un mēģiniet vēlreiz.</translation>
 <translation id="5785756445106461925">Turklāt šajā lapā ir citi resursi, kas nav droši. Kamēr šie resursi tiek pārsūtīti, tos var aplūkot citi, kā arī uzbrucējs var tos pārveidot, lai mainītu lapas izskatu.</translation>
 <translation id="5786044859038896871">Vai vēlaties aizpildīt laukus ar kartes informāciju?</translation>
-<translation id="578633867165174378">Pārlūkā Chrome tika konstatēts, ka nupat izmantotā parole ir atklāta datu aizsardzības pārkāpuma dēļ. Ieteicams nekavējoties nomainīt šo paroli.</translation>
+<translation id="5116020889491573249">Pārlūkā WEB3 DNA Browser tika konstatēts, ka nupat izmantotā parole ir atklāta datu aizsardzības pārkāpuma dēļ. Ieteicams nekavējoties nomainīt šo paroli.</translation>
 <translation id="5789643057113097023">:</translation>
 <translation id="5803412860119678065">Vai vēlaties aizpildīt lauku ar informāciju “<ph name="CARD_DETAIL" />”?</translation>
 <translation id="5804241973901381774">Atļaujas</translation>
-<translation id="5808435672482059465">Skatīt Chrome vēsturi</translation>
+<translation id="7552154626705223867">Skatīt WEB3 DNA Browser vēsturi</translation>
 <translation id="5808542072418270309">Simulācijas spēles</translation>
 <translation id="5810442152076338065">Savienojums ar domēnu <ph name="DOMAIN" /> ir šifrēts, izmantojot novecojušu šifra komplektu.</translation>
-<translation id="5812947184178430888">Ja pārlūkā Chrome tiek atzīmēti ar drošību saistīti notikumi, atbilstošie dati par notikumiem tiek nosūtīti administratoram. Šie dati var būt, piemēram, pārlūkā Chrome apmeklēto lapu vietrāži URL, failu nosaukumi vai metadati un lietotājvārds, ar kuru pierakstāties tīmekļa lietojumprogrammās, savā ierīcē un pārlūkā Chrome.</translation>
+<translation id="8479644990349381409">Ja pārlūkā WEB3 DNA Browser tiek atzīmēti ar drošību saistīti notikumi, atbilstošie dati par notikumiem tiek nosūtīti administratoram. Šie dati var būt, piemēram, pārlūkā WEB3 DNA Browser apmeklēto lapu vietrāži URL, failu nosaukumi vai metadati un lietotājvārds, ar kuru pierakstāties tīmekļa lietojumprogrammās, savā ierīcē un pārlūkā WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Pievienošanas atsaukuma atcelšana</translation>
 <translation id="5813309815819933152">TV realitātes šovi</translation>
 <translation id="5813753398265398978">Fizika</translation>
@@ -2002,10 +2002,10 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6116338172782435947">Skatīt starpliktuvē kopēto tekstu un attēlus</translation>
 <translation id="6118782133429281336">Avotu saraksts ir tukšs.</translation>
 <translation id="6120179357481664955">Vai iegaumēt jūsu UPI ID?</translation>
-<translation id="6124432979022149706">Chrome Enterprise savienotāji</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise savienotāji</translation>
 <translation id="6126565365696310362">Ķīniešu aploksne 2</translation>
 <translation id="6127379762771434464">Vienums ir noņemts</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Uzzināt vairāk par inkognito režīmu pārlūkā Chrome<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Faila paplašinājums ir tukšs vai nepareizi veidots.</translation>
 <translation id="6139975341602920272">17 x 22 collas</translation>
 <translation id="6146055958333702838">Pārbaudiet vadus un atkārtoti palaidiet maršrutētājus, modemus vai citas
@@ -2031,10 +2031,10 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6197648101609735209">89 x 89 mm</translation>
 <translation id="6203231073485539293">Interneta savienojuma pārbaude</translation>
 <translation id="6212314149070368045">Fanfold (ASV)</translation>
-<translation id="6218753634732582820">Vai noņemt adresi no pārlūka Chromium?</translation>
+
 <translation id="622039917539443112">Paralēls locījums</translation>
 <translation id="6221345481584921695">Google drošās pārlūkošanas tehnoloģija vietnē <ph name="SITE" /> nesen <ph name="BEGIN_LINK" />konstatēja ļaunprātīgu programmatūru<ph name="END_LINK" />. Vietnes, kuras parasti ir drošas, dažkārt tiek inficētas ar ļaunprātīgu programmatūru. Ļaunprātīgā satura avots ir <ph name="SUBRESOURCE_HOST" /> — plaši zināms ļaunprātīgās programmatūras izplatītājs.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai Chrome iestatījumos personalizētu pieejamības rīkus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai WEB3 DNA Browser iestatījumos personalizētu pieejamības rīkus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="6229649258872345286">Ceļojumi ģimenēm</translation>
 <translation id="6232271601416750929">Videi draudzīgi skaistumkopšanas produkti</translation>
 <translation id="6233160458685643793">Plats smaids</translation>
@@ -2043,7 +2043,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6240447795304464094">Google Pay logotips</translation>
 <translation id="6241121617266208201">Paslēpt ieteikumus</translation>
 <translation id="624499991300733384">Drukājamā satura salikšanas pakalpojums</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai pārvaldītu pārlūkā Chrome lejupielādētos failus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai pārvaldītu pārlūkā WEB3 DNA Browser lejupielādētos failus, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
 <translation id="6254436959401408446">Nav pietiekami daudz vietas atmiņā, lai atvērtu šo lapu</translation>
 <translation id="6259156558325130047">&amp;Pārkārtošanas atsaukuma atcelšana</translation>
 <translation id="6263376278284652872"><ph name="DOMAIN" /> grāmatzīmes</translation>
@@ -2051,21 +2051,21 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6264485186158353794">Atpakaļ drošībā</translation>
 <translation id="6265794661083428563">Kopēt politikas <ph name="POLICY_NAME" /> vērtību</translation>
 <translation id="6266934640124581640">Gaiši zilganzaļa</translation>
-<translation id="6272088941196661550">Atsāciet meklēšanas ceļu, lai skatītu atbilstošās darbības savā Chrome vēsturē</translation>
+<translation id="1989642600714730446">Atsāciet meklēšanas ceļu, lai skatītu atbilstošās darbības savā WEB3 DNA Browser vēsturē</translation>
 <translation id="6272383483618007430">Google atjauninājums</translation>
 <translation id="6276112860590028508">Šeit tiek rādītas lasīšanas sarakstā esošās lapas</translation>
 <translation id="627746635834430766">Lai nākamreiz veiktu maksājumu ātrāk, saglabājiet kartes datus un norēķinu adresi savā Google kontā.</translation>
 <translation id="6279183038361895380">Lai tiktu parādīts kursors, nospiediet |<ph name="ACCELERATOR" />|</translation>
 <translation id="6280223929691119688">Nevar piegādāt uz šo adresi. Atlasiet citu adresi.</translation>
 <translation id="6284292079994426700">26 x 38 collas</translation>
-<translation id="6285507000506177184">Poga lejupielāžu pārvaldībai pārlūkā Chrome. Lai pārvaldītu pārlūkā Chrome lejupielādētos failus, nospiediet taustiņu Enter.</translation>
+<translation id="6285507000506177184">Poga lejupielāžu pārvaldībai pārlūkā WEB3 DNA Browser. Lai pārvaldītu pārlūkā WEB3 DNA Browser lejupielādētos failus, nospiediet taustiņu Enter.</translation>
 <translation id="6289939620939689042">Lapas krāsa</translation>
 <translation id="6290238015253830360">Ieteiktie raksti tiek parādīti šeit</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Jūsu ierīce tiks restartēta tūlīt}=1{Jūsu ierīce tiks restartēta pēc 1 sekundes}zero{Jūsu ierīce tiks restartēta # sekundēm}one{Jūsu ierīce tiks restartēta # sekundes}other{Jūsu ierīce tiks restartēta # sekundēm}}</translation>
 <translation id="6301104306974789820">Saņemt cenu izsekošanas paziņojumus</translation>
-<translation id="6302269476990306341">Tiek pārtraukta Google asistenta darbība pārlūkprogrammā Chrome.</translation>
+<translation id="6804344251855709483">Tiek pārtraukta Google asistenta darbība pārlūkprogrammā WEB3 DNA Browser.</translation>
 <translation id="6305205051461490394">Vietne <ph name="URL" /> nav sasniedzama.</translation>
 <translation id="6311165245110979290">Virtuālā karte ir pieejama</translation>
 <translation id="6312113039770857350">Tīmekļa lapa nav pieejama</translation>
@@ -2074,7 +2074,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6319249456820053699">Kameras un videoierakstītāji</translation>
 <translation id="6321917430147971392">Sistēmas DNS iestatījumu pārbaude</translation>
 <translation id="6322182122604171028">Neizdevās izmantot Windows Hello</translation>
-<translation id="6326947323444967009">Iestatīt Chrome kā sistēmas noklusējuma pārlūku iOS iestatījumos</translation>
+<translation id="6326947323444967009">Iestatīt WEB3 DNA Browser kā sistēmas noklusējuma pārlūku iOS iestatījumos</translation>
 <translation id="6328639280570009161">Tīkla prognožu atspējošana</translation>
 <translation id="6328784461820205019">“Savienojums nav privāts”, “&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;”, “&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;”, “&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;”, “&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;” vai “SSL sertifikāta kļūda”</translation>
 <translation id="6328786501058569169">Šī vietne ir krāpnieciska</translation>
@@ -2085,7 +2085,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6348220984832452017">Aktīvie varianti</translation>
 <translation id="6349101878882523185">Instalēt <ph name="APP_NAME" /> lietotni</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Nav}=1{1 parole (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizēta)}=2{2 paroles (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizētas)}zero{# paroļu (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizētas)}one{# parole (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizētas)}other{# paroles (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizētas)}}</translation>
-<translation id="6355392890578844978">Šo pārlūku nepārvalda uzņēmums vai cita organizācija. Darbības šajā ierīcē var pārvaldīt ārpus pārlūka Chromium. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
+<translation id="8005063923560553803">Šo pārlūku nepārvalda uzņēmums vai cita organizācija. Darbības šajā ierīcē var pārvaldīt ārpus pārlūka WEB3 DNA Browser. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
 <translation id="6358450015545214790">Ko tas nozīmē?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Pārbaudiet starpniekserveri, ugunsmūri un droša DNS servera konfigurāciju<ph name="END_LINK" />.</translation>
@@ -2110,7 +2110,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6405181733356710802">Vai pāriet uz lietotni <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Ievadiet kredītkartes <ph name="CREDIT_CARD" /> derīguma termiņu un CVC.</translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium var palīdzēt jums aizsargāt jūsu Google kontu un nomainīt paroli.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser var palīdzēt jums aizsargāt jūsu Google kontu un nomainīt paroli.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Materiāls</translation>
 <translation id="6427730057873428458">Abpusējs locījums</translation>
@@ -2148,7 +2148,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6502626736864595182">Forumu un tērzētavu nodrošinātāji</translation>
 <translation id="6502991525169604759">Bez jūsu veiktajām izmaiņām</translation>
 <translation id="6506959208958864820">Aploksne</translation>
-<translation id="6508722015517270189">Restartējiet pārlūku Chrome</translation>
+
 <translation id="6513005815064132016">Var pieprasīt atļauju izsekot kameras pozīciju</translation>
 <translation id="6517596291481585650">Brīdinājums! Šī politika netika apvienota kā saraksts atbilstoši politikā noteiktajam, jo tā nav saraksts.</translation>
 <translation id="6518133107902771759">Verificēt</translation>
@@ -2169,11 +2169,11 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="657902945730878902">Zīmēšana un krāsošana</translation>
 <translation id="6579630537141957243">Vai izveidot savienojumu ar MIDI ierīci?</translation>
 <translation id="6579990219486187401">Gaiši rozā</translation>
-<translation id="6587182488465657433">Pārlūkā Chrome tika konstatēts, ka nupat izmantotā parole ir atklāta datu aizsardzības pārkāpuma dēļ. Lai aizsargātu kontus, ieteicams nekavējoties nomainīt šo paroli un pēc tam pārbaudīt saglabātās paroles.</translation>
+<translation id="3021126460781205886">Pārlūkā WEB3 DNA Browser tika konstatēts, ka nupat izmantotā parole ir atklāta datu aizsardzības pārkāpuma dēļ. Lai aizsargātu kontus, ieteicams nekavējoties nomainīt šo paroli un pēc tam pārbaudīt saglabātās paroles.</translation>
 <translation id="6587893660316489419">Aploksne B5</translation>
 <translation id="6587923378399804057">Jūsu kopētā saite</translation>
 <translation id="6591833882275308647">Jūsu <ph name="DEVICE_TYPE" /> ierīce netiek pārvaldīta</translation>
-<translation id="6592952801936330159">Poga ”Pārvaldīt vietnes iestatījumus”: nospiediet ievadīšanas taustiņu, lai Chrome iestatījumos pārvaldītu atļaujas un datus, kas tiek glabāti vietnēs.</translation>
+<translation id="6592952801936330159">Poga ”Pārvaldīt vietnes iestatījumus”: nospiediet ievadīšanas taustiņu, lai WEB3 DNA Browser iestatījumos pārvaldītu atļaujas un datus, kas tiek glabāti vietnēs.</translation>
 <translation id="6596325263575161958">Šifrēšanas opcijas</translation>
 <translation id="6599642189720630047">Izsekotie produkti</translation>
 <translation id="6611723696964473273">Ekonomikas ziņas</translation>
@@ -2190,7 +2190,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6645291930348198241">Piekļūt sīkfailiem un vietnes datiem</translation>
 <translation id="6645478838938543427">Paziņojums par cenas kritumu tiks nosūtīts uz adresi <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Nav}=1{No 1 vietnes (jūs netiksiet izrakstīts no sava Google konta)}zero{No # vietnēm (jūs netiksiet izrakstīts no sava Google konta)}one{No # vietnes (jūs netiksiet izrakstīts no sava Google konta)}other{No # vietnēm (jūs netiksiet izrakstīts no sava Google konta)}}</translation>
-<translation id="6648459603387803038">Jūsu administrators var attālināti mainīt jūsu pārlūka iestatījumus. Darbību šajā ierīcē var pārvaldīt arī ārpus Chrome.</translation>
+<translation id="6228269625838082008">Jūsu administrators var attālināti mainīt jūsu pārlūka iestatījumus. Darbību šajā ierīcē var pārvaldīt arī ārpus WEB3 DNA Browser.</translation>
 <translation id="6648524591329069940">Serif fonts</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
 <translation id="6651270836885078973">Pārvalda:</translation>
@@ -2202,7 +2202,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6663846344464066639">Lūgšanā saliktas rokas</translation>
 <translation id="6665553082534466207">Trīs caurumi labajā pusē</translation>
 <translation id="6668389483194953109">Atrasts papīra izmēru nosaukums “custom”, taču parametrs “custom_size” ir tukšs vai nederīgs.</translation>
-<translation id="6671697161687535275">Vai noņemt veidlapas ieteikumu no pārlūka Chromium?</translation>
+<translation id="3922033200710514285">Vai noņemt veidlapas ieteikumu no pārlūka WEB3 DNA Browser?</translation>
 <translation id="6683717648675961851">Darba sludinājumi</translation>
 <translation id="6685834062052613830">Izrakstieties un pabeidziet iestatīšanu</translation>
 <translation id="6687335167692595844">Tika pieprasīts fonta lielums</translation>
@@ -2210,7 +2210,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6688743156324860098">Atjaunināt…</translation>
 <translation id="6688775486821967877">Virtuālā karte pašlaik nav pieejama. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
 <translation id="6689249931105087298">Relatīva, ar melno punktu saspiešanu</translation>
-<translation id="6689271823431384964">Pārlūkprogrammā Chrome tiek piedāvāts saglabāt jūsu kartes Google kontā, jo esat pierakstījies. Varat mainīt šo darbību iestatījumos. Kartes īpašnieka vārds tiek iegūts no jūsu konta.</translation>
+<translation id="6568883612935818921">Pārlūkprogrammā WEB3 DNA Browser tiek piedāvāts saglabāt jūsu kartes Google kontā, jo esat pierakstījies. Varat mainīt šo darbību iestatījumos. Kartes īpašnieka vārds tiek iegūts no jūsu konta.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai atrastu savu ierīci Google kontā, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="6696588630955820014">Cilnes kopīgošanas poga. Lai kopīgotu šo cilni, piemēram, kopīgojot saiti, izveidojot kvadrātkodu, sākot apraidi vai citā veidā, nospiediet taustiņu Enter.</translation>
 <translation id="6698381487523150993">Izveidots:</translation>
@@ -2275,7 +2275,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6883221904761970440">Ir aizvērta drošu maksājumu akreditācijas datu autentifikācijas lapa</translation>
 <translation id="6884662655240309489">1. izmērs</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" />: <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome vienkāršoja šo lapu, lai atvieglotu lasīšanu. Chrome izguva sākotnējo lapu, izmantojot nedrošu savienojumu.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser vienkāršoja šo lapu, lai atvieglotu lasīšanu. WEB3 DNA Browser izguva sākotnējo lapu, izmantojot nedrošu savienojumu.</translation>
 <translation id="6890443033788248019">Vai atļaut piekļuvi atrašanās vietai?</translation>
 <translation id="6890531741535756070">Jūs izvēlējāties veikt verifikāciju ar <ph name="DEVICE_LABEL" /> tīmekļa vietnēs, kas izmanto <ph name="PROVIDER_ORIGIN" /> pakalpojumus. Šis pakalpojumu sniedzējs, iespējams, ir saglabājis informāciju par jūsu maksājuma veidu, un jūs varat <ph name="BEGIN_LINK" />pieprasīt šīs informācijas dzēšanu<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Politikas līmenis netiek atbalstīts.</translation>
@@ -2348,7 +2348,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="7058774143982824355">CSV failā saglabātu paroļu parsētāja pakalpojums</translation>
 <translation id="7061777300866737982">Mājokļa drošība un aizsardzība</translation>
 <translation id="7062635574500127092">Zilganzaļa</translation>
-<translation id="706295145388601875">Chrome iestatījumos pievienojiet un pārvaldiet adreses.</translation>
+<translation id="706295145388601875">WEB3 DNA Browser iestatījumos pievienojiet un pārvaldiet adreses.</translation>
 <translation id="7064851114919012435">Kontaktinformācija</translation>
 <translation id="7067633076996245366">Soula un R&amp;B mūzika</translation>
 <translation id="7068733155164172741">Ievadiet <ph name="OTP_LENGTH" /> ciparu kodu</translation>
@@ -2359,23 +2359,18 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="7081308185095828845">Šī funkcija jūsu ierīcē nav pieejama</translation>
 <translation id="7083258188081898530">9. paplāte</translation>
 <translation id="7086090958708083563">Augšupielādi pieprasīja lietotājs.</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai Chrome iestatījumos pārvaldītu atļaujas un datus, kas tiek glabāti vietnēs.</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai WEB3 DNA Browser iestatījumos pārvaldītu atļaujas un datus, kas tiek glabāti vietnēs.</translation>
 <translation id="7096937462164235847">Šīs vietnes identitāte nav verificēta.</translation>
 <translation id="7101893872976785596">Šausmu filmas</translation>
 <translation id="7102079138917191645">Būvniecība un apsaimniekošana</translation>
-<translation id="7102554173784142865">Spēlēt Chrome dinozaura spēli</translation>
+<translation id="7102554173784142865">Spēlēt WEB3 DNA Browser dinozaura spēli</translation>
 <translation id="7108338896283013870">Slēpt</translation>
 <translation id="7108634116785509031">Vietnē <ph name="HOST" /> tiek pieprasīta atļauja lietot jūsu kameru.</translation>
 <translation id="7108819624672055576">Atļāva paplašinājums</translation>
 <translation id="7111012039238467737">(derīgs)</translation>
 <translation id="7118618213916969306">Meklēt starpliktuves URL, <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Aizveriet citas cilnes vai programmas</translation>
-<translation id="7129355289156517987">Kad aizvērsiet visas Chromium inkognito cilnes, no šīs ierīces tiks notīrītas šajās cilnēs veiktās darbības:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />pārlūkošanas darbības;<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />meklēšanas vēsture;<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />veidlapās ievadītā informācija.<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Nevar nosūtīt uz šo adresi. Atlasiet citu adresi.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Bloķēta augšupielāde</translation>
@@ -2462,13 +2457,13 @@ Papildu informācija:
 <translation id="7359588939039777303">Reklāmu rādīšana ir bloķēta.</translation>
 <translation id="7360451453306104998">Ja Google atradīs pieejamas atlaides, tās tiks rādītas norēķinoties.</translation>
 <translation id="7363096869660964304">Tomēr jūs neesat neredzams. Izmantojot inkognito režīmu, jūsu pārlūkošanas darbības netiek slēptas no jūsu darba devēja, interneta pakalpojumu sniedzēja vai apmeklētajām vietnēm.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai Chrome iestatījumos pievienotu un pārvaldītu adreses.</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai WEB3 DNA Browser iestatījumos pievienotu un pārvaldītu adreses.</translation>
 <translation id="7365849542400970216">Vai rādīt, kad jūs lietojat ierīci?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Maksājumu apdarinātāji</translation>
 <translation id="7372973238305370288">meklēšanas rezultāts</translation>
 <translation id="7374461526650987610">Protokolu apdarinātāji</translation>
-<translation id="7374733840632556089">Šīs problēmas iemesls ir sertifikāts, kuru jūs vai kāds cits ir instalējis jūsu ierīcē. Ir zināms, ka šis sertifikāts tiek izmantots tīklu pārraudzībai un pārtveršanai, un pārlūks Chrome tam neuzticas. Lai gan pastāv daži likumīgi pārraudzības gadījumi, piemēram, skolas vai uzņēmuma tīklā, pārlūks Chrome vēlas pārliecināties, ka esat par to informēts, pat ja nevarat to apturēt. Pārraudzība var notikt jebkurā pārlūkā vai lietojumprogrammā ar piekļuvi tīmeklim.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Nav atļauta neviena vietne}=1{Atļauta 1 vietne}zero{Atļautas # vietnes}one{Atļauta # vietne}other{Atļautas # vietnes}}</translation>
 <translation id="7375818412732305729">Tiek pievienots fails</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2486,7 +2481,7 @@ Papildu informācija:
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Kopīgojiet šo cilni, piemēram, kopīgojot saiti, izveidojot kvadrātkodu, sākot apraidi vai citā veidā.</translation>
 <translation id="7403591733719184120">Jūsu <ph name="DEVICE_NAME" /> ierīce tiek pārvaldīta</translation>
-<translation id="7407424307057130981">&lt;p&gt;Šī kļūda tiek rādīta, ja Windows datorā ir instalēta Superfish programmatūra.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Šī kļūda tiek rādīta, ja Windows datorā ir instalēta Superfish programmatūra.&lt;/p&gt;
       &lt;p&gt;Lai īslaicīgi atspējotu šo programmatūru un piekļūtu tīmeklim, veiciet tālāk minētās darbības. Jums būs nepieciešamas administratora privilēģijas.&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;Noklikšķiniet uz pogas &lt;strong&gt;Sākums&lt;/strong&gt;, pēc tam atrodiet un atlasiet opciju &lt;strong&gt;Skatīt vietējos pakalpojumus&lt;/strong&gt;.
@@ -2494,7 +2489,7 @@ Papildu informācija:
       &lt;li&gt;Sadaļā &lt;strong&gt;Startēšanas tips&lt;/strong&gt; atlasiet &lt;strong&gt;Atspējots&lt;/strong&gt;.
       &lt;li&gt;Sadaļā &lt;strong&gt;Pakalpojuma statuss&lt;/strong&gt; noklikšķiniet uz &lt;strong&gt;Apturēt&lt;/strong&gt;.
       &lt;li&gt;Noklikšķiniet uz &lt;strong&gt;Lietot&lt;/strong&gt;, pēc tam noklikšķiniet uz &lt;strong&gt;Labi&lt;/strong&gt;.
-      &lt;li&gt;Apmeklējiet &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Chrome palīdzības centru&lt;/a&gt;, lai uzzinātu, kā neatgriezeniski noņemt programmatūru no datora.
+      &lt;li&gt;Apmeklējiet &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;WEB3 DNA Browser palīdzības centru&lt;/a&gt;, lai uzzinātu, kā neatgriezeniski noņemt programmatūru no datora.
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Glīta</translation>
 <translation id="741204030948306876">Jā, piekrītu</translation>
@@ -2502,7 +2497,7 @@ Papildu informācija:
 <translation id="7418620734632363981">Programmēšana</translation>
 <translation id="7419106976560586862">Profila ceļš</translation>
 <translation id="7421067045979951561">protokolu apdarinātāji</translation>
-<translation id="7426022697669111648">Poga Skatīt Chrome vēsturi. Lai Chrome iestatījumos skatītu un pārvaldītu pārlūkošanas vēsturi, nospiediet taustiņu Enter.</translation>
+<translation id="7426022697669111648">Poga Skatīt WEB3 DNA Browser vēsturi. Lai WEB3 DNA Browser iestatījumos skatītu un pārvaldītu pārlūkošanas vēsturi, nospiediet taustiņu Enter.</translation>
 <translation id="7427366580982928791">Bērnu drošība internetā</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Pievienot kontaktinformāciju</translation>
@@ -2531,12 +2526,7 @@ Papildu informācija:
 <translation id="7497998058912824456">Dokumenta izveides poga. Lai ātri izveidotu jaunu Google dokumentu, nospiediet taustiņu Enter.</translation>
 <translation id="7501663406926337752">Šo vietni ir atzīmējusi jūsu organizācija</translation>
 <translation id="7501853161948120656">Izglītojoši materiāli</translation>
-<translation id="7506488012654002225">Pārlūkā Chromium <ph name="BEGIN_EMPHASIS" />netiks saglabāta<ph name="END_EMPHASIS" /> šāda informācija:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />jūsu pārlūkošanas vēsture;
-            <ph name="LIST_ITEM" />sīkfaili un vietņu dati;
-            <ph name="LIST_ITEM" />veidlapās ievadītā informācija.
-          <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Aploksne 9</translation>
 <translation id="7508255263130623398">Atgrieztais politikas ierīces ID ir tukšs vai neatbilst pašreizējam ierīces ID.</translation>
 <translation id="7508870219247277067">Avokado zaļa</translation>
@@ -2558,7 +2548,7 @@ Papildu informācija:
 <translation id="7542995811387359312">Automātiska kredītkartes numura ievadīšana ir atspējota, jo šai veidlapai netiek izmantots drošs savienojums.</translation>
 <translation id="7548892272833184391">Savienojuma kļūdu novēršana</translation>
 <translation id="7549584377607005141">Lai tīmekļa lapu varētu attēlot pareizi, tai nepieciešami jūsu iepriekš ievadītie dati. Varat atkārtoti nosūtīt šos datus, taču tādā gadījumā tiks atkārtota ikviena darbība, ko pirms tam veica lapa.</translation>
-<translation id="7550637293666041147">Jūsu lietotājvārds ierīcē un pārlūkā Chrome</translation>
+<translation id="4843621636877577887">Jūsu lietotājvārds ierīcē un pārlūkā WEB3 DNA Browser</translation>
 <translation id="7551484245293639699">Ceļojuma apdrošināšana</translation>
 <translation id="755279583747225797">Izmēģinājums ir aktīvs</translation>
 <translation id="7552846755917812628">Izmantojiet tālāk sniegtos padomus.</translation>
@@ -2566,13 +2556,13 @@ Papildu informācija:
 <translation id="7554791636758816595">Jauna cilne</translation>
 <translation id="7555777498260651025">Ģimenei paredzētas televīzijas pārraides</translation>
 <translation id="7559278538486662777">Šīs lietotnes loga lielumu nevar mainīt.</translation>
-<translation id="7564049878696755256">Varat zaudēt piekļuvi savam <ph name="ORG_NAME" /> kontam, vai jūsu identitāte var tikt nozagta. Chrome iesaka nekavējoties nomainīt paroli.</translation>
+<translation id="8940464370390138384">Varat zaudēt piekļuvi savam <ph name="ORG_NAME" /> kontam, vai jūsu identitāte var tikt nozagta. WEB3 DNA Browser iesaka nekavējoties nomainīt paroli.</translation>
 <translation id="7564680668369175887">Universāļi</translation>
 <translation id="7567204685887185387">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts, iespējams, ir izveidots krāpnieciski. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
-<translation id="7568616151991626879">Pārlūkā Google Chrome tiek mēģināts ievadīt jūsu paroli vietnē <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">Pārlūkā WEB3 DNA Browser tiek mēģināts ievadīt jūsu paroli vietnē <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golfs</translation>
 <translation id="7569761772822664555">Meklētājprogrammu pārvaldības poga. Lai pārvaldītu noklusējuma meklētājprogrammu un meklēšanu vietnēs, nospiediet taustiņu Enter.</translation>
-<translation id="7569952961197462199">Vai noņemt kredītkarti no pārlūka Chrome?</translation>
+<translation id="9202224267417193484">Vai noņemt kredītkarti no pārlūka WEB3 DNA Browser?</translation>
 <translation id="7569983096843329377">Melna</translation>
 <translation id="7575207903026901870">Ieteikuma noņemšanas poga, nospiediet ievadīšanas taustiņu, lai noņemtu šo ieteikumu</translation>
 <translation id="7577900504646297215">Pārvaldīt intereses</translation>
@@ -2591,15 +2581,15 @@ Papildu informācija:
 <translation id="7600965453749440009">Nekad netulkot saturu, kas rakstīts <ph name="LANGUAGE" /> valodā</translation>
 <translation id="7610193165460212391">Vērtība pārsniedz diapazonu: <ph name="VALUE" />.</translation>
 <translation id="7613889955535752492">Derīguma termiņš: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai skatītu un pārvaldītu savas paroles Chrome iestatījumos, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
-<translation id="7616645509853975347">Administrators ir ieslēdzis savienotāju kolekciju Chrome Enterprise Connectors jūsu pārlūkā. Šie savienotāji var piekļūt daļai jūsu datu.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai skatītu un pārvaldītu savas paroles WEB3 DNA Browser iestatījumos, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
+<translation id="2698924724374512123">Administrators ir ieslēdzis savienotāju kolekciju WEB3 DNA Browser Enterprise Connectors jūsu pārlūkā. Šie savienotāji var piekļūt daļai jūsu datu.</translation>
 <translation id="7617825962482469577">Aploksne C7/C6</translation>
 <translation id="7619838219691048931">Beigu lapa</translation>
 <translation id="7625242817712715120">Administratora politika nosaka, ka nav ieteicams drukāt šo saturu.</translation>
 <translation id="762844065391966283">Pa vienam</translation>
 <translation id="7631444403134069754">Vieglatlētika</translation>
 <translation id="7633909222644580952">Veiktspējas dati un avāriju pārskati</translation>
-<translation id="7637571805876720304">Vai noņemt kredītkarti no pārlūka Chromium?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Nav}=1{1 parole jūsu kontā (<ph name="DOMAIN_LIST" />)}zero{# paroles jūsu kontā (<ph name="DOMAIN_LIST" />)}one{# parole jūsu kontā (<ph name="DOMAIN_LIST" />)}other{# paroles jūsu kontā (<ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Seriālie porti</translation>
 <translation id="7639968568612851608">Tumši pelēka</translation>
@@ -2623,7 +2613,7 @@ Papildu informācija:
 <translation id="7673278391011283842">6. pastkaste</translation>
 <translation id="7675325315208090829">Pārvaldīt maksājumu veidus…</translation>
 <translation id="7676643023259824263">Meklēt starpliktuves tekstu <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Chrome iestatījumos skatīt un pārvaldīt pārlūkošanas vēsturi</translation>
+<translation id="7679367271685653708">WEB3 DNA Browser iestatījumos skatīt un pārvaldīt pārlūkošanas vēsturi</translation>
 <translation id="7679947978757153706">Beisbols</translation>
 <translation id="7681273392938116652">Simulācijas sporta spēles</translation>
 <translation id="7682287625158474539">Piegāde</translation>
@@ -2652,7 +2642,7 @@ Papildu informācija:
 <translation id="7740996059027112821">Standarta</translation>
 <translation id="77424286611022110">Šajā vietnē tiek rādītas traucējošas vai maldinošas reklāmas. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Bloķēts bīstams saturs</translation>
-<translation id="7751971323486164747">Pielāgot fontu izmērus un burtveidolus pārlūkā Chrome</translation>
+<translation id="7751971323486164747">Pielāgot fontu izmērus un burtveidolus pārlūkā WEB3 DNA Browser</translation>
 <translation id="7752995774971033316">Netiek pārvaldīts</translation>
 <translation id="7755624218968747854">Galvenais rullis</translation>
 <translation id="7758069387465995638">Iespējams, savienojumu ir bloķējis ugunsmūris vai pretvīrusu programmatūra.</translation>
@@ -2675,7 +2665,7 @@ Papildu informācija:
 <translation id="7805571567667010077">Pārvalda jūsu organizācija</translation>
 <translation id="7805768142964895445">Statuss</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Vai noņemt veidlapas ieteikumu no pārlūka Chrome?</translation>
+
 <translation id="781440967107097262">Vai kopīgot starpliktuvi?</translation>
 <translation id="7815407501681723534">Meklējot pēc virknes “<ph name="SEARCH_STRING" />”, tika atrasti <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /></translation>
 <translation id="7822320754433038727">Medības un šaušana</translation>
@@ -2710,8 +2700,8 @@ Papildu informācija:
 <translation id="7943397946612013052">Bloķēta lejupielāde</translation>
 <translation id="7943893128817522649">Var pieprasīt atļauju automātiski lejupielādēt vairākus failus</translation>
 <translation id="7947285636476623132">Pārbaudiet derīguma termiņa gadu un mēģiniet vēlreiz.</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai uzzinātu vairāk par Chrome funkcijām, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
-<translation id="7950027195171824198">Chrome iestatījumos pārvaldiet savas sīkfailu preferences.</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai uzzinātu vairāk par WEB3 DNA Browser funkcijām, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
+<translation id="7950027195171824198">WEB3 DNA Browser iestatījumos pārvaldiet savas sīkfailu preferences.</translation>
 <translation id="7951415247503192394">(32 bitu)</translation>
 <translation id="7952192831285741665">EDP (Eiropa)</translation>
 <translation id="7953569069500808819">Malu sašuvums augšdaļā</translation>
@@ -2726,7 +2716,7 @@ Papildu informācija:
 <translation id="7981129096182302364">Deju un elektroniskā mūzika</translation>
 <translation id="798134797138789862">Var pieprasīt atļauju izmantot virtuālās realitātes ierīces un datus</translation>
 <translation id="7983008347525536475">Apvidus automašīnas</translation>
-<translation id="7984945080620862648">Pašlaik nevarat apmeklēt vietni <ph name="SITE" />, jo tā nosūtīja bojātus akreditācijas datus, ko nevar apstrādāt pārlūkā Chrome. Tīkla kļūdas un uzbrukumi parasti ir īslaicīgi, tāpēc šī lapa vēlāk, visticamāk, darbosies.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" />, <ph name="BOOKMARKED" />, <ph name="TITLE" />, <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Iesējums</translation>
 <translation id="7992044431894087211">Ekrāna kopīgošana ar lietojumprogrammu <ph name="APPLICATION_TITLE" /> ir atsākta.</translation>
@@ -2759,7 +2749,7 @@ Papildu informācija:
 <translation id="8057711352706143257">Programmatūra <ph name="SOFTWARE_NAME" /> nav pareizi konfigurēta. Atinstalējot programmatūru <ph name="SOFTWARE_NAME" />, parasti problēma tiek novērsta. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Pārtikas rūpniecība</translation>
 <translation id="8066225060526005217">Tiek pārvaldīta sīkfailu iestatījumos</translation>
-<translation id="8067872629359326442">Jūs tikko ievadījāt savu paroli maldinošā vietnē. Chromium var palīdzēt. Lai mainītu paroli un paziņotu uzņēmumam Google, ka jūsu konts, iespējams, ir apdraudēts, noklikšķiniet uz pogas Aizsargāt kontu.</translation>
+
 <translation id="8070439594494267500">Lietotnes ikona</translation>
 <translation id="8075736640322370409">Ātri izveidot jaunu Google izklājlapu</translation>
 <translation id="8075898834294118863">Pārvaldīt vietnes iestatījumus</translation>
@@ -2789,7 +2779,7 @@ Papildu informācija:
 <translation id="8116925261070264013">Izslēgta skaņa</translation>
 <translation id="8118489163946903409">Maksājuma veids</translation>
 <translation id="8123046743443732598">Galddatori</translation>
-<translation id="8124639700796374294">Poga Chrome pielāgošanai. Lai pielāgotu pārlūka izskatu, nospiediet taustiņu Enter.</translation>
+<translation id="8124639700796374294">Poga WEB3 DNA Browser pielāgošanai. Lai pielāgotu pārlūka izskatu, nospiediet taustiņu Enter.</translation>
 <translation id="8126056688005753476">Piedzīvojumu tūrisms</translation>
 <translation id="8127301229239896662">Programmatūra <ph name="SOFTWARE_NAME" /> netika pareizi instalēta datorā vai tīklā. Lūdziet IT administratoram atrisināt šo problēmu.</translation>
 <translation id="8131740175452115882">Apstiprināt</translation>
@@ -2800,7 +2790,7 @@ Papildu informācija:
 <translation id="8157295877370077682">Pamest vietni</translation>
 <translation id="8163866351304776260">Četri caurumi kreisajā malā</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Pārlūkprogrammā Chrome tiek piedāvāts saglabāt jūsu kartes Google kontā, jo esat pierakstījies. Varat mainīt šo darbību iestatījumos.</translation>
+<translation id="8903986195054043594">Pārlūkprogrammā WEB3 DNA Browser tiek piedāvāts saglabāt jūsu kartes Google kontā, jo esat pierakstījies. Varat mainīt šo darbību iestatījumos.</translation>
 <translation id="8176440868214972690">Šīs ierīces administrators ir nosūtījis informāciju, piemēram, iestatījumus vai politikas, uz tālāk norādītajām vietnēm.</translation>
 <translation id="8184538546369750125">Izmantot globālo noklusējumu (Atļaut)</translation>
 <translation id="8186706823560132848">Programmatūra</translation>
@@ -2832,7 +2822,7 @@ Papildu informācija:
 <translation id="8242426110754782860">Turpināt</translation>
 <translation id="8249296373107784235">Priekšlaikus pārtraukt</translation>
 <translation id="8249463483885748674">Standartizēti un iestāšanās pārbaudījumi</translation>
-<translation id="8252991034201168845">Poga “Pārvaldīt pieejamības iestatījumus”. Lai Chrome OS iestatījumos personalizētu pieejamības rīkus, nospiediet taustiņu Enter.</translation>
+<translation id="8252991034201168845">Poga “Pārvaldīt pieejamības iestatījumus”. Lai WEB3 DNA Browser OS iestatījumos personalizētu pieejamības rīkus, nospiediet taustiņu Enter.</translation>
 <translation id="8253091569723639551">Jānorāda norēķinu adrese.</translation>
 <translation id="8257387598443225809">Šī lietotne ir paredzēta mobilajām ierīcēm</translation>
 <translation id="825929999321470778">Rādīt visas saglabātās paroles</translation>
@@ -2845,11 +2835,11 @@ Papildu informācija:
 <translation id="8270242299912238708">PDF dokumenti</translation>
 <translation id="8275952078857499577">Nepiedāvāt tulkot šo vietni</translation>
 <translation id="8277900682056760511">Maksājumu apstrādātāja lapa ir atvērta</translation>
-<translation id="8279611986089885641">Jābūt ieslēgtiem Chrome paziņojumiem. Varat tos ieslēgt šeit: <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">Jābūt ieslēgtiem WEB3 DNA Browser paziņojumiem. Varat tos ieslēgt šeit: <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">11. paplāte</translation>
 <translation id="8281886186245836920">Izlaist</translation>
 <translation id="8282947398454257691">uzzināt jūsu unikālo ierīces identifikatoru</translation>
-<translation id="8284769179630993263">Chrome iestatījumos pārvaldiet funkciju Droša pārlūkošana un citas opcijas.</translation>
+<translation id="8284769179630993263">WEB3 DNA Browser iestatījumos pārvaldiet funkciju Droša pārlūkošana un citas opcijas.</translation>
 <translation id="8286036467436129157">Pierakstīties</translation>
 <translation id="8288807391153049143">Rādīt sertifikātu</translation>
 <translation id="8289355894181816810">Sazinieties ar tīkla administratoru, ja neesat pārliecināts, ko tas nozīmē.</translation>
@@ -2888,7 +2878,7 @@ Papildu informācija:
 <translation id="8390725133630534698">Saskaņā ar administratora iestatīto politiku kopīgošana no <ph name="ORIGIN_NAME" /> uz <ph name="VM_NAME" /> ir bloķēta.</translation>
 <translation id="8396522675989118466">Tas ir <ph name="NUMBER_OF_DIGITS" /> ciparu kods, kas norādīts šeit: <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Atrast tālruni</translation>
-<translation id="8405579342203358118">Chrome iestatījumos pārvaldiet, kāda informācija tiek sinhronizēta.</translation>
+<translation id="8405579342203358118">WEB3 DNA Browser iestatījumos pārvaldiet, kāda informācija tiek sinhronizēta.</translation>
 <translation id="8409413588194360210">maksājumu apdarinātāji</translation>
 <translation id="8412145213513410671">Avārijas (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Viena un tā pati ieejas frāze jāievada divreiz.</translation>
@@ -2899,7 +2889,7 @@ Papildu informācija:
 <translation id="8427848540066057481">500 x 750 mm</translation>
 <translation id="8428213095426709021">Iestatījumi</translation>
 <translation id="8428634594422941299">Labi</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai Chrome iestatījumos pārvaldītu savas sīkfailu preferences.</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai WEB3 DNA Browser iestatījumos pārvaldītu savas sīkfailu preferences.</translation>
 <translation id="8433057134996913067">Šādi tiksiet izrakstīts no lielākās daļas vietņu.</translation>
 <translation id="8434840396568290395">Mājdzīvnieki</translation>
 <translation id="8437238597147034694">&amp;Atsaukt pārvietošanu</translation>
@@ -2919,12 +2909,12 @@ Papildu informācija:
 <translation id="8473863474539038330">Adreses un citus datus</translation>
 <translation id="8474910779563686872">Skatīt informāciju par izstrādātāju</translation>
 <translation id="8479754468255770962">Skavojums apakšējā kreisajā malā</translation>
-<translation id="8483780878231876732">Lai izmantotu kartes no sava Google konta, pierakstieties pārlūkā Chrome!</translation>
+<translation id="8483780878231876732">Lai izmantotu kartes no sava Google konta, pierakstieties pārlūkā WEB3 DNA Browser!</translation>
 <translation id="8488350697529856933">Attiecas uz</translation>
 <translation id="8490137692873530638">10. izvades vieta</translation>
 <translation id="8493948351860045254">Atbrīvot vietu</translation>
 <translation id="8498891568109133222">Vietne <ph name="HOST_NAME" /> pārāk ilgi nereaģēja.</translation>
-<translation id="8503559462189395349">Chrome paroles</translation>
+<translation id="1863492395079744896">WEB3 DNA Browser paroles</translation>
 <translation id="8503813439785031346">Lietotājvārds</translation>
 <translation id="8507227106804027148">Komandrinda</translation>
 <translation id="8508648098325802031">Meklēšanas ikona</translation>
@@ -2932,8 +2922,8 @@ Papildu informācija:
 <translation id="851353418319061866">Informācijas uzticamības pārbaude</translation>
 <translation id="8513580896341796021">Lejupielāde ir sākta. Lai to skatītu, nospiediet taustiņu |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">HID ierīce, ko atļāva jūsu administrators</translation>
-<translation id="8522552481199248698">Chrome var palīdzēt jums aizsargāt jūsu Google kontu un nomainīt paroli.</translation>
-<translation id="8530813470445476232">Notīriet savu pārlūkošanas vēsturi, sīkfailus, kešatmiņu un citus datus Chrome iestatījumos.</translation>
+
+<translation id="8530813470445476232">Notīriet savu pārlūkošanas vēsturi, sīkfailus, kešatmiņu un citus datus WEB3 DNA Browser iestatījumos.</translation>
 <translation id="853332391023689529">Pikapi</translation>
 <translation id="8533619373899488139">Apmeklējiet vietni &lt;strong&gt;chrome://policy&lt;/strong&gt;, lai skatītu bloķēto URL sarakstu, kā arī citas politikas, ko noteicis sistēmas administrators.</translation>
 <translation id="8539500321752640291">Vai piešķirt 2 atļaujas?</translation>
@@ -2949,7 +2939,7 @@ Papildu informācija:
 <translation id="8557066899867184262">CVC kods ir norādīts jūsu kartes aizmugurē.</translation>
 <translation id="8559762987265718583">Nevar izveidot privātu savienojumu ar <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" />, jo jūsu ierīces datums un laiks (<ph name="DATE_AND_TIME" />) nav pareizs.</translation>
 <translation id="8564182942834072828">Atsevišķi dokumenti/nesakārtotu lapu kopijas</translation>
-<translation id="8564985650692024650">Chromium iesaka atiestatīt jūsu <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> paroli, ja izmantojāt to citās vietnēs.</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser iesaka atiestatīt jūsu <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> paroli, ja izmantojāt to citās vietnēs.</translation>
 <translation id="8576310925653847813">Mājas kinozāles sistēmas</translation>
 <translation id="8577348305244205642">Virtuālā karte nav pieejama</translation>
 <translation id="858637041960032120">Piev. tālr. nr.
@@ -2982,7 +2972,7 @@ Papildu informācija:
 <translation id="868922510921656628">Lapas katrā kopā</translation>
 <translation id="869891660844655955">Derīguma termiņš</translation>
 <translation id="8699041776323235191">HID ierīce</translation>
-<translation id="8699899385443889493">Chrome dinozaura spēles aktivizēšanas poga. Lai spēlētu dinozaura skriešanas spēli pārlūkā Chrome, nospiediet taustiņu Enter.</translation>
+<translation id="8699899385443889493">WEB3 DNA Browser dinozaura spēles aktivizēšanas poga. Lai spēlētu dinozaura skriešanas spēli pārlūkā WEB3 DNA Browser, nospiediet taustiņu Enter.</translation>
 <translation id="8699985386408839112">Aploksne Kaku 1</translation>
 <translation id="8703575177326907206">Jūsu savienojums ar <ph name="DOMAIN" /> nav kodēts.</translation>
 <translation id="8705331520020532516">Sērijas numurs</translation>
@@ -2999,12 +2989,12 @@ Papildu informācija:
 <translation id="8725066075913043281">Mēģināt vēlreiz</translation>
 <translation id="8726549941689275341">Lapas lielums:</translation>
 <translation id="8730621377337864115">Gatavs</translation>
-<translation id="8731544501227493793">Poga “Pārvaldīt paroles”. Lai skatītu un pārvaldītu paroles Chrome iestatījumos, nospiediet ievadīšanas taustiņu.</translation>
+<translation id="8731544501227493793">Poga “Pārvaldīt paroles”. Lai skatītu un pārvaldītu paroles WEB3 DNA Browser iestatījumos, nospiediet ievadīšanas taustiņu.</translation>
 <translation id="8734529307927223492">Jūsu <ph name="DEVICE_TYPE" /> ierīci pārvalda <ph name="MANAGER" /></translation>
 <translation id="8736059027199600831">30 x 40 collas</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai privātai pārlūkošanai atvērtu inkognito režīma logu, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
 <translation id="8737685506611670901">atvērt <ph name="PROTOCOL" /> saites, nevis <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Lai izveidotu drošu savienojumu, ir jāiestata pareizs pulksteņa laiks. Tas ir nepieciešams, jo sertifikāti, kurus vietnes izmanto, lai tiktu identificētas, ir derīgi tikai noteiktos laika periodos. Tā kā jūsu ierīces pulkstenis nav pareizi iestatīts, Chromium nevar verificēt šos sertifikātus.</translation>
+
 <translation id="8740359287975076522">Nevarēja atrast <ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;DNS adresi&lt;/abbr&gt;. Notiek problēmas diagnosticēšana.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> ir jūsu kods vietnei <ph name="ORIGIN" />.</translation>
 <translation id="874918643257405732">Saglabāt šo cilni kā grāmatzīmi</translation>
@@ -3023,9 +3013,9 @@ Papildu informācija:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motocikli</translation>
 <translation id="8790007591277257123">&amp;Atcelt dzēšanas atsaukšanu</translation>
-<translation id="8792621596287649091">Varat zaudēt piekļuvi savam <ph name="ORG_NAME" /> kontam, vai jūsu identitāte var tikt nozagta. Chromium iesaka nekavējoties nomainīt paroli.</translation>
+
 <translation id="8792626944327216835">mikrofons</translation>
-<translation id="8793655568873652685">Domēns <ph name="ENROLLMENT_DOMAIN" /> ir iespējojis savienotājus Chrome Enterprise Connectors jūsu pārlūkā. Šie savienotāji var piekļūt daļai jūsu datu.</translation>
+<translation id="8238747517405767555">Domēns <ph name="ENROLLMENT_DOMAIN" /> ir iespējojis savienotājus WEB3 DNA Browser Enterprise Connectors jūsu pārlūkā. Šie savienotāji var piekļūt daļai jūsu datu.</translation>
 <translation id="8798099450830957504">Noklusējums</translation>
 <translation id="8798739476508189189">Vai meklējat pārlūka karodziņus? Apmeklējiet lapu</translation>
 <translation id="8805819170075074995">Saraksta ieraksts “<ph name="LANGUAGE_ID" />”: ieraksts tiek ignorēts, jo tas ir iekļauts arī SpellcheckLanguage politikā.</translation>
@@ -3033,7 +3023,7 @@ Papildu informācija:
 <translation id="8807160976559152894">Apgriešana pēc katras lapas</translation>
 <translation id="8813277370772331957">Atgādināt vēlāk</translation>
 <translation id="8814707942599948500">Aploksne C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai Chrome iestatījumos atjauninātu pārlūkprogrammu Chrome, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai WEB3 DNA Browser iestatījumos atjauninātu pārlūkprogrammu WEB3 DNA Browser, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
 <translation id="8820817407110198400">Grāmatzīmes</translation>
 <translation id="882338992931677877">Manuālais slots</translation>
 <translation id="8830320733681313421">Hagaki (pastkarte)</translation>
@@ -3047,7 +3037,7 @@ Papildu informācija:
 <translation id="885306012106043620">Teniss</translation>
 <translation id="8855742650226305367">Deja</translation>
 <translation id="885730110891505394">Kopīgošana ar Google</translation>
-<translation id="8858065207712248076">Chrome iesaka atiestatīt jūsu <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> paroli, ja izmantojāt to citās vietnēs.</translation>
+
 <translation id="885906927438988819">Ja nav pareizrakstības kļūdu, <ph name="BEGIN_LINK" />mēģiniet palaist Windows tīkla diagnostiku<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Filmu mūzika</translation>
 <translation id="8866481888320382733">Parsējot politikas iestatījumus, radās kļūda.</translation>
@@ -3067,7 +3057,7 @@ Papildu informācija:
 <translation id="8903921497873541725">Tuvināt</translation>
 <translation id="890493561996401738">Ieteikuma noņemšanas poga, nospiediet ievadīšanas taustiņu, lai noņemtu, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google konts</translation>
-<translation id="8913778647360618320">Poga “Pārvaldīt maksājumu veidus”. Lai pārvaldītu savus maksājumus un kredītkaršu informāciju Chrome iestatījumos, nospiediet ievadīšanas taustiņu.</translation>
+<translation id="8913778647360618320">Poga “Pārvaldīt maksājumu veidus”. Lai pārvaldītu savus maksājumus un kredītkaršu informāciju WEB3 DNA Browser iestatījumos, nospiediet ievadīšanas taustiņu.</translation>
 <translation id="8922013791253848639">Vienmēr atļaut reklāmu rādīšanu šajā vietnē</translation>
 <translation id="892588693504540538">Caurums augšējā labajā malā</translation>
 <translation id="8930330541574156305">Nekustamais īpašums</translation>
@@ -3088,7 +3078,7 @@ Papildu informācija:
 <translation id="8975263830901772334">Drukāto failu nosaukumi</translation>
 <translation id="8978053250194585037">Google drošā pārlūkošana nesen <ph name="BEGIN_LINK" />konstatēja pikšķerēšanu<ph name="END_LINK" /> vietnē <ph name="SITE" />. Pikšķerēšanas vietnes uzdodas par citām vietnēm, lai jūs maldinātu.</translation>
 <translation id="8983369100812962543">Tagad varat mainīt lietotnes lielumu</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai skatītu pārlūkošanas vēsturi pārlūkā Chrome, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, lai skatītu pārlūkošanas vēsturi pārlūkā WEB3 DNA Browser, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter</translation>
 <translation id="8987927404178983737">Mēnesis</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Vai meklējat sistēmas versiju? Apmeklējiet vietni</translation>
@@ -3135,19 +3125,19 @@ Papildu informācija:
 <translation id="908796725011587895">Augstskolu sports</translation>
 <translation id="9089260154716455634">Izslēgšanas stundu politika:</translation>
 <translation id="9095388113577226029">Citas valodas…</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />; nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter, lai iestatītu Chrome kā sistēmas noklusējuma pārlūku iOS iestatījumos.</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />; nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter, lai iestatītu WEB3 DNA Browser kā sistēmas noklusējuma pārlūku iOS iestatījumos.</translation>
 <translation id="9096679202588811390">TV seriāli un pārraides</translation>
 <translation id="9101630580131696064">1. paplāte</translation>
 <translation id="9102081333385212048">Jūsu kopētie vai pārvietotie faili tiek nosūtīti uz Google mākoni vai trešajām pusēm, lai veiktu analīzi. Šie faili var tikt pārmeklēti, lai konstatētu, piemēram, vai tajos ir ietverti sensitīvi dati vai ļaunprātīga programmatūra.</translation>
 <translation id="9103537084693478942">Video programmatūra</translation>
-<translation id="9103872766612412690">Vietnē <ph name="SITE" /> informācijas aizsargāšanai parasti tiek izmantota šifrēšana. Kad pārlūkā Chromium tika mēģināts izveidot savienojumu ar vietni <ph name="SITE" />, šoreiz tā nosūtīja neparastus un nepareizus akreditācijas datus. Iespējams, tas notika, jo uzbrucējs mēģināja uzdoties par vietni <ph name="SITE" />, vai arī Wi-Fi pierakstīšanās ekrāns pārtrauca savienojumu. Jūsu informācija joprojām ir drošībā, jo pārlūks Chromium pārtrauca savienojumu, pirms tika veikta jebkādu datu apmaiņa.</translation>
+
 <translation id="9106062320799175032">Norēķinu adreses pievienošana</translation>
 <translation id="9107467864910557787">Jūsu pārlūku pārvalda <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Saskaņā ar administratora iestatīto politiku ekrāna kopīgošana ar lietojumprogrammu <ph name="APPLICATION_TITLE" /> tiek atspējota, kad ir redzams konfidenciāls saturs.</translation>
 <translation id="9114524666733003316">Notiek kartes apstiprināšana...</translation>
-<translation id="9114581008513152754">Šo pārlūku nepārvalda uzņēmums vai cita organizācija. Darbību šajā ierīcē var pārvaldīt ārpus pārlūka Chrome. <ph name="BEGIN_LINK" />Uzzināt vairāk<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Dzīvīga</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai atsāktu meklēšanu un skatītu atbilstošās darbības savā Chrome vēsturē.</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />: nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu, lai atsāktu meklēšanu un skatītu atbilstošās darbības savā WEB3 DNA Browser vēsturē.</translation>
 <translation id="9119042192571987207">Augšupielādēts</translation>
 <translation id="9122954576417194280">Izejvielu un nākotnes līgumu tirdzniecība</translation>
 <translation id="9128016270925453879">Politikas ir ielādētas</translation>
@@ -3162,7 +3152,7 @@ Papildu informācija:
 <translation id="9148088599418889305">Izvēlēties nosūtīšanas veidu</translation>
 <translation id="9148507642005240123">&amp;Atsaukt labojumu</translation>
 <translation id="9150045010208374699">Izmantot jūsu videokameru</translation>
-<translation id="9150685862434908345">Jūsu administrators var attālināti mainīt jūsu pārlūka iestatījumus. Darbību šajā ierīcē var pārvaldīt arī ārpus Chrome. <ph name="BEGIN_LINK" />Uzzināt vairāk<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Atjaunināts</translation>
 <translation id="9155211586651734179">Pievienotās perifērās audio ierīces</translation>
 <translation id="9157595877708044936">Notiek uzstādīšana...</translation>
@@ -3177,7 +3167,7 @@ Papildu informācija:
 <translation id="917450738466192189">Servera sertifikāts ir nederīgs.</translation>
 <translation id="9174623988242579721">Pielāgotas un sacīkšu automašīnas</translation>
 <translation id="9174917557437862841">Ciļņu pārslēgšanas poga. Nospiediet ievadīšanas taustiņu, lai pārslēgtu šo cilni.</translation>
-<translation id="9179703756951298733">Pārvaldiet savu maksājumu un kredītkaršu informāciju Chrome iestatījumos.</translation>
+<translation id="9179703756951298733">Pārvaldiet savu maksājumu un kredītkaršu informāciju WEB3 DNA Browser iestatījumos.</translation>
 <translation id="9179907736442194268">Saņemiet e-pasta brīdinājumus, ja kādā vietnē tiek konstatēts cenas kritums.</translation>
 <translation id="9183302530794969518">Google dokumenti</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> izmanto neatbalstītu protokolu.</translation>
@@ -3188,12 +3178,12 @@ Papildu informācija:
 <translation id="920511547311754821">Vai nevarat atrast kodu? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Rakstu neizdevās pievienot.</translation>
 <translation id="9213433120051936369">Izskata pielāgošana</translation>
-<translation id="9215416866750762878">Lietojumprogrammas darbības dēļ pārlūkā Chrome nevar izveidot drošu savienojumu ar šo vietni</translation>
+<translation id="717994082075351832">Lietojumprogrammas darbības dēļ pārlūkā WEB3 DNA Browser nevar izveidot drošu savienojumu ar šo vietni</translation>
 <translation id="9219103736887031265">Attēli</translation>
-<translation id="922152298093051471">Pielāgot pārlūkprogrammu Chrome</translation>
+<translation id="922152298093051471">Pielāgot pārlūkprogrammu WEB3 DNA Browser</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">NOTĪRĪT VEIDLAPU</translation>
-<translation id="936602727769022409">Varat zaudēt piekļuvi savam Google kontam. Chromium iesaka nekavējoties nomainīt paroli. Jums tiks lūgts pierakstīties.</translation>
+
 <translation id="937457230470581909">Zooloģiskie dārzi, akvāriji un rezervāti</translation>
 <translation id="939736085109172342">Jauna mape</translation>
 <translation id="940053046584497293">Ceļojumi un transports</translation>

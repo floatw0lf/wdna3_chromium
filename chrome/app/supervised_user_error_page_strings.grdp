@@ -101,7 +101,7 @@
         Your parents can unblock it for you
       </message>
       <message name="IDS_SUPERVISED_USER_NOT_SIGNED_IN" desc="Message to be shown to a supervised user who is not signed in to Chrome">
-        Please start and sign in to Chrome so that Chrome can check whether you are allowed to access this site.
+        Please start and sign in to Chrome so that WEB3 DNA Browser can check whether you are allowed to access this site.
       </message>
 
 </grit-part>

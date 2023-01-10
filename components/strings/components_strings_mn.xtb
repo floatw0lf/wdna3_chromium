@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Дэлгэрэнгүй мэдээлэл өгөх</translation>
 <translation id="1019413721762100891">Унтраалттай</translation>
 <translation id="1021110881106174305">Зөвшөөрсөн карт</translation>
-<translation id="1021753677514347426">Та эсвэл өөр хэн нэгэн таны төхөөрөмж дээр суулгасан сертификатын улмаас ийм асуудал гардаг. Сертификатыг сүлжээнд хяналт хийх болон дундаас нь өгөгдөл цуглуулахад ашигладаг гэж мэдэгдсэн бөгөөд Chromium түүнд итгэхгүй байна. Сургууль эсвэл компанийн сүлжээнд хяналт хийх зэрэг хууль ёсны зарим тохиолдол байдаг бөгөөд Chromium нь та хяналтыг зогсоож чадахгүй байсан ч хяналт хийгдэж байгаа тухай таныг мэдэж байгаа эсэхийг шалгах хүсэлтэй байна. Вэбэд ханддаг аливаа хөтөч эсвэл аппликэйшн дээр хяналт хийж болзошгүй.</translation>
+<translation id="6843750610117699926">Та эсвэл өөр хэн нэгэн таны төхөөрөмж дээр суулгасан сертификатын улмаас ийм асуудал гардаг. Сертификатыг сүлжээнд хяналт хийх болон дундаас нь өгөгдөл цуглуулахад ашигладаг гэж мэдэгдсэн бөгөөд WEB3 DNA Browser түүнд итгэхгүй байна. Сургууль эсвэл компанийн сүлжээнд хяналт хийх зэрэг хууль ёсны зарим тохиолдол байдаг бөгөөд WEB3 DNA Browser нь та хяналтыг зогсоож чадахгүй байсан ч хяналт хийгдэж байгаа тухай таныг мэдэж байгаа эсэхийг шалгах хүсэлтэй байна. Вэбэд ханддаг аливаа хөтөч эсвэл аппликэйшн дээр хяналт хийж болзошгүй.</translation>
 <translation id="1024111578869940408">Халдагч этгээдүүд заримдаа харахад хэцүү өөрчлөлтийг веб хаягт оруулах замаар сайтуудыг дуурайдаг.</translation>
 <translation id="1028781062521375153">Дэлгэрэнгүйг харах</translation>
 <translation id="1030706264415084469"><ph name="URL" /> таны төхөөрөмжид том хэмжээний өгөгдлийг бүрмөсөн хадгалах хүсэлтэй байна</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp; Нэмэх үйлдлийг буцаах</translation>
 <translation id="1056663316309890343">Зургийн программ хангамж</translation>
 <translation id="1056898198331236512">Анхааруулга</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-д Dino Run тоглоомыг тоглохын тулд tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-д Dino Run тоглоомыг тоглохын тулд tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="1058479211578257048">Картыг хадгалж байна...</translation>
 <translation id="1060320201901229167">Каку дугтуй 5</translation>
 <translation id="10614374240317010">Огт хадгалагдаагүй байна</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Картанд нэр нэмэх</translation>
 <translation id="1089439967362294234">Нууц үг солих</translation>
 <translation id="1096545575934602868">Энэ талбар нь <ph name="MAX_ITEMS_LIMIT" />-с илүү оролттой байж болохгүй. Цаашдын бүх оролтыг устгах болно.</translation>
-<translation id="1100782917270858593">Аяллаа үргэлжлүүлэх товчлуур, аяллаа үргэлжлүүлэх болон Chrome-н түүхдээ хамааралтай үйл ажиллагааг харахын тулд Enter дээр дарна уу</translation>
+<translation id="3985486898664025513">Аяллаа үргэлжлүүлэх товчлуур, аяллаа үргэлжлүүлэх болон WEB3 DNA Browser-н түүхдээ хамааралтай үйл ажиллагааг харахын тулд Enter дээр дарна уу</translation>
 <translation id="1101672080107056897">Алдаа гарахад хийх үйлдэл</translation>
 <translation id="1103523840287552314"><ph name="LANGUAGE" />-ийг үргэлж орчуулах</translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Та нууц үгээ танай байгууллагын удирддаггүй сайтад оруулсан байна. Бүртгэлээ хамгаалахын тулд бусад апп болон сайтад нууц үгээ дахин бүү ашиглана уу.</translation>
 <translation id="1257553931232494454">томруулалтын түвшин</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-н тохиргоогоо удирдахын тулд эхлээд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-н тохиргоогоо удирдахын тулд эхлээд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="1263231323834454256">Унших жагсаалт</translation>
 <translation id="1264309058268477500">Өөр</translation>
 <translation id="1264974993859112054">Спорт</translation>
@@ -131,7 +131,7 @@
 <translation id="1285320974508926690">Энэ сайтыг хэзээ ч бүү хөрвүүл</translation>
 <translation id="1288548991597756084">Картыг аюулгүй хадгалах</translation>
 <translation id="1292571435393770077">Тавиур 16</translation>
-<translation id="1292701964462482250">"Таны компьютер дээрх программ хангамж Chrome-г вебэд аюулгүй холбогдохыг зогсоож байна" (зөвхөн Windows компьютерт боломжтой)</translation>
+<translation id="3610512443326918645">"Таны компьютер дээрх программ хангамж WEB3 DNA Browser-г вебэд аюулгүй холбогдохыг зогсоож байна" (зөвхөн Windows компьютерт боломжтой)</translation>
 <translation id="1293797321964802402">Дугтуй 9 x 11 инч</translation>
 <translation id="1294154142200295408">Тушаалын мөрийн хувилбар</translation>
 <translation id="129553762522093515">Саяхан хаагдсан</translation>
@@ -150,7 +150,7 @@
 <translation id="1323433172918577554">Дэлгэрэнгүй харуулах</translation>
 <translation id="132390688737681464">Хаягийг хадгалах болон бөглөх</translation>
 <translation id="1330449323196174374">Дээд хэсгийг дотогш нь нугалж эвхэх зүүн хаалган нугалаа</translation>
-<translation id="1333745675627230582">Chrome Dino тоглоомыг тоглох</translation>
+<translation id="6227572462599550594">WEB3 DNA Browser Dino тоглоомыг тоглох</translation>
 <translation id="1333989956347591814">Таны үйл ажиллагаа дараахад <ph name="BEGIN_EMPHASIS" />харагдсан хэвээр байна<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Таны зочилсон веб хуудас
@@ -223,7 +223,7 @@
 <translation id="1483493594462132177">Илгээх</translation>
 <translation id="1484290072879560759">Тээвэрлэлтийн хаяг сонгох</translation>
 <translation id="1492194039220927094">Удирдамжийн хэрэгжүүлэлт:</translation>
-<translation id="149293076951187737">Таныг Chrome-н бүх нууцлалтай табыг хаах үед таны тэдгээр таб дахь үйл ажиллагааг энэ төхөөрөмжөөс арилгана:
+<translation id="3175654283800723944">Таныг WEB3 DNA Browser-н бүх нууцлалтай табыг хаах үед таны тэдгээр таб дахь үйл ажиллагааг энэ төхөөрөмжөөс арилгана:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Хөтчийн үйл ажиллагаа<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Хайлтын түүх<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@
 <translation id="154408704832528245">Хүргэлтийн хаяг сонгох</translation>
 <translation id="1549470594296187301">JavaScript энэ онцлогийг ашиглахын тулд идэвхжсэн байх ёстой.</translation>
 <translation id="1551884710160394169">Төлбөргүй, дундын программ</translation>
-<translation id="1553358976309200471">Chrome-г шинэчлэх</translation>
+<translation id="1553358976309200471">WEB3 DNA Browser-г шинэчлэх</translation>
 <translation id="1555130319947370107">Цэнхэр</translation>
 <translation id="1559447966090556585">Мэдэгдэл авах уу?</translation>
 <translation id="1559528461873125649">Ийм ямар ч файл болон хадгалалтын сан алга байна</translation>
@@ -263,7 +263,7 @@
 <translation id="156703335097561114">Хаяг, харагдах байдлын тохиргоо, холболтын чанар зэрэг сүлжээний мэдээлэл</translation>
 <translation id="1567040042588613346">Энэ бодлого нь хэвийн ажиллаж байгаа хэдий ч ижил утгыг өөр газар тохируулсан бөгөөд энэ бодлогоор хүчингүй болгосон байна.</translation>
 <translation id="1569487616857761740">Дуусах огноог оруулна уу</translation>
-<translation id="1569694109004336106">Google Chrome нууц үгийг бөглөхөд Windows Hello-г асаахаар оролдож байна.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser нууц үгийг бөглөхөд Windows Hello-г асаахаар оролдож байна.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> инч</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Энэхүү веб хуудсыг харуулахад ямар нэгэн алдаа гарлаа.</translation>
@@ -273,7 +273,7 @@
 <translation id="1594030484168838125">Сонгох</translation>
 <translation id="1596296697375291157">Онц сонирхолтой, гэмт хэргийн болон нууцлаг кино</translation>
 <translation id="1599199147673445968">Шинэ карт уу? <ph name="BEGIN_LINK" />Картын дэлгэрэнгүйг оруулна уу<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Chrome-д Dino Run тоглоомыг тоглох</translation>
+<translation id="160851722280695521">WEB3 DNA Browser-д Dino Run тоглоомыг тоглох</translation>
 <translation id="161042844686301425">Шар хөх өнгө</translation>
 <translation id="1611101756749861742">Хоёр дахь хуйлмал</translation>
 <translation id="1615402009686901181">Администраторын бодлого нь нууцлалтай контентыг харагдаж байх үед дэлгэцийн зураг авахыг идэвхгүй болгодог</translation>
@@ -293,13 +293,13 @@
 <translation id="1642410292376109062">Google-н нууц үгийг өөрчлөх товчлуур, Google Бүртгэлийнхээ нууц үгийг өөрчлөхийн тулд Enter дээр дарна уу</translation>
 <translation id="1644574205037202324">Түүх</translation>
 <translation id="1645368109819982629">Дэмжигдээгүй протокол</translation>
-<translation id="1650602712345345441">Chrome-н тохиргоогоо удирдана уу</translation>
+<translation id="1650602712345345441">WEB3 DNA Browser-н тохиргоогоо удирдана уу</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome нь энэ хуудсыг уншихад илүү амар болгож хялбаршуулсан. Chrome нь аюулгүй холболтоор эх хуудсыг сэргээсэн.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser нь энэ хуудсыг уншихад илүү амар болгож хялбаршуулсан. WEB3 DNA Browser нь аюулгүй холболтоор эх хуудсыг сэргээсэн.</translation>
 <translation id="1656489000284462475">Авах</translation>
 <translation id="1658918301167915956">bluetooth төхөөрөмжүүд</translation>
 <translation id="1662550410081243962">Төлбөрийн хэрэгслүүдийг хадгалах болон бөглөх</translation>
-<translation id="1663943134801823270">Карт, хаягийг Chrome-с харж болно. Та тэдгээрийг <ph name="BEGIN_LINK" />Тохиргоо<ph name="END_LINK" /> хэсэгт хянах боломжтой.</translation>
+<translation id="716145566107023410">Карт, хаягийг WEB3 DNA Browser-с харж болно. Та тэдгээрийг <ph name="BEGIN_LINK" />Тохиргоо<ph name="END_LINK" /> хэсэгт хянах боломжтой.</translation>
 <translation id="1671391448414634642">Одооноос <ph name="SOURCE_LANGUAGE" /> хэл дээрх хуудсыг <ph name="TARGET_LANGUAGE" /> хэл рүү орчуулна.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> -с <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Эхлээд богино зах</translation>
@@ -347,7 +347,7 @@
 <translation id="1757773103848038814">Monospace фонт</translation>
 <translation id="1763864636252898013">Энэ сервер нь <ph name="DOMAIN" />-аа баталж чадсангүй; учир нь энэхүү сертификатыг таны төхөөрөмжийн үйлдлийн систем дэмждэггүй. Энэ нь тохиргоо буруу хийгдсэнээс эсвэл халдагч таны холболтонд саад учруулж байгаагаас шалтгаалж болох юм.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Windows сүлжээний оношилгоог ажиллуулж үзнэ үү<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Chromium дахь Нууцлалтай горимын талаар нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />WEB3 DNA Browser дахь Нууцлалтай горимын талаар нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Таны нээлттэй таб энд харагдана</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -398,11 +398,11 @@
 <translation id="1919526244108283799">400 x 600 мм</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Байхгүй}=1{1 сайт}other{# сайт}}</translation>
 <translation id="1924727005275031552">Шинэ</translation>
-<translation id="1927439593081478069">Chrome-н аюулгүй байдлын шалгалтыг ажиллуулах товчлуур, Chrome-н тохиргоонд аюулгүй байдлын шалгалтыг ажиллуулахын тулд Enter дээр дарна уу</translation>
+<translation id="1927439593081478069">WEB3 DNA Browser-н аюулгүй байдлын шалгалтыг ажиллуулах товчлуур, WEB3 DNA Browser-н тохиргоонд аюулгүй байдлын шалгалтыг ажиллуулахын тулд Enter дээр дарна уу</translation>
 <translation id="1935995810530254458">Ямартай ч хуулах</translation>
 <translation id="1939175642807587452">Мэдэгдэл илгээхийг хүсэх боломжтой</translation>
 <translation id="1943994668912612445">Дизайн</translation>
-<translation id="1945968466830820669">Та байгууллагынхаа бүртгэлд хандах эрх эсвэл нууц үгээ бусдад алдаж болзошгүй. Chromium-с таныг нууц үгээ өөрчлөхийг зөвлөж байна.</translation>
+<translation id="5087943717045213809">Та байгууллагынхаа бүртгэлд хандах эрх эсвэл нууц үгээ бусдад алдаж болзошгүй. WEB3 DNA Browser-с таныг нууц үгээ өөрчлөхийг зөвлөж байна.</translation>
 <translation id="1946849748901605102">12 x 15 инч</translation>
 <translation id="1947454675006758438">Баруун дээд буланд үдэх</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -425,8 +425,8 @@
 <translation id="2001146170449793414">{COUNT,plural, =1{болон 1 бусад}other{болон # бусад}}</translation>
 <translation id="2003709556000175978">Нууц үгээ одоо шинэчлэх</translation>
 <translation id="2003775180883135320">Дээд буланд дөрвөн нүх цоолох</translation>
-<translation id="201174227998721785">Chrome-н тохиргоонд сайтууд дээр хадгалсан зөвшөөрөл болон өгөгдлийг удирдана уу</translation>
-<translation id="2019607688127825327">Хандалтын тохиргоог удирдах товчлуур, Chrome-н тохиргоонд хандалтын хэрэгслээ хувийн болгохын тулд Enter дээр дарна уу</translation>
+<translation id="201174227998721785">WEB3 DNA Browser-н тохиргоонд сайтууд дээр хадгалсан зөвшөөрөл болон өгөгдлийг удирдана уу</translation>
+<translation id="2019607688127825327">Хандалтын тохиргоог удирдах товчлуур, WEB3 DNA Browser-н тохиргоонд хандалтын хэрэгслээ хувийн болгохын тулд Enter дээр дарна уу</translation>
 <translation id="202224654587969958">12 x 19 инч</translation>
 <translation id="2025115093177348061">Өргөтгөсөн бодит орчин</translation>
 <translation id="2025186561304664664">Поксиг авто-тохиргоонд тохируулсан.</translation>
@@ -443,7 +443,7 @@
 <translation id="2048261947532620704">Хуудсыг орчуулж байна</translation>
 <translation id="205212645995975601">BBQ, мах шарах</translation>
 <translation id="2053111141626950936"><ph name="LANGUAGE" /> хэл дээрх хуудсыг орчуулахгүй.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Энэ хяналт асаалттай бөгөөд төлөв нь идэвхтэй үед Chrome таны саяхны хөтчийн үйл ажиллагаа аль том хэмжээний бүлэг хүн эсвэл "нэг үеийнхэн"-тэй хамгийн төстэй болохыг тодорхойлно. Сурталчлагчид бүлэгт зориулж зар сонгох боломжтой бөгөөд хөтчийн үйл ажиллагааг таны төхөөрөмж дээр хувийн байлгадаг. Таны бүлгийг өдөр тутам шинэчилдэг.}=1{Энэ хяналт асаалттай бөгөөд төлөв нь идэвхтэй үед Chrome таны саяхны хөтчийн үйл ажиллагаа аль том хэмжээний бүлэг хүн эсвэл "нэг үеийнхэн"-тэй хамгийн төстэй болохыг тодорхойлно. Сурталчлагчид бүлэгт зориулж зар сонгох боломжтой бөгөөд хөтчийн үйл ажиллагааг таны төхөөрөмж дээр хувийн байлгадаг. Таны бүлгийг өдөр тутам шинэчилдэг.}other{Энэ хяналт асаалттай бөгөөд төлөв нь идэвхтэй үед Chrome таны саяхны хөтчийн үйл ажиллагаа аль том хэмжээний бүлэг хүн эсвэл "нэг үеийнхэн"-тэй хамгийн төстэй болохыг тодорхойлно. Сурталчлагчид бүлэгт зориулж зар сонгох боломжтой бөгөөд хөтчийн үйл ажиллагааг таны төхөөрөмж дээр хувийн байлгадаг. Таны бүлгийг {NUM_DAYS} өдөр тутам шинэчилдэг.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Энэ хяналт асаалттай бөгөөд төлөв нь идэвхтэй үед WEB3 DNA Browser таны саяхны хөтчийн үйл ажиллагаа аль том хэмжээний бүлэг хүн эсвэл "нэг үеийнхэн"-тэй хамгийн төстэй болохыг тодорхойлно. Сурталчлагчид бүлэгт зориулж зар сонгох боломжтой бөгөөд хөтчийн үйл ажиллагааг таны төхөөрөмж дээр хувийн байлгадаг. Таны бүлгийг өдөр тутам шинэчилдэг.}=1{Энэ хяналт асаалттай бөгөөд төлөв нь идэвхтэй үед WEB3 DNA Browser таны саяхны хөтчийн үйл ажиллагаа аль том хэмжээний бүлэг хүн эсвэл "нэг үеийнхэн"-тэй хамгийн төстэй болохыг тодорхойлно. Сурталчлагчид бүлэгт зориулж зар сонгох боломжтой бөгөөд хөтчийн үйл ажиллагааг таны төхөөрөмж дээр хувийн байлгадаг. Таны бүлгийг өдөр тутам шинэчилдэг.}other{Энэ хяналт асаалттай бөгөөд төлөв нь идэвхтэй үед WEB3 DNA Browser таны саяхны хөтчийн үйл ажиллагаа аль том хэмжээний бүлэг хүн эсвэл "нэг үеийнхэн"-тэй хамгийн төстэй болохыг тодорхойлно. Сурталчлагчид бүлэгт зориулж зар сонгох боломжтой бөгөөд хөтчийн үйл ажиллагааг таны төхөөрөмж дээр хувийн байлгадаг. Таны бүлгийг {NUM_DAYS} өдөр тутам шинэчилдэг.}}</translation>
 <translation id="2059202684901022309">22 x 34 инч</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 зөвлөмж}other{# зөвлөмж}}</translation>
 <translation id="2066915425250589881">устгуулах хүсэлт тавих</translation>
@@ -455,9 +455,9 @@
 <translation id="20817612488360358">Системийн прокси-гийн тохиргоонуудыг ашиглахаар суулгасан хэдий ч прокси-гийн нарийн тохиргоог зааж өгсөн байна.</translation>
 <translation id="2082238445998314030"><ph name="TOTAL_RESULTS" />-ын <ph name="RESULT_NUMBER" /> илэрц байна</translation>
 <translation id="2085876078937250610">Хадгалах…</translation>
-<translation id="2088086323192747268">Синк хийхийг удирдах товч. Chrome-н тохиргоонд ямар мэдээлэл синк хийхээ удирдахын тулд Enter дээр дарна уу</translation>
+<translation id="2088086323192747268">Синк хийхийг удирдах товч. WEB3 DNA Browser-н тохиргоонд ямар мэдээлэл синк хийхээ удирдахын тулд Enter дээр дарна уу</translation>
 <translation id="2091887806945687916">Дуу</translation>
-<translation id="2093982008204312032">Google Chrome нууц үгийг бөглөхөд Windows Hello-г унтраахаар оролдож байна.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser нууц үгийг бөглөхөд Windows Hello-г унтраахаар оролдож байна.</translation>
 <translation id="2094505752054353250">Домэйн нэр нийцэхгүй байна</translation>
 <translation id="2099652385553570808">Зүүн ирмэг дагуу гурван удаа үдэх</translation>
 <translation id="2101225219012730419">Хувилбар:</translation>
@@ -540,7 +540,7 @@
 <translation id="2292556288342944218">Таны интернэт холболтыг блоклосон байна</translation>
 <translation id="2293443924986248631">Асаасан үед сайтууд нь таныг веб дээр хянадаг күүкиг ашиглах боломжгүй байна. Зарим сайтын онцлогууд ажиллахгүй байж болзошгүй.</translation>
 <translation id="2295290966866883927">Таны зочилсон хуудаснуудын URL-г дүн шинжилгээ хийлгэхээр Google Cloud эсвэл гуравдагч тал руу илгээдэг. Жишээ нь тэдгээрийг аюултай вебсайт илрүүлэхийн тулд скан хийж болно.</translation>
-<translation id="2298855485018661510">Күүки удирдах товч. Chrome-н тохиргоонд күүкиний сонголтоо удирдахын тулд Enter дээр дарна уу</translation>
+<translation id="2298855485018661510">Күүки удирдах товч. WEB3 DNA Browser-н тохиргоонд күүкиний сонголтоо удирдахын тулд Enter дээр дарна уу</translation>
 <translation id="2300306941146563769">Байршуулаагүй</translation>
 <translation id="2316159751672436664">ChromeOS-н тохиргоонд хандалтын хэрэгслээ хувийн болгоно уу</translation>
 <translation id="2316887270356262533">1 MB-с бага зай гаргана. Зарим сайтад зочлох үед удаан ачаалж болзошгүй.</translation>
@@ -568,9 +568,9 @@
 <translation id="236340516568226369">Хэмжээг өөрчлөхийг асаах/унтраах цэс</translation>
 <translation id="2367567093518048410">Түвшин</translation>
 <translation id="2380886658946992094">Хууль ёсны</translation>
-<translation id="2383455408879745299">Chrome-н тохиргоонд хандалтын хэрэгслээ хувийн болгоно уу</translation>
+<translation id="2383455408879745299">WEB3 DNA Browser-н тохиргоонд хандалтын хэрэгслээ хувийн болгоно уу</translation>
 <translation id="2384307209577226199">Байгууллагын өгөгдмөл</translation>
-<translation id="2385809941344967209">Chrome-н тохиргоон дээрээс Chrome-г шинэчлэх</translation>
+<translation id="2385809941344967209">WEB3 DNA Browser-н тохиргоон дээрээс WEB3 DNA Browser-г шинэчлэх</translation>
 <translation id="2386255080630008482">Серверийн гэрчилгээг цуцалсан байна.</translation>
 <translation id="239293030466334554">Хагас задгай машин</translation>
 <translation id="2392959068659972793">Утга нь тодорхойлогдоогүй журмуудыг харуул</translation>
@@ -589,7 +589,7 @@
 <translation id="2463739503403862330">Бөглөх</translation>
 <translation id="2465655957518002998">Хүртгэлтийн арга сонгох</translation>
 <translation id="2465688316154986572">Үдэх</translation>
-<translation id="2465914000209955735">Chrome-д татсан файлуудаа удирдана уу</translation>
+<translation id="2465914000209955735">WEB3 DNA Browser-д татсан файлуудаа удирдана уу</translation>
 <translation id="2466004615675155314">Вэбээс мэдээлэл харуулах</translation>
 <translation id="2467272921457885625">Төв процессорын нэгж/RAM ашиглалтын түүх зэрэг төхөөрөмжийн техник хангамжийн үзүүлэлт болон статистик</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Сүлжээний оношилгоог ажиллуулж байна<ph name="END_LINK" /></translation>
@@ -606,7 +606,7 @@
 <translation id="2505268675989099013">Бүртгэлийг хамгаалах</translation>
 <translation id="2509167091171468975">Хоол, хүнсний жижиглэн борлуулагч</translation>
 <translation id="2512101340618156538">Зөвшөөрөөгүй (өгөгдмөл)</translation>
-<translation id="2512413427717747692">Chrome-г өгөгдмөл хөтчийн товчлуур болгон тохируулах, iOS-н тохиргоонд Chrome-г системийн өгөгдмөл хөтөч болгон тохируулахын тулд Enter дээр дарна уу</translation>
+<translation id="2512413427717747692">WEB3 DNA Browser-г өгөгдмөл хөтчийн товчлуур болгон тохируулах, iOS-н тохиргоонд WEB3 DNA Browser-г системийн өгөгдмөл хөтөч болгон тохируулахын тулд Enter дээр дарна уу</translation>
 <translation id="2515629240566999685">Таны байгаа газрын дохиог шалгаж байна</translation>
 <translation id="2515761554693942801">Та <ph name="PROVIDER_ORIGIN" />-г ашигладаг вебсайтууд дээр Touch ID-р баталгаажуулахаар сонгосон. Энэ үйлчилгээ үзүүлэгч таны төлбөрийн хэрэгслийн талаарх мэдээллийг хадгалсан байж болзошгүй бөгөөд та <ph name="LINK_TEXT" /> боломжтой.</translation>
 <translation id="2521385132275182522">Баруун доод буланд үдэх</translation>
@@ -623,7 +623,7 @@
 <translation id="2542106216580219892">Сөрфинг</translation>
 <translation id="2544546346215446551">Таны администратор таны төхөөрөмжийг дахин эхлүүлсэн</translation>
 <translation id="2544644783021658368">Дан документ</translation>
-<translation id="254524874071906077">Chrome-ийг стандарт веб хөтөч болго</translation>
+<translation id="1319028298140338735">WEB3 DNA Browser-ийг стандарт веб хөтөч болго</translation>
 <translation id="2546283357679194313">Cookies болон сайтын дата</translation>
 <translation id="2547466893236767989">Веб дизайн, хөгжүүлэлт</translation>
 <translation id="254947805923345898">Удирдамжийн утга хүчингүй байна.</translation>
@@ -638,19 +638,19 @@
 <translation id="2570734079541893434">Тохиргоог удирдах</translation>
 <translation id="2573834589046842510">Хэвлэх, нийтлэх</translation>
 <translation id="257674075312929031">Бүлэг</translation>
-<translation id="2576880857912732701">Аюулгүй байдлын тохиргоог удирдах товчлуур, Chrome-н тохиргоонд Аюулгүй үзэх болон бусад тохиргоогоо удирдахын тулд Enter дээр дарна уу</translation>
+<translation id="2576880857912732701">Аюулгүй байдлын тохиргоог удирдах товчлуур, WEB3 DNA Browser-н тохиргоонд Аюулгүй үзэх болон бусад тохиргоогоо удирдахын тулд Enter дээр дарна уу</translation>
 <translation id="2586657967955657006">Түр санах ой</translation>
 <translation id="2587730715158995865"><ph name="ARTICLE_PUBLISHER" />-н энэ болон бусад <ph name="OTHER_ARTICLE_COUNT" /> нийтлэлийг уншина уу.</translation>
 <translation id="2587841377698384444">Хадгалалтын сангийн API ID:</translation>
 <translation id="2594318783181750337">Вебийн шуурхай харагдац:</translation>
 <translation id="2595719060046994702">Энэ төхөөрөмж болон бүртгэлийг компани эсвэл бусад байгууллагаас удирдаагүй байна.</translation>
-<translation id="2596415276201385844">Найдвартай аюулгүй холболт бий болгохын тулд та цагаа зөв тохируулах хэрэгтэй. Учир нь  веб хуудсуудын өөрсдийгөө таниулахад ашигладаг гэрчилгээ нь тодорхой хугацаанд л хүчинтэй байдаг юм. Таны төхөөрөмжийн цаг буруу байгаа тохиолдолд Chromium нь эдгээр гэрчилгээнүүдийг баталгаажуулж чадахгүй.</translation>
+<translation id="7968235694092767490">Найдвартай аюулгүй холболт бий болгохын тулд та цагаа зөв тохируулах хэрэгтэй. Учир нь  веб хуудсуудын өөрсдийгөө таниулахад ашигладаг гэрчилгээ нь тодорхой хугацаанд л хүчинтэй байдаг юм. Таны төхөөрөмжийн цаг буруу байгаа тохиолдолд WEB3 DNA Browser нь эдгээр гэрчилгээнүүдийг баталгаажуулж чадахгүй.</translation>
 <translation id="2597378329261239068">Энэхүү баримт бичиг нь нууц үгээр хамгаалагдсан. Нууц үгээ оруулна уу.</translation>
 <translation id="259821504105826686">Гэрэл зураг, дижитал урлаг</translation>
 <translation id="2601150049980261779">Хайр дурлалын кино</translation>
 <translation id="2604589665489080024">Поп хөгжим</translation>
 <translation id="2610561535971892504">Хуулахын тулд товшино уу</translation>
-<translation id="2617988307566202237">Chrome нь дараах мэдээллийг <ph name="BEGIN_EMPHASIS" />хадгалахгүй<ph name="END_EMPHASIS" />:
+<translation id="6174516088921923215">WEB3 DNA Browser нь дараах мэдээллийг <ph name="BEGIN_EMPHASIS" />хадгалахгүй<ph name="END_EMPHASIS" />:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Таны хөтчийн түүх
             <ph name="LIST_ITEM" />Күүки болон сайтын өгөгдөл
@@ -658,14 +658,14 @@
           <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Таны цаг түрүүлж явж байна.</translation>
 <translation id="262745152991669301">USB төхөөрөмжүүдэд холбогдохыг хүсэх боломжтой</translation>
-<translation id="2629325967560697240">Chrome-н хамгийн дээд түвшний аюулгүй байдлыг авахын тулд <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />сайжруулсан хамгаалалтыг асаана уу<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">WEB3 DNA Browser-н хамгийн дээд түвшний аюулгүй байдлыг авахын тулд <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />сайжруулсан хамгаалалтыг асаана уу<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069"><ph name="HOST_NAME" />-н серверийн IP хаяг олдсонгүй.</translation>
 <translation id="2639739919103226564">Статус:</translation>
 <translation id="2643134278432436513">Үс арчилгаа</translation>
 <translation id="2647852283046201479">Стратегийн тоглоом</translation>
 <translation id="264810637653812429">Тохирох төхөөрөмж олдсонгүй.</translation>
 <translation id="2649204054376361687"><ph name="CITY" /> , <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-н тохиргоон дээр хөтчийн түүх, күүки, завсрын санах ой болон бусад зүйлийг арилгахын тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-н тохиргоон дээр хөтчийн түүх, күүки, завсрын санах ой болон бусад зүйлийг арилгахын тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
 <translation id="2650446666397867134">Файл руу нэвтрэх үйлдэл таслагдсан.</translation>
 <translation id="2653659639078652383">Илгээх</translation>
 <translation id="2657637947725373811">{0,plural, =1{Нууцлалтай файл шилжүүлэх үү?}other{Нууцлалтай файлууд шилжүүлэх үү?}}</translation>
@@ -693,11 +693,11 @@
 <translation id="2705137772291741111">Энэ сайтын хадгалсан (нөөцөлсөн) хуулбарыг унших боломжгүй.</translation>
 <translation id="2709516037105925701">Автоматаар бөглөх</translation>
 <translation id="2713444072780614174">Цагаан</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-н тохиргоон дээр төлбөр болон кредит картынхаа мэдээллийг удирдахын тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-н тохиргоон дээр төлбөр болон кредит картынхаа мэдээллийг удирдахын тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Бүтэн дэлгэцээс гарахын тулд |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| дээр дарна уу</translation>
 <translation id="2721148159707890343">Хүсэлт амжилттай боллоо.</translation>
-<translation id="2723669454293168317">Chrome-н тохиргоонд аюулгүй байдлын шалгалтыг ажиллуулна уу</translation>
+<translation id="2723669454293168317">WEB3 DNA Browser-н тохиргоонд аюулгүй байдлын шалгалтыг ажиллуулна уу</translation>
 <translation id="2726001110728089263">Хажуугийн тавиур</translation>
 <translation id="2728127805433021124">Серверийн гэрчилгээнд сул гарын үсгийн алгоритмаар нэвтэрч байна.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Холболтын оношилгоог ажиллуулж байна<ph name="END_LINK" /></translation>
@@ -737,7 +737,7 @@
 <translation id="287596039013813457">Нөхөрсөг</translation>
 <translation id="28761159517501904">Кино</translation>
 <translation id="2876489322757410363">Гадны аппликэйшнээр төлбөр төлөхийн тулд Нууцлалтай горимоос гарч байна. Үргэлжлүүлэх үү?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome-н тохиргоонд Аюулгүй үзэх болон бусад тохиргоогоо удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser-н тохиргоонд Аюулгүй үзэх болон бусад тохиргоогоо удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="2878197950673342043">Постерын нугалаа</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Картыг хадгалах уу?</translation>
@@ -749,7 +749,7 @@
 <translation id="290376772003165898">Хуудас <ph name="LANGUAGE" /> хэл дээр биш байна уу?</translation>
 <translation id="2909946352844186028">Сүлжээнд өөрчлөлт орсон байна.</translation>
 <translation id="2911973620368911614">Ажилд ашиглах бүртгэлтэй холбоотой хэрэглэгчийн ID</translation>
-<translation id="2914160345369867329"><ph name="SITE" /> ердийн үед таны мэдээллийг хамгаалахын тулд шифрлэлт ашигладаг. Энэ удаад Chrome-г <ph name="SITE" />-тай холбогдохоор оролдох үед вебсайт хэвийн бус бөгөөд буруу мандат үнэмлэхийг буцааж илгээлээ. Энэ нь халдагч <ph name="SITE" /> мэт дүр эсгэхээр оролдох эсвэл Wi-Fi-н нэвтрэх дэлгэц холболтыг тасалдуулсан үед тохиолдож болно. Chrome ямар нэг өгөгдөл солилцохоос өмнө холболтыг зогсоосон тул таны мэдээлэл аюулгүй хэвээр байна.</translation>
+<translation id="6754677106668042373"><ph name="SITE" /> ердийн үед таны мэдээллийг хамгаалахын тулд шифрлэлт ашигладаг. Энэ удаад WEB3 DNA Browser-г <ph name="SITE" />-тай холбогдохоор оролдох үед вебсайт хэвийн бус бөгөөд буруу мандат үнэмлэхийг буцааж илгээлээ. Энэ нь халдагч <ph name="SITE" /> мэт дүр эсгэхээр оролдох эсвэл Wi-Fi-н нэвтрэх дэлгэц холболтыг тасалдуулсан үед тохиолдож болно. WEB3 DNA Browser ямар нэг өгөгдөл солилцохоос өмнө холболтыг зогсоосон тул таны мэдээлэл аюулгүй хэвээр байна.</translation>
 <translation id="2915068235268646559"><ph name="CRASH_TIME" />-н гэмтэл</translation>
 <translation id="2915496182262110498">Будалт</translation>
 <translation id="2916038427272391327">Бусад хөтөлбөрийг хаах</translation>
@@ -766,7 +766,7 @@
 <translation id="2943895734390379394">Байршуулсан цаг:</translation>
 <translation id="2945026002409061480">Онлайн нийгэмлэг</translation>
 <translation id="2948083400971632585">Та тохиргооны хуудаснаас холболтонд зориулсан тохируулга нь хийгдсэн аливаа төлөөллийн тохиргоог идэвхгүй болгох боломжтой.</translation>
-<translation id="2949183777371959169">Машиныг Chrome хөтчийн үүлэн менежментэд бүртгүүлээгүй тул үл хэрэгссэн.</translation>
+<translation id="7786089409521529641">Машиныг WEB3 DNA Browser хөтчийн үүлэн менежментэд бүртгүүлээгүй тул үл хэрэгссэн.</translation>
 <translation id="2951588413176968965">Миний шуудангийн хайрцаг</translation>
 <translation id="2952820037279740115">Бүх нууцлалтай цонхыг хаах</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -780,7 +780,7 @@
 <translation id="2977665033722899841">Одоогоор <ph name="ROW_NAME" />-г сонгосон байна. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Дуурь</translation>
 <translation id="2983666748527428214">Нууцлалтай табыг нээх</translation>
-<translation id="2985306909656435243">Идэвхжүүлсэн тохиолдолд Chromium нь таны энэ төхөөрөмжийн картын хуулбарыг маягт хурдан бөглөхийн тулд хадгалах болно.</translation>
+<translation id="6458065442802745995">Идэвхжүүлсэн тохиолдолд WEB3 DNA Browser нь таны энэ төхөөрөмжийн картын хуулбарыг маягт хурдан бөглөхийн тулд хадгалах болно.</translation>
 <translation id="2985398929374701810">Зөв хаяг оруулна уу</translation>
 <translation id="2986368408720340940">Энэ авах арга боломжгүй тул өөр арга сонгоно уу.</translation>
 <translation id="2987034854559945715">Таарах онцлог олдсонгүй</translation>
@@ -802,7 +802,7 @@
 <translation id="3037177537145227281">Үнийг хянаж байна</translation>
 <translation id="3037605927509011580">Aw, Snap!</translation>
 <translation id="3041612393474885105">Гэрчилгээний мэдээлэл</translation>
-<translation id="305162504811187366">Хугацаа тэмдэглэгч, хост болон клиентийн харилцан үйлдлийн ID зэргийг багтаасан Chrome Remote Desktop-н түүх</translation>
+<translation id="6009592758194948058">Хугацаа тэмдэглэгч, хост болон клиентийн харилцан үйлдлийн ID зэргийг багтаасан WEB3 DNA Browser Remote Desktop-н түүх</translation>
 <translation id="3052964831964880138"><ph name="PRODUCT_NAME" />-н үнэ <ph name="PRICE_DROP" />-р буурсан</translation>
 <translation id="3061707000357573562">Patch үйлчилгээ</translation>
 <translation id="306573536155379004">Тоглоом эхэллээ.</translation>
@@ -850,7 +850,7 @@
 <translation id="3194737229810486521"><ph name="URL" /> таны төхөөрөмжид өгөгдлийг бүрмөсөн хадгалах хүсэлтэй байна</translation>
 <translation id="3195213714973468956"><ph name="SERVER_NAME" /> дээрх <ph name="PRINTER_NAME" /></translation>
 <translation id="3197136577151645743">Таныг энэ төхөөрөмжийг хэзээ идэвхтэй ашиглаж буйг мэдэхийг хүсэх боломжтой</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome-н тохиргоонд ямар мэдээлэл синк хийхээ удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser-н тохиргоонд ямар мэдээлэл синк хийхээ удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="320323717674993345">Төлбөрийг цуцлах</translation>
 <translation id="3203366800380907218">Вебээс</translation>
 <translation id="3207960819495026254">Хавчуурга хадгалагдсан</translation>
@@ -875,7 +875,7 @@
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, Хөтчийнхөө харагдах байдлыг өөрчлөхийн тулд tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="3240791268468473923">Тохирох мандат үнэмлэхгүй аюулгүй төлбөрийн мандат үнэмлэхийн хүснэгтийг нээсэн</translation>
 <translation id="324180406144491771">“<ph name="HOST_NAME" />” холбоосууд блоклосон байна</translation>
-<translation id="3248611290851046188">Энэ сайт бусад сайтын танд зар харуулахын тулд ашиглаж болох сонирхлыг тодорхойлно. Энэ сайт мөн танд илүү хамааралтай зар харуулахын тулд таны сонирхлуудыг Chrome-с авдаг.</translation>
+<translation id="8141792378421105106">Энэ сайт бусад сайтын танд зар харуулахын тулд ашиглаж болох сонирхлыг тодорхойлно. Энэ сайт мөн танд илүү хамааралтай зар харуулахын тулд таны сонирхлуудыг WEB3 DNA Browser-с авдаг.</translation>
 <translation id="3249151924975132674">Оюутны зээл, коллежийн санхүүжилт</translation>
 <translation id="3249845759089040423">Дэгжин</translation>
 <translation id="3250640885957938546">Сурталчилгаа, маркетинг</translation>
@@ -885,7 +885,7 @@
 <translation id="3256863843508922226">Тэтгэвэр, тэтгэмж</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, Google Календарьт шинэ үйл явдал шуурхай үүсгэхийн тулд эхлээд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="3261488570342242926">Виртуал картын талаар мэдэж авах</translation>
-<translation id="3264837738038045344">Chrome-н тохиргоог удирдах товчлуур, Chrome-н тохиргоондоо зочлохын тулд Enter дээр дарна уу</translation>
+<translation id="3264837738038045344">WEB3 DNA Browser-н тохиргоог удирдах товчлуур, WEB3 DNA Browser-н тохиргоондоо зочлохын тулд Enter дээр дарна уу</translation>
 <translation id="3266793032086590337">Утга (зөрчил)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Холбоотой сайтуудыг оруулаад ямар ч сайтыг блоклоогүй}=1{Холбоотой сайтуудыг оруулаад 1 сайтыг блоклосон}other{Холбоотой сайтуудыг оруулаад # сайтыг блоклосон}}</translation>
 <translation id="3268451620468152448">Цонхнуудыг нээх</translation>
@@ -899,7 +899,7 @@
 <translation id="3287510313208355388">Онлайн үедээ татна уу</translation>
 <translation id="3288238092761586174"><ph name="URL" /> таны төлбөрийг баталгаажуулахын тулд нэмэлт алхмыг хийх шаардлагатай байж магадгүй</translation>
 <translation id="3293642807462928945"><ph name="POLICY_NAME" /> удирдамжийн талаар дэлгэрэнгүй үзэх</translation>
-<translation id="3295444047715739395">Chrome-н тохиргоо дээрээс нууц үгсээ харах, удирдах</translation>
+<translation id="3295444047715739395">WEB3 DNA Browser-н тохиргоо дээрээс нууц үгсээ харах, удирдах</translation>
 <translation id="3299098170013242198">Windows Hello-г нууц үг бөглөхөд асаасан байна</translation>
 <translation id="3303176609391916566">30 x 42 инч</translation>
 <translation id="3303855915957856445">Хайлтын илэрц олдсонгүй</translation>
@@ -929,9 +929,9 @@
 <translation id="3366477098757335611">Картыг харах</translation>
 <translation id="3369192424181595722">Цагийн тохиргооны алдаа</translation>
 <translation id="3369459162151165748">Тээврийн хэрэгслийн сэлбэг, дагалдах хэрэгсэл</translation>
-<translation id="3371064404604898522">Chrome-г өгөгдмөл хөтөч болгон тохируулах</translation>
+<translation id="3371064404604898522">WEB3 DNA Browser-г өгөгдмөл хөтөч болгон тохируулах</translation>
 <translation id="337363190475750230">Хадгалагдаагүй</translation>
-<translation id="3375754925484257129">Chrome-н аюулгүй байдлын шалгалтыг ажиллуулах</translation>
+<translation id="3375754925484257129">WEB3 DNA Browser-н аюулгүй байдлын шалгалтыг ажиллуулах</translation>
 <translation id="3377144306166885718">Сервер TLS-н хуучирсан хувилбарыг ашигласан.</translation>
 <translation id="3377188786107721145">Тохиргооны задаргааны алдаа</translation>
 <translation id="3377736046129930310">Картуудыг илүү хурдан баталгаажуулахын тулд дэлгэцийн түгжээг ашиглах</translation>
@@ -955,7 +955,7 @@
 <translation id="3423742043356668186">Системийн заасан</translation>
 <translation id="3427092606871434483">Зөвшөөрөх (өгөгдмөл)</translation>
 <translation id="3427342743765426898">&amp; Засварлах үйлдлийг дахин хийх</translation>
-<translation id="342781501876943858">Хэрэв та нууц үгээ бусад сайтад дахин ашигласан бол Chromium-с үүнийг шинэчлэхийг зөвлөж байна.</translation>
+<translation id="6443314628900752956">Хэрэв та нууц үгээ бусад сайтад дахин ашигласан бол WEB3 DNA Browser-с үүнийг шинэчлэхийг зөвлөж байна.</translation>
 <translation id="3428151540071562330">DnsOverHttpsTemplates серверийн загварын нэг буюу түүнээс олон URI нь буруу байгаа бөгөөд тэднийг ашиглахгүй.</translation>
 <translation id="3431216045099978607">|<ph name="ACCELERATOR" />| дарж бүтэн дэлгэцээс гарах ба татаж авахыг харна уу.</translation>
 <translation id="3431636764301398940">Энэ картыг энэ төхөөрөмжид хадгалах</translation>
@@ -977,7 +977,7 @@
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Одоогоор нээлттэй байгаа бүх нууцлалтай цонхыг хаахын тулд tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="3477679029130949506">Киноны жагсаалтын театрын үзвэрийн цаг</translation>
 <translation id="3479552764303398839">Одоо биш</translation>
-<translation id="3484560055331845446">Та Google Бүртгэлийнхээ хандалтыг алдаж болзошгүй. Chrome таныг нууц үгээ одоо солихыг зөвлөж байна. Танаас нэвтрэхийг асууна.</translation>
+<translation id="2148205384604312372">Та Google Бүртгэлийнхээ хандалтыг алдаж болзошгүй. WEB3 DNA Browser таныг нууц үгээ одоо солихыг зөвлөж байна. Танаас нэвтрэхийг асууна.</translation>
 <translation id="3484861421501147767">Сануулагч: Хадгалсан урамшууллын код боломжтой</translation>
 <translation id="3487845404393360112">Гарах цаасны тавиур 4</translation>
 <translation id="3495081129428749620">Хуудаснаас олох
@@ -985,7 +985,7 @@
 <translation id="350069200438440499">Файлын нэр:</translation>
 <translation id="3507936815618196901">Таны эргэн тойрны 3D газрын зургийг үүсгэж, камерын хөдөлгөөнийг хянах</translation>
 <translation id="3512163584740124171">Ижил удирдамжийн бүлгийн өөр удирдамж илүү өндөр ач холбогдолтой байгаа тохиолдолд энэ удирдамжийг үл хэрэгсэнэ.</translation>
-<translation id="35172538073169599">Хаяг удирдах товч. Chrome-н тохиргоонд хаяг нэмэх болон удирдахын тулд Enter дээр дарна уу</translation>
+<translation id="35172538073169599">Хаяг удирдах товч. WEB3 DNA Browser-н тохиргоонд хаяг нэмэх болон удирдахын тулд Enter дээр дарна уу</translation>
 <translation id="3518941727116570328">Олон объектын удирдлага</translation>
 <translation id="3525130752944427905">10 x 14 инч</translation>
 <translation id="3528171143076753409">Серверийн гэрчилгээнд найдахгүй байна.</translation>
@@ -1012,7 +1012,7 @@
 <translation id="3576616784287504635"><ph name="SITE" />-н оруулсан хуудас хэлэхдээ</translation>
 <translation id="3577473026931028326">Алдаа гарлаа. Дахин оролдоно уу.</translation>
 <translation id="3577902790357386792">Гимнастик</translation>
-<translation id="3581089476000296252">Энэ хуудас бэлэн болмогц Chrome танд мэдэгдэх болно. &lt;a&gt;Цуцлах&lt;/a&gt;</translation>
+<translation id="8000957821693253206">Энэ хуудас бэлэн болмогц WEB3 DNA Browser танд мэдэгдэх болно. &lt;a&gt;Цуцлах&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Нэр нэмэх</translation>
 <translation id="3583757800736429874">&amp; Зөөвөрлөх үйлдлийг дахин хийх</translation>
 <translation id="3584299510153766161">Доод буланд хоёр нүх цоолох</translation>
@@ -1027,7 +1027,7 @@
 <translation id="3611317423880285981">Өрхийн хангамж</translation>
 <translation id="3614103345592970299">Хэмжээ 2</translation>
 <translation id="361438452008624280">Жагсаалтын оролт "<ph name="LANGUAGE_ID" />": Энэ хэлийг танихгүй эсвэл дэмжээгүй байна.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-н тохиргоонд аюулгүй байдлын шалгалтыг ажиллуулахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-н тохиргоонд аюулгүй байдлын шалгалтыг ажиллуулахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="3615877443314183785">Дуусах огноог зөв оруулна уу</translation>
 <translation id="36224234498066874">Хайлтын өгөгдлийг устгах...</translation>
 <translation id="362276910939193118">Түүхийг бүрнээр нь харуул</translation>
@@ -1038,9 +1038,9 @@
 <translation id="3631244953324577188">Биометр</translation>
 <translation id="3632503704576938756">Дэлгэц хуваалцахыг үргэлжлүүлсэн</translation>
 <translation id="3632892046558972264">Дэлгэц хуваалцахыг түр зогсоосон</translation>
-<translation id="3633738897356909127">Chrome-г шинэчлэх товч, Chrome-н тохиргооноосоо Chrome-г шинэчлэхийн тулд Enter дарна уу</translation>
+<translation id="3633738897356909127">WEB3 DNA Browser-г шинэчлэх товч, WEB3 DNA Browser-н тохиргооноосоо WEB3 DNA Browser-г шинэчлэхийн тулд Enter дарна уу</translation>
 <translation id="3634530185120165534">Гарах цаасны тавиур 5</translation>
-<translation id="3634567936866541746">Та дөнгөж сая сэжигтэй сайтад нууц үгээ орууллаа. Бүртгэлүүдээ хамгаалахын тулд Chrome хадгалсан нууц үгнүүдээ шалгахыг зөвлөж байна.</translation>
+<translation id="6586777830476909681">Та дөнгөж сая сэжигтэй сайтад нууц үгээ орууллаа. Бүртгэлүүдээ хамгаалахын тулд WEB3 DNA Browser хадгалсан нууц үгнүүдээ шалгахыг зөвлөж байна.</translation>
 <translation id="3642638418806704195">Аппликэйшн:</translation>
 <translation id="3647286794400715637">URL-н мөрийн оролт бүр 1-ээс 2-ын хооронд URL агуулсан байх ёстой.</translation>
 <translation id="3650584904733503804">Баталгаажуулалтын амжилттай боллоо</translation>
@@ -1083,7 +1083,7 @@
 <translation id="3740319564441798148">Холын зайн автобус болон төмөр зам</translation>
 <translation id="3744111561329211289">Дэвсгэрт синк хийх</translation>
 <translation id="3744286742364977428">Таны татсан файлуудыг дүн шинжилгээ хийлгэхээр Google Cloud эсвэл гуравдагч тал руу илгээдэг. Жишээ нь тэдгээрийг эмзэг өгөгдөл эсвэл хортой программтай эсэхийг скан хийж магадгүй бөгөөд компанийн бодлогод тулгуурлан хадгалж магадгүй.</translation>
-<translation id="3744899669254331632">Сайтаас эргэлзээтэй мэдээлэл илгээсэн учраас та <ph name="SITE" /> руу орж болохгүй. Үүнээс болж Chromium нь  сүлжээний алдааг боловсруулж чадахгүй байна.  Иймэрхүү дайралтууд түр зуурын шинжтэй байдаг учраас энэ хуудас хэсэг хугацааны дараа хэвийн ажиллаж магадгүй.</translation>
+<translation id="3461179235677384837">Сайтаас эргэлзээтэй мэдээлэл илгээсэн учраас та <ph name="SITE" /> руу орж болохгүй. Үүнээс болж WEB3 DNA Browser нь  сүлжээний алдааг боловсруулж чадахгүй байна.  Иймэрхүү дайралтууд түр зуурын шинжтэй байдаг учраас энэ хуудас хэсэг хугацааны дараа хэвийн ажиллаж магадгүй.</translation>
 <translation id="3745099705178523657">Таныг баталгаажуулсны дараа таны Google бүртгэлээс картын дэлгэрэнгүйг энэ сайтад хуваалцах болно.</translation>
 <translation id="3748148204939282805">Танаар аюултай программ суулгуулах эсвэл таны нууц үг, утасны дугаар эсвэл кредит карт зэрэг хувийн мэдээллийг задруулах зорилготой халдагчид <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" />-д байна. <ph name="BEGIN_LEARN_MORE_LINK" />Дэлгэрэнгүй үзэх<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Нисэхийн салбар</translation>
@@ -1202,7 +1202,7 @@
 <translation id="4097288585054919042">Сэрэмжлүүлгийг унтраах</translation>
 <translation id="4098354747657067197">Сэжиг бүхий сайт байна</translation>
 <translation id="4099048595830172239">Администраторын бодлого нь нууцлалтай контент харагдаж байх үед дэлгэцээ <ph name="APPLICATION_TITLE" />-тай хуваалцахыг санал болгодоггүй:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-д фонтын хэмжээ болон үсгийн хэлбэр өөрчлөхийн тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-д фонтын хэмжээ болон үсгийн хэлбэр өөрчлөхийн тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="4101413244023615925">Текст болон график</translation>
 <translation id="410148943680000050">Компьютероор нийтлэх</translation>
 <translation id="4103249731201008433">Төхөөрөмжийн сериал дугаар буруу байна</translation>
@@ -1254,7 +1254,7 @@
 <translation id="4214357935346142455">нэвтрэх дэлгэцийн профайл</translation>
 <translation id="4220128509585149162">Эвдрэл</translation>
 <translation id="422022731706691852">Таны нүүр хуудсыг өөрчлөх эсвэл таны зочилдог сайтад нэмэлт сурталчилгаа гаргах зэрэг хайлтын горимыг алдагдуулж болзошгүй программ танаар суулгуулах зорилготой халдагчид <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" />-д байна. <ph name="BEGIN_LEARN_MORE_LINK" />Дэлгэрэнгүй үзэх<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;Алхам 1: Порталд нэвтрэх&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;Алхам 1: Порталд нэвтрэх&lt;/h4&gt;
     &lt;p&gt;Кафе эсвэл онгоцны буудал зэрэг газрын Wi-Fi сүлжээ нь танаас нэвтрэхийг шаардана. Нэвтрэх хуудсыг харахын тулд &lt;code&gt;http://&lt;/code&gt;-г ашигладаг хуудсанд зочилно уу.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;&lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt; зэрэг &lt;code&gt;http://&lt;/code&gt;-р эхэлсэн дурын вебсайтад зочилно уу .&lt;/li&gt;
@@ -1262,11 +1262,11 @@
     &lt;/ol&gt;
     &lt;h4&gt;Алхам 2: Хуудсыг нууцлалтай цонхонд нээх (зөвхөн компьютер дээр боломжтой)&lt;/h4&gt;
     &lt;p&gt;Зочилсон хуудсаа нууцлалтай цонхонд нээнэ үү.&lt;/p&gt;
-    &lt;p&gt;Хуудас нээгдсэн хэдий ч Chrome-н өргөтгөл буруу ажиллаж байна. Алдааг засахын тулд өргөтгөлийг унтраана уу.&lt;/p&gt;
+    &lt;p&gt;Хуудас нээгдсэн хэдий ч WEB3 DNA Browser-н өргөтгөл буруу ажиллаж байна. Алдааг засахын тулд өргөтгөлийг унтраана уу.&lt;/p&gt;
     &lt;h4&gt;Алхам 3: Үйлдлийн системээ шинэчлэх&lt;/h4&gt;
     &lt;p&gt;Таны төхөөрөмж шинэчлэгдсэн эсэхийг шалгана уу.&lt;/p&gt;
     &lt;h4&gt;Алхам 4: Вирусийн эсрэг программаа түр унтраах&lt;/h4&gt;
-    &lt;p&gt;Хэрэв та "HTTPS хамгаалалттай" эсвэл "HTTPS скан"-тай вирусийн эсрэг программ хангамжтай бол тус алдааг харах болно. Вирусийн эсрэг программ хангамж нь Chrome-г аюулгүй байдлаар хангахаас сэргийлж байна.&lt;/p&gt;
+    &lt;p&gt;Хэрэв та "HTTPS хамгаалалттай" эсвэл "HTTPS скан"-тай вирусийн эсрэг программ хангамжтай бол тус алдааг харах болно. Вирусийн эсрэг программ хангамж нь WEB3 DNA Browser-г аюулгүй байдлаар хангахаас сэргийлж байна.&lt;/p&gt;
     &lt;p&gt;Асуудлыг засахын тулд вирусийн эсрэг программ хангамжаа унтраана уу. Хэрэв программ хангамжийг унтраасны дараа хуудас ажиллаж байвал аюулгүй сайтууд ашиглахдаа тус программ хангамжаа унтраана уу.&lt;/p&gt;
     &lt;p&gt;Дууссаныхаа дараа вирусийн эсрэг программаа буцааж асаана уу.&lt;/p&gt;
     &lt;h4&gt;Алхам 5: Нэмэлт тусламж авах&lt;/h4&gt;
@@ -1302,7 +1302,7 @@
 <translation id="4305666528087210886">Таны файлд хандаж чадсангүй</translation>
 <translation id="4306529830550717874">Хаягийг хадгалах уу?</translation>
 <translation id="4306812610847412719">түр санах ой</translation>
-<translation id="4308567447483056043">Хэрэглэгч харьяалалгүй тул энэ бодлогыг үл хэрэгссэн. Энэ бодлогыг хэрэгжүүлэхийн тулд Chrome хөтөч болон профайлыг ижил байгууллагын Админ консолоор дамжуулан удирдах ёстой.</translation>
+<translation id="3323451588703398074">Хэрэглэгч харьяалалгүй тул энэ бодлогыг үл хэрэгссэн. Энэ бодлогыг хэрэгжүүлэхийн тулд WEB3 DNA Browser хөтөч болон профайлыг ижил байгууллагын Админ консолоор дамжуулан удирдах ёстой.</translation>
 <translation id="4310070645992025887">Аяллаа хайх</translation>
 <translation id="4310496734563057511">Хэрэв та энэ төхөөрөмжийг бусадтай хуваалцдаг бол хадгалсан нууц үгээ ашиглах бүрдээ өөрийгөө мөн болохыг баталгаажуулахын тулд Windows Hello-г асаах боломжтой</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1318,8 +1318,8 @@
 <translation id="4331519897422864041">Гарах цаасыг зэрэгцүүлэх тавцан 5</translation>
 <translation id="4331708818696583467">Аюултай</translation>
 <translation id="4333561522337981382">Таны бүх дэлгэц дээр цонх удирдах</translation>
-<translation id="4340575312453649552">Энэ зар таны төхөөрөмжийн хэт их нөөцийг ашигласан тул Chrome үүнийг хассан.</translation>
-<translation id="4340982228985273705">Энэ компьютерийг байгууллагаас удирддаг гэж илрүүлээгүй тул удирдамж нь зөвхөн Chrome Webstore-т хост хийсэн өргөтгөлийг автоматаар суулгах боломжтой. Chrome Webstore шинэчлэлтийн URL нь "<ph name="CWS_UPDATE_URL" />" юм.</translation>
+<translation id="3964216933844012257">Энэ зар таны төхөөрөмжийн хэт их нөөцийг ашигласан тул WEB3 DNA Browser үүнийг хассан.</translation>
+<translation id="2218799635675752219">Энэ компьютерийг байгууллагаас удирддаг гэж илрүүлээгүй тул удирдамж нь зөвхөн WEB3 DNA Browser Webstore-т хост хийсэн өргөтгөлийг автоматаар суулгах боломжтой. WEB3 DNA Browser Webstore шинэчлэлтийн URL нь "<ph name="CWS_UPDATE_URL" />" юм.</translation>
 <translation id="4346197816712207223">Зөвшөөрсөн кредит карт</translation>
 <translation id="4348834659292907206"><ph name="SITE" />-н холболт аюултай байна</translation>
 <translation id="4349365535725594680">Нууцлалтай контент хуваалцах боломжгүй</translation>
@@ -1330,7 +1330,7 @@
 <translation id="4356973930735388585">Энэ сайтад байгаа халдагч таны мэдээллийг (жишээ нь: зураг, нууц үг, мессеж, кредит карт) хулгайлах, эсвэл устгах боломжтой аюултай программыг компьютерт суулгахаар оролдож болзошгүй.</translation>
 <translation id="4358059973562876591">Таны тодорхойлсон загваруудыг DnsOverHttpsMode удирдамжийн алдааны улмаас хэрэгжүүлэхгүй байж болзошгүй.</translation>
 <translation id="4358461427845829800">Төлбөрийн хэрэгслийг удирдах...</translation>
-<translation id="4359160567981085931">Та дөнгөж сая сэжигтэй сайтад нууц үгээ орууллаа. Chrome туслах боломжтой. Нууц үгээ өөрчилж, таны бүртгэл эрсдэлд oрсон байж болзошгүй тухай Google-д мэдэгдэхийн тулд Бүртгэлийг хамгаалах гэснийг товшино уу.</translation>
+<translation id="4550052488331606118">Та дөнгөж сая сэжигтэй сайтад нууц үгээ орууллаа. WEB3 DNA Browser туслах боломжтой. Нууц үгээ өөрчилж, таны бүртгэл эрсдэлд oрсон байж болзошгүй тухай Google-д мэдэгдэхийн тулд Бүртгэлийг хамгаалах гэснийг товшино уу.</translation>
 <translation id="4363222835916186793">Энэ бүтээгдэхүүний сэрэмжлүүлгийг унтраасан</translation>
 <translation id="437040971055499437">Аюулгүй байдлын үйлдэл тохиолдсон</translation>
 <translation id="4372948949327679948">Хүлээгдэж буй <ph name="VALUE_TYPE" /> утга.</translation>
@@ -1347,7 +1347,7 @@
 <translation id="4411435778612100394">Гэр ахуйн цахилгаан бараа</translation>
 <translation id="4414515549596849729">күүки болон сайтын өгөгдөл</translation>
 <translation id="4415426530740016218">Авах хаяг</translation>
-<translation id="4424024547088906515">Энэ сервер нь <ph name="DOMAIN" />-аа баталж чадсангүй; учир нь энэхүү сертификатыг Chrome хүлээн зөвшөөрдөггүй. Энэ нь тохиргоо буруу хийгдсэнээс эсвэл халдагч таны холболтонд саад учруулж байгаагаас шалтгаалж болох юм.</translation>
+<translation id="7486060888782747880">Энэ сервер нь <ph name="DOMAIN" />-аа баталж чадсангүй; учир нь энэхүү сертификатыг WEB3 DNA Browser хүлээн зөвшөөрдөггүй. Энэ нь тохиргоо буруу хийгдсэнээс эсвэл халдагч таны холболтонд саад учруулж байгаагаас шалтгаалж болох юм.</translation>
 <translation id="4428065317363009941">Сонирхсон зарын тохируулга</translation>
 <translation id="443121186588148776">Цуваа порт</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> таны нэвтрэх сертификатыг зөвшөөрөөгүй, эсвэл та сертификат олгоогүй байна.</translation>
@@ -1371,7 +1371,7 @@
 <translation id="4489023393592172404">Каку дугтуй 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Google Бүртгэлээрээ синк хийсэн нууц үгнүүдийг шифрлэх</translation>
-<translation id="4492519888999857993">Эдгээр онцлогийг өгөгдмөл тохиргоогоор идэвхгүй болгосон. Энэ нь Chrome-н цаашдын хувилбарууд дээр боломжгүй байна.</translation>
+<translation id="5711551727888568041">Эдгээр онцлогийг өгөгдмөл тохиргоогоор идэвхгүй болгосон. Энэ нь WEB3 DNA Browser-н цаашдын хувилбарууд дээр боломжгүй байна.</translation>
 <translation id="4493480324863638523">Энэ URL хүчингүй байна. Энэ нь http://example.com эсвэл https://example.com зэрэг стандарт схемтэй URL байх ёстой.</translation>
 <translation id="4500587658229086076">аюултай контент</translation>
 <translation id="4506176782989081258">Баталгаажуулалтын алдаа: <ph name="VALIDATION_ERROR" /></translation>
@@ -1379,7 +1379,7 @@
 <translation id="450710068430902550">Админтай хуваалцаж байна</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, энэ хуудсыг Google Орчуулагчаар орчуулахын тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
 <translation id="4514308731478712184">Аяллуудыг унтраах</translation>
-<translation id="4515275063822566619">Карт, хаягийг Chrome болон Google Бүртгэлээсээ (<ph name="ACCOUNT_EMAIL" />) харах боломжтой. Та тэдгээрийг <ph name="BEGIN_LINK" />Тохиргоо<ph name="END_LINK" /> хэсэгт хянах боломжтой.</translation>
+<translation id="3850866307128304430">Карт, хаягийг WEB3 DNA Browser болон Google Бүртгэлээсээ (<ph name="ACCOUNT_EMAIL" />) харах боломжтой. Та тэдгээрийг <ph name="BEGIN_LINK" />Тохиргоо<ph name="END_LINK" /> хэсэгт хянах боломжтой.</translation>
 <translation id="4520048001084013693">Энэ файлыг татахыг администраторын бодлогоор блоклосон</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> мм (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Хаан дугтуй</translation>
@@ -1395,10 +1395,10 @@
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Өргөтгөлүүдээ идэвхгүй болгоно уу.</translation>
 <translation id="4566017918361049074">Гадаа</translation>
-<translation id="4567686777917670400">Таны администратор хөтчийн тань тохируулгыг алсаас өөрчилж болно. Энэ төхөөрөмж дээрх үйл ажиллагааг мөн Chromium-с гадуур удирддаг байж болно. <ph name="BEGIN_LINK" />Нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Таны администратор хөтчийн тань тохируулгыг алсаас өөрчилж болно. Энэ төхөөрөмж дээрх үйл ажиллагааг мөн WEB3 DNA Browser-с гадуур удирддаг байж болно. <ph name="BEGIN_LINK" />Нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Хүргэлт</translation>
 <translation id="4582204425268416675">Картыг устгах</translation>
-<translation id="4587425331216688090">Chrome-оос хаяг устгах уу?</translation>
+<translation id="4549859745110415735">WEB3 DNA Browser-оос хаяг устгах уу?</translation>
 <translation id="459089498662672729"><ph name="ORIGIN_NAME" />-с энэ байршилд буулгахыг администраторын бодлогоор санал болгодоггүй</translation>
 <translation id="4592951414987517459">Таны <ph name="DOMAIN" />тай холбоосыг орчин үеийн шифр ашиглан шифрлэсэн байна.</translation>
 <translation id="4594403342090139922">Устгах үйлдлийг буцаах</translation>
@@ -1407,17 +1407,17 @@
 <translation id="4600084978141515058">Веган хоол</translation>
 <translation id="4602465984861132303">Боулинг</translation>
 <translation id="4606870351894164739">Нөлөөтэй</translation>
-<translation id="4607603470419975064">Chrome-н зөвлөгөө харах товчлуур, Chrome-н онцлогуудын талаар мэдэж авахын тулд Enter дээр дарна уу</translation>
-<translation id="4607608436550361748">Chrome-н зөвлөгөөг харах</translation>
+<translation id="4607603470419975064">WEB3 DNA Browser-н зөвлөгөө харах товчлуур, WEB3 DNA Browser-н онцлогуудын талаар мэдэж авахын тулд Enter дээр дарна уу</translation>
+<translation id="4607608436550361748">WEB3 DNA Browser-н зөвлөгөөг харах</translation>
 <translation id="4610279718074907952">Энэ сайт <ph name="SET_OWNER" />-с тодорхойлсон бүлэгт байгаа бөгөөд таны үйл ажиллагааг харах боломжтой</translation>
 <translation id="4617273035598175554">График, анимацийн программ хангамж</translation>
 <translation id="4622292761762557753">Ямартай ч шилжүүлэх</translation>
-<translation id="4627675673814409125">Энэ бодлогыг Chrome-н профайлын түвшинд тохируулах боломжгүй бөгөөд үл хэрэгсэнэ.</translation>
+<translation id="6607050922769407881">Энэ бодлогыг WEB3 DNA Browser-н профайлын түвшинд тохируулах боломжгүй бөгөөд үл хэрэгсэнэ.</translation>
 <translation id="4628948037717959914">Зураг</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Бэлэн мөнгө олгох маягтыг холбосон</translation>
 <translation id="4636930964841734540">Мэдээлэл</translation>
-<translation id="4638670630777875591">Chromium дахь Нууцлалтай горим</translation>
+<translation id="9064160697734393810">WEB3 DNA Browser дахь Нууцлалтай горим</translation>
 <translation id="464342062220857295">Онцлогийг хайх</translation>
 <translation id="4644670975240021822">Нүүрээр нь доош харуулж, хуудасны урвуу дарааллаар</translation>
 <translation id="4646534391647090355">Одоо намайг тийшээ аваач</translation>
@@ -1455,7 +1455,7 @@
 <translation id="4731638775147756694">Энэ аппликэйшнийг таны администратор хориглосон байна</translation>
 <translation id="4733082559415072992"><ph name="URL" /> таны төхөөрөмжийн байршлыг ашиглах хүсэлтэй байна</translation>
 <translation id="4736491186715342415">Моторт тээврийн хэрэгсэл</translation>
-<translation id="4736825316280949806">Chromium-г дахин эхлүүлэх</translation>
+<translation id="1624940062651381269">WEB3 DNA Browser-г дахин эхлүүлэх</translation>
 <translation id="4736934858538408121">Виртуал карт</translation>
 <translation id="473775607612524610">Шинэчлэх</translation>
 <translation id="4738601419177586157"><ph name="TEXT" />-н хайлтын зөвлөмж</translation>
@@ -1469,10 +1469,10 @@
 <translation id="4754461935447132332">Аюултай сайтуудад зөвшөөрдөггүй</translation>
 <translation id="4756388243121344051">&amp; Түүх</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Та дөнгөж сая сэжигтэй сайтад нууц үгээ орууллаа. Бүртгэлүүдээ хамгаалахын тулд Chromium хадгалсан нууц үгнүүдээ шалгахыг зөвлөж байна.</translation>
+
 <translation id="4758311279753947758">Харилцагчийн мэдээлэл нэмэх</translation>
 <translation id="4761104368405085019">Микрофоноо ашигла</translation>
-<translation id="4761869838909035636">Chrome-н Аюулгүй байдлын шалгалтыг ажиллуулах</translation>
+<translation id="2178430137592069173">WEB3 DNA Browser-н Аюулгүй байдлын шалгалтыг ажиллуулах</translation>
 <translation id="4764776831041365478"><ph name="URL" /> холбоос бүхий веб хуудас нь түр хугацаагаар ажиллахгүй эсвэл шинэ веб хаягтай болсон байна.</translation>
 <translation id="4766713847338118463">Доод буланд хоёр удаа үдэх</translation>
 <translation id="4771973620359291008">Үл мэдэгдэх алдаа гарлаа.</translation>
@@ -1503,7 +1503,7 @@
 <translation id="4834250788637067901">Google Pay-г ашиглаж буй төлбөрийн хэрэгсэл, санал болон хаяг</translation>
 <translation id="4838327282952368871">Зүүд шиг</translation>
 <translation id="4839087176073128681">Дараагийн удаа илүү хурдан төлж, Google-н салбартаа тэргүүлэгч хамгаалалтаар картаа хамгаалаарай.</translation>
-<translation id="4840250757394056958">Chrome-н түүхээ үзэх</translation>
+<translation id="4840250757394056958">WEB3 DNA Browser-н түүхээ үзэх</translation>
 <translation id="484462545196658690">Автомат</translation>
 <translation id="484671803914931257"><ph name="MERCHANT_NAME" /> болон бусад худалдаачны хөнгөлөлт аваарай</translation>
 <translation id="484988093836683706">Төхөөрөмжийн түгжээг тайлахыг ашиглах</translation>
@@ -1545,7 +1545,7 @@
 <translation id="4934780484581617878">Цонхны менежмент</translation>
 <translation id="4936134414789135531">Оруулсан <ph name="VALUE_NAME" />-г олж чадсангүй.</translation>
 <translation id="4936675324097895694">Санхүү</translation>
-<translation id="4940163644868678279">Chrome дахь Нууцлалтай горим</translation>
+
 <translation id="4943872375798546930">Илэрц байхгүй байна</translation>
 <translation id="4943933359574417591">Мессеж бичих, шуурхай мессеж</translation>
 <translation id="4950898438188848926">Таб сэлгэх товчлуур, нээлттэй таб <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /> руу сэлгэхийн тулд Enter дээр дарна уу</translation>
@@ -1568,7 +1568,7 @@
 <translation id="4995216769782533993">Картынхаа мэдээллийг энэ сайттай хуваалцахын тулд аюулгүй байдлын кодыг баталгаажуулна уу</translation>
 <translation id="4995474875135717171">Өөрчилсөн:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, сайтын хайлт болон өгөгдмөл хайлтын системээ удирдахын тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
-<translation id="5002932099480077015">Идэвхжсэн тохиолдолд Chrome нь таны энэ төхөөрөмж дэх картын хуулбарыг маягт хурдан бөглөхийн тулд хадгалах болно.</translation>
+
 <translation id="5011561501798487822">Илэрсэн хэл</translation>
 <translation id="5015510746216210676">Машины нэр:</translation>
 <translation id="5017554619425969104">Таны хуулсан текст</translation>
@@ -1577,7 +1577,7 @@
 <translation id="5018802455907704660">16 x 20 инч</translation>
 <translation id="5019198164206649151">Муу нөхцөл байдал үүссэн үед хадгалалт хийх</translation>
 <translation id="5020776957610079374">Дэлхийн хөгжим</translation>
-<translation id="5021557570875267742">Chrome-р үнэ хянах</translation>
+<translation id="4735860266347344416">WEB3 DNA Browser-р үнэ хянах</translation>
 <translation id="5023310440958281426">Админимтраторын журмыг шалгах</translation>
 <translation id="5029568752722684782">Хуулбарыг арилгах</translation>
 <translation id="5030338702439866405">Гаргасан</translation>
@@ -1610,7 +1610,7 @@
 <translation id="5087580092889165836">Карт нэмэх</translation>
 <translation id="5088142053160410913">Операторт илгээх мессеж</translation>
 <translation id="5093232627742069661">Z-нугалаа</translation>
-<translation id="5094747076828555589">Энэ сервер нь <ph name="DOMAIN" />-аа баталж чадсангүй; учир нь энэхүү сертификатыг Chromium хүлээн зөвшөөрдөггүй. Энэ нь тохиргоо буруу хийгдсэнээс эсвэл халдагч таны холболтонд саад учруулж байгаагаас шалтгаалж болох юм.</translation>
+
 <translation id="5097099694988056070">CPU/RAM-н ашиглалт зэрэг төхөөрөмжийн статистик</translation>
 <translation id="5097468150760963273">27 x 39 инч</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1644,7 +1644,7 @@
 <translation id="5161506081086828129">Гарах цаасыг зэрэгцүүлэх тавцан 9</translation>
 <translation id="5164798890604758545">Текстийг оруулдаг</translation>
 <translation id="516920405563544094"><ph name="CREDIT_CARD" />-н карт баталгаажуулалтын кодыг оруулна уу. Таныг баталгаажуулсны дараа таны Google бүртгэлийн картын дэлгэрэнгүйг энэ сайтад хуваалцах болно.</translation>
-<translation id="5169827969064885044">Та байгууллагынхаа бүртгэлд хандах эрх эсвэл нууц үгээ бусдад алдаж болзошгүй. Chrome-с таныг нууц үгээ өөрчлөхийг зөвлөж байна.</translation>
+
 <translation id="5171045022955879922">Хайх эсвэл холбоосыг бичиж оруул</translation>
 <translation id="5172758083709347301">Машин</translation>
 <translation id="5177076414499237632">Энэ хуудасны эх сурвалж болон сэдвийн талаар мэдэж авах</translation>
@@ -1656,7 +1656,7 @@
 <translation id="51918995459521422"><ph name="ORIGIN" /> хэд хэдэн файл татах хүсэлтэй байна</translation>
 <translation id="519422657042045905">Тэмдэглэгээ боломжгүй байна</translation>
 <translation id="5201306358585911203">Энэ хуудсанд оруулсан хуудас хэлэхдээ</translation>
-<translation id="5204468114771111727">Chrome таны дөнгөж сая ашигласан нууц үгийг өгөгдлийн зөрчлөөс оллоо. Таны Google Туслах нууц үгийг тань автоматаар өөрчлөх боломжтой.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser таны дөнгөж сая ашигласан нууц үгийг өгөгдлийн зөрчлөөс оллоо. Таны Google Туслах нууц үгийг тань автоматаар өөрчлөх боломжтой.</translation>
 <translation id="5205222826937269299">Нэр шаардлагатай</translation>
 <translation id="5209518306177824490">SHA-1 Хурууны хээ</translation>
 <translation id="5209670883520018268">Тавиур 20</translation>
@@ -1673,7 +1673,7 @@
 <translation id="5239623327352565343">Байршлыг зөвшөөрсөн</translation>
 <translation id="5242889659037569123">Ачаа тээш, аяллын хэрэгсэл</translation>
 <translation id="5250209940322997802">"Сүлжээнд холбогдох"</translation>
-<translation id="52517543715119994">Chrome-н онцлогуудын талаар мэдэж аваарай</translation>
+<translation id="52517543715119994">WEB3 DNA Browser-н онцлогуудын талаар мэдэж аваарай</translation>
 <translation id="5251803541071282808">Cloud</translation>
 <translation id="5254043433801397071">Хэвлэлийн контентыг оновчлох</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1695,7 +1695,7 @@
 <translation id="5287456746628258573">Энэ сайт нь аюулгүй байдлын хуучирсан тохируулгыг ашиглаж байгаа бөгөөд энэ нь таны мэдээллийг (жишээлбэл, нууц үг эсвэл кредит картын дугаар) уг сайт руу илгээх үед ил болгож болзошгүй.</translation>
 <translation id="5288108484102287882">Удирдамжийн утгыг баталгаажуулсан хэдий ч анхааруулга гарч ирлээ</translation>
 <translation id="5288393065350884210">Нягтлан бодох, аудит</translation>
-<translation id="5288808348893593856">Chrome сайтын холболтыг аюултай байна гэж хэлээгүйгээс бусад тохиолдолд энэ нь аюулгүй байна.</translation>
+<translation id="8429736460204202092">WEB3 DNA Browser сайтын холболтыг аюултай байна гэж хэлээгүйгээс бусад тохиолдолд энэ нь аюулгүй байна.</translation>
 <translation id="5289384342738547352">Олон документын удирдлага</translation>
 <translation id="5293919335876685914">Хоёр хаалгатай машин</translation>
 <translation id="5296589789433599000">Хоол, жор</translation>
@@ -1714,14 +1714,14 @@
 <translation id="5324080437450482387">Холбоо барих мэдээлэл сонгох</translation>
 <translation id="5329858041417644019">Таны хөтчийг удирдаагүй байна</translation>
 <translation id="5332219387342487447">Хүргэлтийн арга</translation>
-<translation id="5333022057423422993">Chrome таны дөнгөж сая ашигласан нууц үгийг өгөгдлийн зөрчлөөс оллоо. Бүртгэлүүдээ хамгаалахын тулд бид таныг хадгалсан нууц үгнүүдээ шалгахыг зөвлөж байна.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser таны дөнгөж сая ашигласан нууц үгийг өгөгдлийн зөрчлөөс оллоо. Бүртгэлүүдээ хамгаалахын тулд бид таныг хадгалсан нууц үгнүүдээ шалгахыг зөвлөж байна.</translation>
 <translation id="5334013548165032829">Системийн дэлгэрэнгүй лог</translation>
 <translation id="5334145288572353250">Хаягийг хадгалах уу?</translation>
 <translation id="5335920952954443287">Цохилох зүрх</translation>
 <translation id="5340250774223869109">Аппликэйшнийг блоклосон</translation>
 <translation id="534295439873310000">NFC төхөөрөмжүүд</translation>
 <translation id="5344579389779391559">Энэ хуудас танд төлбөр ногдуулахаар оролдож болзошгүй</translation>
-<translation id="5347645913823149105">Chrome-д фонт өөрчлөх товчлуур, Chrome-д фонтын хэмжээ болон үсгийн хэлбэрийг өөрчлөхийн тулд Enter дээр дарна уу</translation>
+<translation id="5347645913823149105">WEB3 DNA Browser-д фонт өөрчлөх товчлуур, WEB3 DNA Browser-д фонтын хэмжээ болон үсгийн хэлбэрийг өөрчлөхийн тулд Enter дээр дарна уу</translation>
 <translation id="5355557959165512791"><ph name="SITE" />-н сертификат хүчингүй болсон тул тус сайтад одоогоор зочлох боломжгүй байна. Сүлжээний алдаа, халдлага нь ихэвчлэн түр зуурынх байдаг тул энэ хуудас удахгүй хэвийн ажиллана.</translation>
 <translation id="5356837363448394805">Улаа бутарсан</translation>
 <translation id="5357848622083956825">Визуал урлаг, дизайн</translation>
@@ -1740,7 +1740,7 @@
 <translation id="540630185148148480">Сэрэмжлүүлгийг асаах</translation>
 <translation id="540969355065856584">Энэ сервер нь <ph name="DOMAIN" /> гэдгээ баталж чадсангүй. Учир нь серверийн аюулгүй байдлын гэрчилгээ нь одоогоор хүчин төгөлдөр бус байна. Энэ алдаа нь тохиргоо буруу хийгдсэнээс, эсвэл халдагч таны холболтонд саад учруулж байгаагаас шалтгаалж болзошгүй.</translation>
 <translation id="5412040515238827314">Формат буруу байна: Загварын жагсаалтыг тооцоолсон.</translation>
-<translation id="5412236728747081950">Энэ сайт танд илүү хамааралтай зар харуулахын тулд таны сонирхлуудыг Chrome-с авдаг</translation>
+<translation id="3825896935771081728">Энэ сайт танд илүү хамааралтай зар харуулахын тулд таны сонирхлуудыг WEB3 DNA Browser-с авдаг</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> - <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Гарах цаасыг зэрэгцүүлэх тавцан 4</translation>
 <translation id="5414511064953050917">Ямартай ч зөөх</translation>
@@ -1783,7 +1783,7 @@
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, ChromeOS-н тохиргоонд хандалтын хэрэгслээ хувийн болгохын тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="5528532273234423708">Гэрийн автоматжуулалт</translation>
 <translation id="55293785478302737">Ирмэгийг нь нийлүүлж үдэх</translation>
-<translation id="5535133333442455806">Интернэтээр үзсэн өгөгдөл арилгах товч, Chrome-н тохиргоонд хөтчийн түүх, күүки, завсрын санах ой болон бусад зүйлийг арилгахын тулд Enter дарна уу</translation>
+<translation id="5535133333442455806">Интернэтээр үзсэн өгөгдөл арилгах товч, WEB3 DNA Browser-н тохиргоонд хөтчийн түүх, күүки, завсрын санах ой болон бусад зүйлийг арилгахын тулд Enter дарна уу</translation>
 <translation id="5536214594743852365">"<ph name="SECTION" />" хэсгийг харуулах</translation>
 <translation id="553782666181800029">Чоу дугтуй 2</translation>
 <translation id="5539243836947087108">Тавцан</translation>
@@ -1793,7 +1793,7 @@
 <translation id="5541546772353173584">Имэйл нэмэх</translation>
 <translation id="5545756402275714221">Танд зориулсан нийтлэл</translation>
 <translation id="5551890439174915351">100 x 200 мм</translation>
-<translation id="5552137475244467770">Chrome нь таны нууц үгийг онлайнаар нийтэлсэн жагсаалтуудтай үе үе харьцуулж шалгадаг. Үүнийг хийх үед таны нууц үг болон хэрэглэгчийн нэр кодчилогдсон байх бөгөөд ингэснээр Google-г оролцуулаад хэн ч тэдгээрийг унших боломжгүй болно.</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser нь таны нууц үгийг онлайнаар нийтэлсэн жагсаалтуудтай үе үе харьцуулж шалгадаг. Үүнийг хийх үед таны нууц үг болон хэрэглэгчийн нэр кодчилогдсон байх бөгөөд ингэснээр Google-г оролцуулаад хэн ч тэдгээрийг унших боломжгүй болно.</translation>
 <translation id="5556459405103347317">Дахин ачаал</translation>
 <translation id="5560088892362098740">Дуусах огноо</translation>
 <translation id="55635442646131152">Баримт бичгийн тойм</translation>
@@ -1856,7 +1856,7 @@
 <translation id="5720705177508910913">Одоогийн хэрэглэгч</translation>
 <translation id="5723287205918986743">Батлан хамгаалах салбар</translation>
 <translation id="5725567311035061582">Күүки болон сайтын өгөгдлийг удирдах</translation>
-<translation id="5730040223043577876">Хэрэв та нууц үгээ бусад сайтад дахин ашигласан бол Chrome-с үүнийг шинэчлэхийг зөвлөж байна.</translation>
+
 <translation id="5736165827969430182">Металл, уул уурхай</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Google Бүртгэлдээ карт хадгалах}other{Google Бүртгэлдээ карт хадгалах}}</translation>
 <translation id="5738385766833540397">Та хянаж буй бүтээгдэхүүнүүдийнхээ үнэ хямдарсан талаарх сэрэмжлүүлгийг хэрхэн хүлээн авахаа удирдана уу</translation>
@@ -1881,14 +1881,14 @@
 <translation id="5784606427469807560">Таны картыг баталгаажуулах үед асуудал гарлаа. Интернэт холболтоо шалгаад, дахин оролдоно уу.</translation>
 <translation id="5785756445106461925">Цаашилбал, энэ хуудас нь аюултай бусад үүсвэрүүдийг агуулж байна. Ийм төрлийн үүсвэрүүдийг дамжуулж байх явцад бусад хүмүүс харах, мөн халдагч нар хуусанд нөлөөлөхүйц байдлаар өөрчилж болдог.</translation>
 <translation id="5786044859038896871">Картын мэдээллээ бөглөх үү?</translation>
-<translation id="578633867165174378">Chrome таны дөнгөж сая ашигласан нууц үгийг өгөгдлийн зөрчлөөс оллоо. Бид энэ нууц үгийг одоо өөрчлөхийг зөвлөж байна.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser таны дөнгөж сая ашигласан нууц үгийг өгөгдлийн зөрчлөөс оллоо. Бид энэ нууц үгийг одоо өөрчлөхийг зөвлөж байна.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Та <ph name="CARD_DETAIL" />-г бөглөх үү?</translation>
 <translation id="5804241973901381774">Зөвшөөрлүүд</translation>
-<translation id="5808435672482059465">Chrome-н түүхээ үзэх</translation>
+<translation id="7552154626705223867">WEB3 DNA Browser-н түүхээ үзэх</translation>
 <translation id="5808542072418270309">Загварчилсан тоглоом</translation>
 <translation id="5810442152076338065">Таны <ph name="DOMAIN" />-тай холбогдох холболтыг хоцрогдсон шифр ашиглан шифрлэсэн байна.</translation>
-<translation id="5812947184178430888">Аюулгүй байдлын үйлдлүүдийг Chrome-с дарцагласан үед үйлдлүүдийн талаарх хамааралтай өгөгдлийг танай администратор луу илгээдэг. Үүнд таны Chrome-д зочилсон хуудаснуудын URL, файлын нэр эсвэл мета өгөгдөл, таны вебд суурилсан аппликэйшн, төхөөрөмж болон Chrome-д нэвтрэхдээ ашигладаг хэрэглэгчийн нэр багтах боломжтой.</translation>
+<translation id="8479644990349381409">Аюулгүй байдлын үйлдлүүдийг WEB3 DNA Browser-с дарцагласан үед үйлдлүүдийн талаарх хамааралтай өгөгдлийг танай администратор луу илгээдэг. Үүнд таны WEB3 DNA Browser-д зочилсон хуудаснуудын URL, файлын нэр эсвэл мета өгөгдөл, таны вебд суурилсан аппликэйшн, төхөөрөмж болон WEB3 DNA Browser-д нэвтрэхдээ ашигладаг хэрэглэгчийн нэр багтах боломжтой.</translation>
 <translation id="5813119285467412249">&amp; Нэмэх үйлдлийг дахин хийх</translation>
 <translation id="5813309815819933152">ТВ-ийн реалити шоу</translation>
 <translation id="5813753398265398978">Физик</translation>
@@ -2004,10 +2004,10 @@
 <translation id="6116338172782435947">Түр санах ойд хуулсан текст, зургийг харах</translation>
 <translation id="6118782133429281336">Эхийн жагсаалт хоосон байна.</translation>
 <translation id="6120179357481664955">UPI ID-гаа санаж байна уу?</translation>
-<translation id="6124432979022149706">Chrome байгууллагын холбогч</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser байгууллагын холбогч</translation>
 <translation id="6126565365696310362">Хятад дугтуй #2</translation>
 <translation id="6127379762771434464">Хамгийн их зочилсон вэбсайтуудыг устгасан</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Chrome дахь Нууцлалтай горимын талаар нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Файлын өргөтгөл хоосон эсвэл алдаатай байна.</translation>
 <translation id="6139975341602920272">17 x 22 инч</translation>
 <translation id="6146055958333702838">Ашиглаж байгаа кабелаа шалгасны дараагаар рутер, модем эсвэл бусад сүлжээний төхөөрөмжөө дахин ачааллана уу.</translation>
@@ -2032,10 +2032,10 @@
 <translation id="6197648101609735209">89 x 89 мм</translation>
 <translation id="6203231073485539293">Та интернэтийн холболтоо шалгана уу</translation>
 <translation id="6212314149070368045">АНУ-ын Фанфолд</translation>
-<translation id="6218753634732582820">Хаягийг Chromium-с устгах уу?</translation>
+
 <translation id="622039917539443112">Зэрэгцээ нугалаа</translation>
 <translation id="6221345481584921695"><ph name="SITE" />-д <ph name="BEGIN_LINK" />вирус<ph name="END_LINK" /> байгааг Google-ийн Аюулгүй Хайлт олж ирлрүүллээ. Ихэвчлэн аюулгүй байдаг веб сайтууд заримдаа вирусд өртөх тохиолдол байдаг бөгөөд энэхүү зар сурталчилгааны агуулга бүхий мэдээлэлүүд нь вирус тараагчаар танигдсан <ph name="SUBRESOURCE_HOST" />-аас ирдэг.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-н тохиргоонд хандалтын хэрэгслээ хувийн болгохын тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-н тохиргоонд хандалтын хэрэгслээ хувийн болгохын тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="6229649258872345286">Гэр бүлийн аялал</translation>
 <translation id="6232271601416750929">Байгалийн гоо сайхны бүтээгдэхүүн</translation>
 <translation id="6233160458685643793">Ярзайтал инээсэн</translation>
@@ -2044,7 +2044,7 @@
 <translation id="6240447795304464094">Google Pay-н лого</translation>
 <translation id="6241121617266208201">Зөвлөмжийг нуух</translation>
 <translation id="624499991300733384">Хэвлэлийг нэгтгэгч үйлчилгээ</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-д татсан файлуудаа удирдахын тулд эхлээд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-д татсан файлуудаа удирдахын тулд эхлээд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="6254436959401408446">Энэ хуудсыг нээхэд санах ойн багтаамж хүрэлцэхгүй байна</translation>
 <translation id="6259156558325130047">&amp; Дахин эрэмбэлэх үйлдлийг дахин хийх</translation>
 <translation id="6263376278284652872"><ph name="DOMAIN" /> хавчуургууд</translation>
@@ -2052,21 +2052,21 @@
 <translation id="6264485186158353794">Аюулгүй байдалд буцах</translation>
 <translation id="6265794661083428563"><ph name="POLICY_NAME" /> удирдамжийн утгыг хуулах</translation>
 <translation id="6266934640124581640">Цайвар номин ногоон</translation>
-<translation id="6272088941196661550">Chrome-н түүхдээ хамааралтай үйл ажиллагааг харахын тулд аяллаа үргэлжлүүлнэ үү</translation>
+<translation id="1989642600714730446">WEB3 DNA Browser-н түүхдээ хамааралтай үйл ажиллагааг харахын тулд аяллаа үргэлжлүүлнэ үү</translation>
 <translation id="6272383483618007430">Google Шинэчлэл</translation>
 <translation id="6276112860590028508">Таны унших жагсаалтын хуудас энд харагдана</translation>
 <translation id="627746635834430766">Дараагийн удаа төлбөрөө хурдан төлөхийн тулд Google Бүртгэлдээ карт болон тооцооны хаягаа хадгална уу.</translation>
 <translation id="6279183038361895380">Курсороо харуулахын тулд |<ph name="ACCELERATOR" />|-г дарна уу</translation>
 <translation id="6280223929691119688">Энэ хаяг руу хүргэх боломжгүй тул өөр хаяг сонгоно уу.</translation>
 <translation id="6284292079994426700">26 x 38 инч</translation>
-<translation id="6285507000506177184">Chrome-д таталтуудыг удирдах товчлуур, Chrome-д татсан файлуудаа удирдахын тулд Enter дээр дарна уу</translation>
+<translation id="6285507000506177184">WEB3 DNA Browser-д таталтуудыг удирдах товчлуур, WEB3 DNA Browser-д татсан файлуудаа удирдахын тулд Enter дээр дарна уу</translation>
 <translation id="6289939620939689042">Хуудасны өнгө</translation>
 <translation id="6290238015253830360">Таны санал болгосон нийтлэл энд харагдана</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Таны төхөөрөмжийг одоо эхлүүлнэ}=1{Таны төхөөрөмжийг 1 секундийн дараа эхлүүлнэ}other{Таны төхөөрөмжийг # секундийн дараа эхлүүлнэ}}</translation>
 <translation id="6301104306974789820">Үнэ хянах мэдэгдэл авах</translation>
-<translation id="6302269476990306341">Chrome-н Google Туслахыг зогсоож байна</translation>
+<translation id="6804344251855709483">WEB3 DNA Browser-н Google Туслахыг зогсоож байна</translation>
 <translation id="6305205051461490394"><ph name="URL" />-г ашиглах боломжгүй байна.</translation>
 <translation id="6311165245110979290">Виртуал карт ашиглах боломжтой</translation>
 <translation id="6312113039770857350">Веб хуудас боломжгүй байна</translation>
@@ -2075,7 +2075,7 @@
 <translation id="6319249456820053699">Камер, видео камер</translation>
 <translation id="6321917430147971392">DNS тохиргоогоо шалгана уу</translation>
 <translation id="6322182122604171028">Windows Hello-г ашиглаж чадсангүй</translation>
-<translation id="6326947323444967009">iOS-н тохиргоонд Chrome-г системийн өгөгдмөл хөтөч болгон тохируулна уу</translation>
+<translation id="6326947323444967009">iOS-н тохиргоонд WEB3 DNA Browser-г системийн өгөгдмөл хөтөч болгон тохируулна уу</translation>
 <translation id="6328639280570009161">Сүлжээний таамаглалыг идэвхгүй болгох гээд үзээрэй</translation>
 <translation id="6328784461820205019">"Таны холболт хувийн биш" эсвэл "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" эсвэл "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" эсвэл "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" эсвэл "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" эсвэл "SSL гэрчилгээний алдаа"</translation>
 <translation id="6328786501058569169">Энэ сайт хуурамч байна</translation>
@@ -2086,7 +2086,7 @@
 <translation id="6348220984832452017">Идэвхтэй хувилбарууд</translation>
 <translation id="6349101878882523185"><ph name="APP_NAME" />-г суулгах</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Байхгүй}=1{(<ph name="DOMAIN_LIST" />-н) 1 нууц үг (синк хийсэн)}=2{(<ph name="DOMAIN_LIST" />-н) 2 нууц үг (синк хийсэн)}other{(<ph name="DOMAIN_LIST" />-н) # нууц үг (синк хийсэн)}}</translation>
-<translation id="6355392890578844978">Энэ хөтчийг компани эсвэл бусад байгууллагаас удирддаггүй. Энэ төхөөрөмж дээрх үйл ажиллагааг Chromium-с гадуур удирддаг байж болно. <ph name="BEGIN_LINK" />Нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Энэ хөтчийг компани эсвэл бусад байгууллагаас удирддаггүй. Энэ төхөөрөмж дээрх үйл ажиллагааг WEB3 DNA Browser-с гадуур удирддаг байж болно. <ph name="BEGIN_LINK" />Нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Эдгээр нь юу гэсэн үг вэ?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Прокси, галт хана болон Аюулгүй DNS тохируулгыг шалгах<ph name="END_LINK" /></translation>
@@ -2111,7 +2111,7 @@
 <translation id="6405181733356710802"><ph name="APP_NAME" /> руу үргэлжлүүлэх үү?</translation>
 <translation id="6410264514553301377"><ph name="CREDIT_CARD" />-н дуусах огноо, карт баталгаажуулалтын кодыг оруулна уу</translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium танд Google Бүртгэлээ хамгаалах болон нууц үгээ солиход туслах боломжтой.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser танд Google Бүртгэлээ хамгаалах болон нууц үгээ солиход туслах боломжтой.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Material</translation>
 <translation id="6427730057873428458">Дээд доод хэсгийг нь дотогш нугалж эвхэх брошюрын нугалаа</translation>
@@ -2149,7 +2149,7 @@
 <translation id="6502626736864595182">Форум, чатын үйлчилгээ үзүүлэгч</translation>
 <translation id="6502991525169604759">Таны өөрчлөлтгүйгээр</translation>
 <translation id="6506959208958864820">Дугтуй</translation>
-<translation id="6508722015517270189">Chrome-г дахин эхлүүлэх</translation>
+
 <translation id="6513005815064132016">Таны камерын байрлалыг хянахыг хүсэх боломжтой</translation>
 <translation id="6517596291481585650">Анхааруулга: Энэ удирдамж нь жагсаалт биш тул үүнийг удирдамжид тодорхойлсны дагуу жагсаалт шиг нэгтгэж чадсангүй.</translation>
 <translation id="6518133107902771759">Баталгаажуул</translation>
@@ -2170,11 +2170,11 @@
 <translation id="657902945730878902">Зурах, будах</translation>
 <translation id="6579630537141957243">MIDI төхөөрөмжийг холбох уу?</translation>
 <translation id="6579990219486187401">Бүдэг ягаан</translation>
-<translation id="6587182488465657433">Chrome таны дөнгөж сая ашигласан нууц үгийг өгөгдлийн зөрчлөөс оллоо. Бүртгэлүүдээ хамгаалахын тулд бид таныг үүнийг одоо өөрчилж, дараа нь хадгалсан нууц үгнүүдээ шалгахыг зөвлөж байна.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser таны дөнгөж сая ашигласан нууц үгийг өгөгдлийн зөрчлөөс оллоо. Бүртгэлүүдээ хамгаалахын тулд бид таныг үүнийг одоо өөрчилж, дараа нь хадгалсан нууц үгнүүдээ шалгахыг зөвлөж байна.</translation>
 <translation id="6587893660316489419">Дугтуй B5</translation>
 <translation id="6587923378399804057">Таны хуулсан холбоос</translation>
 <translation id="6591833882275308647">Таны <ph name="DEVICE_TYPE" />-г удирдаагүй байна</translation>
-<translation id="6592952801936330159">Сайтын тохиргоог удирдах товч. Chrome-н тохиргоонд сайтууд дээр хадгалсан зөвшөөрөл болон өгөгдлийг удирдахын тулд Enter дээр дарна уу</translation>
+<translation id="6592952801936330159">Сайтын тохиргоог удирдах товч. WEB3 DNA Browser-н тохиргоонд сайтууд дээр хадгалсан зөвшөөрөл болон өгөгдлийг удирдахын тулд Enter дээр дарна уу</translation>
 <translation id="6596325263575161958">Шифрлэлтийн сонголтууд</translation>
 <translation id="6599642189720630047">Хянаж буй бүтээгдэхүүнүүд</translation>
 <translation id="6611723696964473273">Эдийн засгийн мэдээ</translation>
@@ -2191,7 +2191,7 @@
 <translation id="6645291930348198241">Күүки болон сайтын өгөгдөлд хандах.</translation>
 <translation id="6645478838938543427">Үнэ буурсан талаарх сэрэмжлүүлгийг <ph name="EMAIL_ADDRESS" />-д илгээнэ</translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Байхгүй}=1{1 сайтаас (таныг Google Бүртгэлээс тань гаргахгүй)}other{# сайтаас (таныг Google Бүртгэлээс тань гаргахгүй)}}</translation>
-<translation id="6648459603387803038">Танай администратор хөтчийн тань тохируулгыг алсаас өөрчлөх боломжтой. Энэ төхөөрөмж дээрх үйл ажиллагааг мөн Chrome-с гадуур удирддаг байж болно.</translation>
+<translation id="6228269625838082008">Танай администратор хөтчийн тань тохируулгыг алсаас өөрчлөх боломжтой. Энэ төхөөрөмж дээрх үйл ажиллагааг мөн WEB3 DNA Browser-с гадуур удирддаг байж болно.</translation>
 <translation id="6648524591329069940">Сериф фонт</translation>
 <translation id="6649510485211003056">195 x 270 мм</translation>
 <translation id="6651270836885078973">Дараахаас удирддаг:</translation>
@@ -2203,7 +2203,7 @@
 <translation id="6663846344464066639">Aлгаа хавсарсан гар</translation>
 <translation id="6665553082534466207">Баруун ирмэг дагуу гурван нүх цоолох</translation>
 <translation id="6668389483194953109">"Custom" нэртэй хуудасны хэмжээ олсон ч "custom_size" шинж чанар хоосон эсвэл буруу байна.</translation>
-<translation id="6671697161687535275">Маягтын зөвлөмжийг Chromium-с устгах уу?</translation>
+<translation id="3922033200710514285">Маягтын зөвлөмжийг WEB3 DNA Browser-с устгах уу?</translation>
 <translation id="6683717648675961851">Ажлын жагсаалт</translation>
 <translation id="6685834062052613830">Бүртгэлээс гарч, тохиргоог дуусгах</translation>
 <translation id="6687335167692595844">Фонтын хэмжээг шаардсан</translation>
@@ -2211,7 +2211,7 @@
 <translation id="6688743156324860098">Шинэчлэх…</translation>
 <translation id="6688775486821967877">Виртуал карт яг одоо боломжгүй байна. Дараа дахин оролдоно уу</translation>
 <translation id="6689249931105087298">Хар цэгийн шахалттай харьцангуй</translation>
-<translation id="6689271823431384964">Та нэвтэрсэн тул Chrome таны картыг таны Google бүртгэлд хадгалахыг санал болгож байна. Та энэ ажиллах төлөвийг тохиргоонд өөрчилж болно. Карт эзэмшигчийн нэр таны бүртгэлээс гаралтай.</translation>
+<translation id="6568883612935818921">Та нэвтэрсэн тул WEB3 DNA Browser таны картыг таны Google бүртгэлд хадгалахыг санал болгож байна. Та энэ ажиллах төлөвийг тохиргоонд өөрчилж болно. Карт эзэмшигчийн нэр таны бүртгэлээс гаралтай.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, Google Бүртгэлээс төхөөрөмжөө олохын тулд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="6696588630955820014">Энэ табыг хуваалцах товчлуур, энэ табыг холбоос хуваалцаж, QR код үүсгэж, дамжуулж мөн бусад зүйлийг хийснээр хуваалцахын тулд Enter дээр дарна уу</translation>
 <translation id="6698381487523150993">Үүсгэсэн:</translation>
@@ -2276,7 +2276,7 @@
 <translation id="6883221904761970440">Аюулгүй төлбөрийн мандат үнэмлэхийг баталгаажуулах хүснэгтийг хаасан</translation>
 <translation id="6884662655240309489">Хэмжээ 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome нь энэ хуудсыг уншихад илүү амар болгож хялбаршуулсан. Chrome нь аюултай холболтоор эх хуудсыг сэргээсэн.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser нь энэ хуудсыг уншихад илүү амар болгож хялбаршуулсан. WEB3 DNA Browser нь аюултай холболтоор эх хуудсыг сэргээсэн.</translation>
 <translation id="6890443033788248019">Байршлыг зөвшөөрөх үү?</translation>
 <translation id="6890531741535756070">Та <ph name="PROVIDER_ORIGIN" />-г ашигладаг вебсайтууд дээр <ph name="DEVICE_LABEL" />-р баталгаажуулахаар сонгосон. Энэ үйлчилгээ үзүүлэгч таны төлбөрийн хэрэгслийн талаарх мэдээллийг хадгалсан байж болзошгүй бөгөөд та үүнийг <ph name="BEGIN_LINK" />устгуулах хүсэлт тавих<ph name="END_LINK" /> боломжтой.</translation>
 <translation id="6891596781022320156">Энэ журмын түвшинг дэмжээгүй байна.</translation>
@@ -2349,7 +2349,7 @@
 <translation id="7058774143982824355">CSV-н нууц үг задлан шинжлэгч үйлчилгээ</translation>
 <translation id="7061777300866737982">Гэрийн аюулгүй байдал, хамгаалалт</translation>
 <translation id="7062635574500127092">Номин ногоон</translation>
-<translation id="706295145388601875">Chrome-н тохиргоонд хаяг нэмж мөн удирдана уу</translation>
+<translation id="706295145388601875">WEB3 DNA Browser-н тохиргоонд хаяг нэмж мөн удирдана уу</translation>
 <translation id="7064851114919012435">Харилцагчийн мэдээлэл</translation>
 <translation id="7067633076996245366">Сөүл, R&amp;B</translation>
 <translation id="7068733155164172741"><ph name="OTP_LENGTH" /> оронтой кодыг оруулна уу</translation>
@@ -2360,23 +2360,18 @@
 <translation id="7081308185095828845">Таны төхөөрөмж дээр энэ онцлог боломжгүй байна</translation>
 <translation id="7083258188081898530">Гарах цаасны тавиур 9</translation>
 <translation id="7086090958708083563">Хэрэглэгч байршуулах хүсэлт тавьсан</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome-н тохиргоонд сайтууд дээр хадгалсан зөвшөөрөл болон өгөгдлийг удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser-н тохиргоонд сайтууд дээр хадгалсан зөвшөөрөл болон өгөгдлийг удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="7096937462164235847">Энэ вебсайтын таниулбарыг баталгаажуулаагүй байна.</translation>
 <translation id="7101893872976785596">Аймшгийн кино</translation>
 <translation id="7102079138917191645">Барилга, засвар үйлчилгээ</translation>
-<translation id="7102554173784142865">Chrome Dino тоглоомыг тоглох</translation>
+<translation id="7102554173784142865">WEB3 DNA Browser Dino тоглоомыг тоглох</translation>
 <translation id="7108338896283013870">Нуух</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> таны камерыг ашиглах хүсэлтэй байна</translation>
 <translation id="7108819624672055576">Өргөтгөл зөвшөөрсөн</translation>
 <translation id="7111012039238467737">(Хүчинтэй)</translation>
 <translation id="7118618213916969306">Түр санах ойн URL болох <ph name="SHORT_URL" />-г хайх</translation>
 <translation id="7119414471315195487">Бусад таб, эсвэл программыг хаах</translation>
-<translation id="7129355289156517987">Таныг Chromium-н бүх нууцлалтай табыг хаах үед таны тэдгээр таб дахь үйл ажиллагааг энэ төхөөрөмжөөс арилгана:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Хөтчийн үйл ажиллагаа<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Хайлтын түүх<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Маягтад оруулсан мэдээлэл<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Энэ хаяг руу хүргэх боломжгүй тул өөр хаяг сонгоно уу.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Байршуулахыг блоклосон</translation>
@@ -2463,13 +2458,13 @@
 <translation id="7359588939039777303">Зарыг блоклосон.</translation>
 <translation id="7360451453306104998">Google боломжтой хөнгөлөлт олсон үедээ түүнийг тооцоо хийх үед харуулна</translation>
 <translation id="7363096869660964304">Гэхдээ та харагдаж байгаа. Нууцлалтай горимд орсноор таны үзэлтийг ажил олгогч, интернэт үйлчилгээ нийлүүлэгч эсвэл зочилсон вебсайтаас тань нуухгүй.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome-н тохиргоонд хаяг нэмэх болон удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser-н тохиргоонд хаяг нэмэх болон удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="7365849542400970216">Төхөөрөмжийн ашиглалтаа мэдэх үү?</translation>
 <translation id="7366117520888504990">198 х 275 мм</translation>
 <translation id="7366362069757178916">Төлбөр хариуцагч</translation>
 <translation id="7372973238305370288">хайлтын үр дүн</translation>
 <translation id="7374461526650987610">Протокол удирдагч</translation>
-<translation id="7374733840632556089">Та эсвэл өөр хэн нэгэн таны төхөөрөмж дээр суулгасан сертификатын улмаас ийм асуудал гардаг. Сертификатыг сүлжээнд хяналт хийх болон дундаас нь өгөгдөл цуглуулахад ашигладаг гэж мэдэгдсэн бөгөөд Chrome түүнд итгэхгүй байна. Сургууль эсвэл компанийн сүлжээнд хяналт хийх зэрэг хууль ёсны зарим тохиолдол байдаг бөгөөд Chrome нь та хяналтыг зогсоож чадахгүй байсан ч хяналт хийгдэж байгаа тухай таныг мэдэж байгаа эсэхийг шалгах хүсэлтэй байна. Вэбэд ханддаг аливаа хөтөч эсвэл аппликэйшн дээр хяналт хийж болзошгүй.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Ямар ч сайтад зөвшөөрөөгүй}=1{1 сайтад зөвшөөрсөн}other{# сайтад зөвшөөрсөн}}</translation>
 <translation id="7375818412732305729">Файлыг хавсаргадаг</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2487,7 +2482,7 @@
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Энэ табыг холбоос хуваалцаж, QR код үүсгэж, дамжуулж мөн бусад зүйлийг хийснээр хуваалцаарай</translation>
 <translation id="7403591733719184120">Таны <ph name="DEVICE_NAME" />-г удирдаж байна</translation>
-<translation id="7407424307057130981">&lt;p&gt;Таны Windows компьютерт Superfish программ хангамж байгаа тохиолдолд та тус алдааг харах болно.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Таны Windows компьютерт Superfish программ хангамж байгаа тохиолдолд та тус алдааг харах болно.&lt;/p&gt;
       &lt;p&gt;Тус программ хангамжийг түр хугацаанд идэвхгүй болгохын тулд эдгээр алхмыг дагаснаар та вебэд хандах боломжтой болно. Танд админы эрх шаардлагатай.&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;&lt;strong&gt;Эхлүүлэх&lt;/strong&gt; гэснийг дараад дараа нь &lt;strong&gt;"Дотоод үйлчилгээг харах"&lt;/strong&gt; гэснийг олоод сонгоно уу
@@ -2495,7 +2490,7 @@
       &lt;li&gt;&lt;strong&gt;Гарааны төрөл&lt;/strong&gt; хэсгээс &lt;strong&gt;Идэвхгүй болсон&lt;/strong&gt; гэснийг сонгоно уу
       &lt;li&gt;&lt;strong&gt;Үйлчилгээний төлөв&lt;/strong&gt; хэсгээс &lt;strong&gt;Зогсоох&lt;/strong&gt; гэснийг сонгоно уу
       &lt;li&gt;&lt;strong&gt;Хэрэгжүүлэх&lt;/strong&gt; гэснийг товшоод дараа нь &lt;strong&gt;OK&lt;/strong&gt; гэснийг дарна уу
-      &lt;li&gt;Тус программ хангамжийг компьютерээсээ хэрхэн бүрмөсөн устгах талаар мэдэж авахын тулд &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Chrome-н тусламжийн төвд&lt;/a&gt;-д зочилно уу
+      &lt;li&gt;Тус программ хангамжийг компьютерээсээ хэрхэн бүрмөсөн устгах талаар мэдэж авахын тулд &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;WEB3 DNA Browser-н тусламжийн төвд&lt;/a&gt;-д зочилно уу
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Хайр татам</translation>
 <translation id="741204030948306876">Тийм, би зөвшөөрч байна</translation>
@@ -2503,7 +2498,7 @@
 <translation id="7418620734632363981">Программчлал</translation>
 <translation id="7419106976560586862">Профайлын зам</translation>
 <translation id="7421067045979951561">протокол хариуцагчид</translation>
-<translation id="7426022697669111648">Chrome-н түүхээ үзэх товчлуур, Chrome-н тохиргоонд хөтчийн түүхээ үзэх болон удирдахын тулд Enter дээр дарна уу</translation>
+<translation id="7426022697669111648">WEB3 DNA Browser-н түүхээ үзэх товчлуур, WEB3 DNA Browser-н тохиргоонд хөтчийн түүхээ үзэх болон удирдахын тулд Enter дээр дарна уу</translation>
 <translation id="7427366580982928791">Хүүхдийн интернэтийн аюулгүй байдал</translation>
 <translation id="7429429656042611765">Захиргааны</translation>
 <translation id="7437289804838430631">Харилцагчийн мэдээлэл нэмэх</translation>
@@ -2532,12 +2527,7 @@
 <translation id="7497998058912824456">Документ үүсгэх товчлуур, шинэ Google Док шуурхай үүсгэхийн тулд Enter дээр дарна уу</translation>
 <translation id="7501663406926337752">Танай админ уг сайтыг дарцагласан байна</translation>
 <translation id="7501853161948120656">Боловсролын материал</translation>
-<translation id="7506488012654002225">Chromium нь дараах мэдээллийг <ph name="BEGIN_EMPHASIS" />хадгалахгүй<ph name="END_EMPHASIS" />:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Таны хөтчийн түүх
-            <ph name="LIST_ITEM" />Күүки болон сайтын өгөгдөл
-            <ph name="LIST_ITEM" />Маягтад оруулсан мэдээлэл
-          <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Дугтуй #9</translation>
 <translation id="7508255263130623398">Буцаасан удирдамжийн төхөөрөмжийн id хоосон, эсвэл одоогийн төхөөрөмжийн id-тай тохирохгүй байна</translation>
 <translation id="7508870219247277067">Авокадо ногоон</translation>
@@ -2559,7 +2549,7 @@
 <translation id="7542995811387359312">Зээлийн картыг автоматиар бөглөх явц идэвхгүй байна. Учир нь энэ маягт аюулгүй холболт хэрэглэгдэггүй.</translation>
 <translation id="7548892272833184391">Холболтын алдааг засах</translation>
 <translation id="7549584377607005141">Энэ веб хуудас нь зохих хэмжээнд гарахын тулд таны өмнө оруулсан мэдээллийг шаардаж байна. Та энэ өгөгдлийг дахин илгээж болно, гэхдээ үүнийг хийснээрээ та энэ хуудасны өмнө нь хийж байсан үйлдлийг давтах хэрэгтэй болно.</translation>
-<translation id="7550637293666041147">Таны төхөөрөмжийн хэрэглэгчийн нэр болон Chrome хэрэглэгчийн нэр</translation>
+<translation id="4843621636877577887">Таны төхөөрөмжийн хэрэглэгчийн нэр болон WEB3 DNA Browser хэрэглэгчийн нэр</translation>
 <translation id="7551484245293639699">Аяллын даатгал</translation>
 <translation id="755279583747225797">Туршилт идэвхтэй байна</translation>
 <translation id="7552846755917812628">Дараах зөвлөгөөг дагана уу:</translation>
@@ -2567,13 +2557,13 @@
 <translation id="7554791636758816595">Шинэ таб</translation>
 <translation id="7555777498260651025">ТВ-ийн гэр бүлд чиглэсэн шоу</translation>
 <translation id="7559278538486662777">Энэ аппын хэмжээг өөрчлөх боломжгүй.</translation>
-<translation id="7564049878696755256">Та <ph name="ORG_NAME" /> бүртгэлдээ хандах эрх эсвэл нууц үгээ бусдад алдаж болзошгүй. Chrome-с таныг нууц үгээ өөрчлөхийг зөвлөж байна.</translation>
+<translation id="8940464370390138384">Та <ph name="ORG_NAME" /> бүртгэлдээ хандах эрх эсвэл нууц үгээ бусдад алдаж болзошгүй. WEB3 DNA Browser-с таныг нууц үгээ өөрчлөхийг зөвлөж байна.</translation>
 <translation id="7564680668369175887">Тэвштэй суудлын машин</translation>
 <translation id="7567204685887185387">Энэ сервер нь <ph name="DOMAIN" />-аа баталж чадсангүй;  хамгаалалтын сертификат хууль бусаар боловсруулагдсан байж болзошгүй. Энэ нь тохиргоо буруу хийгдсэнээс эсвэл халдагч таны холболтон саад учруулж байж болох юм.</translation>
-<translation id="7568616151991626879">Google Chrome <ph name="APP_NAME" /> дээр таны нууц үгийг бөглөхөөр оролдож байна.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser <ph name="APP_NAME" /> дээр таны нууц үгийг бөглөхөөр оролдож байна.</translation>
 <translation id="7569490014721427265">Гольф</translation>
 <translation id="7569761772822664555">Хайлтын системийг удирдах товчлуур, өгөгдмөл хайлтын систем болон сайтын хайлтаа удирдахын тулд Enter дээр дарна уу</translation>
-<translation id="7569952961197462199">Chrome-оос зээлийн карт устгах уу?</translation>
+<translation id="9202224267417193484">WEB3 DNA Browser-оос зээлийн карт устгах уу?</translation>
 <translation id="7569983096843329377">Хар</translation>
 <translation id="7575207903026901870">Зөвлөмж устгах товчлуур, энэ зөвлөмжийг устгахын тулд Enter дээр дарна уу</translation>
 <translation id="7577900504646297215">Сонирхлыг удирдах</translation>
@@ -2592,15 +2582,15 @@
 <translation id="7600965453749440009"><ph name="LANGUAGE" />-ийг хэзээ ч бүү хөрвүүл</translation>
 <translation id="7610193165460212391">Утга нь <ph name="VALUE" /> хамрах хүрээнээс гарсан байна.</translation>
 <translation id="7613889955535752492">Дуусах: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-н тохиргоонд нууц үгээ харах болон удирдахын тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
-<translation id="7616645509853975347">Таны администратор таны хөтөч дээр Chrome Enterprise Connectors-г асаасан байна. Эдгээр холбогч нь таны зарим өгөгдөлд хандах эрхтэй.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-н тохиргоонд нууц үгээ харах болон удирдахын тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
+<translation id="2698924724374512123">Таны администратор таны хөтөч дээр WEB3 DNA Browser Enterprise Connectors-г асаасан байна. Эдгээр холбогч нь таны зарим өгөгдөлд хандах эрхтэй.</translation>
 <translation id="7617825962482469577">Дугтуй C7/C6</translation>
 <translation id="7619838219691048931">Төгсгөлийн хүснэгт</translation>
 <translation id="7625242817712715120">Администраторын бодлого нь энэ контентыг хэвлэхийг санал болгодоггүй</translation>
 <translation id="762844065391966283">Нэг удаад нэг</translation>
 <translation id="7631444403134069754">Гүйлтийн зам, талбай</translation>
 <translation id="7633909222644580952">Гүйцэтгэлийн өгөгдөл болон гэмтлийн тайлан</translation>
-<translation id="7637571805876720304">Кредит картыг Chromium-с устгах уу?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Байхгүй}=1{Таны бүртгэлд 1 нууц үг байна (<ph name="DOMAIN_LIST" />-д зориулсан)}other{Таны бүртгэлд # нууц үг байна (<ph name="DOMAIN_LIST" />-д зориулсан)}}</translation>
 <translation id="7638605456503525968">Цуваа порт</translation>
 <translation id="7639968568612851608">Хар саарал</translation>
@@ -2624,7 +2614,7 @@
 <translation id="7673278391011283842">Шуудангийн хайрцаг 6</translation>
 <translation id="7675325315208090829">Төлбөрийн хэрэгслүүдийг удирдах...</translation>
 <translation id="7676643023259824263">Түр санах ойн текст болох <ph name="TEXT" />-г хайх</translation>
-<translation id="7679367271685653708">Chrome-н тохиргоонд хөтчийн түүхээ үзэх болон удирдана уу</translation>
+<translation id="7679367271685653708">WEB3 DNA Browser-н тохиргоонд хөтчийн түүхээ үзэх болон удирдана уу</translation>
 <translation id="7679947978757153706">Бэйсбол</translation>
 <translation id="7681273392938116652">Зөгнөлт спорт</translation>
 <translation id="7682287625158474539">Хүргэлт</translation>
@@ -2653,7 +2643,7 @@
 <translation id="7740996059027112821">Стандарт</translation>
 <translation id="77424286611022110">Энэ сайт төвөгтэй эсвэл хуурамч зар харуулдаг. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Аюултай агуулгыг блоклосон.</translation>
-<translation id="7751971323486164747">Chrome-д фонтын хэмжээ болон үсгийн хэлбэрийг өөрчилнө үү</translation>
+<translation id="7751971323486164747">WEB3 DNA Browser-д фонтын хэмжээ болон үсгийн хэлбэрийг өөрчилнө үү</translation>
 <translation id="7752995774971033316">Ажиллаж дуусаагүй</translation>
 <translation id="7755624218968747854">Үндсэн хуйлмал</translation>
 <translation id="7758069387465995638">Галт хана, эсвэл вирусын эсрэг программ холболтыг блоклосон байж болзошгүй.</translation>
@@ -2676,7 +2666,7 @@
 <translation id="7805571567667010077">Танай байгууллагаас удирддаг</translation>
 <translation id="7805768142964895445">Байр байдал</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Chrome-оос санал болгож буй зүйлийг устгах уу?</translation>
+
 <translation id="781440967107097262">Түр санах ойг хуваалцах уу?</translation>
 <translation id="7815407501681723534">'<ph name="SEARCH_STRING" />'-н <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> олдсон</translation>
 <translation id="7822320754433038727">Агнуур, буудлага</translation>
@@ -2711,8 +2701,8 @@
 <translation id="7943397946612013052">Татахыг блоклосон</translation>
 <translation id="7943893128817522649">Олон файлыг автоматаар татахыг хүсэх боломжтой</translation>
 <translation id="7947285636476623132">Хүчингүй болох жилийг шалгаад дахин оролдоно уу</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-н онцлогуудын талаар мэдэж авахын тулд эхлээд Tab, дараа нь Enter дээр дарна уу</translation>
-<translation id="7950027195171824198">Chrome-н тохиргоонд күүкиний сонголтоо удирдана уу</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-н онцлогуудын талаар мэдэж авахын тулд эхлээд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="7950027195171824198">WEB3 DNA Browser-н тохиргоонд күүкиний сонголтоо удирдана уу</translation>
 <translation id="7951415247503192394">(32-бит)</translation>
 <translation id="7952192831285741665">Европын EDP</translation>
 <translation id="7953569069500808819">Дээд буланг нь нийлүүлж үдэх</translation>
@@ -2727,7 +2717,7 @@
 <translation id="7981129096182302364">Бүжгийн, электрон хөгжим</translation>
 <translation id="798134797138789862">Виртуал бодит байдлын төхөөрөмжүүд болон өгөгдлийг ашиглахыг хүсэх боломжтой</translation>
 <translation id="7983008347525536475">Жийп</translation>
-<translation id="7984945080620862648">Та энэхүү <ph name="SITE" />-д хандах боломжгүй байна. Учир нь вебсайт эмх замбараагүй мэдээлэл илгээсэн тул Chrome энэ мэдээллийг боловсруулах боломжгүй байна. Сүлжээний алдаа болон халдлага нь ихэвчлэн түр зуурынх байдаг бөгөөд энэ хуудас хэсэг хугацааны дараа ажиллаж болох юм.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Үдэж хавтаслах</translation>
 <translation id="7992044431894087211"><ph name="APPLICATION_TITLE" />-тай дэлгэц хуваалцахыг үргэлжлүүлсэн</translation>
@@ -2760,7 +2750,7 @@
 <translation id="8057711352706143257">"<ph name="SOFTWARE_NAME" />"-г зөв тохируулаагүй байна. "<ph name="SOFTWARE_NAME" />"-г устгаснаар асуудлыг шийдвэрлэх боломжтой. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Хүнсний үйлдвэрлэл</translation>
 <translation id="8066225060526005217">Күүкиний тохиргоогоор удирддаг</translation>
-<translation id="8067872629359326442">Та дөнгөж сая сэжигтэй сайтад нууц үгээ орууллаа. Chromium туслах боломжтой. Нууц үгээ өөрчилж, таны бүртгэл эрсдэлд oрсон байж болзошгүй тухай Google-д мэдэгдэхийн тулд Бүртгэлийг хамгаалах гэснийг товшино уу.</translation>
+
 <translation id="8070439594494267500">Aппын дүрс тэмдэг</translation>
 <translation id="8075736640322370409">Шинэ Google Хүснэгт шуурхай үүсгээрэй</translation>
 <translation id="8075898834294118863">Сайтын тохиргоог удирдах</translation>
@@ -2790,7 +2780,7 @@
 <translation id="8116925261070264013">Дууг хаасан</translation>
 <translation id="8118489163946903409">Төлбөрийн хэрэгсэл</translation>
 <translation id="8123046743443732598">Ширээний компьютер</translation>
-<translation id="8124639700796374294">Chrome-г өөрчлөх товчлуур, хөтчийнхөө харагдах байдлыг өөрчлөхийн тулд Enter дээр дарна уу</translation>
+<translation id="8124639700796374294">WEB3 DNA Browser-г өөрчлөх товчлуур, хөтчийнхөө харагдах байдлыг өөрчлөхийн тулд Enter дээр дарна уу</translation>
 <translation id="8126056688005753476">Адал явдалт аялал</translation>
 <translation id="8127301229239896662">"<ph name="SOFTWARE_NAME" />"-г таны компьютер эсвэл сүлжээнд зөв суулгаагүй байна. Энэ асуудлыг шийдвэрлэхийн тулд админтайгаа холбогдоно уу.</translation>
 <translation id="8131740175452115882">Батлах</translation>
@@ -2801,7 +2791,7 @@
 <translation id="8157295877370077682">Сайтыг орхих</translation>
 <translation id="8163866351304776260">Зүүн ирмэг дагуу дөрвөн нүх цоолох</translation>
 <translation id="8175330382720204696">Засгийн газрын захидал</translation>
-<translation id="8175796834047840627">Та нэвтэрсэн тул Chrome таны картыг таны Google Бүртгэлд хадгалахыг санал болгож байна. Та энэ ажиллах төлөвийг тохиргоонд өөрчилж болно.</translation>
+<translation id="8903986195054043594">Та нэвтэрсэн тул WEB3 DNA Browser таны картыг таны Google Бүртгэлд хадгалахыг санал болгож байна. Та энэ ажиллах төлөвийг тохиргоонд өөрчилж болно.</translation>
 <translation id="8176440868214972690">Энэ төхөөрөмжийн администратор дараах вебсайтууд руу тохиргоо эсвэл бодлого зэрэг зарим мэдээллийг илгээсэн.</translation>
 <translation id="8184538546369750125">Ерөнхий анхдагч хэлбэрийг ашиглах (зөвшөөрөх)</translation>
 <translation id="8186706823560132848">Програм хангамж</translation>
@@ -2846,11 +2836,11 @@
 <translation id="8270242299912238708">PDF документ</translation>
 <translation id="8275952078857499577">Энэ сайтыг орчуулахыг бүү санал болго</translation>
 <translation id="8277900682056760511">Төлбөр хариуцагчийн хүснэгт нээлттэй байна</translation>
-<translation id="8279611986089885641">Chrome-н мэдэгдэл асаалттай байх ёстой. Та тэдгээрийг <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />-д асаах боломжтой.</translation>
+<translation id="2375797557832310962">WEB3 DNA Browser-н мэдэгдэл асаалттай байх ёстой. Та тэдгээрийг <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />-д асаах боломжтой.</translation>
 <translation id="8280630997017109758">Тавиур 11</translation>
 <translation id="8281886186245836920">Алгасах</translation>
 <translation id="8282947398454257691">Төхөөрөмжийнхөө тусгай дугаарыг мэдэж аваарай</translation>
-<translation id="8284769179630993263">Chrome-н тохиргоонд Аюулгүй үзэх болон бусад тохиргоогоо удирдана уу</translation>
+<translation id="8284769179630993263">WEB3 DNA Browser-н тохиргоонд Аюулгүй үзэх болон бусад тохиргоогоо удирдана уу</translation>
 <translation id="8286036467436129157">Нэвтрэх</translation>
 <translation id="8288807391153049143">Гэрчилгээг харуулах</translation>
 <translation id="8289355894181816810">Хэрэв та үүнийг юу гэсэн үг болохыг сайн мэдэхгүй байгаа бол сүлжээнийхээ админтай холбоо барина уу.</translation>
@@ -2889,7 +2879,7 @@
 <translation id="8390725133630534698">Администраторын бодлогын дагуу <ph name="ORIGIN_NAME" />-с <ph name="VM_NAME" /> руу хуваалцахыг блоклосон</translation>
 <translation id="8396522675989118466">Энэ нь <ph name="SIDE_OF_CARD" /> дээрх <ph name="NUMBER_OF_DIGITS" /> оронтой код юм</translation>
 <translation id="8398790343843005537">Утсаа хай</translation>
-<translation id="8405579342203358118">Chrome-н тохиргоонд ямар мэдээлэл синк хийхээ удирдана уу</translation>
+<translation id="8405579342203358118">WEB3 DNA Browser-н тохиргоонд ямар мэдээлэл синк хийхээ удирдана уу</translation>
 <translation id="8409413588194360210">төлбөр хариуцагч</translation>
 <translation id="8412145213513410671">Эвдрэл (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Та нууц үгүү хоёр удаа зөв оруулна уу.</translation>
@@ -2900,7 +2890,7 @@
 <translation id="8427848540066057481">500 x 750 мм</translation>
 <translation id="8428213095426709021">Тохиргоо</translation>
 <translation id="8428634594422941299">Ойлголоо</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome-н тохиргоонд күүкиний сонголтоо удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser-н тохиргоонд күүкиний сонголтоо удирдахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="8433057134996913067">Энэ сонголт нь таныг ихэнх веб сайтаас гаргах болно.</translation>
 <translation id="8434840396568290395">Tэжээвэр амьтан</translation>
 <translation id="8437238597147034694">&amp; Зөөвөрлөх үйлдлийг буцаах</translation>
@@ -2920,12 +2910,12 @@
 <translation id="8473863474539038330">Хаяг болон бусад</translation>
 <translation id="8474910779563686872">Хөгжүүлэгчийн дэлгэрэнгүй мэдээллийг харуулах</translation>
 <translation id="8479754468255770962">Зүүн доод буланд үдэх</translation>
-<translation id="8483780878231876732">Google бүртгэлийн картаа ашиглахын тулд Chrome-д нэвтэрнэ үү</translation>
+<translation id="8483780878231876732">Google бүртгэлийн картаа ашиглахын тулд WEB3 DNA Browser-д нэвтэрнэ үү</translation>
 <translation id="8488350697529856933">руу тохируулах</translation>
 <translation id="8490137692873530638">Гарах цаасыг зэрэгцүүлэх тавцан 10</translation>
 <translation id="8493948351860045254">Зай гаргах</translation>
 <translation id="8498891568109133222"><ph name="HOST_NAME" />-д холбогдоход хэтэрхий удаж байна.</translation>
-<translation id="8503559462189395349">Chrome-н нууц үг</translation>
+<translation id="1863492395079744896">WEB3 DNA Browser-н нууц үг</translation>
 <translation id="8503813439785031346">Хэрэглэгчийн нэр</translation>
 <translation id="8507227106804027148">Тушаалын мөр</translation>
 <translation id="8508648098325802031">Хайлтын дүрс тэмдэг</translation>
@@ -2933,8 +2923,8 @@
 <translation id="851353418319061866">Нарийвчлалын шалгалт</translation>
 <translation id="8513580896341796021">Татаж эхэллээ. Үүнийг харахын тулд |<ph name="ACCELERATOR" />| дээр дарна уу.</translation>
 <translation id="8519753333133776369">Танай администраторын зөвшөөрсөн HID төхөөрөмж</translation>
-<translation id="8522552481199248698">Chrome танд Google Бүртгэлээ хамгаалах болон нууц үгээ солиход туслах боломжтой.</translation>
-<translation id="8530813470445476232">Chrome тохиргооноос хөтчийн түүх, күүки, завсрын санах ой болон бусад зүйлийг устгах</translation>
+
+<translation id="8530813470445476232">WEB3 DNA Browser тохиргооноос хөтчийн түүх, күүки, завсрын санах ой болон бусад зүйлийг устгах</translation>
 <translation id="853332391023689529">Пикап ачааны машин</translation>
 <translation id="8533619373899488139">Системийн администраторынхаа хэрэгжүүлдэг блоклосон URL-үүдийн болон бусад удирдамжийн жагсаалтыг харахын тулд &lt;strong&gt; chrome://policy&lt;/strong&gt;-д зочилно уу.</translation>
 <translation id="8539500321752640291">2 зөвшөөрөл олгох уу?</translation>
@@ -2950,7 +2940,7 @@
 <translation id="8557066899867184262">Карт баталгаажуулалтын код таны картын ард байрладаг.</translation>
 <translation id="8559762987265718583"><ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> руу таны төхөөрөмжийн он сар өдөр, цаг <ph name="DATE_AND_TIME" /> ) буруу байгаа учраас хувийн холболт үүсгэж болохгүй байна.</translation>
 <translation id="8564182942834072828">Тусдаа документ/Зэрэгцүүлээгүй хувь</translation>
-<translation id="8564985650692024650">Хэрэв та <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />-н нууц үгийг бусад сайтад дахин ашигласан бол Chromium-с үүнийг шинэчлэхийг зөвлөж байна.</translation>
+<translation id="6226192724169192103">Хэрэв та <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />-н нууц үгийг бусад сайтад дахин ашигласан бол WEB3 DNA Browser-с үүнийг шинэчлэхийг зөвлөж байна.</translation>
 <translation id="8576310925653847813">Гэрийн театрын систем</translation>
 <translation id="8577348305244205642">Виртуал карт боломжгүй байна</translation>
 <translation id="858637041960032120">Утасны дугаар нэмэх</translation>
@@ -2982,7 +2972,7 @@
 <translation id="868922510921656628">Багц бүрийн хуудас</translation>
 <translation id="869891660844655955">Дуусах хугацаа</translation>
 <translation id="8699041776323235191">HID төхөөрөмж</translation>
-<translation id="8699899385443889493">Chrome Dino тоглоомыг тоглох товчлуур, Chrome-д Dino Run тоглоомыг тоглохын тулд Enter дээр дарна уу</translation>
+<translation id="8699899385443889493">WEB3 DNA Browser Dino тоглоомыг тоглох товчлуур, WEB3 DNA Browser-д Dino Run тоглоомыг тоглохын тулд Enter дээр дарна уу</translation>
 <translation id="8699985386408839112">Каку дугтуй 1</translation>
 <translation id="8703575177326907206">Таны <ph name="DOMAIN" /> руу холбогдох холболтыг шифрлээгүй байна.</translation>
 <translation id="8705331520020532516">Сери дугаар</translation>
@@ -2999,12 +2989,12 @@
 <translation id="8725066075913043281">Дахин оролдож үзнэ үү.</translation>
 <translation id="8726549941689275341">Хуудасны хэмжээ:</translation>
 <translation id="8730621377337864115">хийсэн</translation>
-<translation id="8731544501227493793">Нууц үг удирдах товч, Chrome-н тохиргоон дээр нууц үгээ харах, удирдахын тулд Enter дарна уу</translation>
+<translation id="8731544501227493793">Нууц үг удирдах товч, WEB3 DNA Browser-н тохиргоон дээр нууц үгээ харах, удирдахын тулд Enter дарна уу</translation>
 <translation id="8734529307927223492">Таны <ph name="DEVICE_TYPE" />-г <ph name="MANAGER" /> удирддаг</translation>
 <translation id="8736059027199600831">30 x 40 инч</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, нууцлалтайгаар үзэхдээ Нууцлалтай цонх шинээр нээхийн тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
 <translation id="8737685506611670901"><ph name="PROTOCOL" /> холбоосуудыг <ph name="REPLACED_HANDLER_TITLE" />-ний оронд нээх</translation>
-<translation id="8738058698779197622">Найдвартай аюулгүй холболт бий болгохын тулд та цагаа зөв тохируулах хэрэгтэй. Учир нь  веб хуудсуудын өөрсдийгөө таниулахад ашигладаг гэрчилгээ нь тодорхой хугацаанд л хүчинтэй байдаг юм. Таны төхөөрөмжийн цаг буруу байгаа тохиолдолд Chromium нь эдгээр гэрчилгээнүүдийг баталгаажуулж чадахгүй.</translation>
+
 <translation id="8740359287975076522"><ph name="HOST_NAME" />-н &lt;abbr id="dnsDefinition"&gt;DNS хаяг&lt;/abbr&gt; олдсонгүй. Алдааг шалгаж байна.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> бол <ph name="ORIGIN" />-д зориулсан таны код</translation>
 <translation id="874918643257405732">Энэ табыг тэмдэглэх</translation>
@@ -3023,9 +3013,9 @@
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Мотоцикл</translation>
 <translation id="8790007591277257123">&amp; Устгах үйлдлийг дахин хийх</translation>
-<translation id="8792621596287649091">Та <ph name="ORG_NAME" /> бүртгэлийнхээ хандах эрх эсвэл нууц үгээ алдаж болзошгүй. Chromium одоо таны нууц үгийг өөрчлөхийг зөвлөж байна.</translation>
+
 <translation id="8792626944327216835">микрофон</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> нь Chrome Enterprise Connectors-г таны хөтөч дээр асаасан. Эдгээр холбогч нь таны зарим өгөгдөлд хандах эрхтэй.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> нь WEB3 DNA Browser Enterprise Connectors-г таны хөтөч дээр асаасан. Эдгээр холбогч нь таны зарим өгөгдөлд хандах эрхтэй.</translation>
 <translation id="8798099450830957504">Гэрээ үл биелүүлэх</translation>
 <translation id="8798739476508189189">Хөтчийн дарцгуудыг хайж байна уу? Зочлох</translation>
 <translation id="8805819170075074995">Жагсаалтын оролт "<ph name="LANGUAGE_ID" />": Энэ оролт SpellcheckLanguage удирдамжид мөн адил багтсан тул үүнийг үл хэрэгссэн болно.</translation>
@@ -3033,7 +3023,7 @@
 <translation id="8807160976559152894">Хуудас бүрийн дараа тайрах</translation>
 <translation id="8813277370772331957">Надад дараа сануулах</translation>
 <translation id="8814707942599948500">Дугтуй C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-н тохиргооноосоо Chrome-г шинэчлэхийн тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-н тохиргооноосоо WEB3 DNA Browser-г шинэчлэхийн тулд эхлээд Таб дээр, дараа нь Enter дарна уу</translation>
 <translation id="8820817407110198400">Хавчуургууд</translation>
 <translation id="882338992931677877">Гараар оруулах оролт</translation>
 <translation id="8830320733681313421">Хагаки ил захидал</translation>
@@ -3047,7 +3037,7 @@
 <translation id="885306012106043620">Теннис</translation>
 <translation id="8855742650226305367">Бүжиг</translation>
 <translation id="885730110891505394">Google-тэй хуваалцаж байна</translation>
-<translation id="8858065207712248076">Хэрэв та <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />-н нууц үгийг бусад сайтад дахин ашигласан бол Chrome-с үүнийг шинэчлэхийг зөвлөж байна.</translation>
+
 <translation id="885906927438988819">Хэрэв алдаагүй, зөв бичсэн бол <ph name="BEGIN_LINK" />Windows-н сүлжээний оношилгоог ажиллуулж үзнэ үү<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Киноны дуу</translation>
 <translation id="8866481888320382733">Өгүүлбэр зүйн алдааны тохиргоо</translation>
@@ -3067,7 +3057,7 @@
 <translation id="8903921497873541725">Томруулж харах</translation>
 <translation id="890493561996401738">Зөвлөмж устгах товчлуур, устгахын тулд Enter дээр дарна уу, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google Бүртгэл</translation>
-<translation id="8913778647360618320">Төлбөрийн хэрэгслүүдийг удирдах товч, Chrome-н тохиргоон дээр төлбөр болон кредит картынхаа мэдээллийг удирдахын тулд Enter дарна уу</translation>
+<translation id="8913778647360618320">Төлбөрийн хэрэгслүүдийг удирдах товч, WEB3 DNA Browser-н тохиргоон дээр төлбөр болон кредит картынхаа мэдээллийг удирдахын тулд Enter дарна уу</translation>
 <translation id="8922013791253848639">Энэ сайтад зарыг үргэлж зөвшөөрөх</translation>
 <translation id="892588693504540538">Баруун дээд буланд нэг нүх цоолох</translation>
 <translation id="8930330541574156305">Үл хөдлөх хөрөнгө</translation>
@@ -3088,7 +3078,7 @@
 <translation id="8975263830901772334">Таны хэвлэх файлуудын нэр</translation>
 <translation id="8978053250194585037">Google-н аюулгүй хайлт саяхан <ph name="SITE" />-с <ph name="BEGIN_LINK" />фишинг олж илрүүллээ<ph name="END_LINK" />. Фишинг сайтууд нь таныг хууран мэхлэх зорилгоор бусад сайт мэт харагдана.</translation>
 <translation id="8983369100812962543">Та одоо энэ аппын хэмжээг өөрчлөх боломжтой</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-д хөтчийн түүхээ үзэхийн тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-д хөтчийн түүхээ үзэхийн тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="8987927404178983737">Сар</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [ <ph name="COUNTRY" /> ]</translation>
 <translation id="8992061558343343009">Системийн хувилбарыг хайж байна уу? Зочлох</translation>
@@ -3135,19 +3125,19 @@
 <translation id="908796725011587895">Коллежийн спорт</translation>
 <translation id="9089260154716455634">Ажиллахгүй цагийн удирдамж:</translation>
 <translation id="9095388113577226029">Бусад хэл...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, iOS-н тохиргоонд Chrome-г системийн өгөгдмөл хөтөч болгон тохируулахын тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, iOS-н тохиргоонд WEB3 DNA Browser-г системийн өгөгдмөл хөтөч болгон тохируулахын тулд эхлээд tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="9096679202588811390">ТВ шоу, хөтөлбөр</translation>
 <translation id="9101630580131696064">Гарах цаасны тавиур 1</translation>
 <translation id="9102081333385212048">Таны хуулсан эсвэл зөөсөн файлуудыг дүн шинжилгээ хийлгэхээр Google Cloud эсвэл гуравдагч тал руу илгээдэг. Жишээ нь тэдгээрийг эмзэг өгөгдөл эсвэл хортой программтай эсэхийг скан хийж магадгүй.</translation>
 <translation id="9103537084693478942">Видео программ хангамж</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> ихэвчлэн таны мэдээллийг хамгаалах зорилгоор шифр ашигладаг. Энэ удаад Chromium <ph name="SITE" />-тай холбогдохыг оролдоход тус веб сайтаас хэвийн бус, буруу өгөгдөл илгээлээ. Халдагч <ph name="SITE" /> юм шиг дүр үзүүлж байгаа, эсвэл Wi-Fi-д нэвтрэх дэлгэц холболтод саад учруулсан байж болзошгүй. Chromium ямар нэгэн өгөгдөл солилцохоос өмнө холболтыг зогсоосон тул таны мэдээлэл аюулгүй.</translation>
+
 <translation id="9106062320799175032">Тооцооны хаяг нэмэх</translation>
 <translation id="9107467864910557787"><ph name="MANAGER" /> таны хөтчийг удирддаг</translation>
 <translation id="91108059142052966">Администраторын бодлого нь нууцлалтай контент харагдах үед <ph name="APPLICATION_TITLE" />-тай дэлгэц хуваалцахыг идэвхгүй болгоно</translation>
 <translation id="9114524666733003316">Картыг баталгаажуулж байна...</translation>
-<translation id="9114581008513152754">Энэ хөтчийг компани эсвэл бусад байгууллагаас удирддаггүй. Энэ төхөөрөмж дээрх үйл ажиллагааг Chrome-с гадуур удирддаг байж болзошгүй. <ph name="BEGIN_LINK" />Нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Шинэхэн</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />. Аяллаа үргэлжлүүлэх болон Chrome-н түүхдээ хамааралтай үйл ажиллагааг харахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />. Аяллаа үргэлжлүүлэх болон WEB3 DNA Browser-н түүхдээ хамааралтай үйл ажиллагааг харахын тулд Tab, дараа нь Enter дээр дарна уу</translation>
 <translation id="9119042192571987207">Байршуулсан</translation>
 <translation id="9122954576417194280">Бараа бүтээгдэхүүн, фьючерс арилжаа</translation>
 <translation id="9128016270925453879">Бодлогуудыг ачаалсан</translation>
@@ -3162,7 +3152,7 @@
 <translation id="9148088599418889305">Тээвэрлэлтийн арга сонгох</translation>
 <translation id="9148507642005240123">&amp; Засварлах үйлдлийг буцаах</translation>
 <translation id="9150045010208374699">Та камераа ашиглана уу</translation>
-<translation id="9150685862434908345">Таны администратор таны хөтчийн тохируулгыг алсаас өөрчилж болно. Энэ төхөөрөмж дээрх үйл ажиллагааг мөн Chrome-с гадуур удирддаг байж болзошгүй. <ph name="BEGIN_LINK" />Нэмэлт мэдээлэл авах<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Шинэчилсэн</translation>
 <translation id="9155211586651734179">Аудионы нэмэлт хэрэгслийг залгасан</translation>
 <translation id="9157595877708044936">Тохиргоог хийж байна ...</translation>
@@ -3177,7 +3167,7 @@
 <translation id="917450738466192189">Серверийн гэрчилгээ хүчингүй байна.</translation>
 <translation id="9174623988242579721">Захиалгат, өндөр хүчин чадалтай тээврийн хэрэгсэл</translation>
 <translation id="9174917557437862841">Таб сэлгэх товчлуур, энэ таб руу сэлгэхийн тулд Enter дээр дарна уу</translation>
-<translation id="9179703756951298733">Chrome-н тохиргоон дээрээс төлбөр, зээлийн картын мэдээллээ удирдах</translation>
+<translation id="9179703756951298733">WEB3 DNA Browser-н тохиргоон дээрээс төлбөр, зээлийн картын мэдээллээ удирдах</translation>
 <translation id="9179907736442194268">Аль нэг сайт дээр үнэ буурсан тохиолдолд имэйлээр илгээх сэрэмжлүүлэг аваарай</translation>
 <translation id="9183302530794969518">Google Докс</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> нь дэмжигдээгүй протоколыг ашигладаг.</translation>
@@ -3188,12 +3178,12 @@
 <translation id="920511547311754821">Кодоо олж чадахгүй байна уу? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Өгүүллийг нэмэх явц амжилтгүй боллоо.</translation>
 <translation id="9213433120051936369">Харагдах байдлыг өөрчлөх</translation>
-<translation id="9215416866750762878">Апп нь Chrome-г энэ сайтад аюулгүй холбогдохыг зогсоож байна</translation>
+<translation id="717994082075351832">Апп нь WEB3 DNA Browser-г энэ сайтад аюулгүй холбогдохыг зогсоож байна</translation>
 <translation id="9219103736887031265">Зураг</translation>
-<translation id="922152298093051471">Chrome-г өөрчлөх</translation>
+<translation id="922152298093051471">WEB3 DNA Browser-г өөрчлөх</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">МАЯГТИЙГ ЦЭВЭРЛЭХ</translation>
-<translation id="936602727769022409">Та Google Бүртгэлийнхээ хандалтыг алдаж болзошгүй. Chromium таныг нууц үгээ одоо солихыг зөвлөж байна. Танаас нэвтрэхийг шаардана.</translation>
+
 <translation id="937457230470581909">Амьтны хүрээлэн, аквариум болон дархан цаазат газар</translation>
 <translation id="939736085109172342">Шинэ хавтас</translation>
 <translation id="940053046584497293">Аялал, тээвэр</translation>

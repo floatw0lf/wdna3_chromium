@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">অতিরিক্ত বিবরণ দিন</translation>
 <translation id="1019413721762100891">বন্ধ করা আছে</translation>
 <translation id="1021110881106174305">এই কার্ডগুলি গ্রহণ করা হয়</translation>
-<translation id="1021753677514347426">আপনার ডিভাইসে আপনি বা অন্য কেউ একটি সার্টিফিকেট ইনস্টল করায় এই সমস্যা দেখা দিচ্ছে। এই সার্টিফিকেট ব্যবহার করে নেটওয়ার্ক ইন্টারসেপ্ট এবং মনিটর করা হয়, তবে Chromium এটিকে বিশ্বস্ত বলে মনে করে না। কোনও স্কুলের বা কোম্পানি নেটওয়ার্কের মতো কিছু নেটওয়ার্ক মনিটর করার প্রয়োজন হলেও, Chromium দেখে নেয় যে, আপনি যদি এটি বন্ধ করতে নাও পারেন, কী ঘটছে সেই সম্পর্কে যেন জানতে পারেন। ওয়েবে অ্যাক্সেস আছে, এমন যেকোনও ব্রাউজার বা অ্যাপের উপর নজর রাখা হতে পারে।</translation>
+<translation id="6843750610117699926">আপনার ডিভাইসে আপনি বা অন্য কেউ একটি সার্টিফিকেট ইনস্টল করায় এই সমস্যা দেখা দিচ্ছে। এই সার্টিফিকেট ব্যবহার করে নেটওয়ার্ক ইন্টারসেপ্ট এবং মনিটর করা হয়, তবে WEB3 DNA Browser এটিকে বিশ্বস্ত বলে মনে করে না। কোনও স্কুলের বা কোম্পানি নেটওয়ার্কের মতো কিছু নেটওয়ার্ক মনিটর করার প্রয়োজন হলেও, WEB3 DNA Browser দেখে নেয় যে, আপনি যদি এটি বন্ধ করতে নাও পারেন, কী ঘটছে সেই সম্পর্কে যেন জানতে পারেন। ওয়েবে অ্যাক্সেস আছে, এমন যেকোনও ব্রাউজার বা অ্যাপের উপর নজর রাখা হতে পারে।</translation>
 <translation id="1024111578869940408">আক্রমণকারীরা কখনও কখনও ওয়েব অ্যাড্রেসে ছোট ও সহজে দেখা যায় না এমন পরিবর্তন করে কোনও সাইট নকল করে নেয়।</translation>
 <translation id="1028781062521375153">বিবরণ দেখুন</translation>
 <translation id="1030706264415084469"><ph name="URL" /> আপনার ডিভাইসে স্থায়ীভাবে বেশি ডেটা স্টোর করে রাখতে চায়</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;যোগ করাকে পূর্বাবস্থায় ফেরান</translation>
 <translation id="1056663316309890343">ফটোতে কাজে লাগে এমন সফ্টওয়্যার</translation>
 <translation id="1056898198331236512">সতর্কতা</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-এ ডাইনো রান গেম খেলতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-এ ডাইনো রান গেম খেলতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
 <translation id="1058479211578257048">কার্ড সেভ করা হচ্ছে...</translation>
 <translation id="1060320201901229167">এনভেলপ কাকু ৫</translation>
 <translation id="10614374240317010">কখনও সংরক্ষিত হয়নি</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">কার্ডে নাম যোগ করুন</translation>
 <translation id="1089439967362294234">পাসওয়ার্ড পরিবর্তন করুন</translation>
 <translation id="1096545575934602868">এই ফিল্ডে <ph name="MAX_ITEMS_LIMIT" />টির বেশি এন্ট্রি লেখা যাবে না। অন্য সব এন্ট্রি বাতিল করা হবে।</translation>
-<translation id="1100782917270858593">'আপনার ব্রাউজার অ্যাক্টিভিটির আবার চালু করুন' বোতাম, ব্রাউজার অ্যাক্টিভিটি আবার চালু করতে এবং Chrome ইতিহাসে প্রাসঙ্গিক অ্যাক্টিভিটি দেখতে Enter প্রেস করুন</translation>
+<translation id="3985486898664025513">'আপনার ব্রাউজার অ্যাক্টিভিটির আবার চালু করুন' বোতাম, ব্রাউজার অ্যাক্টিভিটি আবার চালু করতে এবং WEB3 DNA Browser ইতিহাসে প্রাসঙ্গিক অ্যাক্টিভিটি দেখতে Enter প্রেস করুন</translation>
 <translation id="1101672080107056897">সমস্যা সংক্রান্ত অ্যাকশন</translation>
 <translation id="1103523840287552314">সর্বদা অনুবাদ করুন <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">আপনার প্রতিষ্ঠানের নয় এমন একটি সাইটে আপনার পাসওয়ার্ড লিখেছেন। আপনার অ্যাকাউন্টের সুরক্ষার জন্য অন্যান্য অ্যাপ এবং সাইটগুলিতে আপনার এই পাসওয়ার্ডটি ব্যবহার করবেন না।</translation>
 <translation id="1257553931232494454">জুম লেভেল</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, আপনার Chrome সেটিংস ম্যানেজ করতে Tab প্রেস করে Enter প্রেস করুন</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, আপনার WEB3 DNA Browser সেটিংস ম্যানেজ করতে Tab প্রেস করে Enter প্রেস করুন</translation>
 <translation id="1263231323834454256">পড়ার তালিকা</translation>
 <translation id="1264309058268477500">বিকল্প</translation>
 <translation id="1264974993859112054">খেলাধূলা</translation>
@@ -131,7 +131,7 @@
 <translation id="1285320974508926690">কখনই এই সাইটটিকে অনুবাদ করবেন না</translation>
 <translation id="1288548991597756084">নিরাপদে কার্ড সেভ করুন</translation>
 <translation id="1292571435393770077">ট্রে ১৬</translation>
-<translation id="1292701964462482250">"আপনার কম্পিউটারের সফ্টওয়্যার Chrome-কে নিরাপদে ইন্টারনেটে কানেক্ট করতে বাধা দিচ্ছে" (শুধুমাত্র Windows কম্পিউটারের জন্য)</translation>
+<translation id="3610512443326918645">"আপনার কম্পিউটারের সফ্টওয়্যার WEB3 DNA Browser-কে নিরাপদে ইন্টারনেটে কানেক্ট করতে বাধা দিচ্ছে" (শুধুমাত্র Windows কম্পিউটারের জন্য)</translation>
 <translation id="1293797321964802402">এনভেলপ ৯ x ১১ ইঞ্চি</translation>
 <translation id="1294154142200295408">কম্যান্ড-লাইন ভেরিয়েশন</translation>
 <translation id="129553762522093515">সম্প্রতি বন্ধ হয়েছে</translation>
@@ -150,7 +150,7 @@
 <translation id="1323433172918577554">আরও দেখুন</translation>
 <translation id="132390688737681464">অ্যাড্রেসগুলি পূরণ করে সেভ করুন</translation>
 <translation id="1330449323196174374">বাঁদিকে গেট ফোল্ড</translation>
-<translation id="1333745675627230582">Chrome ডাইনো গেম খেলুন</translation>
+<translation id="6227572462599550594">WEB3 DNA Browser ডাইনো গেম খেলুন</translation>
 <translation id="1333989956347591814">এগুলিতে আপনার অ্যাক্টিভিটি <ph name="BEGIN_EMPHASIS" />এখনও দেখা যেতে পারে<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />যে ওয়েবসাইট আপনি দেখেছেন
@@ -223,7 +223,7 @@
 <translation id="1483493594462132177">পাঠান</translation>
 <translation id="1484290072879560759">শিপিং ঠিকানা বেছে নিন</translation>
 <translation id="1492194039220927094">নীতি সংক্রান্ত পুশ:</translation>
-<translation id="149293076951187737">অআপনি সমস্ত Chrome ছদ্মবেশী ট্যাব বন্ধ করলে, এই ডিভাইস থেকে সেই ট্যাবে অ্যাক্টিভিটি মুছে যাবে:
+<translation id="3175654283800723944">অআপনি সমস্ত WEB3 DNA Browser ছদ্মবেশী ট্যাব বন্ধ করলে, এই ডিভাইস থেকে সেই ট্যাবে অ্যাক্টিভিটি মুছে যাবে:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />ব্রাউজিং অ্যাক্টিভিটি<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />সার্চ ইতিহাস<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@
 <translation id="154408704832528245">ডেলিভারি ঠিকানা বেছে নিন</translation>
 <translation id="1549470594296187301">এই বৈশিষ্ট্যটি ব্যবহার করার জন্য জাভাস্ক্রিপ্ট চালু করা প্রয়োজন।</translation>
 <translation id="1551884710160394169">ফ্রিওয়্যার ও শেয়ারওয়্যার</translation>
-<translation id="1553358976309200471">Chrome আপডেট করুন</translation>
+<translation id="1553358976309200471">WEB3 DNA Browser আপডেট করুন</translation>
 <translation id="1555130319947370107">নীল</translation>
 <translation id="1559447966090556585">বিজ্ঞপ্তি পেতে চান?</translation>
 <translation id="1559528461873125649">এমন কোন ফাইল বা ডিরেক্টরি নেই</translation>
@@ -263,7 +263,7 @@
 <translation id="156703335097561114">নেটওয়ার্কিং তথ্য যেমন ঠিকানা, ইন্টারফেস কনফিগারেশন এবং কানেকশন কোয়ালিটি</translation>
 <translation id="1567040042588613346">এই নীতি আশানুরূপ কাজ করছে। আসলে অন্য একটি জায়গাতে একই ধরনের মান সেট করা হয়েছে এবং সেই মানের জায়গাতে এই নীতি প্রয়োগ করা হয়।</translation>
 <translation id="1569487616857761740">মেয়াদ শেষ হওয়ার তারিখ লিখুন</translation>
-<translation id="1569694109004336106">Google Chrome পাসওয়ার্ড পূরণ করার জন্য Windows Hello চালু করার চেষ্টা করছে।</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser পাসওয়ার্ড পূরণ করার জন্য Windows Hello চালু করার চেষ্টা করছে।</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> ইঞ্চি</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">এই ওয়েবপৃষ্ঠাটি দেখানোর সময় কোনো সমস্যা হয়েছে।</translation>
@@ -273,7 +273,7 @@
 <translation id="1594030484168838125">বেছে নিন</translation>
 <translation id="1596296697375291157">থ্রিলার, ক্রাইম ও রহস্যমূলক সিনেমা</translation>
 <translation id="1599199147673445968">নতুন কার্ড? <ph name="BEGIN_LINK" />কার্ডের বিবরণ লিখুন<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Chrome-এ ডাইনো রান গেম খেলুন</translation>
+<translation id="160851722280695521">WEB3 DNA Browser-এ ডাইনো রান গেম খেলুন</translation>
 <translation id="161042844686301425">নীলাভ</translation>
 <translation id="1611101756749861742">Second Roll</translation>
 <translation id="1615402009686901181">কোনও গোপনীয় কন্টেন্ট দেখা গেলে অ্যাডমিনিস্ট্রেটরের সেট করা নীতি অনুযায়ী স্ক্রিন ক্যাপচার করার সুবিধা বন্ধ করে দেওয়া হয়</translation>
@@ -293,13 +293,13 @@
 <translation id="1642410292376109062">'Google পাসওয়ার্ড পরিবর্তন করুন' বোতাম, আপনার Google অ্যাকাউন্টের পাসওয়ার্ড পরিবর্তন করতে Enter প্রেস করুন</translation>
 <translation id="1644574205037202324">ইতিহাস</translation>
 <translation id="1645368109819982629">অসমর্থিত প্রোটোকল</translation>
-<translation id="1650602712345345441">আপনার Chrome সেটিংস ম্যানেজ করুন</translation>
+<translation id="1650602712345345441">আপনার WEB3 DNA Browser সেটিংস ম্যানেজ করুন</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">পৃষ্ঠাটি যাতে সহজপাঠ্য হয়, তার জন্য Chrome এটিকে সহজ করে তুলেছে। একটি সুরক্ষিত কানেকশন ব্যবহার করে Chrome আবার মূল পৃষ্ঠায় ফিরে এসেছে।</translation>
+<translation id="5043029585940149901">পৃষ্ঠাটি যাতে সহজপাঠ্য হয়, তার জন্য WEB3 DNA Browser এটিকে সহজ করে তুলেছে। একটি সুরক্ষিত কানেকশন ব্যবহার করে WEB3 DNA Browser আবার মূল পৃষ্ঠায় ফিরে এসেছে।</translation>
 <translation id="1656489000284462475">তুলে নিন</translation>
 <translation id="1658918301167915956">ব্লুটুথ ডিভাইস</translation>
 <translation id="1662550410081243962">পেমেন্টের পদ্ধতিগুলি পূরণ করে সেভ করুন</translation>
-<translation id="1663943134801823270">Chrome থেকে কার্ড এবং ঠিকানাগুলি এসেছে। আপনি <ph name="BEGIN_LINK" />সেটিংস<ph name="END_LINK" /> এ এগুলি পরিচালনা করতে পারবেন।</translation>
+<translation id="716145566107023410">WEB3 DNA Browser থেকে কার্ড এবং ঠিকানাগুলি এসেছে। আপনি <ph name="BEGIN_LINK" />সেটিংস<ph name="END_LINK" /> এ এগুলি পরিচালনা করতে পারবেন।</translation>
 <translation id="1671391448414634642">এখন থেকে <ph name="SOURCE_LANGUAGE" /> ভাষার পৃষ্ঠা <ph name="TARGET_LANGUAGE" /> ভাষায় অনুবাদ করা হবে।</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> থেকে <ph name="TARGET_LANGUAGE" />-এ</translation>
 <translation id="1682696192498422849">আগে ছোট প্রান্ত</translation>
@@ -347,7 +347,7 @@
 <translation id="1757773103848038814">Monospace ফন্ট</translation>
 <translation id="1763864636252898013">এই সার্ভার প্রমাণ করতে পারেনি যে এটি <ph name="DOMAIN" />; এর নিরাপত্তা সার্টিফিকেটটি আপনার ডিভােইসের নিকট বিশ্বাসযোগ্য নয়। কোনো ভুল কনফিগারেশনের কারণে অথবা কোনো আক্রমণকারী আপনার সংযোগ মাঝপথে আটকে দিচ্ছে বলে এমনটা হতে পারে।</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Windows নেটওয়ার্ক ডায়গনিস্টিক্স চালিয়ে দেখুন<ph name="END_LINK" />।</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Chromium-এ ছদ্মবেশী মোডের বিষয়ে আরও জানুন<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />WEB3 DNA Browser-এ ছদ্মবেশী মোডের বিষয়ে আরও জানুন<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">আপনার খোলা ট্যাবগুলি এখানে দেখা যাবে</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -399,11 +399,11 @@
 <translation id="1919526244108283799">৪০০ x ৬০০ মিমি</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{কিছুই নয়}=1{১টি সাইট}one{#টি সাইট}other{#টি সাইট}}</translation>
 <translation id="1924727005275031552">নতুন</translation>
-<translation id="1927439593081478069">'Chrome নিরাপত্তা সংক্রান্ত পরীক্ষা চালান' বোতাম, Chrome সেটিংসে নিরাপত্তা সংক্রান্ত পরীক্ষা চালাতে Enter কী প্রেস করুন</translation>
+<translation id="1927439593081478069">'WEB3 DNA Browser নিরাপত্তা সংক্রান্ত পরীক্ষা চালান' বোতাম, WEB3 DNA Browser সেটিংসে নিরাপত্তা সংক্রান্ত পরীক্ষা চালাতে Enter কী প্রেস করুন</translation>
 <translation id="1935995810530254458">যেকোনওভাবে কপি করুন</translation>
 <translation id="1939175642807587452">বিজ্ঞপ্তি পাঠাতে অনুমতি চাইতে পারে</translation>
 <translation id="1943994668912612445">ডিজাইন</translation>
-<translation id="1945968466830820669">আপনি নিজের প্রতিষ্ঠানের অ্যাকাউন্টের অ্যাক্সেস হারাতে পারেন অথবা আপনার পরিচয় চুরি হয়ে যেতে পারে। Chromium এখনই আপনার পাসওয়ার্ড পরিবর্তন করার আর্জি জানাচ্ছে।</translation>
+<translation id="5087943717045213809">আপনি নিজের প্রতিষ্ঠানের অ্যাকাউন্টের অ্যাক্সেস হারাতে পারেন অথবা আপনার পরিচয় চুরি হয়ে যেতে পারে। WEB3 DNA Browser এখনই আপনার পাসওয়ার্ড পরিবর্তন করার আর্জি জানাচ্ছে।</translation>
 <translation id="1946849748901605102">১২ x ১৫ ইঞ্চি</translation>
 <translation id="1947454675006758438">উপরের ডানদিকে স্টেপল করুন</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -426,8 +426,8 @@
 <translation id="2001146170449793414">{COUNT,plural, =1{এবং আরও ১টি}one{এবং আরও #টি}other{এবং আরও #টি}}</translation>
 <translation id="2003709556000175978">আপনার পাসওয়ার্ড রিসেট করুন</translation>
 <translation id="2003775180883135320">উপরে কোয়াড পাঞ্চ</translation>
-<translation id="201174227998721785">Chrome সেটিংসে বিভিন্ন সাইটের স্টোর করা ডেটা ও অনুমতি ম্যানেজ করুন</translation>
-<translation id="2019607688127825327">'অ্যাক্সেসিবিলিটি সেটিংস ম্যানেজ করুন' বোতাম, Chrome সেটিংস থেকে আপনার অ্যাক্সেসিবিলিটি টুল পছন্দ মতো বেছে নিতে Enter প্রেস করুন</translation>
+<translation id="201174227998721785">WEB3 DNA Browser সেটিংসে বিভিন্ন সাইটের স্টোর করা ডেটা ও অনুমতি ম্যানেজ করুন</translation>
+<translation id="2019607688127825327">'অ্যাক্সেসিবিলিটি সেটিংস ম্যানেজ করুন' বোতাম, WEB3 DNA Browser সেটিংস থেকে আপনার অ্যাক্সেসিবিলিটি টুল পছন্দ মতো বেছে নিতে Enter প্রেস করুন</translation>
 <translation id="202224654587969958">১২ x ১৯ ইঞ্চি</translation>
 <translation id="2025115093177348061">অগমেন্টেড রিয়েলিটি</translation>
 <translation id="2025186561304664664">অটো কনফিগার করতে প্রক্সি সেট করা হয়৷</translation>
@@ -444,7 +444,7 @@
 <translation id="2048261947532620704">পৃষ্ঠাটি অনুবাদ করা হচ্ছে</translation>
 <translation id="205212645995975601">বার্বিকিউ ও গ্রিলিং</translation>
 <translation id="2053111141626950936"><ph name="LANGUAGE" /> ভাষার পৃষ্ঠা অনুবাদ করা হবে না।</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{এই কন্ট্রোল চালু এবং স্ট্যাটাস অ্যাক্টিভ থাকলে আপনার সাম্প্রতিক ব্রাউজিং-এর ইতিহাস, আরও বড় কোন গ্রুপ বা 'দল'-এর সাথে সবচেয়ে বেশি মেলে, 'Chrome' তা নির্ধারণ করে। বিজ্ঞাপনদাতারা গ্রুপের জন্য বিজ্ঞাপন বেছে নিতে পারেন এবং আপনার ব্রাউজিং-এর ইতিহাস ডিভাইসে ব্যক্তিগত রাখা হয়। আপনার গ্রুপ প্রত্যেকদিন আপডেট করা হয়।}=1{এই কন্ট্রোল চালু এবং স্ট্যাটাস অ্যাক্টিভ থাকলে আপনার সাম্প্রতিক ব্রাউজিং-এর ইতিহাস, আরও বড় কোন গ্রুপ বা 'দল'-এর সাথে সবচেয়ে বেশি মেলে, 'Chrome' তা নির্ধারণ করে। বিজ্ঞাপনদাতারা গ্রুপের জন্য বিজ্ঞাপন বেছে নিতে পারেন এবং আপনার ব্রাউজিং-এর ইতিহাস ডিভাইসে ব্যক্তিগত রাখা হয়। আপনার গ্রুপ প্রত্যেকদিন আপডেট করা হয়।}one{এই কন্ট্রোল চালু এবং স্ট্যাটাস অ্যাক্টিভ থাকলে আপনার সাম্প্রতিক ব্রাউজিং-এর ইতিহাস, আরও বড় কোন গ্রুপ বা 'দল'-এর সাথে সবচেয়ে বেশি মেলে, 'Chrome' তা নির্ধারণ করে। বিজ্ঞাপনদাতারা গ্রুপের জন্য বিজ্ঞাপন বেছে নিতে পারেন এবং আপনার ব্রাউজিং-এর ইতিহাস ডিভাইসে ব্যক্তিগত রাখা হয়। আপনার গ্রুপ প্রতি {NUM_DAYS} দিনে আপডেট করা হয়।}other{এই কন্ট্রোল চালু এবং স্ট্যাটাস অ্যাক্টিভ থাকলে আপনার সাম্প্রতিক ব্রাউজিং-এর ইতিহাস, আরও বড় কোন গ্রুপ বা 'দল'-এর সাথে সবচেয়ে বেশি মেলে, 'Chrome' তা নির্ধারণ করে। বিজ্ঞাপনদাতারা গ্রুপের জন্য বিজ্ঞাপন বেছে নিতে পারেন এবং আপনার ব্রাউজিং-এর ইতিহাস ডিভাইসে ব্যক্তিগত রাখা হয়। আপনার গ্রুপ প্রতি {NUM_DAYS} দিনে আপডেট করা হয়।}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{এই কন্ট্রোল চালু এবং স্ট্যাটাস অ্যাক্টিভ থাকলে আপনার সাম্প্রতিক ব্রাউজিং-এর ইতিহাস, আরও বড় কোন গ্রুপ বা 'দল'-এর সাথে সবচেয়ে বেশি মেলে, 'WEB3 DNA Browser' তা নির্ধারণ করে। বিজ্ঞাপনদাতারা গ্রুপের জন্য বিজ্ঞাপন বেছে নিতে পারেন এবং আপনার ব্রাউজিং-এর ইতিহাস ডিভাইসে ব্যক্তিগত রাখা হয়। আপনার গ্রুপ প্রত্যেকদিন আপডেট করা হয়।}=1{এই কন্ট্রোল চালু এবং স্ট্যাটাস অ্যাক্টিভ থাকলে আপনার সাম্প্রতিক ব্রাউজিং-এর ইতিহাস, আরও বড় কোন গ্রুপ বা 'দল'-এর সাথে সবচেয়ে বেশি মেলে, 'WEB3 DNA Browser' তা নির্ধারণ করে। বিজ্ঞাপনদাতারা গ্রুপের জন্য বিজ্ঞাপন বেছে নিতে পারেন এবং আপনার ব্রাউজিং-এর ইতিহাস ডিভাইসে ব্যক্তিগত রাখা হয়। আপনার গ্রুপ প্রত্যেকদিন আপডেট করা হয়।}one{এই কন্ট্রোল চালু এবং স্ট্যাটাস অ্যাক্টিভ থাকলে আপনার সাম্প্রতিক ব্রাউজিং-এর ইতিহাস, আরও বড় কোন গ্রুপ বা 'দল'-এর সাথে সবচেয়ে বেশি মেলে, 'WEB3 DNA Browser' তা নির্ধারণ করে। বিজ্ঞাপনদাতারা গ্রুপের জন্য বিজ্ঞাপন বেছে নিতে পারেন এবং আপনার ব্রাউজিং-এর ইতিহাস ডিভাইসে ব্যক্তিগত রাখা হয়। আপনার গ্রুপ প্রতি {NUM_DAYS} দিনে আপডেট করা হয়।}other{এই কন্ট্রোল চালু এবং স্ট্যাটাস অ্যাক্টিভ থাকলে আপনার সাম্প্রতিক ব্রাউজিং-এর ইতিহাস, আরও বড় কোন গ্রুপ বা 'দল'-এর সাথে সবচেয়ে বেশি মেলে, 'WEB3 DNA Browser' তা নির্ধারণ করে। বিজ্ঞাপনদাতারা গ্রুপের জন্য বিজ্ঞাপন বেছে নিতে পারেন এবং আপনার ব্রাউজিং-এর ইতিহাস ডিভাইসে ব্যক্তিগত রাখা হয়। আপনার গ্রুপ প্রতি {NUM_DAYS} দিনে আপডেট করা হয়।}}</translation>
 <translation id="2059202684901022309">২২ x ৩৪ ইঞ্চি</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{১টি প্রস্তাব}one{#টি প্রস্তাব}other{#টি প্রস্তাব}}</translation>
 <translation id="2066915425250589881">মুছে ফেলার অনুরোধ</translation>
@@ -456,9 +456,9 @@
 <translation id="20817612488360358">সিস্টেম প্রক্সি সেটিংস ব্যবহার করার জন্য সেট আছে কিন্তু একটি সুনির্দিষ্ট প্রক্সি কনফিগারেশনও নির্দিষ্ট করা আছে৷</translation>
 <translation id="2082238445998314030"><ph name="TOTAL_RESULTS" /> এর মধ্যে <ph name="RESULT_NUMBER" /> টি ফলাফল</translation>
 <translation id="2085876078937250610">সেভ করুন…</translation>
-<translation id="2088086323192747268">সিঙ্ক করার বোতাম ম্যানেজ করুন, Chrome সেটিংসে আপনি কী ধরনের তথ্য সিঙ্ক করবেন, তা ম্যানেজ করতে Enter প্রেস করুন</translation>
+<translation id="2088086323192747268">সিঙ্ক করার বোতাম ম্যানেজ করুন, WEB3 DNA Browser সেটিংসে আপনি কী ধরনের তথ্য সিঙ্ক করবেন, তা ম্যানেজ করতে Enter প্রেস করুন</translation>
 <translation id="2091887806945687916">আওয়াজ</translation>
-<translation id="2093982008204312032">Google Chrome পাসওয়ার্ড পূরণ করার জন্য Windows Hello বন্ধ করার চেষ্টা করছে।</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser পাসওয়ার্ড পূরণ করার জন্য Windows Hello বন্ধ করার চেষ্টা করছে।</translation>
 <translation id="2094505752054353250">ডোমেন মেলেনি</translation>
 <translation id="2099652385553570808">বাঁদিকে ট্রিপল স্টেপল</translation>
 <translation id="2101225219012730419">ভার্সন:</translation>
@@ -541,7 +541,7 @@
 <translation id="2292556288342944218">আপনার ইন্টারনেট অ্যাক্সেস অবরুদ্ধ করা হয়েছে</translation>
 <translation id="2293443924986248631">এটি চালু করা থাকলে যেসব কুকি ওয়েব জুড়ে আপনার অ্যাক্টিভিটি ট্র্যাক করে, সাইট সেগুলি ব্যবহার করতে পারবে না। কিছু কিছু সাইটের ফিচারগুলি কাজ নাও করতে পারে।</translation>
 <translation id="2295290966866883927">আপনি যেসব পৃষ্ঠাতে ভিজিট করেন, সেগুলির ইউআরএল বিশ্লেষণ করার জন্য Google Cloud-এ বা অন্য থার্ড-পার্টির কাছে পাঠানো হয়। যেমন, সেগুলিতে কোনও ক্ষতিকর ওয়েবসাইট আছে কিনা তা জানার জন্য স্ক্যান করা হতে পারে।</translation>
-<translation id="2298855485018661510">'কুকি' বোতাম ম্যানেজ করুন, Chrome সেটিংসে আপনার কুকি সম্পর্কিত পছন্দগুলি ম্যানেজ করতে Enter প্রেস করুন</translation>
+<translation id="2298855485018661510">'কুকি' বোতাম ম্যানেজ করুন, WEB3 DNA Browser সেটিংসে আপনার কুকি সম্পর্কিত পছন্দগুলি ম্যানেজ করতে Enter প্রেস করুন</translation>
 <translation id="2300306941146563769">আপলোড করা হয়নি</translation>
 <translation id="2316159751672436664">ChromeOS সেটিংস থেকে আপনার পছন্দ মতো অ্যাক্সেসিবিলিটি টুল বেছে নিন</translation>
 <translation id="2316887270356262533">১ MB-এর চেয়ে কম জায়গা খালি করে। পরের বার ভিজিটের সময় কিছু সাইট লোড হতে দেরি হতে পারে।</translation>
@@ -569,9 +569,9 @@
 <translation id="236340516568226369">টগল মেনু উইন্ডোর সাইজ পরিবর্তন করুন</translation>
 <translation id="2367567093518048410">স্তর</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Chrome সেটিংস থেকে আপনার অ্যাক্সেসিবিলিটি টুল পছন্দমতো তৈরি করুন</translation>
+<translation id="2383455408879745299">WEB3 DNA Browser সেটিংস থেকে আপনার অ্যাক্সেসিবিলিটি টুল পছন্দমতো তৈরি করুন</translation>
 <translation id="2384307209577226199">এন্টারপ্রাইজ ডিফল্ট</translation>
-<translation id="2385809941344967209">Chrome সেটিংস থেকে ব্রাউজার আপডেট করুন</translation>
+<translation id="2385809941344967209">WEB3 DNA Browser সেটিংস থেকে ব্রাউজার আপডেট করুন</translation>
 <translation id="2386255080630008482">সার্ভারের সার্টিফিকেটটি প্রত্যাহার করা হয়েছে৷</translation>
 <translation id="239293030466334554">পাল্টানো যায়</translation>
 <translation id="2392959068659972793">কোনো মান সেট করা নেই এমন নীতিগুলি দেখান</translation>
@@ -590,7 +590,7 @@
 <translation id="2463739503403862330">পূরণ করুন</translation>
 <translation id="2465655957518002998">ডেলিভারি পদ্ধতি বেছে নিন</translation>
 <translation id="2465688316154986572">স্টেপল করুন</translation>
-<translation id="2465914000209955735">Chrome-এ ডাউনলোড করা ফাইল ম্যানেজ করুন</translation>
+<translation id="2465914000209955735">WEB3 DNA Browser-এ ডাউনলোড করা ফাইল ম্যানেজ করুন</translation>
 <translation id="2466004615675155314">ওয়েব থেকে তথ্য দেখুন</translation>
 <translation id="2467272921457885625">CPU/RAM ব্যবহারের ইতিহাসের মতো ডিভাইসের হার্ডওয়্যার স্পেসিফিকেশন ও পরিসংখ্যান</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />নেটওয়ার্ক ডায়গনিস্টিক্স চালান<ph name="END_LINK" /></translation>
@@ -607,7 +607,7 @@
 <translation id="2505268675989099013">অ্যাকাউন্ট সুরক্ষিত রাখা</translation>
 <translation id="2509167091171468975">খাদ্য এবং মুদিখানা সংক্রান্ত রিটেলার</translation>
 <translation id="2512101340618156538">অনুমতি নেই (ডিফল্ট)</translation>
-<translation id="2512413427717747692">Chrome-কে ডিফল্ট ব্রাউজার বোতাম হিসেবে সেট করুন, iOS সেটিংসে Chrome-কে সিস্টেমের ডিফল্ট ব্রাউজার হিসেবে সেট করতে Enter কী প্রেস করুন</translation>
+<translation id="2512413427717747692">WEB3 DNA Browser-কে ডিফল্ট ব্রাউজার বোতাম হিসেবে সেট করুন, iOS সেটিংসে WEB3 DNA Browser-কে সিস্টেমের ডিফল্ট ব্রাউজার হিসেবে সেট করতে Enter কী প্রেস করুন</translation>
 <translation id="2515629240566999685">আপনার এলাকায় সংকেত পরীক্ষা করে দেখুন</translation>
 <translation id="2515761554693942801"><ph name="PROVIDER_ORIGIN" /> ব্যবহার করে এমন ওয়েবসাইটে টাচ আইডি ব্যবহার করে যাচাই করার বিকল্প বেছে নিয়েছেন। এই পরিষেবা প্রদানকারী আপনার পেমেন্ট পদ্ধতি সম্পর্কে তথ্য স্টোর করে থাকতে পারে যা আপনি <ph name="LINK_TEXT" /> পারেন।</translation>
 <translation id="2521385132275182522">নিচে ডানদিকে স্টেপল করুন</translation>
@@ -624,7 +624,7 @@
 <translation id="2542106216580219892">সার্ফিং</translation>
 <translation id="2544546346215446551">অ্যাডমিনিস্ট্রেটর আপনার ডিভাইস রিস্টার্ট করেছেন</translation>
 <translation id="2544644783021658368">একক ডকুমেন্ট</translation>
-<translation id="254524874071906077">Chrome-কে ডিফল্ট ব্রাউজার সেট করুন</translation>
+<translation id="1319028298140338735">WEB3 DNA Browser-কে ডিফল্ট ব্রাউজার সেট করুন</translation>
 <translation id="2546283357679194313">কুকিজ ও সাইট ডেটা</translation>
 <translation id="2547466893236767989">ওয়েব ডিজাইন ও ডেভেলপমেন্ট</translation>
 <translation id="254947805923345898">নীতির মান সঠিক নয়।</translation>
@@ -639,19 +639,19 @@
 <translation id="2570734079541893434">সেটিংস ম্যানেজ করুন</translation>
 <translation id="2573834589046842510">প্রিন্টিং ও প্রকাশনা</translation>
 <translation id="257674075312929031">গ্রুপ</translation>
-<translation id="2576880857912732701">'নিরাপত্তা সেটিংস' বোতাম ম্যানেজ করুন, Chrome সেটিংসে Safe Browsing ও আরও অনেক কিছু ম্যানেজ করতে, Enter প্রেস করুন</translation>
+<translation id="2576880857912732701">'নিরাপত্তা সেটিংস' বোতাম ম্যানেজ করুন, WEB3 DNA Browser সেটিংসে Safe Browsing ও আরও অনেক কিছু ম্যানেজ করতে, Enter প্রেস করুন</translation>
 <translation id="2586657967955657006">ক্লিপবোর্ড</translation>
 <translation id="2587730715158995865"><ph name="ARTICLE_PUBLISHER" /> থেকে পাওয়া। এটি এবং আরও <ph name="OTHER_ARTICLE_COUNT" />টি গল্প পড়ুন।</translation>
 <translation id="2587841377698384444">ডিরেক্টরি API আইডি:</translation>
 <translation id="2594318783181750337">চটপট ওয়েব ভিউ:</translation>
 <translation id="2595719060046994702">কোনও কোম্পানি বা সংস্থা এই ডিভাইস ও অ্যাকাউন্ট ম্যানেজ করে না।</translation>
-<translation id="2596415276201385844">নিরাপদ নেটওয়ার্ক সংযোগ স্থাপন করতে আপনার ঘড়িকে সঠিকভাবে সেট করতে হবে৷ নিরাপদ সংযোগ স্থাপন করার জন্য নিজেদের শনাক্ত করার জন্য ওয়েবসাইটগুলি যে শংসাপত্রগুলি ব্যবহার করে, সেগুলি শুধুমাত্র নির্দিষ্ট সময়ের জন্য বৈধ থাকে৷ যেহেতু আপনার ডিভাইসের ঘড়িটি ভুল, সেই জন্য Chrome সঠিকভাবে শংসাপত্রগুলি পরীক্ষা করতে পারে না৷</translation>
+<translation id="7968235694092767490">নিরাপদ নেটওয়ার্ক সংযোগ স্থাপন করতে আপনার ঘড়িকে সঠিকভাবে সেট করতে হবে৷ নিরাপদ সংযোগ স্থাপন করার জন্য নিজেদের শনাক্ত করার জন্য ওয়েবসাইটগুলি যে শংসাপত্রগুলি ব্যবহার করে, সেগুলি শুধুমাত্র নির্দিষ্ট সময়ের জন্য বৈধ থাকে৷ যেহেতু আপনার ডিভাইসের ঘড়িটি ভুল, সেই জন্য WEB3 DNA Browser সঠিকভাবে শংসাপত্রগুলি পরীক্ষা করতে পারে না৷</translation>
 <translation id="2597378329261239068">এই দস্তাবেজটি পাসওয়ার্ড সুরক্ষিত৷  দয়া করে একটি পাসওয়ার্ড লিখুন৷</translation>
 <translation id="259821504105826686">ফটোগ্রাফিক ও ডিজিটাল আর্ট</translation>
 <translation id="2601150049980261779">ভালবাসার সিনেমা</translation>
 <translation id="2604589665489080024">পপ মিউজিক</translation>
 <translation id="2610561535971892504">কপি করতে ক্লিক করুন</translation>
-<translation id="2617988307566202237">এক্ষেত্রে নিচে দেওয়া তথ্য Chrome <ph name="BEGIN_EMPHASIS" />সেভ করবে না<ph name="END_EMPHASIS" />:
+<translation id="6174516088921923215">এক্ষেত্রে নিচে দেওয়া তথ্য WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />সেভ করবে না<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />আপনার ব্রাউজিং ইতিহাস
           <ph name="LIST_ITEM" />কুকি এবং সাইট ডেটা
@@ -659,14 +659,14 @@
         <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">আপনার ঘড়ির সময় অনেকটা এগিয়ে</translation>
 <translation id="262745152991669301">USB ডিভাইসের সাথে কানেক্ট করতে, অনুমতি চাইতে পারে</translation>
-<translation id="2629325967560697240">Chrome-এ সবচেয়ে বেশি সুরক্ষা পেতে, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />উন্নত সুরক্ষা চালু করুন<ph name="END_ENHANCED_PROTECTION_LINK" />।</translation>
+<translation id="9155656925188613813">WEB3 DNA Browser-এ সবচেয়ে বেশি সুরক্ষা পেতে, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />উন্নত সুরক্ষা চালু করুন<ph name="END_ENHANCED_PROTECTION_LINK" />।</translation>
 <translation id="2634124572758952069"><ph name="HOST_NAME" />-এর সার্ভার আইপি অ্যাড্রেস পাওয়া যায়নি।</translation>
 <translation id="2639739919103226564">স্থিতি: </translation>
 <translation id="2643134278432436513">চুলের পরিচর্যা</translation>
 <translation id="2647852283046201479">স্ট্র্যাটেজি গেম</translation>
 <translation id="264810637653812429">উপযুক্ত ডিভাইস খুঁজে পাওয়া যায়নি।</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে আপনার ব্রাউজিং ইতিহাস, কুকি, ক্যাশে ও আরও অনেক কিছু মুছতে প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে আপনার ব্রাউজিং ইতিহাস, কুকি, ক্যাশে ও আরও অনেক কিছু মুছতে প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
 <translation id="2650446666397867134">ফাইলে অ্যাক্সেস অস্বীকৃত হয়েছে</translation>
 <translation id="2653659639078652383">জমা দিন</translation>
 <translation id="2657637947725373811">{0,plural, =1{গোপনীয় ফাইল ট্রান্সফার করবেন?}one{গোপনীয় ফাইল ট্রান্সফার করবেন?}other{গোপনীয় ফাইল ট্রান্সফার করবেন?}}</translation>
@@ -694,11 +694,11 @@
 <translation id="2705137772291741111">এই সাইটের সেভ করা (ক্যাশে করা) কপি পড়া যাবে না।</translation>
 <translation id="2709516037105925701">স্বয়ংপূরণ</translation>
 <translation id="2713444072780614174">সাদা</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে আপনার পেমেন্ট ও ক্রেডিট কার্ডের তথ্য ম্যানেজ করতে প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে আপনার পেমেন্ট ও ক্রেডিট কার্ডের তথ্য ম্যানেজ করতে প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">ফুল-স্ক্রিন থেকে বেরিয়ে আসতে |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| প্রেস করুন</translation>
 <translation id="2721148159707890343">অনুরোধ সফল হয়েছে</translation>
-<translation id="2723669454293168317">Chrome সেটিংস থেকে 'নিরাপত্তা সংক্রান্ত পরীক্ষা' চালান</translation>
+<translation id="2723669454293168317">WEB3 DNA Browser সেটিংস থেকে 'নিরাপত্তা সংক্রান্ত পরীক্ষা' চালান</translation>
 <translation id="2726001110728089263">সাইড ট্রে</translation>
 <translation id="2728127805433021124">একটি দুর্বল স্বাক্ষর অ্যালগোরিদম ব্যবহার করে সার্ভারের সার্টিফিকেটে সাইন করা হয়েছে৷</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />সংযোগের ডায়গনিস্টিক্স চালান<ph name="END_LINK" /></translation>
@@ -738,7 +738,7 @@
 <translation id="287596039013813457">বন্ধুত্বপূর্ণ</translation>
 <translation id="28761159517501904">সিনেমা</translation>
 <translation id="2876489322757410363">এক্সটার্নাল অ্যাপ্লিকেশনের মাধ্যমে পেমেন্ট করার জন্য ছদ্মবেশী মোড ছেড়ে বেরিয়ে আসা হচ্ছে। চালিয়ে যেতে চান?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে আপনার Safe Browsing ও আরও অনেক কিছু ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে আপনার Safe Browsing ও আরও অনেক কিছু ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
 <translation id="2878197950673342043">পোস্টার ফোল্ড</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">কার্ড সেভ করবেন?</translation>
@@ -750,7 +750,7 @@
 <translation id="290376772003165898">পৃষ্ঠাটি <ph name="LANGUAGE" /> ভাষায় নয়?</translation>
 <translation id="2909946352844186028">একটি নেটওয়ার্ক পরিবর্তন শনাক্ত হয়েছে৷</translation>
 <translation id="2911973620368911614">জব অ্যাকাউন্টিং ব্যবহারকারীর আইডি</translation>
-<translation id="2914160345369867329"><ph name="SITE" /> সাধারণত আপনার তথ্য সুরক্ষিত রাখতে এনক্রিপশন ব্যবহার করে। Chrome যখন <ph name="SITE" />-এ কানেক্ট করার চেষ্টা করেছিল, ওয়েবসাইটটি তখন অস্বাভাবিক এবং ভুল ক্রেডেনশিয়াল পাঠিয়েছে। এর কারণ হতে পারে, হয় কোনও হ্যাকার <ph name="SITE" />-এর ছদ্মবেশ ধারণ করেছে অথবা কোনও ওয়াই-ফাই সাইন-ইন স্ক্রিন কানেকশনে বাধা সৃষ্টি করছে। তবে আপনার তথ্য নিরাপদেই আছে, কারণ কোনও ডেটা আদানপ্রদানের আগেই Chrome কানেকশনটি বন্ধ করে দিয়েছে।</translation>
+<translation id="6754677106668042373"><ph name="SITE" /> সাধারণত আপনার তথ্য সুরক্ষিত রাখতে এনক্রিপশন ব্যবহার করে। WEB3 DNA Browser যখন <ph name="SITE" />-এ কানেক্ট করার চেষ্টা করেছিল, ওয়েবসাইটটি তখন অস্বাভাবিক এবং ভুল ক্রেডেনশিয়াল পাঠিয়েছে। এর কারণ হতে পারে, হয় কোনও হ্যাকার <ph name="SITE" />-এর ছদ্মবেশ ধারণ করেছে অথবা কোনও ওয়াই-ফাই সাইন-ইন স্ক্রিন কানেকশনে বাধা সৃষ্টি করছে। তবে আপনার তথ্য নিরাপদেই আছে, কারণ কোনও ডেটা আদানপ্রদানের আগেই WEB3 DNA Browser কানেকশনটি বন্ধ করে দিয়েছে।</translation>
 <translation id="2915068235268646559"><ph name="CRASH_TIME" />-এ হওয়া ক্র্যাশ</translation>
 <translation id="2915496182262110498">পেন্টিং</translation>
 <translation id="2916038427272391327">অন্যান্য প্রোগ্রামগুলি বন্ধ করুন</translation>
@@ -767,7 +767,7 @@
 <translation id="2943895734390379394">যে সময়ে আপলোড করা হয়েছিল:</translation>
 <translation id="2945026002409061480">অনলাইন কমিউনিটি</translation>
 <translation id="2948083400971632585">আপনি সেটিংস পৃষ্ঠা থেকে কানেকশনের জন্য কনফিগার করা যেকোনো প্রক্সি নিষ্ক্রিয় করতে পারেন৷</translation>
-<translation id="2949183777371959169">মেশিনটি Chrome ব্রাউজার ক্লাউড ম্যানেজমেন্টে নথিভুক্ত নয় বলে এড়িয়ে যাওয়া হয়েছে।</translation>
+<translation id="7786089409521529641">মেশিনটি WEB3 DNA Browser ব্রাউজার ক্লাউড ম্যানেজমেন্টে নথিভুক্ত নয় বলে এড়িয়ে যাওয়া হয়েছে।</translation>
 <translation id="2951588413176968965">আমার মেলবক্স</translation>
 <translation id="2952820037279740115">সব 'ছদ্মবেশী' উইন্ডো বন্ধ করুন</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -781,7 +781,7 @@
 <translation id="2977665033722899841">এখন <ph name="ROW_NAME" /> বেছে নিয়েছেন। <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">অপেরা</translation>
 <translation id="2983666748527428214">ছদ্মবেশী ট্যাব খুলুন</translation>
-<translation id="2985306909656435243">চালু করা হলে, ফর্ম পূরণের কাজ দ্রুত করতে Chromium এই ডিভাইসে আপনার কার্ডের একটি কপি স্টোর করবে।</translation>
+<translation id="6458065442802745995">চালু করা হলে, ফর্ম পূরণের কাজ দ্রুত করতে WEB3 DNA Browser এই ডিভাইসে আপনার কার্ডের একটি কপি স্টোর করবে।</translation>
 <translation id="2985398929374701810">একটি সঠিক ঠিকানা লিখুন</translation>
 <translation id="2986368408720340940">এই পদ্ধতিতে পিক-আপ করা যাবে না। অন্য পদ্ধতি ব্যবহার করুন।</translation>
 <translation id="2987034854559945715">একই ধরনের ফিচার পাওয়া যায়নি</translation>
@@ -803,7 +803,7 @@
 <translation id="3037177537145227281">দাম ট্র্যাক করা হচ্ছে</translation>
 <translation id="3037605927509011580">ইস!</translation>
 <translation id="3041612393474885105">সার্টিফিকেট তথ্য</translation>
-<translation id="305162504811187366">টাইমস্ট্যাম্প, হোস্ট এবং ক্লায়েন্ট সেশন আইডি সহ Chrome রিমোট ডেস্কটপ ইতিহাস</translation>
+<translation id="6009592758194948058">টাইমস্ট্যাম্প, হোস্ট এবং ক্লায়েন্ট সেশন আইডি সহ WEB3 DNA Browser রিমোট ডেস্কটপ ইতিহাস</translation>
 <translation id="3052964831964880138"><ph name="PRODUCT_NAME" />-এ <ph name="PRICE_DROP" /> দাম কমে গেছে</translation>
 <translation id="3061707000357573562">প্যাচ পরিষেবা</translation>
 <translation id="306573536155379004">গেম শুরু হয়েছে।</translation>
@@ -851,7 +851,7 @@
 <translation id="3194737229810486521"><ph name="URL" /> স্থায়ীভাবে আপনার ডিভাইসে ডেটা স্টোর করতে চায়</translation>
 <translation id="3195213714973468956"><ph name="SERVER_NAME" /> এ <ph name="PRINTER_NAME" /></translation>
 <translation id="3197136577151645743">আপনি কখন ডিভাইস সক্রিয়ভাবে ব্যবহার করেন তা জানতে চাইতে পারে</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে কী ধরনের তথ্য আপনি সিঙ্ক করবেন, তা ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে কী ধরনের তথ্য আপনি সিঙ্ক করবেন, তা ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
 <translation id="320323717674993345">পেমেন্ট বাতিল করুন</translation>
 <translation id="3203366800380907218">ওয়েব থেকে</translation>
 <translation id="3207960819495026254">বুকমার্ক করা হয়েছে</translation>
@@ -875,7 +875,7 @@
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, আপনার ব্রাউজার কেমন দেখাবে তা কাস্টমাইজ করতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
 <translation id="3240791268468473923">সুরক্ষিত পেমেন্ট ক্রেডেনশিয়ালের সাথে মিল নেই এমন পেমেন্ট ক্রেডেনশিয়ালের শিট খোলা আছে</translation>
 <translation id="324180406144491771">“<ph name="HOST_NAME" />” লিঙ্ক ব্লক করা হয়েছে</translation>
-<translation id="3248611290851046188">এই সাইটটি আপনাকে বিজ্ঞাপন দেখানোর জন্য অন্যান্য সাইটগুলি ব্যবহার করতে পারে এমন আগ্রহগুলিকে ব্যাখ্যা করে। এই সাইটটি আপনাকে আরও প্রাসঙ্গিক বিজ্ঞাপন দেখানোর জন্য Chrome থেকে আপনার আগ্রহগুলি নেয়।</translation>
+<translation id="8141792378421105106">এই সাইটটি আপনাকে বিজ্ঞাপন দেখানোর জন্য অন্যান্য সাইটগুলি ব্যবহার করতে পারে এমন আগ্রহগুলিকে ব্যাখ্যা করে। এই সাইটটি আপনাকে আরও প্রাসঙ্গিক বিজ্ঞাপন দেখানোর জন্য WEB3 DNA Browser থেকে আপনার আগ্রহগুলি নেয়।</translation>
 <translation id="3249151924975132674">স্টুডেন্ট লোন এবং কলেজ ফাইন্যান্সিং</translation>
 <translation id="3249845759089040423">গ্ৰুভি</translation>
 <translation id="3250640885957938546">বিজ্ঞাপন এবং মার্কেটিং</translation>
@@ -885,7 +885,7 @@
 <translation id="3256863843508922226">রিটায়ারমেন্ট ও পেনশন</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, চটপট নতুন Google Calendar তৈরি করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
 <translation id="3261488570342242926">ভার্চুয়াল কার্ডের বিষয়ে জানুন</translation>
-<translation id="3264837738038045344">Chrome সেটিংস বোতাম ম্যানেজ করুন, আপনার Chrome সেটিংস দেখতে Enter প্রেস করুন</translation>
+<translation id="3264837738038045344">WEB3 DNA Browser সেটিংস বোতাম ম্যানেজ করুন, আপনার WEB3 DNA Browser সেটিংস দেখতে Enter প্রেস করুন</translation>
 <translation id="3266793032086590337">মান (ম্যাচ করছে না)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{সম্পর্কিত সাইট সহ কোনও সাইট ব্লক করা নেই}=1{সম্পর্কিত সাইট সহ ১টি সাইট ব্লক করা আছে}one{সম্পর্কিত সাইট সহ #টি সাইট ব্লক করা আছে}other{সম্পর্কিত সাইট সহ #টি সাইট ব্লক করা আছে}}</translation>
 <translation id="3268451620468152448">ওপেন ট্যাব</translation>
@@ -899,7 +899,7 @@
 <translation id="3287510313208355388">অনলাইন হয়ে ডাউনলোড করবেন</translation>
 <translation id="3288238092761586174">আপনার পেমেন্ট যাচাই করতে, <ph name="URL" />হয়ত আরও কিছু করতে পারে</translation>
 <translation id="3293642807462928945"><ph name="POLICY_NAME" /> নীতি সম্পর্কে আরও জানুন</translation>
-<translation id="3295444047715739395">Chrome সেটিংস থেকে আপনার পাসওয়ার্ড দেখুন ও ম্যানেজ করুন</translation>
+<translation id="3295444047715739395">WEB3 DNA Browser সেটিংস থেকে আপনার পাসওয়ার্ড দেখুন ও ম্যানেজ করুন</translation>
 <translation id="3299098170013242198">পাসওয়ার্ড পূরণ করার জন্য Windows Hello চালু করা আছে</translation>
 <translation id="3303176609391916566">৩০ x ৪২ ইঞ্চি</translation>
 <translation id="3303855915957856445">কোনো সার্চ ফলাফল পাওয়া যায়নি</translation>
@@ -929,9 +929,9 @@
 <translation id="3366477098757335611">কার্ড দেখুন</translation>
 <translation id="3369192424181595722">ঘড়ির ত্রুটি</translation>
 <translation id="3369459162151165748">যানবাহনের যন্ত্রাংশ ও অ্যাক্সেসরি</translation>
-<translation id="3371064404604898522">Chrome-কে ডিফল্ট ব্রাউজার হিসেবে সেট করুন</translation>
+<translation id="3371064404604898522">WEB3 DNA Browser-কে ডিফল্ট ব্রাউজার হিসেবে সেট করুন</translation>
 <translation id="337363190475750230">প্রদান করবে না</translation>
-<translation id="3375754925484257129">'Chrome নিরাপত্তা সংক্রান্ত পরীক্ষা' চালান</translation>
+<translation id="3375754925484257129">'WEB3 DNA Browser নিরাপত্তা সংক্রান্ত পরীক্ষা' চালান</translation>
 <translation id="3377144306166885718">সার্ভার TLS-এর এমন একটি ভার্সন ব্যবহার করছে যা এখন আর ব্যবহারে নেই।</translation>
 <translation id="3377188786107721145">নীতি বিশ্লেষণ ত্রুটি</translation>
 <translation id="3377736046129930310">কার্ড আরও দ্রুত কনফার্ম করতে স্ক্রিন লক ব্যবহার করুন</translation>
@@ -955,7 +955,7 @@
 <translation id="3423742043356668186">সিস্টেমের নির্দিষ্ট করা</translation>
 <translation id="3427092606871434483">মঞ্জুরি দিন (ডিফল্ট)</translation>
 <translation id="3427342743765426898">&amp;সম্পাদনাকে আবার করুন</translation>
-<translation id="342781501876943858">Chromium-এর নীতি অনুযায়ী আপনার পাসওয়ার্ড বদলে ফেলা উচিত যদি আপনি সেটি অন্য কোনও সাইটে ব্যবহার করে থাকেন।</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser-এর নীতি অনুযায়ী আপনার পাসওয়ার্ড বদলে ফেলা উচিত যদি আপনি সেটি অন্য কোনও সাইটে ব্যবহার করে থাকেন।</translation>
 <translation id="3428151540071562330">DnsOverHttpsTemplates সার্ভারের এক বা একাধিক টেমপ্লেট ইউআরআই সঠিক নয় এবং ব্যবহার করা যাবে না।</translation>
 <translation id="3431216045099978607">ফুল স্ক্রিন থেকে বেরিয়ে এসে ডাউনলোড দেখতে |<ph name="ACCELERATOR" />| প্রেস করুন।</translation>
 <translation id="3431636764301398940">এই ডিভাইসে এই কার্ডটি সেভ করুন</translation>
@@ -977,7 +977,7 @@
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, বর্তমানে খোলা আছে এমন সব 'ছদ্মবেশী' উইন্ডো বন্ধ করতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
 <translation id="3477679029130949506">সিনেমার তালিকা ও সিনেমাহলের সময়সূচি</translation>
 <translation id="3479552764303398839">এখনই নয়</translation>
-<translation id="3484560055331845446">আপনি আপনার Google অ্যাকাউন্টে অ্যাক্সেস হারাতে পারেন। Chrome-এর প্রস্তাব হল যে আপনি আপনার পাসওয়ার্ড এখনই পরিবর্তন করুন। আপনাকে আবার সাইন-ইন করতে বলা হবে।</translation>
+<translation id="2148205384604312372">আপনি আপনার Google অ্যাকাউন্টে অ্যাক্সেস হারাতে পারেন। WEB3 DNA Browser-এর প্রস্তাব হল যে আপনি আপনার পাসওয়ার্ড এখনই পরিবর্তন করুন। আপনাকে আবার সাইন-ইন করতে বলা হবে।</translation>
 <translation id="3484861421501147767">রিমাইন্ডার: সেভ করা প্রোমো কোড উপলভ্য আছে</translation>
 <translation id="3487845404393360112">ট্রে ৪</translation>
 <translation id="3495081129428749620">এই পৃষ্ঠাতে খুঁজুন
@@ -985,7 +985,7 @@
 <translation id="350069200438440499">ফাইলের নাম:</translation>
 <translation id="3507936815618196901">আপনার আশেপাশের এলাকার একটি 3D ম্যাপ তৈরি করতে এবং ক্যামেরার অবস্থান ট্র্যাক করতে চায়</translation>
 <translation id="3512163584740124171">একই নীতির গ্রুপের অন্য একটি নীতি অগ্রাধিকার পেয়েছে, তাই এই নীতি অগ্রাহ্য করা হয়েছে।</translation>
-<translation id="35172538073169599">ঠিকানা সংক্রান্ত বোতাম ম্যানেজ করুন, Chrome সেটিংসে ঠিকানা যোগ ও ম্যানেজ করতে, Enter প্রেস করুন</translation>
+<translation id="35172538073169599">ঠিকানা সংক্রান্ত বোতাম ম্যানেজ করুন, WEB3 DNA Browser সেটিংসে ঠিকানা যোগ ও ম্যানেজ করতে, Enter প্রেস করুন</translation>
 <translation id="3518941727116570328">মাল্টিপল অবজেক্ট ম্যানেজ করা</translation>
 <translation id="3525130752944427905">১০ x ১৪ ইঞ্চি</translation>
 <translation id="3528171143076753409">সার্ভারের সার্টিফিকেট বিশ্বস্ত নয়৷</translation>
@@ -1012,7 +1012,7 @@
 <translation id="3576616784287504635"><ph name="SITE" /> এ এম্বেডেড করা পৃষ্ঠায় এটি দেখানো হচ্ছে</translation>
 <translation id="3577473026931028326">কোনও সমস্যা হয়েছে। আবার চেষ্টা করুন।</translation>
 <translation id="3577902790357386792">জিমন্যাস্টিকস</translation>
-<translation id="3581089476000296252">এই পৃষ্ঠাটি প্রস্তুত হলে Chrome আপনাকে জানাবে। &lt;a&gt;বাতিল করুন&lt;/a&gt;</translation>
+<translation id="8000957821693253206">এই পৃষ্ঠাটি প্রস্তুত হলে WEB3 DNA Browser আপনাকে জানাবে। &lt;a&gt;বাতিল করুন&lt;/a&gt;</translation>
 <translation id="3582930987043644930">নাম যোগ করুন</translation>
 <translation id="3583757800736429874">&amp;সরানোর কাজটি আবার করুন</translation>
 <translation id="3584299510153766161">নিচে ডুয়াল পাঞ্চ</translation>
@@ -1027,7 +1027,7 @@
 <translation id="3611317423880285981">বাড়ির সামগ্রী</translation>
 <translation id="3614103345592970299">সাইজ ২</translation>
 <translation id="361438452008624280">তালিকার এন্ট্রি "<ph name="LANGUAGE_ID" />": অজানা বা কাজ করে না এমন ভাষা।</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে 'নিরাপত্তা সংক্রান্ত পরীক্ষা' চালাতে প্রথমে Tab আর তারপরে Enter কী প্রেস করুন</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে 'নিরাপত্তা সংক্রান্ত পরীক্ষা' চালাতে প্রথমে Tab আর তারপরে Enter কী প্রেস করুন</translation>
 <translation id="3615877443314183785">মেয়াদ শেষ হওয়ার তারিখের সঠিক মান লিখুন</translation>
 <translation id="36224234498066874">ব্রাউজ করা ডেটা সাফ করুন...</translation>
 <translation id="362276910939193118">সম্পূর্ণ ইতিহাস দেখুন</translation>
@@ -1038,9 +1038,9 @@
 <translation id="3631244953324577188">বায়োমেট্রিক্স</translation>
 <translation id="3632503704576938756">স্ক্রিন শেয়ার করার ফিচার আবার চালু করা হয়েছে</translation>
 <translation id="3632892046558972264">স্ক্রিন শেয়ার করার ফিচার পজ করা হয়েছে</translation>
-<translation id="3633738897356909127">Chrome আপডেট করার বোতাম, আপনার Chrome সেটিংসে Chrome আপডেট করতে Enter প্রেস করুন</translation>
+<translation id="3633738897356909127">WEB3 DNA Browser আপডেট করার বোতাম, আপনার WEB3 DNA Browser সেটিংসে WEB3 DNA Browser আপডেট করতে Enter প্রেস করুন</translation>
 <translation id="3634530185120165534">ট্রে ৫</translation>
-<translation id="3634567936866541746">আপনি এইমাত্র একটি প্রতারণামূলক সাইটে আপনার পাসওয়ার্ড লিখেছেন। আপনার অ্যাকাউন্ট সুরক্ষিত করার জন্য, Chrome আপনার সেভ করা পাসওয়ার্ড চেক করে নিতে সাজেস্ট করছে।</translation>
+<translation id="6586777830476909681">আপনি এইমাত্র একটি প্রতারণামূলক সাইটে আপনার পাসওয়ার্ড লিখেছেন। আপনার অ্যাকাউন্ট সুরক্ষিত করার জন্য, WEB3 DNA Browser আপনার সেভ করা পাসওয়ার্ড চেক করে নিতে সাজেস্ট করছে।</translation>
 <translation id="3642638418806704195">অ্যাপ্লিকেশন:</translation>
 <translation id="3647286794400715637">প্রতিটি URL স্ট্রিং এন্ট্রিতে ১ থেকে ২টি URL থাকতে হবে।</translation>
 <translation id="3650584904733503804">বৈধতা যাচাইকরণ সফল হয়েছে</translation>
@@ -1060,7 +1060,7 @@
 <translation id="3678529606614285348">নতুন ছদ্মবেশী উইন্ডোতে (Ctrl-Shift-N) করে একটি পৃষ্ঠা খুলুন</translation>
 <translation id="3681007416295224113">সার্টিফিকেট তথ্য</translation>
 <translation id="3699374065820972102">পাসওয়ার্ড পূরণ করার জন্য TouchID চালু করা আছে</translation>
-<translation id="3701427423622901115">সব এক্সপেরিমেন্ট রিসেট ভ্যালুতে সেট করা হয়েছে, Chrome রিস্টার্ট করার পর এই পরিবর্তনগুলি প্রয়োগ করা হবে।</translation>
+<translation id="3701427423622901115">সব এক্সপেরিমেন্ট রিসেট ভ্যালুতে সেট করা হয়েছে, WEB3 DNA Browser রিস্টার্ট করার পর এই পরিবর্তনগুলি প্রয়োগ করা হবে।</translation>
 <translation id="3704162925118123524">আপনি যে নেটওয়ার্কটি ব্যবহার করছেন সেটির জন্য অপনাকে এটির লগ-ইন পৃষ্ঠাতে যেতে হতে পরে৷</translation>
 <translation id="3705189812819839667"><ph name="RESULT_OWNER" /> - <ph name="RESULT_PRODUCT_SOURCE" /></translation>
 <translation id="370665806235115550">লোড হচ্ছে...</translation>
@@ -1083,7 +1083,7 @@
 <translation id="3740319564441798148">দূরপাল্লার বাস ও রেল</translation>
 <translation id="3744111561329211289">পটভূমি সিঙ্ক</translation>
 <translation id="3744286742364977428">আপনার ডাউনলোড করা ফাইল Google Cloud-এ বা থার্ড-পার্টির কাছে বিশ্লেষণ করার জন্য পাঠানো হয়েছে। যেমন, কোনও সংবেদনশীল ডেটা বা ম্যালওয়্যার আছে কিনা জানার জন্য ফাইলগুলি হয়ত স্ক্যান করা এবং কোম্পানি নীতি অনুযায়ী স্টোর করা হতে পারে।</translation>
-<translation id="3744899669254331632">এই মূহুর্তে আপনি <ph name="SITE" />-এ যেতে পারবেন না কারণ ওয়েবসাইটি অসংলগ্ন ক্রেডেনশিয়াল পাঠিয়েছে যা Chromium প্রসেস করতে পারেনা৷ নেটওয়ার্ক সমস্যা এবং আক্রমণ সাধারণত অস্থায়ী, তাই এই পৃষ্ঠাটি সম্ভবত পরে কাজ করবে৷</translation>
+<translation id="3461179235677384837">এই মূহুর্তে আপনি <ph name="SITE" />-এ যেতে পারবেন না কারণ ওয়েবসাইটি অসংলগ্ন ক্রেডেনশিয়াল পাঠিয়েছে যা WEB3 DNA Browser প্রসেস করতে পারেনা৷ নেটওয়ার্ক সমস্যা এবং আক্রমণ সাধারণত অস্থায়ী, তাই এই পৃষ্ঠাটি সম্ভবত পরে কাজ করবে৷</translation>
 <translation id="3745099705178523657">আপনি কনফার্ম করার পর আপনার Google অ্যাকাউন্ট থেকে কার্ডের বিবরণ এই সাইটে শেয়ার করা হবে।</translation>
 <translation id="3748148204939282805"><ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" />-এর আক্রমণকারীরা আপনাকে সফ্টওয়্যার ইনস্টলেশন বা আপনার ব্যক্তিগত তথ্য (যেমন পাসওয়ার্ড, ফোন নম্বর বা ক্রেডিট কার্ড) প্রকাশ করার মত বিপজ্জনক কাজ করার জন্য আপনাকে প্রতারিত করতে পারে। <ph name="BEGIN_LEARN_MORE_LINK" />আরও জানুন<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">বিমান শিল্প</translation>
@@ -1202,7 +1202,7 @@
 <translation id="4097288585054919042">সতর্কতা বন্ধ করুন</translation>
 <translation id="4098354747657067197">সামনে ধোঁকাবাজ সাইট</translation>
 <translation id="4099048595830172239">গোপনীয় কন্টেন্ট দেখা গেলে, অ্যাডমিনিস্ট্রেটরের নীতি <ph name="APPLICATION_TITLE" />-এর সাথে আপনার স্ক্রিন শেয়ার করার জন্য সাজেস্ট করবে না:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-এ ফন্ট সাইজ এবং টাইপফেস কাস্টমাইজ করতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-এ ফন্ট সাইজ এবং টাইপফেস কাস্টমাইজ করতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
 <translation id="4101413244023615925">টেক্সট ও গ্রাফিক</translation>
 <translation id="410148943680000050">ডেস্কটপ পাবলিশিং</translation>
 <translation id="4103249731201008433">ডিভাইসের ক্রমিক সংখ্যা ভুল</translation>
@@ -1254,7 +1254,7 @@
 <translation id="4214357935346142455">সাইন-ইন স্ক্রিনের প্রোফাইল</translation>
 <translation id="4220128509585149162">ক্র্যাশেস</translation>
 <translation id="422022731706691852"><ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> এর আক্রমণকারীরা আপনাকে এমন সফ্টওয়্যার ইনস্টল করার জন্য প্রতারিত করার চেষ্টা করতে পারে যার ফলে আপনার ব্রাউজিংয়ের অভিজ্ঞতা খারাপ হতে পারে (যেমন আপনার হোমপেজ পরিবর্তন করা বা আপনি যে সাইটগুলিতে যান সেগুলিতে অতিরিক্ত বিজ্ঞাপন দেখানো)। <ph name="BEGIN_LEARN_MORE_LINK" />আরও জানুন<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;ধাপ ১: পোর্টালে সাইন-ইন করুন&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;ধাপ ১: পোর্টালে সাইন-ইন করুন&lt;/h4&gt;
     &lt;p&gt;ক্যাফে অথবা এয়ারপোর্টের মতো জায়গায় ওয়াই-ফাই নেটওয়ার্কে সাইন-ইন করার প্রয়োজন হয়। সাইন-ইন পৃষ্ঠাটি দেখতে এমন কোনও পৃষ্ঠায় যান যেটিতে &lt;code&gt;http://&lt;/code&gt; ব্যবহার করা হয়।&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;এমন কোনও ওয়েবসাইটে যান যেটির ইউআরএল &lt;code&gt;http://&lt;/code&gt; দিয়ে শুরু হয়, যেমন &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;।&lt;/li&gt;
@@ -1262,11 +1262,11 @@
     &lt;/ol&gt;
     &lt;h4&gt;ধাপ ২: ছদ্মবেশী মোডে পৃষ্ঠাটি খুলুন (শুধুমাত্র কম্পিউটারের জন্য)&lt;/h4&gt;
     &lt;p&gt;আগে যে পৃষ্ঠাটি দেখছিলেন সেটি ছদ্মবেশী মোডে খুলুন।&lt;/p&gt;
-    &lt;p&gt;যদি পৃষ্ঠাটি খোলে, তাহলে বুঝতে হবে Chrome-এর কোনও একটি এক্সটেনশন ঠিকভাবে কাজ করছে না। সমস্যাটির সমাধানের জন্য এক্সটেনশনটি বন্ধ করে দিন।&lt;/p&gt;
+    &lt;p&gt;যদি পৃষ্ঠাটি খোলে, তাহলে বুঝতে হবে WEB3 DNA Browser-এর কোনও একটি এক্সটেনশন ঠিকভাবে কাজ করছে না। সমস্যাটির সমাধানের জন্য এক্সটেনশনটি বন্ধ করে দিন।&lt;/p&gt;
     &lt;h4&gt;ধাপ ৩: অপারেটিং সিস্টেম আপডেট করুন&lt;/h4&gt;
     &lt;p&gt;আপনার ডিভাইস আপ-টু-ডেট আছে কিনা নিশ্চিত করুন।&lt;/p&gt;
     &lt;h4&gt;ধাপ ৪: অ্যান্টিভাইরাস সাময়িকভাবে বন্ধ রাখুন&lt;/h4&gt;
-    &lt;p&gt;আপনার ডিভাইসে যদি এমন কোনও অ্যান্টিভাইরাস থাকে যা "HTTPS সুরক্ষা" অথবা "HTTPS স্ক্যানিং"-এর পরিষেবা দেয়, তাহলে এই সমস্যাটি হবে। তাহলে বুঝতে হবে অ্যান্টিভাইরাসটি Chrome-কে নিরাপত্তা দেওয়ার ক্ষেত্রে বাধা দিচ্ছে।&lt;/p&gt;
+    &lt;p&gt;আপনার ডিভাইসে যদি এমন কোনও অ্যান্টিভাইরাস থাকে যা "HTTPS সুরক্ষা" অথবা "HTTPS স্ক্যানিং"-এর পরিষেবা দেয়, তাহলে এই সমস্যাটি হবে। তাহলে বুঝতে হবে অ্যান্টিভাইরাসটি WEB3 DNA Browser-কে নিরাপত্তা দেওয়ার ক্ষেত্রে বাধা দিচ্ছে।&lt;/p&gt;
     &lt;p&gt;সমাধানের জন্য অ্যান্টিভাইরাস সফ্টওয়্যারটি বন্ধ করুন। বন্ধ করার পরে যদি পৃষ্ঠাটি খোলা যায় তাহলে নিরাপদ সাইট ব্রাউজ করার সময় সফ্টওয়্যারটি বন্ধই রাখবেন।&lt;/p&gt;
     &lt;p&gt;কাজ হলে গেলে মনে করে অ্যান্টিভাইরাস সফ্টওয়্যারটি আবার চালু করে নিন।&lt;/p&gt;
     &lt;h4&gt;ধাপ ৫: আরও সাহায্য পান&lt;/h4&gt;
@@ -1302,7 +1302,7 @@
 <translation id="4305666528087210886">আপনার ফাইল অ্যাক্সেস করা যায়নি</translation>
 <translation id="4306529830550717874">ঠিকানা সেভ করবেন?</translation>
 <translation id="4306812610847412719">ক্লিপবোর্ড</translation>
-<translation id="4308567447483056043">এই নীতিটি উপেক্ষা করা হয়েছে কারণ ব্যবহারকারী অ্যাফিলিয়েট নন। এই নীতি প্রয়োগ করার জন্য, Chrome ব্রাউজার এবং প্রোফাইল একই সংস্থার দ্বারা অ্যাডমিন কনসোলের মাধ্যমে ম্যানেজ করতে হবে।</translation>
+<translation id="3323451588703398074">এই নীতিটি উপেক্ষা করা হয়েছে কারণ ব্যবহারকারী অ্যাফিলিয়েট নন। এই নীতি প্রয়োগ করার জন্য, WEB3 DNA Browser ব্রাউজার এবং প্রোফাইল একই সংস্থার দ্বারা অ্যাডমিন কনসোলের মাধ্যমে ম্যানেজ করতে হবে।</translation>
 <translation id="4310070645992025887">আপনার অ্যাক্টিভিটির সিরিজ সার্চ করুন</translation>
 <translation id="4310496734563057511">আপনি অন্যদের সাথে এই ডিভাইসটি শেয়ার করলে, আপনি যখনই একটি সেভ করা পাসওয়ার্ড ব্যবহার করেন তখন আপনার পরিচয় যাচাই করতে Windows Hello চালু করতে পারেন</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1318,8 +1318,8 @@
 <translation id="4331519897422864041">স্ট্যাকার ৫</translation>
 <translation id="4331708818696583467">সুরক্ষিত নয়</translation>
 <translation id="4333561522337981382">আপনার সব ডিসপ্লেতে উইন্ডো ম্যানেজ করুন</translation>
-<translation id="4340575312453649552">এই বিজ্ঞাপন আপনার ডিভাইসের অনেক রিসোর্স ব্যবহার করেছে, তাই Chrome সেটি মুছে দিয়েছে।</translation>
-<translation id="4340982228985273705">এই কম্পিউটারটি এন্টারপ্রাইজ স্তরে পরিচালনা করা হচ্ছে হিসেবে শনাক্ত করা যায়নি, তাই নীতিটি শুধুমাত্র Chrome ওয়েব স্টোরে হোস্ট করা এক্সটেনশন নিজে থেকে ইনস্টল করতে পারবে। Chrome ওয়েব স্টোর আপডেটের ইউআরএল হল "<ph name="CWS_UPDATE_URL" />"।</translation>
+<translation id="3964216933844012257">এই বিজ্ঞাপন আপনার ডিভাইসের অনেক রিসোর্স ব্যবহার করেছে, তাই WEB3 DNA Browser সেটি মুছে দিয়েছে।</translation>
+<translation id="2218799635675752219">এই কম্পিউটারটি এন্টারপ্রাইজ স্তরে পরিচালনা করা হচ্ছে হিসেবে শনাক্ত করা যায়নি, তাই নীতিটি শুধুমাত্র WEB3 DNA Browser ওয়েব স্টোরে হোস্ট করা এক্সটেনশন নিজে থেকে ইনস্টল করতে পারবে। WEB3 DNA Browser ওয়েব স্টোর আপডেটের ইউআরএল হল "<ph name="CWS_UPDATE_URL" />"।</translation>
 <translation id="4346197816712207223">এই ক্রেডিট কার্ডগুলি গ্রহণ করা হয়</translation>
 <translation id="4348834659292907206"><ph name="SITE" />-এর কানেকশনটি সুরক্ষিত নয়</translation>
 <translation id="4349365535725594680">গোপনীয় কন্টেন্ট শেয়ার করা যাচ্ছে না</translation>
@@ -1330,7 +1330,7 @@
 <translation id="4356973930735388585">এই সাইটে আক্রমণকারীরা আপনার কম্পিউটারে ক্ষতিকারক প্রোগ্রাম ইনস্টল করতে পারে যা আপনার তথ্য (যেমন, ফটো, পাসওয়ার্ড, মেসেজ এবং ক্রেডিট কার্ড) চুরি করতে বা মুছে দিতে পারে।</translation>
 <translation id="4358059973562876591">DnsOverHttpsMode নীতিতে সমস্যা থাকার কারণে আপনার নির্দিষ্ট করা টেমপ্লেট হয়তো ব্যবহার করা যাবে না।</translation>
 <translation id="4358461427845829800">পেমেন্ট পদ্ধতিগুলি পরিচালনা করুন...</translation>
-<translation id="4359160567981085931">আপনি এখনই প্রতারণামূলক একটি সাইটে আপনার পাসওয়ার্ড লিখেছেন। Chrome সাহায্য করবে। আপনার অ্যাকাউন্টের নিরাপত্তা লঙ্ঘনের সম্ভাবনা এড়ানোর জন্য পাসওয়ার্ড পরিবর্তন করতে এবং Google-কে বিজ্ঞপ্তি দিয়ে জানাতে 'অ্যাকাউন্ট সুরক্ষিত রাখুন' বিকল্পে ক্লিক করুন।</translation>
+<translation id="4550052488331606118">আপনি এখনই প্রতারণামূলক একটি সাইটে আপনার পাসওয়ার্ড লিখেছেন। WEB3 DNA Browser সাহায্য করবে। আপনার অ্যাকাউন্টের নিরাপত্তা লঙ্ঘনের সম্ভাবনা এড়ানোর জন্য পাসওয়ার্ড পরিবর্তন করতে এবং Google-কে বিজ্ঞপ্তি দিয়ে জানাতে 'অ্যাকাউন্ট সুরক্ষিত রাখুন' বিকল্পে ক্লিক করুন।</translation>
 <translation id="4363222835916186793">এই প্রোডাক্টের জন্য বিজ্ঞপ্তি বন্ধ করা হয়েছে</translation>
 <translation id="437040971055499437">নিরাপত্তা সংক্রান্ত ঘটনা ঘটেছে</translation>
 <translation id="4372948949327679948">প্রত্যাশিত <ph name="VALUE_TYPE" /> মান৷</translation>
@@ -1347,7 +1347,7 @@
 <translation id="4411435778612100394">উপভোক্তাদের জন্য তৈরি করা ইলেকট্রনিক্স</translation>
 <translation id="4414515549596849729">কুকি ও সাইট ডেটা</translation>
 <translation id="4415426530740016218">পিক-আপের ঠিকানা</translation>
-<translation id="4424024547088906515">এই সার্ভার প্রমাণ করতে পারেনি যে এটি <ph name="DOMAIN" />; এর নিরাপত্তা সার্টিফিকেট Chrome এর নিকট বিশ্বাসযোগ্য নয়। কোনো ভুল কনফিগারেশনের কারণে অথবা কোনো আক্রমণকারী আপনার সংযোগ মাঝপথে আটকে দিচ্ছে বলে এমনটা হতে পারে।</translation>
+<translation id="7486060888782747880">এই সার্ভার প্রমাণ করতে পারেনি যে এটি <ph name="DOMAIN" />; এর নিরাপত্তা সার্টিফিকেট WEB3 DNA Browser এর নিকট বিশ্বাসযোগ্য নয়। কোনো ভুল কনফিগারেশনের কারণে অথবা কোনো আক্রমণকারী আপনার সংযোগ মাঝপথে আটকে দিচ্ছে বলে এমনটা হতে পারে।</translation>
 <translation id="4428065317363009941">পছন্দ অনুযায়ী বিজ্ঞাপন বেছে নেওয়া</translation>
 <translation id="443121186588148776">সিরিয়াল পোর্ট</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> আপনার লগ-ইন সার্টিফিকেটটি স্বীকার করেনি, অথবা কোনো সার্টিফিকেট দেওয়া হয়নি।</translation>
@@ -1371,7 +1371,7 @@
 <translation id="4489023393592172404">এনভেলপ কাকু ৪</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">আপনার Google অ্যাকাউন্টের সাথে সিঙ্ক করা পাসওয়ার্ডগুলি এনক্রিপ্ট করুন</translation>
-<translation id="4492519888999857993">এই ফিচারগুলি ডিফল্ট হিসেবেই বন্ধ থাকে। Chrome-এর পরবর্তী ভার্সনে এই ফিচারগুলি আর থাকবে না।</translation>
+<translation id="5711551727888568041">এই ফিচারগুলি ডিফল্ট হিসেবেই বন্ধ থাকে। WEB3 DNA Browser-এর পরবর্তী ভার্সনে এই ফিচারগুলি আর থাকবে না।</translation>
 <translation id="4493480324863638523">ইউআরএলটি সঠিক নয়। অবশ্যই স্ট্যান্ডার্ড স্কিম সহ ইউআরএল হতে হবে, যেমন http://example.com বা https://example.com.</translation>
 <translation id="4500587658229086076">নিরাপদ নয় এমন কন্টেন্ট</translation>
 <translation id="4506176782989081258">যাচাইকরণের ত্রুটি: <ph name="VALIDATION_ERROR" /></translation>
@@ -1379,7 +1379,7 @@
 <translation id="450710068430902550">প্রশাসকের সাথে ভাগ করছে</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, Google Translate ব্যবহার করে এই পৃষ্ঠা অনুবাদ করতে, প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
 <translation id="4514308731478712184">অ্যাক্টিভিটির সিরিজ বন্ধ করুন</translation>
-<translation id="4515275063822566619">কার্ড ও ঠিকানাগুলি Chrome এবং আপনার Google অ্যাকাউন্ট (<ph name="ACCOUNT_EMAIL" />) থেকে এসেছে। আপনি <ph name="BEGIN_LINK" />সেটিংস<ph name="END_LINK" />এ গিয়ে সেগুলি পরিচালনা করতে পারবেন।</translation>
+<translation id="3850866307128304430">কার্ড ও ঠিকানাগুলি WEB3 DNA Browser এবং আপনার Google অ্যাকাউন্ট (<ph name="ACCOUNT_EMAIL" />) থেকে এসেছে। আপনি <ph name="BEGIN_LINK" />সেটিংস<ph name="END_LINK" />এ গিয়ে সেগুলি পরিচালনা করতে পারবেন।</translation>
 <translation id="4520048001084013693">অ্যাডমিনিস্ট্রেটরের সেট করা নীতি অনুযায়ী এই ফাইল ডাউনলোড করার সুবিধা ব্লক করা হয়েছে</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> মিলিমিটার (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">এনভেলপ মোনার্ক</translation>
@@ -1395,10 +1395,10 @@
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">আপনার এক্সটেনশানগুলি অক্ষম করে দেখুন।</translation>
 <translation id="4566017918361049074">আউটডোর</translation>
-<translation id="4567686777917670400">আপনার অ্যাডমিনিস্ট্রেটর দূরবর্তী স্থান থেকে আপনার ব্রাউজারের সেটআপ পরিবর্তন করতে পারেন। এই ডিভাইসের অ্যাক্টিভিটি Chromium-এর বাইরে থেকেও ম্যানেজ করা যেতে পারে। <ph name="BEGIN_LINK" />আরও জানুন<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">আপনার অ্যাডমিনিস্ট্রেটর দূরবর্তী স্থান থেকে আপনার ব্রাউজারের সেটআপ পরিবর্তন করতে পারেন। এই ডিভাইসের অ্যাক্টিভিটি WEB3 DNA Browser-এর বাইরে থেকেও ম্যানেজ করা যেতে পারে। <ph name="BEGIN_LINK" />আরও জানুন<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">ডেলিভারি</translation>
 <translation id="4582204425268416675">কার্ডটি সরিয়ে দিন</translation>
-<translation id="4587425331216688090">Chrome থেকে ঠিকানা সরাবেন?</translation>
+<translation id="4549859745110415735">WEB3 DNA Browser থেকে ঠিকানা সরাবেন?</translation>
 <translation id="459089498662672729">অ্যাডমিনিস্ট্রেটর নীতির সাজেশন অনুযায়ী, <ph name="ORIGIN_NAME" /> থেকে টেক্সট এই লোকেশনে পেস্ট করা যাবে না</translation>
 <translation id="4592951414987517459">একটি আধুনিক সাইফার স্যুট ব্যবহার করে <ph name="DOMAIN" />-এ আপনার সংযোগ এনক্রিপ্ট করা হয়েছে।</translation>
 <translation id="4594403342090139922">&amp;মুছে ফেলাকে পূর্বাবস্থায় ফেরান</translation>
@@ -1407,17 +1407,17 @@
 <translation id="4600084978141515058">নিরামিষ রেসিপি</translation>
 <translation id="4602465984861132303">বোলিং</translation>
 <translation id="4606870351894164739">প্রভাবশালী</translation>
-<translation id="4607603470419975064">Chrome সম্পর্কিত পরামর্শ দেখুন বোতাম, Chrome-এর ফিচার সম্পর্কে জানতে Enter প্রেস করুন</translation>
-<translation id="4607608436550361748">Chrome-এর পরামর্শ দেখুন</translation>
+<translation id="4607603470419975064">WEB3 DNA Browser সম্পর্কিত পরামর্শ দেখুন বোতাম, WEB3 DNA Browser-এর ফিচার সম্পর্কে জানতে Enter প্রেস করুন</translation>
+<translation id="4607608436550361748">WEB3 DNA Browser-এর পরামর্শ দেখুন</translation>
 <translation id="4610279718074907952">এই সাইটটি <ph name="SET_OWNER" /> দ্বারা সংজ্ঞায়িত গ্রুপে রয়েছে এবং আপনার অ্যাক্টিভিটি দেখতে পাবে</translation>
 <translation id="4617273035598175554">গ্রাফিক্স ও অ্যানিমেশন সফ্টওয়্যার</translation>
 <translation id="4622292761762557753">তবুও ট্রান্সফার করুন</translation>
-<translation id="4627675673814409125">এই নীতিটি Chrome প্রোফাইল লেভেলে সেট করা যাবে না এবং এড়িয়ে যাওয়া হবে।</translation>
+<translation id="6607050922769407881">এই নীতিটি WEB3 DNA Browser প্রোফাইল লেভেলে সেট করা যাবে না এবং এড়িয়ে যাওয়া হবে।</translation>
 <translation id="4628948037717959914">ফটো</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">ক্যাশব্যাক অফার লিঙ্ক করা হয়েছে</translation>
 <translation id="4636930964841734540">তথ্য</translation>
-<translation id="4638670630777875591">Chromium-এ ছদ্মবেশী মোড</translation>
+<translation id="9064160697734393810">WEB3 DNA Browser-এ ছদ্মবেশী মোড</translation>
 <translation id="464342062220857295">সার্চের ফিচার</translation>
 <translation id="4644670975240021822">রিভার্স অর্ডার, সামনের দিক নীচে</translation>
 <translation id="4646534391647090355">আমাকে এখনই সেখানে নিয়ে চলুন</translation>
@@ -1455,7 +1455,7 @@
 <translation id="4731638775147756694">আপনার অ্যাডমিনিস্ট্রেটর এই অ্যাপ্লিকেশন ব্লক করে দিয়েছেন</translation>
 <translation id="4733082559415072992"><ph name="URL" /> আপনার ডিভাইসের লোকেশন ব্যবহার করতে চায়</translation>
 <translation id="4736491186715342415">মোটর যান</translation>
-<translation id="4736825316280949806">Chromium পুনরায় চালু করুন</translation>
+<translation id="1624940062651381269">WEB3 DNA Browser পুনরায় চালু করুন</translation>
 <translation id="4736934858538408121">ভার্চুয়াল কার্ড</translation>
 <translation id="473775607612524610">আপডেট করুন</translation>
 <translation id="4738601419177586157"><ph name="TEXT" /> সার্চ সাজেশন</translation>
@@ -1469,10 +1469,10 @@
 <translation id="4754461935447132332">শুধুমাত্র সুরক্ষিত সাইটের ক্ষেত্রেই অনুমতি দেওয়া আছে</translation>
 <translation id="4756388243121344051">&amp;ইতিহাস</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">আপনি এইমাত্র একটি প্রতারণামূলক সাইটে আপনার পাসওয়ার্ড লিখেছেন। আপনার অ্যাকাউন্ট সুরক্ষিত করার জন্য, Chromium আপনার সেভ করা পাসওয়ার্ড চেক করে নিতে সাজেস্ট করছে।</translation>
+
 <translation id="4758311279753947758">পরিচিতির তথ্য জুড়ুন</translation>
 <translation id="4761104368405085019">আপনার মাইক্রোফোন ব্যবহার করুন</translation>
-<translation id="4761869838909035636">'Chrome নিরাপত্তা সংক্রান্ত পরীক্ষা' চালান</translation>
+<translation id="2178430137592069173">'WEB3 DNA Browser নিরাপত্তা সংক্রান্ত পরীক্ষা' চালান</translation>
 <translation id="4764776831041365478"><ph name="URL" />-এ ওয়েবপৃষ্ঠাটি অস্থায়ীভাবে ডাউন থাকতে পারে অথবা এটি স্থায়ীভাবে কোনো নতুন ওয়েব অ্যাড্রেসে সরানো হয়ে থাকতে পারে৷</translation>
 <translation id="4766713847338118463">নিচে ডুয়াল স্টেপল</translation>
 <translation id="4771973620359291008">একটি অজানা ত্রুটি ঘটেছে৷</translation>
@@ -1503,7 +1503,7 @@
 <translation id="4834250788637067901">Google Pay-এর সাথে যুক্ত পেমেন্ট পদ্ধতি, অফার ও ঠিকানা</translation>
 <translation id="4838327282952368871">স্বপ্নালু</translation>
 <translation id="4839087176073128681">পরেরবার দ্রুত পেমেন্ট করুন এবং মার্কেটে উপলভ্য Google-এর সেরা নিরাপত্তা দিয়ে আপনার কার্ডকে সুরক্ষিত করুন।</translation>
-<translation id="4840250757394056958">আপনার Chrome ইতিহাস দেখুন</translation>
+<translation id="4840250757394056958">আপনার WEB3 DNA Browser ইতিহাস দেখুন</translation>
 <translation id="484462545196658690">অটো</translation>
 <translation id="484671803914931257"><ph name="MERCHANT_NAME" />-এ ডিসকাউন্ট পান এবং আরও অনেক কিছু</translation>
 <translation id="484988093836683706">ডিভাইস আনলক ব্যবহার করুন</translation>
@@ -1545,7 +1545,7 @@
 <translation id="4934780484581617878">উইন্ডো ম্যানেজমেন্ট</translation>
 <translation id="4936134414789135531">যোগ করা <ph name="VALUE_NAME" /> পাওয়া যায়নি।</translation>
 <translation id="4936675324097895694">ফাইন্যান্স</translation>
-<translation id="4940163644868678279">Chrome-এ ছদ্মবেশী মোড</translation>
+
 <translation id="4943872375798546930">কোন ফলাফল নেই</translation>
 <translation id="4943933359574417591">টেক্সট ও ইনস্ট্যান্ট মেসেজিং</translation>
 <translation id="4950898438188848926">একটি ট্যাব থেকে অন্য ট্যাবে যাওয়ার বোতাম, খোলা ট্যাবে যেতে এন্টার টিপুন, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1568,7 +1568,7 @@
 <translation id="4995216769782533993">এই সাইটের সাথে আপনার কার্ডের বিবরণ শেয়ার করতে নিরাপত্তা কোডটি কনফার্ম করুন</translation>
 <translation id="4995474875135717171">সংশোধন করার তারিখ:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, সাইট সার্চ এবং আপনার ডিফল্ট সার্চ ইঞ্জিন ম্যানেজ করতে Tab প্রেস করে Enter প্রেস করুন</translation>
-<translation id="5002932099480077015">সক্রিয় করা হলে, ফর্ম পূরণের কাজ দ্রুত করতে Chrome এই ডিভাইসে আপনার কার্ডের একটি কপি স্টোর করবে।</translation>
+
 <translation id="5011561501798487822">শনাক্ত করা ভাষা</translation>
 <translation id="5015510746216210676">মেশিনের নাম:</translation>
 <translation id="5017554619425969104">আপনার কপি করা টেক্সট</translation>
@@ -1577,7 +1577,7 @@
 <translation id="5018802455907704660">১৬ x ২০ ইঞ্চি</translation>
 <translation id="5019198164206649151">ব্যাকিং স্টোরটি ত্রুটিপূর্ণ অবস্থায় আছে</translation>
 <translation id="5020776957610079374">ওয়ার্ল্ড মিউজিক</translation>
-<translation id="5021557570875267742">Chrome ব্যবহার করে দাম ট্র্যাক করুন</translation>
+<translation id="4735860266347344416">WEB3 DNA Browser ব্যবহার করে দাম ট্র্যাক করুন</translation>
 <translation id="5023310440958281426">আপনার প্রশাসকের নীতিগুলি দেখুন</translation>
 <translation id="5029568752722684782">কপি সাফ করুন</translation>
 <translation id="5030338702439866405">দ্বারা ইস্যু করা</translation>
@@ -1610,7 +1610,7 @@
 <translation id="5087580092889165836">কার্ড জুড়ুন</translation>
 <translation id="5088142053160410913">অপারেটরকে মেসেজ করুন</translation>
 <translation id="5093232627742069661">জেড ফোল্ড</translation>
-<translation id="5094747076828555589">এই সার্ভার প্রমাণ করতে পারেনি যে এটি <ph name="DOMAIN" />; এর নিরাপত্তা সার্টিফিকেটটি Chromium এর নিকট বিশ্বাসযোগ্য নয়। কোনো ভুল কনফিগারেশনের কারণে অথবা কোনো আক্রমণকারী আপনার সংযোগ মাঝপথে আটকে দিচ্ছে বলে এমনটা হতে পারে।</translation>
+
 <translation id="5097099694988056070">CPU/RAM ব্যবহারের মতো ডিভাইসের পরিসংখ্যান</translation>
 <translation id="5097468150760963273">২৭ x ৩৯ ইঞ্চি</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1644,7 +1644,7 @@
 <translation id="5161506081086828129">স্ট্যাকার ৯</translation>
 <translation id="5164798890604758545">টেক্সট লেখা হয়েছে</translation>
 <translation id="516920405563544094"><ph name="CREDIT_CARD" />-এর জন্য সিভিসি লিখুন। আপনি কনফার্ম করার পর আপনার Google অ্যাকাউন্ট থেকে কার্ডের বিবরণ এই সাইটে শেয়ার করা হবে।</translation>
-<translation id="5169827969064885044">আপনি নিজের প্রতিষ্ঠানের অ্যাকাউন্টের অ্যাক্সেস হারাতে পারেন অথবা আপনার পরিচয় চুরি হয়ে যেতে পারে। Chrome এখনই আপনার পাসওয়ার্ড পরিবর্তন করার আর্জি জানাচ্ছে।</translation>
+
 <translation id="5171045022955879922">খুঁজুন বা URL লিখুন</translation>
 <translation id="5172758083709347301">যন্ত্র</translation>
 <translation id="5177076414499237632">পৃষ্ঠার সোর্স ও বিষয় সম্পর্কে আরও জানুন</translation>
@@ -1656,7 +1656,7 @@
 <translation id="51918995459521422"><ph name="ORIGIN" /> একাধিক ফাইল ডাউনলোড করতে চায়</translation>
 <translation id="519422657042045905">ব্যাখ্যা নেই</translation>
 <translation id="5201306358585911203">এই পৃষ্ঠার এম্বেডেড করা একটি পৃষ্ঠায় এটি দেখানো হচ্ছে</translation>
-<translation id="5204468114771111727">আপনি এখনই যে পাসওয়ার্ড ব্যবহার করলেন, সেটি Chrome হ্যাক হওয়া ডেটাবেসে পেয়েছে। Google Assistant আপনার পাসওয়ার্ড অটোমেটিক পরিবর্তন করতে পারবে।</translation>
+<translation id="214264184283456941">আপনি এখনই যে পাসওয়ার্ড ব্যবহার করলেন, সেটি WEB3 DNA Browser হ্যাক হওয়া ডেটাবেসে পেয়েছে। Google Assistant আপনার পাসওয়ার্ড অটোমেটিক পরিবর্তন করতে পারবে।</translation>
 <translation id="5205222826937269299">নাম প্রয়োজন</translation>
 <translation id="5209518306177824490">SHA-1 আঙুলের ছাপ</translation>
 <translation id="5209670883520018268">ট্রে ২০</translation>
@@ -1673,7 +1673,7 @@
 <translation id="5239623327352565343">লোকেশনের অনুমতি আছে</translation>
 <translation id="5242889659037569123">মালপত্র ও ভ্রমণ অ্যাক্সেসরিজ</translation>
 <translation id="5250209940322997802">"নেটওয়ার্কে কানেক্ট করুন"</translation>
-<translation id="52517543715119994">Chrome-এর ফিচার সম্পর্কে জানুন</translation>
+<translation id="52517543715119994">WEB3 DNA Browser-এর ফিচার সম্পর্কে জানুন</translation>
 <translation id="5251803541071282808">ক্লাউড</translation>
 <translation id="5254043433801397071">প্রিন্ট কন্টেন্ট অপ্টিমাইজ করুন</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1695,7 +1695,7 @@
 <translation id="5287456746628258573">এই সাইটটি পুরনো সিকিউরিটি কনফিগারেশন ব্যবহার করে তাই আপনার সংবেদনশীল তথ্য (যেমন, পাসওয়ার্ড বা ক্রেডিট কার্ডের নম্বর) এই সাইটে পাঠানোর সময় এইসব তথ্যের নিরাপত্তা বিঘ্নিত হতে পারে।</translation>
 <translation id="5288108484102287882">নীতির মূল্য যাচাইকরণ থেকে সতর্কতা পাওয়া গেছে</translation>
 <translation id="5288393065350884210">অ্যাকাউন্টিং ও অডিটিং</translation>
-<translation id="5288808348893593856">Chrome থেকে কোনও সতর্কতা না পাওয়া পর্যন্ত সাইটের কানেকশনটি সুরক্ষিত।</translation>
+<translation id="8429736460204202092">WEB3 DNA Browser থেকে কোনও সতর্কতা না পাওয়া পর্যন্ত সাইটের কানেকশনটি সুরক্ষিত।</translation>
 <translation id="5289384342738547352">মাল্টিপল ডকুমেন্ট ম্যানেজ করা</translation>
 <translation id="5293919335876685914">কুপে</translation>
 <translation id="5296589789433599000">রান্না ও রেসিপি</translation>
@@ -1714,14 +1714,14 @@
 <translation id="5324080437450482387">পরিচিতির তথ্য বেছে নিন</translation>
 <translation id="5329858041417644019">আপনার ব্রাউজারটি ম্যানেজ করা হয়নি</translation>
 <translation id="5332219387342487447">শিপিংয়ের মাধ্যম</translation>
-<translation id="5333022057423422993">Chrome-এর হিসেবে আপনার এখনই ব্যবহার করা পাসওয়ার্ডের তথ্য চুরি হয়ে গেছে। আপনার অ্যাকাউন্ট সুরক্ষিত রাখতে, আপনার সেভ করা পাসওয়ার্ড চেক করার জন্য সাজেস্ট করছি।</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser-এর হিসেবে আপনার এখনই ব্যবহার করা পাসওয়ার্ডের তথ্য চুরি হয়ে গেছে। আপনার অ্যাকাউন্ট সুরক্ষিত রাখতে, আপনার সেভ করা পাসওয়ার্ড চেক করার জন্য সাজেস্ট করছি।</translation>
 <translation id="5334013548165032829">বিস্তারিত সিস্টেম লগ</translation>
 <translation id="5334145288572353250">ঠিকানা সেভ করবেন?</translation>
 <translation id="5335920952954443287">স্পন্দিত হৃদয়</translation>
 <translation id="5340250774223869109">অ্যাপ্লিকেশনটি ব্লক করা আছে</translation>
 <translation id="534295439873310000">NFC ডিভাইস</translation>
 <translation id="5344579389779391559">এই পৃষ্ঠাতে আপনাকে চার্জ করা হতে পারে</translation>
-<translation id="5347645913823149105">Chrome বোতামে ফন্ট কাস্টমাইজ করুন, Chrome-এ ফন্ট সাইজ এবং টাইপফেস কাস্টমাইজ করতে Enter প্রেস করুন</translation>
+<translation id="5347645913823149105">WEB3 DNA Browser বোতামে ফন্ট কাস্টমাইজ করুন, WEB3 DNA Browser-এ ফন্ট সাইজ এবং টাইপফেস কাস্টমাইজ করতে Enter প্রেস করুন</translation>
 <translation id="5355557959165512791">ওয়েবসাইটটির সার্টিফিকেট তুলে নেওয়ার কারণে আপনি এখন <ph name="SITE" /> এ যেতে পারবেন না। নেটওয়ার্ক সমস্যা এবং আক্রমণ সাধারণত সাময়িকভাবে হয়, তাই এই পৃষ্ঠাটি সম্ভবত পরে কাজ করবে।</translation>
 <translation id="5356837363448394805">মুখ লাল হয়ে যাওয়া</translation>
 <translation id="5357848622083956825">ভিজ্যুয়াল আর্ট ও ডিজাইন</translation>
@@ -1740,7 +1740,7 @@
 <translation id="540630185148148480">সতর্কতা চালু করুন</translation>
 <translation id="540969355065856584">এই সার্ভার প্রমাণ করতে পারেনি যে এটি <ph name="DOMAIN" />; এর নিরাপত্তা সার্টিফিকেট এই সময়ে বৈধ নয়। কোনো ভুল কনফিগারেশনের কারণে অথবা কোনো আক্রমণকারী আপনার সংযোগ মাঝপথে আটকে দিচ্ছে বলে এমনটা হতে পারে।</translation>
 <translation id="5412040515238827314">ভুল ফর্ম্যাট: প্রত্যাশিত প্যাটার্নের তালিকা।</translation>
-<translation id="5412236728747081950">এই সাইটটি আপনাকে আরও প্রাসঙ্গিক বিজ্ঞাপন দেখানোর জন্য Chrome থেকে আপনার আগ্রহগুলি নেয়।</translation>
+<translation id="3825896935771081728">এই সাইটটি আপনাকে আরও প্রাসঙ্গিক বিজ্ঞাপন দেখানোর জন্য WEB3 DNA Browser থেকে আপনার আগ্রহগুলি নেয়।</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> - <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">স্ট্যাকার ৪</translation>
 <translation id="5414511064953050917">যেকোনওভাবে সরান</translation>
@@ -1783,7 +1783,7 @@
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, ChromeOS সেটিংস থেকে আপনার অ্যাক্সেসিবিলিটি টুল পছন্দ মতো বেছে নিতে 'Tab' কী প্রেস করে 'Enter' কী প্রেস করুন</translation>
 <translation id="5528532273234423708">হোম অটোমেশন</translation>
 <translation id="55293785478302737">ধারের দিকে সেলাই</translation>
-<translation id="5535133333442455806">ব্রাউজ করা ডেটা মোছার বোতাম, Chrome সেটিংসে আপনার ব্রাউজিং ইতিহাস, কুকি, ক্যাশে ও আরও অনেক কিছু মুছতে Enter প্রেস করুন</translation>
+<translation id="5535133333442455806">ব্রাউজ করা ডেটা মোছার বোতাম, WEB3 DNA Browser সেটিংসে আপনার ব্রাউজিং ইতিহাস, কুকি, ক্যাশে ও আরও অনেক কিছু মুছতে Enter প্রেস করুন</translation>
 <translation id="5536214594743852365">"<ph name="SECTION" />" বিভাগ দেখুন</translation>
 <translation id="553782666181800029">এনভেলপ চৌ ২</translation>
 <translation id="5539243836947087108">র‍্যাফট</translation>
@@ -1793,7 +1793,7 @@
 <translation id="5541546772353173584">ইমেল আইডি যোগ করুন</translation>
 <translation id="5545756402275714221">আপনার জন্য নিবন্ধ</translation>
 <translation id="5551890439174915351">১০০ x ২০০ মিমি</translation>
-<translation id="5552137475244467770">Chrome মাঝে মাঝে অনলাইনে প্রকাশ করা তালিকা অনুযায়ী আপনার পাসওয়ার্ড চেক করে। এটি করার সময় আপনার পাসওয়ার্ড ও ইউজারনেম এনক্রিপ্ট করা থাকে, তাই সেগুলি কেউ দেখতে পাবে না, এমনকি Google-ও না।</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser মাঝে মাঝে অনলাইনে প্রকাশ করা তালিকা অনুযায়ী আপনার পাসওয়ার্ড চেক করে। এটি করার সময় আপনার পাসওয়ার্ড ও ইউজারনেম এনক্রিপ্ট করা থাকে, তাই সেগুলি কেউ দেখতে পাবে না, এমনকি Google-ও না।</translation>
 <translation id="5556459405103347317">রিলোড করুন</translation>
 <translation id="5560088892362098740">মেয়াদ শেষের তারিখ</translation>
 <translation id="55635442646131152">ডকুমেন্ট আউটলাইন</translation>
@@ -1856,7 +1856,7 @@
 <translation id="5720705177508910913">বর্তমান ব্যবহারকারী</translation>
 <translation id="5723287205918986743">সামরিক শিল্প</translation>
 <translation id="5725567311035061582">কুকি ও সাইট ডেটা ম্যানেজ করুন</translation>
-<translation id="5730040223043577876">Chrome-এর নীতি অনুযায়ী আপনার পাসওয়ার্ড বদলে ফেলা উচিত যদি আপনি সেটি অন্য কোনও সাইটে ব্যবহার করে থাকেন।</translation>
+
 <translation id="5736165827969430182">ধাতু ও মাইনিং</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Google অ্যাকাউন্টে কার্ড সেভ করুন}one{Google অ্যাকাউন্টে কার্ড সেভ করুন}other{Google অ্যাকাউন্টে কার্ড সেভ করুন}}</translation>
 <translation id="5738385766833540397">আপনার ট্র্যাক করা প্রোডাক্টের দাম কমার বিজ্ঞপ্তি কীভাবে পাবেন তা ম্যানেজ করুন</translation>
@@ -1881,14 +1881,14 @@
 <translation id="5784606427469807560">আপনার কার্ডটি নিশ্চিত করতে একটি সমস্যা হয়েছিল৷ আপনার ইন্টারনেট সংযোগ পরীক্ষা করে আবার চেষ্টা করুন৷</translation>
 <translation id="5785756445106461925">উপরন্তু, এই পৃষ্ঠাতে অন্যান্য সংস্থান অন্তর্ভুক্ত রয়েছে যা নিরাপদ নয়৷ এই সংস্থানগুলি ট্রানজিটের সময় অন্যরা দেখতে পাবে এবং পৃষ্ঠাটির চেহারাটি পরিবর্তন করতে কোনও আক্রমণকারী এর পরিবর্তন করতে পারেন৷</translation>
 <translation id="5786044859038896871">আপনি কি আপনার কার্ডের তথ্য পূরণ করতে চান?</translation>
-<translation id="578633867165174378">Chrome-এর হিসেবে আপনার এখনই ব্যবহার করা পাসওয়ার্ডের তথ্য চুরি হয়ে গেছে। আমরা সাজেস্ট করছি এখনই এই পাসওয়ার্ড পরিবর্তন করুন।</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser-এর হিসেবে আপনার এখনই ব্যবহার করা পাসওয়ার্ডের তথ্য চুরি হয়ে গেছে। আমরা সাজেস্ট করছি এখনই এই পাসওয়ার্ড পরিবর্তন করুন।</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">আপনি কি আপনার <ph name="CARD_DETAIL" /> এর তথ্য পূরণ করতে চান?</translation>
 <translation id="5804241973901381774">অনুমতিগুলি</translation>
-<translation id="5808435672482059465">আপনার Chrome ইতিহাস দেখুন</translation>
+<translation id="7552154626705223867">আপনার WEB3 DNA Browser ইতিহাস দেখুন</translation>
 <translation id="5808542072418270309">সিমুলেশন গেম</translation>
 <translation id="5810442152076338065"><ph name="DOMAIN" />-এ আপনার সংযোগ একটি অপ্রচলিত সাইফার স্যুট ব্যবহার করে এনক্রিপ্ট করা হয়েছে৷</translation>
-<translation id="5812947184178430888">Chrome নিরাপত্তা সংক্রান্ত কোনও ইভেন্টের ব্যাপারে ফ্ল্যাগ করে জানালে, সেই ইভেন্টের সাথে সম্পর্কিত প্রাসঙ্গিক ডেটা আপনার অ্যাডমিনিস্ট্রেটরকে পাঠিয়ে দেওয়া হয়। এর মধ্যে Chrome-এ আপনার ব্রাউজ করা পৃষ্ঠার URL, ফাইলের নাম বা মেটাডেটা এবং ওয়েব ভিত্তিক অ্যাপ্লিকেশন, আপনার ডিভাইস ও Chrome-এ সাইন-ইন করার সময় আপনার ব্যবহার করা ইউজারনেম থাকতে পারে।</translation>
+<translation id="8479644990349381409">WEB3 DNA Browser নিরাপত্তা সংক্রান্ত কোনও ইভেন্টের ব্যাপারে ফ্ল্যাগ করে জানালে, সেই ইভেন্টের সাথে সম্পর্কিত প্রাসঙ্গিক ডেটা আপনার অ্যাডমিনিস্ট্রেটরকে পাঠিয়ে দেওয়া হয়। এর মধ্যে WEB3 DNA Browser-এ আপনার ব্রাউজ করা পৃষ্ঠার URL, ফাইলের নাম বা মেটাডেটা এবং ওয়েব ভিত্তিক অ্যাপ্লিকেশন, আপনার ডিভাইস ও WEB3 DNA Browser-এ সাইন-ইন করার সময় আপনার ব্যবহার করা ইউজারনেম থাকতে পারে।</translation>
 <translation id="5813119285467412249">&amp;যোগ করাকে পুনরায় করুন</translation>
 <translation id="5813309815819933152">টিভি রিয়ালিটি শো</translation>
 <translation id="5813753398265398978">পদার্থবিদ্যা</translation>
@@ -2004,10 +2004,10 @@
 <translation id="6116338172782435947">ক্লিপবোর্ডে কপি করা টেক্সট এবং ছবি দেখতে</translation>
 <translation id="6118782133429281336">অরিজিন তালিকাতে কিছু নেই।</translation>
 <translation id="6120179357481664955">আপনার UPI আইডি মনে আছে?</translation>
-<translation id="6124432979022149706">Chrome Enterprise কানেক্টর</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise কানেক্টর</translation>
 <translation id="6126565365696310362">এনভেলপ চিনা #২</translation>
 <translation id="6127379762771434464">আইটেম সরানো হয়েছে</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Chrome-এ ছদ্মবেশী মোডের বিষয়ে আরও জানুন<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">ফাইল এক্সটেনশনটি খালি বা ভুল ফর্ম্যাটে ছিল।</translation>
 <translation id="6139975341602920272">১৭ x ২২ ইঞ্চি</translation>
 <translation id="6146055958333702838">সব কেবল পরীক্ষা করুন এবং আপনি ব্যবহার করছেন এমন যেকোনো রাউটার, মডেম বা অন্যান্য নেটওয়ার্ক ডিভাইসগুলি আবার চালু করুন।</translation>
@@ -2032,10 +2032,10 @@
 <translation id="6197648101609735209">৮৯ x ৮৯ মিমি</translation>
 <translation id="6203231073485539293">আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন</translation>
 <translation id="6212314149070368045">US Fanfold</translation>
-<translation id="6218753634732582820">Chromium থেকে ঠিকানা সরাবেন?</translation>
+
 <translation id="622039917539443112">প্যারালাল ফোল্ড</translation>
 <translation id="6221345481584921695">Google নিরাপদ ব্রাউজিং সাম্প্রতিক <ph name="SITE" />-এ <ph name="BEGIN_LINK" />ম্যালওয়্যার শনাক্ত করেছে<ph name="END_LINK" />। যেসব ওয়েবসাইট সাধারণত নিরাপদ থাকে সেগুলি কখনও কখনও ম্যালওয়্যার দ্বারা আক্রান্ত হয়। <ph name="SUBRESOURCE_HOST" />, একটি পরিচিত ম্যালওয়্যার ডিস্ট্রিবিউটরের, থেকে ক্ষতিকারক কন্টেন্ট আসে। কয়েক ঘণ্টা পরে আপনার ফিরে আসা উচিত।</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংস থেকে আপনার অ্যাক্সেসিবিলিটি টুল পছন্দমতো সাজিয়ে নিতে Tab বোতাম প্রেস করে Enter প্রেস করুন</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংস থেকে আপনার অ্যাক্সেসিবিলিটি টুল পছন্দমতো সাজিয়ে নিতে Tab বোতাম প্রেস করে Enter প্রেস করুন</translation>
 <translation id="6229649258872345286">পারিবারিক ভ্রমণ</translation>
 <translation id="6232271601416750929">ক্লিন বিউটি</translation>
 <translation id="6233160458685643793">দাঁত বের করে হাসা</translation>
@@ -2044,7 +2044,7 @@
 <translation id="6240447795304464094">Google Pay লোগো</translation>
 <translation id="6241121617266208201">সাজেশন মেনু লুকান</translation>
 <translation id="624499991300733384">প্রিন্ট কম্পোজিটর পরিষেবা</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-এ ডাউনলোড করা ফাইল ম্যানেজ করতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-এ ডাউনলোড করা ফাইল ম্যানেজ করতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
 <translation id="6254436959401408446">এই পৃষ্ঠাটি খোলার জন্য পর্যাপ্ত মেমরি নেই</translation>
 <translation id="6259156558325130047">&amp;পুনর্বিন্যাসকে আবার করুন</translation>
 <translation id="6263376278284652872"><ph name="DOMAIN" /> বুকমার্কগুলি</translation>
@@ -2052,21 +2052,21 @@
 <translation id="6264485186158353794">সুরক্ষাতে ফিরুন</translation>
 <translation id="6265794661083428563"><ph name="POLICY_NAME" />-এর নীতির মান কপি করুন</translation>
 <translation id="6266934640124581640">হালকা টিল</translation>
-<translation id="6272088941196661550">Chrome ইতিহাসে প্রাসঙ্গিক অ্যাক্টিভিটি দেখতে সার্চ করা আবার চালু করুন</translation>
+<translation id="1989642600714730446">WEB3 DNA Browser ইতিহাসে প্রাসঙ্গিক অ্যাক্টিভিটি দেখতে সার্চ করা আবার চালু করুন</translation>
 <translation id="6272383483618007430">Google আপডেট</translation>
 <translation id="6276112860590028508">পড়ার তালিকার পৃষ্ঠাগুলি এখানে দেখা যাবে</translation>
 <translation id="627746635834430766">পরের বার আরও দ্রুত পেমেন্ট করা জন্য আপনার এই কার্ড এবং বিলিং ঠিকানাটি Google অ্যাকাউন্টে সেভ করে রাখুন।</translation>
 <translation id="6279183038361895380">আপনার কার্সার দেখাতে |<ph name="ACCELERATOR" />| চাপুন</translation>
 <translation id="6280223929691119688">এই ঠিকানায় ডেলিভারি করা যাবে না। অন্য ঠিকানা বেছে নিন।</translation>
 <translation id="6284292079994426700">২৬ x ৩৮ ইঞ্চি</translation>
-<translation id="6285507000506177184">Chrome বোতামে ডাউনলোড ম্যানেজ করুন, Chrome-এ ডাউনলোড করা ফাইল ম্যানেজ করতে Enter প্রেস করুন</translation>
+<translation id="6285507000506177184">WEB3 DNA Browser বোতামে ডাউনলোড ম্যানেজ করুন, WEB3 DNA Browser-এ ডাউনলোড করা ফাইল ম্যানেজ করতে Enter প্রেস করুন</translation>
 <translation id="6289939620939689042">পৃষ্ঠার রঙ</translation>
 <translation id="6290238015253830360">আপনার প্রস্তাবিত নিবন্ধগুলি এখানে দেখা যাবে</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{আপনার ডিভাইস এখনই রিস্টার্ট হবে}=1{১ সেকেন্ড পরেই আপনার ডিভাইস রিস্টার্ট হবে}one{# সেকেন্ড পরেই আপনার ডিভাইস রিস্টার্ট হবে}other{# সেকেন্ড পরেই আপনার ডিভাইস রিস্টার্ট হবে}}</translation>
 <translation id="6301104306974789820">দাম ট্র্যাক করা সংক্রান্ত বিজ্ঞপ্তি পান</translation>
-<translation id="6302269476990306341">Chrome-এ Google অ্যাসিস্ট্যান্ট এতক্ষণ পরে বন্ধ হয়ে যাবে:</translation>
+<translation id="6804344251855709483">WEB3 DNA Browser-এ Google অ্যাসিস্ট্যান্ট এতক্ষণ পরে বন্ধ হয়ে যাবে:</translation>
 <translation id="6305205051461490394"><ph name="URL" /> এ পৌঁছানো যাচ্ছে না</translation>
 <translation id="6311165245110979290">ভার্চুয়াল কার্ড উপলভ্য আছে</translation>
 <translation id="6312113039770857350">Webpage not available</translation>
@@ -2075,7 +2075,7 @@
 <translation id="6319249456820053699">ক্যামেরা ও ক্যামকোডার</translation>
 <translation id="6321917430147971392">আপনার DNS সেটিংস পরীক্ষা করুন</translation>
 <translation id="6322182122604171028">Windows Hello ব্যবহার করা যায়নি</translation>
-<translation id="6326947323444967009">iOS সেটিংসে Chrome-কে সিস্টেমের ডিফল্ট ব্রাউজার হিসেবে সেট করুন</translation>
+<translation id="6326947323444967009">iOS সেটিংসে WEB3 DNA Browser-কে সিস্টেমের ডিফল্ট ব্রাউজার হিসেবে সেট করুন</translation>
 <translation id="6328639280570009161">নেটওয়ার্ক পূর্বানুমান নিষ্ক্রিয় করার চেষ্টা করুন</translation>
 <translation id="6328784461820205019">"আপনার কানেকশন গোপন নয়" বা "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" বা "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" বা "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" বা "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" বা "SSL সার্টিফিকেটে সমস্যা"</translation>
 <translation id="6328786501058569169">এই সাইটটি প্রতারণামূলক</translation>
@@ -2086,7 +2086,7 @@
 <translation id="6348220984832452017">অ্যাক্টিভ ভ্যারিয়েশন</translation>
 <translation id="6349101878882523185"><ph name="APP_NAME" /> ইনস্টল করুন</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{একটিও নয়}=1{১টি পাসওয়ার্ড (<ph name="DOMAIN_LIST" />-এর জন্য, সিঙ্ক করা হয়েছে)}=2{২টি পাসওয়ার্ড (<ph name="DOMAIN_LIST" />-এর জন্য, সিঙ্ক করা হয়েছে)}one{#টি পাসওয়ার্ড (<ph name="DOMAIN_LIST" />-এর জন্য, সিঙ্ক করা হয়েছে)}other{#টি পাসওয়ার্ড (<ph name="DOMAIN_LIST" />-এর জন্য, সিঙ্ক করা হয়েছে)}}</translation>
-<translation id="6355392890578844978">কোনও কোম্পানি বা অন্য কোনও সংস্থা এই ব্রাউজার ম্যানেজ করে না। এই ডিভাইসের অ্যাক্টিভিটি Chromium-এর বাইরে থেকে ম্যানেজ করা যেতে পারে। <ph name="BEGIN_LINK" />আরও জানুন<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">কোনও কোম্পানি বা অন্য কোনও সংস্থা এই ব্রাউজার ম্যানেজ করে না। এই ডিভাইসের অ্যাক্টিভিটি WEB3 DNA Browser-এর বাইরে থেকে ম্যানেজ করা যেতে পারে। <ph name="BEGIN_LINK" />আরও জানুন<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">এর অর্থ কী?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />প্রক্সি, ফায়ারওয়াল এবং নিরাপদ DNS কনফিগারেশন পরীক্ষা করে দেখা হচ্ছে<ph name="END_LINK" /></translation>
@@ -2111,7 +2111,7 @@
 <translation id="6405181733356710802"><ph name="APP_NAME" />-এ চালিয়ে যেতে চান?</translation>
 <translation id="6410264514553301377">Enter the expiration date and CVC for <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">আপনার পাসওয়ার্ড পরিবর্তন করে Google অ্যাকাউন্ট সুরক্ষিত রাখতে Chromium সাহায্য করতে পারবে।</translation>
+<translation id="4571189034051647917">আপনার পাসওয়ার্ড পরিবর্তন করে Google অ্যাকাউন্ট সুরক্ষিত রাখতে WEB3 DNA Browser সাহায্য করতে পারবে।</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">মেটারিয়াল</translation>
 <translation id="6427730057873428458">গেট ফোল্ড</translation>
@@ -2149,7 +2149,7 @@
 <translation id="6502626736864595182">ফোরাম ও চ্যাট প্রদানকারী</translation>
 <translation id="6502991525169604759">আপনার করা এডিট ছাড়া</translation>
 <translation id="6506959208958864820">খাম</translation>
-<translation id="6508722015517270189">Chrome পুনরায় চালু করুন</translation>
+
 <translation id="6513005815064132016">ক্যামেরার পজিশন ট্র্যাক করতে অনুমতি চাইতে পারে</translation>
 <translation id="6517596291481585650">সতর্কতা: এই নীতি কোনও তালিকা নয় বলে সেটি নীতি অনুযায়ী তালিকা হিসেবে মার্জ করা হয়নি।</translation>
 <translation id="6518133107902771759">যাচাই করুন</translation>
@@ -2170,11 +2170,11 @@
 <translation id="657902945730878902">অঙ্কন ও রঙ করা</translation>
 <translation id="6579630537141957243">MIDI ডিভাইস কানেক্ট করবেন?</translation>
 <translation id="6579990219486187401">হালকা গোলাপি</translation>
-<translation id="6587182488465657433">Chrome-এর হিসেবে আপনার এখনই ব্যবহার করা পাসওয়ার্ডের তথ্য চুরি হয়ে গেছে। আপনার অ্যাকাউন্ট সুরক্ষিত রাখতে আমাদের সাজেশন, পাসওয়ার্ড এখনই পরিবর্তন করুন এবং সেভ করা পাসওয়ার্ড চেক করুন।</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser-এর হিসেবে আপনার এখনই ব্যবহার করা পাসওয়ার্ডের তথ্য চুরি হয়ে গেছে। আপনার অ্যাকাউন্ট সুরক্ষিত রাখতে আমাদের সাজেশন, পাসওয়ার্ড এখনই পরিবর্তন করুন এবং সেভ করা পাসওয়ার্ড চেক করুন।</translation>
 <translation id="6587893660316489419">এনভেলপ B5</translation>
 <translation id="6587923378399804057">আপনার কপি করা লিঙ্ক</translation>
 <translation id="6591833882275308647">আপনার <ph name="DEVICE_TYPE" /> ম্যানেজ করা হয়নি</translation>
-<translation id="6592952801936330159">'সাইট সেটিংস' বোতাম ম্যানেজ করুন, Chrome সেটিংসে বিভিন্ন সাইটের স্টোর করা ডেটা ও অনুমতি ম্যানেজ করতে Enter প্রেস করুন</translation>
+<translation id="6592952801936330159">'সাইট সেটিংস' বোতাম ম্যানেজ করুন, WEB3 DNA Browser সেটিংসে বিভিন্ন সাইটের স্টোর করা ডেটা ও অনুমতি ম্যানেজ করতে Enter প্রেস করুন</translation>
 <translation id="6596325263575161958">এনক্রিপশন বিকল্পগুলি</translation>
 <translation id="6599642189720630047">যে প্রোডাক্টগুলি ট্র্যাক করা হয়েছে</translation>
 <translation id="6611723696964473273">অর্থনীতির খবর</translation>
@@ -2191,7 +2191,7 @@
 <translation id="6645291930348198241">কুকি ও সাইট ডেটা অ্যাক্সেস করার অনুমতি দিন।</translation>
 <translation id="6645478838938543427">দাম কমে যাওয়া সংক্রান্ত বিজ্ঞপ্তি <ph name="EMAIL_ADDRESS" />-এ পাঠানো হবে</translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{কিছুই নয়}=1{১টি সাইট থেকে (আপনাকে আপনার Google অ্যাকাউন্ট থেকে সাইন-আউট করা হবে না)}one{#টি সাইট থেকে (আপনাকে আপনার Google অ্যাকাউন্ট থেকে সাইন-আউট করা হবে না)}other{#টি সাইট থেকে (আপনাকে আপনার Google অ্যাকাউন্ট থেকে সাইন-আউট করা হবে না)}}</translation>
-<translation id="6648459603387803038">আপনার অ্যাডমিনিস্ট্রেটর রিমোট লোকেশন থেকে আপনার ব্রাউজারের সেটআপ পরিবর্তন করতে পারেন। এই ডিভাইসের অ্যাক্টিভিটি Chrome-এর বাইরে থেকেও ম্যানেজ করা যেতে পারে।</translation>
+<translation id="6228269625838082008">আপনার অ্যাডমিনিস্ট্রেটর রিমোট লোকেশন থেকে আপনার ব্রাউজারের সেটআপ পরিবর্তন করতে পারেন। এই ডিভাইসের অ্যাক্টিভিটি WEB3 DNA Browser-এর বাইরে থেকেও ম্যানেজ করা যেতে পারে।</translation>
 <translation id="6648524591329069940">Serif হরফ</translation>
 <translation id="6649510485211003056">১৯৫ x ২৭০ মিমি</translation>
 <translation id="6651270836885078973">এটি ম্যানেজ করে:</translation>
@@ -2203,7 +2203,7 @@
 <translation id="6663846344464066639">নমস্কার</translation>
 <translation id="6665553082534466207">ডানদিকে ট্রিপল পাঞ্চ</translation>
 <translation id="6668389483194953109">পেপার সাইজের নাম "কাস্টম" হিসেবে শনাক্ত করা হয়েছে, কিন্তু "custom_size" প্রপার্টি খালি বা সঠিক নয়।</translation>
-<translation id="6671697161687535275">Chromium থেকে ফর্ম প্রস্তাবনা সরাবেন?</translation>
+<translation id="3922033200710514285">WEB3 DNA Browser থেকে ফর্ম প্রস্তাবনা সরাবেন?</translation>
 <translation id="6683717648675961851">চাকরির তালিকা</translation>
 <translation id="6685834062052613830">সাইন-আউট করে সেট-আপ সম্পূর্ণ করুন</translation>
 <translation id="6687335167692595844">ফন্ট সাইজের অনুরোধ করা হয়েছে</translation>
@@ -2211,7 +2211,7 @@
 <translation id="6688743156324860098">আপডেট করুন…</translation>
 <translation id="6688775486821967877">এই মুহূর্তে ভার্চুয়াল কার্ড উপলভ্য নয়, পরে আবার চেষ্টা করুন</translation>
 <translation id="6689249931105087298">ব্ল্যাক পয়েন্ট কম্প্রেশনের সাথে রিলেটিভ</translation>
-<translation id="6689271823431384964">আপনি সাইন-ইন করে আছেন বলে, Chrome আপনার কার্ডগুলি Google অ্যাকাউন্টে সেভ করতে চান কিনা তা জানতে চাইছে। সেটিংস থেকে আপনি এই বিকল্প পরিবর্তন করতে পারেন। আপনার অ্যাকাউন্ট থেকেই কার্ডহোল্ডারের নাম পাওয়া গেছে।</translation>
+<translation id="6568883612935818921">আপনি সাইন-ইন করে আছেন বলে, WEB3 DNA Browser আপনার কার্ডগুলি Google অ্যাকাউন্টে সেভ করতে চান কিনা তা জানতে চাইছে। সেটিংস থেকে আপনি এই বিকল্প পরিবর্তন করতে পারেন। আপনার অ্যাকাউন্ট থেকেই কার্ডহোল্ডারের নাম পাওয়া গেছে।</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, Google অ্যাকাউন্টে আপনার ডিভাইস খুঁজে দেখতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
 <translation id="6696588630955820014">এই ট্যাব বোতামটি শেয়ার করুন। লিংক শেয়ার করে, QR কোড তৈরি করে, কাস্ট করে, এবং আরও অন্যান্য বিকল্পের সাহায্যে এই ট্যাবটি শেয়ার করতে Enter প্রেস করুন</translation>
 <translation id="6698381487523150993">তৈরি হয়েছে:</translation>
@@ -2276,7 +2276,7 @@
 <translation id="6883221904761970440">নিরাপদে পেমেন্ট ক্রেডেনশিয়াল যাচাই করার শিট বন্ধ করা হয়েছে</translation>
 <translation id="6884662655240309489">সাইজ ১</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">পৃষ্ঠাটি যাতে সহজপাঠ্য হয়, তার জন্য Chrome এটিকে সহজ করে তুলেছে। একটি অসুরক্ষিত কানেকশন ব্যবহার করে Chrome আবার মূল পৃষ্ঠায় ফিরে এসেছে।</translation>
+<translation id="2764758098439961275">পৃষ্ঠাটি যাতে সহজপাঠ্য হয়, তার জন্য WEB3 DNA Browser এটিকে সহজ করে তুলেছে। একটি অসুরক্ষিত কানেকশন ব্যবহার করে WEB3 DNA Browser আবার মূল পৃষ্ঠায় ফিরে এসেছে।</translation>
 <translation id="6890443033788248019">লোকেশন অ্যাক্সেস করার অনুমতি দেবেন?</translation>
 <translation id="6890531741535756070">আপনি <ph name="DEVICE_LABEL" />-এর মাধ্যমে ওয়েবসাইটে যাচাই করার বিকল্প বেছে নিয়েছেন যা <ph name="PROVIDER_ORIGIN" /> ব্যবহার করে। এই পরিষেবা প্রদানকারী আপনার পেমেন্ট পদ্ধতি সংক্রান্ত তথ্য সেভ করে রাখতে পারে, যা আপনি <ph name="BEGIN_LINK" />মুছে ফেলার জন্য অনুরোধ<ph name="END_LINK" /> করতে পারবেন।</translation>
 <translation id="6891596781022320156">নীতি স্তর সমর্থিত নয়।</translation>
@@ -2349,7 +2349,7 @@
 <translation id="7058774143982824355">CSV পাসওয়ার্ড পার্সার পরিষেবা</translation>
 <translation id="7061777300866737982">বাড়ির নিরাপত্তা ও নিরাপত্তা</translation>
 <translation id="7062635574500127092">নীলচে সবুজ</translation>
-<translation id="706295145388601875">Chrome সেটিংসে ঠিকানা যোগ ও ম্যানেজ করুন</translation>
+<translation id="706295145388601875">WEB3 DNA Browser সেটিংসে ঠিকানা যোগ ও ম্যানেজ করুন</translation>
 <translation id="7064851114919012435">পরিচিতি তথ্য</translation>
 <translation id="7067633076996245366">সোল এবং রিদম ও ব্লুজ</translation>
 <translation id="7068733155164172741"><ph name="OTP_LENGTH" />-সংখ্যার কোড লিখুন</translation>
@@ -2360,23 +2360,18 @@
 <translation id="7081308185095828845">এই ফিচারটি আপনার ডিভাইসে পাওয়া যাবে না</translation>
 <translation id="7083258188081898530">ট্রে ৯</translation>
 <translation id="7086090958708083563">ব্যবহারকারী আপলোড করার অনুরোধ জানিয়েছেন</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে বিভিন্ন সাইটের স্টোর করা ডেটা ও অনুমতি ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে বিভিন্ন সাইটের স্টোর করা ডেটা ও অনুমতি ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
 <translation id="7096937462164235847">এই ওয়েবসাইটের পরিচয় যাচাই করা যায়নি।</translation>
 <translation id="7101893872976785596">ভূতের সিনেমা</translation>
 <translation id="7102079138917191645">নির্মাণ ও রক্ষণাবেক্ষণ</translation>
-<translation id="7102554173784142865">Chrome ডাইনো গেম খেলুন</translation>
+<translation id="7102554173784142865">WEB3 DNA Browser ডাইনো গেম খেলুন</translation>
 <translation id="7108338896283013870">লুকান</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> আপনার ক্যামেরা ব্যবহার করতে চায়</translation>
 <translation id="7108819624672055576">একটি এক্সটেনশন দ্বারা অনুমোদিত</translation>
 <translation id="7111012039238467737">(সঠিক)</translation>
 <translation id="7118618213916969306">ক্লিপবোর্ড ইউআরএল <ph name="SHORT_URL" /> সার্চ করুন</translation>
 <translation id="7119414471315195487">অন্যান্য ট্যাব বা প্রোগ্রাম বন্ধ করুন</translation>
-<translation id="7129355289156517987">অআপনি সমস্ত Chromium ছদ্মবেশী ট্যাব বন্ধ করলে, এই ডিভাইস থেকে সেই ট্যাবে অ্যাক্টিভিটি মুছে যাবে:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />ব্রাউজিং অ্যাক্টিভিটি<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />সার্চ ইতিহাস<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />ফর্মে তথ্য দেওয়া হয়েছে<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">এই ঠিকানায় শিপিং করা যাবে না। অন্য ঠিকানা বেছে নিন।</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">ব্লক করা আপলোড</translation>
@@ -2463,13 +2458,13 @@
 <translation id="7359588939039777303">বিজ্ঞাপন ব্লক করা হয়েছে।</translation>
 <translation id="7360451453306104998">Google উপলভ্য ডিসকাউন্ট খুঁজে পেলে, চেকআউটের সময় সেগুলি দেখাবে</translation>
 <translation id="7363096869660964304">তবে, আপনি অদৃশ্য থাকবেন না। ছদ্মবেশী মোড ব্যবহার করলেও আপনার ব্রাউজিং ইতিহাস নিয়োগকর্তা, ইন্টারনেট পরিষেবা প্রদানকারী বা আপনার দেখা ওয়েবসাইটের থেকে লুকানো যাবে না।</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে ঠিকানা যোগ ও ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে ঠিকানা যোগ ও ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
 <translation id="7365849542400970216">আপনি জানেন আপনার ডিভাইস কী কাজে ব্যবহার হয়?</translation>
 <translation id="7366117520888504990">১৯৮ x ২৭৫ মিমি</translation>
 <translation id="7366362069757178916">পেমেন্ট হ্যান্ডলার</translation>
 <translation id="7372973238305370288">ফলাফল খুঁজুন</translation>
 <translation id="7374461526650987610">প্রোটোকল পরিচালনাকারী</translation>
-<translation id="7374733840632556089">আপনার ডিভাইসে আপনি বা অন্য কেউ একটি সার্টিফিকেট ইনস্টল করায় এই সমস্যা দেখা দিচ্ছে। এই সার্টিফিকেট ব্যবহার করে নেটওয়ার্ক ইন্টারসেপ্ট এবং মনিটর করা হয়, তবে Chrome এটিকে বিশ্বস্ত বলে মনে করে না। কোনও স্কুলের বা কোম্পানি নেটওয়ার্কের মতো কিছু নেটওয়ার্ক মনিটর করার প্রয়োজন হলেও, Chrome দেখে নেয় যে, আপনি যদি এটি বন্ধ করতে নাও পারেন, কী ঘটছে সেই সম্পর্কে যেন জানতে পারেন। ওয়েবে অ্যাক্সেস আছে, এমন যেকোনও ব্রাউজার বা অ্যাপের উপর নজর রাখা হতে পারে।</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{কোনও সাইটের অনুমতি নেই}=1{১টি সাইটের অনুমতি আছে}one{#টি সাইটের অনুমতি আছে}other{#টি সাইটের অনুমতি আছে}}</translation>
 <translation id="7375818412732305729">ফাইল অ্যাটাচ করা হয়েছে</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2487,7 +2482,7 @@
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">লিঙ্ক শেয়ার করে, QR কোড তৈরি করে, কাস্টিং করে বা আরও অন্য বিকল্পের সাহায্যে এই ট্যাব শেয়ার করুন</translation>
 <translation id="7403591733719184120">আপনার <ph name="DEVICE_NAME" /> ম্যানেজ করা হচ্ছে</translation>
-<translation id="7407424307057130981">&lt;p&gt;আপনার Windows কম্পিউটারে Superfish সফ্টওয়্যারটি ইনস্টল করা থাকলে এই সমস্যাটি হবে।&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;আপনার Windows কম্পিউটারে Superfish সফ্টওয়্যারটি ইনস্টল করা থাকলে এই সমস্যাটি হবে।&lt;/p&gt;
       &lt;p&gt;ইন্টারনেটে কানেক্ট করার জন্য এই সফ্টওয়্যারটি সাময়িকভাবে বন্ধ রাখতে এই ধাপগুলি অনুসরণ করুন। এর জন্য অ্যাডমিনিস্ট্রেটরের সুবিধা থাকতে হবে।&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;প্রথমে&lt;strong&gt;শুরু করুন&lt;/strong&gt;বোতামে ক্লিক করুন, তারপর &lt;strong&gt;"স্থানীয় পরিষেবা দেখুন"&lt;/strong&gt; বিকল্পটি বেছে নিন
@@ -2495,7 +2490,7 @@
       &lt;li&gt;&lt;strong&gt;স্টার্ট-আপের ধরন&lt;/strong&gt;, বিকল্পে গিয়ে&lt;strong&gt;বন্ধ আছে&lt;/strong&gt; বিকল্পটি বেছে নিন
       &lt;li&gt;&lt;strong&gt;পরিষেবার স্ট্যাটাসে&lt;/strong&gt; গিয়ে, &lt;strong&gt;থামান&lt;/strong&gt; বোতামে ক্লিক করুন
       &lt;li&gt;&lt;strong&gt;প্রয়োগ করুন&lt;/strong&gt;-এ ক্লিক করে, &lt;strong&gt;ঠিক আছে&lt;/strong&gt;বোতামে ক্লিক করুন
-      &lt;li&gt;কম্পিউটার থেকে সফ্টওয়্যারটি স্থায়ীভাবে সরিয়ে দেওয়ার পদ্ধতি জানতে &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Chrome সহায়তা কেন্দ্রে&lt;/a&gt; যান
+      &lt;li&gt;কম্পিউটার থেকে সফ্টওয়্যারটি স্থায়ীভাবে সরিয়ে দেওয়ার পদ্ধতি জানতে &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;WEB3 DNA Browser সহায়তা কেন্দ্রে&lt;/a&gt; যান
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">সুন্দর</translation>
 <translation id="741204030948306876">হ্যাঁ, আমি রাজি</translation>
@@ -2503,7 +2498,7 @@
 <translation id="7418620734632363981">প্রোগ্রামিং</translation>
 <translation id="7419106976560586862">প্রোফাইল পাথ</translation>
 <translation id="7421067045979951561">প্রোটোকল হ্যান্ডলার</translation>
-<translation id="7426022697669111648">'আপনার 'Chrome ইতিহাস দেখুন' বোতাম, Chrome সেটিংস থেকে ব্রাউজিংয়ের ইতিহাস দেখতে এবং ম্যানেজ করতে Enter প্রেস করুন</translation>
+<translation id="7426022697669111648">'আপনার 'WEB3 DNA Browser ইতিহাস দেখুন' বোতাম, WEB3 DNA Browser সেটিংস থেকে ব্রাউজিংয়ের ইতিহাস দেখতে এবং ম্যানেজ করতে Enter প্রেস করুন</translation>
 <translation id="7427366580982928791">শিশুদের জন্য ইন্টারনেট নিরাপত্তা</translation>
 <translation id="7429429656042611765">এক্সিকিউটিভ</translation>
 <translation id="7437289804838430631">পরিচিতির তথ্য যোগ করুন</translation>
@@ -2532,12 +2527,7 @@
 <translation id="7497998058912824456">'Doc তৈরি করুন বোতাম', চটপট নতুন Google Doc তৈরি করতে Enter প্রেস করুন</translation>
 <translation id="7501663406926337752">আপনার প্রতিষ্ঠান সাইট সম্পর্কে কোনও সমস্যা ফ্ল্যাগ করেছে</translation>
 <translation id="7501853161948120656">শিক্ষামূলক রিসোর্স</translation>
-<translation id="7506488012654002225">এক্ষেত্রে নিচে দেওয়া তথ্য Chromium <ph name="BEGIN_EMPHASIS" />সেভ করবে না<ph name="END_EMPHASIS" />:
-        <ph name="BEGIN_LIST" />
-          <ph name="LIST_ITEM" />আপনার ব্রাউজিং ইতিহাস
-          <ph name="LIST_ITEM" />কুকি এবং সাইট ডেটা
-          <ph name="LIST_ITEM" />ফর্মে লেখা তথ্য
-        <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">এনভেলপ #৯</translation>
 <translation id="7508255263130623398">ফিরে পাওয়া নীতির ডিভাইস আইডি খালি অথবা বর্তমান ডিভাইস আইডির সাথে মিলছে না</translation>
 <translation id="7508870219247277067">অ্যাভোকাডো সবুজ</translation>
@@ -2559,7 +2549,7 @@
 <translation id="7542995811387359312">স্বয়ংক্রিয় ক্রেডিট কার্ড পূরণটি অক্ষম রয়েছে কারণ এই ফর্মটি কোনও সুরক্ষিত সংযোগ ব্যবহার করে না৷</translation>
 <translation id="7548892272833184391">কানেকশনের সমস্যার সমাধান করুন</translation>
 <translation id="7549584377607005141">ঠিকঠাক ডিসপ্লে করার জন্য এই ওয়েবপৃষ্ঠার আপনার আগে দেওয়া ডেটা প্রযোজন৷ আপনি এই ডেটাটি আবার পাঠাতে পারেন, কিন্তু এমনটি করে আপনি যেকোনো পদক্ষেপের পুনরাবৃত্তি করবেন যা এই পৃষ্ঠাটি আগেই সম্পাদনা করেছে৷</translation>
-<translation id="7550637293666041147">আপনার ডিভাইসের ব্যবহারকারীর নাম এবং Chrome-এর ব্যবহারকারীর নাম</translation>
+<translation id="4843621636877577887">আপনার ডিভাইসের ব্যবহারকারীর নাম এবং WEB3 DNA Browser-এর ব্যবহারকারীর নাম</translation>
 <translation id="7551484245293639699">ট্রাভেল ইন্স্যুরেন্স</translation>
 <translation id="755279583747225797">ট্রায়াল চালু আছে</translation>
 <translation id="7552846755917812628">নিম্নোল্লিখিত টিপ্স ব্যবহার করে দেখুন:</translation>
@@ -2567,13 +2557,13 @@
 <translation id="7554791636758816595">নতুন ট্যাব</translation>
 <translation id="7555777498260651025">টিভিতে পরিবারিক অনুষ্ঠান</translation>
 <translation id="7559278538486662777">এই অ্যাপটি ছোট বড় করা যাবে না</translation>
-<translation id="7564049878696755256">আপনি নিজের <ph name="ORG_NAME" /> অ্যাকাউন্টের অ্যাক্সেস হারাতে পারেন অথবা আপনার পরিচয় চুরি হয়ে যেতে পারে। Chrome এখনই আপনার পাসওয়ার্ড পরিবর্তন করার আর্জি জানাচ্ছে।</translation>
+<translation id="8940464370390138384">আপনি নিজের <ph name="ORG_NAME" /> অ্যাকাউন্টের অ্যাক্সেস হারাতে পারেন অথবা আপনার পরিচয় চুরি হয়ে যেতে পারে। WEB3 DNA Browser এখনই আপনার পাসওয়ার্ড পরিবর্তন করার আর্জি জানাচ্ছে।</translation>
 <translation id="7564680668369175887">স্টেশন ওয়াগন</translation>
 <translation id="7567204685887185387">এই সার্ভার প্রমাণ করতে পারেনি যে এটি <ph name="DOMAIN" />; এর নিরাপত্তা সার্টিফিকেট প্রতারণাপূর্ণভাবে ইস্যু করা হয়ে থাকতে পারে। কোনো ভুল কনফিগারেশনের কারণে অথবা কোনো আক্রমণকারী আপনার সংযোগ মাঝপথে আটকে দিচ্ছে বলে এমনটা হতে পারে।</translation>
-<translation id="7568616151991626879">Google Chrome <ph name="APP_NAME" />-এ আপনার পাসওয়ার্ড পূরণ করার চেষ্টা করছে।</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser <ph name="APP_NAME" />-এ আপনার পাসওয়ার্ড পূরণ করার চেষ্টা করছে।</translation>
 <translation id="7569490014721427265">গল্ফ</translation>
 <translation id="7569761772822664555">সার্চ ইঞ্জিন বোতাম ম্যানেজ করুন, আপনার ডিফল্ট সার্চ ইঞ্জিন এবং সাইট সার্চ ম্যানেজ করতে Enter প্রেস করুন</translation>
-<translation id="7569952961197462199">Chrome থেকে ক্রেডিট কার্ড সরাবেন?</translation>
+<translation id="9202224267417193484">WEB3 DNA Browser থেকে ক্রেডিট কার্ড সরাবেন?</translation>
 <translation id="7569983096843329377">কালো</translation>
 <translation id="7575207903026901870">সাজেশন বোতাম সরান, এই সাজেশন সরাতে 'Enter' কী প্রেস করুন</translation>
 <translation id="7577900504646297215">আপনার পছন্দ ম্যানেজ করুন</translation>
@@ -2592,15 +2582,15 @@
 <translation id="7600965453749440009"><ph name="LANGUAGE" /> কখনও অনুবাদ করবেন না</translation>
 <translation id="7610193165460212391">সীমার বাইরে মান <ph name="VALUE" />৷</translation>
 <translation id="7613889955535752492">মেয়াদোত্তীর্ণ: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে আপনার পাসওয়ার্ড দেখতে ও ম্যানেজ করতে প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
-<translation id="7616645509853975347">আপনার অ্যাডমিনিস্ট্রেটর Chrome Enterprise কানেক্টরগুলিকে আপনার ব্রাউজারে চালু করেছে। এই কানেক্টর আপনার কিছু ডেটা অ্যাক্সেস করতে পারবে।</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে আপনার পাসওয়ার্ড দেখতে ও ম্যানেজ করতে প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
+<translation id="2698924724374512123">আপনার অ্যাডমিনিস্ট্রেটর WEB3 DNA Browser Enterprise কানেক্টরগুলিকে আপনার ব্রাউজারে চালু করেছে। এই কানেক্টর আপনার কিছু ডেটা অ্যাক্সেস করতে পারবে।</translation>
 <translation id="7617825962482469577">এনভেলপ C7/C6</translation>
 <translation id="7619838219691048931">শেষ শিট</translation>
 <translation id="7625242817712715120">অ্যাডমিনিস্ট্রেটরের নীতি এই কন্টেন্ট প্রিন্ট করার সাজেশন দেয় না</translation>
 <translation id="762844065391966283">এক এক করে</translation>
 <translation id="7631444403134069754">ট্র্যাক অ্যান্ড ফিল্ড</translation>
 <translation id="7633909222644580952">পারফর্ম্যান্সের ডেটা ও ক্র্যাশ রিপোর্ট</translation>
-<translation id="7637571805876720304">Chromium থেকে ক্রেডিট কার্ড সরাবেন?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{কোনও পাসওয়ার্ড সেভ করা নেই}=1{আপনার অ্যাকাউন্টে ১টি পাসওয়ার্ড সেভ করা আছে (<ph name="DOMAIN_LIST" />-এর জন্য)}one{আপনার অ্যাকাউন্টে #টি পাসওয়ার্ড সেভ করা আছে (<ph name="DOMAIN_LIST" />-এর জন্য)}other{আপনার অ্যাকাউন্টে #টি পাসওয়ার্ড সেভ করা আছে (<ph name="DOMAIN_LIST" />-এর জন্য)}}</translation>
 <translation id="7638605456503525968">সিরিয়াল পোর্ট</translation>
 <translation id="7639968568612851608">গাঢ় ধূসর</translation>
@@ -2624,7 +2614,7 @@
 <translation id="7673278391011283842">মেলবক্স ৬</translation>
 <translation id="7675325315208090829">পেমেন্ট পদ্ধতিগুলি ম্যানেজ করুন...</translation>
 <translation id="7676643023259824263">ক্লিপবোর্ড টেক্সট <ph name="TEXT" /> সার্চ করুন</translation>
-<translation id="7679367271685653708">Chrome সেটিংস থেকে আপনার ব্রাউজিংয়ের ইতিহাস দেখুন এবং ম্যানেজ করুন</translation>
+<translation id="7679367271685653708">WEB3 DNA Browser সেটিংস থেকে আপনার ব্রাউজিংয়ের ইতিহাস দেখুন এবং ম্যানেজ করুন</translation>
 <translation id="7679947978757153706">বেসবল</translation>
 <translation id="7681273392938116652">কাল্পনিক খেলাধুলা</translation>
 <translation id="7682287625158474539">শিপিং</translation>
@@ -2653,7 +2643,7 @@
 <translation id="7740996059027112821">মানক</translation>
 <translation id="77424286611022110">এই সাইট ব্যাঘাত সৃষ্টিকারী বা বিভ্রান্তিকর বিজ্ঞাপন দেখায়। <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">বিপজ্জনক কন্টেন্ট ব্লক করা হয়েছে।</translation>
-<translation id="7751971323486164747">Chrome-এ ফন্ট সাইজ এবং টাইপফেস কাস্টমাইজ করুন</translation>
+<translation id="7751971323486164747">WEB3 DNA Browser-এ ফন্ট সাইজ এবং টাইপফেস কাস্টমাইজ করুন</translation>
 <translation id="7752995774971033316">অপরিচালিত</translation>
 <translation id="7755624218968747854">প্রাইমারি রোল</translation>
 <translation id="7758069387465995638">ফায়ারওয়াল বা অ্যান্টিভাইরাস সফটওয়্যার সংযোগকে অবরুদ্ধ করে থাকতে পারে।</translation>
@@ -2676,7 +2666,7 @@
 <translation id="7805571567667010077">আপনার সংস্থার মাধ্যমে ম্যানেজ করা হয়</translation>
 <translation id="7805768142964895445">স্থিতি</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Chrome থেকে ফর্ম প্রস্তাবনা সরাবেন?</translation>
+
 <translation id="781440967107097262">ক্লিপবোর্ড শেয়ার করবেন?</translation>
 <translation id="7815407501681723534">'<ph name="SEARCH_STRING" />' এর জন্য <ph name="NUMBER_OF_RESULTS" />টি <ph name="SEARCH_RESULTS" /> খুঁজে পাওয়া গেছে</translation>
 <translation id="7822320754433038727">শিকার ও শুটিং</translation>
@@ -2711,8 +2701,8 @@
 <translation id="7943397946612013052">ব্লক করা ডাউনলোড</translation>
 <translation id="7943893128817522649">একাধিক ফাইল অটোমেটিক ডাউনলোড করতে অনুমতি চাইতে পারে</translation>
 <translation id="7947285636476623132">আপনার মেয়াদ শেষের বছর পরীক্ষা করে আবার চেষ্টা করুন</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-এর ফিচার সম্পর্কে জানতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
-<translation id="7950027195171824198">Chrome সেটিংসে কুকি সম্পর্কিত পছন্দগুলি ম্যানেজ করুন</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-এর ফিচার সম্পর্কে জানতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
+<translation id="7950027195171824198">WEB3 DNA Browser সেটিংসে কুকি সম্পর্কিত পছন্দগুলি ম্যানেজ করুন</translation>
 <translation id="7951415247503192394">(৩২-বিট)</translation>
 <translation id="7952192831285741665">European EDP</translation>
 <translation id="7953569069500808819">উপরের ধারের দিকে সেলাই</translation>
@@ -2727,7 +2717,7 @@
 <translation id="7981129096182302364">নাচ ও ইলেক্ট্রনিক মিউজিক</translation>
 <translation id="798134797138789862">ভার্চুয়াল রিয়েলিটি ডিভাইস ও ডেটা ব্যবহার করতে অনুমতি চাইতে পারে</translation>
 <translation id="7983008347525536475">SUVs</translation>
-<translation id="7984945080620862648">আপনি <ph name="SITE" /> এ যেতে পারবেন না কারণ অসম্পূর্ণ শংসাপত্র পাঠিয়েছে যেটি Chrome প্রক্রিয়া করতে পারে না।  নেটওয়ার্ক ত্রুটি এবং আক্রমণ সাধারণত সাময়িকভাবে হয়, তাই এই পৃষ্ঠা সম্ভবত পরে কাজ করবে।</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">বাঁধাই</translation>
 <translation id="7992044431894087211"><ph name="APPLICATION_TITLE" />-এর সাথে আবার স্ক্রিন শেয়ার করা চালু করা হয়েছে</translation>
@@ -2760,7 +2750,7 @@
 <translation id="8057711352706143257">"<ph name="SOFTWARE_NAME" />" সঠিকভাবে কনফিগার হয়নি। সাধারণত "<ph name="SOFTWARE_NAME" />" আন-ইনস্টল করা হলে সমস্যার সমাধান হয়ে যায়। <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">খাদ্য উৎপাদন</translation>
 <translation id="8066225060526005217">কুকি সেটিংস দ্বারা ম্যানেজ করা হয়েছে</translation>
-<translation id="8067872629359326442">আপনি এখনই প্রতারণামূলক একটি সাইটে আপনার পাসওয়ার্ড লিখেছেন। Chromium সাহায্য করবে। আপনার অ্যাকাউন্টের নিরাপত্তা লঙ্ঘনের সম্ভাবনা এড়ানোর জন্য পাসওয়ার্ড পরিবর্তন করতে এবং Google-কে বিজ্ঞপ্তি দিয়ে জানাতে 'অ্যাকাউন্ট সুরক্ষিত রাখুন' বিকল্পে ক্লিক করুন।</translation>
+
 <translation id="8070439594494267500">অ্যাপ আইকন</translation>
 <translation id="8075736640322370409">চটপট Google Sheet তৈরি করুন</translation>
 <translation id="8075898834294118863">'সাইট সেটিংস' বোতাম ম্যানেজ করুন</translation>
@@ -2790,7 +2780,7 @@
 <translation id="8116925261070264013">মিউট করা আছে</translation>
 <translation id="8118489163946903409">পেমেন্টের পদ্ধতি</translation>
 <translation id="8123046743443732598">ডেস্কটপ কম্পিউটার</translation>
-<translation id="8124639700796374294">Chrome বোতাম কাস্টমাইজ করুন, আপনার ব্রাউজার কেমন দেখতে হবে সেটি কাস্টমাইজ করতে Enter প্রেস করুন</translation>
+<translation id="8124639700796374294">WEB3 DNA Browser বোতাম কাস্টমাইজ করুন, আপনার ব্রাউজার কেমন দেখতে হবে সেটি কাস্টমাইজ করতে Enter প্রেস করুন</translation>
 <translation id="8126056688005753476">দুঃসাহসিক ভ্রমণ</translation>
 <translation id="8127301229239896662">"<ph name="SOFTWARE_NAME" />" আপনার কম্পিউটার বা নেটওয়ার্কে সঠিক ভাবে ইনস্টল করা হয়নি। আপনার IT প্রশাসককে এই সমস্যাটি সমাধান করতে বলুন।</translation>
 <translation id="8131740175452115882">নিশ্চিত হন</translation>
@@ -2801,7 +2791,7 @@
 <translation id="8157295877370077682">সাইট থেকে বেরিয়ে আসুন</translation>
 <translation id="8163866351304776260">বাঁদিকে কোয়াড পাঞ্চ</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">আপনি সাইন-ইন করে রয়েছেন বলে, Chrome আপনার কার্ডগুলি আপনার Google অ্যাকাউন্টে সেভ করার অফার করছে। সেটিংসে গিয়ে এই আচরণটি পরিবর্তন করতে পারেন।</translation>
+<translation id="8903986195054043594">আপনি সাইন-ইন করে রয়েছেন বলে, WEB3 DNA Browser আপনার কার্ডগুলি আপনার Google অ্যাকাউন্টে সেভ করার অফার করছে। সেটিংসে গিয়ে এই আচরণটি পরিবর্তন করতে পারেন।</translation>
 <translation id="8176440868214972690">এই ডিভাইসের অ্যাডমিনিস্ট্রেটর নিম্নলিখিত ওয়েবসাইটগুলিকে সেটিংস বা নীতির মতো কিছু তথ্য পাঠিয়েছে।</translation>
 <translation id="8184538546369750125">বিশ্বব্যাপী ডিফল্ট ব্যবহার করুন (অনুমতি দিন)</translation>
 <translation id="8186706823560132848">সফটওয়ার</translation>
@@ -2846,11 +2836,11 @@
 <translation id="8270242299912238708">পিডিএফ দস্তাবেজগুলি</translation>
 <translation id="8275952078857499577">এই সাইট অনুবাদ করা যাবে না</translation>
 <translation id="8277900682056760511">পেমেন্ট হ্যান্ডলার শিট খোলা আছে</translation>
-<translation id="8279611986089885641">Chrome বিজ্ঞপ্তি চালু রাখতে হবে। আপনি <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" /> থেকে সেগুলি চালু করতে পারবেন।</translation>
+<translation id="2375797557832310962">WEB3 DNA Browser বিজ্ঞপ্তি চালু রাখতে হবে। আপনি <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" /> থেকে সেগুলি চালু করতে পারবেন।</translation>
 <translation id="8280630997017109758">ট্রে ১১</translation>
 <translation id="8281886186245836920">ছেড়ে যান</translation>
 <translation id="8282947398454257691">আপনার অনন্য ডিভাইস সনাক্তকারীকে জানুন</translation>
-<translation id="8284769179630993263">Chrome সেটিংসে আপনার Safe Browsing ও আরও অনেক কিছু ম্যানেজ করুন</translation>
+<translation id="8284769179630993263">WEB3 DNA Browser সেটিংসে আপনার Safe Browsing ও আরও অনেক কিছু ম্যানেজ করুন</translation>
 <translation id="8286036467436129157">সাইন-ইন করুন</translation>
 <translation id="8288807391153049143">সার্টিফিকেট দেখান</translation>
 <translation id="8289355894181816810">যদি আপনি এর অর্থের ব্যাপারে নিশ্চিত না হন তাহলে আপনার নেটওয়ার্ক প্রশাসকের সঙ্গে যোগাযোগ করুন৷</translation>
@@ -2889,7 +2879,7 @@
 <translation id="8390725133630534698"><ph name="ORIGIN_NAME" /> থেকে <ph name="VM_NAME" />-এ শেয়ার করা অ্যাডমিনিস্ট্রেটর পলিসির মাধ্যমে ব্লক করা হয়েছে</translation>
 <translation id="8396522675989118466"><ph name="SIDE_OF_CARD" />-এ দেখানো <ph name="NUMBER_OF_DIGITS" />-ডিজিট কোড</translation>
 <translation id="8398790343843005537">আপনার ফোন খুঁজুন</translation>
-<translation id="8405579342203358118">Chrome সেটিংসে আপনি কী ধরনের তথ্য সিঙ্ক করবেন, তা ম্যানেজ করুন</translation>
+<translation id="8405579342203358118">WEB3 DNA Browser সেটিংসে আপনি কী ধরনের তথ্য সিঙ্ক করবেন, তা ম্যানেজ করুন</translation>
 <translation id="8409413588194360210">পেমেন্ট হ্যান্ডলার</translation>
 <translation id="8412145213513410671">ক্র্যাশ (<ph name="CRASH_COUNT" />টি)</translation>
 <translation id="8412392972487953978">আপনাকে একই পাসফ্রেজ অবশ্যই দু'বার প্রবেশ করাতে হবে৷</translation>
@@ -2900,7 +2890,7 @@
 <translation id="8427848540066057481">৫০০ x ৭৫০ মিমি</translation>
 <translation id="8428213095426709021">সেটিংস</translation>
 <translation id="8428634594422941299">বুঝেছি</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome সেটিংসে আপনার কুকির অগ্রাধিকার ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser সেটিংসে আপনার কুকির অগ্রাধিকার ম্যানেজ করতে প্রথমে Tab, তারপরে Enter প্রেস করুন</translation>
 <translation id="8433057134996913067">এটি বেশিরভাগ ওয়েবসাইট থেকে আপনাকে প্রস্থান করুন করবে।</translation>
 <translation id="8434840396568290395">পোষ্য</translation>
 <translation id="8437238597147034694">&amp;সরানোকে পূর্বাবস্থায় ফেরান</translation>
@@ -2920,12 +2910,12 @@
 <translation id="8473863474539038330">ঠিকানা ও আরও অনেককিছু</translation>
 <translation id="8474910779563686872">ডেভেলপারের বিবরণ দেখান</translation>
 <translation id="8479754468255770962">নিচে বাঁদিকে স্টেপল করুন</translation>
-<translation id="8483780878231876732">আপনার Google অ্যাকাউন্ট থেকে কার্ড ব্যবহার করার জন্য Chrome-এ সাইন-ইন করুন</translation>
+<translation id="8483780878231876732">আপনার Google অ্যাকাউন্ট থেকে কার্ড ব্যবহার করার জন্য WEB3 DNA Browser-এ সাইন-ইন করুন</translation>
 <translation id="8488350697529856933">এতে প্রয়োগ হয়</translation>
 <translation id="8490137692873530638">স্ট্যাকার ১০</translation>
 <translation id="8493948351860045254">জায়গা ফাঁকা করুন</translation>
 <translation id="8498891568109133222"><ph name="HOST_NAME" /> সাড়া দিতে খুবে বেশি সময় নিয়েছে।</translation>
-<translation id="8503559462189395349">Chrome পাসওয়ার্ডগুলি</translation>
+<translation id="1863492395079744896">WEB3 DNA Browser পাসওয়ার্ডগুলি</translation>
 <translation id="8503813439785031346">ইউজারনেম</translation>
 <translation id="8507227106804027148">কমান্ড লাইন</translation>
 <translation id="8508648098325802031">সার্চ আইকন</translation>
@@ -2933,8 +2923,8 @@
 <translation id="851353418319061866">আরও উন্নত করার জন্য দেওয়া পরামর্শ যাচাই করা</translation>
 <translation id="8513580896341796021">ডাউনলোড শুরু হয়েছে। এটি দেখার জন্য, |<ph name="ACCELERATOR" />| প্রেস করুন।</translation>
 <translation id="8519753333133776369">আপনার অ্যাডমিনিস্ট্রেটর HID ডিভাইস ব্যবহারের অনুমতি দিয়েছেন</translation>
-<translation id="8522552481199248698">পাসওয়ার্ড পরিবর্তন করে আপনার Google অ্যাকাউন্ট সুরক্ষিত রাখতে Chrome সাহায্য করতে পারবে।</translation>
-<translation id="8530813470445476232">Chrome সেটিংস থেকে আপনার ব্রাউজিং ইতিহাস, কুকি, ক্যাশে ও আরও অনেক কিছু মুছুন</translation>
+
+<translation id="8530813470445476232">WEB3 DNA Browser সেটিংস থেকে আপনার ব্রাউজিং ইতিহাস, কুকি, ক্যাশে ও আরও অনেক কিছু মুছুন</translation>
 <translation id="853332391023689529">পিক-আপ ট্রাক</translation>
 <translation id="8533619373899488139">ব্লক করা ইউআরএলের তালিকা এবং আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের প্রয়োগ করা অন্যান্য নীতিগুলি দেখার জন্য &lt;strong&gt;chrome://policy&lt;/strong&gt;-এ যান।</translation>
 <translation id="8539500321752640291">২টি অনুমতি দেবেন?</translation>
@@ -2950,7 +2940,7 @@
 <translation id="8557066899867184262">আপনার কার্ডের পিছনে CVC ছবিটি আছে।</translation>
 <translation id="8559762987265718583"><ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> এ একটি ব্যক্তিগত সংযোগ স্থাপন করা যায়নি কারণ আপনার ডিভাইসের তারিখ এবং সময় (<ph name="DATE_AND_TIME" />) সঠিক নয়৷</translation>
 <translation id="8564182942834072828">আলাদা ডকুমেন্ট/সংগ্রহ না করা কপি</translation>
-<translation id="8564985650692024650">Chromium-এর নীতি অনুযায়ী আপনার <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> পাসওয়ার্ড বদলে ফেলা উচিত যদি আপনি সেটি অন্য কোনও সাইটে ব্যবহার করে থাকেন।</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser-এর নীতি অনুযায়ী আপনার <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> পাসওয়ার্ড বদলে ফেলা উচিত যদি আপনি সেটি অন্য কোনও সাইটে ব্যবহার করে থাকেন।</translation>
 <translation id="8576310925653847813">হোম থিয়েটার সিস্টেম</translation>
 <translation id="8577348305244205642">ভার্চুয়াল কার্ড উপলভ্য নেই</translation>
 <translation id="858637041960032120">ফোননম্বর জুড়ুন</translation>
@@ -2982,7 +2972,7 @@
 <translation id="868922510921656628">সেট প্রতি পৃষ্ঠা</translation>
 <translation id="869891660844655955">মেয়াদকাল সমাপ্তির তারিখ</translation>
 <translation id="8699041776323235191">HID ডিভাইস</translation>
-<translation id="8699899385443889493">Chrome ডাইনো গেম বোতাম চালু করুন, Chrome-এ ডাইনো রান গেম খেলতে Enter প্রেস করুন</translation>
+<translation id="8699899385443889493">WEB3 DNA Browser ডাইনো গেম বোতাম চালু করুন, WEB3 DNA Browser-এ ডাইনো রান গেম খেলতে Enter প্রেস করুন</translation>
 <translation id="8699985386408839112">এনভেলপ কাকু ১</translation>
 <translation id="8703575177326907206"><ph name="DOMAIN" />-এ আপনার কানেকশন এনক্রিপ্ট হয় নি৷</translation>
 <translation id="8705331520020532516">ক্রমিক সংখ্যা</translation>
@@ -2999,12 +2989,12 @@
 <translation id="8725066075913043281">আবার চেষ্টা করুন</translation>
 <translation id="8726549941689275341">পৃষ্ঠার সাইজ:</translation>
 <translation id="8730621377337864115">হয়ে গেছে</translation>
-<translation id="8731544501227493793">পাসওয়ার্ড ম্যানেজ করার বোতাম, Chrome সেটিংসে আপনার পাসওয়ার্ড দেখতে ও ম্যানেজ করতে Enter প্রেস করুন</translation>
+<translation id="8731544501227493793">পাসওয়ার্ড ম্যানেজ করার বোতাম, WEB3 DNA Browser সেটিংসে আপনার পাসওয়ার্ড দেখতে ও ম্যানেজ করতে Enter প্রেস করুন</translation>
 <translation id="8734529307927223492">আপনার <ph name="DEVICE_TYPE" />, <ph name="MANAGER" />-এর মাধ্যমে ম্যানেজ করা হয়</translation>
 <translation id="8736059027199600831">৩০ x ৪০ ইঞ্চি</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, গোপনে ব্রাউজিংয়ের জন্য নতুন ছদ্মবেশী উইন্ডো খুলতে প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
 <translation id="8737685506611670901"><ph name="REPLACED_HANDLER_TITLE" />-এর পরিবর্তে <ph name="PROTOCOL" /> লিঙ্কসমূহ খুলুন</translation>
-<translation id="8738058698779197622">নিরাপদ নেটওয়ার্ক সংযোগ স্থাপন করতে আপনার ঘড়িকে সঠিকভাবে সেট করতে হবে৷ নিরাপদ সংযোগ স্থাপন করার জন্য নিজেদের শনাক্ত করার জন্য ওয়েবসাইটগুলি যে শংসাপত্রগুলি ব্যবহার করে, সেগুলি শুধুমাত্র নির্দিষ্ট সময়ের জন্য বৈধ থাকে৷ যেহেতু আপনার ডিভাইসের ঘড়িটি ভুল, সেই জন্য Chromium সঠিকভাবে শংসাপত্রগুলি পরীক্ষা করতে পারে না৷</translation>
+
 <translation id="8740359287975076522"><ph name="HOST_NAME" /> এর &lt;abbr id="ডিএনএসDefinition"&gt;ডিএনএস ঠিকানা&lt;/abbr&gt; পাওয়া যায়নি। সমস্যা নির্ণয় করা হচ্ছে।</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> হল আপনার <ph name="ORIGIN" />-এর কোড</translation>
 <translation id="874918643257405732">এই ট্যাব বুকমার্ক করুন</translation>
@@ -3023,9 +3013,9 @@
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">মোটর সাইকেল</translation>
 <translation id="8790007591277257123">&amp;মুছে ফেলাকে আবার করুন</translation>
-<translation id="8792621596287649091">আপনি নিজের <ph name="ORG_NAME" /> অ্যাকাউন্টের অ্যাক্সেস হারাতে পারেন অথবা আপনার পরিচয় চুরি হয়ে যেতে পারে। Chromium এখনই আপনার পাসওয়ার্ড পরিবর্তন করার আর্জি জানাচ্ছে।</translation>
+
 <translation id="8792626944327216835">মাইক্রোফোন</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> আপনার ব্রাউজারে Chrome Enterprise কানেক্টর চালু করেছে। এই কানেক্টর আপনার কিছু ডেটা অ্যাক্সেস করতে পারবে।</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> আপনার ব্রাউজারে WEB3 DNA Browser Enterprise কানেক্টর চালু করেছে। এই কানেক্টর আপনার কিছু ডেটা অ্যাক্সেস করতে পারবে।</translation>
 <translation id="8798099450830957504">ডিফল্ট</translation>
 <translation id="8798739476508189189">ব্রাউজার ফ্ল্যাগ খুঁজছেন? দেখুন</translation>
 <translation id="8805819170075074995">তালিকার এন্ট্রি "<ph name="LANGUAGE_ID" />": এন্ট্রিটি SpellcheckLanguage নীতিতেও অন্তর্ভুক্ত থাকার জন্য এটি অগ্রাহ্য করা হয়েছে।</translation>
@@ -3033,7 +3023,7 @@
 <translation id="8807160976559152894">প্রতিটি পৃষ্ঠার পর ট্রিম করুন</translation>
 <translation id="8813277370772331957">আমাকে পরে মনে করানো হোক</translation>
 <translation id="8814707942599948500">এনভেলপ C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, আপনার Chrome সেটিংসে Chrome আপডেট করতে, প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, আপনার WEB3 DNA Browser সেটিংসে WEB3 DNA Browser আপডেট করতে, প্রথমে Tab আর তারপরে Enter প্রেস করুন</translation>
 <translation id="8820817407110198400">Bookmarks</translation>
 <translation id="882338992931677877">ম্যানুয়াল স্লট</translation>
 <translation id="8830320733681313421">Hagaki পোস্টকার্ড</translation>
@@ -3047,7 +3037,7 @@
 <translation id="885306012106043620">টেনিস</translation>
 <translation id="8855742650226305367">ডান্স</translation>
 <translation id="885730110891505394">Google এর সাথে ভাগ করছে</translation>
-<translation id="8858065207712248076">Chrome-এর নীতি অনুযায়ী আপনার <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> পাসওয়ার্ড বদলে ফেলা উচিত যদি আপনি সেটি অন্য কোনও সাইটে ব্যবহার করে থাকেন।</translation>
+
 <translation id="885906927438988819">বানান সঠিক হলে, <ph name="BEGIN_LINK" />'Windows নেটওয়ার্ক ডায়াগনস্টিক' টুল চালিয়ে দেখুন<ph name="END_LINK" />।</translation>
 <translation id="8866132857352163524">সাউন্ডট্র্যাক</translation>
 <translation id="8866481888320382733">নীতি সেটিংস বিশ্লেষণ করার সময় ত্রুটি</translation>
@@ -3067,7 +3057,7 @@
 <translation id="8903921497873541725">জুম বাড়ান</translation>
 <translation id="890493561996401738">সাজেশন বোতাম সরান, সরাতে Enter বোতাম প্রেস করুন, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google অ্যাকাউন্ট</translation>
-<translation id="8913778647360618320">পেমেন্ট পদ্ধতি ম্যানেজ করার বোতাম, Chrome সেটিংসে আপনার পেমেন্ট ও ক্রেডিট কার্ডের তথ্য ম্যানেজ করতে Enter প্রেস করুন</translation>
+<translation id="8913778647360618320">পেমেন্ট পদ্ধতি ম্যানেজ করার বোতাম, WEB3 DNA Browser সেটিংসে আপনার পেমেন্ট ও ক্রেডিট কার্ডের তথ্য ম্যানেজ করতে Enter প্রেস করুন</translation>
 <translation id="8922013791253848639">এই সাইটে সবসময় বিজ্ঞাপন দেখানোর অনুমতি দিন</translation>
 <translation id="892588693504540538">উপরের ডানদিকে পাঞ্চ</translation>
 <translation id="8930330541574156305">রিয়েল এস্টেট</translation>
@@ -3088,7 +3078,7 @@
 <translation id="8975263830901772334">আপনার প্রিন্ট করা ফাইলগুলির নাম</translation>
 <translation id="8978053250194585037">Google Safe Browsing সম্প্রতি <ph name="SITE" /> এ <ph name="BEGIN_LINK" />ফিশিং শনাক্ত করেছে<ph name="END_LINK" />। ফিশিং সাইটগুলি আপনাকে প্রতারিত করার জন্য অন্যান্য সাইট যেমন হয় সেইরকম ভান করে।</translation>
 <translation id="8983369100812962543">আপনি এখন অ্যাপ ছোট বড় করতে পারবেন</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome-এ আপনার ব্রাউজিংয়ের ইতিহাস দেখতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser-এ আপনার ব্রাউজিংয়ের ইতিহাস দেখতে Tab প্রেস করার পর Enter প্রেস করুন</translation>
 <translation id="8987927404178983737">মাস</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">সিস্টেম ভার্সন খুঁজছেন? দেখুন</translation>
@@ -3135,19 +3125,19 @@
 <translation id="908796725011587895">কলেজের খেলাধূলা</translation>
 <translation id="9089260154716455634">Off-Hours সংক্রান্ত নীতি:</translation>
 <translation id="9095388113577226029">আরও ভাষা...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, iOS সেটিংসে Chrome-কে সিস্টেমের ডিফল্ট ব্রাউজার হিসেবে সেট করতে প্রথমে ট্যাব, তারপরে Enter কী প্রেস করুন</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, iOS সেটিংসে WEB3 DNA Browser-কে সিস্টেমের ডিফল্ট ব্রাউজার হিসেবে সেট করতে প্রথমে ট্যাব, তারপরে Enter কী প্রেস করুন</translation>
 <translation id="9096679202588811390">টিভি শো ও প্রোগ্রাম</translation>
 <translation id="9101630580131696064">ট্রে ১</translation>
 <translation id="9102081333385212048">আপনার কপি করা বা সরিয়ে দেওয়া ফাইল Google Cloud-এ বা থার্ড-পার্টির কাছে বিশ্লেষণ করার জন্য পাঠানো হয়েছে। যেমন, কোনও সংবেদনশীল ডেটা বা ম্যালওয়্যার আছে কিনা জানার জন্য ফাইলগুলি হয়ত স্ক্যান করা হতে পারে।</translation>
 <translation id="9103537084693478942">ভিডিও সফ্টওয়্যার</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> সাধারণত আপনার তথ্য সুরক্ষিত রাখতে এনক্রিপশন ব্যবহার করে। এবার Chromium, <ph name="SITE" />-এর সাথে কানেক্ট করার চেষ্টা করলে ওয়েবসাইটটি অস্বাভাবিক এবং ভুল ক্রেডেনশিয়াল পাঠিয়ে দেয়। হয় একজন আক্রমণকারী <ph name="SITE" /> হতে চাইছে অথবা একটি ওয়াই-ফাই সাইন-ইন স্ক্রিন কানেকশনকে বাধা দিয়েছে। আপনার তথ্য এখনো নিরাপদ আছে কারণ কোনো ডেটা আদানপ্রদানের আগেই Chromium কানেকশন বন্ধ করে দিয়েছে।</translation>
+
 <translation id="9106062320799175032">বিলিংয়ের ঠিকানা যোগ করুন</translation>
 <translation id="9107467864910557787"><ph name="MANAGER" />-এর মাধ্যমে আপনার ব্রাউজার ম্যানেজ করা হয়</translation>
 <translation id="91108059142052966">কোনও গোপন কন্টেন্ট দেখা গেলে 'অ্যাডমিনিস্ট্রেটর নীতি' অনুযায়ী <ph name="APPLICATION_TITLE" />-এর সাথে স্ক্রিন শেয়ার করা হবে না</translation>
 <translation id="9114524666733003316">কার্ড নিশ্চিত করা হচ্ছে...</translation>
-<translation id="9114581008513152754">কোনও কোম্পানি বা অন্য কোনও সংস্থা এই ব্রাউজার ম্যানেজ করে না। এই ডিভাইসের অ্যাক্টিভিটি Chrome-এর বাইরে থেকে ম্যানেজ করা যেতে পারে। <ph name="BEGIN_LINK" />আরও জানুন<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">তাজা</translation>
-<translation id="9118692854637641831">সার্চ করা আবার চালু করতে <ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, Tab ও তারপরে Enter প্রেস করুন এবং আপনার Chrome ইতিহাসে প্রাসঙ্গিক অ্যাক্টিভিটি দেখুন</translation>
+<translation id="1160223980975103471">সার্চ করা আবার চালু করতে <ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, Tab ও তারপরে Enter প্রেস করুন এবং আপনার WEB3 DNA Browser ইতিহাসে প্রাসঙ্গিক অ্যাক্টিভিটি দেখুন</translation>
 <translation id="9119042192571987207">আপলোড করা হয়েছে</translation>
 <translation id="9122954576417194280">পণ্য ও ভবিষ্যতের ট্রেডিং</translation>
 <translation id="9128016270925453879">নীতি লোড হয়েছে</translation>
@@ -3162,7 +3152,7 @@
 <translation id="9148088599418889305">শিপিংয়ের পদ্ধতি বেছে নিন</translation>
 <translation id="9148507642005240123">&amp;সম্পাদনাকে পূর্বাবস্থায় ফেরান</translation>
 <translation id="9150045010208374699">আপনার ক্যামেরা ব্যবহার করুন</translation>
-<translation id="9150685862434908345">আপনার অ্যাডমিনিস্ট্রেটর রিমোট লোকেশন থেকে আপনার ব্রাউজারের সেটআপ পরিবর্তন করতে পারেন। তাছাড়া, এই ডিভাইসের অ্যাক্টিভিটি Chrome-এর বাইরে থেকেও ম্যানেজ করা হতে পারে। <ph name="BEGIN_LINK" />আরও জানুন<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">আপডেট রয়েছে</translation>
 <translation id="9155211586651734179">অডিও পেরিফেরাল অ্যাটাচ করা হয়েছে</translation>
 <translation id="9157595877708044936">সেট-আপ হচ্ছে...</translation>
@@ -3177,7 +3167,7 @@
 <translation id="917450738466192189">সার্ভারের সার্টিফিকেট অকার্যকর৷</translation>
 <translation id="9174623988242579721">কাস্টম ও দ্রুতগামী যানবাহন</translation>
 <translation id="9174917557437862841">ট্যাব সুইচ বোতাম, এই ট্যাবে পরিবর্তন করতে এন্টার প্রেস করুন</translation>
-<translation id="9179703756951298733">Chrome সেটিংস থেকে আপনার পেমেন্ট ও ক্রেডিট কার্ডের তথ্য ম্যানেজ করুন</translation>
+<translation id="9179703756951298733">WEB3 DNA Browser সেটিংস থেকে আপনার পেমেন্ট ও ক্রেডিট কার্ডের তথ্য ম্যানেজ করুন</translation>
 <translation id="9179907736442194268">কোনও সাইটে দাম কমলে সেই বিষয়ে ইমেল বিজ্ঞপ্তি পান</translation>
 <translation id="9183302530794969518">Google Docs</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> একটি অসমর্থিত প্রোটোকল ব্যবহার করে।</translation>
@@ -3188,12 +3178,12 @@
 <translation id="920511547311754821">আপনার কোড খুঁজে পাচ্ছেন না? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">নিবন্ধ যোগ করতে ব্যর্থ হয়েছে৷</translation>
 <translation id="9213433120051936369">কেমন দেখাবে তা কাস্টমাইজ করুন</translation>
-<translation id="9215416866750762878">একটি অ্যাপ্লিকেশন Chrome কে এই সাইটের সাথে নিরাপদভাবে সংযুক্ত হতে বাধা দিচ্ছে</translation>
+<translation id="717994082075351832">একটি অ্যাপ্লিকেশন WEB3 DNA Browser কে এই সাইটের সাথে নিরাপদভাবে সংযুক্ত হতে বাধা দিচ্ছে</translation>
 <translation id="9219103736887031265">Images</translation>
-<translation id="922152298093051471">Chrome কাস্টমাইজ করুন</translation>
+<translation id="922152298093051471">WEB3 DNA Browser কাস্টমাইজ করুন</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">ফর্ম সাফ করুন</translation>
-<translation id="936602727769022409">আপনি আপনার Google অ্যাকাউন্টে অ্যাক্সেস হারাতে পারেন। Chromium-এর প্রস্তাব হল যে আপনি আপনার পাসওয়ার্ড এখনই পরিবর্তন করুন। আপনাকে আবার সাইন-ইন করতে বলা হবে।</translation>
+
 <translation id="937457230470581909">চিড়িয়াখানা, অ্যাকোয়ারিয়াম এবং সংরক্ষণ</translation>
 <translation id="939736085109172342">নতুন ফোল্ডার</translation>
 <translation id="940053046584497293">ভ্রমণ ও পরিবহন</translation>

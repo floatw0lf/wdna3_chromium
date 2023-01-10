@@ -23,7 +23,7 @@
     Bookmarks removed
   </message>
   <message name="IDS_DEFAULT_BROWSER_CHANGED" desc="text notifying users that their default browser is successfully changed to Chrome">
-    Chrome is your default browser
+    WEB3 DNA Browser is your default browser
   </message>
 
   <!-- Google apps selection module -->
@@ -85,7 +85,7 @@
 
   <!-- set default module -->
   <message name="IDS_WELCOME_SET_AS_DEFAULT_HEADER" desc="Header for the page that prompts user to set Chrome as their default browser.">
-    Set Chrome as your default browser
+    Set WEB3 DNA Browser as your default browser
   </message>
   <message name="IDS_WELCOME_SET_AS_DEFAULT_SUB_HEADER" desc="Sub-header for the page that prompts user to set Chrome as their default browser.">
     Get Google Search and Google smarts everytime you browse
@@ -96,7 +96,7 @@
 
   <!-- Landing view -->
   <message name="IDS_WELCOME_LANDING_TITLE" desc="Title for the page that prompts user to start setting up their new Chrome.">
-    Make Chrome your own
+    Make WEB3 DNA Browser your own
   </message>
   <message name="IDS_WELCOME_LANDING_DESCRIPTION" desc="Description for the page that prompts user to start setting up their new Chrome.">
     Set up your browser in a few simple steps
@@ -105,7 +105,7 @@
     Get Started
   </message>
   <message name="IDS_WELCOME_LANDING_EXISTING_USER" desc="Label for a button that prompts existing users to sign in.">
-    Already a Chrome user? Sign in
+    Already a WEB3 DNA Browser user? Sign in
   </message>
   <message name="IDS_WELCOME_LANDING_PAUSE_ANIMATIONS" desc="Label for a button that pauses all animations on the page.">
     Pause animations
@@ -116,7 +116,7 @@
 
   <!-- Sign-in view -->
   <message name="IDS_WELCOME_SIGNIN_VIEW_HEADER" desc="Header for the page that prompts user to sign in to chrome.">
-    Your Chrome, Everywhere
+    Your WEB3 DNA Browser, Everywhere
   </message>
   <message name="IDS_WELCOME_SIGNIN_VIEW_SUB_HEADER" desc="Sub-header for the page that prompts user to sign in to chrome.">
     Sign in and turn on sync to get your bookmarks, passwords and more on all devices

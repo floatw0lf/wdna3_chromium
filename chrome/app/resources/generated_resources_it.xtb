@@ -75,7 +75,7 @@
 <translation id="1069104208554708737">La passkey verrà salvata solo su questo dispositivo</translation>
 <translation id="1069355737714877171">Rimuovi il profilo eSIM chiamato <ph name="PROFILE_NAME" /></translation>
 <translation id="1069814191880976658">Scegli un altro schermo</translation>
-<translation id="1070377999570795893">Un altro programma sul computer ha aggiunto un'estensione che potrebbe modificare il funzionamento di Chrome.
+<translation id="5141178551043993682">Un altro programma sul computer ha aggiunto un'estensione che potrebbe modificare il funzionamento di WEB3 DNA Browser.
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="1070705170564860382">Apertura in browser alternativo tra <ph name="COUNTDOWN_SECONDS" /> secondi</translation>
@@ -92,7 +92,7 @@
 <translation id="1079766198702302550">Impedisci sempre l'accesso alla webcam</translation>
 <translation id="1081956462909987459">{NUM_TABS,plural, =1{<ph name="GROUP_TITLE" /> - 1 scheda}other{<ph name="GROUP_TITLE" /> - # schede}}</translation>
 <translation id="1082214733466244292">Il tuo amministratore ha bloccato alcune funzionalità per questo dispositivo</translation>
-<translation id="1082398631555931481"><ph name="THIRD_PARTY_TOOL_NAME" /> vuole ripristinare le impostazioni predefinite originali di Chrome. Questa operazione comporta la reimpostazione di pagina iniziale, pagina Nuova scheda e motore di ricerca, oltre alla disattivazione delle estensioni e allo sblocco di tutte le schede. Verranno inoltre cancellati altri dati temporanei e memorizzati nella cache, come cookie e dati relativi a contenuti e siti.</translation>
+<translation id="3679598696200418598"><ph name="THIRD_PARTY_TOOL_NAME" /> vuole ripristinare le impostazioni predefinite originali di WEB3 DNA Browser. Questa operazione comporta la reimpostazione di pagina iniziale, pagina Nuova scheda e motore di ricerca, oltre alla disattivazione delle estensioni e allo sblocco di tutte le schede. Verranno inoltre cancellati altri dati temporanei e memorizzati nella cache, come cookie e dati relativi a contenuti e siti.</translation>
 <translation id="1084096383128641877">La rimozione di questa password non comporta l'eliminazione del tuo account su <ph name="DOMAIN" />. Cambia la password o elimina il tuo account su <ph name="DOMAIN_LINK" /> per proteggerlo dagli altri.</translation>
 <translation id="1084288067399862432">Password compromessa cambiata.
 
@@ -101,7 +101,7 @@ Controlla le password in qualsiasi momento in <ph name="GOOGLE_PASSWORD_MANAGER"
 <translation id="1085064499066015002">Sempre su tutti i siti</translation>
 <translation id="1085697365578766383">Errore durante l'avvio della macchina virtuale. Riprova.</translation>
 <translation id="1087965115100412394">Non consentire ai siti di connettersi ai dispositivi MIDI</translation>
-<translation id="1088654056000736875">Chrome sta rimuovendo software dannoso dal computer…</translation>
+<translation id="7038203544306469524">WEB3 DNA Browser sta rimuovendo software dannoso dal computer…</translation>
 <translation id="1088659085457112967">Avvia modalità Reader</translation>
 <translation id="1090126737595388931">Nessuna applicazione in esecuzione in background</translation>
 <translation id="1090541560108055381">Prima di eseguire l'accoppiamento, assicurati che questo codice sia lo stesso su entrambi i dispositivi</translation>
@@ -156,9 +156,9 @@ Controlla le password in qualsiasi momento in <ph name="GOOGLE_PASSWORD_MANAGER"
 <translation id="114036956334641753">Audio e sottotitoli</translation>
 <translation id="1142002900084379065">Foto recenti</translation>
 <translation id="1143142264369994168">Firmatario del certificato</translation>
-<translation id="1143816224540441191">{NUM_MINS,plural, =1{Chrome non ha rilevato software dannoso sul computer • Ultima verifica: 1 minuto fa}other{Chrome non ha rilevato software dannoso sul computer • Ultima verifica: {NUM_MINS} minuti fa}}</translation>
+<translation id="1534898446999163652">{NUM_MINS,plural, =1{WEB3 DNA Browser non ha rilevato software dannoso sul computer • Ultima verifica: 1 minuto fa}other{WEB3 DNA Browser non ha rilevato software dannoso sul computer • Ultima verifica: {NUM_MINS} minuti fa}}</translation>
 <translation id="1145593918056169051">La stampante si è interrotta</translation>
-<translation id="114721135501989771">Tutta l'intelligenza Google in Chrome</translation>
+<translation id="2822946437534424294">Tutta l'intelligenza Google in WEB3 DNA Browser</translation>
 <translation id="1147322039136785890">È il turno di <ph name="SUPERVISED_USER_NAME" /></translation>
 <translation id="1147991416141538220">Per richiedere l'accesso, contatta l'amministratore del dispositivo.</translation>
 <translation id="1148063863818152153">Numero EID del dispositivo</translation>
@@ -193,7 +193,7 @@ Controlla le password in qualsiasi momento in <ph name="GOOGLE_PASSWORD_MANAGER"
 <translation id="1172750555846831341">Lato corto</translation>
 <translation id="1173894706177603556">Rinomina</translation>
 <translation id="1174073918202301297">Scorciatoia aggiunta</translation>
-<translation id="1174366174291287894">La tua connessione è sempre sicura, a meno che non ti venga data una comunicazione diversa in Chrome</translation>
+<translation id="1130460901578923201">La tua connessione è sempre sicura, a meno che non ti venga data una comunicazione diversa in WEB3 DNA Browser</translation>
 <translation id="117445914942805388"><ph name="BEGIN_LINK" />Accedi alle impostazioni di sincronizzazione<ph name="END_LINK" /> per cancellare i dati di navigazione da tutti i dispositivi sincronizzati e dal tuo Account Google.</translation>
 <translation id="1175364870820465910">&amp;Stampa...</translation>
 <translation id="1176471985365269981">Non autorizzati a modificare file o cartelle sul dispositivo</translation>
@@ -293,7 +293,7 @@ Controlla le password in qualsiasi momento in <ph name="GOOGLE_PASSWORD_MANAGER"
 <translation id="126387934568812801">Includi questo screenshot e i titoli delle schede aperte</translation>
 <translation id="1264083566674525434">Modifica autorizzazioni del sito</translation>
 <translation id="1264337193001759725">Per visualizzare i log dell'interfaccia utente di rete, visita: <ph name="DEVICE_LOG_LINK" /></translation>
-<translation id="1265279736024499987">Le app e le impostazioni verranno sincronizzate su tutti i dispositivi ChromeOS Flex su cui hai eseguito l'accesso con il tuo Account Google. Per le opzioni di sincronizzazione del browser, vai alle <ph name="LINK_BEGIN" />impostazioni di Chrome<ph name="LINK_END" />.</translation>
+<translation id="1512885995932938379">Le app e le impostazioni verranno sincronizzate su tutti i dispositivi ChromeOS Flex su cui hai eseguito l'accesso con il tuo Account Google. Per le opzioni di sincronizzazione del browser, vai alle <ph name="LINK_BEGIN" />impostazioni di WEB3 DNA Browser<ph name="LINK_END" />.</translation>
 <translation id="126710816202626562">Lingua della traduzione:</translation>
 <translation id="126768002343224824">16x</translation>
 <translation id="1272079795634619415">Interrompi</translation>
@@ -407,7 +407,7 @@ Controlla le password in qualsiasi momento in <ph name="GOOGLE_PASSWORD_MANAGER"
 <translation id="1388253969141979417">Possono utilizzare il microfono</translation>
 <translation id="1388728792929436380"><ph name="DEVICE_TYPE" /> verrà riavviato al termine degli aggiornamenti.</translation>
 <translation id="1389601498324964367">Spazio di archiviazione gestito dalla quota</translation>
-<translation id="1390113502208199250">Dovrai ripristinare i dati di fabbrica di questo dispositivo per usare le funzionalità di Chrome Education Upgrade.</translation>
+<translation id="6981063574509424469">Dovrai ripristinare i dati di fabbrica di questo dispositivo per usare le funzionalità di WEB3 DNA Browser Education Upgrade.</translation>
 <translation id="139013308650923562">Autorizzati a utilizzare i caratteri installati sul tuo dispositivo</translation>
 <translation id="1390548061267426325">Apri in una scheda normale</translation>
 <translation id="1390907927270446471">L'utente <ph name="PROFILE_USERNAME" /> non è autorizzato a stampare dalla stampante <ph name="PRINTER_NAME" />. Contatta l'amministratore.</translation>
@@ -419,7 +419,7 @@ Controlla le password in qualsiasi momento in <ph name="GOOGLE_PASSWORD_MANAGER"
 <translation id="1396259464226642517">Questo risultato non era previsto? <ph name="BEGIN_LINK" />Invia feedback<ph name="END_LINK" /></translation>
 <translation id="1396963298126346194">Il nome utente e la password inseriti non corrispondono</translation>
 <translation id="1397500194120344683">Nessun dispositivo idoneo. <ph name="LINK_BEGIN" />Ulteriori informazioni<ph name="LINK_END" /></translation>
-<translation id="1397594434718759194">Hai eseguito l'accesso a Chrome su questi dispositivi, pertanto puoi usarli come token di sicurezza.</translation>
+<translation id="7881260377817414704">Hai eseguito l'accesso a WEB3 DNA Browser su questi dispositivi, pertanto puoi usarli come token di sicurezza.</translation>
 <translation id="1398853756734560583">Ingrandisci</translation>
 <translation id="139911022479327130">Sblocca il telefono e conferma la tua identità</translation>
 <translation id="1401216725754314428">Scopri di più sui siti correlati in una nuova scheda</translation>
@@ -450,9 +450,9 @@ Controlla le password in qualsiasi momento in <ph name="GOOGLE_PASSWORD_MANAGER"
 <translation id="1420834118113404499">Licenze multimediali</translation>
 <translation id="1420920093772172268"><ph name="TURN_ON_BLUETOOTH_LINK" /> per consentire l'accoppiamento</translation>
 <translation id="1422159345171879700">Carica script non sicuri</translation>
-<translation id="1423716227250567100">L'azione avrà l'effetto di:
+<translation id="971159668002431192">L'azione avrà l'effetto di:
           <ph name="LINE_BREAKS" />
-           • Reimpostare le impostazioni e le scorciatoie di Chrome
+           • Reimpostare le impostazioni e le scorciatoie di WEB3 DNA Browser
            <ph name="LINE_BREAK" />
            • Disattivare le estensioni
            <ph name="LINE_BREAK" />
@@ -536,7 +536,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1494349716233667318">I siti possono chiedere di utilizzare i caratteri installati sul tuo dispositivo</translation>
 <translation id="1495677929897281669">Torna alla scheda</translation>
 <translation id="1500297251995790841">Dispositivo sconosciuto [<ph name="VENDOR_ID" />:<ph name="PRODUCT_ID" />]</translation>
-<translation id="1500801317528437432">Scopri di più sulle app di Chrome non supportate</translation>
+<translation id="7045176092854176928">Scopri di più sulle app di WEB3 DNA Browser non supportate</translation>
 <translation id="1503392482221435031">Invia automaticamente statistiche sull'utilizzo a Google. Puoi attivare o disattivare i report sugli arresti anomali nelle impostazioni del dispositivo.</translation>
 <translation id="150411034776756821">Rimuovi <ph name="SITE" /></translation>
 <translation id="1504551620756424144">Le cartelle condivise sono disponibili su Windows al percorso <ph name="BASE_DIR" />.</translation>
@@ -556,7 +556,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1512642802859169995"><ph name="FILE_NAME" /> è criptato. Chiedi al proprietario di decriptarlo.</translation>
 <translation id="151501797353681931">Importati da Safari</translation>
 <translation id="1515163294334130951">Avvia</translation>
-<translation id="1517467582299994451">Per trasmettere con un codice, attiva le impostazioni di sincronizzazione del browser Chrome</translation>
+<translation id="6212387344320093792">Per trasmettere con un codice, attiva le impostazioni di sincronizzazione del browser WEB3 DNA Browser</translation>
 <translation id="1521442365706402292">Gestisci certificati</translation>
 <translation id="1521774566618522728">Attivo oggi</translation>
 <translation id="152234381334907219">Mai salvate</translation>
@@ -626,7 +626,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1582955169539260415">elimina [<ph name="FINGERPRINT_NAME" />]</translation>
 <translation id="1583127975413389276">La lingua <ph name="LANGUAGE" /> viene elaborata localmente e funziona offline</translation>
 <translation id="1584990664401018068">La rete Wi-Fi in uso (<ph name="NETWORK_ID" />) potrebbe richiedere l'autenticazione.</translation>
-<translation id="1585717515139318619">Un altro programma sul computer ha aggiunto un tema che potrebbe modificare il funzionamento di Chrome.
+<translation id="2358229381143139385">Un altro programma sul computer ha aggiunto un tema che potrebbe modificare il funzionamento di WEB3 DNA Browser.
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="1587275751631642843">Console &amp;JavaScript</translation>
@@ -664,7 +664,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1611776894942218234">Il dispositivo deve essere sul canale beta</translation>
 <translation id="1612019740169791082">Il tuo contenitore non è configurato per supportare il ridimensionamento del disco. Per modificare la quantità di spazio riservata a Linux, effettua il backup e il ripristino in un nuovo contenitore.</translation>
 <translation id="1613019471223620622">Mostra password per <ph name="USERNAME" /> su <ph name="DOMAIN" /></translation>
-<translation id="1613149688105334014">Le versioni precedenti delle app di Chrome non si apriranno più dopo dicembre 2022. Puoi verificare se è disponibile una nuova versione.</translation>
+<translation id="3256392661591315996">Le versioni precedenti delle app di WEB3 DNA Browser non si apriranno più dopo dicembre 2022. Puoi verificare se è disponibile una nuova versione.</translation>
 <translation id="1614511179807650956">Potresti aver esaurito la tua quota di dati mobili. Visita il portale di attivazione <ph name="NAME" /> per acquistare altri dati.</translation>
 <translation id="161460670679785907">Impossibile rilevare il tuo telefono</translation>
 <translation id="1615433306336820465">Gestisci i dati di accesso memorizzati sul token di sicurezza</translation>
@@ -778,7 +778,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1704230497453185209">Non consentire ai siti di riprodurre l'audio</translation>
 <translation id="1704970325597567340">Il controllo di sicurezza è stato eseguito il giorno <ph name="DATE" /></translation>
 <translation id="1706586824377653884">Aggiunta dall'amministratore</translation>
-<translation id="170658918174941828">La versione di Chrome, la versione del sistema operativo, le impostazioni di trasmissione, le statistiche sulle prestazioni del mirroring e i log di diagnosi sui canali di comunicazione verranno inviati in aggiunta a qualsiasi informazione che scegli di includere sopra. Questo feedback viene utilizzato per identificare i problemi e migliorare la funzionalità. Le informazioni personali inviate, in modo esplicito o fortuito, verranno protette secondo le nostre norme sulla privacy. Se invii questo feedback, accetti che Google possa utilizzarlo per migliorare i propri prodotti o servizi.</translation>
+<translation id="5690848840353772730">La versione di WEB3 DNA Browser, la versione del sistema operativo, le impostazioni di trasmissione, le statistiche sulle prestazioni del mirroring e i log di diagnosi sui canali di comunicazione verranno inviati in aggiunta a qualsiasi informazione che scegli di includere sopra. Questo feedback viene utilizzato per identificare i problemi e migliorare la funzionalità. Le informazioni personali inviate, in modo esplicito o fortuito, verranno protette secondo le nostre norme sulla privacy. Se invii questo feedback, accetti che Google possa utilizzarlo per migliorare i propri prodotti o servizi.</translation>
 <translation id="1708338024780164500">(Non attiva)</translation>
 <translation id="1708713382908678956"><ph name="NAME_PH" /> (ID: <ph name="ID_PH" />)</translation>
 <translation id="1709106626015023981"><ph name="WIDTH" /> x <ph name="HEIGHT" /> (formato nativo)</translation>
@@ -909,12 +909,12 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1819443852740954262">Apri tutti gli URL nella finestra di navigazione in incognito</translation>
 <translation id="1819721979226826163">Tocca Notifiche app &gt; Google Play Services.</translation>
 <translation id="1820028137326691631">Inserisci la password fornita dall'amministratore</translation>
-<translation id="1822140782238030981">Sei già un utente di Chrome? Accedi</translation>
+<translation id="2563530360426378190">Sei già un utente di WEB3 DNA Browser? Accedi</translation>
 <translation id="18245044880483936">I dati di backup non incidono sulla quota di spazio di archiviazione di Drive di tuo figlio.</translation>
 <translation id="1825565032302550710">La porta deve avere un valore compreso tra 1024 e 65535</translation>
 <translation id="182577151972096764">ricette visualizzate di recente</translation>
 <translation id="18260074040409954">Puoi usare le password salvate su qualsiasi dispositivo. Le password vengono salvate in <ph name="GOOGLE_PASSWORD_MANAGER" /> per l'account <ph name="EMAIL" />.</translation>
-<translation id="1826192255355608658">Sincronizza i preferiti, le password, la cronologia e altri dati del browser Chrome</translation>
+<translation id="8226975980323219652">Sincronizza i preferiti, le password, la cronologia e altri dati del browser WEB3 DNA Browser</translation>
 <translation id="1826516787628120939">Verifica in corso...</translation>
 <translation id="1828378091493947763">Questo plug-in non è supportato sul dispositivo in uso</translation>
 <translation id="1828879788654007962">{COUNT,plural, =0{&amp;Apri tutti}=1{&amp;Apri preferito}other{&amp;Apri tutti ({COUNT})}}</translation>
@@ -964,10 +964,10 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="186594096341696655">Riduci frequenza</translation>
 <translation id="186612162884103683">L'estensione "<ph name="EXTENSION" />" può leggere e scrivere file di immagini, video e audio nelle posizioni selezionate.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> è pronto a completare l'installazione</translation>
-<translation id="1868553836791672080">Il controllo delle password non è disponibile in Chromium</translation>
+<translation id="3952357862930515615">Il controllo delle password non è disponibile in WEB3 DNA Browser</translation>
 <translation id="1868617395637139709">Utilizza la posizione del dispositivo per i servizi Android e le app.</translation>
 <translation id="1869433484041798909">Pulsante Preferito</translation>
-<translation id="1871098866036088250">Apri nel browser Chrome</translation>
+<translation id="6214932586127219681">Apri nel browser WEB3 DNA Browser</translation>
 <translation id="187145082678092583">Meno app</translation>
 <translation id="1871463148436682760">Ottimo lavoro!</translation>
 <translation id="1871534214638631766">Mostra le informazioni correlate quando fai clic con il tasto destro del mouse o eserciti una pressione prolungata su un contenuto</translation>
@@ -1017,7 +1017,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1918141783557917887">Più &amp;piccolo</translation>
 <translation id="1919872106782726755">Per configurare l'impronta, chiedi a tuo figlio di toccare il sensore di impronte digitali nell'angolo in alto a destra della tastiera, accanto al tasto di accensione. I dati relativi all'impronta di tuo figlio vengono memorizzati in modo sicuro e non possono essere trasferiti in alcun modo da questo <ph name="DEVICE_TYPE" />.</translation>
 <translation id="1920390473494685033">Contatti</translation>
-<translation id="1921544956190977703">Disponi della misura di sicurezza più efficace di Chrome contro estensioni, download e siti web pericolosi</translation>
+<translation id="7175043497168349246">Disponi della misura di sicurezza più efficace di WEB3 DNA Browser contro estensioni, download e siti web pericolosi</translation>
 <translation id="1921584744613111023"><ph name="DPI" /> dpi</translation>
 <translation id="1923468477587371721">Per i siti Google come Gmail, Drive e YouTube viene usata la lingua del tuo Account Google, a meno che tu non abbia cambiato la lingua dei singoli prodotti</translation>
 <translation id="1923539912171292317">Clic automatici</translation>
@@ -1025,7 +1025,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1925017091976104802">Premi <ph name="MODIFIER_KEY_DESCRIPTION" /> per incollare</translation>
 <translation id="1925021887439448749">Inserisci l'indirizzo web personalizzato</translation>
 <translation id="1925124445985510535">Il controllo di sicurezza è stato eseguito alle ore <ph name="TIME" /></translation>
-<translation id="192564025059434655">Le versioni precedenti delle app di Chrome non si apriranno più sui dispositivi Windows dopo dicembre 2022. Puoi verificare se è disponibile una nuova versione.</translation>
+<translation id="8192523005903553081">Le versioni precedenti delle app di WEB3 DNA Browser non si apriranno più sui dispositivi Windows dopo dicembre 2022. Puoi verificare se è disponibile una nuova versione.</translation>
 <translation id="1926339101652878330">Queste impostazioni sono regolate da norme aziendali. Contatta l'amministratore per avere ulteriori informazioni.</translation>
 <translation id="1927632033341042996">Impronta <ph name="NEW_FINGER_NUMBER" /></translation>
 <translation id="192817607445937251">PIN del blocco schermo</translation>
@@ -1095,7 +1095,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1992924914582925289">Rimuovi dal dispositivo</translation>
 <translation id="1994173015038366702">URL sito</translation>
 <translation id="1995916364271252349">Consente di stabilire quali informazioni possono essere usate e mostrate dai siti (posizione, videocamera, popup e non solo)</translation>
-<translation id="1997433994358798851">Chrome deve avere l'autorizzazione per utilizzare il Bluetooth per connettersi al dispositivo</translation>
+<translation id="8529085668036661540">WEB3 DNA Browser deve avere l'autorizzazione per utilizzare il Bluetooth per connettersi al dispositivo</translation>
 <translation id="1997616988432401742">I tuoi certificati</translation>
 <translation id="1999115740519098545">All'avvio</translation>
 <translation id="2000419248597011803">Invia al tuo motore di ricerca predefinito alcune ricerche dalla barra degli indirizzi e dalla casella di ricerca, nonché alcuni cookie</translation>
@@ -1145,7 +1145,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2045117674524495717">Guida alle scorciatoie da tastiera</translation>
 <translation id="2045211794962848221">Non vedrai più questo messaggio specifico</translation>
 <translation id="2045969484888636535">Continua a bloccare i cookie</translation>
-<translation id="204622017488417136">Sul dispositivo verrà ripristinata la versione di Chrome installata precedentemente. Tutti gli account utente e i dati locali verranno rimossi. L'operazione non può essere annullata.</translation>
+<translation id="5951123612640882016">Sul dispositivo verrà ripristinata la versione di WEB3 DNA Browser installata precedentemente. Tutti gli account utente e i dati locali verranno rimossi. L'operazione non può essere annullata.</translation>
 <translation id="2046702855113914483">Ramen</translation>
 <translation id="2046770133657639077">Mostra EID del dispositivo</translation>
 <translation id="204706822916043810">Controllo della macchina virtuale</translation>
@@ -1166,7 +1166,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2061366302742593739">Nulla da mostrare</translation>
 <translation id="2062354623176996748">Apri una finestra di navigazione in incognito per esplorare il Web senza salvare la tua cronologia di navigazione</translation>
 <translation id="206308717637808771">Elimina i dati alla chiusura di tutte le finestre. I dati vengono trattati allo stesso modo del sito che stai visualizzando</translation>
-<translation id="2065405795449409761">Chrome è controllato da software di test automatizzato.</translation>
+<translation id="4019183018402822165">WEB3 DNA Browser è controllato da software di test automatizzato.</translation>
 <translation id="2071393345806050157">Nessun file di log locale.</translation>
 <translation id="2071692954027939183">Le notifiche sono state automaticamente bloccate perché solitamente non le consenti</translation>
 <translation id="2073148037220830746">{NUM_EXTENSIONS,plural, =1{Fai clic per installare l'estensione}other{Fai clic per installare queste estensioni}}</translation>
@@ -1190,7 +1190,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2088092308059522196">La registrazione è supportata solo dopo l'installazione di <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Meno</translation>
 <translation id="208928984520943006">Per andare alla schermata Home in qualsiasi momento, scorri dal basso verso l'alto.</translation>
-<translation id="2089566709556890888">Naviga in sicurezza con Google Chrome</translation>
+<translation id="4528817537448860136">Naviga in sicurezza con WEB3 DNA Browser</translation>
 <translation id="2089795179672254991">Chiedi conferma quando un sito vuole leggere il testo e le immagini copiati negli appunti (opzione consigliata)</translation>
 <translation id="2090165459409185032">Visita il sito google.com/accounts/recovery per recuperare i dati del tuo account</translation>
 <translation id="2090507354966565596">Si connette automaticamente quando effettui l'accesso</translation>
@@ -1258,7 +1258,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2139919072249842737">Pulsante di configurazione</translation>
 <translation id="2140788884185208305">Condizioni batteria</translation>
 <translation id="2142328300403846845">Apri link come</translation>
-<translation id="2142582065325732898">Attiva <ph name="LINK1_BEGIN" />Sincronizzazione Chrome<ph name="LINK1_END" /> per visualizzare le schede recenti di Chrome. <ph name="LINK2_BEGIN" />Scopri di più<ph name="LINK2_END" /></translation>
+<translation id="918915684419231287">Attiva <ph name="LINK1_BEGIN" />Sincronizzazione WEB3 DNA Browser<ph name="LINK1_END" /> per visualizzare le schede recenti di WEB3 DNA Browser. <ph name="LINK2_BEGIN" />Scopri di più<ph name="LINK2_END" /></translation>
 <translation id="2143765403545170146">Mostra sempre la barra degli strumenti a schermo intero</translation>
 <translation id="2143778271340628265">Configurazione manuale del proxy</translation>
 <translation id="2143915448548023856">Impostazioni di visualizzazione</translation>
@@ -1306,7 +1306,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2180620921879609685">Bloccare i contenuti in qualsiasi pagina</translation>
 <translation id="2182058453334755893">Copia negli appunti eseguita</translation>
 <translation id="2183570493397356669">Pulsante Continua non attivo</translation>
-<translation id="2184515124301515068">Consenti a Chrome di scegliere quando i siti possono riprodurre audio (opzione consigliata)</translation>
+<translation id="1384792098950769709">Consenti a WEB3 DNA Browser di scegliere quando i siti possono riprodurre audio (opzione consigliata)</translation>
 <translation id="2186711480981247270">Pagina condivisa da un altro dispositivo</translation>
 <translation id="2187675480456493911">Sincronizzata con altri dispositivi sul tuo account. Le impostazioni modificate da altri utenti non verranno sincronizzate. <ph name="LINK_BEGIN" />Ulteriori informazioni<ph name="LINK_END" /></translation>
 <translation id="2187895286714876935">Errore di importazione del certificato del server</translation>
@@ -1325,7 +1325,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2198625180564913276">Aggiunta del profilo in corso. Questa operazione può richiedere alcuni minuti.</translation>
 <translation id="2199298570273670671">Errore</translation>
 <translation id="2200094388063410062">Email</translation>
-<translation id="2200356397587687044">Chrome ha bisogno dell'autorizzazione per continuare</translation>
+<translation id="7050443302949292258">WEB3 DNA Browser ha bisogno dell'autorizzazione per continuare</translation>
 <translation id="2203088913459920044">Il nome può contenere lettere, numeri e caratteri speciali</translation>
 <translation id="220321590587754225">Impossibile connettersi. Riprova.</translation>
 <translation id="2204034823255629767">Lettura e modifica del testo digitato</translation>
@@ -1336,7 +1336,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2214884991347062907">Password errata, riprova</translation>
 <translation id="2214893006758804920">{LINE_COUNT,plural, =1{&lt;1 riga non mostrata&gt;}other{&lt;<ph name="NUMBER_OF_LINES" /> righe non mostrate&gt;}}</translation>
 <translation id="2218019600945559112">Mouse e touchpad</translation>
-<translation id="2218320521449013367">Si è verificato un errore in Chrome durante la rimozione di software dannoso</translation>
+<translation id="5081321241080754512">Si è verificato un errore in WEB3 DNA Browser durante la rimozione di software dannoso</translation>
 <translation id="2218515861914035131">Incolla come solo testo</translation>
 <translation id="2220409419896228519">Aggiungi le tue app Google preferite ai Preferiti</translation>
 <translation id="2220529011494928058">Segnala un problema</translation>
@@ -1421,7 +1421,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="229477815107578534">Esamina le tue impostazioni</translation>
 <translation id="2295864384543949385"><ph name="NUM_RESULTS" /> risultati</translation>
 <translation id="2296022312651137376"><ph name="DOMAIN_NAME" /> richiede che il dispositivo sia online quando viene eseguito l'accesso all'account <ph name="EMAIL" /></translation>
-<translation id="2296099049346876573">{NUM_HOURS,plural, =1{Chrome non ha rilevato software dannoso sul computer • Ultima verifica: 1 ora fa}other{Chrome non ha rilevato software dannoso sul computer • Ultima verifica: {NUM_HOURS} ore fa}}</translation>
+<translation id="5110959100389595545">{NUM_HOURS,plural, =1{WEB3 DNA Browser non ha rilevato software dannoso sul computer • Ultima verifica: 1 ora fa}other{WEB3 DNA Browser non ha rilevato software dannoso sul computer • Ultima verifica: {NUM_HOURS} ore fa}}</translation>
 <translation id="2296218178174497398">Rilevamento dispositivi</translation>
 <translation id="2297705863329999812">Cerca stampanti</translation>
 <translation id="2297822946037605517">Condividi questa pagina</translation>
@@ -1498,13 +1498,13 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2336228925368920074">Aggiungi tutte le schede ai Preferiti...</translation>
 <translation id="2336376423977300504">Cancella sempre i cookie alla chiusura delle finestre</translation>
 <translation id="2336381494582898602">Powerwash</translation>
-<translation id="2337236196941929873">Vengono precaricate le pagine che Chrome ritiene che tu potresti visitare. A tale scopo, Chrome potrebbe usare i cookie, se sono consentiti, nonché criptare e inviare le pagine tramite Google per nascondere la tua identità ai siti.</translation>
+<translation id="8019425347598123136">Vengono precaricate le pagine che WEB3 DNA Browser ritiene che tu potresti visitare. A tale scopo, WEB3 DNA Browser potrebbe usare i cookie, se sono consentiti, nonché criptare e inviare le pagine tramite Google per nascondere la tua identità ai siti.</translation>
 <translation id="2340239562261172947">Impossibile scaricare <ph name="FILE_NAME" /> in modo sicuro</translation>
 <translation id="2342180549977909852">Tuo figlio può usare un numero (PIN) anziché una password per sbloccare questo dispositivo. Per impostare il PIN in un secondo momento, vai alle Impostazioni.</translation>
 <translation id="2342740338116612727">Preferiti aggiunti</translation>
 <translation id="2343747224442182863">Imposta stato attivo su questa scheda</translation>
 <translation id="2344032937402519675">Impossibile connettersi al server. Controlla la connessione di rete e riprova. Se continui ad avere problemi, prova a riavviare Chromebook.</translation>
-<translation id="234559068082989648">Le versioni precedenti delle app di Chrome non si apriranno più dopo dicembre 2022. Contatta l'amministratore per eseguire l'aggiornamento a una nuova versione o per rimuovere questa app.</translation>
+<translation id="2780660117496565528">Le versioni precedenti delle app di WEB3 DNA Browser non si apriranno più dopo dicembre 2022. Contatta l'amministratore per eseguire l'aggiornamento a una nuova versione o per rimuovere questa app.</translation>
 <translation id="2345723121311404059">1 pagina con <ph name="PRINTER_NAME" /></translation>
 <translation id="23463457491630512">Ad esempio, se visiti un sito per acquistare scarpe per una maratona, il sito potrebbe definire come tuo interesse le maratone. Se in un secondo momento visiti un altro sito per registrarti a una gara, il sito può mostrarti un annuncio relativo a scarpe da corsa in base ai tuoi interessi.</translation>
 <translation id="2348176352564285430">App: <ph name="ARC_PROCESS_NAME" /></translation>
@@ -1598,7 +1598,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2434449159125086437">Impossibile configurare la stampante. Verifica la configurazione e riprova.</translation>
 <translation id="2434758125294431199">Seleziona chi può condividere file con te</translation>
 <translation id="2434915728183570229">Ora puoi visualizzare le app del tuo telefono</translation>
-<translation id="2435137177546457207">Termini aggiuntivi di Google Chrome e ChromeOS Flex</translation>
+<translation id="2241528393737304087">Termini aggiuntivi di WEB3 DNA Browser e ChromeOS Flex</translation>
 <translation id="2435248616906486374">Rete scollegata</translation>
 <translation id="2435457462613246316">Mostra password</translation>
 <translation id="2439626940657133600">Caricamento di <ph name="WINDOW_TITLE" /> in corso…</translation>
@@ -1703,7 +1703,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2521854691574443804">Controllo della conformità di <ph name="FILE_NAME" /> alle norme di sicurezza della tua organizzazione in corso…</translation>
 <translation id="2523184218357549926">Invia a Google gli URL delle pagine che visiti</translation>
 <translation id="252418934079508528">Installa <ph name="DEVICE_OS" /></translation>
-<translation id="252502352004572774">Chrome sta controllando la presenza di software dannoso sul computer…</translation>
+<translation id="7979367912349074899">WEB3 DNA Browser sta controllando la presenza di software dannoso sul computer…</translation>
 <translation id="2526590354069164005">Desktop</translation>
 <translation id="2526619973349913024">Verifica la presenza di aggiornamenti</translation>
 <translation id="2527167509808613699">Qualsiasi tipo di connessione</translation>
@@ -1852,7 +1852,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2667463864537187133">Gestisci controllo ortografico</translation>
 <translation id="2669241540496514785">Impossibile aprire <ph name="APP_NAME" /></translation>
 <translation id="2669454659051515572">Tutte le persone che usano questo dispositivo possono vedere i file scaricati</translation>
-<translation id="2670102641511624474"><ph name="APP_NAME" /> condivide una scheda Chrome.</translation>
+<translation id="6344296177880978811"><ph name="APP_NAME" /> condivide una scheda WEB3 DNA Browser.</translation>
 <translation id="2670403088701171361">Non consentire ai siti di vedere testo o immagini negli appunti</translation>
 <translation id="2670429602441959756">Questa pagina contiene funzioni non ancora supportate nella realtà virtuale. Uscita in corso...</translation>
 <translation id="2671451824761031126">Preferiti e impostazioni sono pronti</translation>
@@ -1915,7 +1915,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2727633948226935816">Non visualizzare più il promemoria</translation>
 <translation id="2727712005121231835">Dimensioni reali</translation>
 <translation id="2729314457178420145">Cancella anche i dati di navigazione (<ph name="URL" />) che potrebbero farti uscire dall'account su Google.com. <ph name="LEARN_MORE" /></translation>
-<translation id="2729327310379176711">Chrome sta trovando nuovi modi per ridurre il monitoraggio e migliorare la sicurezza durante la navigazione. Chrome inoltre <ph name="ESTIMATE_INTERESTS_LINK" /> e ti consente di gestirli. Dopodiché i siti che visiti possono chiedere a Chrome di conoscere i tuoi interessi per mostrarti annunci.</translation>
+<translation id="7388855562467194078">WEB3 DNA Browser sta trovando nuovi modi per ridurre il monitoraggio e migliorare la sicurezza durante la navigazione. WEB3 DNA Browser inoltre <ph name="ESTIMATE_INTERESTS_LINK" /> e ti consente di gestirli. Dopodiché i siti che visiti possono chiedere a WEB3 DNA Browser di conoscere i tuoi interessi per mostrarti annunci.</translation>
 <translation id="2730029791981212295">Backup di app e file Linux</translation>
 <translation id="2730901670247399077">Suggerimenti di emoji</translation>
 <translation id="273093730430620027">Questa pagina sta accedendo alla webcam.</translation>
@@ -1994,7 +1994,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2791529110887957050">Rimuovere Linux</translation>
 <translation id="2791952154587244007">Si è verificato un errore. Impossibile avviare automaticamente l'applicazione kiosk su questo dispositivo.</translation>
 <translation id="2792290659606763004">Rimuovere le app Android?</translation>
-<translation id="2792465461386711506">Attiva Sincronizzazione Chrome per visualizzare le schede recenti di Chrome dal telefono</translation>
+<translation id="913261972363004779">Attiva Sincronizzazione WEB3 DNA Browser per visualizzare le schede recenti di WEB3 DNA Browser dal telefono</translation>
 <translation id="2792697226874849938">Immagine di limitazione</translation>
 <translation id="2794233252405721443">Sito bloccato</translation>
 <translation id="2794522004398861033">Connettiti al Wi-Fi o a Ethernet per configurare l'eSIM</translation>
@@ -2089,7 +2089,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2872961005593481000">Spegni</translation>
 <translation id="2873995907777332853">Mostra dettagli sul blocco di tutti i cookie</translation>
 <translation id="2874939134665556319">Traccia precedente</translation>
-<translation id="2875698561019555027">(pagine di errore Chrome)</translation>
+<translation id="1271435836313183949">(pagine di errore WEB3 DNA Browser)</translation>
 <translation id="2876336351874743617">Dito 2</translation>
 <translation id="2876369937070532032">Invia a Google gli URL di alcune pagine che visiti quando la tua sicurezza è a rischio</translation>
 <translation id="2876556152483133018">Ricerca nei siti</translation>
@@ -2147,7 +2147,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <ph name="DOMAIN" /> richiede di lasciare la smart card inserita.</translation>
 <translation id="2923234477033317484">Rimuovi questo account</translation>
 <translation id="2923644930701689793">Accedi al rullino del telefono</translation>
-<translation id="292371311537977079">Impostazioni di Chrome</translation>
+<translation id="8992939883390477047">Impostazioni di WEB3 DNA Browser</translation>
 <translation id="2925658782192398150">Fine, nessun problema rilevato</translation>
 <translation id="2926085873880284723">Ripristina scorciatoie predefinite</translation>
 <translation id="2926620265753325858">Il dispositivo <ph name="DEVICE_NAME" /> non è supportato.</translation>
@@ -2316,9 +2316,9 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3083193146044397360">Bloccata temporaneamente per tutelare la tua sicurezza</translation>
 <translation id="3083899879156272923">Sposta lo schermo tenendo il puntatore del mouse al centro</translation>
 <translation id="3084548735795614657">Trascina per installare</translation>
-<translation id="3084771660770137092">Google Chrome ha esaurito la memoria o il processo relativo alla pagina web è stato chiuso per qualche altro motivo. Per continuare, ricarica la pagina o aprine un'altra.</translation>
+<translation id="4594474534962138925">WEB3 DNA Browser ha esaurito la memoria o il processo relativo alla pagina web è stato chiuso per qualche altro motivo. Per continuare, ricarica la pagina o aprine un'altra.</translation>
 <translation id="3085412380278336437">Il sito può usare la videocamera</translation>
-<translation id="3085431803365340433">Impossibile aggiornare il browser Chrome</translation>
+<translation id="1591945700763136973">Impossibile aggiornare il browser WEB3 DNA Browser</translation>
 <translation id="3088052000289932193">Il sito usa un dispositivo MIDI</translation>
 <translation id="3088128611727407543">Preparazione del profilo dell'app…</translation>
 <translation id="3088325635286126843">&amp;Rinomina...</translation>
@@ -2372,7 +2372,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3143515551205905069">Annulla sincronizzazione</translation>
 <translation id="3143754809889689516">Riproduci dall'inizio</translation>
 <translation id="3144647712221361880">Apri link come</translation>
-<translation id="3149510190863420837">Applicazioni Chrome</translation>
+<translation id="8700214093481776621">Applicazioni WEB3 DNA Browser</translation>
 <translation id="3150693969729403281">Esegui subito il controllo di sicurezza</translation>
 <translation id="3150927491400159470">Ricaricamento manuale</translation>
 <translation id="315116470104423982">Dati mobili</translation>
@@ -2398,7 +2398,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3170072451822350649">Puoi anche saltare l'accesso e <ph name="LINK_START" />navigare come ospite<ph name="LINK_END" />.</translation>
 <translation id="31774765611822736">Posizionamento nuova scheda a sinistra</translation>
 <translation id="3177909033752230686">Lingua della pagina:</translation>
-<translation id="3177914167275935955">Il tuo dispositivo include una licenza Chrome Education Upgrade, ma il tuo nome utente non è associato a un account Google for Education. Crea un account Google for Education visitando la pagina g.co/workspace/edusignup su un dispositivo secondario.</translation>
+<translation id="3762895576792047340">Il tuo dispositivo include una licenza WEB3 DNA Browser Education Upgrade, ma il tuo nome utente non è associato a un account Google for Education. Crea un account Google for Education visitando la pagina g.co/workspace/edusignup su un dispositivo secondario.</translation>
 <translation id="3179982752812949580">Carattere testo</translation>
 <translation id="3181954750937456830">Navigazione sicura (protegge te e il tuo dispositivo da siti pericolosi)</translation>
 <translation id="3182749001423093222">Controllo ortografico</translation>
@@ -2464,7 +2464,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3253448572569133955">Account sconosciuto</translation>
 <translation id="3254084468305910013">{COUNT,plural, =0{Nessun problema di sicurezza trovato}=1{Trovato {COUNT} problema di sicurezza}other{Trovati {COUNT} problemi di sicurezza}}</translation>
 <translation id="3254516606912442756">Il rilevamento automatico del fuso orario è disattivato</translation>
-<translation id="3254715652085014625">Apri Chrome sul tuo telefono Android e vai a "Impostazioni" &gt; Password &gt; Utilizza il telefono come token di sicurezza" e segui le istruzioni riportate.</translation>
+<translation id="1894189828234879693">Apri WEB3 DNA Browser sul tuo telefono Android e vai a "Impostazioni" &gt; Password &gt; Utilizza il telefono come token di sicurezza" e segui le istruzioni riportate.</translation>
 <translation id="3255355328033513170">Tutti i dati memorizzati per il gruppo <ph name="SITE_GROUP_NAME" /> e per gli eventuali siti al suo interno verranno eliminati, inclusi i cookie. Uscirai da questi siti (schede aperte incluse).</translation>
 <translation id="3257733480216378006">Vuoi consentire <ph name="EXTENSIONS_REQUESTING_ACCESS_COUNT" />?</translation>
 <translation id="3259723213051400722">Riprova.</translation>
@@ -2494,7 +2494,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3279092821516760512">I contatti selezionati possono condividere contenuti con te quando sono nelle vicinanze. I trasferimenti non inizieranno finché non accetti.</translation>
 <translation id="3279230909244266691">Questa procedura potrebbe richiedere alcuni minuti. Avvio della macchina virtuale in corso.</translation>
 <translation id="3280237271814976245">Salva con &amp;nome...</translation>
-<translation id="3280243678470289153">Rimani in Chrome</translation>
+<translation id="4715369768305046140">Rimani in WEB3 DNA Browser</translation>
 <translation id="328119399589609861">Controlla l'accesso del dispositivo a microfono, fotocamera e altro ancora</translation>
 <translation id="3281892622610078515">File e programmi che saranno messi in quarantena:</translation>
 <translation id="3282210178675490297">Condivisione di una scheda con <ph name="APP_NAME" /></translation>
@@ -2531,7 +2531,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3309330461362844500">ID profilo di certificato</translation>
 <translation id="3311445899360743395">I dati associati a questa app potrebbero essere rimossi dal dispositivo.</translation>
 <translation id="3312470654018965389">Configurazione del contenitore Linux</translation>
-<translation id="3312883087018430408">Per eseguire ricerche in un sito o una parte specifici di Chrome, digita la relativa scorciatoia nella barra degli indirizzi, seguita dalla tua scorciatoia da tastiera preferita. Ad esempio, per cercare solo in Segnalibri, digita "@segnalibri", poi premi Tab o la Barra spaziatrice.</translation>
+<translation id="478675991704286532">Per eseguire ricerche in un sito o una parte specifici di WEB3 DNA Browser, digita la relativa scorciatoia nella barra degli indirizzi, seguita dalla tua scorciatoia da tastiera preferita. Ad esempio, per cercare solo in Segnalibri, digita "@segnalibri", poi premi Tab o la Barra spaziatrice.</translation>
 <translation id="3313622045786997898">Valore firma certificato</translation>
 <translation id="3313950410573257029">Controlla la connessione</translation>
 <translation id="3315158641124845231">Nascondi <ph name="PRODUCT_NAME" /></translation>
@@ -2540,7 +2540,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3317678681329786349">Videocamera e microfono bloccati</translation>
 <translation id="3320630259304269485">Impostazioni di Navigazione sicura (protezione da siti pericolosi) e altre impostazioni di sicurezza</translation>
 <translation id="3323521181261657960">Premio! Hai più tempo di utilizzo</translation>
-<translation id="3323577066981719144">Le modifiche che apporti qui vengono applicate soltanto al browser Chrome. Per apportare modifiche alle impostazioni del browser Lacros, aprilo e vai alle impostazioni.</translation>
+<translation id="7341209971989302229">Le modifiche che apporti qui vengono applicate soltanto al browser WEB3 DNA Browser. Per apportare modifiche alle impostazioni del browser Lacros, aprilo e vai alle impostazioni.</translation>
 <translation id="3325804108816646710">Ricerca di profili disponibili in corso…</translation>
 <translation id="3325910708063135066">La videocamera e il microfono sono disattivati nelle Preferenze di Sistema del Mac</translation>
 <translation id="3327050066667856415">I Chromebook sono pensati per la sicurezza. Il tuo dispositivo è protetto automaticamente da malware, senza l'installazione di altro software.</translation>
@@ -2568,7 +2568,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3348131053948466246">Emoji suggerite. Premi la freccia Su o Giù per spostarti e Invio per inserire l'emoji desiderata.</translation>
 <translation id="3349933790966648062">Footprint di memoria</translation>
 <translation id="3353786022389205125">Attiva "Mostra la schermata di blocco quando il dispositivo viene riattivato dopo la sospensione" e riprova</translation>
-<translation id="3354768182971982851">Le versioni precedenti delle app di Chrome non si apriranno più sui dispositivi Mac dopo dicembre 2022. Puoi verificare se è disponibile una nuova versione.</translation>
+<translation id="7596866522245084416">Le versioni precedenti delle app di WEB3 DNA Browser non si apriranno più sui dispositivi Mac dopo dicembre 2022. Puoi verificare se è disponibile una nuova versione.</translation>
 <translation id="3354972872297836698">Impossibile eseguire l'accoppiamento con il dispositivo <ph name="DEVICE_NAME" />; seleziona il dispositivo per riprovare</translation>
 <translation id="3355936511340229503">Errore di connessione</translation>
 <translation id="3356036636691722598">Goditi i giochi su Chromebook</translation>
@@ -2605,7 +2605,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3388094447051599208">Il vassoio di uscita è quasi pieno</translation>
 <translation id="3388788256054548012">Questo file è criptato. Chiedi al proprietario di decriptarlo.</translation>
 <translation id="3390013585654699824">Dettagli app</translation>
-<translation id="3393554941209044235">Chrome Document Analysis</translation>
+<translation id="3858917824532960393">WEB3 DNA Browser Document Analysis</translation>
 <translation id="3393582007140394275">Impossibile trasmettere lo schermo.</translation>
 <translation id="3394850431319394743">Autorizzati a usare identificatori per riprodurre contenuti protetti</translation>
 <translation id="3396744558790608201">Fai clic con il pulsante destro del mouse e seleziona "Cerca le immagini con Google Lens" per eseguire ricerche relative a qualsiasi parte del sito al fine di avere maggiori informazioni sui contenuti che vedi mentre navighi e fai acquisti sul Web.</translation>
@@ -2749,7 +2749,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3511528412952710609">Breve</translation>
 <translation id="3514335087372914653">Controllo dei giochi</translation>
 <translation id="3514373592552233661">Le reti preferite avranno precedenza su altre reti note se ne sono disponibili più di una</translation>
-<translation id="3514647716686280777">È attiva la protezione standard. Per aumentare la protezione da estensioni, download e siti web pericolosi, attiva Navigazione sicura avanzata nelle impostazioni di Chrome.</translation>
+<translation id="7556379577485103008">È attiva la protezione standard. Per aumentare la protezione da estensioni, download e siti web pericolosi, attiva Navigazione sicura avanzata nelle impostazioni di WEB3 DNA Browser.</translation>
 <translation id="3515983984924808886">Tocca nuovamente il token di sicurezza per confermare la reimpostazione. Tutte le informazioni memorizzate sul token di sicurezza, nonché il suo PIN, verranno eliminate.</translation>
 <translation id="3518985090088779359">Accetta e continua</translation>
 <translation id="3519564332031442870">Servizio di backend di stampa</translation>
@@ -2781,7 +2781,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3547954654003013442">Impostazioni proxy</translation>
 <translation id="3548162552723420559">Consente di regolare il colore dello schermo per adattarlo all'ambiente circostante</translation>
 <translation id="3550593477037018652">Disconnetti rete mobile</translation>
-<translation id="3550915441744863158">Chrome si aggiorna automaticamente per consentirti di avere sempre la versione più recente</translation>
+<translation id="641490646852713507">WEB3 DNA Browser si aggiorna automaticamente per consentirti di avere sempre la versione più recente</translation>
 <translation id="3551320343578183772">Chiudi scheda</translation>
 <translation id="3552097563855472344"><ph name="NETWORK_NAME" /> - <ph name="SPAN_START" /><ph name="CARRIER_NAME" /><ph name="SPAN_END" /></translation>
 <translation id="3552780134252864554">Cancellato all'uscita</translation>
@@ -2795,7 +2795,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3559533181353831840">Ancora <ph name="TIME_LEFT" /> circa</translation>
 <translation id="3560034655160545939">&amp;Controllo ortografico</translation>
 <translation id="3562423906127931518">Questa procedura potrebbe richiedere alcuni minuti. Configurazione del container Linux in corso.</translation>
-<translation id="3562655211539199254">Visualizza le schede recenti di Chrome dal tuo telefono</translation>
+<translation id="8425448712111886349">Visualizza le schede recenti di WEB3 DNA Browser dal tuo telefono</translation>
 <translation id="3563432852173030730">Impossibile scaricare l'applicazione kiosk.</translation>
 <translation id="3564334271939054422">La rete Wi-Fi in uso (<ph name="NETWORK_ID" />) potrebbe richiedere la visita della relativa pagina di accesso.</translation>
 <translation id="3564848315152754834">Token di sicurezza USB</translation>
@@ -2895,7 +2895,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3659929705630080526">Hai inserito troppe volte un codice di accesso errato. Riprova più tardi.</translation>
 <translation id="3660234220361471169">Non attendibile</translation>
 <translation id="3664511988987167893">Icona dell'estensione</translation>
-<translation id="3665589677786828986">Chrome ha rilevato che alcune impostazioni sono state danneggiate da un altro programma e le ha ripristinate con i valori originali predefiniti.</translation>
+<translation id="2999272345999608767">WEB3 DNA Browser ha rilevato che alcune impostazioni sono state danneggiate da un altro programma e le ha ripristinate con i valori originali predefiniti.</translation>
 <translation id="3665919494326051362">La versione corrente è <ph name="CURRENT_VERSION" /></translation>
 <translation id="3670113805793654926">Dispositivi di qualsiasi fornitore</translation>
 <translation id="3670229581627177274">Attiva il Bluetooth</translation>
@@ -2987,7 +2987,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3747603683749989726">Vuoi attivare la sicurezza avanzata?</translation>
 <translation id="3748424433435232460">Una password per questo account è già salvata su questo dispositivo</translation>
 <translation id="3748706263662799310">Segnala un bug</translation>
-<translation id="3750562496035670393">Chrome ha salvato la tua password su questo dispositivo, ma puoi salvarla sul tuo Account Google se preferisci. Se lo fai, saranno disponibili anche tutte le password sul tuo Account Google quando avrai eseguito l'accesso.</translation>
+<translation id="8369101748689382756">WEB3 DNA Browser ha salvato la tua password su questo dispositivo, ma puoi salvarla sul tuo Account Google se preferisci. Se lo fai, saranno disponibili anche tutte le password sul tuo Account Google quando avrai eseguito l'accesso.</translation>
 <translation id="3752253558646317685">Chiedi a tuo figlio di continuare a sollevare il dito per salvare l'impronta</translation>
 <translation id="3753033997400164841">Memorizza una volta, usa ovunque</translation>
 <translation id="3755411799582650620">Ora con il tuo <ph name="PHONE_NAME" /> puoi sbloccare anche questo dispositivo <ph name="DEVICE_TYPE" />.</translation>
@@ -3014,7 +3014,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3771290962915251154">Questa impostazione è disattivata perché il Controllo genitori è attivo</translation>
 <translation id="3771294271822695279">File video</translation>
 <translation id="3771851622616482156">Uscirai da questo sito, schede aperte incluse</translation>
-<translation id="3772046291955677288">Ho letto e accetto i <ph name="BEGIN_LINK1" />Termini di servizio di Google<ph name="END_LINK1" /> e i <ph name="BEGIN_LINK2" />Termini di servizio aggiuntivi di Chrome e ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="8921738092210884707">Ho letto e accetto i <ph name="BEGIN_LINK1" />Termini di servizio di Google<ph name="END_LINK1" /> e i <ph name="BEGIN_LINK2" />Termini di servizio aggiuntivi di WEB3 DNA Browser e ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="3774166835015494435">Foto e notifiche recenti</translation>
 <translation id="3775432569830822555">Certificato server SSL</translation>
 <translation id="3775705724665058594">Invia ai tuoi dispositivi</translation>
@@ -3038,7 +3038,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3790417903123637354">Si è verificato un problema. Riprova più tardi.</translation>
 <translation id="379082410132524484">La tua carta è scaduta</translation>
 <translation id="3792973596468118484"><ph name="NUM_EXTENSIONS" /> estensioni</translation>
-<translation id="3793588272211751505">{NUM_DAYS,plural, =1{Chrome non ha rilevato software dannoso sul computer • Ultima verifica: 1 giorno fa}other{Chrome non ha rilevato software dannoso sul computer • Ultima verifica: {NUM_DAYS} giorni fa}}</translation>
+<translation id="5103047687734968044">{NUM_DAYS,plural, =1{WEB3 DNA Browser non ha rilevato software dannoso sul computer • Ultima verifica: 1 giorno fa}other{WEB3 DNA Browser non ha rilevato software dannoso sul computer • Ultima verifica: {NUM_DAYS} giorni fa}}</translation>
 <translation id="379500251094592809">Per usare la funzionalità Condivisione nelle vicinanze, assicurati che entrambi i dispositivi siano sbloccati e vicini, nonché che il Bluetooth sia attivo. Se vuoi attivare la condivisione con un dispositivo Chromebook non presente nei tuoi contatti, assicurati che su tale dispositivo sia attiva la funzionalità Visibilità nelle vicinanze (apri l'area di stato selezionando l'ora, quindi attiva l'opzione Visibilità nelle vicinanze). <ph name="LINK_BEGIN" />Scopri di più<ph name="LINK_END" /></translation>
 <translation id="379509625511193653">Off</translation>
 <translation id="3795766489237825963">Riproduci le animazioni</translation>
@@ -3049,7 +3049,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3798632811625902122">Il dispositivo Bluetooth <ph name="DEVICE" /> chiede l'autorizzazione per essere accoppiato.</translation>
 <translation id="3799128412641261490">Impostazioni Switch Access</translation>
 <translation id="3800806661949714323">Mostra tutto (opzione consigliata)</translation>
-<translation id="3800828618615365228">Termini aggiuntivi di Google Chrome e ChromeOS</translation>
+<translation id="1967229109570536621">Termini aggiuntivi di WEB3 DNA Browser e ChromeOS</translation>
 <translation id="3802486193901166966">Questa estensione non richiede autorizzazioni speciali e non ha accesso a siti aggiuntivi</translation>
 <translation id="380329542618494757">Nome</translation>
 <translation id="3803345858388753269">Qualità video</translation>
@@ -3065,12 +3065,12 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3810973564298564668">Gestisci</translation>
 <translation id="381202950560906753">Aggiungine un'altra</translation>
 <translation id="3812525830114410218">Certificato non valido</translation>
-<translation id="3813296892522778813">Visita la <ph name="BEGIN_LINK_CHROMIUM" />guida di Google Chrome<ph name="END_LINK_CHROMIUM" /> se non riesci a trovare quello che cerchi</translation>
+<translation id="5977930223590398067">Visita la <ph name="BEGIN_LINK_CHROMIUM" />guida di WEB3 DNA Browser<ph name="END_LINK_CHROMIUM" /> se non riesci a trovare quello che cerchi</translation>
 <translation id="3813358687923336574">Lingua utilizzata per la traduzione di pagine e Risposte rapide</translation>
 <translation id="3814529970604306954">Account della scuola</translation>
-<translation id="3816118180265633665">Colori di Chrome</translation>
+<translation id="1194143082883930247">Colori di WEB3 DNA Browser</translation>
 <translation id="3817524650114746564">Apri le impostazioni proxy del computer</translation>
-<translation id="3817873131406403663"><ph name="BEGIN_PARAGRAPH1" />Se consenti ai dispositivi ChromeOS di inviare i report automatici, ci aiuti a capire a quali problemi e miglioramenti dare la priorità in ChromeOS. Questi report possono includere, ad esempio, informazioni su quando ChromeOS ha un arresto anomalo, sulle funzionalità che utilizzi e sulla quantità di memoria solitamente impiegata.<ph name="END_PARAGRAPH1" />
+<translation id="1610331683262535283"><ph name="BEGIN_PARAGRAPH1" />Se consenti ai dispositivi ChromeOS di inviare i report automatici, ci aiuti a capire a quali problemi e miglioramenti dare la priorità in ChromeOS. Questi report possono includere, ad esempio, informazioni su quando ChromeOS ha un arresto anomalo, sulle funzionalità che utilizzi e sulla quantità di memoria solitamente impiegata.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />Puoi attivare o disattivare l'invio di questi report in qualsiasi momento nelle impostazioni del tuo dispositivo ChromeOS. Se sei un amministratore di dominio, puoi modificare questa impostazione nella Console di amministrazione.<ph name="END_PARAGRAPH2" /></translation>
 <translation id="3819164369574292143">Aumenta lo zoom per ingrandire gli elementi sullo schermo. Premi il tasto per la ricerca + Ctrl + M per attivare e disattivare l'ingrandimento. Premi Ctrl + Alt + Tasti freccia per spostarti quando è attivo lo zoom.</translation>
 <translation id="3819257035322786455">Backup</translation>
@@ -3087,7 +3087,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3826440694796503677">L'amministratore ha disabilitato l'aggiunta di altri Account Google</translation>
 <translation id="3827774300009121996">&amp;Schermo intero</translation>
 <translation id="3828029223314399057">Cerca tra i Preferiti</translation>
-<translation id="3828953470056652895">Ho letto e accetto i <ph name="BEGIN_LINK1" />Termini di servizio di Google<ph name="END_LINK1" />, i <ph name="BEGIN_LINK2" />Termini di servizio aggiuntivi di Chrome e ChromeOS<ph name="END_LINK2" /> e i <ph name="BEGIN_LINK3" />Termini di servizio di Google Play<ph name="END_LINK3" />.</translation>
+<translation id="7874890027698136142">Ho letto e accetto i <ph name="BEGIN_LINK1" />Termini di servizio di Google<ph name="END_LINK1" />, i <ph name="BEGIN_LINK2" />Termini di servizio aggiuntivi di WEB3 DNA Browser e ChromeOS<ph name="END_LINK2" /> e i <ph name="BEGIN_LINK3" />Termini di servizio di Google Play<ph name="END_LINK3" />.</translation>
 <translation id="3829765597456725595">Condivisione file SMB</translation>
 <translation id="3830654885961023588">{NUM_EXTENSIONS,plural, =1{L'amministratore ha riattivato 1 estensione potenzialmente dannosa}other{L'amministratore ha riattivato {NUM_EXTENSIONS} estensioni potenzialmente dannose}}</translation>
 <translation id="3831436149286513437">Suggerimenti di ricerca di Google Drive</translation>
@@ -3149,7 +3149,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3888053818972567950">Connessione <ph name="WEB_DRIVE" /></translation>
 <translation id="3888550877729210209">Creazione di appunti con <ph name="LOCK_SCREEN_APP_NAME" /></translation>
 <translation id="3888586133700543064">Queste informazioni ci aiutano a capire meglio il problema del tuo assistente. Vengono memorizzate per massimo 90 giorni e l'accesso è limitato ai team di tecnici e responsabili dei feedback competenti.</translation>
-<translation id="3890064827463908288">Per utilizzare Sync Wi-Fi, attiva Sincronizzazione Chrome</translation>
+<translation id="1562176078221382229">Per utilizzare Sync Wi-Fi, attiva Sincronizzazione WEB3 DNA Browser</translation>
 <translation id="389313931326656921">Assegna sensore per "Prossimo"</translation>
 <translation id="3893295674388762059">Per cancellare i dati, chiudi tutte le finestre di navigazione in incognito</translation>
 <translation id="3893536212201235195">Leggere e modificare le impostazioni di accessibilità</translation>
@@ -3186,7 +3186,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3918972485393593704">Segnala i dettagli a Google</translation>
 <translation id="3919145445993746351">Attiva la sincronizzazione per avere a disposizione le estensioni su tutti i tuoi computer</translation>
 <translation id="3919229493046408863">Disattiva la notifica quando ci sono dispositivi nelle vicinanze</translation>
-<translation id="3919262972282962508">Le versioni precedenti delle app di Chrome non si apriranno più sui dispositivi Mac dopo dicembre 2022. Contatta l'amministratore per eseguire l'aggiornamento a una nuova versione o per rimuovere questa app.</translation>
+<translation id="8413835730753572582">Le versioni precedenti delle app di WEB3 DNA Browser non si apriranno più sui dispositivi Mac dopo dicembre 2022. Contatta l'amministratore per eseguire l'aggiornamento a una nuova versione o per rimuovere questa app.</translation>
 <translation id="3919798653937160644">Le pagine visualizzate in questa finestra non verranno memorizzate nella cronologia del browser e non lasceranno altre tracce, ad esempio cookie, sul computer dopo la chiusura di tutte le finestre Ospite aperte. Tutti i file scaricati verranno comunque conservati.</translation>
 <translation id="3920504717067627103">Criteri dei certificati</translation>
 <translation id="3920909973552939961">Non possono installare gestori dei pagamenti</translation>
@@ -3337,7 +3337,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4052120076834320548">Minuscolo</translation>
 <translation id="4054070260844648638">Visibile a tutti</translation>
 <translation id="4056223980640387499">Seppia</translation>
-<translation id="4056908315660577142">Hai raggiunto il tempo massimo impostato dal genitore per l'app di Chrome <ph name="APP_NAME" />. Domani potrai utilizzare l'app per <ph name="TIME_LIMIT" />.</translation>
+<translation id="211750869502425088">Hai raggiunto il tempo massimo impostato dal genitore per l'app di WEB3 DNA Browser <ph name="APP_NAME" />. Domani potrai utilizzare l'app per <ph name="TIME_LIMIT" />.</translation>
 <translation id="4057041477816018958"><ph name="SPEED" /> - <ph name="RECEIVED_AMOUNT" /></translation>
 <translation id="4057896668975954729">Visualizza nello Store</translation>
 <translation id="4058720513957747556">AppSocket (TCP/IP)</translation>
@@ -3379,7 +3379,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4096508467498758490">Disattiva estensioni in modalità sviluppatore</translation>
 <translation id="4096797685681362305">Visualizzato nell'ultima settimana</translation>
 <translation id="4097406557126260163">App ed estensioni</translation>
-<translation id="409742781329613461">Suggerimenti per Chrome</translation>
+<translation id="2904680638562721626">Suggerimenti per WEB3 DNA Browser</translation>
 <translation id="4097560579602855702">Cerca su Google</translation>
 <translation id="4098667039111970300">Strumenti stilo nella barra degli strumenti</translation>
 <translation id="4099060993766194518">Ripristinare il motore di ricerca predefinito?</translation>
@@ -3396,10 +3396,10 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4110485659976215879">Ripristina avviso</translation>
 <translation id="4110490973560452005">Download completato: <ph name="FILE_NAME" />. Premi MAIUSC+F6 per passare alla parte con la barra dei download.</translation>
 <translation id="4112194537011183136"><ph name="DEVICE_NAME" /> (offline)</translation>
-<translation id="4114524937989710624">Visualizzi i file suggeriti per aiutarti a tornare facilmente alle tue attività più recenti in Google Drive.
+<translation id="322568721146167586">Visualizzi i file suggeriti per aiutarti a tornare facilmente alle tue attività più recenti in Google Drive.
         <ph name="BREAK" />
         <ph name="BREAK" />
-        Puoi gestire le impostazioni dal menu della scheda o visualizzare altre opzioni in Personalizza Chrome.</translation>
+        Puoi gestire le impostazioni dal menu della scheda o visualizzare altre opzioni in Personalizza WEB3 DNA Browser.</translation>
 <translation id="4115002065223188701">Rete fuori portata</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="4116704186509653070">Apri di nuovo</translation>
@@ -3421,7 +3421,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4132364317545104286">Rinomina profilo eSIM</translation>
 <translation id="4133076602192971179">Apri l'app per cambiare la password</translation>
 <translation id="4134818201340504801">Spazio di archiviazione disponibile insufficiente per completare la configurazione. Libera spazio di archiviazione e riprova</translation>
-<translation id="4135746311382563554">Termini di servizio aggiuntivi di Google Chrome e ChromeOS</translation>
+<translation id="6291672706095588562">Termini di servizio aggiuntivi di WEB3 DNA Browser e ChromeOS</translation>
 <translation id="4136203100490971508">La funzione Luminosità notturna verrà disattivata automaticamente all'alba</translation>
 <translation id="41365691917097717">Se continui, verrà attivato il debug ADB per creare e testare app Android. Tieni presente che questa azione consente l'installazione di app Android che non sono state verificate da Google. Per disattivare la funzionalità è necessario ripristinare le impostazioni di fabbrica.</translation>
 <translation id="4138267921960073861">Visualizza nomi e foto dell'utente sulla schermata di accesso</translation>
@@ -3555,7 +3555,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4275830172053184480">Riavvia il dispositivo</translation>
 <translation id="4277434192562187284">Origine della configurazione XML</translation>
 <translation id="4278390842282768270">Consenti</translation>
-<translation id="4278498748067682896">Utilizzerai un upgrade Kiosk e segnaletica che consente l'esecuzione del dispositivo solo in modalità kiosk o segnaletica. Se vuoi che gli utenti accedano al dispositivo, torna indietro ed esegui la registrazione utilizzando Chrome Enterprise Upgrade.</translation>
+<translation id="5876688665074341496">Utilizzerai un upgrade Kiosk e segnaletica che consente l'esecuzione del dispositivo solo in modalità kiosk o segnaletica. Se vuoi che gli utenti accedano al dispositivo, torna indietro ed esegui la registrazione utilizzando WEB3 DNA Browser Enterprise Upgrade.</translation>
 <translation id="4279129444466079448">Puoi installare fino a <ph name="PROFILE_LIMIT" /> profili eSIM su questo dispositivo. Per aggiungere un altro profilo, prima rimuovine uno esistente.</translation>
 <translation id="4280325816108262082">Il dispositivo si disconnetterà automaticamente quando verrà spento o non sarà in uso</translation>
 <translation id="4281844954008187215">Termini di servizio</translation>
@@ -3575,7 +3575,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4291265871880246274">Finestra di dialogo per l'accesso</translation>
 <translation id="429234155571566255">queste ricette visualizzate di recente</translation>
 <translation id="4295072614469448764">L'app è disponibile nel tuo terminale. Potrebbe anche essere presente un'icona nell'Avvio app.</translation>
-<translation id="4295979599050707005">Accedi di nuovo per confermare che il tuo account <ph name="USER_EMAIL" /> può essere utilizzato con siti web, app ed estensioni in Chrome e Google Play. Potresti anche rimuovere questo account. <ph name="LINK_BEGIN" />Ulteriori informazioni<ph name="LINK_END" /></translation>
+<translation id="4439138136812911497">Accedi di nuovo per confermare che il tuo account <ph name="USER_EMAIL" /> può essere utilizzato con siti web, app ed estensioni in WEB3 DNA Browser e Google Play. Potresti anche rimuovere questo account. <ph name="LINK_BEGIN" />Ulteriori informazioni<ph name="LINK_END" /></translation>
 <translation id="4297219207642690536">Riavvia e reimposta</translation>
 <translation id="4297813521149011456">Rotazione del display</translation>
 <translation id="4299022904780065004">Nuova finestra di navigazione in &amp;incognito</translation>
@@ -3617,11 +3617,11 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4341577178275615435">Per attivare o disattivare la navigazione con cursore, utilizza la scorciatoia F7</translation>
 <translation id="4341905082470253054">Verifica dello stato TPM in corso…</translation>
 <translation id="434198521554309404">Veloce. Sicuro. Semplice.</translation>
-<translation id="4343250402091037179">Per eseguire ricerche in un sito o una parte specifici di Chrome, digita la relativa scorciatoia nella barra degli indirizzi, seguita dalla tua scorciatoia da tastiera preferita.</translation>
+<translation id="254361782063294543">Per eseguire ricerche in un sito o una parte specifici di WEB3 DNA Browser, digita la relativa scorciatoia nella barra degli indirizzi, seguita dalla tua scorciatoia da tastiera preferita.</translation>
 <translation id="434404122609091467">Con il tuo attuale fornitore di servizi</translation>
 <translation id="4345587454538109430">Configura...</translation>
 <translation id="4345732373643853732">Nome utente non noto al server</translation>
-<translation id="4348426576195894795">Se lo rimuovi, verranno eliminati anche gli eventuali profili di Chrome a cui è stato eseguito l'accesso con questo account</translation>
+<translation id="8836280861265102090">Se lo rimuovi, verranno eliminati anche gli eventuali profili di WEB3 DNA Browser a cui è stato eseguito l'accesso con questo account</translation>
 <translation id="4348766275249686434">Raccogli errori</translation>
 <translation id="4349828822184870497">Utili</translation>
 <translation id="4350230709416545141">Impedisci sempre al sito <ph name="HOST" /> di accedere alla tua posizione</translation>
@@ -3710,7 +3710,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4421932782753506458">Micio</translation>
 <translation id="4423376891418188461">Ripristina impostazioni</translation>
 <translation id="442397852638519243"><ph name="USER_NAME" />, il tuo amministratore ti chiede di cambiare la password.</translation>
-<translation id="4424867131226116718"><ph name="BEGIN_PARAGRAPH1" />Se consenti ai dispositivi ChromeOS di inviare i report automatici, ci aiuti a capire a quali problemi e miglioramenti dare la priorità in ChromeOS. Questi report possono includere, ad esempio, informazioni su quando ChromeOS ha un arresto anomalo, sulle funzionalità che sono state utilizzate o sulla quantità di memoria solitamente impiegata.<ph name="END_PARAGRAPH1" />
+<translation id="6132758579366439841"><ph name="BEGIN_PARAGRAPH1" />Se consenti ai dispositivi ChromeOS di inviare i report automatici, ci aiuti a capire a quali problemi e miglioramenti dare la priorità in ChromeOS. Questi report possono includere, ad esempio, informazioni su quando ChromeOS ha un arresto anomalo, sulle funzionalità che sono state utilizzate o sulla quantità di memoria solitamente impiegata.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />Puoi attivare o disattivare l'invio di questi report in qualsiasi momento nelle impostazioni del tuo dispositivo ChromeOS. Se sei un amministratore di dominio, puoi modificare questa impostazione nella Console di amministrazione.<ph name="END_PARAGRAPH2" /></translation>
 <translation id="4426464032773610160">Per iniziare, assicurati che il tuo sensore USB o Bluetooth sia collegato al dispositivo Chromebook. Puoi anche usare i tasti della tastiera.</translation>
 <translation id="4426508677408162512">Tutti i preferiti</translation>
@@ -3752,7 +3752,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4469762931504673593"><ph name="ORIGIN" /> può modificare i file nella cartella <ph name="FOLDERNAME" /></translation>
 <translation id="4470957202018033307">Preferenze dello spazio di archiviazione esterno</translation>
 <translation id="4471354919263203780">Download dei file di riconoscimento vocale… <ph name="PERCENT" />%</translation>
-<translation id="447252321002412580">Contribuisci a migliorare le funzionalità e le prestazioni di Chrome</translation>
+<translation id="7806274939426207658">Contribuisci a migliorare le funzionalità e le prestazioni di WEB3 DNA Browser</translation>
 <translation id="4472575034687746823">Come iniziare</translation>
 <translation id="4474155171896946103">Aggiungi tutte le schede ai Preferiti...</translation>
 <translation id="4475552974751346499">Cerca tra i file scaricati</translation>
@@ -3765,7 +3765,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4479424953165245642">Gestisci applicazioni kiosk</translation>
 <translation id="4479639480957787382">Ethernet</translation>
 <translation id="4479877282574735775">Configurazione della macchina virtuale. Questa operazione potrebbe richiedere alcuni minuti.</translation>
-<translation id="4480590691557335796">Chrome può trovare software dannoso sul computer e rimuoverlo</translation>
+<translation id="3451285346608549004">WEB3 DNA Browser può trovare software dannoso sul computer e rimuoverlo</translation>
 <translation id="4481448477173043917">Riavvio imprevisto di <ph name="DEVICE_TYPE" /></translation>
 <translation id="4481467543947557978">service worker</translation>
 <translation id="4482990632723642375">Scheda chiusa di recente</translation>
@@ -3816,7 +3816,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="452750746583162491">Verifica i tuoi dati sincronizzati</translation>
 <translation id="4527929807707405172">Attiva lo scorrimento invertito. <ph name="LINK_BEGIN" />Ulteriori informazioni<ph name="LINK_END" /></translation>
 <translation id="4528494169189661126">Traduzione suggerita</translation>
-<translation id="4529455689802245339">Sottotitoli in tempo reale di Chrome potrebbe non funzionare</translation>
+<translation id="3461883705539883257">Sottotitoli in tempo reale di WEB3 DNA Browser potrebbe non funzionare</translation>
 <translation id="4530494379350999373">Origine</translation>
 <translation id="4531924570968473143">Chi vorresti aggiungere a questo <ph name="DEVICE_TYPE" />?</translation>
 <translation id="4532625150642446981">"<ph name="USB_DEVICE_NAME" />" è in uso. La riassegnazione del dispositivo mentre è in uso potrebbe causare degli errori. Vuoi continuare?</translation>
@@ -3839,7 +3839,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4544174279960331769">Avatar blu predefinito</translation>
 <translation id="4545028762441890696">Per riattivarla, accetta le nuove autorizzazioni:</translation>
 <translation id="4545759655004063573">Impossibile salvare a causa dell'insufficienza di autorizzazioni. Salva in un'altra posizione.</translation>
-<translation id="4546308221697447294">Naviga velocemente con Google Chrome</translation>
+<translation id="5775286069007197861">Naviga velocemente con WEB3 DNA Browser</translation>
 <translation id="4546345569117159016">Tasto destro</translation>
 <translation id="4546692474302123343">Input vocale dell'Assistente Google</translation>
 <translation id="4547659257713117923">Nessuna scheda di altri dispositivi</translation>
@@ -3879,7 +3879,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4576763597586015380">Verifica la tua identità per continuare a salvare le password nel tuo Account Google</translation>
 <translation id="4579453506923101210">Eliminare un telefono connesso</translation>
 <translation id="4579581181964204535">Impossibile trasmettere <ph name="HOST_NAME" />.</translation>
-<translation id="4579876313423027742">Per le notifiche del browser, vai a <ph name="LINK_BEGIN" />Impostazioni del browser Chrome<ph name="LINK_END" /></translation>
+<translation id="2887345117481582667">Per le notifiche del browser, vai a <ph name="LINK_BEGIN" />Impostazioni del browser WEB3 DNA Browser<ph name="LINK_END" /></translation>
 <translation id="4580587929153007251">Accedi di nuovo a Gestore delle password di Google</translation>
 <translation id="4580596421317071374">Le password vengono salvate in <ph name="GOOGLE_PASSWORD_MANAGER" /> su questo dispositivo.</translation>
 <translation id="4581774856936278355">Errore durante il ripristino di Linux</translation>
@@ -3941,7 +3941,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4637189644956543313">Usa di nuovo la fotocamera</translation>
 <translation id="4637252186848840278">{COUNT,plural, =1{Testo}other{# segmenti di testo}}</translation>
 <translation id="4638930039313743000">Attiva debug ADB</translation>
-<translation id="4641539339823703554">Impossibile impostare l'ora di sistema in Chrome. Controlla l'ora indicata sotto e correggila se necessario.</translation>
+<translation id="6400710130818623207">Impossibile impostare l'ora di sistema in WEB3 DNA Browser. Controlla l'ora indicata sotto e correggila se necessario.</translation>
 <translation id="4643612240819915418">&amp;Apri video in un'altra scheda</translation>
 <translation id="4643833688073835173">Il tuo dispositivo Chromebook usa un sensore integrato per rilevare la presenza di persone davanti allo schermo. Tutti i dati vengono subito elaborati sul dispositivo e poi eliminati. I dati del sensore non vengono mai inviati a Google.</translation>
 <translation id="4644205769234414680">Consenti modalità di navigazione in incognito</translation>
@@ -3956,10 +3956,10 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="4652935475563630866">La modifica dell'impostazione della videocamera richiede il riavvio di Parallels Desktop. Riavvia Parallels Desktop per continuare.</translation>
 <translation id="4653116291358041820">Ombra piccola</translation>
 <translation id="4653405415038586100">Errore durante la configurazione di Linux</translation>
-<translation id="465406513924180949">Visualizzi dei carrelli per aiutarti a tornare facilmente agli elementi che hai lasciato nei carrelli degli acquisti sul Web.
+<translation id="5111409016731315233">Visualizzi dei carrelli per aiutarti a tornare facilmente agli elementi che hai lasciato nei carrelli degli acquisti sul Web.
         <ph name="BREAK" />
         <ph name="BREAK" />
-        Puoi gestire le impostazioni dal menu della scheda o visualizzare altre opzioni in Personalizza Chrome.</translation>
+        Puoi gestire le impostazioni dal menu della scheda o visualizzare altre opzioni in Personalizza WEB3 DNA Browser.</translation>
 <translation id="4654236001025007561">Condividi file con Chromebook e dispositivi Android nelle vicinanze</translation>
 <translation id="4657914796247705218">Velocità TrackPoint</translation>
 <translation id="4658285806588491142">Mantieni privato lo schermo</translation>
@@ -4084,7 +4084,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="4779136857077979611">Onigiri</translation>
 <translation id="4779766576531456629">Rinomina rete mobile eSIM</translation>
 <translation id="4780321648949301421">Salva pagina con nome...</translation>
-<translation id="4781443161433589743">Stai usando la funzionalità di sicurezza più efficace di Chrome</translation>
+<translation id="5841115205624852320">Stai usando la funzionalità di sicurezza più efficace di WEB3 DNA Browser</translation>
 <translation id="4781584184731045253">Cancella dati e autorizzazioni</translation>
 <translation id="4785719467058219317">Stai usando un token di sicurezza non registrato su questo sito web</translation>
 <translation id="4785914069240823137">Annulla ritaglio</translation>
@@ -4107,7 +4107,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="4804827417948292437">Avocado</translation>
 <translation id="4806457879608775995">Leggi attentamente questi termini e controlla i tuoi dati</translation>
 <translation id="4807098396393229769">Nome sulla carta di credito</translation>
-<translation id="4808024018088054533">Chrome non ha rilevato software dannoso sul computer • Ultima verifica: adesso</translation>
+<translation id="1882266194327208345">WEB3 DNA Browser non ha rilevato software dannoso sul computer • Ultima verifica: adesso</translation>
 <translation id="4808667324955055115">Popup bloccati</translation>
 <translation id="4809079943450490359">Istruzioni dell'amministratore del tuo dispositivo:</translation>
 <translation id="480990236307250886">Apri pagina iniziale</translation>
@@ -4127,7 +4127,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="4824958205181053313">Vuoi annullare la sincronizzazione?</translation>
 <translation id="4825532258163983651">Impossibile eliminare la passkey</translation>
 <translation id="4827675678516992122">Impossibile collegarsi</translation>
-<translation id="4827784381479890589">Controllo ortografico avanzato nel browser Chrome (testo inviato a Google per suggerimenti ortografici)</translation>
+<translation id="6892271205160941227">Controllo ortografico avanzato nel browser WEB3 DNA Browser (testo inviato a Google per suggerimenti ortografici)</translation>
 <translation id="4827904420700932487">Crea codice QR per questa immagine</translation>
 <translation id="4827970183019354123">Controllo URL</translation>
 <translation id="4828567746430452681">"<ph name="EXTENSION_NAME" />" non è più supportato</translation>
@@ -4353,7 +4353,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="5039804452771397117">Consenti</translation>
 <translation id="5040262127954254034">Privacy</translation>
 <translation id="5040823038948176460">Altre impostazioni contenuti</translation>
-<translation id="5041509233170835229">App di Chrome</translation>
+<translation id="8826908145380632840">App di WEB3 DNA Browser</translation>
 <translation id="5043440033854483429">Il nome può contenere lettere, numeri e trattini (-) e deve avere una lunghezza compresa tra 1 e 15 caratteri (inclusi).</translation>
 <translation id="5045550434625856497">Password non corretta</translation>
 <translation id="504561833207953641">Apertura nella sessione del browser esistente.</translation>
@@ -4361,7 +4361,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="5051836348807686060">Il controllo ortografico non è supportato per le lingue selezionate</translation>
 <translation id="5052499409147950210">Modifica del sito</translation>
 <translation id="505347685865235222">Gruppo senza nome - <ph name="GROUP_CONTENT_STRING" /></translation>
-<translation id="5054374119096692193">Visualizza tutte le opzioni relative alle schede nella sezione <ph name="BEGIN_LINK" />Personalizza Chrome<ph name="END_LINK" /></translation>
+<translation id="871347224265520208">Visualizza tutte le opzioni relative alle schede nella sezione <ph name="BEGIN_LINK" />Personalizza WEB3 DNA Browser<ph name="END_LINK" /></translation>
 <translation id="5056950756634735043">Connessione al contenitore in corso…</translation>
 <translation id="5057110919553308744">Quando fai clic sull'estensione</translation>
 <translation id="5059241099014281248">Limitare accesso</translation>
@@ -4524,7 +4524,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="520840839826327499"><ph name="SERVICE_NAME" /> chiede di controllare che tu stia utilizzando un dispositivo ChromeOS idoneo.</translation>
 <translation id="5208548918290612795">Archiviazione del token di autenticazione <ph name="WEB_DRIVE" /></translation>
 <translation id="5208988882104884956">Metà larghezza</translation>
-<translation id="520902706163766447">Viene attivato un fumetto popup nella parte superiore della UI di Chrome per eseguire ricerche nelle schede aperte.</translation>
+<translation id="6834947790133210529">Viene attivato un fumetto popup nella parte superiore della UI di WEB3 DNA Browser per eseguire ricerche nelle schede aperte.</translation>
 <translation id="5209320130288484488">Nessun dispositivo trovato</translation>
 <translation id="5209513429611499188">Dispositivi HID con utilizzi dalla relativa pagina <ph name="USAGE_PAGE" /></translation>
 <translation id="5210365745912300556">Chiudi scheda</translation>
@@ -4606,7 +4606,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="5288678174502918605">Riapri sch&amp;eda chiusa</translation>
 <translation id="52895863590846877">La pagina non è in <ph name="LANGUAGE" /></translation>
 <translation id="52912272896845572">Il file della chiave privata non è valido.</translation>
-<translation id="5291739252352359682">Vengono creati automaticamente i sottotitoli per i contenuti multimediali nel browser Chrome (funzionalità attualmente disponibile in inglese). I contenuti audio e i sottotitoli vengono elaborati localmente e non possono essere trasferiti dal dispositivo.</translation>
+<translation id="2826750778864670381">Vengono creati automaticamente i sottotitoli per i contenuti multimediali nel browser WEB3 DNA Browser (funzionalità attualmente disponibile in inglese). I contenuti audio e i sottotitoli vengono elaborati localmente e non possono essere trasferiti dal dispositivo.</translation>
 <translation id="529175790091471945">Formatta questo dispositivo</translation>
 <translation id="5292862864186939732">Vuoi consentire sempre l'esecuzione di "<ph name="EXTENSION_NAME" />" su <ph name="ORIGIN" />?</translation>
 <translation id="529296195492126134">La modalità temporanea non è supportata. Contatta l'amministratore.</translation>
@@ -4638,7 +4638,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="5313967007315987356">Aggiungi sito</translation>
 <translation id="5315738755890845852">Parentesi graffa aggiuntiva: <ph name="ERROR_LINE" /></translation>
 <translation id="5317780077021120954">Salva</translation>
-<translation id="5319359161174645648">Google consiglia Chrome</translation>
+<translation id="7498529333847389458">Google consiglia WEB3 DNA Browser</translation>
 <translation id="5319712128756744240">Accoppia nuovo dispositivo</translation>
 <translation id="5320135788267874712">Nuovo nome dispositivo</translation>
 <translation id="532247166573571973">Il server potrebbe non essere raggiungibile. Riprova più tardi.</translation>
@@ -4674,7 +4674,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="535123479159372765">Testo copiato da un altro dispositivo</translation>
 <translation id="5352033265844765294">Timestamp</translation>
 <translation id="5352257124367865087">Gestisci le autorizzazioni del sito</translation>
-<translation id="5353252989841766347">Esporta le password da Chrome</translation>
+<translation id="427843137999090081">Esporta le password da WEB3 DNA Browser</translation>
 <translation id="5355099869024327351">Consenti all'assistente di mostrarti le notifiche</translation>
 <translation id="5355191726083956201">Protezione avanzata è attiva</translation>
 <translation id="5355501370336370394">Registra dispositivo aziendale</translation>
@@ -4759,7 +4759,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5436575196282187764">Ricordi di Google Foto</translation>
 <translation id="5439680044267106777">Ignora e configura un nuovo profilo</translation>
 <translation id="544083962418256601">Crea scorciatoie...</translation>
-<translation id="5441133529460183413">App web installata dal browser Chrome</translation>
+<translation id="6088701240542055378">App web installata dal browser WEB3 DNA Browser</translation>
 <translation id="5441466871879044658">Traduci in questa lingua</translation>
 <translation id="5442228125690314719">Errore durante la creazione dell'immagine disco. Riprova.</translation>
 <translation id="5442550868130618860">Attiva aggiornamento automatico</translation>
@@ -4912,7 +4912,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5571832155627049070">Personalizza il tuo profilo</translation>
 <translation id="5572252023412311448">Mostra i dettagli del sito per <ph name="SITE_GROUP" /></translation>
 <translation id="5572648434713976849">Riceverai suggerimenti migliori nella barra degli indirizzi</translation>
-<translation id="5572851009514199876">Accedi a Chrome per consentire al browser di verificare che tu sia autorizzato ad accedere a questo sito.</translation>
+<translation id="4795630846379214764">Accedi a WEB3 DNA Browser per consentire al browser di verificare che tu sia autorizzato ad accedere a questo sito.</translation>
 <translation id="557506220935336383">Visualizza autorizzazioni per le estensioni per altri siti</translation>
 <translation id="5575473780076478375">Estensione in incognito: <ph name="EXTENSION_NAME" /></translation>
 <translation id="5575528586625653441">Si è verificato un problema con la richiesta di registrazione alla modalità demo.</translation>
@@ -4970,7 +4970,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5625631605902707678">Su più dispositivi</translation>
 <translation id="5626134646977739690">Nome:</translation>
 <translation id="5627086634964711283">Controlla anche la pagina visualizzata quando fai clic sul pulsante Pagina iniziale.</translation>
-<translation id="5627676517703583263">Naviga in modo intelligente con Chrome</translation>
+<translation id="4158721835472744711">Naviga in modo intelligente con WEB3 DNA Browser</translation>
 <translation id="5627832140542566187">Orientamento del display</translation>
 <translation id="5628393161682339323">Quando faccio clic sull'estensione</translation>
 <translation id="562935524653278697">L'amministratore ha disattivato la sincronizzazione dei tuoi preferiti, della cronologia, delle password e di altre impostazioni.</translation>
@@ -5002,7 +5002,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5655296450510165335">Registrazione dei dispositivi</translation>
 <translation id="5656845498778518563">Invia feedback a Google</translation>
 <translation id="5657156137487675418">Accetta tutti i cookie</translation>
-<translation id="5657667036353380798">Per poter installare l'estensione esterna occorre la versione di Chrome <ph name="MINIMUM_CHROME_VERSION" /> o successiva.</translation>
+<translation id="5657667036353380798">Per poter installare l'estensione esterna occorre la versione di WEB3 DNA Browser <ph name="MINIMUM_CHROME_VERSION" /> o successiva.</translation>
 <translation id="5658415415603568799">Per maggiore sicurezza, Smart Lock ti chiederà di inserire la password dopo 20 ore.</translation>
 <translation id="5659593005791499971">Email</translation>
 <translation id="5662513737565158057">Cambia il funzionamento delle app Linux.</translation>
@@ -5050,7 +5050,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5705882733397021510">Indietro</translation>
 <translation id="5707185214361380026">Impossibile caricare l'estensione da:</translation>
 <translation id="5708171344853220004">Nome entità Microsoft</translation>
-<translation id="5709557627224531708">Imposta Chrome come browser predefinito</translation>
+<translation id="2581842036863502750">Imposta WEB3 DNA Browser come browser predefinito</translation>
 <translation id="5711010025974903573">Log di servizio</translation>
 <translation id="5711983031544731014">Impossibile sbloccare. Inserisci la password.</translation>
 <translation id="5712153969432126546">A volte i siti pubblicano PDF, come documenti, contratti e moduli</translation>
@@ -5087,7 +5087,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="574104302965107104">Mirroring del display</translation>
 <translation id="574209121243317957">Tono</translation>
 <translation id="5743501966138291117">Per poter usare lo sblocco automatico, il PIN deve essere di massimo 12 cifre</translation>
-<translation id="5745316408658560138">Vuoi consentire a Chrome di trovare sconti personalizzati per i tuoi carrelli?</translation>
+<translation id="2229885217952740707">Vuoi consentire a WEB3 DNA Browser di trovare sconti personalizzati per i tuoi carrelli?</translation>
 <translation id="5746169159649715125">Salva come PDF</translation>
 <translation id="5747552184818312860">Scadenza</translation>
 <translation id="5747785204778348146">Sviluppatore - non stabile</translation>
@@ -5115,7 +5115,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5774295353725270860">Apri l'applicazione File</translation>
 <translation id="5776450228446082914">L'elenco di siti web che è possibile aprire in qualsiasi browser.</translation>
 <translation id="5776571780337000608">Puoi aprire e modificare i file supportati con questa app dal tuo browser di file o con altre app. Per stabilire quali file aprire per impostazione predefinita in questa app, <ph name="BEGIN_LINK" />scopri come impostare app predefinite sul dispositivo<ph name="END_LINK" />.</translation>
-<translation id="5777468213129569553">Apri Chrome</translation>
+<translation id="6755651292163585694">Apri WEB3 DNA Browser</translation>
 <translation id="5778491106820461378">Puoi gestire gli Account Google a cui hai eseguito l'accesso dalle <ph name="LINK_BEGIN" />Impostazioni<ph name="LINK_END" />. Le autorizzazioni concesse ai siti web e alle app potrebbero essere applicate a tutti gli account. Se non vuoi consentire a siti o app di accedere ai dati del tuo account, puoi accedere al tuo dispositivo <ph name="DEVICE_TYPE" /> come ospite.</translation>
 <translation id="5780011244986845107">La cartella che hai selezionato contiene file sensibili. Vuoi concedere a "<ph name="APP_NAME" />" accesso di lettura permanente a questa cartella?</translation>
 <translation id="5780973441651030252">Priorità processo</translation>
@@ -5124,7 +5124,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5782227691023083829">Traduzione in corso...</translation>
 <translation id="5783304934509327739">Opzione di accesso sui siti</translation>
 <translation id="57838592816432529">Disattiva audio</translation>
-<translation id="5785583009707899920">Utilità dei file Chrome</translation>
+<translation id="4807259722254626533">Utilità dei file WEB3 DNA Browser</translation>
 <translation id="5787146423283493983">Chiave concordata</translation>
 <translation id="5787420647064736989">Nome dispositivo</translation>
 <translation id="5788367137662787332">Spiacenti, impossibile montare almeno una partizione del dispositivo <ph name="DEVICE_LABEL" />.</translation>
@@ -5140,7 +5140,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5794034487966529952">Nella scrivania <ph name="DESK_TITLE" /> ci sono <ph name="NUM_BROWSERS" /> finestre del browser aperte</translation>
 <translation id="5794414402486823030">Apri sempre con visualizzatore di sistema</translation>
 <translation id="5794700615121138172">Cartelle condivise di Linux</translation>
-<translation id="5794786537412027208">Chiudi tutte le app di Chrome</translation>
+<translation id="2425512779512586564">Chiudi tutte le app di WEB3 DNA Browser</translation>
 <translation id="5796485699458186843">Nuova scheda di navigazione in incognito</translation>
 <translation id="5797521893972859201">Viene cancellata la cronologia, anche nella casella di ricerca</translation>
 <translation id="5798079537501238810">I siti possono installare gestori dei pagamenti</translation>
@@ -5287,7 +5287,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5925147183566400388">Puntatore Certification Practice Statement</translation>
 <translation id="5927232971138258197">Questa estensione può leggere e modificare <ph name="HOST" /></translation>
 <translation id="592740088639760830">Interrompi questo container</translation>
-<translation id="592880897588170157">Scarica i file PDF anziché aprirli automaticamente in Chrome</translation>
+<translation id="4636069192435709200">Scarica i file PDF anziché aprirli automaticamente in WEB3 DNA Browser</translation>
 <translation id="5928969282301718193">Hai finito per ora</translation>
 <translation id="592919310198008711">Quando faccio clic sull'estensione</translation>
 <translation id="5932209916647644605"><ph name="MANAGER" /> richiede l'immediato aggiornamento di <ph name="DEVICE_TYPE" />.</translation>
@@ -5315,7 +5315,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="5946591249682680882">ID report <ph name="WEBRTC_LOG_REPORT_ID" /></translation>
 <translation id="5948536763493709626">Collega una tastiera o un mouse oppure continua la configurazione usando il touchscreen. Se usi dispositivi Bluetooth, assicurati che siano pronti per essere accoppiati.</translation>
 <translation id="5949544233750246342">Impossibile analizzare il file</translation>
-<translation id="5950819593680344519">Chrome non ha rilevato software dannoso sul computer • Ultima verifica: ieri</translation>
+<translation id="1935739220534357289">WEB3 DNA Browser non ha rilevato software dannoso sul computer • Ultima verifica: ieri</translation>
 <translation id="5951303645598168883"><ph name="ORIGIN" /> vuole usare caratteri locali</translation>
 <translation id="5951624318208955736">Monitor</translation>
 <translation id="5953211687820750364">Questo elenco è influenzato da <ph name="BEGIN_LINK1" />{BrowserSwitcherExternalGreylistUrl}<ph name="END_LINK1" /> e <ph name="BEGIN_LINK2" />{BrowserSwitcherUrlGreylist}<ph name="END_LINK2" /></translation>
@@ -5387,7 +5387,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6020431688553761150">Il server non ti ha autorizzato ad accedere a questa risorsa.</translation>
 <translation id="6021293122504240352"><ph name="APPS" /> app non sono più supportate</translation>
 <translation id="6022526133015258832">Apri a schermo intero</translation>
-<translation id="6022659036123304283">Personalizza il tuo Chrome</translation>
+<translation id="8062670404341287632">Personalizza il tuo WEB3 DNA Browser</translation>
 <translation id="6023643151125006053">Questo dispositivo (numero di serie <ph name="SERIAL_NUMBER" />) è stato bloccato dall'amministratore di <ph name="SAML_DOMAIN" />.</translation>
 <translation id="6025215716629925253">Analisi dello stack</translation>
 <translation id="6026819612896463875"><ph name="WINDOW_TITLE" /> - Dispositivo USB collegato</translation>
@@ -5423,7 +5423,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6056710589053485679">Ricaricamento normale</translation>
 <translation id="6057312498756061228">Il file è troppo grande per essere sottoposto a un controllo di sicurezza. La dimensione massima dei file che puoi aprire è di 50 MB.</translation>
 <translation id="6057381398996433816">A questo sito è stato impedito di usare i sensori di movimento e della luce.</translation>
-<translation id="6059276912018042191">Schede Chrome recenti</translation>
+<translation id="4214202342221161706">Schede WEB3 DNA Browser recenti</translation>
 <translation id="6059652578941944813">Gerarchia certificati</translation>
 <translation id="6059925163896151826">Dispositivi USB</translation>
 <translation id="6061408389284235459">Una notifica è stata inviata a <ph name="DEVICE_NAME" /></translation>
@@ -5488,15 +5488,15 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6112294629795967147">Tocca per ridimensionare</translation>
 <translation id="6112727384379533756">Aggiungi una richiesta</translation>
 <translation id="6112931163620622315">Controlla il tuo telefono</translation>
-<translation id="6113434369102685411">Imposta il tuo motore di ricerca predefinito per il browser Chrome e Avvio app di <ph name="DEVICE_TYPE" /></translation>
+<translation id="3993667563661766006">Imposta il tuo motore di ricerca predefinito per il browser WEB3 DNA Browser e Avvio app di <ph name="DEVICE_TYPE" /></translation>
 <translation id="6113942107547980621">Per usare Smart Lock, passa al profilo utente principale del telefono</translation>
 <translation id="6116921718742659598">Modifica impostazioni della lingua e di immissione</translation>
 <translation id="6119927814891883061">Cambia il nome del dispositivo in <ph name="DEVICE_NAME" /></translation>
 <translation id="6120205520491252677">Blocca questa pagina in schermata iniziale...</translation>
-<translation id="6120707837086723438">Visualizzi ricette suggerite in base alla tua attività di ricerca recente per le ricette.
+<translation id="3806545361265739818">Visualizzi ricette suggerite in base alla tua attività di ricerca recente per le ricette.
         <ph name="BREAK" />
         <ph name="BREAK" />
-        Puoi gestire le impostazioni dal menu della scheda o visualizzare altre opzioni in Personalizza Chrome.</translation>
+        Puoi gestire le impostazioni dal menu della scheda o visualizzare altre opzioni in Personalizza WEB3 DNA Browser.</translation>
 <translation id="6121773125605585883">Visualizza password con nome utente <ph name="USERNAME" /> per <ph name="WEBSITE" /></translation>
 <translation id="6122081475643980456">La tua connessione Internet è controllata</translation>
 <translation id="6122093587541546701">Email (facoltativo):</translation>
@@ -5508,7 +5508,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6124698108608891449">Questo sito richiede altre autorizzazioni.</translation>
 <translation id="6125479973208104919">Purtroppo devi aggiungere nuovamente il tuo account al dispositivo <ph name="DEVICE_TYPE" />.</translation>
 <translation id="6126601353087978360">Inserisci qui il tuo feedback:</translation>
-<translation id="6129691635767514872">I dati selezionati sono stati rimossi da Chrome e dai dispositivi sincronizzati. Il tuo Account Google potrebbe avere altre forme di cronologia di navigazione, ad esempio ricerche e attività, di altri servizi Google all'indirizzo <ph name="BEGIN_LINK" />myactivity.google.com<ph name="END_LINK" />.</translation>
+<translation id="1918255458065983843">I dati selezionati sono stati rimossi da WEB3 DNA Browser e dai dispositivi sincronizzati. Il tuo Account Google potrebbe avere altre forme di cronologia di navigazione, ad esempio ricerche e attività, di altri servizi Google all'indirizzo <ph name="BEGIN_LINK" />myactivity.google.com<ph name="END_LINK" />.</translation>
 <translation id="6129938384427316298">Commento certificato Netscape</translation>
 <translation id="6129953537138746214">Spazio</translation>
 <translation id="6130692320435119637">Aggiungi Wi-Fi</translation>
@@ -5545,7 +5545,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6163376401832887457">Impostazioni Kerberos</translation>
 <translation id="6163522313638838258">Espandi tutto...</translation>
 <translation id="6165508094623778733">Scopri di più</translation>
-<translation id="6166185671393271715">Importa le password in Chrome</translation>
+<translation id="3811677712005962744">Importa le password in WEB3 DNA Browser</translation>
 <translation id="6169040057125497443">Controlla il microfono.</translation>
 <translation id="6169967265765719844">È possibile gestire le autorizzazioni per app e giochi installati tramite Steam nelle <ph name="LINK_BEGIN" />impostazioni dell'app Steam<ph name="LINK_END" />.</translation>
 <translation id="6170470584681422115">Sandwich</translation>
@@ -5583,7 +5583,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6208521041562685716">Attivazione dei dati mobili in corso</translation>
 <translation id="6208725777148613371">Impossibile salvare su <ph name="WEB_DRIVE" /> - <ph name="INTERRUPT_REASON" /></translation>
 <translation id="6209838773933913227">Aggiornamento del componente</translation>
-<translation id="6209908325007204267">Il tuo dispositivo include una licenza Chrome Enterprise Upgrade, ma il tuo nome utente non è associato a un account aziendale. Crea un account aziendale dal sito g.co/ChromeEnterpriseAccount su un dispositivo secondario.</translation>
+<translation id="2692070106395628000">Il tuo dispositivo include una licenza WEB3 DNA Browser Enterprise Upgrade, ma il tuo nome utente non è associato a un account aziendale. Crea un account aziendale dal sito g.co/ChromeEnterpriseAccount su un dispositivo secondario.</translation>
 <translation id="6210282067670792090">Nella barra degli indirizzi, utilizza questa scorciatoia da tastiera con le scorciatoie per motori di ricerca e ricerca su sito</translation>
 <translation id="621172521139737651">{COUNT,plural, =0{Apri tutti in un &amp;nuovo gruppo di schede}=1{Apri in un &amp;nuovo gruppo di schede}other{Apri tutti ({COUNT}) in un &amp;nuovo gruppo di schede}}</translation>
 <translation id="6212039847102026977">Mostra proprietà di rete avanzate</translation>
@@ -5608,7 +5608,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6232017090690406397">Batteria</translation>
 <translation id="6232116551750539448">Connection a <ph name="NAME" /> interrotta</translation>
 <translation id="6233154960150021497">Imposta come predefinito l'uso della voce invece della tastiera</translation>
-<translation id="6234108445915742946">I Termini di servizio di Chrome cambieranno il 31 marzo</translation>
+<translation id="1943233729447366428">I Termini di servizio di WEB3 DNA Browser cambieranno il 31 marzo</translation>
 <translation id="6234474535228214774">Installazione in attesa</translation>
 <translation id="6235208551686043831">Videocamera del dispositivo accesa. Posiziona il codice QR della eSIM di fronte alla videocamera.</translation>
 <translation id="6237474966939441970">App per scrivere note con lo stilo</translation>
@@ -5694,7 +5694,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6309510305002439352">Microfono disattivato</translation>
 <translation id="6310141306111263820">Impossibile installare il profilo eSIM. Per assistenza, contatta il tuo operatore.</translation>
 <translation id="6311165245110979290">Carta virtuale disponibile</translation>
-<translation id="6311220991371174222">Impossibile avviare Chrome perché si è verificato un errore durante l'apertura del profilo. Prova a riavviare il browser.</translation>
+<translation id="6083597276684961942">Impossibile avviare WEB3 DNA Browser perché si è verificato un errore durante l'apertura del profilo. Prova a riavviare il browser.</translation>
 <translation id="6312567056350025599">{NUM_DAYS,plural, =1{Il controllo di sicurezza è stato eseguito 1 giorno fa}other{Il controllo di sicurezza è stato eseguito {NUM_DAYS} giorni fa}}</translation>
 <translation id="6312638141433622592">Chiedi di mostrare gli articoli in modalità Reader, se supportata</translation>
 <translation id="6313641880021325787">ESCI DA REALTÀ VIRTUALE</translation>
@@ -5710,7 +5710,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6322559670748154781">Questo file non viene comunemente scaricato ed è stato bloccato dalla protezione avanzata</translation>
 <translation id="6324916366299863871">Modifica scorciatoia</translation>
 <translation id="6325191661371220117">Disattiva avvio automatico</translation>
-<translation id="6326175484149238433">Rimuovi da Chrome</translation>
+<translation id="8954902894032987165">Rimuovi da WEB3 DNA Browser</translation>
 <translation id="6326855256003666642">Conteggio attività keep-alive</translation>
 <translation id="6327785803543103246">Rilevamento automatico proxy web</translation>
 <translation id="6331818708794917058">I siti possono chiedere di connettersi ai dispositivi MIDI</translation>
@@ -5753,7 +5753,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6374077068638737855">Iceweasel</translation>
 <translation id="6374469231428023295">Riprova</translation>
 <translation id="6374635887697228982">Vuoi ricevere sconti?</translation>
-<translation id="637642201764944055">Le versioni precedenti delle app di Chrome non si apriranno più sui dispositivi Linux dopo dicembre 2022. Contatta l'amministratore per eseguire l'aggiornamento a una nuova versione o per rimuovere questa app.</translation>
+<translation id="950049179405527840">Le versioni precedenti delle app di WEB3 DNA Browser non si apriranno più sui dispositivi Linux dopo dicembre 2022. Contatta l'amministratore per eseguire l'aggiornamento a una nuova versione o per rimuovere questa app.</translation>
 <translation id="6377268785556383139">1 risultato per "<ph name="SEARCH_TEXT" />"</translation>
 <translation id="6378392501584240055">Apri nelle reti Wi-Fi</translation>
 <translation id="6380143666419481200">Accetta e continua</translation>
@@ -5777,7 +5777,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6398765197997659313">Esci da schermo intero</translation>
 <translation id="6399774419735315745">Spia</translation>
 <translation id="6400360390396538896">Sempre su <ph name="ORIGIN" /></translation>
-<translation id="6401458660421980302">Per inviare questa scheda a un altro dispositivo, accedi a Chrome su quel dispositivo</translation>
+<translation id="6401458660421980302">Per inviare questa scheda a un altro dispositivo, accedi a WEB3 DNA Browser su quel dispositivo</translation>
 <translation id="6401597285454423070">Il computer contiene un dispositivo di sicurezza TPM (Trusted Platform Module) che viene utilizzato per implementare in ChromeOS molte funzionalità di sicurezza fondamentali. Per scoprire di più, visita il Centro assistenza Chromebook all'indirizzo: https://support.google.com/chromebook/?p=tpm</translation>
 <translation id="6404187344102273690">Giochi sui Chromebook</translation>
 <translation id="6404511346730675251">Modifica preferito</translation>
@@ -5894,7 +5894,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="6509207748479174212">Licenza multimediale</translation>
 <translation id="6511827214781912955">Ti consigliamo di eliminare il file <ph name="FILENAME" /> per impedire alle altre persone che usano questo dispositivo di vedere le tue password</translation>
 <translation id="6512808201725371249">Una password per questo account è già salvata nel tuo Gestore delle password di Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Chrome utilizzerà i dati mobili se non sei connesso a un'altra rete.</translation>
+<translation id="3591146264239475385">WEB3 DNA Browser utilizzerà i dati mobili se non sei connesso a un'altra rete.</translation>
 <translation id="6514010653036109809">Dispositivo disponibile:</translation>
 <translation id="6514565641373682518">Questa pagina ha disattivato il puntatore del mouse.</translation>
 <translation id="6517709704288360414">Il tuo dispositivo potrebbe non funzionare più correttamente e potresti riscontrare problemi di prestazioni e sicurezza. La disattivazione degli aggiornamenti può anche incidere sul tuo diritto a presentare rivendicazioni legali in caso di problemi.</translation>
@@ -5914,7 +5914,7 @@ Puoi assegnare più sensori a questa azione.</translation>
 <translation id="652492607360843641">È attiva la connessione a una rete <ph name="NETWORK_TYPE" />.</translation>
 <translation id="6527303717912515753">Condividi</translation>
 <translation id="6528179044667508675">Non disturbare</translation>
-<translation id="652948702951888897">Cronologia di Chrome</translation>
+<translation id="5569565157329895323">Cronologia di WEB3 DNA Browser</translation>
 <translation id="6530186581263215931">Queste impostazioni sono applicate dall'amministratore</translation>
 <translation id="6531282281159901044">Conserva il file pericoloso</translation>
 <translation id="6532101170117367231">Salva in Google Drive</translation>
@@ -6010,7 +6010,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6610002944194042868">Opzioni di Traduttore</translation>
 <translation id="6611907964265870728">Assicurati che il dispositivo sia connesso a Internet</translation>
 <translation id="6611972847767394631">Trova le tue schede qui</translation>
-<translation id="6613668613087513143">Spazio su questo dispositivo insufficiente per completare l'aggiornamento. Libera <ph name="NECESSARY_SPACE" /> sul dispositivo e riprova dal browser Chrome.</translation>
+<translation id="9014700002603541112">Spazio su questo dispositivo insufficiente per completare l'aggiornamento. Libera <ph name="NECESSARY_SPACE" /> sul dispositivo e riprova dal browser WEB3 DNA Browser.</translation>
 <translation id="6615455863669487791">Mostrami</translation>
 <translation id="6618097958368085618">Mantieni comunque</translation>
 <translation id="6618744767048954150">In corso</translation>
@@ -6020,7 +6020,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6619801788773578757">Aggiungi applicazione kiosk</translation>
 <translation id="6619990499523117484">Conferma il codice PIN</translation>
 <translation id="6620254580880484313">Nome container</translation>
-<translation id="6621391692573306628">Per inviare questa scheda a un altro dispositivo, accedi a Chrome su entrambi i dispositivi</translation>
+<translation id="6621391692573306628">Per inviare questa scheda a un altro dispositivo, accedi a WEB3 DNA Browser su entrambi i dispositivi</translation>
 <translation id="6622980291894852883">Continua a bloccare le immagini</translation>
 <translation id="6624036901798307345">In modalità tablet, tocca il pulsante della barra degli strumenti del contatore di schede per aprire una nuova tabstrip che mostra le miniature di ogni scheda.</translation>
 <translation id="6624687053722465643">Dolcezza</translation>
@@ -6048,7 +6048,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="665061930738760572">Apri in &amp;un'altra finestra</translation>
 <translation id="6651237644330755633">Considera attendibile questo certificato per l'identificazione dei siti web</translation>
 <translation id="6651495917527016072">Sincronizza le reti Wi-Fi con il tuo telefono. <ph name="LINK_BEGIN" />Ulteriori informazioni<ph name="LINK_END" /></translation>
-<translation id="665355505818177700">L'integrazione di Chrome <ph name="MS_AD_NAME" /> è supportata soltanto sulle piattaforme x86_64. I Chromebook basati su una piattaforma ARM o x86 non supportano questa funzionalità.</translation>
+<translation id="8705946894554644936">L'integrazione di WEB3 DNA Browser <ph name="MS_AD_NAME" /> è supportata soltanto sulle piattaforme x86_64. I Chromebook basati su una piattaforma ARM o x86 non supportano questa funzionalità.</translation>
 <translation id="6654509035557065241">Preferenza rete</translation>
 <translation id="6655190889273724601">Modalità sviluppatore</translation>
 <translation id="6655458902729017087">Nascondi account</translation>
@@ -6064,7 +6064,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="666731172850799929">Apri in <ph name="APP_NAME" /></translation>
 <translation id="6669195257625975787">I dati vengono trattati allo stesso modo del sito che stai visualizzando</translation>
 <translation id="6670142487971298264"><ph name="APP_NAME" /> è ora disponibile</translation>
-<translation id="6670767097276846646">Alcune estensioni possono aggiungere motori di ricerca a Chrome</translation>
+<translation id="5695721721805972829">Alcune estensioni possono aggiungere motori di ricerca a WEB3 DNA Browser</translation>
 <translation id="6671320560732140690">{COUNT,plural, =1{un indirizzo}other{# indirizzi}}</translation>
 <translation id="6671497123040790595">Impostazione della gestione da parte di <ph name="MANAGER" /> in corso…</translation>
 <translation id="6673391612973410118"><ph name="PRINTER_MAKE_OR_MODEL" /> (USB)</translation>
@@ -6097,7 +6097,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6701535245008341853">Impossibile caricare il profilo.</translation>
 <translation id="6701824422332982935">Ricarica la pagina per utilizzare queste estensioni</translation>
 <translation id="6702639462873609204">&amp;Modifica...</translation>
-<translation id="6703212423117969852">Puoi riprovare più tardi in Chrome.</translation>
+<translation id="3517452094966136623">Puoi riprovare più tardi in WEB3 DNA Browser.</translation>
 <translation id="6703254819490889819">Ripristina copia di backup</translation>
 <translation id="6706210727756204531">Ambito</translation>
 <translation id="6707122714992751648">Esecuzione di test diagnostici di ChromeOS</translation>
@@ -6138,13 +6138,13 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6740234557573873150"><ph name="FILE_NAME" /> in pausa</translation>
 <translation id="6741063444351041466"><ph name="BEGIN_LINK" />L'amministratore<ph name="END_LINK" /> ha disattivato Navigazione sicura</translation>
 <translation id="6742339027238151589">Accessibile allo script</translation>
-<translation id="6742629250739345159">Vengono creati automaticamente i sottotitoli per i contenuti multimediali nel browser Chrome. I contenuti audio e i sottotitoli vengono elaborati localmente e non possono essere trasferiti dal dispositivo.</translation>
+<translation id="6034058222596821062">Vengono creati automaticamente i sottotitoli per i contenuti multimediali nel browser WEB3 DNA Browser. I contenuti audio e i sottotitoli vengono elaborati localmente e non possono essere trasferiti dal dispositivo.</translation>
 <translation id="6743841972744298686">Impostazioni di sincronizzazione</translation>
 <translation id="6745592621698551453">Aggiorna ora</translation>
 <translation id="6746124502594467657">Sposta giù</translation>
 <translation id="674632704103926902">Attiva trascinamento al tocco</translation>
 <translation id="6748465660675848252">Puoi continuare, tuttavia verranno ripristinati soltanto le impostazioni e i dati sincronizzati. Tutti i dati locali andranno persi.</translation>
-<translation id="6748980958975836188">Ho letto e accetto i <ph name="BEGIN_LINK1" />Termini di servizio di Google<ph name="END_LINK1" /> e i <ph name="BEGIN_LINK2" />Termini di servizio aggiuntivi di Chrome e ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="6563505780153895354">Ho letto e accetto i <ph name="BEGIN_LINK1" />Termini di servizio di Google<ph name="END_LINK1" /> e i <ph name="BEGIN_LINK2" />Termini di servizio aggiuntivi di WEB3 DNA Browser e ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="6750757184909117990">Disabilita rete mobile</translation>
 <translation id="6751344591405861699"><ph name="WINDOW_TITLE" /> (In incognito)</translation>
 <translation id="6756157672127672536">L'app File consente di accedere rapidamente ai file salvati su Google Drive, nell'unità di archiviazione esterna o sul tuo dispositivo ChromeOS.</translation>
@@ -6178,7 +6178,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6783036716881942511">Rimuovere questo dispositivo?</translation>
 <translation id="6784523122863989144">Il profilo è supportato</translation>
 <translation id="6785739405821760313">Sono visualizzate le scrivanie salvate. Premi Tab per navigare.</translation>
-<translation id="6785872064505734160">L'Assistente Google in Chrome può completare azioni per te su vari siti web</translation>
+<translation id="1702866421814791137">L'Assistente Google in WEB3 DNA Browser può completare azioni per te su vari siti web</translation>
 <translation id="6786747875388722282">Estensioni</translation>
 <translation id="6787097042755590313">Un'altra scheda</translation>
 <translation id="6787839852456839824">Scorciatoie da tastiera</translation>
@@ -6235,8 +6235,8 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6825184156888454064">Ordina per nome</translation>
 <translation id="6826872289184051766">Verifica tramite USB</translation>
 <translation id="6827121912381363404">Consenti a tutte le estensioni di leggere e modificare <ph name="PERMITTED_SITE" /></translation>
-<translation id="6827517233063803343">Le app e le impostazioni verranno sincronizzate su tutti i dispositivi ChromeOS a cui hai effettuato l'accesso con il tuo Account Google. Per le opzioni di sincronizzazione del browser, vai alle <ph name="LINK_BEGIN" />impostazioni di Chrome<ph name="LINK_END" />.</translation>
-<translation id="6827767090350758381">Le versioni precedenti delle app di Chrome non si apriranno più sui dispositivi Windows dopo dicembre 2022. Contatta l'amministratore per eseguire l'aggiornamento a una nuova versione o per rimuovere questa app.</translation>
+<translation id="7049189835493026338">Le app e le impostazioni verranno sincronizzate su tutti i dispositivi ChromeOS a cui hai effettuato l'accesso con il tuo Account Google. Per le opzioni di sincronizzazione del browser, vai alle <ph name="LINK_BEGIN" />impostazioni di WEB3 DNA Browser<ph name="LINK_END" />.</translation>
+<translation id="5084830602546671908">Le versioni precedenti delle app di WEB3 DNA Browser non si apriranno più sui dispositivi Windows dopo dicembre 2022. Contatta l'amministratore per eseguire l'aggiornamento a una nuova versione o per rimuovere questa app.</translation>
 <translation id="6828153365543658583">Limita l'accesso ai seguenti utenti</translation>
 <translation id="6828182567531805778">Inserisci la tua passphrase per sincronizzare i dati</translation>
 <translation id="682871081149631693">Correzione rapida</translation>
@@ -6322,7 +6322,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6902066522699286937">Voce per l'anteprima</translation>
 <translation id="6902336033320348843">Sezione non supportata: <ph name="ERROR_LINE" /></translation>
 <translation id="6902837902700739466">Aggiungi il dispositivo al dominio</translation>
-<translation id="6903022061658753260">I tuoi dati verranno sincronizzati su tutti i browser Chrome in cui hai attivato la sincronizzazione per questo account. Per le opzioni di sincronizzazione di ChromeOS, vai alle <ph name="LINK_BEGIN" />impostazioni di ChromeOS<ph name="LINK_END" />.</translation>
+<translation id="2448275978671588198">I tuoi dati verranno sincronizzati su tutti i browser WEB3 DNA Browser in cui hai attivato la sincronizzazione per questo account. Per le opzioni di sincronizzazione di ChromeOS, vai alle <ph name="LINK_BEGIN" />impostazioni di ChromeOS<ph name="LINK_END" />.</translation>
 <translation id="6903590427234129279">Apri tutti gli URL (<ph name="URL_COUNT" />)</translation>
 <translation id="6903907808598579934">Attiva la sincronizzazione</translation>
 <translation id="6904344821472985372">Revoca accesso a file</translation>
@@ -6340,7 +6340,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6918677045355889289">Aggiornamento di ChromeOS richiesto</translation>
 <translation id="6919354101107095996">Prova ad accedere al sito. Poi esegui nuovamente il download</translation>
 <translation id="6919868320029503575">Password inefficaci</translation>
-<translation id="6919952941889172531">Vuoi anche attivare la Navigazione sicura avanzata per questo profilo Chrome?</translation>
+<translation id="697721698462039677">Vuoi anche attivare la Navigazione sicura avanzata per questo profilo WEB3 DNA Browser?</translation>
 <translation id="6920989436227028121">Apri in una scheda normale</translation>
 <translation id="6921104647315081813">Cancella attività</translation>
 <translation id="692114467174262153">Impossibile aprire <ph name="ALTERNATIVE_BROWSER_NAME" /></translation>
@@ -6367,10 +6367,10 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6944708469742828051">Questa passkey verrà salvata solo in Windows Hello</translation>
 <translation id="6945221475159498467">Seleziona</translation>
 <translation id="694592694773692225">Reindirizzamento bloccato in questa pagina.</translation>
-<translation id="6947015141909171112">Le ricette ti vengono mostrate in base alla tua attività di ricerca di ricette recente.
+<translation id="1906358667405949750">Le ricette ti vengono mostrate in base alla tua attività di ricerca di ricette recente.
         <ph name="BREAK" />
         <ph name="BREAK" />
-        Puoi gestire le impostazioni dal menu della scheda o visualizzare altre opzioni in Personalizza Chrome.</translation>
+        Puoi gestire le impostazioni dal menu della scheda o visualizzare altre opzioni in Personalizza WEB3 DNA Browser.</translation>
 <translation id="6949089178006131285">Lettura di informazioni di rete di ChromeOS Flex</translation>
 <translation id="6949434160682548041">Password (facoltativa)</translation>
 <translation id="6950627417367801484">Ripristina le app</translation>
@@ -6421,7 +6421,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="6988094684494323731">Avvio del container Linux</translation>
 <translation id="6988403677482707277">Scheda spostata all'inizio della tabstrip</translation>
 <translation id="6989123022222588975">Non hai rimosso nessun interesse</translation>
-<translation id="6990209147952697693">Chrome classico</translation>
+<translation id="5053366810579327794">WEB3 DNA Browser classico</translation>
 <translation id="6991665348624301627">Seleziona una destinazione</translation>
 <translation id="6992554835374084304">Attiva il controllo ortografico avanzato</translation>
 <translation id="6993000214273684335">Scheda rimossa da gruppo senza nome - <ph name="GROUP_CONTENTS" /></translation>
@@ -6525,10 +6525,10 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7078120482318506217">Tutte le reti</translation>
 <translation id="708060913198414444">C&amp;opia l'indirizzo dell'audio</translation>
 <translation id="7082568314107259011">La rete <ph name="NETWORK_NAME" /> è gestita dall'amministratore</translation>
-<translation id="7085389578340536476">Vuoi consentire la registrazione dell'audio in Chrome?</translation>
+<translation id="6383988798524756554">Vuoi consentire la registrazione dell'audio in WEB3 DNA Browser?</translation>
 <translation id="708550780726587276">(non configurato)</translation>
 <translation id="7086531709814430567">Vuoi consentire sempre l'esecuzione di queste estensioni su <ph name="ORIGIN" />?</translation>
-<translation id="7086672505018440886">Includi i file di log di Chrome nell'archivio.</translation>
+<translation id="3430846989575979379">Includi i file di log di WEB3 DNA Browser nell'archivio.</translation>
 <translation id="7088434364990739311">Impossibile iniziare controllo disponibilità aggiornamenti (codice di errore <ph name="ERROR" />).</translation>
 <translation id="7088674813905715446">L'amministratore ha attivato lo stato Deprovisioning effettuato per questo dispositivo. Per poter registrare il dispositivo, chiedi all'amministratore di attivare lo stato In attesa.</translation>
 <translation id="7088960765736518739">Switch Access</translation>
@@ -6560,7 +6560,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7117228822971127758">Riprova più tardi</translation>
 <translation id="711840821796638741">Mostra Preferiti gestiti</translation>
 <translation id="711985611146095797">Questa pagina ti consente di gestire gli Account Google a cui hai eseguito l'accesso. <ph name="LINK_BEGIN" />Scopri di più<ph name="LINK_END" /></translation>
-<translation id="7120762240626567834">Il browser Chrome e il traffico Android verranno bloccati a meno che non venga effettuata la connessiona e una VPN</translation>
+<translation id="3265503272008308864">Il browser WEB3 DNA Browser e il traffico Android verranno bloccati a meno che non venga effettuata la connessiona e una VPN</translation>
 <translation id="7120865473764644444">Impossibile collegarsi al server di sincronizzazione. Nuovo tentativo...</translation>
 <translation id="7121438501124788993">Modalità sviluppatore</translation>
 <translation id="7121728544325372695">Trattini smart</translation>
@@ -6643,7 +6643,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7220019174139618249">Impossibile esportare le password in "<ph name="FOLDER" />"</translation>
 <translation id="722099540765702221">Fonte di ricarica</translation>
 <translation id="7221869452894271364">Ricarica questa pagina</translation>
-<translation id="7222204278952406003">Chrome è il browser predefinito</translation>
+<translation id="8728335547814212082">WEB3 DNA Browser è il browser predefinito</translation>
 <translation id="7222232353993864120">Indirizzo email</translation>
 <translation id="7222235798733126207">Condivisione tra siti limitata</translation>
 <translation id="722408235435815623">{MEMBERS,plural, =1{1 sito nel gruppo di <ph name="FPS_OWNER" />}other{{MEMBERS} siti nel gruppo di <ph name="FPS_OWNER" />}}</translation>
@@ -6702,7 +6702,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7273110280511444812">Ultimo collegamento in data <ph name="DATE" /></translation>
 <translation id="727441411541283857"><ph name="PERCENTAGE" />% - <ph name="TIME" /> alla ricarica completa</translation>
 <translation id="727952162645687754">Errore di download</translation>
-<translation id="7280041992884344566">Si è verificato un errore in Chrome durante la ricerca di software dannoso</translation>
+<translation id="4589023130574873451">Si è verificato un errore in WEB3 DNA Browser durante la ricerca di software dannoso</translation>
 <translation id="7280649757394340890">Impostazioni voce per sintesi vocale</translation>
 <translation id="7280877790564589615">Richiesta di autorizzazione</translation>
 <translation id="7282547042039404307">Fluido</translation>
@@ -6722,7 +6722,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7299337219131431707">Attiva navigazione come ospite</translation>
 <translation id="7299515639584427954">Vuoi cambiare l'app predefinita per i link supportati?</translation>
 <translation id="7301470816294041580">Potresti chiedere "Hey Google, qual è il titolo di questa canzone?" oppure "Hey Google, cosa c'è sul mio schermo?"</translation>
-<translation id="730289542559375723">{NUM_APPLICATIONS,plural, =1{Questa applicazione potrebbe impedire il corretto funzionamento di Chrome.}other{Queste applicazioni potrebbero impedire il corretto funzionamento di Chrome.}}</translation>
+<translation id="2416267367540797532">{NUM_APPLICATIONS,plural, =1{Questa applicazione potrebbe impedire il corretto funzionamento di WEB3 DNA Browser.}other{Queste applicazioni potrebbero impedire il corretto funzionamento di WEB3 DNA Browser.}}</translation>
 <translation id="7303281435234579599">Spiacenti. Si è verificato un problema durante la configurazione della modalità demo.</translation>
 <translation id="7303900363563182677">A questo sito è stato impedito di leggere testo e immagini copiati negli appunti</translation>
 <translation id="7304030187361489308">Alto</translation>
@@ -6868,7 +6868,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7434757724413878233">Accelerazione del mouse</translation>
 <translation id="7434969625063495310">Impossibile aggiungere il server di stampa. Controlla la configurazione del server e riprova.</translation>
 <translation id="7436921188514130341">Uffa! Si è verificato un errore durante la ridenominazione.</translation>
-<translation id="7438495332316988804">Il browser standard può essere trovato digitando "Chrome" nell'Avvio app.</translation>
+<translation id="8354690687314411786">Il browser standard può essere trovato digitando "WEB3 DNA Browser" nell'Avvio app.</translation>
 <translation id="7439519621174723623">Per continuare, aggiungi un nome per il dispositivo</translation>
 <translation id="7441736921018636843">Per modificare questa impostazione, <ph name="BEGIN_LINK" />reimposta la sincronizzazione<ph name="END_LINK" /> per rimuovere la passphrase di sincronizzazione.</translation>
 <translation id="7441830548568730290">Altri utenti</translation>
@@ -6999,7 +6999,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7564847347806291057">Termina processo</translation>
 <translation id="756503097602602175">Puoi gestire gli Account Google a cui hai eseguito l'accesso dalle <ph name="LINK_BEGIN" />Impostazioni<ph name="LINK_END" />. Le autorizzazioni concesse ai siti web e alle app potrebbero essere applicate a tutti gli account. Se non vuoi consentire a siti o app di accedere alle informazioni del tuo account, puoi accedere a <ph name="DEVICE_TYPE" /> come ospite oppure navigare sul Web in una <ph name="LINK_2_BEGIN" />finestra di navigazione in incognito<ph name="LINK_2_END" />.</translation>
 <translation id="7566118625369982896">Gestisci i link dell'app Play</translation>
-<translation id="756809126120519699">Dati di Chrome cancellati</translation>
+<translation id="3719382149792290071">Dati di WEB3 DNA Browser cancellati</translation>
 <translation id="756876171895853918">Personalizza l'avatar</translation>
 <translation id="7568790562536448087">Aggiornamento</translation>
 <translation id="7569983096843329377">Nero</translation>
@@ -7018,7 +7018,7 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7582844466922312471">Dati mobile</translation>
 <translation id="7583948862126372804">Conteggio</translation>
 <translation id="7585106857920830898">Controllo della conformità alle norme di sicurezza della tua organizzazione in corso…</translation>
-<translation id="7586498138629385861">Chrome rimane in esecuzione se ci sono app di Chrome aperte.</translation>
+<translation id="2627173553865939481">WEB3 DNA Browser rimane in esecuzione se ci sono app di WEB3 DNA Browser aperte.</translation>
 <translation id="758895749110326677">Aiutaci a migliorare i giochi sui Chromebook</translation>
 <translation id="7589461650300748890">Attenzione.</translation>
 <translation id="7593653750169415785">Blocco automatico in risposta a ripetuti rifiuti delle notifiche</translation>
@@ -7202,17 +7202,17 @@ Hai altre # password compromesse. Gestore delle password di Google consiglia di 
 <translation id="7744192722284567281">Rilevata in una violazione dei dati</translation>
 <translation id="7744649840067671761">Premi un nuovo sensore o tasto della tastiera per iniziare un'assegnazione.
 Premi un sensore o un tasto assegnato per rimuovere l'assegnazione.</translation>
-<translation id="7746739418892731373">Visualizzi foto e video in evidenza dalla tua raccolta di Google Foto. Puoi decidere cosa viene visualizzato tra i tuoi contenuti in evidenza all'indirizzo <ph name="BEGIN_LINK" />photos.google.com/settings<ph name="END_LINK" />.
+<translation id="4535176338658431491">Visualizzi foto e video in evidenza dalla tua raccolta di Google Foto. Puoi decidere cosa viene visualizzato tra i tuoi contenuti in evidenza all'indirizzo <ph name="BEGIN_LINK" />photos.google.com/settings<ph name="END_LINK" />.
         <ph name="BREAK" />
         <ph name="BREAK" />
-        Puoi gestire le impostazioni per questa scheda dal menu della stessa o visualizzare altre opzioni in Personalizza Chrome.</translation>
+        Puoi gestire le impostazioni per questa scheda dal menu della stessa o visualizzare altre opzioni in Personalizza WEB3 DNA Browser.</translation>
 <translation id="7750228210027921155">Picture in picture</translation>
 <translation id="7751260505918304024">Mostra tutto</translation>
 <translation id="7751619076382363711">Non hai rimosso nessun sito</translation>
 <translation id="7753735457098489144">Installazione non riuscita per spazio di archiviazione insufficiente. Per liberare spazio, elimina i file dallo spazio di archiviazione del dispositivo.</translation>
 <translation id="7754347746598978109">Non possono utilizzare JavaScript</translation>
 <translation id="7754704193130578113">Chiedi dove salvare il file prima di scaricarlo</translation>
-<translation id="7755134875397410803">Per aiutarti a completare le attività, Google riceverà gli URL e i contenuti dei siti su cui utilizzi l'assistente, oltre alle informazioni che invii tramite l'assistente. Queste informazioni potrebbero essere memorizzate nel tuo Account Google. Puoi disattivare l'assistente nelle impostazioni di Chrome. <ph name="LEARN_MORE" /></translation>
+<translation id="3973276496493153660">Per aiutarti a completare le attività, Google riceverà gli URL e i contenuti dei siti su cui utilizzi l'assistente, oltre alle informazioni che invii tramite l'assistente. Queste informazioni potrebbero essere memorizzate nel tuo Account Google. Puoi disattivare l'assistente nelle impostazioni di WEB3 DNA Browser. <ph name="LEARN_MORE" /></translation>
 <translation id="7755287808199759310">Il tuo genitore può sbloccarlo per te</translation>
 <translation id="7757592200364144203">Cambia nome del dispositivo</translation>
 <translation id="7757739382819740102">I contatti nelle vicinanze possono condividere contenuti con te. Sarà richiesta l'approvazione.</translation>
@@ -7258,7 +7258,7 @@ Premi un sensore o un tasto assegnato per rimuovere l'assegnazione.</translation
 <translation id="7785471469930192436">Consulta le istruzioni del tuo motore di ricerca per eliminare la tua cronologia delle ricerche, se possibile</translation>
 <translation id="7786889348652477777">&amp;Ricarica app</translation>
 <translation id="7787308148023287649">Mostra sull'altro schermo</translation>
-<translation id="7788298548579301890">Un altro programma sul computer ha aggiunto un'app che potrebbe modificare il funzionamento di Chrome.
+<translation id="8761815310481564522">Un altro programma sul computer ha aggiunto un'app che potrebbe modificare il funzionamento di WEB3 DNA Browser.
 
 
 <ph name="EXTENSION_NAME" /></translation>
@@ -7271,7 +7271,7 @@ Premi un sensore o un tasto assegnato per rimuovere l'assegnazione.</translation
 <translation id="7797571222998226653">Off</translation>
 <translation id="7798844538707273832">Autorizzazione <ph name="PERMISSION" /> bloccata automaticamente</translation>
 <translation id="7800518121066352902">Ruota in senso anti&amp;orario</translation>
-<translation id="7801679634091975683">Le modifiche che apporti qui vengono applicate soltanto al browser Lacros. Per apportare modifiche alle impostazioni del browser Chrome, aprilo e vai alle impostazioni.</translation>
+<translation id="7224446371388846106">Le modifiche che apporti qui vengono applicate soltanto al browser Lacros. Per apportare modifiche alle impostazioni del browser WEB3 DNA Browser, aprilo e vai alle impostazioni.</translation>
 <translation id="780301667611848630">No grazie</translation>
 <translation id="7804072833593604762">Scheda chiusa</translation>
 <translation id="7805768142964895445">Stato</translation>
@@ -7344,7 +7344,7 @@ Premi un sensore o un tasto assegnato per rimuovere l'assegnazione.</translation
 <translation id="7871109039747854576">Utilizza i tasti <ph name="COMMA" /> e <ph name="PERIOD" /> per il paging di un elenco di candidati</translation>
 <translation id="787268756490971083">Off</translation>
 <translation id="7872758299142009420">Troppi gruppi nidificati: <ph name="ERROR_LINE" /></translation>
-<translation id="7874257161694977650">Sfondi di Chrome</translation>
+<translation id="9067464079683006154">Sfondi di WEB3 DNA Browser</translation>
 <translation id="7876027585589532670">Impossibile modificare la scorciatoia</translation>
 <translation id="7877451762676714207">Errore del server sconosciuto. Riprova o contatta l'amministratore del server.</translation>
 <translation id="7879478708475862060">Segui modalità immissione</translation>
@@ -7464,7 +7464,7 @@ Premi un sensore o un tasto assegnato per rimuovere l'assegnazione.</translation
 <translation id="7974566588408714340">Riprova utilizzando <ph name="EXTENSIONNAME" /></translation>
 <translation id="7974713334845253259">Colore predefinito</translation>
 <translation id="7974936243149753750">Overscan</translation>
-<translation id="7975504106303186033">Devi registrare questo dispositivo Chrome Education in un account Education. Per creare un nuovo account, visita la pagina g.co/workspace/edusignup.</translation>
+<translation id="1743055534473330398">Devi registrare questo dispositivo WEB3 DNA Browser Education in un account Education. Per creare un nuovo account, visita la pagina g.co/workspace/edusignup.</translation>
 <translation id="7978412674231730200">Chiave privata</translation>
 <translation id="7978450511781612192">I tuoi Account Google verranno scollegati e verrà interrotta la sincronizzazione di preferiti, cronologia, password e altro.</translation>
 <translation id="7980084013673500153">ID asset: <ph name="ASSET_ID" /></translation>
@@ -7501,7 +7501,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8011372169388649948">Preferito "<ph name="BOOKMARK_TITLE" />" spostato.</translation>
 <translation id="8011875486979733097">Impossibile installare Steam</translation>
 <translation id="8012647001091218357">In questo momento, non è possibile raggiungere i tuoi genitori. Riprova.</translation>
-<translation id="8013993649590906847">Se un'immagine è senza descrizione utile, Chrome proverà a fornirne una. Per la creazione delle descrizioni, le immagini vengono inviate a Google.</translation>
+<translation id="326486748351990910">Se un'immagine è senza descrizione utile, WEB3 DNA Browser proverà a fornirne una. Per la creazione delle descrizioni, le immagini vengono inviate a Google.</translation>
 <translation id="8014154204619229810">Lo strumento di aggiornamento è in esecuzione. Aggiorna tra un minuto per ricontrollare.</translation>
 <translation id="8014206674403687691"><ph name="IDS_SHORT_PRODUCT_NAME" /> non riesce a tornare alla versione precedente installata. Prova a eseguire il Powerwash del dispositivo.</translation>
 <translation id="8016266267177410919">Archiviazione temporanea</translation>
@@ -7603,7 +7603,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8096740438774030488">Modalità di sospensione durante l'utilizzo della batteria</translation>
 <translation id="80974698889265265">I PIN non corrispondono</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME" /> usa le impostazioni proxy di un'estensione</translation>
-<translation id="8097959162767603171">È necessario che l'amministratore accetti prima i Termini di servizio nell'elenco di dispositivi Chrome della Console di amministrazione.</translation>
+<translation id="520788332692140369">È necessario che l'amministratore accetti prima i Termini di servizio nell'elenco di dispositivi WEB3 DNA Browser della Console di amministrazione.</translation>
 <translation id="8098156986344908134">Vuoi installare <ph name="DEVICE_OS" /> e resettare il disco rigido?</translation>
 <translation id="8098616321286360457">È necessaria una connessione di rete</translation>
 <translation id="810068641062493918">Lingua <ph name="LANGUAGE" /> selezionata. Premi il tasto per la ricerca e la barra spaziatrice per deselezionarla.</translation>
@@ -7624,7 +7624,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8113476325385351118">Continua a impedire a questo sito di avere il controllo totale dei dispositivi MIDI</translation>
 <translation id="8115139559594092084">Dal tuo Google Drive</translation>
 <translation id="8116972784401310538">Gestione &amp;Preferiti</translation>
-<translation id="8118362518458010043">Estensione disattivata da Chrome perché potrebbe non essere sicura.</translation>
+<translation id="7925520123827549518">Estensione disattivata da WEB3 DNA Browser perché potrebbe non essere sicura.</translation>
 <translation id="8118488170956489476">Il tuo <ph name="BEGIN_LINK" />browser è gestito<ph name="END_LINK" /> dalla tua organizzazione</translation>
 <translation id="8118515372935001629">Frequenza di aggiornamento del display</translation>
 <translation id="8118860139461251237">Gestione dei download</translation>
@@ -7656,7 +7656,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8146177459103116374">Se sei già registrato sul dispositivo in uso, puoi <ph name="LINK2_START" />accedere come utente esistente<ph name="LINK2_END" />.</translation>
 <translation id="8146287226035613638">Aggiungi e classifica le tue lingue preferite. Se possibile, i siti web verranno mostrati in queste lingue. Queste preferenze sono sincronizzate con le impostazioni del browser. <ph name="BEGIN_LINK_LEARN_MORE" />Scopri di più<ph name="END_LINK_LEARN_MORE" /></translation>
 <translation id="8146793085009540321">Accesso non riuscito. Contatta l'amministratore o riprova.</translation>
-<translation id="8147346945017130012">Contribuisci a migliorare le funzionalità e le prestazioni di Chrome e ChromeOS inviando automaticamente a Google report sugli arresti anomali e dati diagnostici e sull'utilizzo.</translation>
+<translation id="2072000595697395280">Contribuisci a migliorare le funzionalità e le prestazioni di WEB3 DNA Browser e ChromeOS inviando automaticamente a Google report sugli arresti anomali e dati diagnostici e sull'utilizzo.</translation>
 <translation id="8147900440966275470">È stata trovata <ph name="NUM" /> scheda</translation>
 <translation id="8148760431881541277">Limitare l'accesso</translation>
 <translation id="8149564499626272569">Verifica la tua identità tramite telefono con cavo USB</translation>
@@ -7763,7 +7763,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8246776524656196770">Proteggi il tuo token di sicurezza con un PIN (Personal Identification Number)</translation>
 <translation id="8248050856337841185">&amp;Incolla</translation>
 <translation id="8248381369318572865">Accesso al microfono e analisi delle tue parole</translation>
-<translation id="8248887045858762645">Suggerimento per Chrome</translation>
+<translation id="5449883346215349772">Suggerimento per WEB3 DNA Browser</translation>
 <translation id="8249048954461686687">Cartella OEM</translation>
 <translation id="8249615410597138718">Invia ai tuoi dispositivi</translation>
 <translation id="8250210000648910632">Spazio di archiviazione esaurito</translation>
@@ -7805,7 +7805,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8275080796245127762">Chiama dal tuo dispositivo</translation>
 <translation id="8275339871947079271">Sposta la tua password nel tuo Account Google per accedervi in sicurezza quando esegui l'accesso</translation>
 <translation id="8276560076771292512">Svuota la cache e ricarica manualmente</translation>
-<translation id="8281721647184388851">Attivare la sincronizzazione del browser Chrome?</translation>
+<translation id="6287215136237433376">Attivare la sincronizzazione del browser WEB3 DNA Browser?</translation>
 <translation id="8281886186245836920">Salta</translation>
 <translation id="8284279544186306258">tutti i siti <ph name="WEBSITE_1" /></translation>
 <translation id="8284326494547611709">Sottotitoli</translation>
@@ -7984,7 +7984,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8458341576712814616">Scorciatoia</translation>
 <translation id="8458627787104127436">Apri tutti gli URL (<ph name="URL_COUNT" />) in una nuova finestra</translation>
 <translation id="8460448946170646641">Esamina i controlli per la privacy e la sicurezza più importanti</translation>
-<translation id="8460490661223303637">Per risparmiare spazio, Chrome ha rimosso alcuni contenuti</translation>
+<translation id="3493821837764444745">Per risparmiare spazio, WEB3 DNA Browser ha rimosso alcuni contenuti</translation>
 <translation id="8460932807646981183">Gestisci motori di ricerca e ricerca nei siti</translation>
 <translation id="84613761564611563">Interfaccia utente di configurazione rete richiesta. Attendi...</translation>
 <translation id="8461914792118322307">Proxy</translation>
@@ -8003,7 +8003,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8472563193954285009">{COUNT,plural, =0{Le tue password sono univoche}=1{{COUNT} password riutilizzata}other{{COUNT} password riutilizzate}}</translation>
 <translation id="8472623782143987204">basato sull'hardware</translation>
 <translation id="8473863474539038330">Indirizzi e altro</translation>
-<translation id="8475313423285172237">Un altro programma sul computer ha aggiunto un'estensione che potrebbe modificare il funzionamento di Chrome.</translation>
+<translation id="8066797698878142654">Un altro programma sul computer ha aggiunto un'estensione che potrebbe modificare il funzionamento di WEB3 DNA Browser.</translation>
 <translation id="8476491056950015181"><ph name="BEGIN_PARAGRAPH1" />Se consenti ai dispositivi ChromeOS di inviare i report automatici, ci aiuti a capire a quali problemi e miglioramenti dare la priorità in ChromeOS. Questi report possono includere, ad esempio, informazioni su quando ChromeOS ha un arresto anomalo, sulle funzionalità che sono state utilizzate, sulla quantità di memoria solitamente impiegata o sui dati diagnostici e sull'utilizzo delle app per Android. Alcuni dati aggregati saranno utili anche alle app e ai partner di Google, come gli sviluppatori Android.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />Puoi attivare o disattivare l'invio di questi report in qualsiasi momento nelle impostazioni del dispositivo ChromeOS di tuo figlio. Se sei un amministratore di dominio, puoi modificare questa impostazione nella Console di amministrazione.<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH4" />Se l'impostazione Attività web e app è attiva per l'Account Google di tuo figlio, i suoi dati potrebbero essere salvati nel suo account. Scopri di più su queste impostazioni e su come configurarle all'indirizzo families.google.com.<ph name="END_PARAGRAPH4" /></translation>
@@ -8026,7 +8026,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8496717697661868878">Esegui questo plug-in</translation>
 <translation id="8497219075884839166">Utilità Windows</translation>
 <translation id="8498214519255567734">Potrai guardare lo schermo senza sforzare la vista o leggere in condizioni di luce attenuata</translation>
-<translation id="8498395510292172881">Continua a leggere in Chrome</translation>
+<translation id="8353909921301713837">Continua a leggere in WEB3 DNA Browser</translation>
 <translation id="8499083585497694743">Riattiva microfono</translation>
 <translation id="8502536196501630039">Per utilizzare le app di Google Play, è prima necessario ripristinare le app. Alcuni dati potrebbero essere andati persi.</translation>
 <translation id="8503813439785031346">Nome utente</translation>
@@ -8079,7 +8079,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8554899698005018844">Nessuna lingua</translation>
 <translation id="855604308879080518">Consenti alle app per Android di accedere ai dispositivi USB su questo Chromebook. L'autorizzazione verrà richiesta ogni volta che inserisci un dispositivo USB. Le singole app per Android richiederanno autorizzazioni aggiuntive.</translation>
 <translation id="8557022314818157177">Continua a toccare il token di sicurezza finché l'impronta digitale non viene acquisita</translation>
-<translation id="8557180006508471423">Attiva "Google Chrome" in Servizi di localizzazione sul Mac</translation>
+<translation id="3009558134643545731">Attiva "WEB3 DNA Browser" in Servizi di localizzazione sul Mac</translation>
 <translation id="8557856025359704738">Prossimo download: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Passkey</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Apri tutti in &amp;un'altra finestra}=1{Apri in &amp;un'altra finestra}other{Apri tutti ({COUNT}) in &amp;un'altra finestra}}</translation>
@@ -8118,7 +8118,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8601206103050338563">Autenticazione TLS client WWW</translation>
 <translation id="8601611099293226919">Cerca sullo schermo con Google Lens</translation>
 <translation id="8602674530529411098">App (beta)</translation>
-<translation id="8602851771975208551">Un altro programma sul computer ha aggiunto un'applicazione che potrebbe modificare il funzionamento di Chrome.</translation>
+<translation id="7913114580766943333">Un altro programma sul computer ha aggiunto un'applicazione che potrebbe modificare il funzionamento di WEB3 DNA Browser.</translation>
 <translation id="8605428685123651449">Memoria SQLite</translation>
 <translation id="8608618451198398104">Aggiungi una richiesta di Kerberos</translation>
 <translation id="8609465669617005112">Sposta su</translation>
@@ -8132,7 +8132,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8617748779076050570">ID connessione sicura: <ph name="CONNECTION_ID" /></translation>
 <translation id="8619803522055190423">Ombreggiatura</translation>
 <translation id="8619892228487928601"><ph name="CERTIFICATE_NAME" />: <ph name="ERROR" /></translation>
-<translation id="8621866727807194849">È stato rilevato software dannoso sul tuo computer. Chrome lo rimuoverà, ripristinerà le tue impostazioni e disattiverà le estensioni. In questo modo verrà ripristinato il normale funzionamento del browser.</translation>
+<translation id="3625555352819808837">È stato rilevato software dannoso sul tuo computer. WEB3 DNA Browser lo rimuoverà, ripristinerà le tue impostazioni e disattiverà le estensioni. In questo modo verrà ripristinato il normale funzionamento del browser.</translation>
 <translation id="8621979332865976405">Condividi tutto lo schermo</translation>
 <translation id="8624315169751085215">Copia negli appunti</translation>
 <translation id="8624354461147303341">Ricevi sconti</translation>
@@ -8151,7 +8151,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="863109444997383731">Ai siti verrà impedito di chiederti di mostrarti le notifiche. Se un sito chiede di inviarti le notifiche, verrà mostrato un indicatore bloccato nella barra degli indirizzi.</translation>
 <translation id="8632104508818855045">In precedenza hai scelto di non consentire nessuna estensione su <ph name="ORIGIN" /></translation>
 <translation id="8633025649649592204">Attività recente</translation>
-<translation id="8633979878370972178">Le versioni precedenti delle app di Chrome non si apriranno più sui dispositivi Linux dopo dicembre 2022. Puoi verificare se è disponibile una nuova versione.</translation>
+<translation id="2550870709176548028">Le versioni precedenti delle app di WEB3 DNA Browser non si apriranno più sui dispositivi Linux dopo dicembre 2022. Puoi verificare se è disponibile una nuova versione.</translation>
 <translation id="8634348081024879304">Non potrai più utilizzare la tua carta virtuale con Google Pay. <ph name="BEGIN_LINK" />Scopri di più sulle carte virtuali<ph name="END_LINK" /></translation>
 <translation id="8635628933471165173">Nuovo caricamento in corso...</translation>
 <translation id="8636284842992792762">Inizializzazione delle estensioni in corso…</translation>
@@ -8189,7 +8189,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8662795692588422978">Persone</translation>
 <translation id="8662811608048051533">Verrai disconnesso dalla maggior parte dei siti.</translation>
 <translation id="8662911384982557515">Cambio della pagina iniziale con: <ph name="HOME_PAGE" /></translation>
-<translation id="8662978096466608964">Chrome non può impostare lo sfondo.</translation>
+<translation id="7715531735727656595">WEB3 DNA Browser non può impostare lo sfondo.</translation>
 <translation id="8663099077749055505">Blocca sempre più download automatici su <ph name="HOST" /></translation>
 <translation id="8664389313780386848">&amp;Visualizza sorgente pagina</translation>
 <translation id="8665110742939124773">Hai inserito un codice di accesso errato. Riprova.</translation>
@@ -8217,7 +8217,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8678582529642151449">Le schede non si riducono</translation>
 <translation id="8678933587484842200">Come vuoi che venga lanciata questa applicazione?</translation>
 <translation id="8680251145628383637">Accedi per trovare i tuoi segnalibri, la cronologia, le password e altre impostazioni su tutti i tuoi dispositivi. Verrà inoltre eseguito l'accesso automatico ai tuoi servizi Google.</translation>
-<translation id="8681614230122836773">Chrome ha rilevato software dannoso sul tuo computer</translation>
+<translation id="1976915031129412058">WEB3 DNA Browser ha rilevato software dannoso sul tuo computer</translation>
 <translation id="8682730193597992579">La stampante <ph name="PRINTER_NAME" /> è collegata e pronta</translation>
 <translation id="8688672835843460752">Disponibile</translation>
 <translation id="8690129572193755009">I siti possono chiedere di gestire protocolli</translation>
@@ -8244,7 +8244,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8713110120305151436">Mostra le opzioni di accessibilità nelle Impostazioni rapide</translation>
 <translation id="8713570323158206935">Invia <ph name="BEGIN_LINK1" />informazioni sul sistema<ph name="END_LINK1" /></translation>
 <translation id="8714838604780058252">Grafica in background</translation>
-<translation id="871515167518607670">Scegli un dispositivo. Dopodiché apri Chrome dal dispositivo per visualizzare la pagina.</translation>
+<translation id="3180943843568679350">Scegli un dispositivo. Dopodiché apri WEB3 DNA Browser dal dispositivo per visualizzare la pagina.</translation>
 <translation id="8715480913140015283">Una scheda in secondo piano sta usando la videocamera</translation>
 <translation id="8716931980467311658">Vuoi eliminare tutti i dati e le applicazioni Linux della cartella File di Linux da questo dispositivo <ph name="DEVICE_TYPE" />?</translation>
 <translation id="8717864919010420084">Copia link</translation>
@@ -8306,7 +8306,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8762886931014513155">Il dispositivo <ph name="DEVICE_TYPE" /> richiede un aggiornamento</translation>
 <translation id="8763927697961133303">Dispositivo USB</translation>
 <translation id="8766796754185931010">Kotoeri</translation>
-<translation id="8767621466733104912">Aggiorna automaticamente Chrome per tutti gli utenti</translation>
+<translation id="9078161496537874490">Aggiorna automaticamente WEB3 DNA Browser per tutti gli utenti</translation>
 <translation id="8770406935328356739">Directory principale dell'estensione</translation>
 <translation id="8771300903067484968">Lo sfondo della pagina iniziale è stato reimpostato allo sfondo predefinito.</translation>
 <translation id="8773302562181397928">Salva <ph name="PRINTER_NAME" /></translation>
@@ -8397,7 +8397,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="885246833287407341">Argomenti funzione API</translation>
 <translation id="8853586775156634952">Questa carta verrà salvata solo su questo dispositivo</translation>
 <translation id="8854745870658584490">Scorciatoia selezione</translation>
-<translation id="8855977033756560989">Questo dispositivo Chromebook Enterprise è incluso nel set con Chrome Enterprise Upgrade. Per utilizzare al meglio le funzionalità aziendali, registra questo dispositivo con un account amministratore Google.</translation>
+<translation id="339048205294174958">Questo dispositivo Chromebook Enterprise è incluso nel set con WEB3 DNA Browser Enterprise Upgrade. Per utilizzare al meglio le funzionalità aziendali, registra questo dispositivo con un account amministratore Google.</translation>
 <translation id="8856028055086294840">Ripristina app e pagine</translation>
 <translation id="885701979325669005">Dati memorizzati dai siti</translation>
 <translation id="885746075120788020">Le tue preferenze e le tue attività salvate saranno pronte per l'utilizzo su tutti i dispositivi ChromeOS quando accedi con il tuo Account Google. Puoi scegliere quali dati sincronizzare in Impostazioni.</translation>
@@ -8457,7 +8457,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8903263458134414071">Seleziona un account per accedere</translation>
 <translation id="890616557918890486">Cambia origine</translation>
 <translation id="8907701755790961703">Seleziona un Paese</translation>
-<translation id="8907906903932240086">Chrome può controllare l'eventuale presenza di software dannoso sul tuo computer</translation>
+<translation id="3898232456007218422">WEB3 DNA Browser può controllare l'eventuale presenza di software dannoso sul tuo computer</translation>
 <translation id="8909298138148012791">L'app <ph name="APP_NAME" /> è stata disinstallata</translation>
 <translation id="8909833622202089127">Il sito sta monitorando la tua posizione</translation>
 <translation id="8910222113987937043">Le modifiche ai preferiti, alla cronologia, alle password e ad altre impostazioni non verranno più sincronizzate con il tuo Account Google. I dati esistenti rimarranno invece memorizzati nel tuo Account Google e potranno essere gestiti su <ph name="BEGIN_LINK" />Google Dashboard<ph name="END_LINK" />.</translation>
@@ -8549,7 +8549,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8993059306046735527">Se non ricordi la password di <ph name="DEVICE_TYPE" />, puoi comunque ripristinare i dati locali. Dovrai accedere al tuo Account Google o usare il recupero dell'account.</translation>
 <translation id="899384117894244799">Rimuovere utente con limitazioni</translation>
 <translation id="899403249577094719">URL di base certificato Netscape</translation>
-<translation id="899657321862108550">Il tuo Chrome, ovunque</translation>
+<translation id="5421337146677785423">Il tuo WEB3 DNA Browser, ovunque</translation>
 <translation id="899676909165543803">Il sensore di impronte digitali è il tasto in basso a destra della tastiera. Toccalo leggermente con un dito.</translation>
 <translation id="8998078711690114234">Questo tipo di file può essere pericoloso. Salva questo file solo se ritieni attendibile <ph name="ORIGIN" /></translation>
 <translation id="8999560016882908256">Errore di sintassi in una sezione: <ph name="ERROR_LINE" /></translation>
@@ -8648,7 +8648,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="9078842827190780028">Vedi altri risultati di ricerca nel riquadro laterale</translation>
 <translation id="9079267182985899251">A breve questa opzione non sarà più supportata. Per presentare una scheda, utilizza <ph name="GOOGLE_MEET" />.</translation>
 <translation id="9080175821499742274">La funzionalità Risparmio memoria libera memoria dalle schede non attive affinché possa essere usata da schede attive e altre app.</translation>
-<translation id="9080971985541434310">stima i tuoi interessi - Chrome può stimare i tuoi interessi</translation>
+<translation id="2980195840458338880">stima i tuoi interessi - WEB3 DNA Browser può stimare i tuoi interessi</translation>
 <translation id="9081543426177426948">I siti che visiti non vengono salvati in modalità di navigazione in incognito</translation>
 <translation id="9084064520949870008">Apri in una finestra</translation>
 <translation id="9085256200913095638">Duplica scheda selezionata</translation>
@@ -8710,7 +8710,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="913411432238655354">Ripristina le app all'avvio</translation>
 <translation id="9137013805542155359">Mostra originale</translation>
 <translation id="9137157311132182254">Motore di ricerca preferito</translation>
-<translation id="9137248913990643158">Accedi a Chrome prima di usare questa app.</translation>
+<translation id="9137248913990643158">Accedi a WEB3 DNA Browser prima di usare questa app.</translation>
 <translation id="9137916601698928395">Apri link come <ph name="USER" /></translation>
 <translation id="9138978632494473300">Aggiungi scorciatoie per le seguenti posizioni:</translation>
 <translation id="9139258866388561662">Accedi a <ph name="WEB_DRIVE" /> per completare il download</translation>
@@ -8733,11 +8733,11 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="9157697743260533322">Impostazione degli aggiornamenti automatici per tutti gli utenti non riuscita (errore di avvio preliminare: <ph name="ERROR_NUMBER" />)</translation>
 <translation id="9157915340203975005">Lo sportello della stampante è aperto</translation>
 <translation id="9158715103698450907">Spiacenti. Si è verificato un problema di comunicazione sulla rete durante l'autenticazione. Controlla la connessione di rete e riprova.</translation>
-<translation id="9159643062839240276">Prova a:
+<translation id="6118716943423195779">Prova a:
     <ph name="BEGIN_LIST" />
       <ph name="LIST_ITEM" />Controllare i cavi di rete, il modem e il router
       <ph name="LIST_ITEM" />Ricollegarti alla rete Wi-Fi
-      <ph name="LIST_ITEM" />Eseguire lo strumento Diagnostica della connettività Chrome
+      <ph name="LIST_ITEM" />Eseguire lo strumento Diagnostica della connettività WEB3 DNA Browser
     <ph name="END_LIST" /></translation>
 <translation id="916607977885256133">Picture in picture</translation>
 <translation id="9166253503936244008">Scansiona questo codice QR con il dispositivo contenente la passkey che vuoi utilizzare per <ph name="APP_NAME" /></translation>
@@ -8749,7 +8749,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="9170048603158555829">Thunderbolt</translation>
 <translation id="9170061643796692986">L'attuale impostazione di visibilità è Tutti i contatti</translation>
 <translation id="9170848237812810038">&amp;Annulla</translation>
-<translation id="9170884462774788842">Un altro programma sul computer ha aggiunto un tema che potrebbe modificare il funzionamento di Chrome.</translation>
+<translation id="4915384196319940755">Un altro programma sul computer ha aggiunto un tema che potrebbe modificare il funzionamento di WEB3 DNA Browser.</translation>
 <translation id="917350715406657904">Hai raggiunto il tempo massimo impostato dal genitore per <ph name="APP_NAME" />. Domani potrai utilizzare l'app per <ph name="TIME_LIMIT" />.</translation>
 <translation id="9174401638287877180">Invia dati diagnostici e sull'utilizzo. Contribuisci a migliorare l'esperienza Android di tuo figlio tramite l'invio automatico a Google di dati diagnostici e sull'utilizzo delle app e del dispositivo. Non verranno utilizzati per identificare tuo figlio e contribuiranno alla stabilità delle app e del sistema, nonché ad altri miglioramenti. Alcuni dati aggregati saranno utili anche alle app e ai partner di Google, come ad esempio agli sviluppatori Android. Se l'impostazione Attività web e app aggiuntiva è attiva per tuo figlio, questi dati potrebbero essere salvati nel suo Account Google.</translation>
 <translation id="9176476835295860688">Invia dati diagnostici e sull'utilizzo. Questo dispositivo attualmente invia a Google dati diagnostici e sull'utilizzo delle app e del dispositivo. Tali dati contribuiranno alla stabilità di app e sistema, nonché ad altri miglioramenti. Alcuni dati aggregati saranno utili anche alle app e ai partner di Google, ad esempio agli sviluppatori Android. Questa <ph name="BEGIN_LINK1" />impostazione<ph name="END_LINK1" /> è applicata dal proprietario. Se hai attivato l'impostazione Attività web e app aggiuntiva, queste informazioni potrebbero essere salvate nel tuo Account Google. <ph name="BEGIN_LINK2" />Ulteriori informazioni<ph name="END_LINK2" /></translation>
@@ -8790,7 +8790,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="9220525904950070496">Rimuovi account</translation>
 <translation id="9220723036554088545">carica un file</translation>
 <translation id="9220820413868316583">Solleva, quindi riprova.</translation>
-<translation id="922152298093051471">Personalizza Chrome</translation>
+<translation id="1342703999636762729">Personalizza WEB3 DNA Browser</translation>
 <translation id="9222839025964079645">Password non importate (<ph name="COUNT" />)</translation>
 <translation id="923467487918828349">Mostra tutto</translation>
 <translation id="924818813611903184">Gestisci le lingue nelle impostazioni di ChromeOS</translation>
@@ -8804,7 +8804,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="93343527085570547">Vai alla <ph name="BEGIN_LINK1" />Guida di approfondimento legale<ph name="END_LINK1" /> per richiedere modifiche ai contenuti per motivi legali. Alcune informazioni sull'account e sul sistema potrebbero essere inviate a Google, che le userà per risolvere problemi tecnici e migliorare i suoi servizi nel rispetto delle sue <ph name="BEGIN_LINK2" />Norme sulla privacy<ph name="END_LINK2" /> e dei suoi <ph name="BEGIN_LINK3" />Termini di servizio<ph name="END_LINK3" />.</translation>
 <translation id="93393615658292258">Solo password</translation>
 <translation id="934244546219308557">Assegna un nome a questo gruppo</translation>
-<translation id="934503638756687833">Se necessario verranno rimossi anche elementi non elencati qui. Leggi ulteriori informazioni sulla &lt;a href="<ph name="URL" />"&gt;protezione da software indesiderato&lt;/a&gt; nel whitepaper sulla privacy di Chrome.</translation>
+<translation id="4462887520359539079">Se necessario verranno rimossi anche elementi non elencati qui. Leggi ulteriori informazioni sulla &lt;a href="<ph name="URL" />"&gt;protezione da software indesiderato&lt;/a&gt; nel whitepaper sulla privacy di WEB3 DNA Browser.</translation>
 <translation id="93480724622239549">Bug o errore</translation>
 <translation id="935854577147268200">Telefono con Smart Lock cambiato. Inserisci la password per aggiornare Smart Lock. La prossima volta potrai usare il tuo telefono per sbloccare il dispositivo <ph name="DEVICE_TYPE" />. Puoi disattivare Smart Lock nelle Impostazioni</translation>
 <translation id="936646668635477464">Videocamera e microfono</translation>
@@ -8815,7 +8815,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="939401694733344652">Al momento questi account non vengono utilizzati con le app per Android. Se selezioni un account da utilizzare con questa app per Android, l'account può essere utilizzato anche con altre app per Android. Puoi modificare l'accesso alle app per Android in <ph name="LINK_BEGIN" />Impostazioni &gt; Account<ph name="LINK_END" />.</translation>
 <translation id="939598580284253335">Inserisci passphrase</translation>
 <translation id="939736085109172342">Nuova cartella</translation>
-<translation id="942532530371314860"><ph name="APP_NAME" /> condivide l'audio e una scheda Chrome.</translation>
+<translation id="931998390548992542"><ph name="APP_NAME" /> condivide l'audio e una scheda WEB3 DNA Browser.</translation>
 <translation id="944799160843436808">Si è verificato un problema durante la configurazione di Steam su Chromebook</translation>
 <translation id="945522503751344254">Invia feedback</translation>
 <translation id="947329552760389097">&amp;Ispeziona elementi</translation>
@@ -8831,7 +8831,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="960987915827980018">Circa un'ora rimanente</translation>
 <translation id="962802172452141067">Struttura ad albero della cartella dei preferiti</translation>
 <translation id="963000966785016697">Cerca immagine con <ph name="VISUAL_SEARCH_PROVIDER" /></translation>
-<translation id="964286338916298286">Il tuo amministratore IT ha disattivato i vantaggi offerti da Chrome per il tuo dispositivo.</translation>
+<translation id="8376648017960056427">Il tuo amministratore IT ha disattivato i vantaggi offerti da WEB3 DNA Browser per il tuo dispositivo.</translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Applicazione}other{Applicazioni}}</translation>
 <translation id="964790508619473209">Disposizione dello schermo</translation>
 <translation id="965211523698323809">Invia e ricevi SMS da <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Ulteriori informazioni<ph name="LINK_END" /></translation>
@@ -8875,6 +8875,6 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="996250603853062861">Creazione di una connessione protetta in corso...</translation>
 <translation id="996803490569799917">Visualizza ricordi delle persone a cui tieni di più e molto altro</translation>
 <translation id="997143476478634194">I siti seguiranno automaticamente questa impostazione quando li visiti. In genere, i siti inviano delle notifiche per comunicarti le ultime notizie o se hai ricevuto nuovi messaggi di chat.</translation>
-<translation id="99731366405731005">Per utilizzare Sync Wi-Fi, attiva <ph name="LINK1_BEGIN" />Sincronizzazione Chrome<ph name="LINK1_END" />. <ph name="LINK2_BEGIN" />Ulteriori informazioni<ph name="LINK2_END" /></translation>
+<translation id="6650568529054332687">Per utilizzare Sync Wi-Fi, attiva <ph name="LINK1_BEGIN" />Sincronizzazione WEB3 DNA Browser<ph name="LINK1_END" />. <ph name="LINK2_BEGIN" />Ulteriori informazioni<ph name="LINK2_END" /></translation>
 <translation id="998747458861718449">I&amp;speziona</translation>
 </translationbundle>

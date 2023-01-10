@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="lt">
 <translation id="130631256467250065">Pakeitimai įsigalios kitą kartą iš naujo paleidus įrenginį.</translation>
-<translation id="275588974610408078">„Chromium“ negalima teikti strigčių ataskaitų.</translation>
-<translation id="3064346599913645280">Peržiūrite saugų „Chromium“ puslapį</translation>
-<translation id="358997566136285270">„Chromium“ logotipas</translation>
-<translation id="4365115785552740256">„Chromium“ pasiekiama naudojant <ph name="BEGIN_LINK_CHROMIUM" />„Chromium“<ph name="END_LINK_CHROMIUM" /> atvirojo šaltinio projektą ir kitą <ph name="BEGIN_LINK_OSS" />atvirojo šaltinio programinę įrangą<ph name="END_LINK_OSS" />.</translation>
-<translation id="4559775032954821361">Eikite į 
-          „Chromium“ meniu &gt;
+<translation id="4791283969776588221">„WEB3 DNA Browser“ negalima teikti strigčių ataskaitų.</translation>
+<translation id="2844608976961792034">Peržiūrite saugų „WEB3 DNA Browser“ puslapį</translation>
+<translation id="1982446651380677046">„WEB3 DNA Browser“ logotipas</translation>
+<translation id="4523656775797881494">„WEB3 DNA Browser“ pasiekiama naudojant <ph name="BEGIN_LINK_CHROMIUM" />„Chromium“<ph name="END_LINK_CHROMIUM" /> atvirojo šaltinio projektą ir kitą <ph name="BEGIN_LINK_OSS" />atvirojo šaltinio programinę įrangą<ph name="END_LINK_OSS" />.</translation>
+<translation id="4029636627665768575">Eikite į 
+          „WEB3 DNA Browser“ meniu &gt;
           „<ph name="SETTINGS_TITLE" />“
           &gt;
           „<ph name="ADVANCED_TITLE" />“
@@ -16,21 +16,21 @@
           &gt;
           „LAN nustatymai“
           ir panaikinkite žymimojo laukelio „LAN naudoti tarpinį serverį“ pasirinkimą.</translation>
-<translation id="4622039161600275920">Šį puslapį užblokavo „Chromium“</translation>
-<translation id="48558539577516920">Leiskite „Chromium“ pasiekti tinklą užkardos arba antivirusinės programos
+<translation id="7398528135240070983">Šį puslapį užblokavo „WEB3 DNA Browser“</translation>
+<translation id="329184862608851407">Leiskite „WEB3 DNA Browser“ pasiekti tinklą užkardos arba antivirusinės programos
           nustatymuose.</translation>
-<translation id="4918837013875648434">„Chromium“ OS neužbaigė šios pradinės sąrankos.</translation>
-<translation id="580822234363523061">Eikite į
-          „Chromium“ meniu &gt;
+<translation id="4918837013875648434">„WEB3 DNA Browser“ OS neužbaigė šios pradinės sąrankos.</translation>
+<translation id="7951541701556745073">Eikite į
+          „WEB3 DNA Browser“ meniu &gt;
           „<ph name="SETTINGS_TITLE" />“
           &gt;
           „<ph name="ADVANCED_TITLE" />“
           &gt;
           „<ph name="PROXIES_TITLE" />“ 
           ir nustatykite konfigūraciją kaip „Nėra tarpinio serverio“ arba „Tiesioginis“.</translation>
-<translation id="6613594504749178791">Pakeitimai įsigalios kitą kartą iš naujo paleidus „Chromium“.</translation>
-<translation id="7861509383340276692">Eikite į
-        „Chromium“ meniu &gt;
+<translation id="8823298025665339355">Pakeitimai įsigalios kitą kartą iš naujo paleidus „WEB3 DNA Browser“.</translation>
+<translation id="5334530291357334686">Eikite į
+        „WEB3 DNA Browser“ meniu &gt;
         „<ph name="SETTINGS_TITLE" />“
         &gt;
         „<ph name="ADVANCED_TITLE" />“
@@ -40,5 +40,5 @@
 <translation id="8187289872471304532">Eikite į
           „Programos“ &gt; „Sistemos nuostatos“ &gt; „Tinklas“ &gt; „Išplėstinis“ &gt; „Tarpiniai serveriai“
           ir panaikinkite visų tarpinių serverių pasirinkimą.</translation>
-<translation id="8684913864886094367">„Chromium“ netinkamai išsijungė.</translation>
+<translation id="7950276115919177274">„WEB3 DNA Browser“ netinkamai išsijungė.</translation>
 </translationbundle>

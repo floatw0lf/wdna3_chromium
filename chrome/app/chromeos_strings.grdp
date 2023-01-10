@@ -45,7 +45,7 @@
   </message>
 
   <message name="IDS_WALLPAPER_MANAGER_INVALID_WALLPAPER" desc="The string displayed to user when user selected wallpaper can not be set as a wallpaper.">
-    Chrome cannot set wallpaper.
+    WEB3 DNA Browser cannot set wallpaper.
   </message>
 
   <!-- MultiDevice setup dialog. -->
@@ -285,7 +285,7 @@
     <ph name="SERVICE_NAME">$1<ex>Google Drive</ex></ph> wants to check if you are using an eligible ChromeOS device.
   </message>
   <message name="IDS_ECHO_DISABLED_CONSENT_DIALOG_TEXT" desc="Dialog text shown when user is informed that redeeming offers is disabled for the device.">
-    Your IT administrator has disabled Chrome Goodies for your device.
+    Your IT administrator has disabled WEB3 DNA Browser Goodies for your device.
   </message>
   <message name="IDS_ECHO_CONSENT_DISMISS_BUTTON" desc="Dismiss dialog button label for disabled echo dialog.">
     Got it
@@ -486,7 +486,7 @@
     Updating...
   </message>
   <message name="IDS_UPDATE_SCREEN_ACCESSIBLE_TITLE" desc="Title to be spoken on opening the OOBE update screen">
-    Chrome updates automatically so you always have the freshest version
+    WEB3 DNA Browser updates automatically so you always have the freshest version
   </message>
   <message name="IDS_LOGIN_GAIA_LOADING_MESSAGE" desc="Message on the OOBE gaia loading screen">
     Please wait...
@@ -682,7 +682,7 @@
       Google ChromeOS Flex Terms contents
     </message>
     <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Google Chrome and ChromeOS additional terms">
-      Google Chrome and ChromeOS Flex Additional Terms
+      WEB3 DNA Browser and ChromeOS Flex Additional Terms
     </message>
   </if>
   <if expr="not reven">
@@ -690,7 +690,7 @@
       Google ChromeOS Terms contents
     </message>
     <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Google Chrome and ChromeOS additional terms">
-      Google Chrome and ChromeOS Additional Terms
+      WEB3 DNA Browser and ChromeOS Additional Terms
     </message>
   </if>
   <message name="IDS_OOBE_EULA_ACCEPT_AND_CONTINUE_BUTTON_TEXT" desc="Label on a button on the Title of Terms of Service OOBE screen to accept EULA and continue.">
@@ -764,7 +764,7 @@
     Enroll your device
   </message>
   <message name="IDS_OOBE_PACKGED_LICENSE_SUBTITLE_P1" desc="Paragraph 1 of subtitle of the packaged license screen.">
-    This Chromebook Enterprise device comes bundled with the Chrome Enterprise Upgrade. To take advantage of the enterprise capabilities, enroll this device with a Google admin account.
+    This Chromebook Enterprise device comes bundled with the WEB3 DNA Browser Enterprise Upgrade. To take advantage of the enterprise capabilities, enroll this device with a Google admin account.
   </message>
   <message name="IDS_OOBE_PACKGED_LICENSE_SUBTITLE_P2" desc="Paragraph 2 of subtitle of the packaged license screen.">
     Visit g.co/ChromeEnterpriseAccount if you need to create a new account.
@@ -1149,7 +1149,7 @@
     Sync your <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> apps, settings, and more
   </message>
   <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_CHROME_BROWSER_SYNC_NAME_2" desc="Alternate title of the 'Chrome browser sync' section of the sync confirmation dialog that is displayed on the first user log in.">
-    Sync your Chrome browser bookmarks, passwords, history, and more
+    Sync your WEB3 DNA Browser browser bookmarks, passwords, history, and more
   </message>
   <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_CHROME_BROWSER_SYNC_DESCRIPTION" desc="Description of the 'Chrome browser sync' section of the sync confirmation dialog that is displayed on the first user log in.">
     Google may use your history to personalize Search and other Google services
@@ -1901,7 +1901,7 @@
     Your device will be reset and all user accounts and local data will be removed. This cannot be undone.
   </message>
   <message name="IDS_RESET_SCREEN_POPUP_ROLLBACK_TEXT" desc="Confirmational pop-up on top of reset device dialog. Pop-up text for rollback.">
-    Your device will be returned to the previously installed version of Chrome. All user accounts and local data will be removed. This cannot be undone.
+    Your device will be returned to the previously installed version of WEB3 DNA Browser. All user accounts and local data will be removed. This cannot be undone.
   </message>
   <message name="IDS_RESET_SCREEN_POPUP_CONFIRM_BUTTON" desc="Confirmational pop-up on top of reset device dialog. Confirm button text.">
     Continue
@@ -2664,7 +2664,7 @@
     Mobile data
   </message>
   <message name="IDS_3G_NOTIFICATION_MESSAGE" desc="Text of the 3G data notification telling that 3G data is enabled.">
-    Google Chrome will use mobile data if you're not connected to another network.
+    WEB3 DNA Browser will use mobile data if you're not connected to another network.
   </message>
   <message name="IDS_3G_DATASAVER_TITLE" desc="Title of the 3G data notification prompting user to install Data Saver.">
     You are using mobile data
@@ -2858,10 +2858,10 @@
     This device cannot be enrolled to the organization your account belongs to because the device is marked for management by a different organization.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_CONSUMER_ACCOUNT_WITH_PACKAGED_LICENSE" desc="Error message to show when the user tries to enroll a device with a packaged license using a consumer account.">
-    Your device includes a Chrome Enterprise Upgrade, but your username is not associated with an enterprise account. Please create an enterprise account by visiting g.co/ChromeEnterpriseAccount on a secondary device.
+    Your device includes a WEB3 DNA Browser Enterprise Upgrade, but your username is not associated with an enterprise account. Please create an enterprise account by visiting g.co/ChromeEnterpriseAccount on a secondary device.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_CONSUMER_ACCOUNT_WITH_EDU_PACKAGED_LICENSE" desc="Error message to show when the user tries to enroll a device with a education packaged license using a consumer account.">
-    Your device includes a Chrome Education Upgrade, but your username is not associated with a Google for Education account. Please create a Google for Education account by visiting g.co/workspace/edusignup on a secondary device.
+    Your device includes a WEB3 DNA Browser Education Upgrade, but your username is not associated with a Google for Education account. Please create a Google for Education account by visiting g.co/workspace/edusignup on a secondary device.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_CONSUMER_ACCOUNT_WITH_EDU_PACKAGED_LICENSE_ACCOUNT_CHECK" desc="Error message to show after account check when the user tries to enroll a device with a education packaged license using a consumer account.">
     <ph name="USER_EMAIL">$1<ex>john.doe@example.com</ex></ph> isn't a valid Google for Education account. Contact your administrator. If you are an administrator, you can set up your organization by visiting: g.co/workspace/edusignup
@@ -2873,13 +2873,13 @@
     Your username belongs to your organization's enterprise account. To enroll devices to the account, first verify domain ownership in the Admin console. You will need administrative privileges on the account to verify.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_ENTERPRISE_TOS_HAS_NOT_BEEN_ACCEPTED" desc="Error message to show when the user tries to enroll a device, but administrator has not accepted TOS.">
-    Your administrator must first accept the terms of service in the Admin console Chrome device list.
+    Your administrator must first accept the terms of service in the Admin console WEB3 DNA Browser device list.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_ENTERPRISE_TOS_HAS_NOT_BEEN_ACCEPTED_MEETS" desc="Error message to show when the user tries to enroll a device, but administrator has not accepted TOS.">
     An administrator with Billing Management privileges must first accept the Google Meet Hardware Terms of Service in the Google Meet Hardware section of the Admin console.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_ILLEGAL_ACCOUNT_FOR_PACKAGED_EDU_LICENSE" desc="Error message to show when the user tries to enroll a CBEdu device into non-EDU account.">
-    You must enroll this Chrome Education device into an education account. To sign up for a new account, please visit g.co/workspace/edusignup.
+    You must enroll this WEB3 DNA Browser Education device into an education account. To sign up for a new account, please visit g.co/workspace/edusignup.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_INVALID_PACKAGED_DEVICE_FOR_KIOSK" desc="Error message to show when the user tries to enroll an enterprise license packaged device into KIOSK.">
     This is a bundled device and can not be enrolled with Kiosk &amp; Signage Upgrade.
@@ -2966,7 +2966,7 @@
     Confirm kiosk and signage device enrollment?
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_KIOSK_CONFIRM_MESSAGE" desc="Message of kiosk confirm enrollment screen.">
-    You will use a Kiosk &amp; Signage Upgrade which only allows the device to run in kiosk or signage mode. If you would like users to sign into the device, please go back and enroll using Chrome Enterprise Upgrade.
+    You will use a Kiosk &amp; Signage Upgrade which only allows the device to run in kiosk or signage mode. If you would like users to sign into the device, please go back and enroll using WEB3 DNA Browser Enterprise Upgrade.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_KIOSK_CONFIRM_POWERWASH_MESSAGE" desc="Message of kiosk confirm enrollment screen.">
     If you want to switch after enrollment, you will need to factory reset (powerwash) your device.
@@ -3002,7 +3002,7 @@
     You will have to factory reset this device to use enterprise features.
   </message>
   <message name="IDS_SKIP_ENROLLMENT_DIALOG_EDUCATION_TEXT" desc="The message for the modal dialog shown when skipping enrollment. Only displayed if the device is License Packaged device.">
-    You will have to factory reset this device to use Chrome Education Upgrade features.
+    You will have to factory reset this device to use WEB3 DNA Browser Education Upgrade features.
   </message>
    <message name="IDS_SKIP_ENROLLMENT_DIALOG_GO_BACK_BUTTON" desc="Cancel button for skipping enrollment">
     Go back
@@ -3097,7 +3097,7 @@
     Can't join the device to the domain. The server does not support specified Kerberos encryption types. Check "More options" for encryption settings.
   </message>
   <message name="IDS_AD_BOARD_NOT_SUPPORTED" desc="Admin-facing. Alert message that the Chromebook model is not supported for Active Directory">
-    Chrome <ph name="MS_AD_NAME">Microsoft® Active Directory®</ph> integration is only supported on x86_64 platforms. Chromebooks built on top of an ARM or x86 platform do not support this functionality.
+    WEB3 DNA Browser <ph name="MS_AD_NAME">Microsoft® Active Directory®</ph> integration is only supported on x86_64 platforms. Chromebooks built on top of an ARM or x86 platform do not support this functionality.
   </message>
   <!-- User facing strings for Active Directory screens. -->
   <message name="IDS_AD_DOMAIN_AUTH_WELCOME_MESSAGE" desc="Welcome message on the Active Directory Authentication user screen. Include the domain (realm) the device joined to.">
@@ -3294,7 +3294,7 @@
     Include all log files collected by debugd as a separate archive.
   </message>
   <message name="IDS_NETWORK_UI_NETWORK_LOGS_CHROME_LOGS" desc="Text describing the checkbox option for including the chrome logs in the stored logs file.">
-    Include Chrome log files in the archive.
+    Include WEB3 DNA Browser log files in the archive.
   </message>
   <message name="IDS_NETWORK_UI_NETWORK_LOGS_STORE_BUTTON" desc="Text displayed on the button for storing system logs.">
     Store system logs
@@ -3375,7 +3375,7 @@
     Check your system time
   </message>
   <message name="IDS_SET_TIME_PROMPT" desc="Text prompting the user to check and set the system time.">
-    Chrome was unable to set the system time. Please check the time below and correct it if needed.
+    WEB3 DNA Browser was unable to set the system time. Please check the time below and correct it if needed.
   </message>
   <message name="IDS_SET_TIME_DATE_LABEL" desc="Label for the set time dialog date input element.">
     Date
@@ -4034,16 +4034,16 @@
     Terms and conditions
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_TERMS" desc="Main terms to be accepted in the consolidated consent screen.">
-    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLink"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph>, <ph name="BEGIN_LINK2">&lt;a id="crosEulaLink"&gt;</ph>Chrome and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph> and <ph name="BEGIN_LINK3">&lt;a id="arcTosLink"&gt;</ph>Play Terms of Service<ph name="END_LINK3">&lt;/a&gt;</ph>.
+    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLink"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph>, <ph name="BEGIN_LINK2">&lt;a id="crosEulaLink"&gt;</ph>WEB3 DNA Browser and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph> and <ph name="BEGIN_LINK3">&lt;a id="arcTosLink"&gt;</ph>Play Terms of Service<ph name="END_LINK3">&lt;/a&gt;</ph>.
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_TERMS_ARC_DISABLED" desc="Main terms to be accepted in the consolidated consent screen when arc is disabled.">
-    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLinkArcDisabled"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph> and <ph name="BEGIN_LINK2">&lt;a id="crosEulaLinkArcDisabled"&gt;</ph>Chrome and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph>.
+    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLinkArcDisabled"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph> and <ph name="BEGIN_LINK2">&lt;a id="crosEulaLinkArcDisabled"&gt;</ph>WEB3 DNA Browser and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph>.
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_TITLE" desc="Title for the message in the consolidated consent screen to opt-in for metrics for accounts.">
     Send diagnostic and usage data.
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_OWNER" desc="Message in the consolidated consent screen to opt-in for metrics when the user is the device owner.">
-    Help improve Chrome and ChromeOS features and performance by automatically sending crash reports as well as diagnostic and usage data to Google.
+    Help improve WEB3 DNA Browser and ChromeOS features and performance by automatically sending crash reports as well as diagnostic and usage data to Google.
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_LEARN_MORE_LINK" desc="Learn more about usage opt in">
     Learn more about diagnostic and usage data
@@ -4060,7 +4060,7 @@
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_LEARN_MORE_ARC_DISABLED_OWNER" desc="Text shown in a pop-up dialog in the consolidated consent screen when the device owner clicks on the learn more for metrics opt-in when ARC is disabled.">
     <ph name="BEGIN_PARAGRAPH1">&lt;p&gt;</ph>Allowing your ChromeOS devices to send automatic reports helps us prioritize what to fix and improve in ChromeOS. These reports can include things like when ChromeOS crashes, which features you use and how much memory you typically use.<ph name="END_PARAGRAPH1">&lt;/p&gt;</ph>
-    <ph name="BEGIN_PARAGRAPH2">&lt;p&gt;</ph>You can start or stop allowing these reports any time in your Chrome device settings. If you’re a domain administrator, you can change this setting in the admin console.<ph name="END_PARAGRAPH2">&lt;/p&gt;</ph>
+    <ph name="BEGIN_PARAGRAPH2">&lt;p&gt;</ph>You can start or stop allowing these reports any time in your WEB3 DNA Browser device settings. If you’re a domain administrator, you can change this setting in the admin console.<ph name="END_PARAGRAPH2">&lt;/p&gt;</ph>
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_LEARN_MORE_ARC_DISABLED_CHILD_OWNER" desc="Text shown in a pop-up dialog in the consolidated consent screen when the user clicks on the learn more for metrics opt-in when ARC is disabled in a child account.">
     <ph name="BEGIN_PARAGRAPH1">&lt;p&gt;</ph>Allowing ChromeOS devices to send automatic reports helps us prioritize what to fix and improve in ChromeOS. These reports can include things like when ChromeOS crashes, which features were used, and how much memory was typically used.<ph name="END_PARAGRAPH1">&lt;/p&gt;</ph>
@@ -4143,7 +4143,7 @@
     Google terms of service
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_CROS_EULA_TITLE" desc="Title of Google Chrome and ChromeOS additional terms screen">
-    Google Chrome and ChromeOS additional terms of service
+    WEB3 DNA Browser and ChromeOS additional terms of service
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_ARC_TITLE" desc="Title of Goolge Play terms of service in opt-in screen">
     Google Play terms of service
@@ -4160,7 +4160,7 @@
     Terms and conditions
   </message>
   <message name="IDS_GUEST_TOS_TERMS" desc="Terms and conditions to be accepted before starting a guest session">
-    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLink"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph>, <ph name="BEGIN_LINK2">&lt;a id="crosEulaLink"&gt;</ph>Chrome and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph>.
+    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLink"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph>, <ph name="BEGIN_LINK2">&lt;a id="crosEulaLink"&gt;</ph>WEB3 DNA Browser and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph>.
   </message>
   <message name="IDS_GUEST_TOS_LOADING" desc="Message shown while the terms of service are being downloaded">
     Loading...
@@ -4175,20 +4175,20 @@
     Google terms of service
   </message>
   <message name="IDS_GUEST_TOS_CROS_EULA_TITLE" desc="Title of Google Chrome and ChromeOS additional terms screen">
-    Google Chrome and ChromeOS Additional Terms
+    WEB3 DNA Browser and ChromeOS Additional Terms
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN_TITLE" desc="Title for the message in the guest terms of service screen to opt-in for metrics during the guest session.">
     Send diagnostic and usage data.
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN" desc="Message in the guest terms of service screen to opt-in for metrics during the guest session.">
-    Help improve Chrome and ChromeOS features and performance by automatically sending crash reports as well as diagnostic and usage data to Google.
+    Help improve WEB3 DNA Browser and ChromeOS features and performance by automatically sending crash reports as well as diagnostic and usage data to Google.
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN_LEARN_MORE_LINK" desc="Learn more link text in guest terms of service screen.">
     Learn more about diagnostic and usage data
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN_LEARN_MORE" desc="Text shown in a pop-up dialog in the guest terms of service screen when the user clicks on the learn more for metrics opt-in.">
     <ph name="BEGIN_PARAGRAPH1">&lt;p&gt;</ph>Allowing ChromeOS devices to send automatic reports helps us prioritize what to fix and improve in ChromeOS. These reports can include things like when ChromeOS crashes, which features were used, and how much memory was typically used.<ph name="END_PARAGRAPH1">&lt;/p&gt;</ph>
-    <ph name="BEGIN_PARAGRAPH2">&lt;p&gt;</ph>You can start or stop allowing these reports any time in your Chrome device settings. If you’re a domain administrator, you can change this setting in the admin console.<ph name="END_PARAGRAPH2">&lt;/p&gt;</ph>
+    <ph name="BEGIN_PARAGRAPH2">&lt;p&gt;</ph>You can start or stop allowing these reports any time in your WEB3 DNA Browser device settings. If you’re a domain administrator, you can change this setting in the admin console.<ph name="END_PARAGRAPH2">&lt;/p&gt;</ph>
   </message>
 
   <!-- HW data collection screen -->
@@ -4261,7 +4261,7 @@
 
   <!-- Lacros data migration screen. -->
   <message translateable="false" name="IDS_LACROS_DATA_MIGRATION_SCREEN_TITLE" desc="Title of the data migration screen.">
-    Updating Chrome browser
+    Updating WEB3 DNA Browser browser
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_SUBTITLE" desc="Shows the % of progress.">
     <ph name="PERCENT">$1<ex>100</ex></ph>% completed
@@ -4273,13 +4273,13 @@
     This is taking longer than expected, you can skip or wait until it's done.
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_ERROR_TITLE" desc="Shown if the lacros migration fails.">
-    Chrome browser could not be updated
+    WEB3 DNA Browser browser could not be updated
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_ERROR_LOW_DISK_SPACE" desc="Shown if the lacros migration failed with low disk space error.">
-    There isn't enough space on this device to complete this update. Clean up <ph name="NECESSARY_SPACE">$1<ex>10 MB</ex></ph> on your device and try again from your Chrome browser.
+    There isn't enough space on this device to complete this update. Clean up <ph name="NECESSARY_SPACE">$1<ex>10 MB</ex></ph> on your device and try again from your WEB3 DNA Browser browser.
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_ERROR_SUBTITLE" desc="Shown if the lacros migration failed other than low disk space error.">
-    You can try again later in Chrome.
+    You can try again later in WEB3 DNA Browser.
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_ERROR_CANCEL_BUTTON" desc="Text button shown on the lacros data migration failure to cancel everything">
     Cancel
@@ -4416,7 +4416,7 @@
     Settings
   </message>
   <message name="IDS_INTERNAL_APP_CONTINUOUS_READING" desc="The default title of Chrome browser to allow users to seamlessly continue reading a web page when they switch from phones or tablets to Chromebook.">
-    Continue reading in Chrome
+    Continue reading in WEB3 DNA Browser
   </message>
 
   <!-- Launcher Settings shortcuts -->
@@ -5659,7 +5659,7 @@ Permissions you've already given to apps may apply to this account. You can cont
     <ph name="BEGIN_LIST">&lt;ul&gt;</ph>
       <ph name="LIST_ITEM">&lt;li&gt;</ph>Checking the network cables, modem, and router
       <ph name="LIST_ITEM">&lt;li&gt;</ph>Reconnecting to Wi-Fi
-      <ph name="LIST_ITEM">&lt;li&gt;</ph>Running Chrome Connectivity Diagnostics
+      <ph name="LIST_ITEM">&lt;li&gt;</ph>Running WEB3 DNA Browser Connectivity Diagnostics
     <ph name="END_LIST">&lt;/ul&gt;</ph>
   </message>
   <message name="IDS_ACCOUNT_MANAGER_ERROR_CANNOT_ADD_ACCOUNT_TITLE" desc="Title for the error screen which tells user that account addition resulted in an error.">
@@ -5696,7 +5696,7 @@ Permissions you've already given to apps may apply to this account. You can cont
     Sign in again to update <ph name="USER_EMAIL">$1<ex>john.doe@example.com</ex></ph>
   </message>
   <message name="IDS_ACCOUNT_MIGRATION_WELCOME_TEXT" desc="Text body for the Account Migration Welcome screen.">
-    Please sign in again to confirm that your account <ph name="USER_EMAIL">$1<ex>john.doe@example.com</ex></ph> can be used with websites, apps, and extensions in Chrome and Google Play. You may also remove this account. <ph name="LINK_BEGIN">&lt;a target="_blank" href="$2<ex>https://google.com/</ex>"&gt;</ph>Learn more<ph name="LINK_END">&lt;/a&gt;</ph>
+    Please sign in again to confirm that your account <ph name="USER_EMAIL">$1<ex>john.doe@example.com</ex></ph> can be used with websites, apps, and extensions in WEB3 DNA Browser and Google Play. You may also remove this account. <ph name="LINK_BEGIN">&lt;a target="_blank" href="$2<ex>https://google.com/</ex>"&gt;</ph>Learn more<ph name="LINK_END">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_ACCOUNT_MIGRATION_UPDATE_BUTTON" desc="Label for the button in Account Migration dialog to migrate the account.">
     Update account

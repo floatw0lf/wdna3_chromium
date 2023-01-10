@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="hy">
 <translation id="130631256467250065">Ձեր փոփոխություններն ուժի մեջ կմտնեն հաջորդ անգամ, երբ վերագործարկեք սարքը:</translation>
-<translation id="275588974610408078">Խափանումների մասին հաղորդումը մատչելի չէ Chromium-ում:</translation>
-<translation id="3064346599913645280">Ցուցադրվող Chromium էջն անվտանգ է</translation>
-<translation id="358997566136285270">Chromium-ի պատկերանշանը</translation>
-<translation id="4365115785552740256">Chromium-ը ստեղծվել է շնորհիվ <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> բաց կոդով նախագծի և այլ <ph name="BEGIN_LINK_OSS" />բաց կոդով ծրագրակազմերի<ph name="END_LINK_OSS" />:</translation>
-<translation id="4559775032954821361">Անցեք
-          Chromium-ի ընտրացանկ &gt;
+<translation id="4791283969776588221">Խափանումների մասին հաղորդումը մատչելի չէ WEB3 DNA Browser-ում:</translation>
+<translation id="2844608976961792034">Ցուցադրվող WEB3 DNA Browser էջն անվտանգ է</translation>
+<translation id="1982446651380677046">WEB3 DNA Browser-ի պատկերանշանը</translation>
+<translation id="4523656775797881494">WEB3 DNA Browser-ը ստեղծվել է շնորհիվ <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> բաց կոդով նախագծի և այլ <ph name="BEGIN_LINK_OSS" />բաց կոդով ծրագրակազմերի<ph name="END_LINK_OSS" />:</translation>
+<translation id="4029636627665768575">Անցեք
+          WEB3 DNA Browser-ի ընտրացանկ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,21 +16,21 @@
           &gt;
           LAN կարգավորումներ
           և ապանշեք «Օգտագործել պրոքսի սերվեր LAN-ի համար» նշավանդակը:</translation>
-<translation id="4622039161600275920">Այս էջն արգելափակվել է Chromium-ի կողմից</translation>
-<translation id="48558539577516920">Հրապատի կամ հակավիրուսային ծրագրի կարգավորումներում
-       թույլատրեք Chromium-ին միանալ ցանցին:</translation>
+<translation id="7398528135240070983">Այս էջն արգելափակվել է WEB3 DNA Browser-ի կողմից</translation>
+<translation id="329184862608851407">Հրապատի կամ հակավիրուսային ծրագրի կարգավորումներում
+       թույլատրեք WEB3 DNA Browser-ին միանալ ցանցին:</translation>
 <translation id="4918837013875648434">ChromiumOS-ը չի ավարտել իր նախնական կարգավորումը։</translation>
-<translation id="580822234363523061">Անցեք
-          Chromium-ի ընտրացանկ &gt;
+<translation id="7951541701556745073">Անցեք
+          WEB3 DNA Browser-ի ընտրացանկ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           և համոզվեք, որ ընտրված է «առանց պրոքսի-սերվերի» կամ «անմիջական» կազմաձևումը:</translation>
-<translation id="6613594504749178791">Փոփոխություններն ուժի մեջ կմտնեն Chromium-ը հաջորդ անգամ գործարկելիս:</translation>
-<translation id="7861509383340276692">Անցեք
-          Chromium ընտրացանկ &gt;
+<translation id="8823298025665339355">Փոփոխություններն ուժի մեջ կմտնեն WEB3 DNA Browser-ը հաջորդ անգամ գործարկելիս:</translation>
+<translation id="5334530291357334686">Անցեք
+          WEB3 DNA Browser ընտրացանկ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -40,5 +40,5 @@
 <translation id="8187289872471304532">Անցեք
           Applications &gt; System Preferences &gt; Network &gt; Advanced &gt; Proxies
           և ապընտեք բոլոր ընտրված պրոքսի-սերվերները:</translation>
-<translation id="8684913864886094367">Chromium-ը ճիշտ չի փակվել:</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser-ը ճիշտ չի փակվել:</translation>
 </translationbundle>

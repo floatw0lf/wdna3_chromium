@@ -6,385 +6,385 @@
 <translation id="1065672644894730302">አማራጮችዎ ሊነበቡ አልቻሉም።
 
 አንዳንድ ባህሪያት ላይገኙ ይችላሉ፣ እና በአማራጮች ላይ የተደረጉ ለውጦች አይቀመጡም።</translation>
-<translation id="1098170124587656448">Chromium ደህንነትዎ ከውሂብ ጥሰቶች፣ ከመጥፎ ቅጥያዎች እና ተጨማሪ ነገሮች እንደተጠበቀ እንዲቆይ ሊያግዝ ይችላል</translation>
-<translation id="1104942323762546749">Chromium የእርስዎን የይለፍ ቃላት ወደ ውጭ መላክ ይፈልጋል። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
-<translation id="113122355610423240">Chromium የእርስዎ ነባሪ አሳሽ ነው</translation>
-<translation id="1131805035311359397">የእርስዎ የይለፍ ቃላት ከውሂብ ጥሰቶች እና ሌሎች የደህንነት ችግሮች ነፃ መሆናቸውን ለማረጋገጥ <ph name="BEGIN_LINK" />በመለያ ወደ Chromium ይግቡ<ph name="END_LINK" />።</translation>
-<translation id="1185134272377778587">ስለChromium</translation>
+<translation id="4960963727707787489">WEB3 DNA Browser ደህንነትዎ ከውሂብ ጥሰቶች፣ ከመጥፎ ቅጥያዎች እና ተጨማሪ ነገሮች እንደተጠበቀ እንዲቆይ ሊያግዝ ይችላል</translation>
+<translation id="1018420750873862665">WEB3 DNA Browser የእርስዎን የይለፍ ቃላት ወደ ውጭ መላክ ይፈልጋል። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
+<translation id="8728335547814212082">WEB3 DNA Browser የእርስዎ ነባሪ አሳሽ ነው</translation>
+<translation id="3462550327714525487">የእርስዎ የይለፍ ቃላት ከውሂብ ጥሰቶች እና ሌሎች የደህንነት ችግሮች ነፃ መሆናቸውን ለማረጋገጥ <ph name="BEGIN_LINK" />በመለያ ወደ WEB3 DNA Browser ይግቡ<ph name="END_LINK" />።</translation>
+<translation id="4464481789599383598">ስለWEB3 DNA Browser</translation>
 <translation id="1203500561924088507">ሰለተጫኑ እናመሰግናለን። <ph name="BUNDLE_NAME" />ን ከመጠቀምዎ በፊት አሳሽዎን እንደገና ማስጀመር አለብዎት።</translation>
-<translation id="1231839967188101156">ሲበራ፣ Chromium ገቢር ካልሆኑ ትሮች ማህደረ ትውስታን ነፃ ያደርጋል። ይህ ገቢር ለሆኑ ትሮች እና ለሌሎች መተግበሪያዎች ተጨማሪ የኮምፒውተር ግብዓቶችን ይሰጣቸዋል እና Chromiumን ፈጣን አድርጎ ያቆየዋል። የእርስዎ ገቢር ያልሆኑ ትሮች ተመልሰው ወደ እነሱ ሲሄዱ በራስ-ሰር እንደገና ገቢር ይሆናሉ። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
-<translation id="1261119230216066228">የማህደረ ትውስታ ቆጣቢ Chromiumን የበለጠ ፈጣን አድርጎታል</translation>
-<translation id="1315551408014407711">አዲሱን የChromium መገለጫዎ ያቀናብሩት</translation>
-<translation id="1385859895174722837">በChromium ውስጥ የGoogle ረዳት</translation>
-<translation id="1396446129537741364">Chromium የይለፍ ቃላትን ለማሳየት እየሞከረ ነው።</translation>
-<translation id="1414495520565016063">ወደ Chromium ገብተዋል!</translation>
-<translation id="1493803763272692301">ከChromium ማግኘት የሚችሉትን ሁሉ በማግኘት መደሰት ይችላሉ</translation>
-<translation id="1524282610922162960">የChromium ትር ያጋሩ</translation>
-<translation id="1553461853655228091">Chromium የዙሪያዎ 3ል ካርታ መፍጠር እንዲችል ካሜራዎን የመድረስ ፈቃድ ያስፈልገዋል</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ Chromiumን ዳግም እንዲያስጀምሩት ይፈልግብዎታል}=1{አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ Chromiumን ዳግም እንዲያስጀምሩት ይፈልግብዎታል። የእርስዎ ማንነት የማያሳውቅ መስኮት ዳግም አይከፈትም}one{አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ Chromiumን ዳግም እንዲያስጀምሩት ይፈልግብዎታል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}other{አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ Chromiumን ዳግም እንዲያስጀምሩት ይፈልግብዎታል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}}</translation>
-<translation id="1625909126243026060">በChromium ውስጥ ቁልፍ የግላዊነት እና የደህንነት ቁጥጥሮችን ይገምግሙ</translation>
-<translation id="1632539827495546968">ይህን መለያ አንድ ጊዜ ብቻ መጠቀም ከፈለጉ በChromium አሳሽ ውስጥ <ph name="GUEST_LINK_BEGIN" />የእንግዳ ሁነታ<ph name="GUEST_LINK_END" />ን መጠቀም ይችላሉ። ለሌላ ሰው መለያ ማከል ከፈለጉ በእርስዎ <ph name="DEVICE_TYPE" /> ላይ <ph name="LINK_BEGIN" />አዲስ ሰው ያክሉ<ph name="LINK_END" />።
+<translation id="5978964989109500768">ሲበራ፣ WEB3 DNA Browser ገቢር ካልሆኑ ትሮች ማህደረ ትውስታን ነፃ ያደርጋል። ይህ ገቢር ለሆኑ ትሮች እና ለሌሎች መተግበሪያዎች ተጨማሪ የኮምፒውተር ግብዓቶችን ይሰጣቸዋል እና WEB3 DNA Browserን ፈጣን አድርጎ ያቆየዋል። የእርስዎ ገቢር ያልሆኑ ትሮች ተመልሰው ወደ እነሱ ሲሄዱ በራስ-ሰር እንደገና ገቢር ይሆናሉ። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
+<translation id="2556820941333974881">የማህደረ ትውስታ ቆጣቢ WEB3 DNA Browserን የበለጠ ፈጣን አድርጎታል</translation>
+<translation id="8674698533637405550">አዲሱን የWEB3 DNA Browser መገለጫዎ ያቀናብሩት</translation>
+<translation id="5897235607289042281">በWEB3 DNA Browser ውስጥ የGoogle ረዳት</translation>
+<translation id="4011302926653396528">WEB3 DNA Browser የይለፍ ቃላትን ለማሳየት እየሞከረ ነው።</translation>
+<translation id="7808556894409107558">ወደ WEB3 DNA Browser ገብተዋል!</translation>
+<translation id="2448956114941459869">ከWEB3 DNA Browser ማግኘት የሚችሉትን ሁሉ በማግኘት መደሰት ይችላሉ</translation>
+<translation id="6123758632973468022">የWEB3 DNA Browser ትር ያጋሩ</translation>
+<translation id="1232307829393891937">WEB3 DNA Browser የዙሪያዎ 3ል ካርታ መፍጠር እንዲችል ካሜራዎን የመድረስ ፈቃድ ያስፈልገዋል</translation>
+<translation id="5103307222334991576">{COUNT,plural, =0{አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ WEB3 DNA Browserን ዳግም እንዲያስጀምሩት ይፈልግብዎታል}=1{አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ WEB3 DNA Browserን ዳግም እንዲያስጀምሩት ይፈልግብዎታል። የእርስዎ ማንነት የማያሳውቅ መስኮት ዳግም አይከፈትም}one{አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ WEB3 DNA Browserን ዳግም እንዲያስጀምሩት ይፈልግብዎታል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}other{አንድ ዝማኔ ለመተግበር አስተዳዳሪዎ WEB3 DNA Browserን ዳግም እንዲያስጀምሩት ይፈልግብዎታል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}}</translation>
+<translation id="7291131704197390431">በWEB3 DNA Browser ውስጥ ቁልፍ የግላዊነት እና የደህንነት ቁጥጥሮችን ይገምግሙ</translation>
+<translation id="5962221630684419652">ይህን መለያ አንድ ጊዜ ብቻ መጠቀም ከፈለጉ በWEB3 DNA Browser አሳሽ ውስጥ <ph name="GUEST_LINK_BEGIN" />የእንግዳ ሁነታ<ph name="GUEST_LINK_END" />ን መጠቀም ይችላሉ። ለሌላ ሰው መለያ ማከል ከፈለጉ በእርስዎ <ph name="DEVICE_TYPE" /> ላይ <ph name="LINK_BEGIN" />አዲስ ሰው ያክሉ<ph name="LINK_END" />።
 
 አስቀድመው ለድር ጣቢያዎች እና መተግበሪያዎች የሰጧቸው ፈቃዶች በዚህ መለያ ላይ ተፈጻሚ ሊሆኑ ይችላሉ። የእርስዎን Google መለያዎች በ<ph name="SETTINGS_LINK_BEGIN" />ቅንብሮች<ph name="SETTINGS_LINK_END" /> ውስጥ ማቀናበር ይችላሉ።</translation>
 <translation id="1640672724030957280">በማውረድ ላይ...</translation>
-<translation id="1708666629004767631">አዲስና ደህንነቱ ይበልጥ የተጠበቀ የChromium ስሪት አለ።</translation>
-<translation id="17264556997921157">ማስታወቂያዎችን ለእርስዎ ለማሳየት የሚጠቀሙባቸውን የዝንባሌ ጣቢያዎች ርዕሶች ማየት እና ማስወገድ ይችላሉ። Chromium በቅርብ ጊዜ የአሰሳ ታሪክዎ ላይ ተመስርቶ የእርስዎን ዝንባሌዎች ይገምታል።</translation>
-<translation id="1774152462503052664">Chromium ጀርባ ላይ ይሂድ</translation>
-<translation id="1779356040007214683">Chromium ይበልጥ ደህንነቱ የተጠበቀ እንዲሆን ለማድረግ፣ በ<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ውስጥ ያልተጠቀሱ እና እርስዎ ሳያውቋቸው የታከሉ ሊሆኑ የሚችሉ የተወሰኑ ዝርዝሮችን አሰናክለናል።</translation>
-<translation id="1808667845054772817">Chromiumን ዳግም ጫን</translation>
-<translation id="185970820835152459">በመለያ የገቡትን የGoogle መለያዎችዎን ማቀናበር ይችላሉ። የእርስዎ የGoogle መለያዎች ለChromium አሳሽ፣ ለPlay መደብር፣ ለGmail እና ለሌሎችም ያገለግላሉ። እንደ የቤተሰብ አባል ለሆነ ለሌላ ሰው መለያ ማከል ከፈለጉ በምትኩ በ<ph name="DEVICE_TYPE" /> ላይ አዲስ ሰው ያክሉ። <ph name="LINK_BEGIN" />የበለጠ ለመረዳት<ph name="LINK_END" /></translation>
-<translation id="1863308913976887472">ጣቢያዎች ስለዝንባሌዎችዎ መረጃን በChromium አማካኝነት ማከማቸት ይችላሉ። ለምሳሌ፣ ለማራቶን ጫማ ለመግዛት ጣቢያን ከጎበኙ ጣቢያው ዝንባሌዎን እንደ ማራቶን መሮጥ ሊገልጽ ይችላል። በኋላ ላይ ለሩጫ ለመመዝገብ ሌላ ጣቢያ ከጎበኙ ይህ ጣቢያ በዝንባሌዎችዎ ላይ ተመስርቶ የመሮጫ ጫማ ማስታወቂያ ሊያሳየዎት ይችላል።</translation>
-<translation id="1881322772814446296">በሚተዳደር መለያ እየገቡ ነው፣ እና አስተዳዳሪው በእርስዎ Chromium መገለጫ ላይ ቁጥጥር እየሰጡት ነው። እንደ እርስዎ መተግበሪያዎች፣ ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮች ያሉ የእርስዎ Chromium ውሂብ እስከ መጨረሻው ከ<ph name="USER_NAME" /> ጋር የተያያዙ ይሆናሉ። ይህን ውሂብ በGoogle የመለያዎች Dashboard አማካኝነት ሊሰርዙት ይችላሉ፣ ነገር ግን ይህን ውሂብ ከሌላ መለያ ጋር ሊያጎዳኙት አይችሉም። ነባሩ የእርስዎ Chromium ውሂብ ለይተው ለማስቀመጥም አዲስ መገለጫ እንደ አማራጭ መፍጠር ይችላሉ። <ph name="LEARN_MORE" /></translation>
-<translation id="1911763535808217981">ይህንን በማጥፋት፣ እንደ Gmail ወደ መሰሉ የGoogle ጣቢያዎች ወደ Chromium በመለያ ሳይገቡ መግባት ይችላሉ</translation>
-<translation id="1929939181775079593">Chromium መልስ አይሰጥም። አሁን ዳግም ይጀምር?</translation>
+<translation id="2804101107797787361">አዲስና ደህንነቱ ይበልጥ የተጠበቀ የWEB3 DNA Browser ስሪት አለ።</translation>
+<translation id="9029405963934901712">ማስታወቂያዎችን ለእርስዎ ለማሳየት የሚጠቀሙባቸውን የዝንባሌ ጣቢያዎች ርዕሶች ማየት እና ማስወገድ ይችላሉ። WEB3 DNA Browser በቅርብ ጊዜ የአሰሳ ታሪክዎ ላይ ተመስርቶ የእርስዎን ዝንባሌዎች ይገምታል።</translation>
+<translation id="2051400772676536118">WEB3 DNA Browser ጀርባ ላይ ይሂድ</translation>
+<translation id="9219442880476358008">WEB3 DNA Browser ይበልጥ ደህንነቱ የተጠበቀ እንዲሆን ለማድረግ፣ በ<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ውስጥ ያልተጠቀሱ እና እርስዎ ሳያውቋቸው የታከሉ ሊሆኑ የሚችሉ የተወሰኑ ዝርዝሮችን አሰናክለናል።</translation>
+<translation id="2776567154969336836">WEB3 DNA Browserን ዳግም ጫን</translation>
+<translation id="4915372523140836376">በመለያ የገቡትን የGoogle መለያዎችዎን ማቀናበር ይችላሉ። የእርስዎ የGoogle መለያዎች ለWEB3 DNA Browser አሳሽ፣ ለPlay መደብር፣ ለGmail እና ለሌሎችም ያገለግላሉ። እንደ የቤተሰብ አባል ለሆነ ለሌላ ሰው መለያ ማከል ከፈለጉ በምትኩ በ<ph name="DEVICE_TYPE" /> ላይ አዲስ ሰው ያክሉ። <ph name="LINK_BEGIN" />የበለጠ ለመረዳት<ph name="LINK_END" /></translation>
+<translation id="4370275707492934729">ጣቢያዎች ስለዝንባሌዎችዎ መረጃን በWEB3 DNA Browser አማካኝነት ማከማቸት ይችላሉ። ለምሳሌ፣ ለማራቶን ጫማ ለመግዛት ጣቢያን ከጎበኙ ጣቢያው ዝንባሌዎን እንደ ማራቶን መሮጥ ሊገልጽ ይችላል። በኋላ ላይ ለሩጫ ለመመዝገብ ሌላ ጣቢያ ከጎበኙ ይህ ጣቢያ በዝንባሌዎችዎ ላይ ተመስርቶ የመሮጫ ጫማ ማስታወቂያ ሊያሳየዎት ይችላል።</translation>
+<translation id="4590088122952951314">በሚተዳደር መለያ እየገቡ ነው፣ እና አስተዳዳሪው በእርስዎ WEB3 DNA Browser መገለጫ ላይ ቁጥጥር እየሰጡት ነው። እንደ እርስዎ መተግበሪያዎች፣ ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮች ያሉ የእርስዎ WEB3 DNA Browser ውሂብ እስከ መጨረሻው ከ<ph name="USER_NAME" /> ጋር የተያያዙ ይሆናሉ። ይህን ውሂብ በGoogle የመለያዎች Dashboard አማካኝነት ሊሰርዙት ይችላሉ፣ ነገር ግን ይህን ውሂብ ከሌላ መለያ ጋር ሊያጎዳኙት አይችሉም። ነባሩ የእርስዎ WEB3 DNA Browser ውሂብ ለይተው ለማስቀመጥም አዲስ መገለጫ እንደ አማራጭ መፍጠር ይችላሉ። <ph name="LEARN_MORE" /></translation>
+<translation id="1773107071029134155">ይህንን በማጥፋት፣ እንደ Gmail ወደ መሰሉ የGoogle ጣቢያዎች ወደ WEB3 DNA Browser በመለያ ሳይገቡ መግባት ይችላሉ</translation>
+<translation id="1404683263809963517">WEB3 DNA Browser መልስ አይሰጥም። አሁን ዳግም ይጀምር?</translation>
 <translation id="193439633299369377">ChromiumOS ዝማኔውን ለመተግበር ዳግም መጀመር አለበት።</translation>
-<translation id="1940680973325097484">ይህን መለያ አንድ ጊዜ ብቻ መጠቀም ከፈለጉ በChromium አሳሽ ውስጥ የእንግዳ ሁነታን መጠቀም ይችላሉ። ለሌላ ሰው መለያ ማከል ከፈለጉ በእርስዎ <ph name="DEVICE_TYPE" /> ላይ <ph name="LINK_BEGIN" />አዲስ ሰው ያክሉ<ph name="LINK_END" />።
+<translation id="2844934533235602125">ይህን መለያ አንድ ጊዜ ብቻ መጠቀም ከፈለጉ በWEB3 DNA Browser አሳሽ ውስጥ የእንግዳ ሁነታን መጠቀም ይችላሉ። ለሌላ ሰው መለያ ማከል ከፈለጉ በእርስዎ <ph name="DEVICE_TYPE" /> ላይ <ph name="LINK_BEGIN" />አዲስ ሰው ያክሉ<ph name="LINK_END" />።
 
 አስቀድመው ለድር ጣቢያዎች እና መተግበሪያዎች የሰጧቸው ፈቃዶች በዚህ መለያ ላይ ተፈጻሚ ሊሆኑ ይችላሉ። የእርስዎን Google መለያዎች በ<ph name="SETTINGS_LINK_BEGIN" />ቅንብሮች<ph name="SETTINGS_LINK_END" /> ውስጥ ማቀናበር ይችላሉ።</translation>
 <translation id="1953553007165777902">በማውረድ ላይ... <ph name="MINUTE" /> ደቂቃ(ዎች) ይቀራል(ሉ)</translation>
-<translation id="1966382378801805537">Chromium ነባሪ አሳሹን ማወቅ ወይም ማቀናበር አልቻለም</translation>
-<translation id="2008474315282236005">ይሄ 1 ንጥል ከዚህ መሣሪያ ይሰርዛል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ Chromium ይግቡ።</translation>
+<translation id="7100172292317798034">WEB3 DNA Browser ነባሪ አሳሹን ማወቅ ወይም ማቀናበር አልቻለም</translation>
+<translation id="7388619658790717510">ይሄ 1 ንጥል ከዚህ መሣሪያ ይሰርዛል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ WEB3 DNA Browser ይግቡ።</translation>
 <translation id="2018879682492276940">መጫን አልተሳካም። እባክዎ እንደገና ይሞክሩ።</translation>
-<translation id="2020032459870799438">ሌሎች የእርስዎ ይለፍ ቃላት ከውሂብ ጥሰቶች እና ሌሎች የደህንነት ችግሮች ነፃ መሆናቸውን ለማረጋገጥ <ph name="BEGIN_LINK" />በመለያ ወደ Chromium ይግቡ<ph name="END_LINK" />።</translation>
-<translation id="2049376729098081731">በGoogle አገልግሎቶች ውስጥ ተጨማሪ ግላዊነት የተላበሱ ተሞክሮዎችን ለማግኘት የChromium ታሪክን ለማካተት እና ላለማካተት ይምረጡ</translation>
-<translation id="2088953378266246249">Chromium እንዴት የስር እውቅና ማረጋገጫዎቹን እንደሚያስተዳድር ላይ መረጃ</translation>
-<translation id="2174178932569897599">Chromiumን አብጅ</translation>
+<translation id="8775681507105719302">ሌሎች የእርስዎ ይለፍ ቃላት ከውሂብ ጥሰቶች እና ሌሎች የደህንነት ችግሮች ነፃ መሆናቸውን ለማረጋገጥ <ph name="BEGIN_LINK" />በመለያ ወደ WEB3 DNA Browser ይግቡ<ph name="END_LINK" />።</translation>
+<translation id="6765354414432698675">በGoogle አገልግሎቶች ውስጥ ተጨማሪ ግላዊነት የተላበሱ ተሞክሮዎችን ለማግኘት የWEB3 DNA Browser ታሪክን ለማካተት እና ላለማካተት ይምረጡ</translation>
+<translation id="5773286839920477494">WEB3 DNA Browser እንዴት የስር እውቅና ማረጋገጫዎቹን እንደሚያስተዳድር ላይ መረጃ</translation>
+<translation id="1342703999636762729">WEB3 DNA Browserን አብጅ</translation>
 <translation id="2174917724755363426">መጫኑ አልተጠናቀቀም። እርግጠኛ ነዎት መሰረዝ ይፈልጋሉ?</translation>
-<translation id="2185166961232948079">Chromium - በአውታረ መረብ ወደ መለያ መግባት - <ph name="PAGE_TITLE" /></translation>
-<translation id="2241627712206172106">ኮምፒውተር የሚጋሩ ከሆኑ ጓደኛዎች እና ቤተሰብ ተለይተው ሊያስሱ እና Chromiumን በሚፈልጉበት መንገድ ማዋቀር ይችላሉ።</translation>
-<translation id="2313870531055795960">በChromium ላይ በተከማቹ ደህንነታቸው ያልተጠበቁ ጣቢያዎች ዝርዝር ጋር ዩአርኤሎችን ይፈትሻል። አንድ ጣቢያ የእርስዎን የይለፍ ቃል ለመስረቅ ከሞከረ ወይም ጎጂ ፋይል ሲያወርዱ Chromium እንዲሁም የገጽ ይዘት ቢትስንም ጨምሮ ዩአርኤሎችን ወደ የጥንቃቄ አሰሳ ሊልክ ይችላል።</translation>
-<translation id="2343156876103232566">አንድ ቁጥር ከዚህ ወደ የእርስዎ Android ስልክ ለመላክ በሁለቱም መሣሪያዎች ላይ በመለያ ወደ Chromium ይግቡ።</translation>
-<translation id="2347108572062610441">ይህ ቅጥያ Chromiumን ሲጀምሩት የሚታየውን ገጽ ቀይሮታል።</translation>
+<translation id="4604256298037443917">WEB3 DNA Browser - በአውታረ መረብ ወደ መለያ መግባት - <ph name="PAGE_TITLE" /></translation>
+<translation id="3692764894142598026">ኮምፒውተር የሚጋሩ ከሆኑ ጓደኛዎች እና ቤተሰብ ተለይተው ሊያስሱ እና WEB3 DNA Browserን በሚፈልጉበት መንገድ ማዋቀር ይችላሉ።</translation>
+<translation id="1653667178840181002">በWEB3 DNA Browser ላይ በተከማቹ ደህንነታቸው ያልተጠበቁ ጣቢያዎች ዝርዝር ጋር ዩአርኤሎችን ይፈትሻል። አንድ ጣቢያ የእርስዎን የይለፍ ቃል ለመስረቅ ከሞከረ ወይም ጎጂ ፋይል ሲያወርዱ WEB3 DNA Browser እንዲሁም የገጽ ይዘት ቢትስንም ጨምሮ ዩአርኤሎችን ወደ የጥንቃቄ አሰሳ ሊልክ ይችላል።</translation>
+<translation id="4170954887813547201">አንድ ቁጥር ከዚህ ወደ የእርስዎ Android ስልክ ለመላክ በሁለቱም መሣሪያዎች ላይ በመለያ ወደ WEB3 DNA Browser ይግቡ።</translation>
+<translation id="7632546848754920458">ይህ ቅጥያ WEB3 DNA Browserን ሲጀምሩት የሚታየውን ገጽ ቀይሮታል።</translation>
 <translation id="2359808026110333948">ቀጥል</translation>
 <translation id="2384373936468275798">የመለያ መግቢያ ዝርዝሮችዎ ጊዜ ያለፈባቸው ስለሆኑ ChromiumOS ውሂብዎን ማስመር አልቻለም።</translation>
-<translation id="2396765026452590966">ይህ «<ph name="EXTENSION_NAME" />» ቅጥያ Chromiumን ሲጀምሩት የሚታየውን ገጽ ቀይሮታል።</translation>
-<translation id="2401032172288869980">Chromium ለዚህ ጣቢያ የካሜራ እና የማይክሮፎን ፈቃዶች ያስፈልጉታል</translation>
-<translation id="2483889755041906834">በChromium ውስጥ</translation>
+<translation id="3766979587851503326">ይህ «<ph name="EXTENSION_NAME" />» ቅጥያ WEB3 DNA Browserን ሲጀምሩት የሚታየውን ገጽ ቀይሮታል።</translation>
+<translation id="3197411627422504716">WEB3 DNA Browser ለዚህ ጣቢያ የካሜራ እና የማይክሮፎን ፈቃዶች ያስፈልጉታል</translation>
+<translation id="6895208784707407784">በWEB3 DNA Browser ውስጥ</translation>
 <translation id="2485422356828889247">አራግፍ</translation>
-<translation id="2560420686485554789">Chromium ፋይሎችን ለማውረድ የማከማቻ መዳረሻ ያስፈልገዋል</translation>
-<translation id="2572494885440352020">Chromium አጋዥ</translation>
-<translation id="2583187216237139145">ይህን መገለጫ በሚጠቀሙበት ጊዜ የመነጨ ማንኛውም የChromium ውሂብ (እንደ የዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮች መፈጠር ያለ) በስራ መገለጫ አስተዳዳሪው ሊወገድ ይችላል። <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Chromiumን መጠቀምዎን ይቀጥሉ</translation>
-<translation id="2648074677641340862">በጭነት ጊዜ የስርዓተ ክወና ስህተት ተፈጥሯል። እባክዎ Chromiumን እንደገና ያውርዱት።</translation>
-<translation id="2661879430930417727">መሣሪያ የሚያጋሩ ከሆኑ ጓደኛዎች እና ቤተሰብ ተለይተው ሊያስሱ እና Chromiumን በሚፈልጉበት መንገድ ማዋቀር ይችላሉ</translation>
-<translation id="2669853942967761236">Chromium ይህ መዝገብ ፋይል ተንኮል አዘል ዌርን ሊደብቅ ስለሚችል አግዶታል</translation>
-<translation id="268602741124540128">እንኳን ወደ Chromium በደህና መጡ <ph name="ACCOUNT_FIRST_NAME" /></translation>
-<translation id="2711502716910134313">የChromium ትር</translation>
-<translation id="2718390899429598676">ለተጨማሪ ደህንነት ሲባል Chromium ውሂብዎን ያመሰጥረዋል።</translation>
+<translation id="5049950391929594900">WEB3 DNA Browser ፋይሎችን ለማውረድ የማከማቻ መዳረሻ ያስፈልገዋል</translation>
+<translation id="2749516262341915024">WEB3 DNA Browser አጋዥ</translation>
+<translation id="2113242903075215938">ይህን መገለጫ በሚጠቀሙበት ጊዜ የመነጨ ማንኛውም የWEB3 DNA Browser ውሂብ (እንደ የዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮች መፈጠር ያለ) በስራ መገለጫ አስተዳዳሪው ሊወገድ ይችላል። <ph name="LEARN_MORE" /></translation>
+<translation id="4952960270884842265">WEB3 DNA Browserን መጠቀምዎን ይቀጥሉ</translation>
+<translation id="2731252252225464533">በጭነት ጊዜ የስርዓተ ክወና ስህተት ተፈጥሯል። እባክዎ WEB3 DNA Browserን እንደገና ያውርዱት።</translation>
+<translation id="1821196395946518624">መሣሪያ የሚያጋሩ ከሆኑ ጓደኛዎች እና ቤተሰብ ተለይተው ሊያስሱ እና WEB3 DNA Browserን በሚፈልጉበት መንገድ ማዋቀር ይችላሉ</translation>
+<translation id="5872680003660133275">WEB3 DNA Browser ይህ መዝገብ ፋይል ተንኮል አዘል ዌርን ሊደብቅ ስለሚችል አግዶታል</translation>
+<translation id="7648513030043385007">እንኳን ወደ WEB3 DNA Browser በደህና መጡ <ph name="ACCOUNT_FIRST_NAME" /></translation>
+<translation id="544374351717235856">የWEB3 DNA Browser ትር</translation>
+<translation id="5554916945232735698">ለተጨማሪ ደህንነት ሲባል WEB3 DNA Browser ውሂብዎን ያመሰጥረዋል።</translation>
 <translation id="2770231113462710648">ነባሪ አሳሽን ወደዚህ ቀይር፦</translation>
 <translation id="2799223571221894425">ዳግም አስጀምር</translation>
-<translation id="2837693172913560447">ይህ አዲስ የChromium መገለጫ ለ<ph name="USER_EMAIL_ADDRESS" /> ይፈጥራል</translation>
-<translation id="2847479871509788944">ከChromium አስወግድ...</translation>
-<translation id="2850691299438350830">በChromium ላይ ደህንነትዎን ይጠብቃል እና በመለያ በገቡባቸው ሌሎች የGoogle መተግበሪያዎች ላይ ደህንነትዎን ለማሻሻል ስራ ላይ ሊውል ይችላል።</translation>
+<translation id="7343868188703540938">ይህ አዲስ የWEB3 DNA Browser መገለጫ ለ<ph name="USER_EMAIL_ADDRESS" /> ይፈጥራል</translation>
+<translation id="4410717336615333062">ከWEB3 DNA Browser አስወግድ...</translation>
+<translation id="4055140529823965372">በWEB3 DNA Browser ላይ ደህንነትዎን ይጠብቃል እና በመለያ በገቡባቸው ሌሎች የGoogle መተግበሪያዎች ላይ ደህንነትዎን ለማሻሻል ስራ ላይ ሊውል ይችላል።</translation>
 <translation id="2885378588091291677">ተግባር መሪ</translation>
-<translation id="2910007522516064972">ስለ &amp;Chromium</translation>
+<translation id="224853752763613334">ስለ &amp;WEB3 DNA Browser</translation>
 <translation id="2915996080311180594">በኋላ ዳግም አስነሳ</translation>
 <translation id="2928420929544864228">ጭነት ተጠናቅቋል።</translation>
-<translation id="2977470724722393594">Chromium የተዘመነ ነው</translation>
-<translation id="2977506796191543575">አንድ ጣቢያ የእርስዎን የይለፍ ቃል ለመስረቅ ከሞከረ ወይም ጎጂ ፋይል ሲያወርዱ Chromium እንዲሁም የገጽ ይዘት ቢትስንም ጨምሮ ዩአርኤሎችን ወደ የጥንቃቄ አሰሳ ሊልክ ይችላል</translation>
-<translation id="2983934633046890458">Chromium የይለፍ ቃላትን ለማርትዕ እየሞከረ ነው</translation>
-<translation id="3032706164202344641">Chromium የእርስዎን የይለፍ ቃላት መፈተሽ አይችልም። ቆይተው እንደገና ይሞክሩ።</translation>
-<translation id="3032787606318309379">ወደ Chromium በማከል ላይ...</translation>
+<translation id="8483611164641766271">WEB3 DNA Browser የተዘመነ ነው</translation>
+<translation id="2739338544529681223">አንድ ጣቢያ የእርስዎን የይለፍ ቃል ለመስረቅ ከሞከረ ወይም ጎጂ ፋይል ሲያወርዱ WEB3 DNA Browser እንዲሁም የገጽ ይዘት ቢትስንም ጨምሮ ዩአርኤሎችን ወደ የጥንቃቄ አሰሳ ሊልክ ይችላል</translation>
+<translation id="6709063507223740532">WEB3 DNA Browser የይለፍ ቃላትን ለማርትዕ እየሞከረ ነው</translation>
+<translation id="6416874087185776406">WEB3 DNA Browser የእርስዎን የይለፍ ቃላት መፈተሽ አይችልም። ቆይተው እንደገና ይሞክሩ።</translation>
+<translation id="7632657090539802919">ወደ WEB3 DNA Browser በማከል ላይ...</translation>
 <translation id="3038232873781883849">ለመጫን በመጠበቅ ላይ...</translation>
-<translation id="3068515742935458733">የብልሽት ሪፖርቶችን እና <ph name="UMA_LINK" /> ወደ Google በመላክ Chromiumን የተሻለ ለማድረግ እገዛ ያድርጉ</translation>
-<translation id="3101560983689755071">የአሰሳ ታሪክዎ ከታች እንደተገመተው እርስዎ በሚያዩዋቸው ማስታወቂያዎች እና ዝንባሌዎች ላይ ተጽዕኖ ያሳድራል። የእርስዎን ግላዊነት ለመጠበቅ Chromium በየወሩ ዝንባሌዎችዎን በራስ-ሰር ይሰርዛል። እርስዎ ካላስወገዷቸው በስተቀር ዝንባሌዎችን ማደስ ይችላሉ።</translation>
-<translation id="3103660991484857065">ጫኚው መዝገቡን መበተን አልቻለም። እባክዎ Chromiumን እንደገና ያውርዱት።</translation>
-<translation id="3130323860337406239">Chromium ማይክሮፎንዎን እየተጠቀመ ነው።</translation>
-<translation id="3155163173539279776">Chromiumን ዳግም አስጀምር</translation>
-<translation id="3179665906251668410">አገናኙን በChromium ማን&amp;ነትን በማያሳውቅ መስኮት ውስጥ ክፈት</translation>
-<translation id="3185330573522821672">አዲሱን የChromium መገለጫዎን ያብጁ</translation>
-<translation id="3190315855212034486">ኧረ ገዳይ! Chromium ብልሽት አጋጥሞታል። አሁን ዳግም ይጀምር?</translation>
-<translation id="3229526316128325841">Chromium የእርስዎን የይለፍ ቃላት ወደ ውጭ መላክ ይፈልጋል።</translation>
-<translation id="3258596308407688501">Chromium የውሂብ አቃፊው ላይ ማንበብ እና መጻፍ አይችልም፦
+<translation id="8517483409722571699">የብልሽት ሪፖርቶችን እና <ph name="UMA_LINK" /> ወደ Google በመላክ WEB3 DNA Browserን የተሻለ ለማድረግ እገዛ ያድርጉ</translation>
+<translation id="4288053573753081242">የአሰሳ ታሪክዎ ከታች እንደተገመተው እርስዎ በሚያዩዋቸው ማስታወቂያዎች እና ዝንባሌዎች ላይ ተጽዕኖ ያሳድራል። የእርስዎን ግላዊነት ለመጠበቅ WEB3 DNA Browser በየወሩ ዝንባሌዎችዎን በራስ-ሰር ይሰርዛል። እርስዎ ካላስወገዷቸው በስተቀር ዝንባሌዎችን ማደስ ይችላሉ።</translation>
+<translation id="4786656728645530523">ጫኚው መዝገቡን መበተን አልቻለም። እባክዎ WEB3 DNA Browserን እንደገና ያውርዱት።</translation>
+<translation id="9049602934378376908">WEB3 DNA Browser ማይክሮፎንዎን እየተጠቀመ ነው።</translation>
+<translation id="5623271663074009477">WEB3 DNA Browserን ዳግም አስጀምር</translation>
+<translation id="8452871758697304895">አገናኙን በWEB3 DNA Browser ማን&amp;ነትን በማያሳውቅ መስኮት ውስጥ ክፈት</translation>
+<translation id="1129084746726669073">አዲሱን የWEB3 DNA Browser መገለጫዎን ያብጁ</translation>
+<translation id="5492613633683347362">ኧረ ገዳይ! WEB3 DNA Browser ብልሽት አጋጥሞታል። አሁን ዳግም ይጀምር?</translation>
+<translation id="8199824399077877420">WEB3 DNA Browser የእርስዎን የይለፍ ቃላት ወደ ውጭ መላክ ይፈልጋል።</translation>
+<translation id="4228792865955409287">WEB3 DNA Browser የውሂብ አቃፊው ላይ ማንበብ እና መጻፍ አይችልም፦
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3283186697780795848">Chromium ስሪት <ph name="PRODUCT_VERSION" /> ተጭኗል</translation>
+<translation id="3857433786109736615">WEB3 DNA Browser ስሪት <ph name="PRODUCT_VERSION" /> ተጭኗል</translation>
 <translation id="3286538390144397061">አሁን ዳግም አስጀምር</translation>
-<translation id="328888136576916638">የGoogle ኤ ፒ አይ ቁልፎች ይጎድላሉ። አንዳንድ የChromium ተግባራት ይሰናከላሉ።</translation>
-<translation id="3296368748942286671">Chromium ሲዘጋ የጀርባ መተግበሪያዎች ማሂዱን ይቀጥሉ</translation>
-<translation id="3350761136195634146">ይህ መለያ ያለው የChromium መገለጫ አስቀድሞ አለ</translation>
+<translation id="1496654316150745021">የGoogle ኤ ፒ አይ ቁልፎች ይጎድላሉ። አንዳንድ የWEB3 DNA Browser ተግባራት ይሰናከላሉ።</translation>
+<translation id="1658920309978171288">WEB3 DNA Browser ሲዘጋ የጀርባ መተግበሪያዎች ማሂዱን ይቀጥሉ</translation>
+<translation id="6099044929456210951">ይህ መለያ ያለው የWEB3 DNA Browser መገለጫ አስቀድሞ አለ</translation>
 <translation id="3387527074123400161">ChromiumOS</translation>
-<translation id="3406848076815591792">ወደ ነባር የChromium መገለጫ ይቀየር?</translation>
+<translation id="3490516070300665202">ወደ ነባር የWEB3 DNA Browser መገለጫ ይቀየር?</translation>
 <translation id="3412460710772753638">በዚህ መሣሪያ ላይ በይለፍ ቃል አስተዳዳሪ ውስጥ</translation>
-<translation id="3420193029125244288">{COUNT,plural, =1{አስተዳዳሪዎ Chromium ከ1 ደቂቃ በላይ ስራ ላይ ሳይሆን ከቆየ እንዲጠፋ አዋቅረውታል።}one{አስተዳዳሪዎ Chromium ከ# ደቂቃ በላይ ስራ ላይ ሳይሆን ከቆየ እንዲጠፋ አዋቅረውታል።}other{አስተዳዳሪዎ Chromium ከ# ደቂቃዎች በላይ ስራ ላይ ሳይሆን ከቆየ እንዲጠፋ አዋቅረውታል።}}</translation>
-<translation id="3430503420100763906">በ Chromium መገለጫዎች ሁሉንም የ Chromium ነገሮችዎን መለየት ይችላሉ። ለጓደኞች እና ለቤተሰብ መገለጫዎችን ይፍጠሩ፣ ወይም በሥራ እና በመዝናኛ መካከል ይከፋፈሉ።</translation>
-<translation id="347328004046849135">እርስዎ በተጠለፈ የይለፍ ቃል ሲገቡ Chromium ያሳውቀዎታል</translation>
-<translation id="3474745554856756813">ይሄ <ph name="ITEMS_COUNT" /> ንጥሎችን ከዚህ መሣሪያ ይሰርዛል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ Chromium ይግቡ።</translation>
-<translation id="3497319089134299931"><ph name="SHORTCUT" /> በChromium መገለጫዎች መካከል መቀያየር ይችላል</translation>
-<translation id="3509308970982693815">እባክዎ ሁሉንም የChromium መስኮቶችን ይዝጉና እንደገና ይሞክሩ።</translation>
-<translation id="3518180795744733843">በChrome ውስጥ የGoogle ረዳት በመላ ድር ጣቢያዎች ውስጥ ለእርስዎ እርምጃዎችን ማጠናቀቅ ይችላል</translation>
-<translation id="3533435340678213462">የእርስዎን ግላዊነት ለመጠበቅ ከ4 ሳምንታት በላይ የቆዩ ዝንባሌዎችዎን በራስ-ሰር እንሰርዛለን። ማሰስዎን በሚቀጥሉበት ጊዜ ዝንባሌ እንደገና በዝርዝሩ ላይ ሊታይ ይችላል። ወይም Chromium ከግምት ውስጥ እንዳያስገባቸው የማይፈልጓቸውን ዝንባሌዎች ማስወገድ ይችላሉ።</translation>
-<translation id="3567254597502212821">የአሰሳ ታሪክዎ፣ በዚህ መሣሪያ ላይ Chromiumን ተጠቅመው የጎበኟቸው የጣቢያዎች መዝገብ።</translation>
-<translation id="3575459661164320785">በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌር አለ። Chromium የእርስዎን አሰሳ እንደገና በጤናማነት እንዲሠራ ለማድረግ ሊያስወግደው፣ የእርስዎን ቅንብሮች እንደነበሩ ሊመልሳቸው እና ቅጥያዎችን ሊያሰናክል ይችላል።</translation>
-<translation id="3593091352817399191">ሌላ መለያ አስቀድሞ ገብቷል። አሰሳዎን ለይቶ ለማቆየት Chromium የራስዎን መገለጫ ለእርስዎ መፍጠር ይችላል።</translation>
-<translation id="3639635944603682591">ይህ ሰው የአሰሳ ውሂብ ከዚህ መሣሪያ ይሰረዛል። ውሂቡን መልሶ ለማግኘት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ Chromium ይግቡ።</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{አዲስ ዝማኔ ለChromium የሚገኝ ሲሆን ልክ ዳግም ሲያስጀምሩት ይተገበራል።}=1{አዲስ ዝማኔ ለChromium የሚገኝ ሲሆን ልክ ዳግም ሲያስጀምሩት ይተገበራል። የእርስዎ ማንነት የማያሳውቅ መስኮት ዳግም አይከፈትም}one{አዲስ ዝማኔ ለChromium የሚገኝ ሲሆን ልክ ዳግም ሲያስጀምሩት ይተገበራል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}other{አዲስ ዝማኔ ለChromium የሚገኝ ሲሆን ልክ ዳግም ሲያስጀምሩት ይተገበራል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}}</translation>
-<translation id="3651803019964686660">አንድ ቁጥር ከ<ph name="ORIGIN" /> ወደ የእርስዎ Android ስልክ ለመላክ በሁለቱም መሣሪያዎች ላይ በመለያ ወደ Chromium ይግቡ።</translation>
-<translation id="3685209450716071127">Chromium የእርስዎን የይለፍ ቃላት መፈተሽ አይችልም። የበይነመረብ ግንኙነትዎን ለመፈተሽ ይሞክሩ።</translation>
-<translation id="3702352323269013324">በChromium ውስጥ ማስታወቂያን ግላዊነት ስለማላበስ የበለጠ ይወቁ</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Chromiumን ዳግም እንዲያስጀምሩት ይጠይቀዎታል}=1{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Chromiumን ዳግም እንዲያስጀምሩት ይጠይቀዎታል የእርስዎ ማንነት የማያሳውቅ መስኮት ዳግም አይከፈትም}one{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Chromiumን ዳግም እንዲያስጀምሩት ይጠይቀዎታል የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}other{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Chromiumን ዳግም እንዲያስጀምሩት ይጠይቀዎታል የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}}</translation>
-<translation id="3713809861844741608">አገናኙን በChromium አዲስ &amp;ትር ውስጥ ክፈት</translation>
-<translation id="3728336900324680424">Chromium የእርስዎን Drive በአድራሻ አሞሌ ውስጥ ጥቆማ ሐሳቦችን ይደርሳል።</translation>
-<translation id="378917192836375108">Chromium ድር ላይ ያለ ስልክ ቁጥር ጠቅ እንዲያደርጉትና በSkype እንዲደውሉበት ያስችልዎታል!</translation>
+<translation id="3459447433517900945">{COUNT,plural, =1{አስተዳዳሪዎ WEB3 DNA Browser ከ1 ደቂቃ በላይ ስራ ላይ ሳይሆን ከቆየ እንዲጠፋ አዋቅረውታል።}one{አስተዳዳሪዎ WEB3 DNA Browser ከ# ደቂቃ በላይ ስራ ላይ ሳይሆን ከቆየ እንዲጠፋ አዋቅረውታል።}other{አስተዳዳሪዎ WEB3 DNA Browser ከ# ደቂቃዎች በላይ ስራ ላይ ሳይሆን ከቆየ እንዲጠፋ አዋቅረውታል።}}</translation>
+<translation id="8670809163194068299">በ WEB3 DNA Browser መገለጫዎች ሁሉንም የ WEB3 DNA Browser ነገሮችዎን መለየት ይችላሉ። ለጓደኞች እና ለቤተሰብ መገለጫዎችን ይፍጠሩ፣ ወይም በሥራ እና በመዝናኛ መካከል ይከፋፈሉ።</translation>
+<translation id="9066892520177234564">እርስዎ በተጠለፈ የይለፍ ቃል ሲገቡ WEB3 DNA Browser ያሳውቀዎታል</translation>
+<translation id="2558936839934178842">ይሄ <ph name="ITEMS_COUNT" /> ንጥሎችን ከዚህ መሣሪያ ይሰርዛል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ WEB3 DNA Browser ይግቡ።</translation>
+<translation id="3356184603360407459"><ph name="SHORTCUT" /> በWEB3 DNA Browser መገለጫዎች መካከል መቀያየር ይችላል</translation>
+<translation id="4904006555695224532">እባክዎ ሁሉንም የWEB3 DNA Browser መስኮቶችን ይዝጉና እንደገና ይሞክሩ።</translation>
+<translation id="1702866421814791137">በWEB3 DNA Browser ውስጥ የGoogle ረዳት በመላ ድር ጣቢያዎች ውስጥ ለእርስዎ እርምጃዎችን ማጠናቀቅ ይችላል</translation>
+<translation id="5618636199529337261">የእርስዎን ግላዊነት ለመጠበቅ ከ4 ሳምንታት በላይ የቆዩ ዝንባሌዎችዎን በራስ-ሰር እንሰርዛለን። ማሰስዎን በሚቀጥሉበት ጊዜ ዝንባሌ እንደገና በዝርዝሩ ላይ ሊታይ ይችላል። ወይም WEB3 DNA Browser ከግምት ውስጥ እንዳያስገባቸው የማይፈልጓቸውን ዝንባሌዎች ማስወገድ ይችላሉ።</translation>
+<translation id="319672769194370808">የአሰሳ ታሪክዎ፣ በዚህ መሣሪያ ላይ WEB3 DNA Browserን ተጠቅመው የጎበኟቸው የጣቢያዎች መዝገብ።</translation>
+<translation id="4060507003609322665">በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌር አለ። WEB3 DNA Browser የእርስዎን አሰሳ እንደገና በጤናማነት እንዲሠራ ለማድረግ ሊያስወግደው፣ የእርስዎን ቅንብሮች እንደነበሩ ሊመልሳቸው እና ቅጥያዎችን ሊያሰናክል ይችላል።</translation>
+<translation id="6858481853319304501">ሌላ መለያ አስቀድሞ ገብቷል። አሰሳዎን ለይቶ ለማቆየት WEB3 DNA Browser የራስዎን መገለጫ ለእርስዎ መፍጠር ይችላል።</translation>
+<translation id="7181053905423306884">ይህ ሰው የአሰሳ ውሂብ ከዚህ መሣሪያ ይሰረዛል። ውሂቡን መልሶ ለማግኘት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ WEB3 DNA Browser ይግቡ።</translation>
+<translation id="8833453854863974594">{COUNT,plural, =0{አዲስ ዝማኔ ለWEB3 DNA Browser የሚገኝ ሲሆን ልክ ዳግም ሲያስጀምሩት ይተገበራል።}=1{አዲስ ዝማኔ ለWEB3 DNA Browser የሚገኝ ሲሆን ልክ ዳግም ሲያስጀምሩት ይተገበራል። የእርስዎ ማንነት የማያሳውቅ መስኮት ዳግም አይከፈትም}one{አዲስ ዝማኔ ለWEB3 DNA Browser የሚገኝ ሲሆን ልክ ዳግም ሲያስጀምሩት ይተገበራል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}other{አዲስ ዝማኔ ለWEB3 DNA Browser የሚገኝ ሲሆን ልክ ዳግም ሲያስጀምሩት ይተገበራል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}}</translation>
+<translation id="890421963650512515">አንድ ቁጥር ከ<ph name="ORIGIN" /> ወደ የእርስዎ Android ስልክ ለመላክ በሁለቱም መሣሪያዎች ላይ በመለያ ወደ WEB3 DNA Browser ይግቡ።</translation>
+<translation id="8559660999448670332">WEB3 DNA Browser የእርስዎን የይለፍ ቃላት መፈተሽ አይችልም። የበይነመረብ ግንኙነትዎን ለመፈተሽ ይሞክሩ።</translation>
+<translation id="2460459186000985919">በWEB3 DNA Browser ውስጥ ማስታወቂያን ግላዊነት ስለማላበስ የበለጠ ይወቁ</translation>
+<translation id="1249507445971540698">{COUNT,plural, =0{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ WEB3 DNA Browserን ዳግም እንዲያስጀምሩት ይጠይቀዎታል}=1{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ WEB3 DNA Browserን ዳግም እንዲያስጀምሩት ይጠይቀዎታል የእርስዎ ማንነት የማያሳውቅ መስኮት ዳግም አይከፈትም}one{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ WEB3 DNA Browserን ዳግም እንዲያስጀምሩት ይጠይቀዎታል የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}other{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ WEB3 DNA Browserን ዳግም እንዲያስጀምሩት ይጠይቀዎታል የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}}</translation>
+<translation id="8552541042755991172">አገናኙን በWEB3 DNA Browser አዲስ &amp;ትር ውስጥ ክፈት</translation>
+<translation id="6916875900143115982">WEB3 DNA Browser የእርስዎን Drive በአድራሻ አሞሌ ውስጥ ጥቆማ ሐሳቦችን ይደርሳል።</translation>
+<translation id="336867116231879142">WEB3 DNA Browser ድር ላይ ያለ ስልክ ቁጥር ጠቅ እንዲያደርጉትና በSkype እንዲደውሉበት ያስችልዎታል!</translation>
 <translation id="3830894615770080216">የChromiumOS ስርዓት</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - Chromium</translation>
+<translation id="8864402478426522531"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser</translation>
 <translation id="386822487697155367">ChromiumOS ላይ እገዛ ያግኙ</translation>
-<translation id="3871664619793219264">የChromium አሳሽ ነገሮችዎን ከ<ph name="ACCOUNT_EMAIL" /> ያግኙ</translation>
-<translation id="388648406173476553">Chromiumን ያብጁ እና ይቆጣጠሩ። የሆነ ነገር ትኩረትዎ ያስፈልገዋል - ለዝርዝሮች ጠቅ ያድርጉ።</translation>
-<translation id="3889543394854987837">Chromiumን ለመክፈት እና ማሰስ ለመጀመር ስምዎን ጠቅ ያድርጉት።</translation>
-<translation id="390528597099634151"><ph name="EXISTING_USER" /> አስቀድመው ወደዚህ የChromium መገለጫ ገብተዋል። አሰሳዎን የተለየ እንደሆነ ለማቆየት Chromium የራስዎን መገለጫ ለእርስዎ መፍጠር ይችላል።</translation>
-<translation id="391789666908693569">የእርስዎ መለያ የሚተዳደረው በ<ph name="MANAGER_NAME" /> ነው። የእርስዎ አስተዳዳሪ ይህንን የChrome አሳሽ መገለጫ እና እንደ እልባቶች፣ ታሪክ እና የይለፍ ቃላት ያሉ ውሂቡን መመልከት እና ማርትዕ ይችላሉ።</translation>
-<translation id="3945058413678539331">Chromium የይለፍ ቃላትን ለመቅዳት እየሞከረ ነው። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
-<translation id="3962623956404948996">Chromium ይህ ፋይል አደገኛ ሊሆን ስለሚችል እንዲቃኙት ይመክራል</translation>
+<translation id="3532820600057985798">የWEB3 DNA Browser አሳሽ ነገሮችዎን ከ<ph name="ACCOUNT_EMAIL" /> ያግኙ</translation>
+<translation id="3254774751045951355">WEB3 DNA Browserን ያብጁ እና ይቆጣጠሩ። የሆነ ነገር ትኩረትዎ ያስፈልገዋል - ለዝርዝሮች ጠቅ ያድርጉ።</translation>
+<translation id="5690972056512883402">WEB3 DNA Browserን ለመክፈት እና ማሰስ ለመጀመር ስምዎን ጠቅ ያድርጉት።</translation>
+<translation id="5645023388974281920"><ph name="EXISTING_USER" /> አስቀድመው ወደዚህ የWEB3 DNA Browser መገለጫ ገብተዋል። አሰሳዎን የተለየ እንደሆነ ለማቆየት WEB3 DNA Browser የራስዎን መገለጫ ለእርስዎ መፍጠር ይችላል።</translation>
+<translation id="8552133641824014764">የእርስዎ መለያ የሚተዳደረው በ<ph name="MANAGER_NAME" /> ነው። የእርስዎ አስተዳዳሪ ይህንን የWEB3 DNA Browser አሳሽ መገለጫ እና እንደ እልባቶች፣ ታሪክ እና የይለፍ ቃላት ያሉ ውሂቡን መመልከት እና ማርትዕ ይችላሉ።</translation>
+<translation id="1745190996116952155">WEB3 DNA Browser የይለፍ ቃላትን ለመቅዳት እየሞከረ ነው። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
+<translation id="2363126436977372294">WEB3 DNA Browser ይህ ፋይል አደገኛ ሊሆን ስለሚችል እንዲቃኙት ይመክራል</translation>
 <translation id="3997429360543082038">ስለChromiumOS</translation>
 <translation id="4019629340646866719">ChromiumOS እና <ph name="BEGIN_LINK_LINUX_OSS" />የLinux ግንባታ ምህዳር<ph name="END_LINK_LINUX_OSS" /> ሊሠሩ የቻሉት በተጨማሪ <ph name="BEGIN_LINK_CROS_OSS" />የክፍት ምንጭ ሶፍትዌር<ph name="END_LINK_CROS_OSS" /> ነው።</translation>
-<translation id="4036079820698952681"><ph name="BEGIN_LINK" />የአሁኖቹን ቅንብሮች<ph name="END_LINK" /> ሪፖርት በማድረግ Chromium የተሻለ እንዲሆን ያግዙ</translation>
+<translation id="7039332938370903722"><ph name="BEGIN_LINK" />የአሁኖቹን ቅንብሮች<ph name="END_LINK" /> ሪፖርት በማድረግ WEB3 DNA Browser የተሻለ እንዲሆን ያግዙ</translation>
 <translation id="4050175100176540509">አስፈላጊ የደህንነት ማሻሻያዎች እና አዲስ ባህሪያት በቅርብ ጊዜው ስሪቱ ላይ ይገኛሉ።</translation>
 <translation id="4148957013307229264">በመጫን ላይ...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> - በአውታረ መረብ ወደ መለያ መግባት - Chromium</translation>
-<translation id="421369550622382712">ለChromium ምርጥ መተግበሪያዎችን፣ ጨዋታዎችን፣ ቅጥያዎችን እና ገጽታዎችን ያግኙ።</translation>
-<translation id="4216212958613226427">ይህ ቋንቋ የChromium ዩአይን ለማሳየት ስራ ላይ ይውላል</translation>
+<translation id="9037768363939314060"><ph name="PAGE_TITLE" /> - በአውታረ መረብ ወደ መለያ መግባት - WEB3 DNA Browser</translation>
+<translation id="65082721690930806">ለWEB3 DNA Browser ምርጥ መተግበሪያዎችን፣ ጨዋታዎችን፣ ቅጥያዎችን እና ገጽታዎችን ያግኙ።</translation>
+<translation id="8180918330054927789">ይህ ቋንቋ የWEB3 DNA Browser ዩአይን ለማሳየት ስራ ላይ ይውላል</translation>
 <translation id="4222932583846282852">በመሰረዝ ላይ...</translation>
-<translation id="4230135487732243613">የChromium ውሂዎ ከዚህ መለያ ጋር ይገናኝ?</translation>
-<translation id="4271805377592243930">Chromium ላይ እገዛ ያግኙ</translation>
-<translation id="4285930937574705105">ተለይቶ ባልታወቀ ስህተት ምክንያት ጭነት ከሽፏል። Chromium አሁን እያሄደ ከሆነ እባክዎ ይዝጉትና እንደገና ይሞክሩ።</translation>
+<translation id="4117615645977273587">የWEB3 DNA Browser ውሂዎ ከዚህ መለያ ጋር ይገናኝ?</translation>
+<translation id="2562528065031024752">WEB3 DNA Browser ላይ እገዛ ያግኙ</translation>
+<translation id="4628286205171331451">ተለይቶ ባልታወቀ ስህተት ምክንያት ጭነት ከሽፏል። WEB3 DNA Browser አሁን እያሄደ ከሆነ እባክዎ ይዝጉትና እንደገና ይሞክሩ።</translation>
 <translation id="4304713468139749426">የይለፍ ቃል አስተዳዳሪ</translation>
 <translation id="4334294535648607276">ማውረድ ተጠናቅቋል።</translation>
 <translation id="439358628917130594"><ph name="MANAGER" /> ይህን መሣሪያ ከመጠቀምዎ በፊት የሚከተለውን የአገልግሎት ውል እንዲያነብቡት እና እንዲቀበሉት ይፈለጋል። ይህ ውል የChromiumOS ውሉን አያስፋፋውም፣ አይቀይረውም ወይም አይገድበውም።</translation>
-<translation id="4407044323746248786">የሆነው ሆኖ ከChromium ይወጣ?</translation>
-<translation id="4415566066719264597">Chromium በበስተጀርባ ላይ ያሂድ</translation>
-<translation id="4423735387467980091">Chromiumን ያብጁ እና ይቆጣጠሩ</translation>
+<translation id="5363800095683563940">የሆነው ሆኖ ከWEB3 DNA Browser ይወጣ?</translation>
+<translation id="4413681411297396618">WEB3 DNA Browser በበስተጀርባ ላይ ያሂድ</translation>
+<translation id="4960563596527056032">WEB3 DNA Browserን ያብጁ እና ይቆጣጠሩ</translation>
 <translation id="4427306783828095590">የተሻሻለ ጥበቃ ማስገር እና ተንኮል-አዘል ዌር ለማገድ የበለጠ ይሠራል</translation>
-<translation id="452711251841752011">እንኳን ወደ Chromium በደህና መጡ፤ አዲስ የአሳሽ መስኮት ተከፍቷል</translation>
-<translation id="4544142686420020088">Chromium አልተዘመነም፣ የሆነ ችግር ተፈጥሯል። <ph name="BEGIN_LINK" />የChrome ዝማኔ ችግሮችን እና ያልተሳኩ ዝማኔዎችን ያስተካክሉ።<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">በአዲሱ የChromium መገለጫ ውስጥ ይቀጥል?</translation>
+<translation id="5075487038316202932">እንኳን ወደ WEB3 DNA Browser በደህና መጡ፤ አዲስ የአሳሽ መስኮት ተከፍቷል</translation>
+<translation id="8333408299151688471">WEB3 DNA Browser አልተዘመነም፣ የሆነ ችግር ተፈጥሯል። <ph name="BEGIN_LINK" />የWEB3 DNA Browser ዝማኔ ችግሮችን እና ያልተሳኩ ዝማኔዎችን ያስተካክሉ።<ph name="END_LINK" /></translation>
+<translation id="5710517655208362990">በአዲሱ የWEB3 DNA Browser መገለጫ ውስጥ ይቀጥል?</translation>
 <translation id="4567424176335768812">እንደ <ph name="USER_EMAIL_ADDRESS" /> ሆነው ገብተዋል። አሁን የእርስዎን ዕልባቶች፣ ታሪክ እና ሌሎች ቅንብሮች በመለያ በገቡ ሁሉም መሣሪያዎችዎ ላይ መድረስ ይችላሉ።</translation>
 <translation id="4594305310729380060">በዚህ መሣሪያ ላይ ወደ የይለፍ ቃል አስተዳዳሪ</translation>
-<translation id="459535195905078186">የChromium መተግበሪያዎች</translation>
+<translation id="8700214093481776621">የWEB3 DNA Browser መተግበሪያዎች</translation>
 <translation id="4613863813562375431">የChromiumOS ስሪት</translation>
-<translation id="4621240073146040695">የተዘመነ ለመሆን ጥቂት ብቻ ቀርቷል! ማዘመን ለማጠናቀቅ Chromiumን ዳግም ያስጀምሩት።</translation>
-<translation id="4665829708273112819">ማስጠንቀቂያ፦ Chromium ቅጥያዎች የአሰሳ ታሪክዎን እንዳይመዘግቡ መከልከል አይችልም። ይህን ቅጥያ ማንነት በማያሳውቅ ሁነት ላይ ለማሰናከል ይህን አማራጭ አይምረጡ።</translation>
-<translation id="4673151026126227699">እንዲሁም የChromium አጠቃቀም ሪፖርቶችን ካጋሩ፣ እነዚያ ሪፖርቶች እርስዎ የሚጎበኟቸውን ዩአርኤሎች ያካትታሉ</translation>
-<translation id="4677944499843243528">መገለጫው በሌላ ኮምፒውተር (<ph name="HOST_NAME" />) ላይ በሌላ የChromium ሂደት (<ph name="PROCESS_ID" />) የተያዘ ይመስላል። Chromium መገለጫው እንዳይበላሽ ቆልፎታል።  ሌሎች ሂደቶች ይህን መገለጫ እየተጠቀሙበት እንዳልሆኑ እርግጠኛ ከሆኑ መገለጫውን አስከፍተው Chromiumን ዳግም ማስጀመር ይችላሉ።</translation>
+<translation id="6951246183774166202">የተዘመነ ለመሆን ጥቂት ብቻ ቀርቷል! ማዘመን ለማጠናቀቅ WEB3 DNA Browserን ዳግም ያስጀምሩት።</translation>
+<translation id="1967316171334904609">ማስጠንቀቂያ፦ WEB3 DNA Browser ቅጥያዎች የአሰሳ ታሪክዎን እንዳይመዘግቡ መከልከል አይችልም። ይህን ቅጥያ ማንነት በማያሳውቅ ሁነት ላይ ለማሰናከል ይህን አማራጭ አይምረጡ።</translation>
+<translation id="6242940079717718930">እንዲሁም የWEB3 DNA Browser አጠቃቀም ሪፖርቶችን ካጋሩ፣ እነዚያ ሪፖርቶች እርስዎ የሚጎበኟቸውን ዩአርኤሎች ያካትታሉ</translation>
+<translation id="4405105480942922067">መገለጫው በሌላ ኮምፒውተር (<ph name="HOST_NAME" />) ላይ በሌላ የWEB3 DNA Browser ሂደት (<ph name="PROCESS_ID" />) የተያዘ ይመስላል። WEB3 DNA Browser መገለጫው እንዳይበላሽ ቆልፎታል።  ሌሎች ሂደቶች ይህን መገለጫ እየተጠቀሙበት እንዳልሆኑ እርግጠኛ ከሆኑ መገለጫውን አስከፍተው WEB3 DNA Browserን ዳግም ማስጀመር ይችላሉ።</translation>
 <translation id="4680828127924988555">መጫኑን ሰርዝ</translation>
-<translation id="4708774505295300557">የሆነ ሰው ከዚህ ቀደም በዚህ ኮምፒውተር ላይ እንደ <ph name="ACCOUNT_EMAIL_LAST" /> ሆነው ገብተዋል። የእርስዎን መረጃ ለይተው ለማስቀመጥ እባክዎ አዲስ የChromium ተጠቃሚ ይፍጠሩ።</translation>
-<translation id="4746050847053251315">የሆነው ሆኖ Chromium ይቁም?</translation>
-<translation id="4748217263233248895">ለChromium ልዩ የደህንነት ዝማኔ ተፈጻሚ ተደርጓል። አሁን ዳግም ያስጀምሩ እና የእርስዎን ትሮች ወደ ነበሩበት እንመልሳለን።</translation>
-<translation id="4765210420921718862">በChromium ቅንብሮች ውስጥ ሐሳብዎን በማንኛውም ጊዜ መቀየር ይችላሉ። ሙከራዎቹ ማስታወቂያዎች የሚስተናገዱበት መንገድ ጋር አብረው ይሄዳሉ፣ ስለሆነም ለውጦችን ወዲያውኑ ማየት አይችሉም።</translation>
-<translation id="4788777615168560705">Chromium የእርስዎን የይለፍ ቃላት መፈተሽ አይችልም። ከ24 ሰዓቶች በኋላ እንደገና ይሞክሩ ወይም <ph name="BEGIN_LINK" />በGoogle መለያዎ ውስጥ የይለፍ ቃላትን ይፈትሹ<ph name="END_LINK" />።</translation>
+<translation id="3750760070906465924">የሆነ ሰው ከዚህ ቀደም በዚህ ኮምፒውተር ላይ እንደ <ph name="ACCOUNT_EMAIL_LAST" /> ሆነው ገብተዋል። የእርስዎን መረጃ ለይተው ለማስቀመጥ እባክዎ አዲስ የWEB3 DNA Browser ተጠቃሚ ይፍጠሩ።</translation>
+<translation id="1217313267986183942">የሆነው ሆኖ WEB3 DNA Browser ይቁም?</translation>
+<translation id="4805555266423130696">ለWEB3 DNA Browser ልዩ የደህንነት ዝማኔ ተፈጻሚ ተደርጓል። አሁን ዳግም ያስጀምሩ እና የእርስዎን ትሮች ወደ ነበሩበት እንመልሳለን።</translation>
+<translation id="3541589509773411057">በWEB3 DNA Browser ቅንብሮች ውስጥ ሐሳብዎን በማንኛውም ጊዜ መቀየር ይችላሉ። ሙከራዎቹ ማስታወቂያዎች የሚስተናገዱበት መንገድ ጋር አብረው ይሄዳሉ፣ ስለሆነም ለውጦችን ወዲያውኑ ማየት አይችሉም።</translation>
+<translation id="2655572098566031184">WEB3 DNA Browser የእርስዎን የይለፍ ቃላት መፈተሽ አይችልም። ከ24 ሰዓቶች በኋላ እንደገና ይሞክሩ ወይም <ph name="BEGIN_LINK" />በGoogle መለያዎ ውስጥ የይለፍ ቃላትን ይፈትሹ<ph name="END_LINK" />።</translation>
 <translation id="479167709087336770">ይህ በ Google ፍለጋ ውስጥ ጥቅም ላይ ጋር ተመሳሳይ የፊደል አራሚ ይጠቀማል። በአሳሽ ውስጥ የሚተይቡት ጽሁፍ ወደ Google ይላካል። ይህን ባህሪ ሁልጊዜ በቅንብሮች ውስጥ መለወጥ ይችላሉ።</translation>
-<translation id="4888717733111232871">Chromium ለmDNS ትራፊክ ለመፍቀድ የውስጥ ደንብ።</translation>
-<translation id="4893347770495441059">&amp;Chromiumን ለማዘመን ዳግም ያስነሱት</translation>
-<translation id="4943838377383847465">Chromium በጀርባ ሁነታ ላይ ነው።</translation>
-<translation id="4987820182225656817">እንግዳዎች ማንኛውንም ነገር ወደኋላ ሳይተዉ Chromium መጠቀም ይችላሉ።</translation>
-<translation id="4994636714258228724">እራስዎን በChromium ላይ ያክሉ</translation>
-<translation id="5114678101347489141">Chromium ጣቢያዎች ያነሰ መረጃዎን ተጠቅመው ተመሳሳይ የአሰሳ ተሞክሮ እንዲያቀርቡ የሚያስችሏቸውን አዳዲስ ባህሪያትን እያሰሰ ነው።</translation>
-<translation id="5224391634244552924">ምንም የተቀመጡ የይለፍ ቃላት የሉም። እርስዎ የይለፍ ቃላትዎን ሲያስቀምጧቸው Chromium መፈተሽ ይችላል።</translation>
-<translation id="5252179775517634216"><ph name="EXISTING_USER" /> አስቀድመው ወደዚህ የChromium መገለጫ ገብተዋል። ይህ አዲስ የChromium መገለጫ ለ<ph name="USER_EMAIL_ADDRESS" /> ይፈጥራል</translation>
-<translation id="5277894862589591112">የእርስዎን ለውጦች ተፈጻሚ ለማድረግ፣ Chromiumን ዳግም ያስጀምሩ</translation>
-<translation id="5296845517486664001">ሙከራዎች ሲበሩ እና Chromium በዘፈቀደ እርስዎን በገቢር ሙከራ ካስቀመጠ የአሰሳ ታሪክዎ በሚያዩዋቸው ማስታወቂያዎች እና ከታች በተገመተው ዝንባሌዎች ላይ ተጽዕኖ ይኖረዋል። የእርስዎን ግላዊነት ለመጠበቅ Chromium በየወሩ ዝንባሌዎችዎን ይሰርዛል።</translation>
-<translation id="5358375970380395591">በሚተዳደር መለያ እየገቡ ነው፣ እና አስተዳዳሪው በእርስዎ Chromium መገለጫ ላይ ቁጥጥር እየሰጡት ነው። እንደ እርስዎ  መተግበሪያዎች፣ ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮች ያሉ የእርስዎ Chromium ውሂብ እስከ መጨረሻው ከ<ph name="USER_NAME" /> ጋር የተያያዙ ይሆናሉ። ይህን ውሂብ በGoogle የመለያዎች Dashboard አማካኝነት ሊሰርዙት ይችላሉ፣ ነገር ግን ይህን ውሂብ ከሌላ መለያ ጋር ሊያጎዳኙት አይችሉም። <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">Chromiumን በማዘመን ላይ (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">የChromium በመለያ መግባትን ይፍቀዱ</translation>
-<translation id="5398878173008909840">አዲስ የChromium ስሪት አለ።</translation>
-<translation id="5405650547142096840">ከChromium አስወግድ</translation>
-<translation id="5421879995290576427">{0,plural, =0{Chromium አሁን ይዘጋል።}=1{Chromium በ1 ሰከንድ ውስጥ ይዘጋል።}one{Chromium በ# ሰከንድ ውስጥ ይዘጋል።}other{Chromium በ# ሰከንዶች ውስጥ ይዘጋል።}}</translation>
-<translation id="5427571867875391349">Chromium እንደ ነባሪ አሳሽዎ አድርገው ያዋቅሩት</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> - Chromium ቅድመ-ይሁንታ</translation>
-<translation id="5473971139929175403">በዚህ የLinux ስርጭት ላይ ከእንግዲህ ስለማይደገፍ Chromium በአግባቡ ላይሰራ ይችላል።</translation>
-<translation id="5480860683791598150">Chromium አካባቢዎን ለዚህ ጣቢያ ለማጋራት የአካባቢዎ መዳረሻ ያስፈልገዋል</translation>
-<translation id="5487574057737591516">የእርስዎን ግላዊነት ለመጠበቅ ከ4 ሳምንታት በላይ የቆዩ ዝንባሌዎችዎን በራስ-ሰር እንሰርዛለን። ማሰስዎን በሚቀጥሉበት ጊዜ ዝንባሌ እንደገና በዝርዝሩ ላይ ሊታይ ይችላል። እና Chromium ከተሳሳተ ወይም የተወሰኑ ማስታወቂያዎችን ማየት ካልፈለጉ ዝንባሌን ማስወገድ ይችላሉ።</translation>
-<translation id="549669000822060376">Chromium የቅርብ ጊዜዎቹ የስርዓቱ ዝማኔዎችን እስኪጭን ድረስ እባክዎ ይጠብቁ።</translation>
-<translation id="5496810170689441661">Chromium የይለፍ ቃላትን ለማርትዕ እየሞከረ ነው። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
-<translation id="5527463683072221100">PDFዎችን በChromium ውስጥ ክፈት</translation>
-<translation id="5614091477838198795">ሲበራ ከChromium ዘግተው እንዲወጡ ይደረጋሉ</translation>
-<translation id="5623402015214259806">{0,plural, =0{የChromium ዝማኔ ይገኛል}=1{የChromium ዝማኔ ይገኛል}one{አንድ የChromium ዝማኔ ለ# ቀኖች ነበር}other{አንድ የChromium ዝማኔ ለ# ቀኖች ነበር}}</translation>
-<translation id="5634636535844844681">Chromium Windows 7 ወይም ከዚያ በላይ ያስፈልገዋል።</translation>
-<translation id="5653831366781983928">እባክዎ Chromium ን አህን ዳግም ያስጀምሩ</translation>
-<translation id="5698481217667032250">Chromiumን በዚህ ቋንቋ አሳይ</translation>
-<translation id="5862307444128926510">ወደ Chromium እንኳን በደህና መጡ</translation>
-<translation id="5883558403894052917">Chromium እነዚህ ንጥሎች ተንኮል አዘል ዌር እንደያዙ አግኝቷል፦</translation>
+<translation id="6402416911698425675">WEB3 DNA Browser ለmDNS ትራፊክ ለመፍቀድ የውስጥ ደንብ።</translation>
+<translation id="5496148131599227635">&amp;WEB3 DNA Browserን ለማዘመን ዳግም ያስነሱት</translation>
+<translation id="3889712706226772861">WEB3 DNA Browser በጀርባ ሁነታ ላይ ነው።</translation>
+<translation id="5502939625951695202">እንግዳዎች ማንኛውንም ነገር ወደኋላ ሳይተዉ WEB3 DNA Browser መጠቀም ይችላሉ።</translation>
+<translation id="4935574428555172200">እራስዎን በWEB3 DNA Browser ላይ ያክሉ</translation>
+<translation id="60503244591890876">WEB3 DNA Browser ጣቢያዎች ያነሰ መረጃዎን ተጠቅመው ተመሳሳይ የአሰሳ ተሞክሮ እንዲያቀርቡ የሚያስችሏቸውን አዳዲስ ባህሪያትን እያሰሰ ነው።</translation>
+<translation id="282690038359289128">ምንም የተቀመጡ የይለፍ ቃላት የሉም። እርስዎ የይለፍ ቃላትዎን ሲያስቀምጧቸው WEB3 DNA Browser መፈተሽ ይችላል።</translation>
+<translation id="3588920839125338516"><ph name="EXISTING_USER" /> አስቀድመው ወደዚህ የWEB3 DNA Browser መገለጫ ገብተዋል። ይህ አዲስ የWEB3 DNA Browser መገለጫ ለ<ph name="USER_EMAIL_ADDRESS" /> ይፈጥራል</translation>
+<translation id="1712448899328197828">የእርስዎን ለውጦች ተፈጻሚ ለማድረግ፣ WEB3 DNA Browserን ዳግም ያስጀምሩ</translation>
+<translation id="5425968257754155673">ሙከራዎች ሲበሩ እና WEB3 DNA Browser በዘፈቀደ እርስዎን በገቢር ሙከራ ካስቀመጠ የአሰሳ ታሪክዎ በሚያዩዋቸው ማስታወቂያዎች እና ከታች በተገመተው ዝንባሌዎች ላይ ተጽዕኖ ይኖረዋል። የእርስዎን ግላዊነት ለመጠበቅ WEB3 DNA Browser በየወሩ ዝንባሌዎችዎን ይሰርዛል።</translation>
+<translation id="4715135477147720071">በሚተዳደር መለያ እየገቡ ነው፣ እና አስተዳዳሪው በእርስዎ WEB3 DNA Browser መገለጫ ላይ ቁጥጥር እየሰጡት ነው። እንደ እርስዎ  መተግበሪያዎች፣ ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮች ያሉ የእርስዎ WEB3 DNA Browser ውሂብ እስከ መጨረሻው ከ<ph name="USER_NAME" /> ጋር የተያያዙ ይሆናሉ። ይህን ውሂብ በGoogle የመለያዎች Dashboard አማካኝነት ሊሰርዙት ይችላሉ፣ ነገር ግን ይህን ውሂብ ከሌላ መለያ ጋር ሊያጎዳኙት አይችሉም። <ph name="LEARN_MORE" /></translation>
+<translation id="3959775081883542439">WEB3 DNA Browserን በማዘመን ላይ (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="8468846229743402892">የWEB3 DNA Browser በመለያ መግባትን ይፍቀዱ</translation>
+<translation id="868709743621506099">አዲስ የWEB3 DNA Browser ስሪት አለ።</translation>
+<translation id="8954902894032987165">ከWEB3 DNA Browser አስወግድ</translation>
+<translation id="8529594966625997901">{0,plural, =0{WEB3 DNA Browser አሁን ይዘጋል።}=1{WEB3 DNA Browser በ1 ሰከንድ ውስጥ ይዘጋል።}one{WEB3 DNA Browser በ# ሰከንድ ውስጥ ይዘጋል።}other{WEB3 DNA Browser በ# ሰከንዶች ውስጥ ይዘጋል።}}</translation>
+<translation id="2581842036863502750">WEB3 DNA Browser እንደ ነባሪ አሳሽዎ አድርገው ያዋቅሩት</translation>
+<translation id="2775837035201231287"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser ቅድመ-ይሁንታ</translation>
+<translation id="3342188394733679831">በዚህ የLinux ስርጭት ላይ ከእንግዲህ ስለማይደገፍ WEB3 DNA Browser በአግባቡ ላይሰራ ይችላል።</translation>
+<translation id="6744035239102820989">WEB3 DNA Browser አካባቢዎን ለዚህ ጣቢያ ለማጋራት የአካባቢዎ መዳረሻ ያስፈልገዋል</translation>
+<translation id="1336779017674457494">የእርስዎን ግላዊነት ለመጠበቅ ከ4 ሳምንታት በላይ የቆዩ ዝንባሌዎችዎን በራስ-ሰር እንሰርዛለን። ማሰስዎን በሚቀጥሉበት ጊዜ ዝንባሌ እንደገና በዝርዝሩ ላይ ሊታይ ይችላል። እና WEB3 DNA Browser ከተሳሳተ ወይም የተወሰኑ ማስታወቂያዎችን ማየት ካልፈለጉ ዝንባሌን ማስወገድ ይችላሉ።</translation>
+<translation id="5998903067774658363">WEB3 DNA Browser የቅርብ ጊዜዎቹ የስርዓቱ ዝማኔዎችን እስኪጭን ድረስ እባክዎ ይጠብቁ።</translation>
+<translation id="840929360644660930">WEB3 DNA Browser የይለፍ ቃላትን ለማርትዕ እየሞከረ ነው። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
+<translation id="7784374736068182823">PDFዎችን በWEB3 DNA Browser ውስጥ ክፈት</translation>
+<translation id="5825191796443441681">ሲበራ ከWEB3 DNA Browser ዘግተው እንዲወጡ ይደረጋሉ</translation>
+<translation id="2714796268816869066">{0,plural, =0{የWEB3 DNA Browser ዝማኔ ይገኛል}=1{የWEB3 DNA Browser ዝማኔ ይገኛል}one{አንድ የWEB3 DNA Browser ዝማኔ ለ# ቀኖች ነበር}other{አንድ የWEB3 DNA Browser ዝማኔ ለ# ቀኖች ነበር}}</translation>
+<translation id="685484431195180374">WEB3 DNA Browser Windows 7 ወይም ከዚያ በላይ ያስፈልገዋል።</translation>
+<translation id="8800866953688530873">እባክዎ WEB3 DNA Browser ን አህን ዳግም ያስጀምሩ</translation>
+<translation id="6138729568957684301">WEB3 DNA Browserን በዚህ ቋንቋ አሳይ</translation>
+<translation id="3263014421647076303">ወደ WEB3 DNA Browser እንኳን በደህና መጡ</translation>
+<translation id="5243775519569499373">WEB3 DNA Browser እነዚህ ንጥሎች ተንኮል አዘል ዌር እንደያዙ አግኝቷል፦</translation>
 <translation id="5895138241574237353">እንደገና ጀምር</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> - በአውታረ መረብ ወደ መለያ መግባት</translation>
 <translation id="5924017743176219022">ከበይነመረቡ ጋር በመገናኘት ላይ...</translation>
 <translation id="5941711191222866238">አሳንስ</translation>
-<translation id="5972142260211327093">Chromium በዘፈቀደ እርስዎን በገቢር ሙከራ ካስቀመጠ የአሰሳ ታሪክዎ በሚያዩዋቸው ማስታወቂያዎች እና ከታች በተገመተው ዝንባሌዎች ላይ ተጽዕኖ ይኖረዋል። የእርስዎን ግላዊነት ለመጠበቅ Chromium በየወሩ ዝንባሌዎችዎን ይሰርዛል። እርስዎ ካላስወገዷቸው በስተቀር ዝንባሌዎች ይታደሳሉ።</translation>
-<translation id="5987687638152509985">ስምረትን ለመጀመር Chromiumን ያዘምኑ</translation>
-<translation id="5988505247484123880">የሚጎበኟቸው ጣቢያዎች ልምድዎን ግላዊነት ማላበስ እንዲችሉ እርስዎ የሚፈልጓቸውን ነገሮች ማስታወስ የተለመደ ነው። እንዲሁም ጣቢያዎች ስለዝንባሌዎችዎ መረጃን በChromium አማካኝነት ማከማቸት ይችላሉ።</translation>
+<translation id="3298053682358110562">WEB3 DNA Browser በዘፈቀደ እርስዎን በገቢር ሙከራ ካስቀመጠ የአሰሳ ታሪክዎ በሚያዩዋቸው ማስታወቂያዎች እና ከታች በተገመተው ዝንባሌዎች ላይ ተጽዕኖ ይኖረዋል። የእርስዎን ግላዊነት ለመጠበቅ WEB3 DNA Browser በየወሩ ዝንባሌዎችዎን ይሰርዛል። እርስዎ ካላስወገዷቸው በስተቀር ዝንባሌዎች ይታደሳሉ።</translation>
+<translation id="692313353224514675">ስምረትን ለመጀመር WEB3 DNA Browserን ያዘምኑ</translation>
+<translation id="616886729690540411">የሚጎበኟቸው ጣቢያዎች ልምድዎን ግላዊነት ማላበስ እንዲችሉ እርስዎ የሚፈልጓቸውን ነገሮች ማስታወስ የተለመደ ነው። እንዲሁም ጣቢያዎች ስለዝንባሌዎችዎ መረጃን በWEB3 DNA Browser አማካኝነት ማከማቸት ይችላሉ።</translation>
 <translation id="6003112304606738118">በማውረድ ላይ... <ph name="HOURS" /> ሰዓት(ታት) ይቀራል(ሉ)</translation>
 <translation id="6040143037577758943">ዝጋ</translation>
-<translation id="6055895534982063517">አዲስ የChromium ስሪት ይገኛል፣ እና ከመቼውም በበለጠ ፈጣን ሆኗል።</translation>
-<translation id="6063093106622310249">በChromium ውስጥ &amp;ክፈት</translation>
-<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> ወደ Chromium ታክሏል።</translation>
-<translation id="6072463441809498330">Chromiumን የበለጠ ፈጣን ያድርጉት</translation>
+<translation id="6530764363503202587">አዲስ የWEB3 DNA Browser ስሪት ይገኛል፣ እና ከመቼውም በበለጠ ፈጣን ሆኗል።</translation>
+<translation id="9118683902399158578">በWEB3 DNA Browser ውስጥ &amp;ክፈት</translation>
+<translation id="6636913786172654081"><ph name="EXTENSION_NAME" /> ወደ WEB3 DNA Browser ታክሏል።</translation>
+<translation id="8335626147292265662">WEB3 DNA Browserን የበለጠ ፈጣን ያድርጉት</translation>
 <translation id="608006075545470555">የስራ መገለጫ ወደዚህ አሳሽ ያክሉ</translation>
-<translation id="6096348254544841612">Chromiumን ያብጁትና ይቆጣጠሩት። ዝማኔ ይገኛል።</translation>
-<translation id="6119438414301547735">ቅጥያ በChromium የመሣሪያ አሞሌ ውስጥ የመዳረሻ ጥያቄዎችን እንዲያሳይ ፍቀድ</translation>
-<translation id="6120345080069858279">Chromium ይህን የይለፍ ቃል በእርስዎ የGoogle መለያ ውስጥ ያስቀምጠዋል። ማስታወስ አይኖርብዎትም።</translation>
-<translation id="6129621093834146363"><ph name="FILE_NAME" /> አደገኛ ነው፣ ስለዚህ Chromium አግዶታል።</translation>
-<translation id="6134968993075716475">የጥንቃቄ አሰሳ ጠፍቷል። Chromium እንዲያበሩት ይመክራል።</translation>
-<translation id="6145820983052037069">እዚህ በChromium መገለጫዎች መካከል መቀያየር ይችላሉ</translation>
-<translation id="6183079672144801177">በእርስዎ <ph name="TARGET_DEVICE_NAME" /> ላይ በመለያ ወደ Chromium መግባትዎን ያረጋግጡ እና እንደገና ለመላክ ይሞክሩ።</translation>
-<translation id="6212496753309875659">ይህ ኮምፒውተር አስቀድሞ ይበልጥ አዲስ የሆነ የChromium ስሪት አለው። ሶፍትዌሩ የማይሰራ ከሆነ እባክዎ Chromiumን ያራግፉና እንደገና ይሞክሩ።</translation>
-<translation id="6219195342503754812">{0,plural, =0{Chromium አሁን ዳግም ይጀመራል}=1{Chromium በ1 ሰከንድ ውስጥ ዳግም ይጀመራል}one{Chromium በ# ሰከንዶች ውስጥ ዳግም ይጀመራል}other{Chromium በ# ሰከንዶች ውስጥ ዳግም ይጀመራል}}</translation>
-<translation id="6241367896540709610">Chromium ፋይሎችን ለማውረድ የማከማቻ መዳረሻ ፈቃድ ያስፈልገዋል</translation>
-<translation id="6245734527075554892">በChromium ላይ በተከማቹ ደህንነታቸው ያልተጠበቁ ጣቢያዎች ዝርዝር ጋር ዩአርኤሎችን ይፈትሻል</translation>
-<translation id="6248213926982192922">Chromium ነባሪውን አሳሽ ያድርጉ።</translation>
-<translation id="6266342355635466082">Chromium ዝማኔዎችን መፈተሽ አይችልም። የበይነመረብ ግንኙነትዎን ለመፈተሽ ይሞክሩ።</translation>
-<translation id="6268381023930128611">ከChromium ተዘግቶ ይውጣ?</translation>
+<translation id="584202866735675117">WEB3 DNA Browserን ያብጁትና ይቆጣጠሩት። ዝማኔ ይገኛል።</translation>
+<translation id="7117732708950464239">ቅጥያ በWEB3 DNA Browser የመሣሪያ አሞሌ ውስጥ የመዳረሻ ጥያቄዎችን እንዲያሳይ ፍቀድ</translation>
+<translation id="5619841049631523040">WEB3 DNA Browser ይህን የይለፍ ቃል በእርስዎ የGoogle መለያ ውስጥ ያስቀምጠዋል። ማስታወስ አይኖርብዎትም።</translation>
+<translation id="6208909969393126843"><ph name="FILE_NAME" /> አደገኛ ነው፣ ስለዚህ WEB3 DNA Browser አግዶታል።</translation>
+<translation id="3631145753627335779">የጥንቃቄ አሰሳ ጠፍቷል። WEB3 DNA Browser እንዲያበሩት ይመክራል።</translation>
+<translation id="5305820434154384954">እዚህ በWEB3 DNA Browser መገለጫዎች መካከል መቀያየር ይችላሉ</translation>
+<translation id="3213257950272370797">በእርስዎ <ph name="TARGET_DEVICE_NAME" /> ላይ በመለያ ወደ WEB3 DNA Browser መግባትዎን ያረጋግጡ እና እንደገና ለመላክ ይሞክሩ።</translation>
+<translation id="4829390996077196027">ይህ ኮምፒውተር አስቀድሞ ይበልጥ አዲስ የሆነ የWEB3 DNA Browser ስሪት አለው። ሶፍትዌሩ የማይሰራ ከሆነ እባክዎ WEB3 DNA Browserን ያራግፉና እንደገና ይሞክሩ።</translation>
+<translation id="1584253311175653367">{0,plural, =0{WEB3 DNA Browser አሁን ዳግም ይጀመራል}=1{WEB3 DNA Browser በ1 ሰከንድ ውስጥ ዳግም ይጀመራል}one{WEB3 DNA Browser በ# ሰከንዶች ውስጥ ዳግም ይጀመራል}other{WEB3 DNA Browser በ# ሰከንዶች ውስጥ ዳግም ይጀመራል}}</translation>
+<translation id="2125787073718346702">WEB3 DNA Browser ፋይሎችን ለማውረድ የማከማቻ መዳረሻ ፈቃድ ያስፈልገዋል</translation>
+<translation id="7121868166864824169">በWEB3 DNA Browser ላይ በተከማቹ ደህንነታቸው ያልተጠበቁ ጣቢያዎች ዝርዝር ጋር ዩአርኤሎችን ይፈትሻል</translation>
+<translation id="4611945660893475598">WEB3 DNA Browser ነባሪውን አሳሽ ያድርጉ።</translation>
+<translation id="5093746667503154407">WEB3 DNA Browser ዝማኔዎችን መፈተሽ አይችልም። የበይነመረብ ግንኙነትዎን ለመፈተሽ ይሞክሩ።</translation>
+<translation id="3169777041995452544">ከWEB3 DNA Browser ተዘግቶ ይውጣ?</translation>
 <translation id="6273793429163604305">በቦታህ ተገኝ...</translation>
-<translation id="6281746429495226318">የChromium መገለጫዎን ያብጁ</translation>
-<translation id="6290827346642914212">የChromium መገለጫዎን ይሰይሙ</translation>
-<translation id="6295779123002464101"><ph name="FILE_NAME" /> አደገኛ ሊሆን ስለሚችል Chromium አግዶታል።</translation>
-<translation id="6309712487085796862">Chromium ካሜራዎን እየተጠቀመ ነው።</translation>
-<translation id="632355235628111698">Chromium ይህ ፋይል አደገኛ ስለሆነ አግዶታል</translation>
+<translation id="6865466134977675861">የWEB3 DNA Browser መገለጫዎን ያብጁ</translation>
+<translation id="3066241024811585202">የWEB3 DNA Browser መገለጫዎን ይሰይሙ</translation>
+<translation id="4551717314122756729"><ph name="FILE_NAME" /> አደገኛ ሊሆን ስለሚችል WEB3 DNA Browser አግዶታል።</translation>
+<translation id="3046912207030099554">WEB3 DNA Browser ካሜራዎን እየተጠቀመ ነው።</translation>
+<translation id="6384166038402983055">WEB3 DNA Browser ይህ ፋይል አደገኛ ስለሆነ አግዶታል</translation>
 <translation id="6327105987658262776">ምንም ዝማኔ የለም።</translation>
-<translation id="6333502561965082103">ሌላ ሥርዓተ ክወና በChromium ላይ በሂደት ላይ ነው። እባክዎ ቆይተው እንደገና ይሞክሩ።</translation>
-<translation id="6334986366598267305">አሁን Chromiumን ከGoogle መለያዎ ጋር እና በተጋሩ ኮምፒውተሮች ላይ መጠቀም ይበልጥ ቀላል ነው።</translation>
-<translation id="6373523479360886564">እርግጠኛ ነዎት Chromiumን ማራገፍ ይፈልጋሉ?</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />ይህን ውሂብ እንዴት እንደምንጠቀምበት፦<ph name="END_BOLD" /> Chromium የእርስዎን ዝንባሌዎች ሊገምት ይችላል። በኋላ ላይ እርስዎ የሚጎበኙት ጣቢያ እርስዎ የሚያዩዋቸውን ማስታወቂያዎች ግላዊነት ለማላበስ Chromium ዝንባሌዎችዎን እንዲያይ ሊጠይቅ ይችላል።</translation>
-<translation id="6403826409255603130">Chromium ድረ-ገጾችን እና መተግበሪያዎችን እጅግ በጣም ፈጣን በሆነ ፍጥነት የሚያሄድ ድር አሳሽ ነው። ፈጣን፣ የረጋ እና ለመጠቀም ቀላል ነው። Chromium ውስጥ አብሮ በተሰራላቸው የተንኮል-አዘል ሶፍትዌር እና የማስገሪያ መከላከያዎች አማካኝነት ደህንነትዎ ይበልጥ በተጠበቀ ሁኔታ ድሩን ያስሱ።</translation>
+<translation id="1452531430459107501">ሌላ ሥርዓተ ክወና በWEB3 DNA Browser ላይ በሂደት ላይ ነው። እባክዎ ቆይተው እንደገና ይሞክሩ።</translation>
+<translation id="5949643712250952992">አሁን WEB3 DNA Browserን ከGoogle መለያዎ ጋር እና በተጋሩ ኮምፒውተሮች ላይ መጠቀም ይበልጥ ቀላል ነው።</translation>
+<translation id="3428207813941614733">እርግጠኛ ነዎት WEB3 DNA Browserን ማራገፍ ይፈልጋሉ?</translation>
+<translation id="8367277764281804913"><ph name="BEGIN_BOLD" />ይህን ውሂብ እንዴት እንደምንጠቀምበት፦<ph name="END_BOLD" /> WEB3 DNA Browser የእርስዎን ዝንባሌዎች ሊገምት ይችላል። በኋላ ላይ እርስዎ የሚጎበኙት ጣቢያ እርስዎ የሚያዩዋቸውን ማስታወቂያዎች ግላዊነት ለማላበስ WEB3 DNA Browser ዝንባሌዎችዎን እንዲያይ ሊጠይቅ ይችላል።</translation>
+<translation id="3646769559663834227">WEB3 DNA Browser ድረ-ገጾችን እና መተግበሪያዎችን እጅግ በጣም ፈጣን በሆነ ፍጥነት የሚያሄድ ድር አሳሽ ነው። ፈጣን፣ የረጋ እና ለመጠቀም ቀላል ነው። WEB3 DNA Browser ውስጥ አብሮ በተሰራላቸው የተንኮል-አዘል ሶፍትዌር እና የማስገሪያ መከላከያዎች አማካኝነት ደህንነትዎ ይበልጥ በተጠበቀ ሁኔታ ድሩን ያስሱ።</translation>
 <translation id="6442900851116057561">ChromiumOSን ዳግም አስጀምር</translation>
-<translation id="6455857529632101747">ወደ Chromium መገለጫዎች እንኳን በደህና መጡ</translation>
-<translation id="6457450909262716557">{SECONDS,plural, =1{Chromium በ1 ሰከንድ ውስጥ ዳግም ይጀምራል}one{Chromium በ# ሰከንዶች ውስጥ ዳግም ይጀምራል}other{Chromium በ# ሰከንዶች ውስጥ ዳግም ይጀምራል}}</translation>
-<translation id="6475912303565314141">እንዲሁም Chromiumን ሲጀምሩት የሚታየውን ገጽ ይቆጣጠራል።</translation>
-<translation id="6510925080656968729">Chromiumን ያራግፉ</translation>
-<translation id="6542839706527980775">እያንዳንዱ መገለጫ እንደ ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎችም ያሉ የራሱ የChromium መረጃዎችን ይይዛል</translation>
-<translation id="6570579332384693436">የሥርዓተ ፊደል አጻጻፍ ስህተቶችን ለማስተካከል፣ Chromium እርስዎ በጽሁፍ መስኮች ውስጥ የሚተይቡትን ጽሁፍ ወደ Google ይልካል</translation>
-<translation id="6598877126913850652">ወደ የChromium ማሳወቂያ ቅንብሮች ይሂዱ</translation>
-<translation id="6613594504749178791">ለውጦችዎ Chromium በሚያስጀምሩበት ቀጣዩ ጊዜ ላይ ይተገበራሉ።</translation>
-<translation id="665732753414869868">Chromium የዙሪያዎን የ3ል ካርታ ለመፍጠር የካሜራ ፈቃድ ያስፈልገዋል</translation>
+<translation id="4806322893637813344">ወደ WEB3 DNA Browser መገለጫዎች እንኳን በደህና መጡ</translation>
+<translation id="3150453102283643478">{SECONDS,plural, =1{WEB3 DNA Browser በ1 ሰከንድ ውስጥ ዳግም ይጀምራል}one{WEB3 DNA Browser በ# ሰከንዶች ውስጥ ዳግም ይጀምራል}other{WEB3 DNA Browser በ# ሰከንዶች ውስጥ ዳግም ይጀምራል}}</translation>
+<translation id="6475912303565314141">እንዲሁም WEB3 DNA Browserን ሲጀምሩት የሚታየውን ገጽ ይቆጣጠራል።</translation>
+<translation id="1113676425111919541">WEB3 DNA Browserን ያራግፉ</translation>
+<translation id="4127557045835948655">እያንዳንዱ መገለጫ እንደ ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎችም ያሉ የራሱ የWEB3 DNA Browser መረጃዎችን ይይዛል</translation>
+<translation id="82412484113149506">የሥርዓተ ፊደል አጻጻፍ ስህተቶችን ለማስተካከል፣ WEB3 DNA Browser እርስዎ በጽሁፍ መስኮች ውስጥ የሚተይቡትን ጽሁፍ ወደ Google ይልካል</translation>
+<translation id="1041508100495026545">ወደ የWEB3 DNA Browser ማሳወቂያ ቅንብሮች ይሂዱ</translation>
+<translation id="8823298025665339355">ለውጦችዎ WEB3 DNA Browser በሚያስጀምሩበት ቀጣዩ ጊዜ ላይ ይተገበራሉ።</translation>
+<translation id="2513279141152484388">WEB3 DNA Browser የዙሪያዎን የ3ል ካርታ ለመፍጠር የካሜራ ፈቃድ ያስፈልገዋል</translation>
 <translation id="6676384891291319759">በይነመረብን ተዳረስ</translation>
 <translation id="668175097507315160">በመለያ ሲገባ በነበረ ስህተት ምክንያት &amp;ChromiumOS ውሂብዎን ማስመር አልቻለም።</translation>
-<translation id="6709350901466051922">Chromium ለዚህ ጣቢያ የማይክሮፎን ፈቃድ ያስፈልገዋል</translation>
-<translation id="6717134281241384636">መገለጫዎ ከአዲስ የChromium ስሪት ስለሆነ የመጣው ስራ ላይ ሊውል አይችልም።
+<translation id="3485439540953416536">WEB3 DNA Browser ለዚህ ጣቢያ የማይክሮፎን ፈቃድ ያስፈልገዋል</translation>
+<translation id="3898949707616141056">መገለጫዎ ከአዲስ የWEB3 DNA Browser ስሪት ስለሆነ የመጣው ስራ ላይ ሊውል አይችልም።
 
-አንዳንድ ባህሪያት ላይገኙ ይችላሉ። እባክዎ የተለየ የመገለጫ አቃፊ ይግለጹ ወይም ይበልጥ አዲስ የሆነ የChromium ስሪት ይጠቀሙ።</translation>
-<translation id="6730677189742196061">የማህደረ ትውስታ ቆጣቢ Chromiumን ፈጣን አድርጎታል</translation>
-<translation id="6734291798041940871">Chromium ለሁሉም በእርስዎ ኮምፒውተር ላይ ላሉ ተጠቃሚዎች አስቀድሞ ተጭኗል።</translation>
-<translation id="673636774878526923">በሁሉም መሣሪያዎችዎ ላይ የእርስዎን Chromium ነገሮች ለመድረስ ይግቡ፣ ከዚያ ስምረትን ያብሩ።</translation>
-<translation id="6774082503108938489">የእርስዎ ወላጅ ለChromium «የጣቢያዎች፣ መተግበሪያዎች እና ቅጥያዎች ፈቃዶች»ን አጥፍተዋል። ይህን <ph name="EXTENSION_TYPE_PARAMETER" /> ማንቃት አይፈቀድም።</translation>
+አንዳንድ ባህሪያት ላይገኙ ይችላሉ። እባክዎ የተለየ የመገለጫ አቃፊ ይግለጹ ወይም ይበልጥ አዲስ የሆነ የWEB3 DNA Browser ስሪት ይጠቀሙ።</translation>
+<translation id="2841305420532702376">የማህደረ ትውስታ ቆጣቢ WEB3 DNA Browserን ፈጣን አድርጎታል</translation>
+<translation id="4553621150701650138">WEB3 DNA Browser ለሁሉም በእርስዎ ኮምፒውተር ላይ ላሉ ተጠቃሚዎች አስቀድሞ ተጭኗል።</translation>
+<translation id="3957858324423880626">በሁሉም መሣሪያዎችዎ ላይ የእርስዎን WEB3 DNA Browser ነገሮች ለመድረስ ይግቡ፣ ከዚያ ስምረትን ያብሩ።</translation>
+<translation id="1489635928648141251">የእርስዎ ወላጅ ለWEB3 DNA Browser «የጣቢያዎች፣ መተግበሪያዎች እና ቅጥያዎች ፈቃዶች»ን አጥፍተዋል። ይህን <ph name="EXTENSION_TYPE_PARAMETER" /> ማንቃት አይፈቀድም።</translation>
 <translation id="6779406956731413166">ChromiumOS በተጨማሪ <ph name="BEGIN_LINK_CROS_OSS" />ክፍት ምንጭ ሶፍትዌር<ph name="END_LINK_CROS_OSS" /> እውን ሊሆን ችሏል።</translation>
-<translation id="6847869444787758381">Chromium የእርስዎ የይለፍ ቃላት ከተነጠቁ እርስዎ እንዲያውቁት ያደርግዎታል</translation>
-<translation id="6852530923436401894">ይህ ፋይል ተንኮል-አዘል ዌር ስላለው Chromium አግዶታል</translation>
-<translation id="6857782730669500492">Chromium - <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">Google Pay (ወደ Chromium ተቀድቷል)</translation>
-<translation id="6873893289264747459">Chromium «<ph name="EXTENSION_NAME" />» ተንኮል አዘል ዌር እንደያዘ አግኝቷል</translation>
-<translation id="6893813176749746474">Chromium ተዘምኗል፣ ግን ቢያንስ ለ30 ቀኖች አልተጠቀሙበትም።</translation>
-<translation id="691026815377248078">Chromium ማጣመርን ለመቀጠል የብሉቱዝ መዳረሻ ያስፈልገዋል። <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">ሙከራዎች ሲበሩ የማስታወቂያ ልኬት እርስዎ የሚጎበኟቸው ጣቢያዎች የማስታወቂያዎቻቸውን አፈጻጸም የሚለካው ጣቢያ የሚያግዘውን መረጃ ከChromium እንዲጠይቁ ያስችላቸዋል። የማስታወቂያ ልኬት በተቻለ መጠን ትንሽ መረጃን በጣቢያዎች መካከል በማስተላለፍ የጣቢያ ተሻጋሪ ክትትልን ይገድባል።</translation>
-<translation id="6940431691900807093">በኋላ ላይ እርስዎ የሚጎበኙት ጣቢያ እርስዎ የሚያዩዋቸውን ማስታወቂያዎች ግላዊነት ለማላበስ Chromium ዝንባሌዎችዎን እንዲያይ ሊጠይቅ ይችላል። Chromium እስከ 3 ዝንባሌዎች ድረስ ማጋራት ይችላል።</translation>
-<translation id="6964305034639999644">አገናኙን በChromium ማን&amp;ነትን በማያሳውቅ መስኮት ውስጥ ክፈት</translation>
-<translation id="6978145336957848883">ደካማ የይለፍ ቃላት ለመገመት ቀላል ናቸው። Chromium <ph name="BEGIN_LINK" /> ለእርስዎ ጠንካራ የይለፍ ቃላትን እንዲፈጥር እና እንዲያስታውስ<ph name="END_LINK" /> ይፍቀዱ።</translation>
-<translation id="6984667024406244807">Chromium ገቢር አልሆነም</translation>
+<translation id="6798439930306865443">WEB3 DNA Browser የእርስዎ የይለፍ ቃላት ከተነጠቁ እርስዎ እንዲያውቁት ያደርግዎታል</translation>
+<translation id="877665203225711835">ይህ ፋይል ተንኮል-አዘል ዌር ስላለው WEB3 DNA Browser አግዶታል</translation>
+<translation id="7732765206800238484">WEB3 DNA Browser - <ph name="PAGE_TITLE" /></translation>
+<translation id="2089740034323086528">Google Pay (ወደ WEB3 DNA Browser ተቀድቷል)</translation>
+<translation id="2329130305935541101">WEB3 DNA Browser «<ph name="EXTENSION_NAME" />» ተንኮል አዘል ዌር እንደያዘ አግኝቷል</translation>
+<translation id="2947483933825476413">WEB3 DNA Browser ተዘምኗል፣ ግን ቢያንስ ለ30 ቀኖች አልተጠቀሙበትም።</translation>
+<translation id="8828344991758417694">WEB3 DNA Browser ማጣመርን ለመቀጠል የብሉቱዝ መዳረሻ ያስፈልገዋል። <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
+<translation id="9067852028442542655">ሙከራዎች ሲበሩ የማስታወቂያ ልኬት እርስዎ የሚጎበኟቸው ጣቢያዎች የማስታወቂያዎቻቸውን አፈጻጸም የሚለካው ጣቢያ የሚያግዘውን መረጃ ከWEB3 DNA Browser እንዲጠይቁ ያስችላቸዋል። የማስታወቂያ ልኬት በተቻለ መጠን ትንሽ መረጃን በጣቢያዎች መካከል በማስተላለፍ የጣቢያ ተሻጋሪ ክትትልን ይገድባል።</translation>
+<translation id="6638774777596425412">በኋላ ላይ እርስዎ የሚጎበኙት ጣቢያ እርስዎ የሚያዩዋቸውን ማስታወቂያዎች ግላዊነት ለማላበስ WEB3 DNA Browser ዝንባሌዎችዎን እንዲያይ ሊጠይቅ ይችላል። WEB3 DNA Browser እስከ 3 ዝንባሌዎች ድረስ ማጋራት ይችላል።</translation>
+<translation id="1618581910910744310">አገናኙን በWEB3 DNA Browser ማን&amp;ነትን በማያሳውቅ መስኮት ውስጥ ክፈት</translation>
+<translation id="1141174083986936166">ደካማ የይለፍ ቃላት ለመገመት ቀላል ናቸው። WEB3 DNA Browser <ph name="BEGIN_LINK" /> ለእርስዎ ጠንካራ የይለፍ ቃላትን እንዲፈጥር እና እንዲያስታውስ<ph name="END_LINK" /> ይፍቀዱ።</translation>
+<translation id="1422439798626251044">WEB3 DNA Browser ገቢር አልሆነም</translation>
 <translation id="6985329841647292029">የChromiumOS ውል</translation>
-<translation id="6990124437352146030">Chromium ለዚህ ጣቢያ የእርስዎን ማይክሮፎን ለመድረስ ፈቃድ ያስፈልገዋል</translation>
+<translation id="8045464583440265694">WEB3 DNA Browser ለዚህ ጣቢያ የእርስዎን ማይክሮፎን ለመድረስ ፈቃድ ያስፈልገዋል</translation>
 <translation id="7025789849649390912">መጫኑ ቆሟል።</translation>
-<translation id="705851970750939768">Chromiumን አዘምን</translation>
-<translation id="7067091210845072982">አንድ ምስል ጠቃሚ መግለጫ ከሌለው Chromium ለእርስዎ አንድ ለማቅረብ ይሞክራል። ዝርዝር መግለጫዎችን ለመፍጠር፣ ምስሎች ወደ Google ይላካሉ።</translation>
-<translation id="718435575166326686">Chromium ለዚህ ጣቢያ የካሜራ ፈቃድ ያስፈልገዋል</translation>
-<translation id="7196312274710523067">Chromiumን ማስጀመር አልተቻለም። እንደገና ይሞክሩ።</translation>
-<translation id="7197677400338048821">Chromium የእርስዎን የይለፍ ቃላት መፈተሽ አይችልም። ከ24 ሰዓቶች በኋላ እንደገና ይሞክሩ።</translation>
-<translation id="7218568399872925918">እርስዎ የጎበኟቸው ጣቢያዎች Chromiumን እስኪዘጉ ድረስ መረጃዎን ያስታውሳሉ</translation>
-<translation id="7223968959479464213">ተግባር መሪ - Chromium</translation>
-<translation id="7246575524853130370">በChromium የተገመቱ የእርስዎ ዝንባሌዎች</translation>
-<translation id="7309928523159922338">የማስታወቂያ ልኬት እርስዎ የሚጎበኟቸው ጣቢያዎች የማስታወቂያዎቻቸውን አፈጻጸም የሚለካው ጣቢያ የሚያግዘውን መረጃ ከChromium እንዲጠይቁ ያስችላቸዋል። የማስታወቂያ ልኬት በተቻለ መጠን ትንሽ መረጃን በጣቢያዎች መካከል በማስተላለፍ የጣቢያ ተሻጋሪ ክትትልን ይገድባል።</translation>
-<translation id="731795002583552498">Chromiumን በማዘመን ላይ...</translation>
-<translation id="7318036098707714271">የምርጫዎች ፋይልዎ የተበላሸ ወይም ልክ ያልሆነ ነው።
+<translation id="475843105037256922">WEB3 DNA Browserን አዘምን</translation>
+<translation id="326486748351990910">አንድ ምስል ጠቃሚ መግለጫ ከሌለው WEB3 DNA Browser ለእርስዎ አንድ ለማቅረብ ይሞክራል። ዝርዝር መግለጫዎችን ለመፍጠር፣ ምስሎች ወደ Google ይላካሉ።</translation>
+<translation id="5618043080831675837">WEB3 DNA Browser ለዚህ ጣቢያ የካሜራ ፈቃድ ያስፈልገዋል</translation>
+<translation id="6831720849639347633">WEB3 DNA Browserን ማስጀመር አልተቻለም። እንደገና ይሞክሩ።</translation>
+<translation id="7914905542208857296">WEB3 DNA Browser የእርስዎን የይለፍ ቃላት መፈተሽ አይችልም። ከ24 ሰዓቶች በኋላ እንደገና ይሞክሩ።</translation>
+<translation id="2219572028161280443">እርስዎ የጎበኟቸው ጣቢያዎች WEB3 DNA Browserን እስኪዘጉ ድረስ መረጃዎን ያስታውሳሉ</translation>
+<translation id="3988179273882088670">ተግባር መሪ - WEB3 DNA Browser</translation>
+<translation id="8082426603469914763">በWEB3 DNA Browser የተገመቱ የእርስዎ ዝንባሌዎች</translation>
+<translation id="3791422786486318548">የማስታወቂያ ልኬት እርስዎ የሚጎበኟቸው ጣቢያዎች የማስታወቂያዎቻቸውን አፈጻጸም የሚለካው ጣቢያ የሚያግዘውን መረጃ ከWEB3 DNA Browser እንዲጠይቁ ያስችላቸዋል። የማስታወቂያ ልኬት በተቻለ መጠን ትንሽ መረጃን በጣቢያዎች መካከል በማስተላለፍ የጣቢያ ተሻጋሪ ክትትልን ይገድባል።</translation>
+<translation id="3826673197841439968">WEB3 DNA Browserን በማዘመን ላይ...</translation>
+<translation id="3105300744480734014">የምርጫዎች ፋይልዎ የተበላሸ ወይም ልክ ያልሆነ ነው።
 
-Chromium ቅንብሮችዎን ማስመለስ አልቻለም።</translation>
-<translation id="7337881442233988129">Chromium</translation>
+WEB3 DNA Browser ቅንብሮችዎን ማስመለስ አልቻለም።</translation>
+<translation id="4691707200828155405">WEB3 DNA Browser</translation>
 <translation id="7339898014177206373">አዲሰ መስኮት</translation>
-<translation id="734373864078049451">የእርስዎ ድር፣ ዕልባቶች እና ሌሎች የChromium ነገሮች እዚህ ይኖራሉ።</translation>
-<translation id="7349591376906416160">የእርስዎ ስርዓት አስተዳዳሪ Chromium <ph name="TARGET_URL_HOSTNAME" />ን ለመድረስ <ph name="ALTERNATIVE_BROWSER_NAME" />ን እንዲከፍት አዋቅሮታል።</translation>
-<translation id="7398989605938454041">በChromium መገለጫዎች ሁሉንም የChromium ነገሮችዎን መለየት ይችላሉ። ይህ በስራ እና በመዝናኛ መካከል መከፋፈልን ቀላል ያደርገዋል።</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> - Chromium ግንባታ</translation>
-<translation id="7451052299415159299">Chromium ለዚህ ጣቢያ የእርስዎን ካሜራ ለመድረስ ፈቃድ ያስፈልገዋል</translation>
-<translation id="7461356015007898716">የወደፊት የChromium ዝማኔዎችን ለማግኘት Windows 10 ወይም ከዚያ በላይ ያስፈልግዎታል። ይህ ኮምፒውተር Windows 7ን እየተጠቀመ ነው።</translation>
-<translation id="7467949745582939695">Chromium ዳግም ይጀመር?</translation>
-<translation id="7483335560992089831">እየሄደ ያለውን ተመሳሳዩን የChromium ስሪት መጫን አይቻልም። እባክዎ Chromiumን ይዝጉና እንደገና ይሞክሩ።</translation>
-<translation id="753534427205733210">{0,plural, =1{Chromium በ1 ደቂቃ ውስጥ ዳግም ይጀመራል}one{Chromium በ# ደቂቃዎች ውስጥ ዳግም ይጀመራል}other{Chromium በ# ደቂቃዎች ውስጥ ዳግም ይጀመራል}}</translation>
-<translation id="7561906087460245826">በተጨማሪ ከChromium (<ph name="URL" />) ውሂብን አጽዳ</translation>
-<translation id="7582945390259497898">Chromium የእርስዎን ፍላጎቶች ሊገምት ይችላል። በኋላ ላይ እርስዎ የሚጎበኙት ጣቢያ እርስዎ የሚያዩዋቸውን ማስታወቂያዎች ግላዊነት ለማላበስ Chromium ዝንባሌዎችዎን እንዲያይ ሊጠይቅ ይችላል።</translation>
+<translation id="866415121309420782">የእርስዎ ድር፣ ዕልባቶች እና ሌሎች የWEB3 DNA Browser ነገሮች እዚህ ይኖራሉ።</translation>
+<translation id="2516718275146731816">የእርስዎ ስርዓት አስተዳዳሪ WEB3 DNA Browser <ph name="TARGET_URL_HOSTNAME" />ን ለመድረስ <ph name="ALTERNATIVE_BROWSER_NAME" />ን እንዲከፍት አዋቅሮታል።</translation>
+<translation id="5218043865814307173">በWEB3 DNA Browser መገለጫዎች ሁሉንም የWEB3 DNA Browser ነገሮችዎን መለየት ይችላሉ። ይህ በስራ እና በመዝናኛ መካከል መከፋፈልን ቀላል ያደርገዋል።</translation>
+<translation id="5690617926609878272"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser ግንባታ</translation>
+<translation id="3479625329890795142">WEB3 DNA Browser ለዚህ ጣቢያ የእርስዎን ካሜራ ለመድረስ ፈቃድ ያስፈልገዋል</translation>
+<translation id="3327138471292503109">የወደፊት የWEB3 DNA Browser ዝማኔዎችን ለማግኘት Windows 10 ወይም ከዚያ በላይ ያስፈልግዎታል። ይህ ኮምፒውተር Windows 7ን እየተጠቀመ ነው።</translation>
+<translation id="570029382864869633">WEB3 DNA Browser ዳግም ይጀመር?</translation>
+<translation id="7081567920020845898">እየሄደ ያለውን ተመሳሳዩን የWEB3 DNA Browser ስሪት መጫን አይቻልም። እባክዎ WEB3 DNA Browserን ይዝጉና እንደገና ይሞክሩ።</translation>
+<translation id="2308694661846361163">{0,plural, =1{WEB3 DNA Browser በ1 ደቂቃ ውስጥ ዳግም ይጀመራል}one{WEB3 DNA Browser በ# ደቂቃዎች ውስጥ ዳግም ይጀመራል}other{WEB3 DNA Browser በ# ደቂቃዎች ውስጥ ዳግም ይጀመራል}}</translation>
+<translation id="7403013663461228352">በተጨማሪ ከWEB3 DNA Browser (<ph name="URL" />) ውሂብን አጽዳ</translation>
+<translation id="5628570284195611526">WEB3 DNA Browser የእርስዎን ፍላጎቶች ሊገምት ይችላል። በኋላ ላይ እርስዎ የሚጎበኙት ጣቢያ እርስዎ የሚያዩዋቸውን ማስታወቂያዎች ግላዊነት ለማላበስ WEB3 DNA Browser ዝንባሌዎችዎን እንዲያይ ሊጠይቅ ይችላል።</translation>
 <translation id="7583399374488819119"><ph name="COMPANY_NAME" /> ጫኝ</translation>
-<translation id="7597596667193879455">የተሻሻለ የደህንነት አሰሳን በእርስዎ መለያ ውስጥ አብርተዋል። አሁን ለChromium ያግኙት።</translation>
-<translation id="761356813943268536">Chromium ካሜራዎን እና ማይክሮፎንዎን እየተጠቀመ ነው።</translation>
-<translation id="7617377681829253106">Chromium አሁን ይበልጥ ተሻሽሏል</translation>
+<translation id="18937021822671718">የተሻሻለ የደህንነት አሰሳን በእርስዎ መለያ ውስጥ አብርተዋል። አሁን ለWEB3 DNA Browser ያግኙት።</translation>
+<translation id="2422729508884289622">WEB3 DNA Browser ካሜራዎን እና ማይክሮፎንዎን እየተጠቀመ ነው።</translation>
+<translation id="7649176261008984828">WEB3 DNA Browser አሁን ይበልጥ ተሻሽሏል</translation>
 <translation id="7649070708921625228">እገዛ</translation>
-<translation id="7682213815243802460">በChromium ቅንብሮች ውስጥ ስለእነዚህ ባህሪያት የበለጠ ማወቅ ይችላሉ።</translation>
-<translation id="7682601070171973634">Chromium ጣቢያዎች ያነሰ ውሂብዎን ተጠቅመው ተመሳሳይ የአሰሳ ተሞክሮ እንዲያቀርቡ የሚያስችሏቸውን አዳዲስ ባህሪያትን እያሰሰ ነው።</translation>
-<translation id="7686590090926151193">Chromium ነባሪ አሳሽዎ አይደለም</translation>
-<translation id="7689606757190482937">በመላ መሣሪያዎችዎ ላይ Chromiumን ያሳምሩ እና ግላዊነት ያላብሱ</translation>
-<translation id="7745317241717453663">ይሄ የአሰሳ ውሂብዎን ከዚህ መሣሪያ ይሰርዘዋል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ Chromium ይግቡ።</translation>
+<translation id="5663191066657660868">በWEB3 DNA Browser ቅንብሮች ውስጥ ስለእነዚህ ባህሪያት የበለጠ ማወቅ ይችላሉ።</translation>
+<translation id="1180711544607099420">WEB3 DNA Browser ጣቢያዎች ያነሰ ውሂብዎን ተጠቅመው ተመሳሳይ የአሰሳ ተሞክሮ እንዲያቀርቡ የሚያስችሏቸውን አዳዲስ ባህሪያትን እያሰሰ ነው።</translation>
+<translation id="1427927054102592884">WEB3 DNA Browser ነባሪ አሳሽዎ አይደለም</translation>
+<translation id="7195845268083706212">በመላ መሣሪያዎችዎ ላይ WEB3 DNA Browserን ያሳምሩ እና ግላዊነት ያላብሱ</translation>
+<translation id="4540014860380760179">ይሄ የአሰሳ ውሂብዎን ከዚህ መሣሪያ ይሰርዘዋል። ውሂብዎን በኋላ ላይ ሰርስረው ለማውጣት እንደ <ph name="USER_EMAIL" /> ሆነው ወደ WEB3 DNA Browser ይግቡ።</translation>
 <translation id="7747138024166251722">ጫኝው ጊዜያዊ ማውጫ መፍጠር አልቻለም። እባክዎ ነፃ የዲስክ ቦታ እና ሶፍትዌር የመጫን ፍቃድ እንዳለ ይፈትሹ።</translation>
-<translation id="7786760609782648049">Chromiumን የበለጠ ፈጣን ያድርጉት</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> - Chromium Canary</translation>
-<translation id="7828947555739565424">ይህን መለያ ያለው አንድ የChromium መገለጫ አስቀድሞ በዚህ መሣሪያ ላይ አለ</translation>
+<translation id="3341158123816213810">WEB3 DNA Browserን የበለጠ ፈጣን ያድርጉት</translation>
+<translation id="6564515530956462009"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Canary</translation>
+<translation id="8502268940781535829">ይህን መለያ ያለው አንድ የWEB3 DNA Browser መገለጫ አስቀድሞ በዚህ መሣሪያ ላይ አለ</translation>
 <translation id="7845233973568007926">ሰለተጫኑ እናመሰግናለን። <ph name="BUNDLE_NAME" />ን ከመጠቀምዎ በፊት ኮምፒውተርዎን እንደገና ማስጀመር አለብዎት።</translation>
-<translation id="7867198900892795913">Chromium ወደ የቅርብ ጊዜው ስሪት ሊዘመን አልቻለም፣ ስለዚህ አዲስ ባህሪያት እና የደህንነት ጥገናዎች እያመለጡዎት ናቸው። Chromiumን ማዘመን አለብዎት።</translation>
+<translation id="5422417406245013307">WEB3 DNA Browser ወደ የቅርብ ጊዜው ስሪት ሊዘመን አልቻለም፣ ስለዚህ አዲስ ባህሪያት እና የደህንነት ጥገናዎች እያመለጡዎት ናቸው። WEB3 DNA Browserን ማዘመን አለብዎት።</translation>
 <translation id="7872446069773932638">በማውረድ ላይ... <ph name="SECONDS" /> ሰከንድ(ዶች) ይቀራሉ</translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />የእርስዎን ውሂብ እንዴት ማቀናበር እንደሚችሉ፦<ph name="END_BOLD" /> የእርስዎን ግላዊነት ለመጠበቅ ከ4 ሳምንታት በላይ የቆዩ ዝንባሌዎችዎን በራስ-ሰር እንሰርዛለን። ማሰስዎን በሚቀጥሉበት ጊዜ ዝንባሌ እንደገና በዝርዝሩ ላይ ሊታይ ይችላል። ወይም Chromium ከግምት ውስጥ እንዳያስገባቸው የማይፈልጓቸውን ዝንባሌዎች ማስወገድ ይችላሉ።</translation>
-<translation id="7937630085815544518">እንደ <ph name="USER_EMAIL_ADDRESS" /> ሆነው ወደ Chromium ገብተዋል። እባክዎ እንደገና ለመግባት ተመሳሳዩን መለያ ይጠቀሙ።</translation>
-<translation id="7975919845073681630">ይሄ ሁለተኛ የChromium ጭነት ነው፣ እና ነባሪ አሳሽዎ ማድረግ አይቻልም።</translation>
-<translation id="7997934263947464652">ካልታወቁ ምንጮች የመጡ ቅጥያዎች፣ መተግበሪያዎች እና ገጽታዎች መሣሪያዎን ሊጎዱ ይችላሉ። Chromium እነሱን ከ<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ብቻ መጫንን ይመክራል</translation>
-<translation id="8013436988911883588">አንዴ Chromium መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።</translation>
+<translation id="6590823489474620893"><ph name="BEGIN_BOLD" />የእርስዎን ውሂብ እንዴት ማቀናበር እንደሚችሉ፦<ph name="END_BOLD" /> የእርስዎን ግላዊነት ለመጠበቅ ከ4 ሳምንታት በላይ የቆዩ ዝንባሌዎችዎን በራስ-ሰር እንሰርዛለን። ማሰስዎን በሚቀጥሉበት ጊዜ ዝንባሌ እንደገና በዝርዝሩ ላይ ሊታይ ይችላል። ወይም WEB3 DNA Browser ከግምት ውስጥ እንዳያስገባቸው የማይፈልጓቸውን ዝንባሌዎች ማስወገድ ይችላሉ።</translation>
+<translation id="7280500878215405781">እንደ <ph name="USER_EMAIL_ADDRESS" /> ሆነው ወደ WEB3 DNA Browser ገብተዋል። እባክዎ እንደገና ለመግባት ተመሳሳዩን መለያ ይጠቀሙ።</translation>
+<translation id="2253021454574730566">ይሄ ሁለተኛ የWEB3 DNA Browser ጭነት ነው፣ እና ነባሪ አሳሽዎ ማድረግ አይቻልም።</translation>
+<translation id="2180063386451170761">ካልታወቁ ምንጮች የመጡ ቅጥያዎች፣ መተግበሪያዎች እና ገጽታዎች መሣሪያዎን ሊጎዱ ይችላሉ። WEB3 DNA Browser እነሱን ከ<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ብቻ መጫንን ይመክራል</translation>
+<translation id="1446133009793910887">አንዴ WEB3 DNA Browser መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።</translation>
 <translation id="80471789339884597">ሰለተጫኑ እናመሰግናለን። <ph name="BUNDLE_NAME" />ን ከመጠቀምዎ በፊት ሁሉንም አሳሾችዎን እንደገና ማስጀመር አለብዎት።</translation>
-<translation id="8105840573057009683">Chromium ለዚህ ጣቢያ የአካባቢ ፈቃድ ያስፈልገዋል</translation>
+<translation id="3869525261991846539">WEB3 DNA Browser ለዚህ ጣቢያ የአካባቢ ፈቃድ ያስፈልገዋል</translation>
 <translation id="8133124826068723441">ማስመር ለጎራዎ ስለማይገኝ ChromiumOS ውሂብዎን ማስመር አይችልም።</translation>
 <translation id="813913629614996137">በማስጀመር ላይ…</translation>
-<translation id="81770708095080097">ይህ ፋይል አደገኛ ስለሆነ Chromium አግዶታል።</translation>
-<translation id="8213374284266571500">እንደዚህ አይነት ፋይል አደገኛ ስለሆነ Chromium ይህን ፋይል አግዶታል።</translation>
-<translation id="8248265253516264921">አንድ ምስል ጠቃሚ መግለጫ ከሌለው Chromium ለእርስዎ አንድ ለማቅረብ ይሞክራል። ዝርዝር መግለጫዎችን ለመፍጠር፣ ምስሎች ወደ Google ይላካሉ። ይህን በማንኛውም ጊዜ በቅንብሮች ውስጥ ሊያጠፉት ይችላሉ።</translation>
-<translation id="8266560134891435528">እርስዎ በመለያ ስላልገቡ ስለሆኑ Chromium የይለፍ ቃላትዎን መፈተሽ አይችልም</translation>
-<translation id="8276522524898344151">Chromium የይለፍ ቃላትን ለመቅዳት እየሞከረ ነው።</translation>
-<translation id="8290862415967981663">ይህ ፋይል አደገኛ ሊሆን ስለሚችል Chromium አግዶታል።</translation>
-<translation id="8330519371938183845">Chromiumን በመላ መሣሪያዎችዎ ላይ ለማሳመር እና ግላዊነት ለማላበስ</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> ከዚህ ቀደም Chromiumን እየተጠቀመ ነበር</translation>
-<translation id="8357820681460164151">በሁሉም መሣሪያዎችዎ ላይ የእርስዎን የChromium አሳሽ ነገሮች ለመድረስ ይግቡ፣ ከዚያ ስምረትን ያብሩ</translation>
-<translation id="8360718212975266891">የወደፊት የChromium ዝማኔዎችን ለማግኘት Windows 10 ወይም ከዚያ በላይ ያስፈልግዎታል። ይህ ኮምፒውተር Windows 8 እየተጠቀመ ነው።</translation>
-<translation id="8417404458978023919">{0,plural, =1{በአንድ ቀን ውስጥ Chromiumን ዳግም አስጀምር}one{በ# ቀኖች ውስጥ Chromiumን ዳግም አስጀምር}other{በ# ቀኖች ውስጥ Chromiumን ዳግም አስጀምር}}</translation>
-<translation id="8453117565092476964">የጫኚው መዝገብ ተበላሽቷል ወይም ትክክል አይደለም። እባክዎ Chromiumን እንደገና ያውርዱ።</translation>
+<translation id="6871375725780252705">ይህ ፋይል አደገኛ ስለሆነ WEB3 DNA Browser አግዶታል።</translation>
+<translation id="8821717781402291672">እንደዚህ አይነት ፋይል አደገኛ ስለሆነ WEB3 DNA Browser ይህን ፋይል አግዶታል።</translation>
+<translation id="8394136310056741303">አንድ ምስል ጠቃሚ መግለጫ ከሌለው WEB3 DNA Browser ለእርስዎ አንድ ለማቅረብ ይሞክራል። ዝርዝር መግለጫዎችን ለመፍጠር፣ ምስሎች ወደ Google ይላካሉ። ይህን በማንኛውም ጊዜ በቅንብሮች ውስጥ ሊያጠፉት ይችላሉ።</translation>
+<translation id="4863557335992202213">እርስዎ በመለያ ስላልገቡ ስለሆኑ WEB3 DNA Browser የይለፍ ቃላትዎን መፈተሽ አይችልም</translation>
+<translation id="8332908002682218419">WEB3 DNA Browser የይለፍ ቃላትን ለመቅዳት እየሞከረ ነው።</translation>
+<translation id="3862328687893385239">ይህ ፋይል አደገኛ ሊሆን ስለሚችል WEB3 DNA Browser አግዶታል።</translation>
+<translation id="7450630974943556627">WEB3 DNA Browserን በመላ መሣሪያዎችዎ ላይ ለማሳመር እና ግላዊነት ለማላበስ</translation>
+<translation id="8910359951607649198"><ph name="USER_EMAIL_ADDRESS" /> ከዚህ ቀደም WEB3 DNA Browserን እየተጠቀመ ነበር</translation>
+<translation id="7837286795552251352">በሁሉም መሣሪያዎችዎ ላይ የእርስዎን የWEB3 DNA Browser አሳሽ ነገሮች ለመድረስ ይግቡ፣ ከዚያ ስምረትን ያብሩ</translation>
+<translation id="4231941262737361466">የወደፊት የWEB3 DNA Browser ዝማኔዎችን ለማግኘት Windows 10 ወይም ከዚያ በላይ ያስፈልግዎታል። ይህ ኮምፒውተር Windows 8 እየተጠቀመ ነው።</translation>
+<translation id="4708615805477131870">{0,plural, =1{በአንድ ቀን ውስጥ WEB3 DNA Browserን ዳግም አስጀምር}one{በ# ቀኖች ውስጥ WEB3 DNA Browserን ዳግም አስጀምር}other{በ# ቀኖች ውስጥ WEB3 DNA Browserን ዳግም አስጀምር}}</translation>
+<translation id="8293407095466346653">የጫኚው መዝገብ ተበላሽቷል ወይም ትክክል አይደለም። እባክዎ WEB3 DNA Browserን እንደገና ያውርዱ።</translation>
 <translation id="8463672209299734063">ከተፈለገ፦ የምርመራ እና የአጠቃቀም ውሂብ ወደ Google በራስ-ሰር በመላክ የChromiumOS ባህሪያትን እና አፈጻጸምን እንዲሻሻል ያግዙ።</translation>
-<translation id="8493179195440786826">Chromium ጊዜው አልፎበታል</translation>
+<translation id="2275026549113043779">WEB3 DNA Browser ጊዜው አልፎበታል</translation>
 <translation id="8550334526674375523">ይህ የስራ መገለጫ ከግል መገለጫዎ ሙሉ ለሙሉ የተለየ ነው።</translation>
-<translation id="8558383651099478961">የእርስዎ ወላጅ ለChromium «የጣቢያዎች፣ መተግበሪያዎች እና ቅጥያዎች ፈቃዶች»ን አጥፍተዋል። ይህን <ph name="EXTENSION_TYPE_PARAMETER" /> ማከል አይፈቀድም።</translation>
-<translation id="8561285221328166383">የወደፊቱን የChromium ዝመኔዎችን ለማግኘት፣ macOS 10.13 ወይም ከዚያ በኋላ ያለው ያስፈልግዎታል። ይህ ኮምፒተር macOS 10.12 እየተጠቀመ ነው።</translation>
-<translation id="8568283329061645092">Chromium በእርስዎ የGoogle መለያ በሚገቡበት ጊዜ የእርስዎን የይለፍ ቃላትን ሊፈትሽ ይችላል</translation>
-<translation id="8574036838419011058">ሲበራ፣ Chromium የዳራ እንቅስቃሴን እና እንደ ለስላሳ ሽብለላ እና የቪድዮ የክፈፍ ፍጥነቶች ያሉ ምስላዊ ተጽዕኖዎችን በመገደብ የባትሪ ኃይልን ይቆጥባል። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
-<translation id="8586442755830160949">የቅጂ መብት <ph name="YEAR" /> የChromium ደራሲያን። ሁሉም መብቶች የተጠበቁ ናቸው።</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />ይህንን ውሂብ እንዴት እንደሚጠቀሙበት፦<ph name="END_BOLD" /> ጣቢያዎች ስለዝንባሌዎችዎ መረጃን በChromium አማካኝነት ማከማቸት ይችላሉ። ለምሳሌ፣ ለማራቶን ጫማ ለመግዛት ጣቢያን ከጎበኙ ጣቢያው ዝንባሌዎን እንደ ማራቶን መሮጥ ሊገልጽ ይችላል። በኋላ ላይ ለሩጫ ለመመዝገብ ሌላ ጣቢያ ከጎበኙ ይህ ጣቢያ በዝንባሌዎችዎ ላይ ተመስርቶ የመሮጫ ጫማ ማስታወቂያ ሊያሳየዎት ይችላል።</translation>
-<translation id="8619360774459241877">Chromiumን በማስጀመር ላይ...</translation>
-<translation id="8621669128220841554">ተለይቶ ባልታወቀ ስህተት ምክንያት ጭነት ከሽፏል። እባክዎ Chromiumን እንደገና ያውርዱ።</translation>
-<translation id="8697124171261953979">እንዲሁም Chromiumን ሲጀምሩት ወይም ከኦምኒቦክሱ ሆነው ሲፈልጉ የሚታየውን ገጽ ይቆጣጠራል።</translation>
-<translation id="8704119203788522458">ይሄ የእርስዎ Chromium ነው</translation>
-<translation id="8713679423359107094">ሁሉንም የChromium መስኮቶች ሲዘጉ፣ ኩኪዎች እና የጣቢያ ውሂብ በራስሰር ይጸዳሉ</translation>
-<translation id="8796443464227412154">Chromiumን ሲዘጉ <ph name="BEGIN_BOLD" />ከብዙ ጣቢያዎች ዘግተው እንዲወጡ<ph name="END_BOLD" /> ይደረጋሉ። ማስመር ጠፍቶ ከሆነ <ph name="BEGIN_BOLD" />ከGoogle አገልግሎቶች እና Chromium<ph name="END_BOLD" /> ዘግተው እንዲወጡ ይደረጋሉ።</translation>
-<translation id="8796602469536043152">Chromium ለዚህ ጣቢያ የእርስዎን ካሜራ እና ማይክሮፎን ለመድረስ ፈቃድ ያስፈልገዋል</translation>
+<translation id="3829194378861761606">የእርስዎ ወላጅ ለWEB3 DNA Browser «የጣቢያዎች፣ መተግበሪያዎች እና ቅጥያዎች ፈቃዶች»ን አጥፍተዋል። ይህን <ph name="EXTENSION_TYPE_PARAMETER" /> ማከል አይፈቀድም።</translation>
+<translation id="6148620910029690666">የወደፊቱን የWEB3 DNA Browser ዝመኔዎችን ለማግኘት፣ macOS 10.13 ወይም ከዚያ በኋላ ያለው ያስፈልግዎታል። ይህ ኮምፒተር macOS 10.12 እየተጠቀመ ነው።</translation>
+<translation id="1246723111619277441">WEB3 DNA Browser በእርስዎ የGoogle መለያ በሚገቡበት ጊዜ የእርስዎን የይለፍ ቃላትን ሊፈትሽ ይችላል</translation>
+<translation id="7115352036028984404">ሲበራ፣ WEB3 DNA Browser የዳራ እንቅስቃሴን እና እንደ ለስላሳ ሽብለላ እና የቪድዮ የክፈፍ ፍጥነቶች ያሉ ምስላዊ ተጽዕኖዎችን በመገደብ የባትሪ ኃይልን ይቆጥባል። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
+<translation id="4799188800355420938">የቅጂ መብት <ph name="YEAR" /> የWEB3 DNA Browser ደራሲያን። ሁሉም መብቶች የተጠበቁ ናቸው።</translation>
+<translation id="1392803118131207008"><ph name="BEGIN_BOLD" />ይህንን ውሂብ እንዴት እንደሚጠቀሙበት፦<ph name="END_BOLD" /> ጣቢያዎች ስለዝንባሌዎችዎ መረጃን በWEB3 DNA Browser አማካኝነት ማከማቸት ይችላሉ። ለምሳሌ፣ ለማራቶን ጫማ ለመግዛት ጣቢያን ከጎበኙ ጣቢያው ዝንባሌዎን እንደ ማራቶን መሮጥ ሊገልጽ ይችላል። በኋላ ላይ ለሩጫ ለመመዝገብ ሌላ ጣቢያ ከጎበኙ ይህ ጣቢያ በዝንባሌዎችዎ ላይ ተመስርቶ የመሮጫ ጫማ ማስታወቂያ ሊያሳየዎት ይችላል።</translation>
+<translation id="5546249279042208244">WEB3 DNA Browserን በማስጀመር ላይ...</translation>
+<translation id="5255237181758616742">ተለይቶ ባልታወቀ ስህተት ምክንያት ጭነት ከሽፏል። እባክዎ WEB3 DNA Browserን እንደገና ያውርዱ።</translation>
+<translation id="8697124171261953979">እንዲሁም WEB3 DNA Browserን ሲጀምሩት ወይም ከኦምኒቦክሱ ሆነው ሲፈልጉ የሚታየውን ገጽ ይቆጣጠራል።</translation>
+<translation id="4220559821674570264">ይሄ የእርስዎ WEB3 DNA Browser ነው</translation>
+<translation id="8072998028605263569">ሁሉንም የWEB3 DNA Browser መስኮቶች ሲዘጉ፣ ኩኪዎች እና የጣቢያ ውሂብ በራስሰር ይጸዳሉ</translation>
+<translation id="6903751245620697304">WEB3 DNA Browserን ሲዘጉ <ph name="BEGIN_BOLD" />ከብዙ ጣቢያዎች ዘግተው እንዲወጡ<ph name="END_BOLD" /> ይደረጋሉ። ማስመር ጠፍቶ ከሆነ <ph name="BEGIN_BOLD" />ከGoogle አገልግሎቶች እና WEB3 DNA Browser<ph name="END_BOLD" /> ዘግተው እንዲወጡ ይደረጋሉ።</translation>
+<translation id="7277260025828649281">WEB3 DNA Browser ለዚህ ጣቢያ የእርስዎን ካሜራ እና ማይክሮፎን ለመድረስ ፈቃድ ያስፈልገዋል</translation>
 <translation id="8833697763442816810">የChromiumOS ስርዓት</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />ምን ውሂብ ጥቅም ላይ እንደሚውል፦<ph name="END_BOLD" /> የአሰሳ ታሪክዎ፣ በዚህ መሣሪያ ላይ Chromiumን ተጠቅመው የጎበኟቸው የጣቢያዎች መዝገብ።</translation>
+<translation id="7404934872971073925"><ph name="BEGIN_BOLD" />ምን ውሂብ ጥቅም ላይ እንደሚውል፦<ph name="END_BOLD" /> የአሰሳ ታሪክዎ፣ በዚህ መሣሪያ ላይ WEB3 DNA Browserን ተጠቅመው የጎበኟቸው የጣቢያዎች መዝገብ።</translation>
 <translation id="8862326446509486874">ለስርዓተ-ደረጃ ጭነት ተገቢ መብቶች የሉዎትም። ጫኚውን እንደ አስተዳዳሪ በማሄድ እንደገና ይሞክሩ።</translation>
-<translation id="8880203542552872219">እንደዚያ ከሆነ፣ ከእርስዎ አዲሱ የይለፍ ቃል ጋር እንዲዛመድ የእርስዎን በChromium የተቀመጠ የይለፍ ቃል አርትዕ ያድርጉ።</translation>
-<translation id="8897323336392112261">እንዲሁም Chromiumን ሲጀምሩት ወይም የመነሻ አዝራሩን ጠቅ ሲያደርጉት የሚታየውን ገጽ ይቆጣጠራል።</translation>
-<translation id="8907580949721785412">Chromium የይለፍ ቃሎችን ለማሳየት እየሞከረ ነው። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
-<translation id="8931379085695076764">Chromium ካለፉት ጥቂት ሳምንታት የአሰሳ ታሪክዎ ላይ በመመስረት ዝንባሌዎችዎን ሊገምት ይችላል። ይህ መረጃ በመሣሪያዎ ላይ ይቆያል።</translation>
-<translation id="8941642502866065432">Chromiumን ማዘመን አልተቻለም</translation>
-<translation id="897581876605952338">የChromium Enterprise ዓርማ</translation>
+<translation id="8304007095757244531">እንደዚያ ከሆነ፣ ከእርስዎ አዲሱ የይለፍ ቃል ጋር እንዲዛመድ የእርስዎን በWEB3 DNA Browser የተቀመጠ የይለፍ ቃል አርትዕ ያድርጉ።</translation>
+<translation id="8897323336392112261">እንዲሁም WEB3 DNA Browserን ሲጀምሩት ወይም የመነሻ አዝራሩን ጠቅ ሲያደርጉት የሚታየውን ገጽ ይቆጣጠራል።</translation>
+<translation id="257978004891740263">WEB3 DNA Browser የይለፍ ቃሎችን ለማሳየት እየሞከረ ነው። ይህንን ለመፍቀድ የWindows የይለፍ ቃልዎን ይተይቡ።</translation>
+<translation id="7500894618301979366">WEB3 DNA Browser ካለፉት ጥቂት ሳምንታት የአሰሳ ታሪክዎ ላይ በመመስረት ዝንባሌዎችዎን ሊገምት ይችላል። ይህ መረጃ በመሣሪያዎ ላይ ይቆያል።</translation>
+<translation id="3731673200617615844">WEB3 DNA Browserን ማዘመን አልተቻለም</translation>
+<translation id="1787382483918628946">የWEB3 DNA Browser Enterprise ዓርማ</translation>
 <translation id="8986207147630327271">የስራ መገለጫን ወደዚህ አሳሽ እያከሉ እና ለአስተዳዳሪዎ በስራ መገለጫው ላይ ብቻ ቁጥጥር እየሰጡ ነው።</translation>
-<translation id="9019929317751753759">Chromiumን ይበልጥ ደህንነቱ የተጠበቀ እንዲሆን ለማድረግ፣ በ<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ውስጥ ያልተዘረዘረውን የሚከተለውን ቅጥያ አሰናክለነዋል እና እርስዎ ሳያውቁት የታከለ ሊሆን ይችላል።</translation>
-<translation id="9022552996538154597">Chromium ውስጥ ይግቡ</translation>
-<translation id="9089354809943900324">Chromium ጊዜው አልፎበታል</translation>
-<translation id="9093206154853821181">{0,plural, =1{Chromium በአንድ ሰዓት ውስጥ ዳግም ይጀምራል}one{Chromium በ# ሰዓቶች ውስጥ ዳግም ይጀምራል}other{Chromium በ# ሰዓቶች ውስጥ ዳግም ይጀምራል}}</translation>
-<translation id="9106612006984859720">የወደፊት የChromium ዝማኔዎችን ለማግኘት Windows 10 ወይም ከዚያ በላይ ያስፈልግዎታል። ይህ ኮምፒውተር Windows 8.1ን እየተጠቀመ ነው።</translation>
-<translation id="91086099826398415">አገናኙን በChromium አዲስ &amp;ትር ውስጥ ክፈት</translation>
+<translation id="8867249455463470821">WEB3 DNA Browserን ይበልጥ ደህንነቱ የተጠበቀ እንዲሆን ለማድረግ፣ በ<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ውስጥ ያልተዘረዘረውን የሚከተለውን ቅጥያ አሰናክለነዋል እና እርስዎ ሳያውቁት የታከለ ሊሆን ይችላል።</translation>
+<translation id="8879833215600767638">WEB3 DNA Browser ውስጥ ይግቡ</translation>
+<translation id="853293422536067733">WEB3 DNA Browser ጊዜው አልፎበታል</translation>
+<translation id="325086175188777548">{0,plural, =1{WEB3 DNA Browser በአንድ ሰዓት ውስጥ ዳግም ይጀምራል}one{WEB3 DNA Browser በ# ሰዓቶች ውስጥ ዳግም ይጀምራል}other{WEB3 DNA Browser በ# ሰዓቶች ውስጥ ዳግም ይጀምራል}}</translation>
+<translation id="8024211601023847048">የወደፊት የWEB3 DNA Browser ዝማኔዎችን ለማግኘት Windows 10 ወይም ከዚያ በላይ ያስፈልግዎታል። ይህ ኮምፒውተር Windows 8.1ን እየተጠቀመ ነው።</translation>
+<translation id="2383920618768832592">አገናኙን በWEB3 DNA Browser አዲስ &amp;ትር ውስጥ ክፈት</translation>
 <translation id="911206726377975832">የአሰሳ ውሂብዎም ይሰረዝ?</translation>
-<translation id="9144490074902256427">በሙከራዎቹ ጊዜ ማስታወቂያዎችን ለእርስዎ ለማሳየት የሚጠቀሙባቸውን የዝንባሌ ጣቢያዎች ርዕሶች ማየት እና ማስወገድ ይችላሉ። Chromium በቅርብ ጊዜ የአሰሳ ታሪክዎ ላይ ተመስርቶ የእርስዎን ፍላጎቶች ይገምታል።</translation>
-<translation id="9158494823179993217">የእርስዎ የስርዓት አስተዳዳሪ <ph name="TARGET_URL_HOSTNAME" />ን ለመድረስ Chromium ተለዋጭ አሳሽን እንዲከፍት አዋቅረውታል።</translation>
-<translation id="9185526690718004400">&amp;Chromiumን ለማዘመን ዳግም ያስነሱት</translation>
-<translation id="9190841055450128916">Chromium (mDNS-In)</translation>
-<translation id="93478295209880648">Chromium በWindows XP ወይም Windows Vista ላይ ከእንግዲህ ስለማይደገፍ በአግባቡ ላይሰራ ይችላል</translation>
-<translation id="942598560705308788">በChromium የሚተዳደሩ የእውቅና ማረጋገጫዎች</translation>
-<translation id="945990405696787151">የወደፊቱን የChromium ዝመኔዎችን ለማግኘት፣ macOS 10.13 ወይም ከዚያ በኋላ ያለው ያስፈልግዎታል። ይህ ኮምፒተር OS X 10.11 እየተጠቀመ ነው።</translation>
-<translation id="965162752251293939">ማነው Chromiumን የሚጠቀመው?</translation>
-<translation id="967427899662692980">የChromiumን ጠንካራ ደህንነት ያግኙ</translation>
-<translation id="985602178874221306">የChromium ደራሲዎች</translation>
+<translation id="3209098675401285328">በሙከራዎቹ ጊዜ ማስታወቂያዎችን ለእርስዎ ለማሳየት የሚጠቀሙባቸውን የዝንባሌ ጣቢያዎች ርዕሶች ማየት እና ማስወገድ ይችላሉ። WEB3 DNA Browser በቅርብ ጊዜ የአሰሳ ታሪክዎ ላይ ተመስርቶ የእርስዎን ፍላጎቶች ይገምታል።</translation>
+<translation id="3219820530884298089">የእርስዎ የስርዓት አስተዳዳሪ <ph name="TARGET_URL_HOSTNAME" />ን ለመድረስ WEB3 DNA Browser ተለዋጭ አሳሽን እንዲከፍት አዋቅረውታል።</translation>
+<translation id="3490070383213151269">&amp;WEB3 DNA Browserን ለማዘመን ዳግም ያስነሱት</translation>
+<translation id="6090927689465861839">WEB3 DNA Browser (mDNS-In)</translation>
+<translation id="5838682317838879726">WEB3 DNA Browser በWindows XP ወይም Windows Vista ላይ ከእንግዲህ ስለማይደገፍ በአግባቡ ላይሰራ ይችላል</translation>
+<translation id="864578822176559036">በWEB3 DNA Browser የሚተዳደሩ የእውቅና ማረጋገጫዎች</translation>
+<translation id="5999581564161388420">የወደፊቱን የWEB3 DNA Browser ዝመኔዎችን ለማግኘት፣ macOS 10.13 ወይም ከዚያ በኋላ ያለው ያስፈልግዎታል። ይህ ኮምፒተር OS X 10.11 እየተጠቀመ ነው።</translation>
+<translation id="8170259981824726476">ማነው WEB3 DNA Browserን የሚጠቀመው?</translation>
+<translation id="848072905736697318">የWEB3 DNA Browserን ጠንካራ ደህንነት ያግኙ</translation>
+<translation id="3707690415152488007">የWEB3 DNA Browser ደራሲዎች</translation>
 </translationbundle>

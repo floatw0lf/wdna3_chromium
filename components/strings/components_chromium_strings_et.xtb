@@ -2,11 +2,11 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="et">
 <translation id="130631256467250065">Muudatused jõustuvad järgmine kord, kui seadme taaskäivitate.</translation>
-<translation id="275588974610408078">Krahhiaruandlus ei ole Chromiumis saadaval.</translation>
-<translation id="3064346599913645280">Vaatate turvalist Chromiumi lehte</translation>
-<translation id="358997566136285270">Chromiumi logo</translation>
-<translation id="4365115785552740256">Chromiumi aluseks on avatud lähtekoodiga projekt <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> ja muu <ph name="BEGIN_LINK_OSS" />avatud lähtekoodiga tarkvara<ph name="END_LINK_OSS" />.</translation>
-<translation id="4559775032954821361">Valige
+<translation id="4791283969776588221">Krahhiaruandlus ei ole Chromiumis saadaval.</translation>
+<translation id="2844608976961792034">Vaatate turvalist Chromiumi lehte</translation>
+<translation id="1982446651380677046">Chromiumi logo</translation>
+<translation id="4523656775797881494">Chromiumi aluseks on avatud lähtekoodiga projekt <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> ja muu <ph name="BEGIN_LINK_OSS" />avatud lähtekoodiga tarkvara<ph name="END_LINK_OSS" />.</translation>
+<translation id="4029636627665768575">Valige
           Chromiumi menüü &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
@@ -16,11 +16,11 @@
           &gt;
           LAN-seaded
           ja tühjendage ruut valiku „Kasutage LAN-i puhul puhverserverit” juures.</translation>
-<translation id="4622039161600275920">Chromium blokeeris selle lehe</translation>
-<translation id="48558539577516920">Lubage Chromiumi juurdepääs võrgule tulemüüri või viirusetõrje
+<translation id="7398528135240070983">WEB3 DNA Browser blokeeris selle lehe</translation>
+<translation id="329184862608851407">Lubage Chromiumi juurdepääs võrgule tulemüüri või viirusetõrje
          seadetes.</translation>
 <translation id="4918837013875648434">Chromium OS pole algseadistust lõpetanud.</translation>
-<translation id="580822234363523061">Minge
+<translation id="7951541701556745073">Minge
           Chromiumi menüüsse &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
@@ -28,8 +28,8 @@
           &gt;
           <ph name="PROXIES_TITLE" />
           ja veenduge, et konfiguratsioon on määratud valikule „Puhverserverita” või „Otse”.</translation>
-<translation id="6613594504749178791">Teie muudatused jõustuvad järgmine kord, kui Chromiumi taaskäivitate.</translation>
-<translation id="7861509383340276692">Avage
+<translation id="8823298025665339355">Teie muudatused jõustuvad järgmine kord, kui Chromiumi taaskäivitate.</translation>
+<translation id="5334530291357334686">Avage
         Chromiumi menüü &gt;
         <ph name="SETTINGS_TITLE" />
         &gt;
@@ -40,5 +40,5 @@
 <translation id="8187289872471304532">Tehke valikud
           Rakendused &gt; Süsteemieelised &gt; Võrk &gt; Täpsem &gt; Puhverserverid
           ja tühjendage kõigi valitud puhverserverite märkeruudud.</translation>
-<translation id="8684913864886094367">Chromium ei sulgunud õigesti.</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser ei sulgunud õigesti.</translation>
 </translationbundle>

@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Forneça mais detalhes</translation>
 <translation id="1019413721762100891">Desativado</translation>
 <translation id="1021110881106174305">Cartões admitidos</translation>
-<translation id="1021753677514347426">Este problema ocorre devido a um certificado que o utilizador ou outra pessoa instalou no dispositivo. Sabe-se que o certificado é utilizado para monitorizar e intercetar redes e não é considerado fidedigno pelo Chromium. Embora existam alguns casos legítimos para a monitorização, como numa rede escolar ou da empresa, o Chromium pretende certificar-se de que o utilizador tem conhecimento da situação, mesmo que não seja possível interrompê-la. A monitorização pode ocorrer em qualquer navegador ou aplicação que aceda à Web.</translation>
+<translation id="6843750610117699926">Este problema ocorre devido a um certificado que o utilizador ou outra pessoa instalou no dispositivo. Sabe-se que o certificado é utilizado para monitorizar e intercetar redes e não é considerado fidedigno pelo WEB3 DNA Browser. Embora existam alguns casos legítimos para a monitorização, como numa rede escolar ou da empresa, o WEB3 DNA Browser pretende certificar-se de que o utilizador tem conhecimento da situação, mesmo que não seja possível interrompê-la. A monitorização pode ocorrer em qualquer navegador ou aplicação que aceda à Web.</translation>
 <translation id="1024111578869940408">Por vezes, os atacantes imitam sites ao efetuarem alterações difíceis de detetar no endereço Web.</translation>
 <translation id="1028781062521375153">Veja detalhes</translation>
 <translation id="1030706264415084469"><ph name="URL" /> pretende armazenar permanentemente dados de grandes dimensões no seu dispositivo.</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Anular adição</translation>
 <translation id="1056663316309890343">Software de foto</translation>
 <translation id="1056898198331236512">Aviso</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para jogar Dino Run no Chrome</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para jogar Dino Run no WEB3 DNA Browser</translation>
 <translation id="1058479211578257048">A guardar os cartões…</translation>
 <translation id="1060320201901229167">Envelope Kaku 5</translation>
 <translation id="10614374240317010">Nunca guardadas</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Adicionar nome no cartão</translation>
 <translation id="1089439967362294234">Alterar palavra-passe</translation>
 <translation id="1096545575934602868">Este campo não deve ter mais de <ph name="MAX_ITEMS_LIMIT" /> entradas. Todas as restantes entradas serão rejeitadas.</translation>
-<translation id="1100782917270858593">Botão Retomar percurso, prima Enter para retomar o percurso e ver atividade relevante no seu Histórico do Chrome</translation>
+<translation id="3985486898664025513">Botão Retomar percurso, prima Enter para retomar o percurso e ver atividade relevante no seu Histórico do WEB3 DNA Browser</translation>
 <translation id="1101672080107056897">Ação com erro.</translation>
 <translation id="1103523840287552314">Traduzir sempre <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Introduziu a palavra-passe num site que não é gerido pela sua organização. Para proteger a conta, não reutilize a sua palavra-passe noutras aplicações e sites.</translation>
 <translation id="1257553931232494454">níveis de zoom</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para gerir as definições do Chrome</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para gerir as definições do WEB3 DNA Browser</translation>
 <translation id="1263231323834454256">Lista de leitura</translation>
 <translation id="1264309058268477500">Alternativo</translation>
 <translation id="1264974993859112054">Desporto</translation>
@@ -131,7 +131,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="1285320974508926690">Nunca traduzir este site</translation>
 <translation id="1288548991597756084">Guarde o cartão de forma segura</translation>
 <translation id="1292571435393770077">Tabuleiro 16</translation>
-<translation id="1292701964462482250">"Existe software no computador que está a impedir que o Chrome se ligue à Web em segurança" (apenas para computadores com Windows)</translation>
+<translation id="3610512443326918645">"Existe software no computador que está a impedir que o WEB3 DNA Browser se ligue à Web em segurança" (apenas para computadores com Windows)</translation>
 <translation id="1293797321964802402">Envelope 9 x 11 pol.</translation>
 <translation id="1294154142200295408">Variações da linha de comandos</translation>
 <translation id="129553762522093515">Fechados recentemente</translation>
@@ -150,7 +150,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="1323433172918577554">Mostrar mais</translation>
 <translation id="132390688737681464">Guardar e preencher endereços</translation>
 <translation id="1330449323196174374">Dobra simétrica à esquerda</translation>
-<translation id="1333745675627230582">Jogar Chrome Dino</translation>
+<translation id="6227572462599550594">Jogar WEB3 DNA Browser Dino</translation>
 <translation id="1333989956347591814">A sua atividade <ph name="BEGIN_EMPHASIS" />poderá continuar visível<ph name="END_EMPHASIS" /> para:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Os Sites que visita
@@ -223,7 +223,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="1483493594462132177">Enviar</translation>
 <translation id="1484290072879560759">Escolher morada para envio</translation>
 <translation id="1492194039220927094">Push das políticas:</translation>
-<translation id="149293076951187737">Quando fechar todos os separadores de navegação anónima do Chrome, a sua atividade nesses separadores será limpa neste dispositivo:
+<translation id="3175654283800723944">Quando fechar todos os separadores de navegação anónima do WEB3 DNA Browser, a sua atividade nesses separadores será limpa neste dispositivo:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Atividade de navegação<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Histórico de pesquisas<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="154408704832528245">Escolher endereço de entrega</translation>
 <translation id="1549470594296187301">É necessário ativar o JavaScript para usar esta funcionalidade.</translation>
 <translation id="1551884710160394169">Programas sem custo financeiro e shareware</translation>
-<translation id="1553358976309200471">Atualizar o Chrome</translation>
+<translation id="1553358976309200471">Atualizar o WEB3 DNA Browser</translation>
 <translation id="1555130319947370107">Azul</translation>
 <translation id="1559447966090556585">Pretende receber notificações?</translation>
 <translation id="1559528461873125649">Esse ficheiro ou diretório não existe</translation>
@@ -263,7 +263,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="156703335097561114">Informações de rede, tais como endereços, a configuração da interface e a qualidade da ligação</translation>
 <translation id="1567040042588613346">Esta política está a funcionar conforme esperado, mas o mesmo valor está definido noutro local e foi substituído por esta política.</translation>
 <translation id="1569487616857761740">Introduza a data de validade</translation>
-<translation id="1569694109004336106">O Google Chrome está a tentar ativar o Windows Hello para preencher palavras-passe.</translation>
+<translation id="8064078726251017937">O WEB3 DNA Browser está a tentar ativar o Windows Hello para preencher palavras-passe.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> pol.</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Ocorreu um erro ao apresentar esta página Web.</translation>
@@ -273,7 +273,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="1594030484168838125">Escolher</translation>
 <translation id="1596296697375291157">Filmes policiais, de mistério e tríleres</translation>
 <translation id="1599199147673445968">Tem um cartão novo? <ph name="BEGIN_LINK" />Introduza os detalhes do cartão<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Jogue o Dino Run no Chrome</translation>
+<translation id="160851722280695521">Jogue o Dino Run no WEB3 DNA Browser</translation>
 <translation id="161042844686301425">Turquesa</translation>
 <translation id="1611101756749861742">Segundo rolo</translation>
 <translation id="1615402009686901181">A política do administrador desativa a captura de ecrã quando existe conteúdo confidencial visível.</translation>
@@ -293,13 +293,13 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="1642410292376109062">Botão Alterar palavra-passe Google, prima Enter para alterar a sua palavra-passe da Conta Google</translation>
 <translation id="1644574205037202324">Histórico</translation>
 <translation id="1645368109819982629">Protocolo não suportado</translation>
-<translation id="1650602712345345441">Faça a gestão das definições do Chrome</translation>
+<translation id="1650602712345345441">Faça a gestão das definições do WEB3 DNA Browser</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">O Chrome simplificou esta página para facilitar a leitura. O Chrome obteve a página original através de uma ligação segura.</translation>
+<translation id="5043029585940149901">O WEB3 DNA Browser simplificou esta página para facilitar a leitura. O WEB3 DNA Browser obteve a página original através de uma ligação segura.</translation>
 <translation id="1656489000284462475">Recolha</translation>
 <translation id="1658918301167915956">dispositivos bluetooth</translation>
 <translation id="1662550410081243962">Guardar e preencher métodos de pagamento</translation>
-<translation id="1663943134801823270">Os cartões e os endereços são provenientes do Chrome. Pode geri-los nas <ph name="BEGIN_LINK" />Definições<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Os cartões e os endereços são provenientes do WEB3 DNA Browser. Pode geri-los nas <ph name="BEGIN_LINK" />Definições<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">As páginas em <ph name="SOURCE_LANGUAGE" /> serão traduzidas para <ph name="TARGET_LANGUAGE" /> a partir de agora.</translation>
 <translation id="1674504678466460478">De <ph name="SOURCE_LANGUAGE" /> para <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Margem estreita primeiro</translation>
@@ -347,7 +347,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="1757773103848038814">Tipo de letra de monoespaço</translation>
 <translation id="1763864636252898013">Este servidor não conseguiu provar que é o domínio <ph name="DOMAIN" />; o sistema operativo do seu dispositivo não confia no respetivo certificado de segurança. Isto pode ser o resultado de uma configuração incorreta ou de um invasor a intercetar a sua ligação.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Experimente executar o Diagnóstico de rede do Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Saiba mais sobre a Navegação anónima no Chromium<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Saiba mais sobre a Navegação anónima no WEB3 DNA Browser<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Os separadores abertos aparecem aqui</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -399,11 +399,11 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="1919526244108283799">400 x 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Nenhum}=1{1 site}other{# sites}}</translation>
 <translation id="1924727005275031552">Novo</translation>
-<translation id="1927439593081478069">Botão Executar verificação de segurança do Chrome, prima Enter para executar a verificação de segurança nas definições do Chrome</translation>
+<translation id="1927439593081478069">Botão Executar verificação de segurança do WEB3 DNA Browser, prima Enter para executar a verificação de segurança nas definições do WEB3 DNA Browser</translation>
 <translation id="1935995810530254458">Copiar mesmo assim</translation>
 <translation id="1939175642807587452">Pode solicitar o envio de notificações</translation>
 <translation id="1943994668912612445">Design</translation>
-<translation id="1945968466830820669">Pode perder o acesso à conta da sua entidade ou ser vítima de roubo de identidade. O Chromium recomenda a alteração da palavra-passe agora.</translation>
+<translation id="5087943717045213809">Pode perder o acesso à conta da sua entidade ou ser vítima de roubo de identidade. O WEB3 DNA Browser recomenda a alteração da palavra-passe agora.</translation>
 <translation id="1946849748901605102">12 x 15 pol.</translation>
 <translation id="1947454675006758438">Agrafo na parte superior direita</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -426,7 +426,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2001146170449793414">{COUNT,plural, =1{e mais 1}other{e mais #}}</translation>
 <translation id="2003709556000175978">Repor a palavra-passe agora</translation>
 <translation id="2003775180883135320">Perfuração quádrupla na parte superior</translation>
-<translation id="201174227998721785">Faça a gestão das autorizações e dos dados armazenados em sites nas Definições do Chrome.</translation>
+<translation id="201174227998721785">Faça a gestão das autorizações e dos dados armazenados em sites nas Definições do WEB3 DNA Browser.</translation>
 <translation id="2019607688127825327">Botão Gerir definições de acessibilidade, prima Enter para personalizar as ferramentas de acessibilidade nas definições do Chrome OS</translation>
 <translation id="202224654587969958">12 x 19 pol.</translation>
 <translation id="2025115093177348061">Realidade aumentada</translation>
@@ -444,7 +444,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2048261947532620704">A traduzir a página</translation>
 <translation id="205212645995975601">Churrascos e grelhados</translation>
 <translation id="2053111141626950936">As páginas em <ph name="LANGUAGE" /> não serão traduzidas.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Quando este controlo está ativado e o estado está ativo, o Chrome determina a que grupo alargado de pessoas, ou "coorte", a sua atividade de navegação recente é mais semelhante. Os anunciantes podem selecionar anúncios para o grupo e a sua atividade de navegação permanece privada no seu dispositivo. O seu grupo é atualizado todos os dias.}=1{Quando este controlo está ativado e o estado está ativo, o Chrome determina a que grupo alargado de pessoas, ou "coorte", a sua atividade de navegação recente é mais semelhante. Os anunciantes podem selecionar anúncios para o grupo e a sua atividade de navegação permanece privada no seu dispositivo. O seu grupo é atualizado todos os dias.}other{Quando este controlo está ativado e o estado está ativo, o Chrome determina a que grupo alargado de pessoas, ou "coorte", a sua atividade de navegação recente é mais semelhante. Os anunciantes podem selecionar anúncios para o grupo e a sua atividade de navegação permanece privada no seu dispositivo. O seu grupo é atualizado a cada {NUM_DAYS} dias.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Quando este controlo está ativado e o estado está ativo, o WEB3 DNA Browser determina a que grupo alargado de pessoas, ou "coorte", a sua atividade de navegação recente é mais semelhante. Os anunciantes podem selecionar anúncios para o grupo e a sua atividade de navegação permanece privada no seu dispositivo. O seu grupo é atualizado todos os dias.}=1{Quando este controlo está ativado e o estado está ativo, o WEB3 DNA Browser determina a que grupo alargado de pessoas, ou "coorte", a sua atividade de navegação recente é mais semelhante. Os anunciantes podem selecionar anúncios para o grupo e a sua atividade de navegação permanece privada no seu dispositivo. O seu grupo é atualizado todos os dias.}other{Quando este controlo está ativado e o estado está ativo, o WEB3 DNA Browser determina a que grupo alargado de pessoas, ou "coorte", a sua atividade de navegação recente é mais semelhante. Os anunciantes podem selecionar anúncios para o grupo e a sua atividade de navegação permanece privada no seu dispositivo. O seu grupo é atualizado a cada {NUM_DAYS} dias.}}</translation>
 <translation id="2059202684901022309">22 x 34 pol.</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 sugestão}other{# sugestões}}</translation>
 <translation id="2066915425250589881">pedir para eliminar</translation>
@@ -457,9 +457,9 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="20817612488360358">As definições de proxy do sistema estão definidas para serem utilizadas, mas também está especificada uma configuração de proxy explícita.</translation>
 <translation id="2082238445998314030">Resultado <ph name="RESULT_NUMBER" /> de <ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">Guardar…</translation>
-<translation id="2088086323192747268">Botão Gerir sincronização. Prima Enter para gerir as informações que sincroniza nas Definições do Chrome.</translation>
+<translation id="2088086323192747268">Botão Gerir sincronização. Prima Enter para gerir as informações que sincroniza nas Definições do WEB3 DNA Browser.</translation>
 <translation id="2091887806945687916">Som</translation>
-<translation id="2093982008204312032">O Google Chrome está a tentar desativar o Windows Hello para preencher palavras-passe.</translation>
+<translation id="2399368725255444543">O WEB3 DNA Browser está a tentar desativar o Windows Hello para preencher palavras-passe.</translation>
 <translation id="2094505752054353250">Falta de correspondência de domínio</translation>
 <translation id="2099652385553570808">Agrafo triplo à esquerda</translation>
 <translation id="2101225219012730419">Versão:</translation>
@@ -543,7 +543,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2292556288342944218">O acesso à Internet está bloqueado</translation>
 <translation id="2293443924986248631">Quando ativados, os sites não podem utilizar cookies que monitorizam o utilizador na Web. As funcionalidades em alguns sites podem falhar.</translation>
 <translation id="2295290966866883927">Os URLs das páginas que visita são enviados para o Google Cloud ou terceiros para análise. Por exemplo, poderão ser analisados para a deteção de Websites inseguros.</translation>
-<translation id="2298855485018661510">Botão Gerir cookies. Prima Enter para gerir as suas preferências de cookies nas Definições do Chrome.</translation>
+<translation id="2298855485018661510">Botão Gerir cookies. Prima Enter para gerir as suas preferências de cookies nas Definições do WEB3 DNA Browser.</translation>
 <translation id="2300306941146563769">Não carregado</translation>
 <translation id="2316159751672436664">Personalize as ferramentas de acessibilidade nas definições do ChromeOS</translation>
 <translation id="2316887270356262533">Liberta menos de 1 MB. É possível que alguns sites sejam carregados mais lentamente na sua próxima visita.</translation>
@@ -571,9 +571,9 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="236340516568226369">Menu de interruptores de redimensionamento</translation>
 <translation id="2367567093518048410">Nível</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Personalize as ferramentas de acessibilidade nas definições do Chrome</translation>
+<translation id="2383455408879745299">Personalize as ferramentas de acessibilidade nas definições do WEB3 DNA Browser</translation>
 <translation id="2384307209577226199">Predefinição empresarial</translation>
-<translation id="2385809941344967209">Atualize o Chrome nas definições do Chrome.</translation>
+<translation id="2385809941344967209">Atualize o WEB3 DNA Browser nas definições do WEB3 DNA Browser.</translation>
 <translation id="2386255080630008482">O certificado do servidor foi revogado.</translation>
 <translation id="239293030466334554">Conversíveis</translation>
 <translation id="2392959068659972793">Apresentar políticas sem valor definido</translation>
@@ -592,7 +592,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2463739503403862330">Preencher</translation>
 <translation id="2465655957518002998">Escolher método de fornecimento</translation>
 <translation id="2465688316154986572">Agrafar</translation>
-<translation id="2465914000209955735">Faça a gestão dos ficheiros que transferiu no Chrome</translation>
+<translation id="2465914000209955735">Faça a gestão dos ficheiros que transferiu no WEB3 DNA Browser</translation>
 <translation id="2466004615675155314">Mostre informações da Web</translation>
 <translation id="2467272921457885625">Especificações de hardware do dispositivo e estatísticas como o histórico de utilização da CPU/RAM</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Executar o Diagnóstico de rede<ph name="END_LINK" /></translation>
@@ -609,7 +609,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2505268675989099013">Proteger conta</translation>
 <translation id="2509167091171468975">Retalhistas de produtos alimentares e mercearia</translation>
 <translation id="2512101340618156538">Não permitidos (predefinição)</translation>
-<translation id="2512413427717747692">Botão para definir o Chrome como o navegador predefinido, prima Enter para definir o Chrome como o navegador predefinido do sistema nas definições do iOS</translation>
+<translation id="2512413427717747692">Botão para definir o WEB3 DNA Browser como o navegador predefinido, prima Enter para definir o WEB3 DNA Browser como o navegador predefinido do sistema nas definições do iOS</translation>
 <translation id="2515629240566999685">Verificar o sinal na área</translation>
 <translation id="2515761554693942801">Optou por validar com o Touch ID em Websites que usam o fornecedor <ph name="PROVIDER_ORIGIN" />. Este fornecedor pode ter armazenado informações sobre o seu método de pagamento, que pode <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Agrafar parte inferior direita</translation>
@@ -626,7 +626,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2542106216580219892">Surf</translation>
 <translation id="2544546346215446551">O administrador reiniciou o seu dispositivo</translation>
 <translation id="2544644783021658368">Documento único</translation>
-<translation id="254524874071906077">Definir o Google Chrome como o Navegador Predefinido</translation>
+<translation id="1319028298140338735">Definir o WEB3 DNA Browser como o Navegador Predefinido</translation>
 <translation id="2546283357679194313">Cookies e dados de Web sites</translation>
 <translation id="2547466893236767989">Programação e design Web</translation>
 <translation id="254947805923345898">O valor da política não é válido.</translation>
@@ -641,19 +641,19 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2570734079541893434">Gerir definições</translation>
 <translation id="2573834589046842510">Impressão e publicação</translation>
 <translation id="257674075312929031">Grupo</translation>
-<translation id="2576880857912732701">Botão Gerir definições de segurança, prima Enter para gerir a Navegação segura e muito mais nas definições do Chrome</translation>
+<translation id="2576880857912732701">Botão Gerir definições de segurança, prima Enter para gerir a Navegação segura e muito mais nas definições do WEB3 DNA Browser</translation>
 <translation id="2586657967955657006">Área de transferência</translation>
 <translation id="2587730715158995865">De <ph name="ARTICLE_PUBLISHER" />. Leia esta e mais <ph name="OTHER_ARTICLE_COUNT" /> notícias.</translation>
 <translation id="2587841377698384444">ID da API de diretório:</translation>
 <translation id="2594318783181750337">Visualização na Web rápida:</translation>
 <translation id="2595719060046994702">Este dispositivo e esta conta não são geridos por uma empresa ou por outra organização.</translation>
-<translation id="2596415276201385844">Para estabelecer uma ligação segura, o relógio tem de ser definido corretamente. Isto deve-se ao facto de os certificados que os Sites utilizam para se identificarem serem apenas válidos para períodos de tempo específicos. Uma vez que o relógio do seu dispositivo está incorreto, o Chrome não consegue validar estes certificados.</translation>
+<translation id="7968235694092767490">Para estabelecer uma ligação segura, o relógio tem de ser definido corretamente. Isto deve-se ao facto de os certificados que os Sites utilizam para se identificarem serem apenas válidos para períodos de tempo específicos. Uma vez que o relógio do seu dispositivo está incorreto, o WEB3 DNA Browser não consegue validar estes certificados.</translation>
 <translation id="2597378329261239068">Este documento está protegido por palavra-passe.  Introduza uma palavra-passe.</translation>
 <translation id="259821504105826686">Arte fotográfica e digital</translation>
 <translation id="2601150049980261779">Filmes de romance</translation>
 <translation id="2604589665489080024">Música pop</translation>
 <translation id="2610561535971892504">Clique para copiar</translation>
-<translation id="2617988307566202237">O Chrome <ph name="BEGIN_EMPHASIS" />não guardará<ph name="END_EMPHASIS" /> as seguintes informações:
+<translation id="6174516088921923215">O WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />não guardará<ph name="END_EMPHASIS" /> as seguintes informações:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />O seu histórico de navegação
             <ph name="LIST_ITEM" />Os cookies e os dados de sites
@@ -661,14 +661,14 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
           <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">O seu relógio está adiantado</translation>
 <translation id="262745152991669301">Pode solicitar a ligação a dispositivos USB</translation>
-<translation id="2629325967560697240">Para obter o nível de segurança mais elevado do Chrome, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />ative a proteção melhorada<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">Para obter o nível de segurança mais elevado do WEB3 DNA Browser, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />ative a proteção melhorada<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">Não foi possível encontrar o endereço IP do servidor de <ph name="HOST_NAME" />.</translation>
 <translation id="2639739919103226564">Estado:</translation>
 <translation id="2643134278432436513">Cuidados capilares</translation>
 <translation id="2647852283046201479">Jogos de estratégia</translation>
 <translation id="264810637653812429">Não foram encontrados dispositivos compatíveis.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para limpar o seu histórico de navegação, cookies, cache e muito mais nas Definições do Chrome.</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para limpar o seu histórico de navegação, cookies, cache e muito mais nas Definições do WEB3 DNA Browser.</translation>
 <translation id="2650446666397867134">O acesso ao ficheiro foi negado</translation>
 <translation id="2653659639078652383">Enviar</translation>
 <translation id="2657637947725373811">{0,plural, =1{Transferir o ficheiro confidencial?}other{Transferir os ficheiros confidenciais?}}</translation>
@@ -696,11 +696,11 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2705137772291741111">A cópia guardada (em cache) deste site era ilegível.</translation>
 <translation id="2709516037105925701">Preenchimento automático</translation>
 <translation id="2713444072780614174">Branco</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para as suas informações de cartões de crédito e pagamentos nas Definições do Chrome.</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para as suas informações de cartões de crédito e pagamentos nas Definições do WEB3 DNA Browser.</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Prima |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| para sair do ecrã inteiro</translation>
 <translation id="2721148159707890343">Pedido com êxito</translation>
-<translation id="2723669454293168317">Execute uma verificação de segurança nas definições do Chrome</translation>
+<translation id="2723669454293168317">Execute uma verificação de segurança nas definições do WEB3 DNA Browser</translation>
 <translation id="2726001110728089263">Tabuleiro lateral</translation>
 <translation id="2728127805433021124">O certificado do servidor foi assinado utilizando um algoritmo de assinatura fraco.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Executar o Diagnóstico de conetividade<ph name="END_LINK" /></translation>
@@ -740,7 +740,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="287596039013813457">Amigável</translation>
 <translation id="28761159517501904">Filmes</translation>
 <translation id="2876489322757410363">Está a sair do Modo de navegação anónima para pagar através de uma aplicação externa. Pretende continuar?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para gerir a Navegação segura e muito mais nas Definições do Chrome</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para gerir a Navegação segura e muito mais nas Definições do WEB3 DNA Browser</translation>
 <translation id="2878197950673342043">Dobra cruzada</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Pretende guardar o cartão?</translation>
@@ -752,7 +752,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="290376772003165898">A página não está em <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">Foi detetada uma alteração de rede.</translation>
 <translation id="2911973620368911614">ID do utilizador da contabilidade da tarefa</translation>
-<translation id="2914160345369867329">Normalmente, o site <ph name="SITE" /> utiliza a encriptação para proteger as suas informações. Quando o Chrome tentou ligar-se a <ph name="SITE" /> desta vez, o Website devolveu credenciais invulgares e incorretas. Isto pode acontecer quando um utilizador mal intencionado tenta simular ser <ph name="SITE" /> ou quando um ecrã de início de sessão Wi-Fi interrompe a ligação. As suas informações continuam seguras porque o Chrome interrompeu a ligação antes de qualquer troca de dados.</translation>
+<translation id="6754677106668042373">Normalmente, o site <ph name="SITE" /> utiliza a encriptação para proteger as suas informações. Quando o WEB3 DNA Browser tentou ligar-se a <ph name="SITE" /> desta vez, o Website devolveu credenciais invulgares e incorretas. Isto pode acontecer quando um utilizador mal intencionado tenta simular ser <ph name="SITE" /> ou quando um ecrã de início de sessão Wi-Fi interrompe a ligação. As suas informações continuam seguras porque o WEB3 DNA Browser interrompeu a ligação antes de qualquer troca de dados.</translation>
 <translation id="2915068235268646559">Falha de sistema de <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Pintura</translation>
 <translation id="2916038427272391327">Fechar outros programas</translation>
@@ -769,7 +769,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2943895734390379394">Hora do carregamento:</translation>
 <translation id="2945026002409061480">Comunidades online</translation>
 <translation id="2948083400971632585">Pode desativar qualquer proxy configurado para uma ligação a partir da página de definições.</translation>
-<translation id="2949183777371959169">Ignorada porque a máquina não está inscrita no Chrome Browser Cloud Management.</translation>
+<translation id="7786089409521529641">Ignorada porque a máquina não está inscrita no WEB3 DNA Browser Browser Cloud Management.</translation>
 <translation id="2951588413176968965">A minha caixa de correio</translation>
 <translation id="2952820037279740115">Fechar todas as janelas de navegação anónima</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -783,7 +783,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2977665033722899841"><ph name="ROW_NAME" /> selecionado atualmente. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Ópera</translation>
 <translation id="2983666748527428214">Abrir separador de navegação anónima</translation>
-<translation id="2985306909656435243">Se ativada, o Chromium armazena uma cópia do seu cartão neste dispositivo para preencher formulários mais rapidamente.</translation>
+<translation id="6458065442802745995">Se ativada, o WEB3 DNA Browser armazena uma cópia do seu cartão neste dispositivo para preencher formulários mais rapidamente.</translation>
 <translation id="2985398929374701810">Introduza um endereço válido</translation>
 <translation id="2986368408720340940">Este método de recolha não está disponível. Experimente um método diferente.</translation>
 <translation id="2987034854559945715">Nenhuma funcionalidade correspondente</translation>
@@ -805,7 +805,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3037177537145227281">Monitorizar o preço</translation>
 <translation id="3037605927509011580">Ah, bolas!!</translation>
 <translation id="3041612393474885105">Informações do certificado</translation>
-<translation id="305162504811187366">Histórico do Ambiente de Trabalho Remoto do Chrome, incluindo datas/horas, anfitriões e IDs de sessão de cliente</translation>
+<translation id="6009592758194948058">Histórico do Ambiente de Trabalho Remoto do WEB3 DNA Browser, incluindo datas/horas, anfitriões e IDs de sessão de cliente</translation>
 <translation id="3052964831964880138"><ph name="PRODUCT_NAME" />: descida do preço de <ph name="PRICE_DROP" /></translation>
 <translation id="3061707000357573562">Serviço de patch</translation>
 <translation id="306573536155379004">Jogo iniciado.</translation>
@@ -853,7 +853,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3194737229810486521"><ph name="URL" /> pretende armazenar permanentemente dados no seu dispositivo.</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> no servidor <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Pode pedir para saber quando está a utilizar ativamente este dispositivo</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para gerir as informações que sincroniza nas Definições do Chrome.</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para gerir as informações que sincroniza nas Definições do WEB3 DNA Browser.</translation>
 <translation id="320323717674993345">Cancelar pagamento</translation>
 <translation id="3203366800380907218">Da Web</translation>
 <translation id="3207960819495026254">Adicionado aos marcadores</translation>
@@ -877,7 +877,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para personalizar o aspeto do seu navegador</translation>
 <translation id="3240791268468473923">A página de credenciais de pagamento seguro sem correspondência com as credenciais está aberta</translation>
 <translation id="324180406144491771">Os links do anfitrião "<ph name="HOST_NAME" />" estão bloqueados</translation>
-<translation id="3248611290851046188">Este site define os interesses que outros sites podem usar para lhe mostrar anúncios. Este site também obtém os seus interesses do Chrome para lhe mostrar anúncios mais relevantes.</translation>
+<translation id="8141792378421105106">Este site define os interesses que outros sites podem usar para lhe mostrar anúncios. Este site também obtém os seus interesses do WEB3 DNA Browser para lhe mostrar anúncios mais relevantes.</translation>
 <translation id="3249151924975132674">Empréstimos para estudantes e financiamento do ensino superior</translation>
 <translation id="3249845759089040423">Descontraído</translation>
 <translation id="3250640885957938546">Publicidade e marketing</translation>
@@ -887,7 +887,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3256863843508922226">Reforma e pensões</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para criar rapidamente um novo evento no Calendário Google</translation>
 <translation id="3261488570342242926">Saiba mais sobre cartões virtuais</translation>
-<translation id="3264837738038045344">Botão Gerir definições do Chrome, prima Enter para visitar as definições do Chrome</translation>
+<translation id="3264837738038045344">Botão Gerir definições do WEB3 DNA Browser, prima Enter para visitar as definições do WEB3 DNA Browser</translation>
 <translation id="3266793032086590337">Valor (em conflito)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Nenhum site bloqueado, incluindo sites relacionados}=1{1 site bloqueado, incluindo sites relacionados}other{# sites bloqueados, incluindo sites relacionados}}</translation>
 <translation id="3268451620468152448">Separadores abertos</translation>
@@ -901,7 +901,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3287510313208355388">Transferir quando estiver online</translation>
 <translation id="3288238092761586174"><ph name="URL" /> pode ter de efetuar passos adicionais para validar o seu pagamento</translation>
 <translation id="3293642807462928945">Saiba mais acerca da política <ph name="POLICY_NAME" /></translation>
-<translation id="3295444047715739395">Veja e efetue a gestão das suas palavras-passe nas definições do Chrome.</translation>
+<translation id="3295444047715739395">Veja e efetue a gestão das suas palavras-passe nas definições do WEB3 DNA Browser.</translation>
 <translation id="3299098170013242198">O Windows Hello está ativado para preencher palavras-passe</translation>
 <translation id="3303176609391916566">30 x 42 pol.</translation>
 <translation id="3303855915957856445">Não foram encontrados resultados da pesquisa</translation>
@@ -931,9 +931,9 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3366477098757335611">Ver cartões</translation>
 <translation id="3369192424181595722">Erro de relógio</translation>
 <translation id="3369459162151165748">Peças e acessórios de veículos</translation>
-<translation id="3371064404604898522">Definir o Chrome como o navegador predefinido</translation>
+<translation id="3371064404604898522">Definir o WEB3 DNA Browser como o navegador predefinido</translation>
 <translation id="337363190475750230">Desaprovisionado</translation>
-<translation id="3375754925484257129">Executar verificação de segurança do Chrome</translation>
+<translation id="3375754925484257129">Executar verificação de segurança do WEB3 DNA Browser</translation>
 <translation id="3377144306166885718">O servidor utilizou uma versão obsoleta do TLS.</translation>
 <translation id="3377188786107721145">Erro de análise da política</translation>
 <translation id="3377736046129930310">Utilizar o bloqueio de ecrã para confirmar os cartões mais rapidamente</translation>
@@ -957,7 +957,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3423742043356668186">Especificado pelo sistema</translation>
 <translation id="3427092606871434483">Permitir (predefinição)</translation>
 <translation id="3427342743765426898">&amp;Refazer edição</translation>
-<translation id="342781501876943858">O Chromium recomenda a reposição da palavra-passe se a tiver reutilizado noutros sites.</translation>
+<translation id="6443314628900752956">O WEB3 DNA Browser recomenda a reposição da palavra-passe se a tiver reutilizado noutros sites.</translation>
 <translation id="3428151540071562330">Um ou mais URIs de modelos do servidor DnsOverHttpsTemplates são inválidos e não serão utilizados.</translation>
 <translation id="3431216045099978607">Prima |<ph name="ACCELERATOR" />| para sair do modo de ecrã inteiro e ver a transferência.</translation>
 <translation id="3431636764301398940">Guardar este cartão neste dispositivo</translation>
@@ -979,7 +979,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para fechar todas as janelas de navegação anónima atualmente abertas</translation>
 <translation id="3477679029130949506">Fichas de filmes e horários de salas de cinema</translation>
 <translation id="3479552764303398839">Agora não</translation>
-<translation id="3484560055331845446">Pode perder o acesso à sua Conta Google. O Chrome recomenda que altere a palavra-passe agora. Ser-lhe-á pedido para iniciar sessão.</translation>
+<translation id="2148205384604312372">Pode perder o acesso à sua Conta Google. O WEB3 DNA Browser recomenda que altere a palavra-passe agora. Ser-lhe-á pedido para iniciar sessão.</translation>
 <translation id="3484861421501147767">Lembrete: código promocional guardado disponível</translation>
 <translation id="3487845404393360112">Tabuleiro 4</translation>
 <translation id="3495081129428749620">Procurar na página
@@ -988,7 +988,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3507936815618196901">Criar um mapa 3D do ambiente à sua volta e monitorizar a posição da câmara.</translation>
 <translation id="3512163584740124171">Esta política é ignorada, porque existe outra política do mesmo grupo de políticas com prioridade superior.</translation>
 <translation id="3515972145999192222">A sua organização bloqueou <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> porque viola uma política. <ph name="BEGIN_LEARN_MORE_LINK" />Saiba mais<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="35172538073169599">Botão Gerir endereços. Prima Enter para adicionar e gerir endereços nas Definições do Chrome.</translation>
+<translation id="35172538073169599">Botão Gerir endereços. Prima Enter para adicionar e gerir endereços nas Definições do WEB3 DNA Browser.</translation>
 <translation id="3518941727116570328">Processamento de vários objetos</translation>
 <translation id="3525130752944427905">10 x 14 pol.</translation>
 <translation id="3528171143076753409">O certificado do servidor não é fidedigno.</translation>
@@ -1015,7 +1015,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3576616784287504635">Uma página incorporada em <ph name="SITE" /> diz</translation>
 <translation id="3577473026931028326">Algo correu mal. Tente novamente.</translation>
 <translation id="3577902790357386792">Ginástica</translation>
-<translation id="3581089476000296252">O Chrome irá informá-lo quando esta página estiver pronta. &lt;a&gt;Cancelar&lt;/a&gt;</translation>
+<translation id="8000957821693253206">O WEB3 DNA Browser irá informá-lo quando esta página estiver pronta. &lt;a&gt;Cancelar&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Adicionar nome</translation>
 <translation id="3583757800736429874">&amp;Refazer movimentação</translation>
 <translation id="3584299510153766161">Perfuração dupla na parte inferior</translation>
@@ -1030,7 +1030,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3611317423880285981">Produtos para o lar</translation>
 <translation id="3614103345592970299">Tamanho 2</translation>
 <translation id="361438452008624280">Entrada da lista "<ph name="LANGUAGE_ID" />": idioma desconhecido ou não suportado.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para executar a verificação de segurança nas definições do Chrome</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para executar a verificação de segurança nas definições do WEB3 DNA Browser</translation>
 <translation id="3615877443314183785">Introduza uma data de expiração válida</translation>
 <translation id="36224234498066874">Limpar dados de navegação...</translation>
 <translation id="362276910939193118">Mostrar histórico completo</translation>
@@ -1041,9 +1041,9 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3631244953324577188">Biometria</translation>
 <translation id="3632503704576938756">Partilha de ecrã retomada</translation>
 <translation id="3632892046558972264">Partilha de ecrã em pausa</translation>
-<translation id="3633738897356909127">Botão Atualizar Chrome; prima Enter para atualizar o Chrome nas Definições do Chrome.</translation>
+<translation id="3633738897356909127">Botão Atualizar WEB3 DNA Browser; prima Enter para atualizar o WEB3 DNA Browser nas Definições do WEB3 DNA Browser.</translation>
 <translation id="3634530185120165534">Tabuleiro 5</translation>
-<translation id="3634567936866541746">Acabou de introduzir a sua palavra-passe num site fraudulento. Para proteger as suas contas, o Chrome recomenda verificar as palavras-passe guardadas.</translation>
+<translation id="6586777830476909681">Acabou de introduzir a sua palavra-passe num site fraudulento. Para proteger as suas contas, o WEB3 DNA Browser recomenda verificar as palavras-passe guardadas.</translation>
 <translation id="3642638418806704195">Aplicação:</translation>
 <translation id="3647286794400715637">Cada entrada de string de URLs tem de conter entre 1 e 2 URLs.</translation>
 <translation id="3650584904733503804">Validação com êxito</translation>
@@ -1087,7 +1087,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3740319564441798148">Transportes terrestres de longo curso</translation>
 <translation id="3744111561329211289">Sincronização em segundo plano</translation>
 <translation id="3744286742364977428">Os ficheiros que transfere são enviados para o Google Cloud ou para terceiros para análise. Por exemplo, podem ser analisados quanto a dados confidenciais ou software malicioso e podem ser armazenados com base nas políticas da empresa.</translation>
-<translation id="3744899669254331632">Não pode visitar <ph name="SITE" /> neste momento, porque o Website enviou credenciais baralhadas que o Chromium não consegue processar. Os erros de rede e os ataques são geralmente temporários, pelo que esta página deverá funcionar mais tarde.</translation>
+<translation id="3461179235677384837">Não pode visitar <ph name="SITE" /> neste momento, porque o Website enviou credenciais baralhadas que o WEB3 DNA Browser não consegue processar. Os erros de rede e os ataques são geralmente temporários, pelo que esta página deverá funcionar mais tarde.</translation>
 <translation id="3745099705178523657">Depois de confirmar, os detalhes do cartão da sua Conta Google são partilhados com este site.</translation>
 <translation id="3748148204939282805">Os atacantes em <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> podem levá-lo a tomar medidas perigosas, como instalar software ou revelar as suas informações pessoais (por exemplo, palavras-passe, números de telefone ou cartões de crédito). <ph name="BEGIN_LEARN_MORE_LINK" />Saiba mais<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Indústria da aviação</translation>
@@ -1207,7 +1207,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4097288585054919042">Desativar alertas</translation>
 <translation id="4098354747657067197">O site seguinte é fraudulento</translation>
 <translation id="4099048595830172239">A política do administrador não recomenda a partilha do seu ecrã com a app <ph name="APPLICATION_TITLE" /> quando está visível conteúdo confidencial:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para personalizar os tipos de letra e os respetivos tamanhos no Chrome</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para personalizar os tipos de letra e os respetivos tamanhos no WEB3 DNA Browser</translation>
 <translation id="4101413244023615925">Texto e gráficos</translation>
 <translation id="410148943680000050">Edição eletrónica</translation>
 <translation id="4103249731201008433">Número de série do dispositivo é inválido</translation>
@@ -1259,7 +1259,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4214357935346142455">perfil do ecrã de início de sessão</translation>
 <translation id="4220128509585149162">Erros</translation>
 <translation id="422022731706691852">Os atacantes em <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> podem tentar levá-lo a instalar programas que prejudicam a sua experiência de navegação (por exemplo, ao alterar a sua página inicial ou mostrar anúncios adicionais nos sites que visita). <ph name="BEGIN_LEARN_MORE_LINK" />Saiba mais<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;Passo 1: inicie sessão no portal&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;Passo 1: inicie sessão no portal&lt;/h4&gt;
     &lt;p&gt;As redes Wi-Fi em locais como cafés ou aeroportos necessitam que inicie sessão. Para ver a página de início de sessão, aceda a uma página cujo endereço contenha o código &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Aceda a qualquer Website que comece por &lt;code&gt;http://&lt;/code&gt;, como &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1267,11 +1267,11 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
     &lt;/ol&gt;
     &lt;h4&gt;Passo 2: abra a página no modo de navegação anónima (apenas no computador)&lt;/h4&gt;
     &lt;p&gt;Abra a página que estava a visitar numa janela de navegação anónima.&lt;/p&gt;
-    &lt;p&gt;Se conseguir abrir a página, significa que uma extensão do Chrome não está a funcionar corretamente. Para corrigir o erro, desative a extensão.&lt;/p&gt;
+    &lt;p&gt;Se conseguir abrir a página, significa que uma extensão do WEB3 DNA Browser não está a funcionar corretamente. Para corrigir o erro, desative a extensão.&lt;/p&gt;
     &lt;h4&gt;Passo 3: atualize o sistema operativo&lt;/h4&gt;
     &lt;p&gt;Certifique-se de que o seu dispositivo está atualizado.&lt;/p&gt;
     &lt;h4&gt;Passo 4: desative temporariamente o antivírus&lt;/h4&gt;
-    &lt;p&gt;Este erro é apresentado se tiver um software antivírus que forneça "Proteção HTTPS" ou "Análise de HTTPS". O antivírus impede o Chrome de fornecer segurança.&lt;/p&gt;
+    &lt;p&gt;Este erro é apresentado se tiver um software antivírus que forneça "Proteção HTTPS" ou "Análise de HTTPS". O antivírus impede o WEB3 DNA Browser de fornecer segurança.&lt;/p&gt;
     &lt;p&gt;Para resolver o problema, desative o software antivírus. Se a página funcionar depois de desativar o software, desative-o sempre que utilizar sites seguros.&lt;/p&gt;
     &lt;p&gt;Lembre-se de ativar novamente o programa antivírus quando terminar.&lt;/p&gt;
     &lt;h4&gt;Passo 5: obtenha ajuda adicional&lt;/h4&gt;
@@ -1307,7 +1307,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4305666528087210886">Não foi possível aceder ao seu ficheiro</translation>
 <translation id="4306529830550717874">Pretende guardar o endereço?</translation>
 <translation id="4306812610847412719">área de transferência</translation>
-<translation id="4308567447483056043">Esta política é ignorada porque o utilizador não está afiliado. Para que esta política seja aplicada, o navegador Chrome e o perfil têm de ser geridos através da consola do administrador pela mesma organização.</translation>
+<translation id="3323451588703398074">Esta política é ignorada porque o utilizador não está afiliado. Para que esta política seja aplicada, o navegador WEB3 DNA Browser e o perfil têm de ser geridos através da consola do administrador pela mesma organização.</translation>
 <translation id="4310070645992025887">Pesquise os seus percursos</translation>
 <translation id="4310496734563057511">Se partilhar este dispositivo com outras pessoas, pode ativar o Windows Hello para validar a sua identidade sempre que usar uma palavra-passe guardada</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1323,8 +1323,8 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4331519897422864041">Empilhador 5</translation>
 <translation id="4331708818696583467">Inseguro</translation>
 <translation id="4333561522337981382">Gerir janelas em todos os seus ecrãs</translation>
-<translation id="4340575312453649552">Uma vez que este anúncio utiliza demasiados recursos para o seu dispositivo, o Chrome removeu-o.</translation>
-<translation id="4340982228985273705">Este computador não é detetado como sendo gerido pela empresa, por isso, a política apenas pode instalar automaticamente extensões alojadas na Web Store do Chrome. O URL de atualização da Web Store do Chrome é "<ph name="CWS_UPDATE_URL" />".</translation>
+<translation id="3964216933844012257">Uma vez que este anúncio utiliza demasiados recursos para o seu dispositivo, o WEB3 DNA Browser removeu-o.</translation>
+<translation id="2218799635675752219">Este computador não é detetado como sendo gerido pela empresa, por isso, a política apenas pode instalar automaticamente extensões alojadas na Web Store do WEB3 DNA Browser. O URL de atualização da Web Store do WEB3 DNA Browser é "<ph name="CWS_UPDATE_URL" />".</translation>
 <translation id="4346197816712207223">Cartões de crédito aceites</translation>
 <translation id="4348834659292907206">A ligação para <ph name="SITE" /> não é segura</translation>
 <translation id="4349365535725594680">Não é possível partilhar o conteúdo confidencial</translation>
@@ -1335,7 +1335,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4356973930735388585">Os utilizadores mal intencionados neste site podem tentar instalar programas perigosos no seu computador que roubam ou eliminam as suas informações (por exemplo, fotos, palavras-passe, mensagens e cartões de crédito).</translation>
 <translation id="4358059973562876591">Os modelos que especificou podem não ser aplicados devido a um erro com a política DnsOverHttpsMode.</translation>
 <translation id="4358461427845829800">Gerir métodos de pagamento…</translation>
-<translation id="4359160567981085931">Acabou de introduzir a sua palavra-passe num site fraudulento. O Chrome pode ajudar. Para alterar a sua palavra-passe e notificar a Google de que a sua conta pode estar em risco, clique em Proteger conta.</translation>
+<translation id="4550052488331606118">Acabou de introduzir a sua palavra-passe num site fraudulento. O WEB3 DNA Browser pode ajudar. Para alterar a sua palavra-passe e notificar a Google de que a sua conta pode estar em risco, clique em Proteger conta.</translation>
 <translation id="4363222835916186793">Os alertas para este produto foram desativados</translation>
 <translation id="437040971055499437">Ocorre um evento de segurança</translation>
 <translation id="4372948949327679948">Valor <ph name="VALUE_TYPE" /> esperado.</translation>
@@ -1352,7 +1352,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4411435778612100394">Eletrónica para o consumidor</translation>
 <translation id="4414515549596849729">cookies e dados de sites</translation>
 <translation id="4415426530740016218">Endereço de recolha</translation>
-<translation id="4424024547088906515">Este servidor não conseguiu provar que é o domínio <ph name="DOMAIN" />; o Chrome não confia no respetivo certificado de segurança. Isto pode ser o resultado de uma configuração incorreta ou de um invasor a intercetar a sua ligação.</translation>
+<translation id="7486060888782747880">Este servidor não conseguiu provar que é o domínio <ph name="DOMAIN" />; o WEB3 DNA Browser não confia no respetivo certificado de segurança. Isto pode ser o resultado de uma configuração incorreta ou de um invasor a intercetar a sua ligação.</translation>
 <translation id="4428065317363009941">Personalização de anúncios</translation>
 <translation id="443121186588148776">Porta de série</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> não aceitou o seu certificado de início de sessão ou este pode não ter sido fornecido.</translation>
@@ -1376,7 +1376,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4489023393592172404">Envelope Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Encriptar palavras-passe sincronizadas com a sua Conta Google</translation>
-<translation id="4492519888999857993">Estas funcionalidades estão desativadas por predefinição. Não estarão disponíveis em versões futuras do Chrome.</translation>
+<translation id="5711551727888568041">Estas funcionalidades estão desativadas por predefinição. Não estarão disponíveis em versões futuras do WEB3 DNA Browser.</translation>
 <translation id="4493480324863638523">URL inválido. Tem de ser um URL com um esquema padrão, por exemplo, http://example.com ou https://example.com.</translation>
 <translation id="4500587658229086076">conteúdo inseguro</translation>
 <translation id="4506176782989081258">Erro de validação: <ph name="VALIDATION_ERROR" /></translation>
@@ -1384,7 +1384,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="450710068430902550">Partilha com o gestor</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para traduzir esta página com o Google Tradutor.</translation>
 <translation id="4514308731478712184">Desativar os percursos</translation>
-<translation id="4515275063822566619">Os cartões e os endereços são provenientes do Chrome e da sua Conta Google (<ph name="ACCOUNT_EMAIL" />). Pode geri-los nas <ph name="BEGIN_LINK" />Definições<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Os cartões e os endereços são provenientes do WEB3 DNA Browser e da sua Conta Google (<ph name="ACCOUNT_EMAIL" />). Pode geri-los nas <ph name="BEGIN_LINK" />Definições<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">A transferência deste ficheiro foi bloqueada pela política do administrador</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Envelope Monarch</translation>
@@ -1401,11 +1401,11 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Experimente desativar as extensões.</translation>
 <translation id="4566017918361049074">Ar livre</translation>
-<translation id="4567686777917670400">O administrador pode alterar a configuração do navegador remotamente. A atividade neste dispositivo também pode ser gerida fora do Chromium. <ph name="BEGIN_LINK" />Saiba mais<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">O administrador pode alterar a configuração do navegador remotamente. A atividade neste dispositivo também pode ser gerida fora do WEB3 DNA Browser. <ph name="BEGIN_LINK" />Saiba mais<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Entrega</translation>
 <translation id="4582204425268416675">Remover cartão</translation>
 <translation id="4582595824823167856">Receber uma mensagem de texto</translation>
-<translation id="4587425331216688090">Remover o endereço do Chrome?</translation>
+<translation id="4549859745110415735">Remover o endereço do WEB3 DNA Browser?</translation>
 <translation id="459089498662672729">A ação de colar a partir de <ph name="ORIGIN_NAME" /> nesta localização não é recomendada por uma política do administrador.</translation>
 <translation id="4592951414987517459">A sua ligação a <ph name="DOMAIN" /> está encriptada através de um conjunto de cifras moderno.</translation>
 <translation id="4594403342090139922">&amp;Anular eliminação</translation>
@@ -1414,18 +1414,18 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4600084978141515058">Cozinha vegana</translation>
 <translation id="4602465984861132303">Bowling</translation>
 <translation id="4606870351894164739">Impactante</translation>
-<translation id="4607603470419975064">Botão Ver sugestões do Chrome, prima Enter para saber mais acerca das funcionalidades do Chrome</translation>
-<translation id="4607608436550361748">Ver sugestões do Chrome</translation>
+<translation id="4607603470419975064">Botão Ver sugestões do WEB3 DNA Browser, prima Enter para saber mais acerca das funcionalidades do WEB3 DNA Browser</translation>
+<translation id="4607608436550361748">Ver sugestões do WEB3 DNA Browser</translation>
 <translation id="460848736049414407">Bloqueado pelo administrador</translation>
 <translation id="4610279718074907952">Este site está num grupo, definido por <ph name="SET_OWNER" />, que pode ver a sua atividade</translation>
 <translation id="4617273035598175554">Software de animação e gráficos</translation>
 <translation id="4622292761762557753">Transferir mesmo assim</translation>
-<translation id="4627675673814409125">Não é possível definir esta política ao nível do perfil do Chrome e a mesma será ignorada.</translation>
+<translation id="6607050922769407881">Não é possível definir esta política ao nível do perfil do WEB3 DNA Browser e a mesma será ignorada.</translation>
 <translation id="4628948037717959914">Fotografia</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Reembolso associado</translation>
 <translation id="4636930964841734540">Informações</translation>
-<translation id="4638670630777875591">Navegação anónima no Chromium</translation>
+<translation id="9064160697734393810">Navegação anónima no WEB3 DNA Browser</translation>
 <translation id="464342062220857295">Funcionalidades de pesquisa</translation>
 <translation id="4644670975240021822">Ordem inversa, com orientação para baixo</translation>
 <translation id="4646534391647090355">Aceder agora</translation>
@@ -1463,7 +1463,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4731638775147756694">Esta aplicação foi bloqueada pelo seu administrador.</translation>
 <translation id="4733082559415072992"><ph name="URL" /> pretende utilizar a localização do seu dispositivo.</translation>
 <translation id="4736491186715342415">Veículos motorizados</translation>
-<translation id="4736825316280949806">Reiniciar o Chromium</translation>
+<translation id="1624940062651381269">Reiniciar o WEB3 DNA Browser</translation>
 <translation id="4736934858538408121">Cartão virtual</translation>
 <translation id="473775607612524610">Atualizar</translation>
 <translation id="4738601419177586157">Sugestão de pesquisa de <ph name="TEXT" /></translation>
@@ -1477,10 +1477,10 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4754461935447132332">Não permitida para sites não seguros</translation>
 <translation id="4756388243121344051">&amp;Histórico</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Acabou de introduzir a sua palavra-passe num site fraudulento. Para proteger as suas contas, o Chromium recomenda verificar as palavras-chave guardadas.</translation>
+
 <translation id="4758311279753947758">Adicionar informações de contacto</translation>
 <translation id="4761104368405085019">Utilizar o seu microfone</translation>
-<translation id="4761869838909035636">Executar verificação de segurança do Chrome</translation>
+<translation id="2178430137592069173">Executar verificação de segurança do WEB3 DNA Browser</translation>
 <translation id="4764776831041365478">A página Web em <ph name="URL" /> poderá estar temporariamente inactiva ou poderá ter sido movida permanentemente para um novo endereço Web.</translation>
 <translation id="4766713847338118463">Agrafo duplo na parte inferior</translation>
 <translation id="4771973620359291008">Ocorreu um erro desconhecido.</translation>
@@ -1511,7 +1511,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4834250788637067901">Métodos de pagamento, ofertas e endereços com o Google Pay</translation>
 <translation id="4838327282952368871">Sonhador</translation>
 <translation id="4839087176073128681">Pague mais rápido da próxima vez e proteja o seu cartão com a segurança líder da indústria da Google.</translation>
-<translation id="4840250757394056958">Ver o Histórico do Chrome</translation>
+<translation id="4840250757394056958">Ver o Histórico do WEB3 DNA Browser</translation>
 <translation id="484462545196658690">Auto</translation>
 <translation id="484671803914931257">Obtenha descontos no comerciante <ph name="MERCHANT_NAME" /> e outros</translation>
 <translation id="484988093836683706">Usar desbloqueio do dispositivo</translation>
@@ -1553,7 +1553,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4934780484581617878">Gestão de janelas</translation>
 <translation id="4936134414789135531">Não foi possível encontrar o <ph name="VALUE_NAME" /> inserido.</translation>
 <translation id="4936675324097895694">Finanças</translation>
-<translation id="4940163644868678279">Navegação anónima no Chrome</translation>
+
 <translation id="4943872375798546930">Nenhum resultado</translation>
 <translation id="4943933359574417591">Mensagens de texto e instantâneas</translation>
 <translation id="4950898438188848926">Botão de mudança de separador: prima Enter para mudar para o separador aberto, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1576,7 +1576,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="4995216769782533993">Confirme o código de segurança para partilhar os detalhes do cartão com este site.</translation>
 <translation id="4995474875135717171">Modificado:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para gerir a pesquisa de sites e o motor de pesquisa predefinido</translation>
-<translation id="5002932099480077015">Quando esta opção está ativada, o Chrome armazena uma cópia do seu cartão neste dispositivo para preencher formulários mais rapidamente.</translation>
+
 <translation id="5011561501798487822">Idioma detetado</translation>
 <translation id="5015510746216210676">Nome do computador:</translation>
 <translation id="5017554619425969104">Texto que copiou</translation>
@@ -1585,7 +1585,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5018802455907704660">16 x 20 pol.</translation>
 <translation id="5019198164206649151">Armazenamento de segurança em mau estado</translation>
 <translation id="5020776957610079374">Música do mundo</translation>
-<translation id="5021557570875267742">Acompanhe os preços com o Chrome</translation>
+<translation id="4735860266347344416">Acompanhe os preços com o WEB3 DNA Browser</translation>
 <translation id="5023310440958281426">Verificar as políticas do gestor</translation>
 <translation id="5029568752722684782">Limpar cópia</translation>
 <translation id="5030338702439866405">Emitido por</translation>
@@ -1618,7 +1618,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5087580092889165836">Adicionar cartão</translation>
 <translation id="5088142053160410913">Mensagem para o operador</translation>
 <translation id="5093232627742069661">Dobra em Z</translation>
-<translation id="5094747076828555589">Este servidor não conseguiu provar que é o domínio <ph name="DOMAIN" />; o Chromium não confia no respetivo certificado de segurança. Isto pode ser o resultado de uma configuração incorreta ou de um invasor a intercetar a sua ligação.</translation>
+
 <translation id="5097099694988056070">Estatísticas do dispositivo, como utilização da CPU/RAM.</translation>
 <translation id="5097468150760963273">27 x 39 pol.</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1652,7 +1652,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5161506081086828129">Empilhador 9</translation>
 <translation id="5164798890604758545">É introduzido texto</translation>
 <translation id="516920405563544094">Introduza o Código de Segurança/CVC de <ph name="CREDIT_CARD" />. Depois de confirmar, os detalhes do cartão da sua Conta Google são partilhados com este site.</translation>
-<translation id="5169827969064885044">Pode perder o acesso à conta da sua entidade ou ser vítima de roubo de identidade. O Chrome recomenda a alteração da palavra-passe agora.</translation>
+
 <translation id="5171045022955879922">Pesquise ou escreva URL</translation>
 <translation id="5172758083709347301">Equipamento</translation>
 <translation id="5177076414499237632">Saiba mais sobre a origem e o tópico desta página</translation>
@@ -1664,7 +1664,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="51918995459521422"><ph name="ORIGIN" /> quer transferir vários ficheiros.</translation>
 <translation id="519422657042045905">As notas não estão disponíveis.</translation>
 <translation id="5201306358585911203">Uma página incorporada nesta página diz</translation>
-<translation id="5204468114771111727">O Chrome encontrou a palavra-passe que acabou de utilizar numa violação de dados. O Assistente Google pode alterar a sua palavra-passe automaticamente.</translation>
+<translation id="214264184283456941">O WEB3 DNA Browser encontrou a palavra-passe que acabou de utilizar numa violação de dados. O Assistente Google pode alterar a sua palavra-passe automaticamente.</translation>
 <translation id="5205222826937269299">Nome obrigatório</translation>
 <translation id="5209518306177824490">Impressão digital SHA-1</translation>
 <translation id="5209670883520018268">Tabuleiro 20</translation>
@@ -1681,7 +1681,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5239623327352565343">Acesso à localização permitido</translation>
 <translation id="5242889659037569123">Malas e acessórios de viagem</translation>
 <translation id="5250209940322997802">"Ligar à rede"</translation>
-<translation id="52517543715119994">Saiba mais acerca das funcionalidades do Chrome</translation>
+<translation id="52517543715119994">Saiba mais acerca das funcionalidades do WEB3 DNA Browser</translation>
 <translation id="5251803541071282808">Nuvem</translation>
 <translation id="5254043433801397071">Otimizar conteúdo para impressão</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1703,7 +1703,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5287456746628258573">Este site utiliza uma configuração de segurança desatualizada, que pode expor as suas informações (por exemplo, palavras-passe ou números de cartões de crédito) quando são enviados para este site.</translation>
 <translation id="5288108484102287882">A validação dos valores da política gerou avisos.</translation>
 <translation id="5288393065350884210">Contabilidade e auditoria</translation>
-<translation id="5288808348893593856">A ligação do site é segura a menos que o Chrome indique o contrário.</translation>
+<translation id="8429736460204202092">A ligação do site é segura a menos que o WEB3 DNA Browser indique o contrário.</translation>
 <translation id="5289384342738547352">Processamento de vários documentos</translation>
 <translation id="5293919335876685914">Carros coupé</translation>
 <translation id="5296589789433599000">Culinária e receitas</translation>
@@ -1722,14 +1722,14 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5324080437450482387">Escolher informações de contacto</translation>
 <translation id="5329858041417644019">O seu navegador não é gerido</translation>
 <translation id="5332219387342487447">Método de envio</translation>
-<translation id="5333022057423422993">O Chrome encontrou a palavra-passe que acabou de utilizar numa violação de dados. Para proteger as suas contas, recomendamos que verifique as suas palavras-passe guardadas.</translation>
+<translation id="5377534826839863091">O WEB3 DNA Browser encontrou a palavra-passe que acabou de utilizar numa violação de dados. Para proteger as suas contas, recomendamos que verifique as suas palavras-passe guardadas.</translation>
 <translation id="5334013548165032829">Registos de sistema detalhados</translation>
 <translation id="5334145288572353250">Pretende guardar o endereço?</translation>
 <translation id="5335920952954443287">Coração a bater</translation>
 <translation id="5340250774223869109">A app está bloqueada</translation>
 <translation id="534295439873310000">Dispositivos NFC</translation>
 <translation id="5344579389779391559">Esta página pode tentar cobrar-lhe dinheiro</translation>
-<translation id="5347645913823149105">Botão Personalizar tipos de letra no Chrome, prima Enter para personalizar os tipos de letra e os respetivos tamanhos no Chrome</translation>
+<translation id="5347645913823149105">Botão Personalizar tipos de letra no WEB3 DNA Browser, prima Enter para personalizar os tipos de letra e os respetivos tamanhos no WEB3 DNA Browser</translation>
 <translation id="5355557959165512791">Não pode visitar <ph name="SITE" /> neste momento, porque o certificado foi revogado. Os erros de rede e os ataques são geralmente temporários, pelo que esta página deverá funcionar mais tarde.</translation>
 <translation id="5356837363448394805">Corado</translation>
 <translation id="5357848622083956825">Arte visual e design</translation>
@@ -1748,7 +1748,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="540630185148148480">Ativar alertas</translation>
 <translation id="540969355065856584">Este servidor não conseguiu provar que é <ph name="DOMAIN" />; de momento, o respetivo certificado de segurança não é válido. Isto pode ser provocado por uma configuração incorreta ou por um atacante que esteja a intercetar a sua ligação.</translation>
 <translation id="5412040515238827314">Formato inválido: esperava-se uma lista de padrões.</translation>
-<translation id="5412236728747081950">Este site obtém os seus interesses do Chrome para lhe mostrar anúncios mais relevantes</translation>
+<translation id="3825896935771081728">Este site obtém os seus interesses do WEB3 DNA Browser para lhe mostrar anúncios mais relevantes</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> – <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Empilhador 4</translation>
 <translation id="5414511064953050917">Mover mesmo assim</translation>
@@ -1791,7 +1791,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para personalizar as ferramentas de acessibilidade nas definições do ChromeOS</translation>
 <translation id="5528532273234423708">Domótica</translation>
 <translation id="55293785478302737">Coser extremidade</translation>
-<translation id="5535133333442455806">Botão Limpar dados de navegação; prima Enter para limpar o seu histórico de navegação, cookies, cache e muito mais nas Definições do Chrome.</translation>
+<translation id="5535133333442455806">Botão Limpar dados de navegação; prima Enter para limpar o seu histórico de navegação, cookies, cache e muito mais nas Definições do WEB3 DNA Browser.</translation>
 <translation id="5536214594743852365">Mostrar a secção "<ph name="SECTION" />"</translation>
 <translation id="553782666181800029">Envelope Chou 2</translation>
 <translation id="5539243836947087108">Raft</translation>
@@ -1801,7 +1801,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5541546772353173584">Adicionar email</translation>
 <translation id="5545756402275714221">Artigos para si</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="5552137475244467770">O Chrome verifica periodicamente se as suas palavras-passe fazem parte das listas publicadas online. Ao fazê-lo, as suas palavras-passe e nomes de utilizador estão encriptados, pelo que não podem ser lidos por ninguém, incluindo a Google.</translation>
+<translation id="8518722024434498270">O WEB3 DNA Browser verifica periodicamente se as suas palavras-passe fazem parte das listas publicadas online. Ao fazê-lo, as suas palavras-passe e nomes de utilizador estão encriptados, pelo que não podem ser lidos por ninguém, incluindo a Google.</translation>
 <translation id="5556459405103347317">Recarregar</translation>
 <translation id="5560088892362098740">Data de validade</translation>
 <translation id="55635442646131152">Contorno do documento</translation>
@@ -1864,7 +1864,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5720705177508910913">Utilizador atual</translation>
 <translation id="5723287205918986743">Indústria de defesa</translation>
 <translation id="5725567311035061582">Gerir cookies e dados de sites</translation>
-<translation id="5730040223043577876">O Chrome recomenda a reposição da palavra-passe se a tiver reutilizado noutros sites.</translation>
+
 <translation id="5736165827969430182">Metais e exploração mineira</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Guardar o cartão na sua Conta Google}other{Guardar os cartões na sua Conta Google}}</translation>
 <translation id="5738385766833540397">Faça a gestão da forma como recebe alertas de descida do preço relativos a produtos que monitoriza</translation>
@@ -1890,14 +1890,14 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="5784606427469807560">Ocorreu um erro ao confirmar o cartão. Verifique a sua ligação à Internet e tente novamente.</translation>
 <translation id="5785756445106461925">Além disso, esta página inclui outros recursos que não são seguros. Estes recursos podem ser vistos por outros utilizadores em trânsito e modificados por um utilizador mal intencionado com o intuito de alterar o aspeto da página.</translation>
 <translation id="5786044859038896871">Pretende preencher as informações do cartão?</translation>
-<translation id="578633867165174378">O Chrome encontrou a palavra-passe que acabou de utilizar numa violação de dados. Recomendamos que altere agora esta palavra-passe.</translation>
+<translation id="5116020889491573249">O WEB3 DNA Browser encontrou a palavra-passe que acabou de utilizar numa violação de dados. Recomendamos que altere agora esta palavra-passe.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Pretende preencher o seu cartão <ph name="CARD_DETAIL" />?</translation>
 <translation id="5804241973901381774">Permissões</translation>
-<translation id="5808435672482059465">Ver Histórico do Chrome</translation>
+<translation id="7552154626705223867">Ver Histórico do WEB3 DNA Browser</translation>
 <translation id="5808542072418270309">Jogos de simulação</translation>
 <translation id="5810442152076338065">A sua ligação a <ph name="DOMAIN" /> está encriptada através de um conjunto de cifras obsoleto.</translation>
-<translation id="5812947184178430888">Quando o Chrome sinaliza eventos de segurança, são enviados dados relevantes acerca dos eventos ao seu administrador. Estes podem incluir os URLs das páginas que visita no Chrome, os metadados ou os nomes de ficheiros e o nome de utilizador que utiliza para iniciar sessão nas aplicações baseadas na Web, no dispositivo e no Chrome.</translation>
+<translation id="8479644990349381409">Quando o WEB3 DNA Browser sinaliza eventos de segurança, são enviados dados relevantes acerca dos eventos ao seu administrador. Estes podem incluir os URLs das páginas que visita no WEB3 DNA Browser, os metadados ou os nomes de ficheiros e o nome de utilizador que utiliza para iniciar sessão nas aplicações baseadas na Web, no dispositivo e no WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Refazer adição</translation>
 <translation id="5813309815819933152">Reality shows</translation>
 <translation id="5813753398265398978">Física</translation>
@@ -2014,10 +2014,10 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6118782133429281336">A lista de origens está vazia.</translation>
 <translation id="6120179357481664955">Lembra-se do seu ID do UPI?</translation>
 <translation id="6122181661879998141">na frente do cartão</translation>
-<translation id="6124432979022149706">Conetores do Chrome Enterprise</translation>
+<translation id="7419188267353166461">Conetores do WEB3 DNA Browser Enterprise</translation>
 <translation id="6126565365696310362">Envelope Chinese n.º 2</translation>
 <translation id="6127379762771434464">Item removido</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Saiba mais sobre a Navegação anónima no Chrome<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">A extensão do ficheiro está vazia ou tem um formato incorreto.</translation>
 <translation id="6139975341602920272">17 x 22 pol.</translation>
 <translation id="6146055958333702838">Verifique os cabos e reinicie todos os routers, modems ou outros
@@ -2043,10 +2043,10 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6197648101609735209">89 x 89 mm</translation>
 <translation id="6203231073485539293">Verificar a ligação à Internet</translation>
 <translation id="6212314149070368045">Fanfold dos EUA</translation>
-<translation id="6218753634732582820">Remover o endereço do Chromium?</translation>
+
 <translation id="622039917539443112">Dobra paralela</translation>
 <translation id="6221345481584921695">A Navegação Segura do Google <ph name="BEGIN_LINK" />detetou software malicioso<ph name="END_LINK" /> recentemente em <ph name="SITE" />. Os Sites que normalmente são seguros por vezes são infetados com software malicioso. O conteúdo malicioso provém de <ph name="SUBRESOURCE_HOST" />, um distribuidor de software malicioso conhecido.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para personalizar as ferramentas de acessibilidade nas definições do Chrome</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para personalizar as ferramentas de acessibilidade nas definições do WEB3 DNA Browser</translation>
 <translation id="6229649258872345286">Viagens familiares</translation>
 <translation id="6232271601416750929">Beleza consciente</translation>
 <translation id="6233160458685643793">Sorridente</translation>
@@ -2055,7 +2055,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6240447795304464094">Logótipo do Google Pay</translation>
 <translation id="6241121617266208201">Ocultar sugestões</translation>
 <translation id="624499991300733384">Serviço do compositor de impressão</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para gerir ficheiros que transferiu no Chrome</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para gerir ficheiros que transferiu no WEB3 DNA Browser</translation>
 <translation id="6254436959401408446">Não existe memória suficiente para abrir esta página</translation>
 <translation id="6259156558325130047">&amp;Refazer reordenação</translation>
 <translation id="6263376278284652872">Marcadores do <ph name="DOMAIN" /></translation>
@@ -2063,21 +2063,21 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6264485186158353794">Voltar para segurança</translation>
 <translation id="6265794661083428563">Copie o valor da política <ph name="POLICY_NAME" /></translation>
 <translation id="6266934640124581640">Azul esverdeado claro</translation>
-<translation id="6272088941196661550">Retome o percurso para ver atividade relevante no seu Histórico do Chrome</translation>
+<translation id="1989642600714730446">Retome o percurso para ver atividade relevante no seu Histórico do WEB3 DNA Browser</translation>
 <translation id="6272383483618007430">Google Update</translation>
 <translation id="6276112860590028508">As páginas da sua lista de leitura aparecem aqui</translation>
 <translation id="627746635834430766">Para pagar mais rapidamente da próxima vez, guarde o cartão e o endereço de faturação na sua Conta Google.</translation>
 <translation id="6279183038361895380">Premir |<ph name="ACCELERATOR" />| para mostrar o cursor</translation>
 <translation id="6280223929691119688">Não é possível entregar neste endereço. Selecione um diferente.</translation>
 <translation id="6284292079994426700">26 x 38 pol.</translation>
-<translation id="6285507000506177184">Botão Gerir transferências no Chrome, prima Enter para gerir os ficheiros que transferiu no Chrome</translation>
+<translation id="6285507000506177184">Botão Gerir transferências no WEB3 DNA Browser, prima Enter para gerir os ficheiros que transferiu no WEB3 DNA Browser</translation>
 <translation id="6289939620939689042">Cor da página</translation>
 <translation id="6290238015253830360">Os seus artigos sugeridos são apresentados aqui</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">Código de segurança:</translation>
 <translation id="6300452962057769623">{0,plural, =0{O seu dispositivo será reiniciado agora}=1{O seu dispositivo será reiniciado dentro de 1 segundo}other{O seu dispositivo será reiniciado dentro de # segundos}}</translation>
 <translation id="6301104306974789820">Receba notificações de monitorização de preços</translation>
-<translation id="6302269476990306341">Paragem do Assistente Google no Chrome</translation>
+<translation id="6804344251855709483">Paragem do Assistente Google no WEB3 DNA Browser</translation>
 <translation id="6305205051461490394"><ph name="URL" /> está inacessível.</translation>
 <translation id="6311165245110979290">Cartão virtual disponível</translation>
 <translation id="6312113039770857350">Página Web não disponível</translation>
@@ -2086,7 +2086,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6319249456820053699">Câmaras e câmaras de vídeo</translation>
 <translation id="6321917430147971392">Verificar as definições do DNS</translation>
 <translation id="6322182122604171028">Não foi possível utilizar o Windows Hello</translation>
-<translation id="6326947323444967009">Defina o Chrome como o navegador predefinido do sistema nas definições do iOS</translation>
+<translation id="6326947323444967009">Defina o WEB3 DNA Browser como o navegador predefinido do sistema nas definições do iOS</translation>
 <translation id="6328639280570009161">Tente desativar a previsão de rede</translation>
 <translation id="6328784461820205019">"A sua ligação não é privada", "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;", "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;", "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;", "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" ou "Erro de certificado SSL"</translation>
 <translation id="6328786501058569169">Este site é fraudulento</translation>
@@ -2097,7 +2097,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6348220984832452017">Variações ativas</translation>
 <translation id="6349101878882523185">Instale a aplicação <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Nenhuma}=1{1 palavra-passe (de <ph name="DOMAIN_LIST" />, sincronizada)}=2{2 palavras-passe (de <ph name="DOMAIN_LIST" />, sincronizadas)}other{# palavras-passe (de <ph name="DOMAIN_LIST" />, sincronizadas)}}</translation>
-<translation id="6355392890578844978">Este navegador não é gerido por uma empresa ou outra entidade. A atividade neste dispositivo pode ser gerida fora do Chromium. <ph name="BEGIN_LINK" />Saiba mais<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Este navegador não é gerido por uma empresa ou outra entidade. A atividade neste dispositivo pode ser gerida fora do WEB3 DNA Browser. <ph name="BEGIN_LINK" />Saiba mais<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">O que significam?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Verificar a configuração do proxy, da firewall e do DNS seguro<ph name="END_LINK" /></translation>
@@ -2122,7 +2122,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6405181733356710802">Continuar para <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Introduza a data de validade e o Código de Segurança/CVC de <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">O Chromium pode ajudá-lo a proteger a sua Conta Google e alterar a palavra-passe.</translation>
+<translation id="4571189034051647917">O WEB3 DNA Browser pode ajudá-lo a proteger a sua Conta Google e alterar a palavra-passe.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Material</translation>
 <translation id="6427730057873428458">Dobra simétrica</translation>
@@ -2160,7 +2160,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6502626736864595182">Fornecedores de fóruns e chats</translation>
 <translation id="6502991525169604759">Sem as suas alterações</translation>
 <translation id="6506959208958864820">Envelope</translation>
-<translation id="6508722015517270189">Reiniciar o Chrome</translation>
+
 <translation id="6513005815064132016">Pode solicitar a monitorização da posição da câmara</translation>
 <translation id="6517596291481585650">Aviso: esta política não foi unida como lista, conforme especificado pela política, porque não é uma lista.</translation>
 <translation id="6518133107902771759">Verificar</translation>
@@ -2181,11 +2181,11 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="657902945730878902">Desenhar e colorir</translation>
 <translation id="6579630537141957243">Pretende ligar o dispositivo MIDI?</translation>
 <translation id="6579990219486187401">Rosa claro</translation>
-<translation id="6587182488465657433">O Chrome encontrou a palavra-passe que acabou de utilizar numa violação de dados. Para proteger as suas contas, recomendamos que a altere agora e que verifique as suas palavras-passe guardadas.</translation>
+<translation id="3021126460781205886">O WEB3 DNA Browser encontrou a palavra-passe que acabou de utilizar numa violação de dados. Para proteger as suas contas, recomendamos que a altere agora e que verifique as suas palavras-passe guardadas.</translation>
 <translation id="6587893660316489419">Envelope B5</translation>
 <translation id="6587923378399804057">Link copiado por si</translation>
 <translation id="6591833882275308647">O seu <ph name="DEVICE_TYPE" /> não é gerido.</translation>
-<translation id="6592952801936330159">Botão Gerir definições de sites. Prima Enter para gerir as autorizações e os dados armazenados em sites nas Definições do Chrome.</translation>
+<translation id="6592952801936330159">Botão Gerir definições de sites. Prima Enter para gerir as autorizações e os dados armazenados em sites nas Definições do WEB3 DNA Browser.</translation>
 <translation id="6596325263575161958">Opções de encriptação</translation>
 <translation id="6599642189720630047">Produtos monitorizados</translation>
 <translation id="6611723696964473273">Notícias de economia</translation>
@@ -2202,7 +2202,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6645291930348198241">Aceder aos cookies e dados de sites.</translation>
 <translation id="6645478838938543427">Os alertas de descida do preço vão ser enviados para <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Nenhum}=1{De 1 site (a sessão na sua Conta Google não é terminada).}other{De # sites (a sessão na sua Conta Google não é terminada).}}</translation>
-<translation id="6648459603387803038">O administrador pode alterar a configuração do navegador remotamente. A atividade neste dispositivo também pode ser gerida fora do Chrome.</translation>
+<translation id="6228269625838082008">O administrador pode alterar a configuração do navegador remotamente. A atividade neste dispositivo também pode ser gerida fora do WEB3 DNA Browser.</translation>
 <translation id="6648524591329069940">Tipo de letra Serif</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
 <translation id="6651270836885078973">Gerido por:</translation>
@@ -2214,7 +2214,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6663846344464066639">Mãos cruzadas</translation>
 <translation id="6665553082534466207">Perfuração tripla à direita</translation>
 <translation id="6668389483194953109">Foi encontrado o nome do tamanho do papel "personalizado", mas a propriedade "custom_size" está vazia ou é inválida.</translation>
-<translation id="6671697161687535275">Remover a sugestão do formulário do Chromium?</translation>
+<translation id="3922033200710514285">Remover a sugestão do formulário do WEB3 DNA Browser?</translation>
 <translation id="6683717648675961851">Ofertas de emprego</translation>
 <translation id="6685834062052613830">Termine sessão e conclua a configuração</translation>
 <translation id="6687335167692595844">Tamanho do tipo de letra solicitado</translation>
@@ -2222,7 +2222,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6688743156324860098">Atualizar…</translation>
 <translation id="6688775486821967877">O cartão virtual não está disponível neste momento. Tente mais tarde</translation>
 <translation id="6689249931105087298">Relativa com compressão do ponto preto</translation>
-<translation id="6689271823431384964">O Chrome está a disponibilizar a opção de guardar os seus cartões na sua Conta Google porque tem sessão iniciada. Pode alterar este comportamento nas definições. O nome do titular do cartão vem da sua conta.</translation>
+<translation id="6568883612935818921">O WEB3 DNA Browser está a disponibilizar a opção de guardar os seus cartões na sua Conta Google porque tem sessão iniciada. Pode alterar este comportamento nas definições. O nome do titular do cartão vem da sua conta.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para encontrar o seu dispositivo na Conta Google</translation>
 <translation id="6696588630955820014">Botão Partilhar este separador, prima Enter para partilhar este separador ao partilhar o link, criar um código QR, transmitir e muito mais</translation>
 <translation id="6698381487523150993">Criado:</translation>
@@ -2287,7 +2287,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="6883221904761970440">A página de autenticação das credenciais de pagamento seguro está fechada</translation>
 <translation id="6884662655240309489">Tamanho 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">O Chrome simplificou esta página para facilitar a leitura. O Chrome obteve a página original através de uma ligação insegura.</translation>
+<translation id="2764758098439961275">O WEB3 DNA Browser simplificou esta página para facilitar a leitura. O WEB3 DNA Browser obteve a página original através de uma ligação insegura.</translation>
 <translation id="6890443033788248019">Permitir o acesso à localização?</translation>
 <translation id="6890531741535756070">Optou por validar com <ph name="DEVICE_LABEL" /> em Websites que usam o fornecedor <ph name="PROVIDER_ORIGIN" />. Este fornecedor pode ter armazenado informações sobre o seu método de pagamento, que pode <ph name="BEGIN_LINK" />pedir para ser eliminado<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">O nível da política não é suportado.</translation>
@@ -2360,7 +2360,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="7058774143982824355">Serviço do analisador de palavras-passe CSV</translation>
 <translation id="7061777300866737982">Segurança em casa</translation>
 <translation id="7062635574500127092">Azul esverdeado</translation>
-<translation id="706295145388601875">Adicione e faça a gestão de endereços nas Definições do Chrome.</translation>
+<translation id="706295145388601875">Adicione e faça a gestão de endereços nas Definições do WEB3 DNA Browser.</translation>
 <translation id="7064851114919012435">Informações de contacto</translation>
 <translation id="7067633076996245366">Soul e R&amp;B</translation>
 <translation id="7068733155164172741">Introduza um código de <ph name="OTP_LENGTH" /> dígitos</translation>
@@ -2371,11 +2371,11 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="7081308185095828845">Esta funcionalidade não está disponível no seu dispositivo.</translation>
 <translation id="7083258188081898530">Tabuleiro 9</translation>
 <translation id="7086090958708083563">Carregamento solicitado pelo utilizador</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para gerir as autorizações e os dados armazenados em sites nas Definições do Chrome.</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para gerir as autorizações e os dados armazenados em sites nas Definições do WEB3 DNA Browser.</translation>
 <translation id="7096937462164235847">A identidade deste Website não foi validada.</translation>
 <translation id="7101893872976785596">Filmes de terror</translation>
 <translation id="7102079138917191645">Construção e manutenção</translation>
-<translation id="7102554173784142865">Jogar Chrome Dino</translation>
+<translation id="7102554173784142865">Jogar WEB3 DNA Browser Dino</translation>
 <translation id="7108338896283013870">Ocultar</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> pretende utilizar a câmara.</translation>
 <translation id="7108819624672055576">Permitida por uma extensão</translation>
@@ -2383,12 +2383,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="7112327784801341716">Não vê as suas informações atuais? Contacte o banco para as atualizar.</translation>
 <translation id="7118618213916969306">Pesquisar URL da área de transferência, <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Fechar outros separadores ou programas</translation>
-<translation id="7129355289156517987">Quando fechar todos os separadores de navegação anónima do Chromium, a sua atividade nesses separadores será limpa neste dispositivo:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Atividade de navegação<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Histórico de pesquisas<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Informações introduzidas em formulários<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Não é possível enviar para este endereço. Selecione um diferente.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Carregamento bloqueado</translation>
@@ -2475,13 +2470,13 @@ Detalhes adicionais:
 <translation id="7359588939039777303">Anúncios bloqueados.</translation>
 <translation id="7360451453306104998">Quando a Google encontra descontos disponíveis, estes são apresentados durante o pagamento</translation>
 <translation id="7363096869660964304">No entanto, a navegação não é invisível. Passar para a Navegação anónima não oculta a navegação do empregador, do fornecedor de serviços de Internet nem dos Websites que visitar.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para adicionar e gerir endereços nas Definições do Chrome.</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para adicionar e gerir endereços nas Definições do WEB3 DNA Browser.</translation>
 <translation id="7365849542400970216">Sabe qual é a utilização do seu dispositivo?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Controladores de pagamento</translation>
 <translation id="7372973238305370288">resultado da pesquisa</translation>
 <translation id="7374461526650987610">Processadores de protocolos</translation>
-<translation id="7374733840632556089">Este problema ocorre devido a um certificado que o utilizador ou outra pessoa instalou no dispositivo. Sabe-se que o certificado é utilizado para monitorizar e intercetar redes e não é considerado fidedigno pelo Chrome. Embora existam alguns casos legítimos para a monitorização, como numa rede escolar ou da empresa, o Chrome pretende certificar-se de que o utilizador tem conhecimento da situação, mesmo que não seja possível interrompê-la. A monitorização pode ocorrer em qualquer navegador ou aplicação que aceda à Web.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Nenhum site permitido}=1{1 site permitido}other{# sites permitidos}}</translation>
 <translation id="7375818412732305729">É anexado um ficheiro</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2499,7 +2494,7 @@ Detalhes adicionais:
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Partilhe este separador ao partilhar o link, criar um código QR, transmitir e muito mais</translation>
 <translation id="7403591733719184120">O seu <ph name="DEVICE_NAME" /> é gerido</translation>
-<translation id="7407424307057130981">&lt;p&gt;Este erro é apresentado se tiver software Superfish no seu computador com Windows.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Este erro é apresentado se tiver software Superfish no seu computador com Windows.&lt;/p&gt;
       &lt;p&gt;Siga estes passos para desativar temporariamente o software para que possa aceder à Web. Vai precisar de privilégios de administrador.&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;Clique em &lt;strong&gt;Iniciar&lt;/strong&gt; e, em seguida, pesquise e selecione &lt;strong&gt;"Ver serviços locais"&lt;/strong&gt;.
@@ -2507,14 +2502,14 @@ Detalhes adicionais:
       &lt;li&gt;Em &lt;strong&gt;Tipo de arranque&lt;/strong&gt;, selecione &lt;strong&gt;Desativado&lt;/strong&gt;.
       &lt;li&gt;Em &lt;strong&gt;Estado do serviço&lt;/strong&gt;, clique em &lt;strong&gt;Parar&lt;/strong&gt;.
       &lt;li&gt;Clique em &lt;strong&gt;Aplicar&lt;/strong&gt; e, de seguida, em &lt;strong&gt;OK&lt;/strong&gt;.
-      &lt;li&gt;Visite o &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Centro de Ajuda do Chrome&lt;/a&gt; para saber como remover permanentemente o software do computador.      &lt;/ol&gt;</translation>
+      &lt;li&gt;Visite o &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Centro de Ajuda do WEB3 DNA Browser&lt;/a&gt; para saber como remover permanentemente o software do computador.      &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Adorável</translation>
 <translation id="741204030948306876">Sim, aceito</translation>
 <translation id="7416351320495623771">Gerir palavras-passe…</translation>
 <translation id="7418620734632363981">Programação</translation>
 <translation id="7419106976560586862">Caminho do Perfil</translation>
 <translation id="7421067045979951561">processadores de protocolos</translation>
-<translation id="7426022697669111648">Botão Ver Histórico do Chrome, prima Enter para ver e gerir o seu histórico de navegação nas definições do Chrome</translation>
+<translation id="7426022697669111648">Botão Ver Histórico do WEB3 DNA Browser, prima Enter para ver e gerir o seu histórico de navegação nas definições do WEB3 DNA Browser</translation>
 <translation id="7427366580982928791">Segurança das crianças na Internet</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Adicionar informações de contacto</translation>
@@ -2543,12 +2538,7 @@ Detalhes adicionais:
 <translation id="7497998058912824456">Botão Criar documento prima Enter para criar rapidamente um novo Documento do Google Docs</translation>
 <translation id="7501663406926337752">O site seguinte foi denunciado pela sua organização</translation>
 <translation id="7501853161948120656">Recursos educacionais</translation>
-<translation id="7506488012654002225">O Chrome <ph name="BEGIN_EMPHASIS" />não guardará<ph name="END_EMPHASIS" /> as seguintes informações:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />O seu histórico de navegação
-            <ph name="LIST_ITEM" />Os cookies e os dados de sites
-            <ph name="LIST_ITEM" />As informações introduzidas em formulários
-          <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Envelope n.º 9</translation>
 <translation id="7508255263130623398">O ID do dispositivo da política devolvido está vazio ou não corresponde ao ID do dispositivo atual</translation>
 <translation id="7508870219247277067">Verde abacate</translation>
@@ -2570,7 +2560,7 @@ Detalhes adicionais:
 <translation id="7542995811387359312">O preenchimento automático de cartões de crédito está desativado, porque este formulário não utiliza uma ligação segura.</translation>
 <translation id="7548892272833184391">Corrigir erros de ligação</translation>
 <translation id="7549584377607005141">Esta página Web requer os dados introduzidos anteriormente para ser corretamente apresentada. Pode enviar novamente esses dados, mas ao fazê-lo, irá repetir as ações que esta página executou anteriormente.</translation>
-<translation id="7550637293666041147">O nome de utilizador do dispositivo e o nome de utilizador do Chrome</translation>
+<translation id="4843621636877577887">O nome de utilizador do dispositivo e o nome de utilizador do WEB3 DNA Browser</translation>
 <translation id="7551484245293639699">Seguro de viagem</translation>
 <translation id="755279583747225797">A avaliação está ativa</translation>
 <translation id="7552846755917812628">Experimente as sugestões seguintes:</translation>
@@ -2578,13 +2568,13 @@ Detalhes adicionais:
 <translation id="7554791636758816595">Novo separador</translation>
 <translation id="7555777498260651025">Programas de TV familiares</translation>
 <translation id="7559278538486662777">Não é possível redimensionar esta app.</translation>
-<translation id="7564049878696755256">Pode perder o acesso à sua conta do serviço <ph name="ORG_NAME" /> ou ser vítima de roubo de identidade. O Chrome recomenda a alteração da palavra-passe agora.</translation>
+<translation id="8940464370390138384">Pode perder o acesso à sua conta do serviço <ph name="ORG_NAME" /> ou ser vítima de roubo de identidade. O WEB3 DNA Browser recomenda a alteração da palavra-passe agora.</translation>
 <translation id="7564680668369175887">Carrinhas</translation>
 <translation id="7567204685887185387">Este servidor não conseguiu provar que é o domínio <ph name="DOMAIN" />; o respetivo certificado de segurança poderá ter sido emitido de forma fraudulenta. Isto pode ser o resultado de uma configuração incorreta ou de um invasor a intercetar a sua ligação.</translation>
-<translation id="7568616151991626879">O Google Chrome está a tentar preencher a sua palavra-passe na app <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">O WEB3 DNA Browser está a tentar preencher a sua palavra-passe na app <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golfe</translation>
 <translation id="7569761772822664555">Botão Gerir motores de pesquisa, prima Enter para gerir o seu motor de pesquisa e pesquisa de sites predefinidos</translation>
-<translation id="7569952961197462199">Remover o cartão de crédito do Chrome?</translation>
+<translation id="9202224267417193484">Remover o cartão de crédito do WEB3 DNA Browser?</translation>
 <translation id="7569983096843329377">Preto</translation>
 <translation id="7575207903026901870">Botão Remover sugestão, prima Enter para remover esta sugestão.</translation>
 <translation id="7577900504646297215">Gerir interesses</translation>
@@ -2603,15 +2593,15 @@ Detalhes adicionais:
 <translation id="7600965453749440009">Nunca traduzir do <ph name="LANGUAGE" /></translation>
 <translation id="7610193165460212391">O valor está fora do intervalo <ph name="VALUE" /> .</translation>
 <translation id="7613889955535752492">Exp.: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para ver e gerir as suas palavras-passe nas Definições do Chrome.</translation>
-<translation id="7616645509853975347">O seu administrador ativou os Chrome Enterprise Connectors no navegador. Estes conetores têm acesso a alguns dos seus dados.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para ver e gerir as suas palavras-passe nas Definições do WEB3 DNA Browser.</translation>
+<translation id="2698924724374512123">O seu administrador ativou os WEB3 DNA Browser Enterprise Connectors no navegador. Estes conetores têm acesso a alguns dos seus dados.</translation>
 <translation id="7617825962482469577">Envelope C7/C6</translation>
 <translation id="7619838219691048931">Folha final</translation>
 <translation id="7625242817712715120">A política do administrador não recomenda a impressão deste conteúdo</translation>
 <translation id="762844065391966283">Um item de cada vez</translation>
 <translation id="7631444403134069754">Atletismo</translation>
 <translation id="7633909222644580952">Dados de desempenho e relatórios de falhas</translation>
-<translation id="7637571805876720304">Remover o cartão de crédito do Chromium?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Nenhuma}=1{1 palavra-passe na sua conta (para <ph name="DOMAIN_LIST" />)}other{# palavras-passe na sua conta (para <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Portas de série</translation>
 <translation id="7639968568612851608">Cinzento-escuro</translation>
@@ -2635,7 +2625,7 @@ Detalhes adicionais:
 <translation id="7673278391011283842">Caixa de correio 6</translation>
 <translation id="7675325315208090829">Faça a gestão dos métodos de pagamento…</translation>
 <translation id="7676643023259824263">Pesquisar texto da área de transferência, <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Veja e faça a gestão do histórico de navegação nas definições do Chrome</translation>
+<translation id="7679367271685653708">Veja e faça a gestão do histórico de navegação nas definições do WEB3 DNA Browser</translation>
 <translation id="7679947978757153706">Basebol</translation>
 <translation id="7681273392938116652">Fantasy sports</translation>
 <translation id="7682287625158474539">Envio</translation>
@@ -2664,7 +2654,7 @@ Detalhes adicionais:
 <translation id="7740996059027112821">Padrão</translation>
 <translation id="77424286611022110">Este site apresenta anúncios intrusivos ou enganadores. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Conteúdo perigoso bloqueado.</translation>
-<translation id="7751971323486164747">Personalize os tipos de letra e os respetivos tamanhos no Chrome</translation>
+<translation id="7751971323486164747">Personalize os tipos de letra e os respetivos tamanhos no WEB3 DNA Browser</translation>
 <translation id="7752995774971033316">Não gerido</translation>
 <translation id="7755624218968747854">Rolo principal</translation>
 <translation id="7758069387465995638">O software de firewall ou antivírus pode ter bloqueado a ligação.</translation>
@@ -2688,7 +2678,7 @@ Detalhes adicionais:
 <translation id="7805571567667010077">Gerido pela sua entidade</translation>
 <translation id="7805768142964895445">Estado</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Remover a sugestão do formulário do Chrome?</translation>
+
 <translation id="781440967107097262">Pretende partilhar a área de transferência?</translation>
 <translation id="7815407501681723534">Encontrados <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> para "<ph name="SEARCH_STRING" />"</translation>
 <translation id="7822320754433038727">Caça e tiro</translation>
@@ -2723,8 +2713,8 @@ Detalhes adicionais:
 <translation id="7943397946612013052">Transferência bloqueada</translation>
 <translation id="7943893128817522649">Pode solicitar a transferência automática de vários ficheiros</translation>
 <translation id="7947285636476623132">Verifique o ano de validade e tente novamente</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para saber mais acerca das funcionalidades do Chrome</translation>
-<translation id="7950027195171824198">Faça a gestão das suas preferências de cookies nas Definições do Chrome.</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para saber mais acerca das funcionalidades do WEB3 DNA Browser</translation>
+<translation id="7950027195171824198">Faça a gestão das suas preferências de cookies nas Definições do WEB3 DNA Browser.</translation>
 <translation id="7951415247503192394">32 bits</translation>
 <translation id="7952192831285741665">EDP europeu</translation>
 <translation id="7953569069500808819">Coser extremidade superior</translation>
@@ -2739,7 +2729,7 @@ Detalhes adicionais:
 <translation id="7981129096182302364">Música de dança e eletrónica</translation>
 <translation id="798134797138789862">Pode solicitar a utilização de dados e dispositivos de realidade virtual</translation>
 <translation id="7983008347525536475">SUVs</translation>
-<translation id="7984945080620862648">De momento é possível visitar <ph name="SITE" /> porque o Website enviou credenciais codificadas que o Chrome não consegue processar. Os erros de rede e os ataques normalmente são temporários, por isso, esta página voltará provavelmente a funcionar.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Encadernar</translation>
 <translation id="7992044431894087211">A partilha de ecrã com a aplicação <ph name="APPLICATION_TITLE" /> foi retomada.</translation>
@@ -2772,7 +2762,7 @@ Detalhes adicionais:
 <translation id="8057711352706143257">O "<ph name="SOFTWARE_NAME" />" não está configurado corretamente. Normalmente, a desinstalação do "<ph name="SOFTWARE_NAME" />" resolve o problema. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Produção de alimentos</translation>
 <translation id="8066225060526005217">Gerido pelas definições de cookies</translation>
-<translation id="8067872629359326442">Acabou de introduzir a sua palavra-passe num site fraudulento. O Chromium pode ajudar. Para alterar a sua palavra-passe e notificar a Google de que a sua conta pode estar em risco, clique em Proteger conta.</translation>
+
 <translation id="8070439594494267500">Ícone da app</translation>
 <translation id="8075736640322370409">Crie rapidamente uma nova Folha de cálculo do Google Sheets</translation>
 <translation id="8075898834294118863">Gerir definições de sites</translation>
@@ -2802,7 +2792,7 @@ Detalhes adicionais:
 <translation id="8116925261070264013">Com som desativado</translation>
 <translation id="8118489163946903409">Método de pagamento</translation>
 <translation id="8123046743443732598">Computadores de mesa</translation>
-<translation id="8124639700796374294">Botão Personalizar o Chrome, prima Enter para personalizar o aspeto do navegador</translation>
+<translation id="8124639700796374294">Botão Personalizar o WEB3 DNA Browser, prima Enter para personalizar o aspeto do navegador</translation>
 <translation id="8126056688005753476">Viagens de aventura</translation>
 <translation id="8127301229239896662">O "<ph name="SOFTWARE_NAME" />" não foi instalado corretamente no computador ou na rede. Peça ao gestor de TI que resolva este problema.</translation>
 <translation id="8131740175452115882">Confirmar</translation>
@@ -2813,7 +2803,7 @@ Detalhes adicionais:
 <translation id="8157295877370077682">Sair do site</translation>
 <translation id="8163866351304776260">Perfuração quádrupla à esquerda</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">O Chrome está a disponibilizar a opção de guardar os seus cartões na sua Conta Google porque tem sessão iniciada. Pode alterar este comportamento nas definições.</translation>
+<translation id="8903986195054043594">O WEB3 DNA Browser está a disponibilizar a opção de guardar os seus cartões na sua Conta Google porque tem sessão iniciada. Pode alterar este comportamento nas definições.</translation>
 <translation id="8176440868214972690">O administrador deste serviço enviou algumas informações para os seguintes Websites, como definições ou políticas.</translation>
 <translation id="8184538546369750125">Utilizar predefinição global (Permitir)</translation>
 <translation id="8186706823560132848">Software</translation>
@@ -2858,11 +2848,11 @@ Detalhes adicionais:
 <translation id="8270242299912238708">Docs PDF</translation>
 <translation id="8275952078857499577">Não se disponibilizar para traduzir este site</translation>
 <translation id="8277900682056760511">A página do controlador do pagamento está aberta.</translation>
-<translation id="8279611986089885641">As notificações do Chrome têm de estar ativadas. Pode ativá-las nas <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">As notificações do WEB3 DNA Browser têm de estar ativadas. Pode ativá-las nas <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">Tabuleiro 11</translation>
 <translation id="8281886186245836920">Ignorar</translation>
 <translation id="8282947398454257691">Saber o identificador único do seu dispositivo</translation>
-<translation id="8284769179630993263">Faça a gestão da Navegação segura e muito mais nas Definições do Chrome.</translation>
+<translation id="8284769179630993263">Faça a gestão da Navegação segura e muito mais nas Definições do WEB3 DNA Browser.</translation>
 <translation id="8286036467436129157">Iniciar Sessão</translation>
 <translation id="8288807391153049143">Mostrar certificado</translation>
 <translation id="8289355894181816810">Se não tiver a certeza do que isto significa, contacte o gestor de rede.</translation>
@@ -2901,7 +2891,7 @@ Detalhes adicionais:
 <translation id="8390725133630534698">A partilha a partir de <ph name="ORIGIN_NAME" /> para <ph name="VM_NAME" /> foi bloqueada por uma política do administrador.</translation>
 <translation id="8396522675989118466">Este é o código de <ph name="NUMBER_OF_DIGITS" /> dígitos na parte <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Localizar o seu telemóvel</translation>
-<translation id="8405579342203358118">Faça a gestão das informações que sincroniza nas Definições do Chrome.</translation>
+<translation id="8405579342203358118">Faça a gestão das informações que sincroniza nas Definições do WEB3 DNA Browser.</translation>
 <translation id="8409413588194360210">controladores de pagamento</translation>
 <translation id="8412145213513410671">Falhas (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Tem de introduzir a mesma frase de acesso duas vezes.</translation>
@@ -2912,7 +2902,7 @@ Detalhes adicionais:
 <translation id="8427848540066057481">500 x 750 mm</translation>
 <translation id="8428213095426709021">Definições</translation>
 <translation id="8428634594422941299">OK</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para gerir as suas preferências de cookies nas Definições do Chrome.</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para gerir as suas preferências de cookies nas Definições do WEB3 DNA Browser.</translation>
 <translation id="8433057134996913067">Esta opção termina a sessão na maioria dos Sites.</translation>
 <translation id="8434840396568290395">Animais de estimação</translation>
 <translation id="8437238597147034694">&amp;Anular movimentação</translation>
@@ -2932,12 +2922,12 @@ Detalhes adicionais:
 <translation id="8473863474539038330">Moradas e mais</translation>
 <translation id="8474910779563686872">Mostrar detalhes do programador</translation>
 <translation id="8479754468255770962">Agrafo na parte inferior esquerda</translation>
-<translation id="8483780878231876732">Para utilizar cartões da sua Conta Google, inicie sessão no Chrome.</translation>
+<translation id="8483780878231876732">Para utilizar cartões da sua Conta Google, inicie sessão no WEB3 DNA Browser.</translation>
 <translation id="8488350697529856933">Aplica-se a</translation>
 <translation id="8490137692873530638">Empilhador 10</translation>
 <translation id="8493948351860045254">Libertar espaço</translation>
 <translation id="8498891568109133222"><ph name="HOST_NAME" /> demorou demasiado tempo a responder.</translation>
-<translation id="8503559462189395349">Palavras-passe do Chrome</translation>
+<translation id="1863492395079744896">Palavras-passe do WEB3 DNA Browser</translation>
 <translation id="8503813439785031346">Nome de utilizador</translation>
 <translation id="8507227106804027148">Linha de comandos</translation>
 <translation id="8508648098325802031">Ícone de pesquisa</translation>
@@ -2945,8 +2935,8 @@ Detalhes adicionais:
 <translation id="851353418319061866">Verificação da precisão</translation>
 <translation id="8513580896341796021">Transferência iniciada. Para a ver, prima |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">Dispositivo HID permitido pelo seu administrador</translation>
-<translation id="8522552481199248698">O Chrome pode ajudá-lo a proteger a sua Conta Google e a alterar a palavra-passe.</translation>
-<translation id="8530813470445476232">Limpe o seu histórico de navegação, cookies, cache e muito mais nas definições do Chrome.</translation>
+
+<translation id="8530813470445476232">Limpe o seu histórico de navegação, cookies, cache e muito mais nas definições do WEB3 DNA Browser.</translation>
 <translation id="853332391023689529">Carrinhas de caixa aberta</translation>
 <translation id="8533619373899488139">Visite &lt;strong&gt;chrome://policy&lt;/strong&gt; para ver a lista dos URLs bloqueados e outras políticas aplicadas pelo administrador do sistema.</translation>
 <translation id="8539500321752640291">Permitir 2 autorizações?</translation>
@@ -2962,7 +2952,7 @@ Detalhes adicionais:
 <translation id="8557066899867184262">O Código de Segurança/CVC está localizado no verso do cartão.</translation>
 <translation id="8559762987265718583">Não é possível estabelecer uma ligação privada a <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" />, porque a data e a hora do seu dispositivo (<ph name="DATE_AND_TIME" />) estão incorretas.</translation>
 <translation id="8564182942834072828">Documentos separados/Cópias não agrupadas</translation>
-<translation id="8564985650692024650">O Chromium recomenda a reposição da palavra-passe da <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> se a tiver reutilizado noutros sites.</translation>
+<translation id="6226192724169192103">O WEB3 DNA Browser recomenda a reposição da palavra-passe da <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> se a tiver reutilizado noutros sites.</translation>
 <translation id="8576310925653847813">Sistemas de cinema em casa</translation>
 <translation id="8577348305244205642">Cartão virtual não disponível</translation>
 <translation id="858637041960032120">Adic. n.º telef.
@@ -2995,7 +2985,7 @@ Detalhes adicionais:
 <translation id="868922510921656628">Páginas por conjunto</translation>
 <translation id="869891660844655955">Data de expiração</translation>
 <translation id="8699041776323235191">Dispositivo HID</translation>
-<translation id="8699899385443889493">Botão Jogar Dino Run, prima Enter para jogar o Dino Run no Chrome</translation>
+<translation id="8699899385443889493">Botão Jogar Dino Run, prima Enter para jogar o Dino Run no WEB3 DNA Browser</translation>
 <translation id="8699985386408839112">Envelope Kaku 1</translation>
 <translation id="8703575177326907206">A sua ligação a <ph name="DOMAIN" /> não está encriptada.</translation>
 <translation id="8705331520020532516">Número de série</translation>
@@ -3013,12 +3003,12 @@ Detalhes adicionais:
 <translation id="8726549941689275341">Tamanho das páginas:</translation>
 <translation id="8730621377337864115">Concluído</translation>
 <translation id="8731268612289859741">Código de segurança</translation>
-<translation id="8731544501227493793">Botão Gerir palavras-passe; prima Enter para ver e gerir as suas palavras-passes nas Definições do Chrome.</translation>
+<translation id="8731544501227493793">Botão Gerir palavras-passe; prima Enter para ver e gerir as suas palavras-passes nas Definições do WEB3 DNA Browser.</translation>
 <translation id="8734529307927223492">O seu <ph name="DEVICE_TYPE" /> é gerido por <ph name="MANAGER" /></translation>
 <translation id="8736059027199600831">30 x 40 pol.</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para abrir uma nova janela de navegação anónima para navegar em privado.</translation>
 <translation id="8737685506611670901">Abrir links de <ph name="PROTOCOL" /> em vez de <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Para estabelecer uma ligação segura, o relógio tem de ser definido corretamente. Isto deve-se ao facto de os certificados que os Sites utilizam para se identificarem serem apenas válidos para períodos de tempo específicos. Uma vez que o relógio do seu dispositivo está incorreto, o Chromium não consegue validar estes certificados.</translation>
+
 <translation id="8740359287975076522">Não foi possível encontrar o &lt;abbr id="dnsDefinition"&gt;endereço DNS&lt;/abbr&gt; de <ph name="HOST_NAME" />. Estamos a diagnosticar o problema.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> é o seu código para <ph name="ORIGIN" />.</translation>
 <translation id="874918643257405732">Adicione este separador aos marcadores</translation>
@@ -3037,9 +3027,9 @@ Detalhes adicionais:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motos</translation>
 <translation id="8790007591277257123">&amp;Refazer eliminação</translation>
-<translation id="8792621596287649091">Pode perder o acesso à sua conta do serviço <ph name="ORG_NAME" /> ou ser vítima de roubo de identidade. O Chromium recomenda a alteração da palavra-passe agora.</translation>
+
 <translation id="8792626944327216835">microfone</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> ativou os Chrome Enterprise Connectors no navegador. Estes conetores têm acesso a alguns dos seus dados.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> ativou os WEB3 DNA Browser Enterprise Connectors no navegador. Estes conetores têm acesso a alguns dos seus dados.</translation>
 <translation id="8798099450830957504">Predefinição</translation>
 <translation id="8798739476508189189">Está à procura das sinalizações do navegador? Visite</translation>
 <translation id="8805819170075074995">Entrada da lista "<ph name="LANGUAGE_ID" />": a entrada foi ignorada porque também está incluída na política SpellcheckLanguage.</translation>
@@ -3047,7 +3037,7 @@ Detalhes adicionais:
 <translation id="8807160976559152894">Cortar no fim de cada página</translation>
 <translation id="8813277370772331957">Lembrar-me mais tarde</translation>
 <translation id="8814707942599948500">Envelope C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para atualizar o Chrome nas Definições do Chrome.</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para atualizar o WEB3 DNA Browser nas Definições do WEB3 DNA Browser.</translation>
 <translation id="8820817407110198400">Marcadores</translation>
 <translation id="882338992931677877">Ranhura manual</translation>
 <translation id="8830320733681313421">Postal Hagaki</translation>
@@ -3061,7 +3051,7 @@ Detalhes adicionais:
 <translation id="885306012106043620">Ténis</translation>
 <translation id="8855742650226305367">Dança</translation>
 <translation id="885730110891505394">Partilha com a Google</translation>
-<translation id="8858065207712248076">O Chrome recomenda a reposição da palavra-passe da <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> se a tiver reutilizado noutros sites.</translation>
+
 <translation id="885906927438988819">Se a ortografia estiver correta, <ph name="BEGIN_LINK" />experimente executar o Diagnóstico de rede do Windows<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Bandas sonoras</translation>
 <translation id="8866481888320382733">Erro ao analisar as definições da política</translation>
@@ -3081,7 +3071,7 @@ Detalhes adicionais:
 <translation id="8903921497873541725">Ampliar</translation>
 <translation id="890493561996401738">Botão Remover sugestão, prima Enter para remover, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" />.</translation>
 <translation id="8912362522468806198">Conta Google</translation>
-<translation id="8913778647360618320">Botão Gerir métodos de pagamento; prima Enter para gerir as suas informações de cartões de crédito e pagamentos nas Definições do Chrome.</translation>
+<translation id="8913778647360618320">Botão Gerir métodos de pagamento; prima Enter para gerir as suas informações de cartões de crédito e pagamentos nas Definições do WEB3 DNA Browser.</translation>
 <translation id="8922013791253848639">Permitir sempre anúncios neste site</translation>
 <translation id="892588693504540538">Perfurar na parte superior direita</translation>
 <translation id="8930330541574156305">Imobiliário</translation>
@@ -3102,7 +3092,7 @@ Detalhes adicionais:
 <translation id="8975263830901772334">Nomes dos ficheiros impressos</translation>
 <translation id="8978053250194585037">A Navegação segura do Google <ph name="BEGIN_LINK" />detetou phishing<ph name="END_LINK" /> recentemente em <ph name="SITE" />. Os sites de phishing simulam ser outros Websites para o enganar.</translation>
 <translation id="8983369100812962543">Já pode redimensionar a app</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para ver o histórico de navegação no Chrome</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Prima Tab e, em seguida, Enter para ver o histórico de navegação no WEB3 DNA Browser</translation>
 <translation id="8987927404178983737">Mês</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Está à procura da versão do sistema? Visite</translation>
@@ -3150,19 +3140,19 @@ Detalhes adicionais:
 <translation id="908796725011587895">Desportos universitários</translation>
 <translation id="9089260154716455634">Política para fora do horário de funcionamento:</translation>
 <translation id="9095388113577226029">Mais idiomas…</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para definir o Chrome como o navegador predefinido do sistema nas definições do iOS</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para definir o WEB3 DNA Browser como o navegador predefinido do sistema nas definições do iOS</translation>
 <translation id="9096679202588811390">Séries e programas de TV</translation>
 <translation id="9101630580131696064">Tabuleiro 1</translation>
 <translation id="9102081333385212048">Os ficheiros que copiar ou mover são enviados para o Google Cloud ou terceiros para análise. Por exemplo, podem ser analisados quanto a dados confidenciais ou software malicioso.</translation>
 <translation id="9103537084693478942">Software de vídeo</translation>
-<translation id="9103872766612412690">Normalmente, o site <ph name="SITE" /> utiliza a encriptação para proteger as suas informações. Quando o Chromium tentou estabelecer ligação a <ph name="SITE" /> desta vez, o Website devolveu credenciais invulgares e incorretas. Isto pode acontecer quando um utilizador mal intencionado tenta simular ser <ph name="SITE" /> ou quando um ecrã de início de sessão Wi-Fi interrompe a ligação. As suas informações continuam seguras porque o Chromium interrompeu a ligação antes de qualquer troca de dados.</translation>
+
 <translation id="9106062320799175032">Adicionar endereço de faturação</translation>
 <translation id="9107467864910557787">O navegador é gerido por <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">A política do administrador desativa a partilha de ecrã com <ph name="APPLICATION_TITLE" /> quando existe conteúdo confidencial visível.</translation>
 <translation id="9114524666733003316">A confirmar o cartão…</translation>
-<translation id="9114581008513152754">Este navegador não é gerido por uma empresa ou outra entidade. A atividade neste dispositivo pode ser gerida fora do Chrome. <ph name="BEGIN_LINK" />Saiba mais<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Moderno</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para retomar o percurso e ver atividade relevante no Histórico do Chrome</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para retomar o percurso e ver atividade relevante no Histórico do WEB3 DNA Browser</translation>
 <translation id="9119042192571987207">Carregado</translation>
 <translation id="9122954576417194280">Negociação de futuros e mercadorias</translation>
 <translation id="9128016270925453879">As políticas foram carregadas.</translation>
@@ -3177,7 +3167,7 @@ Detalhes adicionais:
 <translation id="9148088599418889305">Escolher método de envio</translation>
 <translation id="9148507642005240123">&amp;Anular edição</translation>
 <translation id="9150045010208374699">Utilizar a sua câmara</translation>
-<translation id="9150685862434908345">O administrador pode alterar a configuração do navegador remotamente. A atividade neste dispositivo também pode ser gerida fora do Chrome. <ph name="BEGIN_LINK" />Saiba mais<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Atualizado</translation>
 <translation id="9155211586651734179">Periféricos de áudio ligados</translation>
 <translation id="9157595877708044936">A configurar...</translation>
@@ -3192,7 +3182,7 @@ Detalhes adicionais:
 <translation id="917450738466192189">O certificado do servidor é inválido.</translation>
 <translation id="9174623988242579721">Veículos personalizados e de alto desempenho</translation>
 <translation id="9174917557437862841">Botão de mudança de separador: prima Enter para mudar para este separador.</translation>
-<translation id="9179703756951298733">Faça a gestão das informações de cartões de crédito e pagamentos nas definições do Chrome.</translation>
+<translation id="9179703756951298733">Faça a gestão das informações de cartões de crédito e pagamentos nas definições do WEB3 DNA Browser.</translation>
 <translation id="9179907736442194268">Obtenha alertas de email se o preço descer em qualquer site</translation>
 <translation id="9183302530794969518">Google Docs</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> utiliza um protocolo não suportado.</translation>
@@ -3203,12 +3193,12 @@ Detalhes adicionais:
 <translation id="920511547311754821">Não consegue encontrar o seu código? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Falha ao adicionar o artigo.</translation>
 <translation id="9213433120051936369">Personalize o aspeto</translation>
-<translation id="9215416866750762878">Uma aplicação está a impedir que o Chrome se ligue a este site em segurança</translation>
+<translation id="717994082075351832">Uma aplicação está a impedir que o WEB3 DNA Browser se ligue a este site em segurança</translation>
 <translation id="9219103736887031265">Imagens</translation>
-<translation id="922152298093051471">Personalizar o Chrome</translation>
+<translation id="922152298093051471">Personalizar o WEB3 DNA Browser</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">LIMPAR FORMULÁRIO</translation>
-<translation id="936602727769022409">Pode perder o acesso à sua Conta Google. O Chromium recomenda que altere a palavra-passe agora. Ser-lhe-á pedido para iniciar sessão.</translation>
+
 <translation id="937457230470581909">Jardins zoológicos, aquários e reservas</translation>
 <translation id="939736085109172342">Nova pasta</translation>
 <translation id="940053046584497293">Viagens e transportes</translation>

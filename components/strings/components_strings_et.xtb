@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Esitage lisateavet</translation>
 <translation id="1019413721762100891">Väljas</translation>
 <translation id="1021110881106174305">Aktsepteeritud kaardid</translation>
-<translation id="1021753677514347426">Selle probleemi põhjuseks on teie või kellegi teise installitud sertifikaat. Seda sertifikaati kasutatakse võrkude jälgimiseks ja ühenduste katkestamiseks ning Chromium ei usalda seda. Kuigi mõnel puhul on jälgimine seaduslik (nt kooli või ettevõtte võrgus), soovib Chromium tagada, et oleksite sellest teadlik ka juhul, kui te ei saa seda peatada. Jälgimine võib toimuda veebiühendusega brauseris või rakenduses.</translation>
+<translation id="6843750610117699926">Selle probleemi põhjuseks on teie või kellegi teise installitud sertifikaat. Seda sertifikaati kasutatakse võrkude jälgimiseks ja ühenduste katkestamiseks ning WEB3 DNA Browser ei usalda seda. Kuigi mõnel puhul on jälgimine seaduslik (nt kooli või ettevõtte võrgus), soovib WEB3 DNA Browser tagada, et oleksite sellest teadlik ka juhul, kui te ei saa seda peatada. Jälgimine võib toimuda veebiühendusega brauseris või rakenduses.</translation>
 <translation id="1024111578869940408">Ründajad imiteerivad mõnikord saite, tehes veebiaadressis väikeseid raskesti märgatavaid muudatusi.</translation>
 <translation id="1028781062521375153">Kuva üksikasjad</translation>
 <translation id="1030706264415084469"><ph name="URL" /> soovib suure koguse andmeid alaliselt teie seadmesse salvestada</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Võta lisamine tagasi</translation>
 <translation id="1056663316309890343">Fototarkvara</translation>
 <translation id="1056898198331236512">Hoiatus</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'is mängu Dino Run mängimiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'is mängu Dino Run mängimiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
 <translation id="1058479211578257048">Kaartide salvestamine …</translation>
 <translation id="1060320201901229167">Ümbrik Kaku 5</translation>
 <translation id="10614374240317010">Ei ole kunagi salvestatud</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Kaardil oleva nime lisamine</translation>
 <translation id="1089439967362294234">Parooli muutmine</translation>
 <translation id="1096545575934602868">Sellel väljal ei tohi olla üle <ph name="MAX_ITEMS_LIMIT" /> kirje. Kõigist ülejäänud kirjetest loobutakse.</translation>
-<translation id="1100782917270858593">Nupp Jätkake oma teekonda, teekonna jätkamiseks ja oma Chrome'i ajaloos asjakohaste tegevuste nägemiseks vajutage sisestusklahvi.</translation>
+<translation id="3985486898664025513">Nupp Jätkake oma teekonda, teekonna jätkamiseks ja oma WEB3 DNA Browser'i ajaloos asjakohaste tegevuste nägemiseks vajutage sisestusklahvi.</translation>
 <translation id="1101672080107056897">Veatoiming</translation>
 <translation id="1103523840287552314">Tõlgi alati: <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3 × 4</translation>
@@ -118,7 +118,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Sisestasite oma parooli saidile, mida ei halda teie organisatsioon. Oma konto kaitsmiseks ärge kasutage oma parooli muudes rakendustes ega saitidel.</translation>
 <translation id="1257553931232494454">suumitasemed</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, oma Chrome'i seadete haldamiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, oma WEB3 DNA Browser'i seadete haldamiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
 <translation id="1263231323834454256">Lugemisloend</translation>
 <translation id="1264309058268477500">Alternatiivne</translation>
 <translation id="1264974993859112054">Sport</translation>
@@ -131,7 +131,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1285320974508926690">Ära kunagi seda saiti tõlgi</translation>
 <translation id="1288548991597756084">Salvestage kaart turvaliselt</translation>
 <translation id="1292571435393770077">Salv 16</translation>
-<translation id="1292701964462482250">„Teie arvutis olev tarkvara ei luba Chrome'il veebiga turvaliselt ühendust luua” (ainult Windowsi arvutid)</translation>
+<translation id="3610512443326918645">„Teie arvutis olev tarkvara ei luba WEB3 DNA Browser'il veebiga turvaliselt ühendust luua” (ainult Windowsi arvutid)</translation>
 <translation id="1293797321964802402">9 × 11-tolline ümbrik</translation>
 <translation id="1294154142200295408">Käsurea variatsioonid</translation>
 <translation id="129553762522093515">Viimati suletud</translation>
@@ -150,7 +150,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1323433172918577554">Kuva rohkem</translation>
 <translation id="132390688737681464">Salvesta ja sisesta aadressid</translation>
 <translation id="1330449323196174374">Vasakult väravakujuliselt volditud</translation>
-<translation id="1333745675627230582">Chrome'i dinosaurusemängu mängimine</translation>
+<translation id="6227572462599550594">WEB3 DNA Browser'i dinosaurusemängu mängimine</translation>
 <translation id="1333989956347591814">Teie tegevused <ph name="BEGIN_EMPHASIS" />võivad siiski olla nähtavad<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />teie külastatud veebisaitidele;
@@ -223,7 +223,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1483493594462132177">Saada</translation>
 <translation id="1484290072879560759">Valige tarneaadress</translation>
 <translation id="1492194039220927094">Reeglite saatmine:</translation>
-<translation id="149293076951187737">Kui sulgete kõik Chrome'i inkognito vahelehed, kustutatakse järgmised nendel vahelehtedel tehtud toimingud sellest seadmest.
+<translation id="3175654283800723944">Kui sulgete kõik WEB3 DNA Browser'i inkognito vahelehed, kustutatakse järgmised nendel vahelehtedel tehtud toimingud sellest seadmest.
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Sirvimistegevused.<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Otsinguajalugu.<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="154408704832528245">Valige kohaletoimetamisaadress</translation>
 <translation id="1549470594296187301">Selle funktsiooni kasutamiseks peab JavaScript olema lubatud.</translation>
 <translation id="1551884710160394169">Vabavara ja jaosvara</translation>
-<translation id="1553358976309200471">Värskenda Chrome'i</translation>
+<translation id="1553358976309200471">Värskenda WEB3 DNA Browser'i</translation>
 <translation id="1555130319947370107">Sinine</translation>
 <translation id="1559447966090556585">Kas saada märguandeid?</translation>
 <translation id="1559528461873125649">Pole sellist faili või kataloogi</translation>
@@ -263,7 +263,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="156703335097561114">Võrguteave, nagu aadressid, liidese seadistus ja ühenduse kvaliteet</translation>
 <translation id="1567040042588613346">See reegel töötab eesmärgipäraselt, kuid mujal on seadistatud sama väärtus, mis on selle reegliga asendatud.</translation>
 <translation id="1569487616857761740">Sisestage aegumiskuupäev</translation>
-<translation id="1569694109004336106">Google Chrome üritab paroolide sisestamiseks lülitada sisse Windows Hello.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser üritab paroolide sisestamiseks lülitada sisse Windows Hello.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> × <ph name="HEIGHT" /> tolli</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Veebilehe kuvamisel läks midagi valesti.</translation>
@@ -273,7 +273,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1594030484168838125">Vali</translation>
 <translation id="1596296697375291157">Põnevus-, krimi- ja müsteeriumfilmid</translation>
 <translation id="1599199147673445968">Kas see on uus kaart? <ph name="BEGIN_LINK" />Sisestage kaardi üksikasjad.<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Chrome'is mängu Dino Run mängimine</translation>
+<translation id="160851722280695521">WEB3 DNA Browser'is mängu Dino Run mängimine</translation>
 <translation id="161042844686301425">Tsüaan</translation>
 <translation id="1611101756749861742">Teine rull</translation>
 <translation id="1615402009686901181">Administraatori eeskirjad keelavad ekraanikuva jäädvustamise, kui konfidentsiaalne sisu on nähtaval</translation>
@@ -293,13 +293,13 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1642410292376109062">Nupp Muuda Google'i parooli, oma Google'i konto parooli muutmiseks vajutage sisestusklahvi</translation>
 <translation id="1644574205037202324">Ajalugu</translation>
 <translation id="1645368109819982629">Toetuseta protokoll</translation>
-<translation id="1650602712345345441">Chrome'i seadete haldamine</translation>
+<translation id="1650602712345345441">WEB3 DNA Browser'i seadete haldamine</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome lihtsustas seda lehte, et seda oleks lihtsam lugeda. Chrome hankis algse lehe turvalise ühenduse kaudu.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser lihtsustas seda lehte, et seda oleks lihtsam lugeda. WEB3 DNA Browser hankis algse lehe turvalise ühenduse kaudu.</translation>
 <translation id="1656489000284462475">Kättesaamine</translation>
 <translation id="1658918301167915956">Bluetooth-seadmed</translation>
 <translation id="1662550410081243962">Salvesta ja sisesta makseviisid</translation>
-<translation id="1663943134801823270">Kaardid ja aadressid pärinevad Chrome'ist. Neid saate hallata menüüs <ph name="BEGIN_LINK" />Seaded<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Kaardid ja aadressid pärinevad WEB3 DNA Browser'ist. Neid saate hallata menüüs <ph name="BEGIN_LINK" />Seaded<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">Lehed keeles <ph name="SOURCE_LANGUAGE" /> tõlgitakse nüüd keelde <ph name="TARGET_LANGUAGE" />.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> &gt; <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Lühem serv enne</translation>
@@ -347,7 +347,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1757773103848038814">Püsisammuga font</translation>
 <translation id="1763864636252898013">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />, seadme operatsioonisüsteem ei usalda selle turvasertifikaati. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Proovige käitada Windowsi võrgudiagnostika tööriista<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Lisateave Chromiumi inkognito režiimi kohta<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Lisateave Chromiumi inkognito režiimi kohta<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Teie avatud vahelehed kuvatakse siin</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -398,11 +398,11 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1919526244108283799">400 × 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Ühtegi}=1{1 sait}other{# saiti}}</translation>
 <translation id="1924727005275031552">Uus</translation>
-<translation id="1927439593081478069">Nupp Käita Chrome'i ohutuskontroll, vajutage sisestusklahvi, et Chrome'i seadetes ohutuskontroll käitada</translation>
+<translation id="1927439593081478069">Nupp Käita WEB3 DNA Browser'i ohutuskontroll, vajutage sisestusklahvi, et WEB3 DNA Browser'i seadetes ohutuskontroll käitada</translation>
 <translation id="1935995810530254458">Kopeeri siiski</translation>
 <translation id="1939175642807587452">Saab küsida luba märguannete saatmiseks</translation>
 <translation id="1943994668912612445">Disain</translation>
-<translation id="1945968466830820669">Võite kaotada juurdepääsu oma organisatsiooni kontole või teie identiteet võidakse varastada. Chromium soovitab teil kohe oma parooli muuta.</translation>
+<translation id="5087943717045213809">Võite kaotada juurdepääsu oma organisatsiooni kontole või teie identiteet võidakse varastada. WEB3 DNA Browser soovitab teil kohe oma parooli muuta.</translation>
 <translation id="1946849748901605102">12 × 15 tolli</translation>
 <translation id="1947454675006758438">Kirjaklamber paremal ülal</translation>
 <translation id="1954847915560574887">A3 × 3</translation>
@@ -425,8 +425,8 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2001146170449793414">{COUNT,plural, =1{ja veel 1}other{ja veel #}}</translation>
 <translation id="2003709556000175978">Lähtestage oma parool kohe</translation>
 <translation id="2003775180883135320">Neli auku ülal</translation>
-<translation id="201174227998721785">Hallake Chrome'i seadetes lubasid ja mitmel saidil talletatud andmeid</translation>
-<translation id="2019607688127825327">Nupp Juurdepääsetavuse seadete haldamine, Chrome'i seadetes oma juurdepääsetavuse tööriistade isikupärastamiseks vajutage sisestusklahvi</translation>
+<translation id="201174227998721785">Hallake WEB3 DNA Browser'i seadetes lubasid ja mitmel saidil talletatud andmeid</translation>
+<translation id="2019607688127825327">Nupp Juurdepääsetavuse seadete haldamine, WEB3 DNA Browser'i seadetes oma juurdepääsetavuse tööriistade isikupärastamiseks vajutage sisestusklahvi</translation>
 <translation id="202224654587969958">12 × 19 tolli</translation>
 <translation id="2025115093177348061">Liitreaalsus</translation>
 <translation id="2025186561304664664">Puhverserver seadistatakse automaatselt.</translation>
@@ -443,7 +443,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2048261947532620704">Lehe tõlkimine</translation>
 <translation id="205212645995975601">Grillimine</translation>
 <translation id="2053111141626950936">Selles keeles lehti ei tõlgita: <ph name="LANGUAGE" />.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Kui see juhtelement on sisse lülitatud ja olek on aktiivne, määrab Chrome, millise suure grupi (ehk rühma) inimestega on teie hiljutine sirvimistegevus kõige sarnasem. Reklaamijad saavad grupi jaoks reklaame valida ja teie sirvimistegevus jääb teie seadmes privaatseks. Teie gruppi värskendatakse iga päev.}=1{Kui see juhtelement on sisse lülitatud ja olek on aktiivne, määrab Chrome, millise suure grupi (ehk rühma) inimestega on teie hiljutine sirvimistegevus kõige sarnasem. Reklaamijad saavad grupi jaoks reklaame valida ja teie sirvimistegevus jääb teie seadmes privaatseks. Teie gruppi värskendatakse iga päev.}other{Kui see juhtelement on sisse lülitatud ja olek on aktiivne, määrab Chrome, millise suure grupi (ehk rühma) inimestega on teie hiljutine sirvimistegevus kõige sarnasem. Reklaamijad saavad grupi jaoks reklaame valida ja teie sirvimistegevus jääb teie seadmes privaatseks. Teie gruppi värskendatakse iga {NUM_DAYS} päeva järel.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Kui see juhtelement on sisse lülitatud ja olek on aktiivne, määrab WEB3 DNA Browser, millise suure grupi (ehk rühma) inimestega on teie hiljutine sirvimistegevus kõige sarnasem. Reklaamijad saavad grupi jaoks reklaame valida ja teie sirvimistegevus jääb teie seadmes privaatseks. Teie gruppi värskendatakse iga päev.}=1{Kui see juhtelement on sisse lülitatud ja olek on aktiivne, määrab WEB3 DNA Browser, millise suure grupi (ehk rühma) inimestega on teie hiljutine sirvimistegevus kõige sarnasem. Reklaamijad saavad grupi jaoks reklaame valida ja teie sirvimistegevus jääb teie seadmes privaatseks. Teie gruppi värskendatakse iga päev.}other{Kui see juhtelement on sisse lülitatud ja olek on aktiivne, määrab WEB3 DNA Browser, millise suure grupi (ehk rühma) inimestega on teie hiljutine sirvimistegevus kõige sarnasem. Reklaamijad saavad grupi jaoks reklaame valida ja teie sirvimistegevus jääb teie seadmes privaatseks. Teie gruppi värskendatakse iga {NUM_DAYS} päeva järel.}}</translation>
 <translation id="2059202684901022309">22 × 34 tolli</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 soovitus}other{# soovitust}}</translation>
 <translation id="2066915425250589881">taotleda selle kustutamist</translation>
@@ -455,9 +455,9 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="20817612488360358">Kasutamiseks on määratud süsteemi puhverserveri seaded, kuid määratud on ka konkreetne puhverserveri konfigureerimine.</translation>
 <translation id="2082238445998314030">Tulemus <ph name="RESULT_NUMBER" />/<ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">Salvestamine …</translation>
-<translation id="2088086323192747268">Nupp Sünkroonimise haldamine, vajutage Chrome'i seadetes sünkroonitava teabe haldamiseks sisestusklahvi</translation>
+<translation id="2088086323192747268">Nupp Sünkroonimise haldamine, vajutage WEB3 DNA Browser'i seadetes sünkroonitava teabe haldamiseks sisestusklahvi</translation>
 <translation id="2091887806945687916">Heli</translation>
-<translation id="2093982008204312032">Google Chrome üritab paroolide sisestamiseks lülitada sisse Windows Hello.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser üritab paroolide sisestamiseks lülitada sisse Windows Hello.</translation>
 <translation id="2094505752054353250">Domeeni vastuolu</translation>
 <translation id="2099652385553570808">Kolm kirjaklambrit vasakul</translation>
 <translation id="2101225219012730419">Versioon:</translation>
@@ -540,7 +540,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2292556288342944218">Teie juurdepääs Internetile on blokeeritud</translation>
 <translation id="2293443924986248631">Kui see on sisse lülitatud, ei saa saidid kasutada küpsisefaile, mis jälgivad teid kogu veebis. Mõne saidi funktsioonid ei pruugi töötada.</translation>
 <translation id="2295290966866883927">Teie külastatavate lehtede URL-id saadetakse analüüsimiseks Google Cloudi või kolmandatele osapooltele. Näiteks võidakse neid skannida ebaturvaliste veebisaitide tuvastamiseks.</translation>
-<translation id="2298855485018661510">Nupp Küpsiste haldamine, vajutage Chrome'i seadetes küpsiste eelistuste haldamiseks sisestusklahvi</translation>
+<translation id="2298855485018661510">Nupp Küpsiste haldamine, vajutage WEB3 DNA Browser'i seadetes küpsiste eelistuste haldamiseks sisestusklahvi</translation>
 <translation id="2300306941146563769">Üles laadimata</translation>
 <translation id="2316159751672436664">Isikupärastage Chrome OS-i seadetes oma juurdepääsetavuse tööriistu</translation>
 <translation id="2316887270356262533">Vabastab alla 1 MB. Mõne saidi laadimine võib järgmisel külastusel rohkem aega võtta.</translation>
@@ -568,9 +568,9 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="236340516568226369">Menüü suuruse vahetamine</translation>
 <translation id="2367567093518048410">Tase</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Isikupärastage Chrome'i seadetes oma juurdepääsetavuse tööriistu</translation>
+<translation id="2383455408879745299">Isikupärastage WEB3 DNA Browser'i seadetes oma juurdepääsetavuse tööriistu</translation>
 <translation id="2384307209577226199">Ettevõtte vaikeseade</translation>
-<translation id="2385809941344967209">Värskendage Chrome'i oma Chrome'i seadetes</translation>
+<translation id="2385809941344967209">Värskendage WEB3 DNA Browser'i oma WEB3 DNA Browser'i seadetes</translation>
 <translation id="2386255080630008482">Serveri sertifikaat on tühistatud.</translation>
 <translation id="239293030466334554">Kabrioletid</translation>
 <translation id="2392959068659972793">Kuva reeglid, mille väärtusi pole määratud</translation>
@@ -589,7 +589,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2463739503403862330">Täida</translation>
 <translation id="2465655957518002998">Valige kohaletoimetamisviis</translation>
 <translation id="2465688316154986572">Kirjaklamber</translation>
-<translation id="2465914000209955735">Chrome'is allalaaditud failide haldamine</translation>
+<translation id="2465914000209955735">WEB3 DNA Browser'is allalaaditud failide haldamine</translation>
 <translation id="2466004615675155314">Teabe kuvamine veebist</translation>
 <translation id="2467272921457885625">Seadme riistvara tehnilised andmed ja statistika, näiteks protsessori/muutmälu kasutamise ajalugu</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Võrgudiagnostika käitamine<ph name="END_LINK" /></translation>
@@ -606,7 +606,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2505268675989099013">Konto kaitsmine</translation>
 <translation id="2509167091171468975">Toiduainete jaemüüjad</translation>
 <translation id="2512101340618156538">Pole lubatud (vaikeseade)</translation>
-<translation id="2512413427717747692">Chrome'i vaikebrauseriks määramise nupp. Vajutage sisestusklahvi, et määrata Chrome iOS-i seadetes süsteemi vaikebrauseriks</translation>
+<translation id="2512413427717747692">WEB3 DNA Browser'i vaikebrauseriks määramise nupp. Vajutage sisestusklahvi, et määrata WEB3 DNA Browser iOS-i seadetes süsteemi vaikebrauseriks</translation>
 <translation id="2515629240566999685">Kontrollige oma piirkonna signaali</translation>
 <translation id="2515761554693942801">Valisite Touch ID-ga kinnitamise veebisaitide puhul, mis kasutavad pakkujat <ph name="PROVIDER_ORIGIN" />. See pakkuja võis teie makseviisi teabe salvestada. Võite <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Kirjaklamber paremal all</translation>
@@ -623,7 +623,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2542106216580219892">Surfamine</translation>
 <translation id="2544546346215446551">Administraator taaskäivitas teie seadme</translation>
 <translation id="2544644783021658368">Üks dokument</translation>
-<translation id="254524874071906077">Sea Chrome vaikebrauseriks</translation>
+<translation id="1319028298140338735">Sea WEB3 DNA Browser vaikebrauseriks</translation>
 <translation id="2546283357679194313">Küpsised ja saidiandmed</translation>
 <translation id="2547466893236767989">Veebidisain ja -arendus</translation>
 <translation id="254947805923345898">Reegli väärtus on kehtetu.</translation>
@@ -638,19 +638,19 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2570734079541893434">Seadete haldamine</translation>
 <translation id="2573834589046842510">Trükkimine ja kirjastamine</translation>
 <translation id="257674075312929031">Grupeeri</translation>
-<translation id="2576880857912732701">Nupp Turvaseadete haldamine, vajutage Chrome'i seadetes Google'i ohutu sirvimise ja muu haldamiseks sisestusklahvi</translation>
+<translation id="2576880857912732701">Nupp Turvaseadete haldamine, vajutage WEB3 DNA Browser'i seadetes Google'i ohutu sirvimise ja muu haldamiseks sisestusklahvi</translation>
 <translation id="2586657967955657006">Lõikelaud</translation>
 <translation id="2587730715158995865">Avaldajalt <ph name="ARTICLE_PUBLISHER" />. Lugege seda ja <ph name="OTHER_ARTICLE_COUNT" /> teist lugu.</translation>
 <translation id="2587841377698384444">Kataloogi API ID:</translation>
 <translation id="2594318783181750337">Kiire veebikuva:</translation>
 <translation id="2595719060046994702">Seda seadet ja kontot ei halda ettevõte ega muu organisatsioon.</translation>
-<translation id="2596415276201385844">Turvalise ühenduse loomiseks peab kell olema õigesti seadistatud. See on nii, kuna sertifikaadid, mida veebisaidid kasutavad enda tuvastamiseks, kehtivad ainult teatud perioodi jooksul. Kuna teie seadme kell on vale, ei saa Chrome neid sertifikaate kinnitada.</translation>
+<translation id="7968235694092767490">Turvalise ühenduse loomiseks peab kell olema õigesti seadistatud. See on nii, kuna sertifikaadid, mida veebisaidid kasutavad enda tuvastamiseks, kehtivad ainult teatud perioodi jooksul. Kuna teie seadme kell on vale, ei saa WEB3 DNA Browser neid sertifikaate kinnitada.</translation>
 <translation id="2597378329261239068">Dokument on parooliga kaitstud. Sisestage parool.</translation>
 <translation id="259821504105826686">Fotograafia ja digitaalkunst</translation>
 <translation id="2601150049980261779">Romantika</translation>
 <translation id="2604589665489080024">Popmuusika</translation>
 <translation id="2610561535971892504">Klõpsake kopeerimiseks</translation>
-<translation id="2617988307566202237">Chrome <ph name="BEGIN_EMPHASIS" />ei salvesta<ph name="END_EMPHASIS" /> järgmist teavet.
+<translation id="6174516088921923215">WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />ei salvesta<ph name="END_EMPHASIS" /> järgmist teavet.
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Teie sirvimisajalugu.
           <ph name="LIST_ITEM" />Küpsisefailid ja saidi andmed.
@@ -658,14 +658,14 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
         <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Teie kell on ees</translation>
 <translation id="262745152991669301">Saab küsida luba USB-seadmetega ühenduse loomiseks</translation>
-<translation id="2629325967560697240">Chrome'i kõrgeima taseme turvalisuse saavutamiseks <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />lülitage sisse täiustatud kaitse<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">WEB3 DNA Browser'i kõrgeima taseme turvalisuse saavutamiseks <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />lülitage sisse täiustatud kaitse<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">Hosti <ph name="HOST_NAME" /> serveri IP-aadressi ei leitud.</translation>
 <translation id="2639739919103226564">Olek:</translation>
 <translation id="2643134278432436513">Juuksehooldus</translation>
 <translation id="2647852283046201479">Strateegiamängud</translation>
 <translation id="264810637653812429">Ühilduvaid seadmeid ei leitud.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes sirvimisajaloo, küpsisefailide ja muu kustutamiseks ning vahemälu tühjendamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes sirvimisajaloo, küpsisefailide ja muu kustutamiseks ning vahemälu tühjendamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="2650446666397867134">Faili juurde ei saa pääseda</translation>
 <translation id="2653659639078652383">Esita</translation>
 <translation id="2657637947725373811">{0,plural, =1{Kas kanda üle konfidentsiaalne fail?}other{Kas kanda üle konfidentsiaalsed failid?}}</translation>
@@ -693,11 +693,11 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2705137772291741111">Selle saidi (vahemällu) salvestatud koopia oli loetamatu.</translation>
 <translation id="2709516037105925701">Automaatne täitmine</translation>
 <translation id="2713444072780614174">Valge</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes maksete ja krediitkaarditeabe haldamiseks tabulaatorit ning seejärel sisestusklahvi</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes maksete ja krediitkaarditeabe haldamiseks tabulaatorit ning seejärel sisestusklahvi</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Täisekraanilt väljumiseks vajutage klahve |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />|</translation>
 <translation id="2721148159707890343">Taotlus õnnestus</translation>
-<translation id="2723669454293168317">Käitage Chrome'i seadetes ohutuskontroll</translation>
+<translation id="2723669454293168317">Käitage WEB3 DNA Browser'i seadetes ohutuskontroll</translation>
 <translation id="2726001110728089263">Külgmine salv</translation>
 <translation id="2728127805433021124">Serveri sertifikaat on allkirjastatud nõrga allkirjaalgoritmiga.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Ühenduvusdiagnostika käitamine<ph name="END_LINK" /></translation>
@@ -737,7 +737,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="287596039013813457">Sõbralik</translation>
 <translation id="28761159517501904">Filmid</translation>
 <translation id="2876489322757410363">Väljute inkognito režiimist, et välise rakenduse kaudu maksta. Kas soovite jätkata?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes Google'i ohutu sirvimise ja muu haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes Google'i ohutu sirvimise ja muu haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="2878197950673342043">Plakatikujuliselt volditud</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Kas salvestada kaart?</translation>
@@ -749,7 +749,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="290376772003165898">Kas leht ei ole <ph name="LANGUAGE" /> keeles?</translation>
 <translation id="2909946352844186028">Tuvastati võrgumuudatus.</translation>
 <translation id="2911973620368911614">Kasutaja ID tööde arvestuse jaoks</translation>
-<translation id="2914160345369867329">Sait <ph name="SITE" /> kasutab teie teabe kaitsmiseks tavaliselt krüpteerimist. Kui Chrome püüdis seekord saidiga <ph name="SITE" /> ühendust luua, tagastas veebisait ebatavalised ja valed mandaadid. See võib juhtuda siis, kui ründaja proovib teeselda, et on sait <ph name="SITE" />, või WiFi sisselogimiskuva on ühenduse katkestanud. Teie teave on endiselt kaitstud, sest Chrome peatas ühenduse enne andmevahetust.</translation>
+<translation id="6754677106668042373">Sait <ph name="SITE" /> kasutab teie teabe kaitsmiseks tavaliselt krüpteerimist. Kui WEB3 DNA Browser püüdis seekord saidiga <ph name="SITE" /> ühendust luua, tagastas veebisait ebatavalised ja valed mandaadid. See võib juhtuda siis, kui ründaja proovib teeselda, et on sait <ph name="SITE" />, või WiFi sisselogimiskuva on ühenduse katkestanud. Teie teave on endiselt kaitstud, sest WEB3 DNA Browser peatas ühenduse enne andmevahetust.</translation>
 <translation id="2915068235268646559">Kokkujooksmine – <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Maalimine</translation>
 <translation id="2916038427272391327">Sulgege muud programmid</translation>
@@ -766,7 +766,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2943895734390379394">Üleslaadimise aeg:</translation>
 <translation id="2945026002409061480">Võrgukogukonnad</translation>
 <translation id="2948083400971632585">Seadete lehel saate keelata kõik ühenduse jaoks konfigureeritud puhverserverid.</translation>
-<translation id="2949183777371959169">Eirati, kuna seade pole programmis Chrome Browser Cloud Management registreeritud.</translation>
+<translation id="7786089409521529641">Eirati, kuna seade pole programmis WEB3 DNA Browser Browser Cloud Management registreeritud.</translation>
 <translation id="2951588413176968965">Minu postkast</translation>
 <translation id="2952820037279740115">Sule kõik inkognito aknad</translation>
 <translation id="2952904171810469095">A2 × 5</translation>
@@ -780,7 +780,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2977665033722899841"><ph name="ROW_NAME" />, praegu valitud. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Ooper</translation>
 <translation id="2983666748527428214">Inkognito vahelehe avamine</translation>
-<translation id="2985306909656435243">Kui see on lubatud, salvestab Chromium teie kaardi koopia vormide kiiremaks täitmiseks sellesse seadmesse.</translation>
+<translation id="6458065442802745995">Kui see on lubatud, salvestab WEB3 DNA Browser teie kaardi koopia vormide kiiremaks täitmiseks sellesse seadmesse.</translation>
 <translation id="2985398929374701810">Sisestage kehtiv aadress</translation>
 <translation id="2986368408720340940">See kättesaamisviis pole saadaval. Proovige mõnda teist kättesaamisviisi.</translation>
 <translation id="2987034854559945715">Sobivaid funktsioone ei leitud</translation>
@@ -802,7 +802,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3037177537145227281">Jälgite hinda</translation>
 <translation id="3037605927509011580">Ups, ebaõnn!</translation>
 <translation id="3041612393474885105">Sertifikaadi andmed</translation>
-<translation id="305162504811187366">Chrome Remote Desktopi ajalugu, sh ajatemplid, hostid ja kliendiseansside ID-d</translation>
+<translation id="6009592758194948058">WEB3 DNA Browser Remote Desktopi ajalugu, sh ajatemplid, hostid ja kliendiseansside ID-d</translation>
 <translation id="3052964831964880138"><ph name="PRICE_DROP" /> hinnalangus teenuse <ph name="PRODUCT_NAME" /> puhul</translation>
 <translation id="3061707000357573562">Teenuse paikamine</translation>
 <translation id="306573536155379004">Mäng algas.</translation>
@@ -850,7 +850,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3194737229810486521"><ph name="URL" /> soovib andmed alaliselt teie seadmesse salvestada.</translation>
 <translation id="3195213714973468956">Printer <ph name="PRINTER_NAME" /> serveris <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Saab küsida luba selle teadmiseks, millal seadet aktiivselt kasutate</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes sünkroonitava teabe haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes sünkroonitava teabe haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="320323717674993345">Tühista makse</translation>
 <translation id="3203366800380907218">Veebist</translation>
 <translation id="3207960819495026254">Järjehoidjatesse lisatud</translation>
@@ -874,7 +874,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, oma brauseri ilme kohandamiseks vajutage tabulaatorit ja siis sisestusklahvi</translation>
 <translation id="3240791268468473923">Turvalise maksemandaadi leht selle kohta, et pole ühtegi sobivat mandaati, on avatud</translation>
 <translation id="324180406144491771">Hosti „<ph name="HOST_NAME" />“ lingid on blokeeritud</translation>
-<translation id="3248611290851046188">See sait defineerib huvid, mida muud saidid saavad teile reklaamide kuvamiseks kasutada. Samuti hangib see sait Chrome'ist teie huvid, et näidata teile asjakohasemaid reklaame.</translation>
+<translation id="8141792378421105106">See sait defineerib huvid, mida muud saidid saavad teile reklaamide kuvamiseks kasutada. Samuti hangib see sait WEB3 DNA Browser'ist teie huvid, et näidata teile asjakohasemaid reklaame.</translation>
 <translation id="3249151924975132674">Õppelaenud ja ülikooliõppe rahastamine</translation>
 <translation id="3249845759089040423">Särtsakas</translation>
 <translation id="3250640885957938546">Reklaam ja turundus</translation>
@@ -884,7 +884,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3256863843508922226">Pension ja pensionile jäämine</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, rakenduses Google'i kalender kiirelt uue sündmuse loomiseks vajutage tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="3261488570342242926">Lisateave virtuaalkaartide kohta</translation>
-<translation id="3264837738038045344">Nupp Chrome'i seadete haldamine, Chrome'i seadete avamiseks vajutage sisestusklahvi.</translation>
+<translation id="3264837738038045344">Nupp WEB3 DNA Browser'i seadete haldamine, WEB3 DNA Browser'i seadete avamiseks vajutage sisestusklahvi.</translation>
 <translation id="3266793032086590337">Väärtus (konflikt)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Ükski sait (sealhulgas seotud saidid) pole blokeeritud}=1{1 sait (sealhulgas seotud saidid) on blokeeritud}other{# saiti (sealhulgas seotud saidid) on blokeeritud}}</translation>
 <translation id="3268451620468152448">Avatud vahelehed</translation>
@@ -898,7 +898,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3287510313208355388">Laadi alla, kui ühendus on saadaval</translation>
 <translation id="3288238092761586174"><ph name="URL" /> peab teie makse kinnitamiseks võib-olla täiendavaid toiminguid tegema</translation>
 <translation id="3293642807462928945">Lisateave reegli <ph name="POLICY_NAME" /> kohta</translation>
-<translation id="3295444047715739395">Vaadake ja hallake oma paroole Chrome'i seadetes</translation>
+<translation id="3295444047715739395">Vaadake ja hallake oma paroole WEB3 DNA Browser'i seadetes</translation>
 <translation id="3299098170013242198">Windows Hello on paroolide täitmiseks sisse lülitatud</translation>
 <translation id="3303176609391916566">30 × 42 tolli</translation>
 <translation id="3303855915957856445">Otsingutulemusi ei leitud</translation>
@@ -928,9 +928,9 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3366477098757335611">Kuva kaardid</translation>
 <translation id="3369192424181595722">Kella viga</translation>
 <translation id="3369459162151165748">Sõidukite osad ja tarvikud</translation>
-<translation id="3371064404604898522">Määra Chrome vaikebrauseriks</translation>
+<translation id="3371064404604898522">Määra WEB3 DNA Browser vaikebrauseriks</translation>
 <translation id="337363190475750230">Eraldatud</translation>
-<translation id="3375754925484257129">Käita Chrome'i ohutuskontroll</translation>
+<translation id="3375754925484257129">Käita WEB3 DNA Browser'i ohutuskontroll</translation>
 <translation id="3377144306166885718">Server kasutas TLS-i aegunud versiooni.</translation>
 <translation id="3377188786107721145">Viga reegli sõelumisel</translation>
 <translation id="3377736046129930310">Kasutage kaartide kiiremaks kinnitamiseks ekraanilukku</translation>
@@ -954,7 +954,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3423742043356668186">Süsteemi määratud</translation>
 <translation id="3427092606871434483">Luba (vaikimisi)</translation>
 <translation id="3427342743765426898">&amp;Muuda uuesti</translation>
-<translation id="342781501876943858">Chromium soovitab teil parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser soovitab teil parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
 <translation id="3428151540071562330">Vähemalt üks reegli DnsOverHttpsTemplates serveri malli URI on kehtetu ja seda ei kasutata.</translation>
 <translation id="3431216045099978607">Täisekraanilt väljumiseks ja allalaaditud faili(de) nägemiseks vajutage klahvi |<ph name="ACCELERATOR" />|.</translation>
 <translation id="3431636764301398940">Salvesta kaart sellesse seadmesse</translation>
@@ -976,7 +976,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, kõigi praegu avatud inkognito akende sulgemiseks vajutage tabulaatorit ja siis sisestusklahvi</translation>
 <translation id="3477679029130949506">Filmiloetelud ja teatrietenduste ajad</translation>
 <translation id="3479552764303398839">Mitte praegu</translation>
-<translation id="3484560055331845446">Võite kaotada juurdepääsu oma Google'i kontole. Chrome soovitab teil kohe oma parooli muuta. Teil palutakse sisse logida.</translation>
+<translation id="2148205384604312372">Võite kaotada juurdepääsu oma Google'i kontole. WEB3 DNA Browser soovitab teil kohe oma parooli muuta. Teil palutakse sisse logida.</translation>
 <translation id="3484861421501147767">Meeldetuletus: salvestatud sooduskood on saadaval</translation>
 <translation id="3487845404393360112">Salv 4</translation>
 <translation id="3495081129428749620">Lehelt otsimine
@@ -984,7 +984,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="350069200438440499">Faili nimi:</translation>
 <translation id="3507936815618196901">Teid ümbritsevast 3D-kaardi loomine ja kaamera asendi jälgimine</translation>
 <translation id="3512163584740124171">Seda reeglit eiratakse, kuna sama reegligrupi teisel reeglil on kõrgem prioriteet.</translation>
-<translation id="35172538073169599">Nupp Aadresside haldamine, vajutage Chrome'i seadetes aadresside lisamiseks ja haldamiseks sisestusklahvi</translation>
+<translation id="35172538073169599">Nupp Aadresside haldamine, vajutage WEB3 DNA Browser'i seadetes aadresside lisamiseks ja haldamiseks sisestusklahvi</translation>
 <translation id="3518941727116570328">Mitme objekti käsitlemine</translation>
 <translation id="3525130752944427905">10 × 14 tolli</translation>
 <translation id="3528171143076753409">Serveri sertifikaat ei ole usaldusväärne.</translation>
@@ -1011,7 +1011,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3576616784287504635">Manustatud leht saidil <ph name="SITE" /> ütleb</translation>
 <translation id="3577473026931028326">Midagi läks valesti. Proovige uuesti.</translation>
 <translation id="3577902790357386792">Võimlemine</translation>
-<translation id="3581089476000296252">Chrome annab teile teada, kui leht on valmis. &lt;a&gt;Tühista&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser annab teile teada, kui leht on valmis. &lt;a&gt;Tühista&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Lisage nimi</translation>
 <translation id="3583757800736429874">&amp;Teisalda uuesti</translation>
 <translation id="3584299510153766161">Kaks auku all</translation>
@@ -1026,7 +1026,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3611317423880285981">Majapidamistarbed</translation>
 <translation id="3614103345592970299">Suurus 2</translation>
 <translation id="361438452008624280">Loendi kirje „<ph name="LANGUAGE_ID" />”: tundmatu või toetamata keel.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage tabulaatorit ja siis sisestusklahvi, et Chrome'i seadetes ohutuskontroll käitada</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage tabulaatorit ja siis sisestusklahvi, et WEB3 DNA Browser'i seadetes ohutuskontroll käitada</translation>
 <translation id="3615877443314183785">Sisestage kehtiv aegumiskuupäev</translation>
 <translation id="36224234498066874">Sirvimisandmete kustutamine...</translation>
 <translation id="362276910939193118">Näita kogu ajalugu</translation>
@@ -1037,9 +1037,9 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3631244953324577188">Biomeetria</translation>
 <translation id="3632503704576938756">Ekraani jagamist jätkati</translation>
 <translation id="3632892046558972264">Ekraani jagamine peatati</translation>
-<translation id="3633738897356909127">Nupp Värskenda Chrome'i, vajutage Chrome'i seadetes Chrome'i värskendamiseks sisestusklahvi</translation>
+<translation id="3633738897356909127">Nupp Värskenda WEB3 DNA Browser'i, vajutage WEB3 DNA Browser'i seadetes WEB3 DNA Browser'i värskendamiseks sisestusklahvi</translation>
 <translation id="3634530185120165534">Salv 5</translation>
-<translation id="3634567936866541746">Sisestasite äsja oma parooli kahtlasele saidile. Teie kontode turvalisuse tagamiseks soovitab Chrome teil salvestatud paroole kohe kontrollida.</translation>
+<translation id="6586777830476909681">Sisestasite äsja oma parooli kahtlasele saidile. Teie kontode turvalisuse tagamiseks soovitab WEB3 DNA Browser teil salvestatud paroole kohe kontrollida.</translation>
 <translation id="3642638418806704195">Rakendus:</translation>
 <translation id="3647286794400715637">Iga URL-i string peab sisaldama 1–2 URL-i.</translation>
 <translation id="3650584904733503804">Valideerimine õnnestus</translation>
@@ -1082,7 +1082,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3740319564441798148">Kaugreisid bussi ja rongiga</translation>
 <translation id="3744111561329211289">Taustal sünkroonimine</translation>
 <translation id="3744286742364977428">Teie allalaaditud failid saadetakse Google Cloudi või kolmandatele osapooltele analüüsimiseks. Näiteks võidakse neid skannida tundlike andmete või pahavara tuvastamiseks ja talletada teie ettevõtte eeskirjade alusel.</translation>
-<translation id="3744899669254331632">Te ei saa saiti <ph name="SITE" /> praegu külastada, sest veebisait saatis tagasi arusaamatud mandaadid, mida Chromium ei saa töödelda. Võrguvead ja -rünnakud on tavaliselt ajutised, nii et leht tõenäoliselt hiljem töötab.</translation>
+<translation id="3461179235677384837">Te ei saa saiti <ph name="SITE" /> praegu külastada, sest veebisait saatis tagasi arusaamatud mandaadid, mida WEB3 DNA Browser ei saa töödelda. Võrguvead ja -rünnakud on tavaliselt ajutised, nii et leht tõenäoliselt hiljem töötab.</translation>
 <translation id="3745099705178523657">Pärast kinnitamist jagatakse teie Google'i kontol olevaid kaardi üksikasju selle saidiga.</translation>
 <translation id="3748148204939282805">Saidil <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> asuvad ründajad võivad teid meelitada ohtlikele tegevustele, nagu tarkvara installimine või isiklike andmete (nt paroolid, telefoninumbrid või krediitkaarditeave) avaldamine. <ph name="BEGIN_LEARN_MORE_LINK" />Lisateave<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Lennutööstus</translation>
@@ -1201,7 +1201,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4097288585054919042">Teatiste väljalülitamine</translation>
 <translation id="4098354747657067197">Avatav sait on petturlik</translation>
 <translation id="4099048595830172239">Administraatori reegel ei soovita teil ekraani rakendusega <ph name="APPLICATION_TITLE" /> jagada, kui nähtaval on konfidentsiaalne sisu:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'is fondi suuruste ja kirjatüüpide kohandamiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'is fondi suuruste ja kirjatüüpide kohandamiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
 <translation id="4101413244023615925">Tekst ja graafika</translation>
 <translation id="410148943680000050">Kompaktkirjastamine</translation>
 <translation id="4103249731201008433">Seadme seerianumber on kehtetu</translation>
@@ -1253,7 +1253,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4214357935346142455">sisselogimiskuva profiil</translation>
 <translation id="4220128509585149162">Krahhid</translation>
 <translation id="422022731706691852">Saidil <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> asuvad ründajad võivad proovida meelitada teid installima programme, mis kahjustavad sirvimiskogemust (nt muudavad avalehte või kuvavad külastatavatel saitidel lisareklaame). <ph name="BEGIN_LEARN_MORE_LINK" />Lisateave<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;1. toiming: logige portaali sisse&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;1. toiming: logige portaali sisse&lt;/h4&gt;
     &lt;p&gt;Mõningates kohtades, näiteks kohvikutes ja lennujaamades tuleb teil WiFi-võrku sisse logida. Sisselogimislehe avamiseks külastage aadressi, mille alguses on &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Minge mis tahes veebisaidile, mille aadressi alguses on &lt;code&gt;http://&lt;/code&gt;, näiteks &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1261,11 +1261,11 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
     &lt;/ol&gt;
     &lt;h4&gt;2. toiming: avage leht inkognito režiimis (ainult arvutis)&lt;/h4&gt;
     &lt;p&gt;Avage leht, mida külastasite inkognito aknas.&lt;/p&gt;
-    &lt;p&gt;Kui leht avaneb, ei tööta Chrome'i laiendus õigesti. Vea parandamiseks lülitage laiendus välja.&lt;/p&gt;
+    &lt;p&gt;Kui leht avaneb, ei tööta WEB3 DNA Browser'i laiendus õigesti. Vea parandamiseks lülitage laiendus välja.&lt;/p&gt;
     &lt;h4&gt;3. toiming: värskendage operatsioonisüsteemi&lt;/h4&gt;
     &lt;p&gt;Veenduge, et seade oleks ajakohane.&lt;/p&gt;
     &lt;h4&gt;4. toiming: lülitage viirusetõrje ajutiselt välja&lt;/h4&gt;
-    &lt;p&gt;Näete seda viga juhul, kui teie viirusetõrjetarkvara pakub HTTPS-i kaitse või HTTPS-i skannimise funktsiooni. Viirusetõrje takistab Chrome'i turvafunktsioonide pakkumist.&lt;/p&gt;
+    &lt;p&gt;Näete seda viga juhul, kui teie viirusetõrjetarkvara pakub HTTPS-i kaitse või HTTPS-i skannimise funktsiooni. Viirusetõrje takistab WEB3 DNA Browser'i turvafunktsioonide pakkumist.&lt;/p&gt;
     &lt;p&gt;Probleemi lahendamiseks lülitage oma viirusetõrjetarkvara välja. Kui pärast tarkvara väljalülitamist leht töötab, lülitage turvaliste saitide kasutamisel ka edaspidi tarkvara välja.&lt;/p&gt;
     &lt;p&gt;Kui olete lõpetanud, lülitage kindlasti viirusetõrjeprogramm uuesti sisse.&lt;/p&gt;
     &lt;h4&gt;5. toiming: hankige abi&lt;/h4&gt;
@@ -1301,7 +1301,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4305666528087210886">Teie failile ei pääsetud juurde</translation>
 <translation id="4306529830550717874">Kas salvestada aadress?</translation>
 <translation id="4306812610847412719">lõikelaud</translation>
-<translation id="4308567447483056043">Seda reeglit eiratakse, kuna kasutaja pole seotud. Selle reegli rakendamiseks peab Chrome'i brauserit ja profiili haldama administraatorikonsooli kaudu sama organisatsioon.</translation>
+<translation id="3323451588703398074">Seda reeglit eiratakse, kuna kasutaja pole seotud. Selle reegli rakendamiseks peab WEB3 DNA Browser'i brauserit ja profiili haldama administraatorikonsooli kaudu sama organisatsioon.</translation>
 <translation id="4310070645992025887">Otsige teekondadest</translation>
 <translation id="4310496734563057511">Kui jagate seda seadet teistega, saate sisse lülitada Windows Hello, et salvestatud parooli kasutades oma isik kinnitada</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1317,8 +1317,8 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4331519897422864041">Virnastaja 5</translation>
 <translation id="4331708818696583467">Pole turvaline</translation>
 <translation id="4333561522337981382">hallata aknaid kõikidel teie ekraanidel.</translation>
-<translation id="4340575312453649552">See reklaam kasutas teie seadmes liiga palju ressursse, seetõttu Chrome eemaldas selle.</translation>
-<translation id="4340982228985273705">Tuvastati, et tegemist ei ole ettevõtte hallatava arvutiga, seega saab reegel installida ainult Chrome'i veebipoes hostitavaid laiendusi. Chrome'i veebipoe värskenduse URL on „<ph name="CWS_UPDATE_URL" />”.</translation>
+<translation id="3964216933844012257">See reklaam kasutas teie seadmes liiga palju ressursse, seetõttu WEB3 DNA Browser eemaldas selle.</translation>
+<translation id="2218799635675752219">Tuvastati, et tegemist ei ole ettevõtte hallatava arvutiga, seega saab reegel installida ainult WEB3 DNA Browser'i veebipoes hostitavaid laiendusi. WEB3 DNA Browser'i veebipoe värskenduse URL on „<ph name="CWS_UPDATE_URL" />”.</translation>
 <translation id="4346197816712207223">Aktsepteeritavad krediitkaardid</translation>
 <translation id="4348834659292907206">Ühendus saidiga <ph name="SITE" /> pole turvaline</translation>
 <translation id="4349365535725594680">Ei saa konfidentsiaalset sisu jagada</translation>
@@ -1329,7 +1329,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4356973930735388585">Saidil olevad ründajad võivad proovida installida teie arvutisse ohtlikke programme, mis varastavad teie teavet või kustutavad selle (nt fotod, paroolid, sõnumid ja krediitkaardiandmed).</translation>
 <translation id="4358059973562876591">Teie määratud malle ei pruugita rakendada, kuna reeglis DnsOverHttpsMode on viga.</translation>
 <translation id="4358461427845829800">Halda makseviise …</translation>
-<translation id="4359160567981085931">Sisestasite äsja oma parooli petturlikule saidile. Chrome saab teid aidata. Oma parooli muutmiseks ja Google'i teavitamiseks sellest, et teie konto võib olla ohus, klõpsake valikul Konto kaitsmine.</translation>
+<translation id="4550052488331606118">Sisestasite äsja oma parooli petturlikule saidile. WEB3 DNA Browser saab teid aidata. Oma parooli muutmiseks ja Google'i teavitamiseks sellest, et teie konto võib olla ohus, klõpsake valikul Konto kaitsmine.</translation>
 <translation id="4363222835916186793">Selle toote teavitused on välja lülitatud</translation>
 <translation id="437040971055499437">Esineb turvalisusega seotud sündmus</translation>
 <translation id="4372948949327679948">Oodatud väärtus: <ph name="VALUE_TYPE" />.</translation>
@@ -1346,7 +1346,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4411435778612100394">Tarbeelektroonika</translation>
 <translation id="4414515549596849729">küpsisefailid ja saidi andmed</translation>
 <translation id="4415426530740016218">Kättesaamisaadress</translation>
-<translation id="4424024547088906515">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />, Chrome ei usalda selle turvasertifikaati. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
+<translation id="7486060888782747880">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />, WEB3 DNA Browser ei usalda selle turvasertifikaati. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
 <translation id="4428065317363009941">Reklaamide isikupärastamine</translation>
 <translation id="443121186588148776">Jadaport</translation>
 <translation id="4432688616882109544">Host <ph name="HOST_NAME" /> ei aktsepteerinud teie sisselogimise sertifikaati või te ei esitanud seda.</translation>
@@ -1370,7 +1370,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4489023393592172404">Ümbrik Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Krüpteerige sünkroonitud paroolid oma Google'i kontoga</translation>
-<translation id="4492519888999857993">Need funktsioonid on vaikimisi peatatud. Need ei ole Chrome'i tulevastes versioonides saadaval.</translation>
+<translation id="5711551727888568041">Need funktsioonid on vaikimisi peatatud. Need ei ole WEB3 DNA Browser'i tulevastes versioonides saadaval.</translation>
 <translation id="4493480324863638523">Sobimatu URL. Peab olema standardskeemiga URL, nt http://example.com või https://example.com.</translation>
 <translation id="4500587658229086076">ebaturvaline sisu</translation>
 <translation id="4506176782989081258">Valideerimisviga: <ph name="VALIDATION_ERROR" /></translation>
@@ -1378,7 +1378,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="450710068430902550">Administraatoriga jagamine</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage selle lehe tõlkimiseks rakendusega Google'i tõlge tabulaatorit ja siis sisestusklahvi</translation>
 <translation id="4514308731478712184">Lülita funktsioon Teekonnad välja</translation>
-<translation id="4515275063822566619">Kaardid ja aadressid pärinevad Chrome'ist ning teie Google'i kontolt (<ph name="ACCOUNT_EMAIL" />). Neid saate hallata menüüs <ph name="BEGIN_LINK" />Seaded<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Kaardid ja aadressid pärinevad WEB3 DNA Browser'ist ning teie Google'i kontolt (<ph name="ACCOUNT_EMAIL" />). Neid saate hallata menüüs <ph name="BEGIN_LINK" />Seaded<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">Selle faili allalaadimine on administraatori reegliga blokeeritud</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Ümbrik Monarh</translation>
@@ -1394,10 +1394,10 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Keelake laiendused.</translation>
 <translation id="4566017918361049074">Vabaõhutegevused</translation>
-<translation id="4567686777917670400">Teie administraator saab brauseri seadistust kaugühenduse kaudu muuta. Selle seadme tegevusi võidakse hallata ka väljaspool Chromiumi. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Teie administraator saab brauseri seadistust kaugühenduse kaudu muuta. Selle seadme tegevusi võidakse hallata ka väljaspool Chromiumi. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Kohaletoimetamine</translation>
 <translation id="4582204425268416675">Kaardi eemaldamine</translation>
-<translation id="4587425331216688090">Kas eemaldada Chrome'ist aadress?</translation>
+<translation id="4549859745110415735">Kas eemaldada WEB3 DNA Browser'ist aadress?</translation>
 <translation id="459089498662672729">Administraatori reegli järgi pole kleepimine sihtkohast <ph name="ORIGIN_NAME" /> sellesse asukohta soovitatav</translation>
 <translation id="4592951414987517459">Teie ühendus domeeniga <ph name="DOMAIN" /> on krüpteeritud tänapäevase šifreerimiskomplektiga.</translation>
 <translation id="4594403342090139922">&amp;Võta kustutamine tagasi</translation>
@@ -1406,17 +1406,17 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4600084978141515058">Vegan-toidud</translation>
 <translation id="4602465984861132303">Keegel</translation>
 <translation id="4606870351894164739">Mõjukas</translation>
-<translation id="4607603470419975064">Nupp Kuva Chrome'i nõuanded, Chrome'i funktsioonide kohta lisateabe saamiseks vajutage sisestusklahvi</translation>
-<translation id="4607608436550361748">Vaadake Chrome'i nõuandeid</translation>
+<translation id="4607603470419975064">Nupp Kuva WEB3 DNA Browser'i nõuanded, WEB3 DNA Browser'i funktsioonide kohta lisateabe saamiseks vajutage sisestusklahvi</translation>
+<translation id="4607608436550361748">Vaadake WEB3 DNA Browser'i nõuandeid</translation>
 <translation id="4610279718074907952">See sait on omaniku <ph name="SET_OWNER" /> määratud grupis, mis näeb teie tegevusi</translation>
 <translation id="4617273035598175554">Jooniste ja animatsiooni tarkvara</translation>
 <translation id="4622292761762557753">Kanna ikkagi üle</translation>
-<translation id="4627675673814409125">Seda reeglit ei saa Chrome'i profiili tasemel määrata ja seda eiratakse.</translation>
+<translation id="6607050922769407881">Seda reeglit ei saa WEB3 DNA Browser'i profiili tasemel määrata ja seda eiratakse.</translation>
 <translation id="4628948037717959914">Foto</translation>
 <translation id="4629370161347991046">A4 × 6</translation>
 <translation id="4631649115723685955">Ostuboonus on lingitud</translation>
 <translation id="4636930964841734540">Teave</translation>
-<translation id="4638670630777875591">Inkognito režiim Chromiumis</translation>
+<translation id="9064160697734393810">Inkognito režiim Chromiumis</translation>
 <translation id="464342062220857295">Otsingufunktsioonid</translation>
 <translation id="4644670975240021822">Vastupidine järjestus, esikülg allapoole</translation>
 <translation id="4646534391647090355">Vii mind kohe sinna</translation>
@@ -1454,7 +1454,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4731638775147756694">Administraator blokeeris selle rakenduse</translation>
 <translation id="4733082559415072992"><ph name="URL" /> soovib kasutada teie seadme asukohta</translation>
 <translation id="4736491186715342415">Mootorsõidukid</translation>
-<translation id="4736825316280949806">Taaskäivitage Chromium</translation>
+<translation id="1624940062651381269">Taaskäivitage WEB3 DNA Browser</translation>
 <translation id="4736934858538408121">Virtuaalkaart</translation>
 <translation id="473775607612524610">Värskenda</translation>
 <translation id="4738601419177586157">Otsingusoovitus: <ph name="TEXT" /></translation>
@@ -1468,10 +1468,10 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4754461935447132332">Pole ebaturvaliste saitide puhul lubatud</translation>
 <translation id="4756388243121344051">&amp;Ajalugu</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Sisestasite äsja oma parooli kahtlasele saidile. Teie kontode turvalisuse tagamiseks soovitab Chromium teil salvestatud paroole kohe kontrollida.</translation>
+
 <translation id="4758311279753947758">Lisage kontaktteave</translation>
 <translation id="4761104368405085019">Mikrofoni kasutamine</translation>
-<translation id="4761869838909035636">Käita Chrome'i ohutuskontroll</translation>
+<translation id="2178430137592069173">Käita WEB3 DNA Browser'i ohutuskontroll</translation>
 <translation id="4764776831041365478">Veebileht aadressil <ph name="URL" /> võib olla ajutiselt maas või jäädavalt uuele veebiaadressile teisaldatud.</translation>
 <translation id="4766713847338118463">Kaks kirjaklambrit all</translation>
 <translation id="4771973620359291008">Tekkis tundmatu viga.</translation>
@@ -1502,7 +1502,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4834250788637067901">Makseviisid, pakkumised ja aadressid, mis kasutavad Google Payd</translation>
 <translation id="4838327282952368871">Unistav</translation>
 <translation id="4839087176073128681">Makske järgmisel korral kiiremini ja kaitske oma kaarti Google'i valdkonna parimate turvameetmetega.</translation>
-<translation id="4840250757394056958">Chrome’i ajaloo vaatamine</translation>
+<translation id="4840250757394056958">WEB3 DNA Browser’i ajaloo vaatamine</translation>
 <translation id="484462545196658690">Automaatne</translation>
 <translation id="484671803914931257">Saage allahindlust kaupmehe <ph name="MERCHANT_NAME" /> juures ja mujalgi</translation>
 <translation id="484988093836683706">Kasuta seadmega avamist</translation>
@@ -1544,7 +1544,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4934780484581617878">Akende haldamine</translation>
 <translation id="4936134414789135531">Sisestatud väärtust (<ph name="VALUE_NAME" />) ei leitud.</translation>
 <translation id="4936675324097895694">Finance</translation>
-<translation id="4940163644868678279">Inkognito režiim Chrome'is</translation>
+
 <translation id="4943872375798546930">Tulemusi pole</translation>
 <translation id="4943933359574417591">Tekst- ja kiirsõnumite saatmine</translation>
 <translation id="4950898438188848926">Vahelehe vahetamise nupp, vajutage sisestusklahvi avatud vahelehe aktiveerimiseks, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1567,7 +1567,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4995216769782533993">Kui soovite kaardi üksikasju selle saidiga jagada, kinnitage turvakood</translation>
 <translation id="4995474875135717171">Muudetud:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, saidiotsingu ja oma vaikeotsingumootori haldamiseks vajutage tabulaatorit ning seejärel sisestusklahvi.</translation>
-<translation id="5002932099480077015">Kui see on lubatud, salvestab Chrome teie kaardi koopia vormide kiiremini täitmiseks sellesse seadmesse.</translation>
+
 <translation id="5011561501798487822">Tuvastatud keel</translation>
 <translation id="5015510746216210676">Seadme nimi:</translation>
 <translation id="5017554619425969104">Teie kopeeritud tekst</translation>
@@ -1576,7 +1576,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5018802455907704660">16 × 20 tolli</translation>
 <translation id="5019198164206649151">Varusalves esineb probleeme</translation>
 <translation id="5020776957610079374">Maailmamuusika</translation>
-<translation id="5021557570875267742">Hindade jälgimine Chrome'iga</translation>
+<translation id="4735860266347344416">Hindade jälgimine WEB3 DNA Browser'iga</translation>
 <translation id="5023310440958281426">Tutvuge administraatori reeglitega</translation>
 <translation id="5029568752722684782">Kustuta koopia</translation>
 <translation id="5030338702439866405">Väljaandja</translation>
@@ -1609,7 +1609,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5087580092889165836">Lisa kaart</translation>
 <translation id="5088142053160410913">Sõnum operaatorile</translation>
 <translation id="5093232627742069661">Z-kujuliselt volditud</translation>
-<translation id="5094747076828555589">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />, Chromium ei usalda selle turvasertifikaati. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
+
 <translation id="5097099694988056070">Seadme statistika, näiteks protsessori/muutmälu kasutus</translation>
 <translation id="5097468150760963273">27 × 39 tolli</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1643,7 +1643,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5161506081086828129">Virnastaja 9</translation>
 <translation id="5164798890604758545">Tekst on sisestatud</translation>
 <translation id="516920405563544094">Sisestage krediitkaardi <ph name="CREDIT_CARD" /> CVC. Pärast kinnitamist jagatakse teie Google'i kontol oleva kaardi üksikasju selle saidiga.</translation>
-<translation id="5169827969064885044">Võite kaotada juurdepääsu oma organisatsiooni kontole või teie identiteet võidakse varastada. Chrome soovitab teil kohe oma parooli muuta.</translation>
+
 <translation id="5171045022955879922">Otsige või sisestage URL</translation>
 <translation id="5172758083709347301">Masin</translation>
 <translation id="5177076414499237632">Teave selle lehe allika ja teema kohta</translation>
@@ -1655,7 +1655,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="51918995459521422"><ph name="ORIGIN" /> soovib alla laadida mitu faili</translation>
 <translation id="519422657042045905">Märkuste lisamise funktsioon ei ole saadaval</translation>
 <translation id="5201306358585911203">Selle lehe manustatud leht ütleb</translation>
-<translation id="5204468114771111727">Chrome leidis äsja kasutatud parooli andmetega seotud rikkumisest. Google'i assistent võib teie parooli automaatselt ära muuta.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser leidis äsja kasutatud parooli andmetega seotud rikkumisest. Google'i assistent võib teie parooli automaatselt ära muuta.</translation>
 <translation id="5205222826937269299">Nimi on nõutav</translation>
 <translation id="5209518306177824490">SHA-1 sõrmejälg</translation>
 <translation id="5209670883520018268">Salv 20</translation>
@@ -1672,7 +1672,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5239623327352565343">Asukoht on lubatud</translation>
 <translation id="5242889659037569123">Pagas ja reisitarvikud</translation>
 <translation id="5250209940322997802">„Looge võrguühendus”</translation>
-<translation id="52517543715119994">Teave Chrome'i funktsioonide kohta</translation>
+<translation id="52517543715119994">Teave WEB3 DNA Browser'i funktsioonide kohta</translation>
 <translation id="5251803541071282808">Pilv</translation>
 <translation id="5254043433801397071">Prindi sisu optimeerimine</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1694,7 +1694,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5287456746628258573">See sait kasutab vananenud turvaseadistust, mis võib paljastada teie teabe (näiteks paroolid või krediitkaardinumbrid), kui see saadetakse sellele saidile.</translation>
 <translation id="5288108484102287882">Reegli väärtuste valideerimisel ilmnesid hoiatused</translation>
 <translation id="5288393065350884210">Raamatupidamine ja auditeerimine</translation>
-<translation id="5288808348893593856">Teie ühendus saidiga on turvaline, kui Chrome teisiti ei teavita.</translation>
+<translation id="8429736460204202092">Teie ühendus saidiga on turvaline, kui WEB3 DNA Browser teisiti ei teavita.</translation>
 <translation id="5289384342738547352">Mitme dokumendi käsitlemine</translation>
 <translation id="5293919335876685914">Kupeeautod</translation>
 <translation id="5296589789433599000">Kokkamine ja retseptid</translation>
@@ -1713,14 +1713,14 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5324080437450482387">Valige kontaktteave</translation>
 <translation id="5329858041417644019">Teie brauserit ei hallata</translation>
 <translation id="5332219387342487447">Tarneviis</translation>
-<translation id="5333022057423422993">Chrome leidis äsja kasutatud parooli andmetega seotud rikkumisest. Oma kontode turvalisuse tagamiseks soovitame teil oma salvestatud paroole kontrollida.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser leidis äsja kasutatud parooli andmetega seotud rikkumisest. Oma kontode turvalisuse tagamiseks soovitame teil oma salvestatud paroole kontrollida.</translation>
 <translation id="5334013548165032829">Üksikasjalikud süsteemilogid</translation>
 <translation id="5334145288572353250">Kas salvestada aadress?</translation>
 <translation id="5335920952954443287">Tuksuv süda</translation>
 <translation id="5340250774223869109">Rakendus on blokeeritud</translation>
 <translation id="534295439873310000">NFC-seadmed</translation>
 <translation id="5344579389779391559">Leht võib üritada teilt tasu võtta</translation>
-<translation id="5347645913823149105">Nupp Chrome'is fontide kohandamine, Chrome'is fondi suuruste ja kirjatüüpide kohandamiseks vajutage sisestusklahvi.</translation>
+<translation id="5347645913823149105">Nupp WEB3 DNA Browser'is fontide kohandamine, WEB3 DNA Browser'is fondi suuruste ja kirjatüüpide kohandamiseks vajutage sisestusklahvi.</translation>
 <translation id="5355557959165512791">Te ei saa saiti <ph name="SITE" /> praegu külastada, sest selle sertifikaat on tühistatud. Võrguvead ja -rünnakud on tavaliselt ajutised, nii et leht tõenäoliselt hiljem töötab.</translation>
 <translation id="5356837363448394805">Punetav</translation>
 <translation id="5357848622083956825">Kujutav kunst ja disain</translation>
@@ -1739,7 +1739,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="540630185148148480">Lülita teavitused sisse</translation>
 <translation id="540969355065856584">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />; selle turvasertifikaat pole praegu kehtiv. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
 <translation id="5412040515238827314">Vale vorming: oodati mustrite loendit.</translation>
-<translation id="5412236728747081950">See sait hangib Chrome'ist teie huvid, et näidata teile asjakohasemaid reklaame</translation>
+<translation id="3825896935771081728">See sait hangib WEB3 DNA Browser'ist teie huvid, et näidata teile asjakohasemaid reklaame</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> – <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Virnastaja 4</translation>
 <translation id="5414511064953050917">Teisalda siiski</translation>
@@ -1782,7 +1782,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome OS-i seadetes oma juurdepääsetavuse tööriistade isikupärastamiseks vajutage tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="5528532273234423708">Kodutehnika</translation>
 <translation id="55293785478302737">Servaõmblus</translation>
-<translation id="5535133333442455806">Nupp Kustuta sirvimisandmed, vajutage Chrome'i seadetes sirvimisajaloo, küpsisefailide ja muu kustutamiseks ning vahemälu tühjendamiseks sisestusklahvi</translation>
+<translation id="5535133333442455806">Nupp Kustuta sirvimisandmed, vajutage WEB3 DNA Browser'i seadetes sirvimisajaloo, küpsisefailide ja muu kustutamiseks ning vahemälu tühjendamiseks sisestusklahvi</translation>
 <translation id="5536214594743852365">Kuva jaotis „<ph name="SECTION" />”</translation>
 <translation id="553782666181800029">Ümbrik Chou 2</translation>
 <translation id="5539243836947087108">Alus</translation>
@@ -1792,7 +1792,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5541546772353173584">E-posti aadressi lisamine</translation>
 <translation id="5545756402275714221">Teile soovitatud artiklid</translation>
 <translation id="5551890439174915351">100 × 200 mm</translation>
-<translation id="5552137475244467770">Chrome võrdleb teie paroole regulaarselt veebis avaldatud loenditega. Selle käigus on teie paroolid ja kasutajanimed krüpteeritud, et mitte keegi (sh Google) ei saaks neid lugeda.</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser võrdleb teie paroole regulaarselt veebis avaldatud loenditega. Selle käigus on teie paroolid ja kasutajanimed krüpteeritud, et mitte keegi (sh Google) ei saaks neid lugeda.</translation>
 <translation id="5556459405103347317">Laadi uuesti</translation>
 <translation id="5560088892362098740">Aegumiskuupäev</translation>
 <translation id="55635442646131152">Dokumendi liigendus</translation>
@@ -1855,7 +1855,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5720705177508910913">Praegune kasutaja</translation>
 <translation id="5723287205918986743">Kaitsetööstus</translation>
 <translation id="5725567311035061582">Küpsiste ja saidiandmete haldamine</translation>
-<translation id="5730040223043577876">Chrome soovitab teil parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
+
 <translation id="5736165827969430182">Metall ja kaevandamine</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Salvestage kaart oma Google'i kontole}other{Salvestage kaardid oma Google'i kontole}}</translation>
 <translation id="5738385766833540397">Hallake, kuidas saate jälgitavate toodete puhul hinnaalanduse märguandeid</translation>
@@ -1880,14 +1880,14 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5784606427469807560">Kaardi kinnitamisel tekkis probleem. Kontrollige Interneti-ühendust ja proovige uuesti.</translation>
 <translation id="5785756445106461925">Lisaks sisaldab see leht teisi ressursse, mis pole turvalised. Edastamise ajal võivad ressursse vaadata ka teised ja ründajad saavad lehe välimuse muutmiseks ressursse muuta.</translation>
 <translation id="5786044859038896871">Kas soovite sisestada oma kaarditeabe?</translation>
-<translation id="578633867165174378">Chrome leidis äsja kasutatud parooli andmetega seotud rikkumisest. Soovitame parooli kohe muuta.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser leidis äsja kasutatud parooli andmetega seotud rikkumisest. Soovitame parooli kohe muuta.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Kas soovite sisestada kirje <ph name="CARD_DETAIL" />?</translation>
 <translation id="5804241973901381774">Load</translation>
-<translation id="5808435672482059465">Chrome’i ajaloo vaatamine</translation>
+<translation id="7552154626705223867">WEB3 DNA Browser’i ajaloo vaatamine</translation>
 <translation id="5808542072418270309">Simulatsioonimängud</translation>
 <translation id="5810442152076338065">Teie ühendus domeeniga <ph name="DOMAIN" /> on krüpteeritud aegunud šifreerimiskomplektiga.</translation>
-<translation id="5812947184178430888">Kui Chrome märgistab turvalisusega seotud sündmused, saadetakse teie administraatorile asjakohased andmed sündmuste kohta. See võib hõlmata teie Chrome'is külastatud lehtede URL-e, failinimesid või metaandmeid ja kasutajanime, mida kasutate veebipõhistesse rakendustesse, seadmesse ja Chrome'i sisselogimiseks.</translation>
+<translation id="8479644990349381409">Kui WEB3 DNA Browser märgistab turvalisusega seotud sündmused, saadetakse teie administraatorile asjakohased andmed sündmuste kohta. See võib hõlmata teie WEB3 DNA Browser'is külastatud lehtede URL-e, failinimesid või metaandmeid ja kasutajanime, mida kasutate veebipõhistesse rakendustesse, seadmesse ja WEB3 DNA Browser'i sisselogimiseks.</translation>
 <translation id="5813119285467412249">&amp;Lisa uuesti</translation>
 <translation id="5813309815819933152">Tõsielusarjad</translation>
 <translation id="5813753398265398978">Füüsika</translation>
@@ -2003,10 +2003,10 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6116338172782435947">näha lõikelauale kopeeritud teksti ja kujutisi</translation>
 <translation id="6118782133429281336">Lähtekohtade loend on tühi.</translation>
 <translation id="6120179357481664955">Kas jätta teie UPI ID meelde?</translation>
-<translation id="6124432979022149706">Chrome Enterprise'i liidesed</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise'i liidesed</translation>
 <translation id="6126565365696310362">Ümbrik Hiina nr 2</translation>
 <translation id="6127379762771434464">Üksus eemaldati</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Lisateave inkognito režiimi kohta Chrome'is<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Failinimelaiend on tühi või vigane.</translation>
 <translation id="6139975341602920272">17 × 22 tolli</translation>
 <translation id="6146055958333702838">Kontrollige kaableid ning taaskäivitage kõik ruuterid, modemid ja muud
@@ -2032,10 +2032,10 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6197648101609735209">89 × 89 mm</translation>
 <translation id="6203231073485539293">Kontrollige Interneti-ühendust</translation>
 <translation id="6212314149070368045">USA lõõtspaber</translation>
-<translation id="6218753634732582820">Kas eemaldada Chromiumist aadress?</translation>
+
 <translation id="622039917539443112">Paralleelselt volditud</translation>
 <translation id="6221345481584921695">Google'i ohutu sirvimise teenus <ph name="BEGIN_LINK" />tuvastas hiljuti pahavara<ph name="END_LINK" /> saidil <ph name="SITE" />. Tavaliselt turvalisi veebisaite võidakse mõnikord nakatada pahavaraga. Pahatahtlik sisu pärineb hostilt <ph name="SUBRESOURCE_HOST" />, mis on tuntud pahavara levitaja.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'i seadetes oma juurdepääsetavuse tööriistade isikupärastamiseks vajutage tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'i seadetes oma juurdepääsetavuse tööriistade isikupärastamiseks vajutage tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="6229649258872345286">Perereisid</translation>
 <translation id="6232271601416750929">Puhas ilu</translation>
 <translation id="6233160458685643793">Irvitav</translation>
@@ -2044,7 +2044,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6240447795304464094">Google Pay logo</translation>
 <translation id="6241121617266208201">Peida soovitused</translation>
 <translation id="624499991300733384">Prindi koostamisteenus</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'is allalaaditud failide haldamiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'is allalaaditud failide haldamiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
 <translation id="6254436959401408446">Selle lehe avamiseks pole piisavalt mälu</translation>
 <translation id="6259156558325130047">&amp;Korrasta uuesti</translation>
 <translation id="6263376278284652872">Domeeni <ph name="DOMAIN" /> järjehoidjad</translation>
@@ -2052,21 +2052,21 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6264485186158353794">Tagasi turvalisusse</translation>
 <translation id="6265794661083428563">Kopeeri reegli <ph name="POLICY_NAME" /> väärtus</translation>
 <translation id="6266934640124581640">Helesinakasroheline</translation>
-<translation id="6272088941196661550">Jätkake oma teekonda, et näha Chrome'i ajaloos asjakohaseid tegevusi</translation>
+<translation id="1989642600714730446">Jätkake oma teekonda, et näha WEB3 DNA Browser'i ajaloos asjakohaseid tegevusi</translation>
 <translation id="6272383483618007430">Google Update</translation>
 <translation id="6276112860590028508">Siin kuvatakse teie lugemisloendis olevad lehed</translation>
 <translation id="627746635834430766">Kui soovite järgmisel korral kiiremini maksta, salvestage kaart ja arveldusaadress oma Google'i kontole.</translation>
 <translation id="6279183038361895380">Kursori kuvamiseks vajutage klahvi |<ph name="ACCELERATOR" />|</translation>
 <translation id="6280223929691119688">Sellele aadressile ei saa kaupa kohale toimetada. Valige mõni teine aadress.</translation>
 <translation id="6284292079994426700">26 × 38 tolli</translation>
-<translation id="6285507000506177184">Nupp Chrome'i allalaadimiste haldamine, Chrome'is allalaaditud failide haldamiseks vajutage sisestusklahvi</translation>
+<translation id="6285507000506177184">Nupp WEB3 DNA Browser'i allalaadimiste haldamine, WEB3 DNA Browser'is allalaaditud failide haldamiseks vajutage sisestusklahvi</translation>
 <translation id="6289939620939689042">Lehe värv</translation>
 <translation id="6290238015253830360">Teie soovitatud artiklid kuvatakse siin</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Teie seade taaskäivitub kohe}=1{Teie seade taaskäivitub 1 sekundi pärast}other{Teie seade taaskäivitub # sekundi pärast}}</translation>
 <translation id="6301104306974789820">Hankige hinna jälgimise teavitusi</translation>
-<translation id="6302269476990306341">Chrome'ile mõeldud Google'i assistenti peatatakse</translation>
+<translation id="6804344251855709483">WEB3 DNA Browser'ile mõeldud Google'i assistenti peatatakse</translation>
 <translation id="6305205051461490394">URL-iga <ph name="URL" /> ei saa ühendust.</translation>
 <translation id="6311165245110979290">Virtuaalkaart on saadaval</translation>
 <translation id="6312113039770857350">Veebileht ei ole saadaval</translation>
@@ -2075,7 +2075,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6319249456820053699">Foto- ja videokaamerad</translation>
 <translation id="6321917430147971392">Kontrollige DNS-i seadeid</translation>
 <translation id="6322182122604171028">Funktsiooni Windows Hello ei saa kasutada</translation>
-<translation id="6326947323444967009">iOS-i seadetes Chrome'i süsteemi vaikebrauseriks määramine</translation>
+<translation id="6326947323444967009">iOS-i seadetes WEB3 DNA Browser'i süsteemi vaikebrauseriks määramine</translation>
 <translation id="6328639280570009161">Proovige keelata võrguprognoos</translation>
 <translation id="6328784461820205019">„Teie ühendus ei ole privaatne” või „&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;” või „&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;” või „&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;” või „&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;” või „SSL-i sertifikaadi viga”</translation>
 <translation id="6328786501058569169">See sait on petturlik</translation>
@@ -2086,7 +2086,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6348220984832452017">Aktiivsed variatsioonid</translation>
 <translation id="6349101878882523185">Installi <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Puudub}=1{1 parool (loendile <ph name="DOMAIN_LIST" />, sünkroonitud)}=2{2 parooli (loendile <ph name="DOMAIN_LIST" />, sünkroonitud)}other{# parooli (loendile <ph name="DOMAIN_LIST" />, sünkroonitud)}}</translation>
-<translation id="6355392890578844978">Seda brauserit ei halda ettevõte ega muu organisatsioon. Selle seadme tegevusi võidakse hallata ka väljaspool Chromiumi. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Seda brauserit ei halda ettevõte ega muu organisatsioon. Selle seadme tegevusi võidakse hallata ka väljaspool Chromiumi. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Mida need tähendavad?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Kontrollitakse puhverserveri, tulemüüri ja turvalise DNS-i seadistust<ph name="END_LINK" /></translation>
@@ -2111,7 +2111,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6405181733356710802">Kas minna edasi rakendusse <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Sisestage krediitkaardi <ph name="CREDIT_CARD" /> aegumiskuupäev ja CVC</translation>
 <translation id="6411107829285739505">A4 × 8</translation>
-<translation id="6415778972515849510">Chromium aitab teil oma Google'i kontot kaitsta ja parooli muuta.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser aitab teil oma Google'i kontot kaitsta ja parooli muuta.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Materiaalne</translation>
 <translation id="6427730057873428458">Väravakujuliselt volditud</translation>
@@ -2149,7 +2149,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6502626736864595182">Foorumite ja jututubade pakkujad</translation>
 <translation id="6502991525169604759">Ilma teie tehtud muudatusteta</translation>
 <translation id="6506959208958864820">Ümbrik</translation>
-<translation id="6508722015517270189">Taaskäivitage Chrome</translation>
+
 <translation id="6513005815064132016">Saab küsida luba teie kaamera asendi jälgimiseks</translation>
 <translation id="6517596291481585650">Hoiatus! Seda reeglit ei liidetud reeglis määratud loendina, kuna see ei ole loend.</translation>
 <translation id="6518133107902771759">Kinnita</translation>
@@ -2170,11 +2170,11 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="657902945730878902">Joonistamine ja värvimine</translation>
 <translation id="6579630537141957243">Kas ühendada MIDI-seade?</translation>
 <translation id="6579990219486187401">Heleroosa</translation>
-<translation id="6587182488465657433">Chrome leidis äsja kasutatud parooli andmetega seotud rikkumisest. Oma kontode turvalisuse tagamiseks soovitame teil seda kohe muuta ja seejärel oma salvestatud paroole kontrollida.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser leidis äsja kasutatud parooli andmetega seotud rikkumisest. Oma kontode turvalisuse tagamiseks soovitame teil seda kohe muuta ja seejärel oma salvestatud paroole kontrollida.</translation>
 <translation id="6587893660316489419">Ümbrik B5</translation>
 <translation id="6587923378399804057">Teie kopeeritud link</translation>
 <translation id="6591833882275308647">Teie seadet <ph name="DEVICE_TYPE" /> ei hallata</translation>
-<translation id="6592952801936330159">Nupp Saidi seadete haldamine, vajutage Chrome'i seadetes lubade ja mitmel saidil talletatud andmete haldamiseks sisestusklahvi</translation>
+<translation id="6592952801936330159">Nupp Saidi seadete haldamine, vajutage WEB3 DNA Browser'i seadetes lubade ja mitmel saidil talletatud andmete haldamiseks sisestusklahvi</translation>
 <translation id="6596325263575161958">Krüpteerimise valikud</translation>
 <translation id="6599642189720630047">Jälgitavad tooted</translation>
 <translation id="6611723696964473273">Majandusuudised</translation>
@@ -2191,7 +2191,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6645291930348198241">Juurdepääs küpsisefailidele ja saidi andmetele.</translation>
 <translation id="6645478838938543427">Hinnaalanduse teatised saadetakse e-posti aadressile <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Mitte ükski}=1{1 saidilt (teid ei logita Google'i kontolt välja)}other{# saidilt (teid ei logita Google'i kontolt välja)}}</translation>
-<translation id="6648459603387803038">Teie administraator saab brauseri seadistust kaugühenduse kaudu muuta. Selle seadme tegevusi võidakse hallata ka väljaspool Chrome'i.</translation>
+<translation id="6228269625838082008">Teie administraator saab brauseri seadistust kaugühenduse kaudu muuta. Selle seadme tegevusi võidakse hallata ka väljaspool WEB3 DNA Browser'i.</translation>
 <translation id="6648524591329069940">Seriifidega font</translation>
 <translation id="6649510485211003056">195 × 270 mm</translation>
 <translation id="6651270836885078973">Haldab:</translation>
@@ -2203,7 +2203,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6663846344464066639">Käed ristis</translation>
 <translation id="6665553082534466207">Kolm auku paremal</translation>
 <translation id="6668389483194953109">Leiti paberi suurus „custom“, kuid atribuut „custom_size“ on tühi või sobimatu.</translation>
-<translation id="6671697161687535275">Kas eemaldada Chromiumist vormi soovitus?</translation>
+<translation id="3922033200710514285">Kas eemaldada Chromiumist vormi soovitus?</translation>
 <translation id="6683717648675961851">Töökuulutused</translation>
 <translation id="6685834062052613830">Logige välja ja viige seadistus lõpule</translation>
 <translation id="6687335167692595844">Fondi taotletud suurus</translation>
@@ -2211,7 +2211,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6688743156324860098">Värskendage …</translation>
 <translation id="6688775486821967877">Virtuaalkaart pole praegu saadaval. Proovige hiljem uuesti.</translation>
 <translation id="6689249931105087298">Suhteline, musta punkti tihendamisega</translation>
-<translation id="6689271823431384964">Chrome pakub kaartide salvestamist teie Google'i kontole, kuna olete sisse logitud. Seda käitumist saab seadetes muuta. Kaardiomaniku nimi pärineb teie kontolt.</translation>
+<translation id="6568883612935818921">WEB3 DNA Browser pakub kaartide salvestamist teie Google'i kontole, kuna olete sisse logitud. Seda käitumist saab seadetes muuta. Kaardiomaniku nimi pärineb teie kontolt.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, oma seadme leidmiseks Google'i kontol vajutage tabulaatorit ja siis sisestusklahvi.</translation>
 <translation id="6696588630955820014">Nupp Jaga seda vahelehte, lingi jagamiseks (lingi jagamise, QR-koodi loomise, ülekandmise ja muu kaudu) vajutage sisestusklahvi</translation>
 <translation id="6698381487523150993">Loodud:</translation>
@@ -2276,7 +2276,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6883221904761970440">Turvalise maksemandaadi autentimisleht on suletud</translation>
 <translation id="6884662655240309489">Suurus 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome lihtsustas seda lehte, et seda oleks lihtsam lugeda. Chrome hankis algse lehe ebaturvalise ühenduse kaudu.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser lihtsustas seda lehte, et seda oleks lihtsam lugeda. WEB3 DNA Browser hankis algse lehe ebaturvalise ühenduse kaudu.</translation>
 <translation id="6890443033788248019">Kas anda asukohale juurdepääsu luba?</translation>
 <translation id="6890531741535756070">Otsustasite kinnitada <ph name="DEVICE_LABEL" /> veebisaitidel, mis kasutavad domeeni <ph name="PROVIDER_ORIGIN" />. See pakkuja võis teie makseviisi kohta teavet salvestada. Saate <ph name="BEGIN_LINK" />taotleda selle kustutamist<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Reegli taset ei toetata.</translation>
@@ -2349,7 +2349,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="7058774143982824355">Paroolide CSV-faili sõelumise teenus</translation>
 <translation id="7061777300866737982">Kodune turvalisus ja julgeolek</translation>
 <translation id="7062635574500127092">Sinakasroheline</translation>
-<translation id="706295145388601875">Lisage ja hallake Chrome'i seadetes aadresse</translation>
+<translation id="706295145388601875">Lisage ja hallake WEB3 DNA Browser'i seadetes aadresse</translation>
 <translation id="7064851114919012435">Kontaktteave</translation>
 <translation id="7067633076996245366">Soul ja R&amp;B</translation>
 <translation id="7068733155164172741">Sisestage <ph name="OTP_LENGTH" />-kohaline kood</translation>
@@ -2360,23 +2360,18 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="7081308185095828845">See funktsioon pole teie seadmes saadaval</translation>
 <translation id="7083258188081898530">Salv 9</translation>
 <translation id="7086090958708083563">Kasutaja taotles üleslaadimist</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes lubade ja mitmel saidil talletatud andmete haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes lubade ja mitmel saidil talletatud andmete haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="7096937462164235847">Selle veebisaidi identiteet on kinnitamata.</translation>
 <translation id="7101893872976785596">Õudusfilmid</translation>
 <translation id="7102079138917191645">Ehitus ja hooldus</translation>
-<translation id="7102554173784142865">Mängige Chrome'i dinosaurusemängu</translation>
+<translation id="7102554173784142865">Mängige WEB3 DNA Browser'i dinosaurusemängu</translation>
 <translation id="7108338896283013870">Peida</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> soovib kasutada teie kaamerat</translation>
 <translation id="7108819624672055576">Lubas laiendus</translation>
 <translation id="7111012039238467737">(Kehtiv)</translation>
 <translation id="7118618213916969306">Lõikelaua URL-i otsimine, <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Sulgege muud vahelehed või programmid</translation>
-<translation id="7129355289156517987">Kui sulgete kõik Chromiumi inkognito vahelehed, kustutatakse järgmised nendel vahelehtedel tehtud toimingud sellest seadmest.
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Sirvimistegevused.<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Otsinguajalugu.<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Vormidesse sisestatud teave.<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Sellele aadressile ei saa tarnida. Valige mõni teine aadress.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Blokeeritud üleslaadimine</translation>
@@ -2463,13 +2458,13 @@ Lisateave:
 <translation id="7359588939039777303">Reklaamid on blokeeritud.</translation>
 <translation id="7360451453306104998">Kui Google leiab saadaolevaid allahindlusi, kuvatakse ened kassas.</translation>
 <translation id="7363096869660964304">Te pole siiski nähtamatu. Inkognito režiimi kasutamine ei varja teie sirvimist tööandja, internetiteenuse pakkuja ega külastatavate veebisaitide eest.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes aadresside lisamiseks ja haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes aadresside lisamiseks ja haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="7365849542400970216">Kas teatakse teie seadme kasutuse kohta?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Maksetöötlejad</translation>
 <translation id="7372973238305370288">otsingutulemus</translation>
 <translation id="7374461526650987610">Protokollitöötlejad</translation>
-<translation id="7374733840632556089">Selle probleemi põhjuseks on teie või kellegi teise installitud sertifikaat. Seda sertifikaati kasutatakse võrkude jälgimiseks ja ühenduste katkestamiseks ning Chrome ei usalda seda. Kuigi mõnel puhul on jälgimine seaduslik (nt kooli või ettevõtte võrgus), soovib Chrome tagada, et oleksite sellest teadlik ka juhul, kui te ei saa seda peatada. Jälgimine võib toimuda veebiühendusega brauseris või rakenduses.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Ühelgi saidil pole luba}=1{Ühel saidil on luba}other{# saidil on luba}}</translation>
 <translation id="7375818412732305729">Fail on manustatud</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2487,7 +2482,7 @@ Lisateave:
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Selle vahelehe jagamine lingi jagamise, QR-koodi loomise, ülekandmise ja muu abil</translation>
 <translation id="7403591733719184120">Teie seadet <ph name="DEVICE_NAME" /> hallatakse</translation>
-<translation id="7407424307057130981">&lt;p&gt;See viga ilmneb juhul, kui teie Windowsi arvutis on tarkvara Superfish.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;See viga ilmneb juhul, kui teie Windowsi arvutis on tarkvara Superfish.&lt;/p&gt;
       &lt;p&gt;Selleks et veebi pääseda, järgige tarkvara keelamiseks neid toiminguid. Vajate administraatoriõigusi.&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;Klõpsake valikul &lt;strong&gt;Start&lt;/strong&gt;, seejärel otsige märksõna &lt;strong&gt;„View local services”&lt;/strong&gt; ja valige see.
@@ -2495,7 +2490,7 @@ Lisateave:
       &lt;li&gt;Jaotises &lt;strong&gt;Startup type&lt;/strong&gt; valige &lt;strong&gt;Disabled&lt;/strong&gt;
       &lt;li&gt;Jaotises &lt;strong&gt;Service status&lt;/strong&gt; klõpsake käsul &lt;strong&gt;Stop&lt;/strong&gt;
       &lt;li&gt;Klõpsake käsul &lt;strong&gt;Apply&lt;/strong&gt; ja seejärel valikul &lt;strong&gt;OK&lt;/strong&gt;
-      &lt;li&gt;Vaadake &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Chrome'i abikeskusest&lt;/a&gt; teavet selle kohta, kuidas tarkvara arvutist jäädavalt eemaldada
+      &lt;li&gt;Vaadake &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;WEB3 DNA Browser'i abikeskusest&lt;/a&gt; teavet selle kohta, kuidas tarkvara arvutist jäädavalt eemaldada
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Armas</translation>
 <translation id="741204030948306876">Jah, sobib</translation>
@@ -2503,7 +2498,7 @@ Lisateave:
 <translation id="7418620734632363981">Programmeerimine</translation>
 <translation id="7419106976560586862">Profiili tee</translation>
 <translation id="7421067045979951561">protokollitöötlejad</translation>
-<translation id="7426022697669111648">Nupp Chrome'i ajaloo vaatamine, Chrome'i seadetes oma sirvimisajaloo vaatamiseks ja haldamiseks vajutage sisestusklahvi.</translation>
+<translation id="7426022697669111648">Nupp WEB3 DNA Browser'i ajaloo vaatamine, WEB3 DNA Browser'i seadetes oma sirvimisajaloo vaatamiseks ja haldamiseks vajutage sisestusklahvi.</translation>
 <translation id="7427366580982928791">Laste internetiohutus</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Lisa kontaktteave</translation>
@@ -2532,12 +2527,7 @@ Lisateave:
 <translation id="7497998058912824456">Nupp Loo dokument, kiirelt uue Google'i dokumendi loomiseks vajutage sisestusklahvi</translation>
 <translation id="7501663406926337752">Teie organisatsioon on selle lehe märgistanud</translation>
 <translation id="7501853161948120656">Haridusressursid</translation>
-<translation id="7506488012654002225">Chromium <ph name="BEGIN_EMPHASIS" />ei salvesta<ph name="END_EMPHASIS" /> järgmist teavet.
-        <ph name="BEGIN_LIST" />
-          <ph name="LIST_ITEM" />Teie sirvimisajalugu.
-          <ph name="LIST_ITEM" />Küpsisefailid ja saidi andmed.
-          <ph name="LIST_ITEM" />Vormidesse sisestatud teave.
-        <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Ümbrik nr 9</translation>
 <translation id="7508255263130623398">Tagastatud reegli seadme-ID on tühi või ei kattu praeguse seadme-ID-ga</translation>
 <translation id="7508870219247277067">Avokaadoroheline</translation>
@@ -2559,7 +2549,7 @@ Lisateave:
 <translation id="7542995811387359312">Automaatne krediitkaardi täide on keelatud, sest see vorm ei kasuta turvalist ühendust.</translation>
 <translation id="7548892272833184391">Ühendusvigade parandamine</translation>
 <translation id="7549584377607005141">See veebileht vajab korralikult kuvamiseks varem sisestatud andmeid. Võite need andmed uuesti saata, kuid seda tehes kordate lehe iga eelnevat toimingut.</translation>
-<translation id="7550637293666041147">Teie seadme kasutajanimi ja Chrome'i kasutajanimi</translation>
+<translation id="4843621636877577887">Teie seadme kasutajanimi ja WEB3 DNA Browser'i kasutajanimi</translation>
 <translation id="7551484245293639699">Reisikindlustus</translation>
 <translation id="755279583747225797">Prooviperiood on aktiivne</translation>
 <translation id="7552846755917812628">Proovige järgmiseid nõuandeid.</translation>
@@ -2567,13 +2557,13 @@ Lisateave:
 <translation id="7554791636758816595">Uus vaheleht</translation>
 <translation id="7555777498260651025">Peredele suunatud telesaated</translation>
 <translation id="7559278538486662777">Selle rakenduse aknasuurust ei saa muuta.</translation>
-<translation id="7564049878696755256">Võite kaotada juurdepääsu oma teenuse <ph name="ORG_NAME" /> kontole või teie identiteet võidakse varastada. Chrome soovitab teil kohe oma parooli muuta.</translation>
+<translation id="8940464370390138384">Võite kaotada juurdepääsu oma teenuse <ph name="ORG_NAME" /> kontole või teie identiteet võidakse varastada. WEB3 DNA Browser soovitab teil kohe oma parooli muuta.</translation>
 <translation id="7564680668369175887">Universaalkerega autod</translation>
 <translation id="7567204685887185387">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />, selle turvasertifikaat võib olla väljastatud pettuse teel. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
-<translation id="7568616151991626879">Google Chrome üritab rakenduses <ph name="APP_NAME" /> teie parooli sisestada.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser üritab rakenduses <ph name="APP_NAME" /> teie parooli sisestada.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Nupp Otsingumootorite haldamine, vaikeotsingumootori ja -saidiotsingu haldamiseks vajutage sisestusklahvi.</translation>
-<translation id="7569952961197462199">Kas eemaldada Chrome'ist krediitkaart?</translation>
+<translation id="9202224267417193484">Kas eemaldada WEB3 DNA Browser'ist krediitkaart?</translation>
 <translation id="7569983096843329377">Must</translation>
 <translation id="7575207903026901870">Soovituse eemaldamise nupp, vajutage selle soovituse eemaldamiseks sisestusklahvi</translation>
 <translation id="7577900504646297215">Huvide haldamine</translation>
@@ -2592,15 +2582,15 @@ Lisateave:
 <translation id="7600965453749440009">Ära kunagi tõlgi: <ph name="LANGUAGE" /></translation>
 <translation id="7610193165460212391">Väärtus on vahemikust (<ph name="VALUE" />) väljaspool.</translation>
 <translation id="7613889955535752492">Aegub: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes paroolide vaatamiseks ja haldamiseks tabulaatorit ning seejärel sisestusklahvi</translation>
-<translation id="7616645509853975347">Teie administraator lülitas teie brauseris sisse teenuse Chrome Enterprise Connectors. Nendel liidestel on juurdepääs osadele teie andmetele.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes paroolide vaatamiseks ja haldamiseks tabulaatorit ning seejärel sisestusklahvi</translation>
+<translation id="2698924724374512123">Teie administraator lülitas teie brauseris sisse teenuse WEB3 DNA Browser Enterprise Connectors. Nendel liidestel on juurdepääs osadele teie andmetele.</translation>
 <translation id="7617825962482469577">Ümbrik C7/C6</translation>
 <translation id="7619838219691048931">Viimane leht</translation>
 <translation id="7625242817712715120">Administraatori reegel ei soovita seda sisu printida</translation>
 <translation id="762844065391966283">Ükshaaval</translation>
 <translation id="7631444403134069754">Kergejõustik</translation>
 <translation id="7633909222644580952">Toimivusandmed ja krahhiaruanded</translation>
-<translation id="7637571805876720304">Kas eemaldada Chromiumist krediitkaart?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Puudub}=1{Teie kontol on 1 parool (domeenidele <ph name="DOMAIN_LIST" />)}other{Teie kontol on # parooli (domeenidele <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Jadapordid</translation>
 <translation id="7639968568612851608">Tumehall</translation>
@@ -2624,7 +2614,7 @@ Lisateave:
 <translation id="7673278391011283842">Postkast 6</translation>
 <translation id="7675325315208090829">Makseviiside haldamine …</translation>
 <translation id="7676643023259824263">Lõikelaua teksti otsimine, <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Vaadake ja hallake Chrome'i seadetes oma sirvimisajalugu</translation>
+<translation id="7679367271685653708">Vaadake ja hallake WEB3 DNA Browser'i seadetes oma sirvimisajalugu</translation>
 <translation id="7679947978757153706">Pesapall</translation>
 <translation id="7681273392938116652">Fantaasiasport</translation>
 <translation id="7682287625158474539">Kohaletoimetamine</translation>
@@ -2653,7 +2643,7 @@ Lisateave:
 <translation id="7740996059027112821">Tavapärane</translation>
 <translation id="77424286611022110">Sait kuvab sekkuvaid või eksitavaid reklaame. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Ohtlik sisu blokeeriti.</translation>
-<translation id="7751971323486164747">Chrome'is fondi suuruste ja kirjatüüpide kohandamine</translation>
+<translation id="7751971323486164747">WEB3 DNA Browser'is fondi suuruste ja kirjatüüpide kohandamine</translation>
 <translation id="7752995774971033316">Haldamata</translation>
 <translation id="7755624218968747854">Peamine rull</translation>
 <translation id="7758069387465995638">Tulemüür või viirusetõrjetarkvara võis ühenduse blokeerida.</translation>
@@ -2676,7 +2666,7 @@ Lisateave:
 <translation id="7805571567667010077">Haldab teie organisatsioon</translation>
 <translation id="7805768142964895445">Olek</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Kas eemaldada Chrome'ist vormi soovitus?</translation>
+
 <translation id="781440967107097262">Kas jagada lõikelauda?</translation>
 <translation id="7815407501681723534">Otsingule „<ph name="SEARCH_STRING" />” leiti <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" />.</translation>
 <translation id="7822320754433038727">Jahipidamine ja laskmine</translation>
@@ -2711,8 +2701,8 @@ Lisateave:
 <translation id="7943397946612013052">Blokeeritud allalaadimine</translation>
 <translation id="7943893128817522649">Saab küsida luba automaatselt mitu faili alla laadida</translation>
 <translation id="7947285636476623132">Kontrollige aegumisaastat ja proovige uuesti</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'i funktsioonide kohta lisateabe saamiseks vajutage tabulaatorit ja seejärel sisestusklahvi</translation>
-<translation id="7950027195171824198">Hallake Chrome'i seadetes küpsiste eelistusi</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'i funktsioonide kohta lisateabe saamiseks vajutage tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="7950027195171824198">Hallake WEB3 DNA Browser'i seadetes küpsiste eelistusi</translation>
 <translation id="7951415247503192394">(32-bitine)</translation>
 <translation id="7952192831285741665">Euroopa EDP</translation>
 <translation id="7953569069500808819">Õmblus ülaservas</translation>
@@ -2727,7 +2717,7 @@ Lisateave:
 <translation id="7981129096182302364">Tantsu- ja elektrooniline muusika</translation>
 <translation id="798134797138789862">Saab küsida luba VR-seadmete ja -andmete kasutamiseks</translation>
 <translation id="7983008347525536475">Linnamaasturid</translation>
-<translation id="7984945080620862648">Te ei saa saiti <ph name="SITE" /> praegu külastada, sest veebisait saatis tagasi arusaamatud mandaadid, mida Chrome ei saa töödelda. Võrguvead ja -rünnakud on tavaliselt ajutised, nii et leht tõenäoliselt hiljem töötab.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Köide</translation>
 <translation id="7992044431894087211">Ekraanikuva jagamist rakendusega <ph name="APPLICATION_TITLE" /> jätkati</translation>
@@ -2760,7 +2750,7 @@ Lisateave:
 <translation id="8057711352706143257">Tarkvara „<ph name="SOFTWARE_NAME" />” ei ole õigesti seadistatud. Tarkvara „<ph name="SOFTWARE_NAME" />” desinstallimine lahendab tavaliselt probleemi. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Toiduainetööstus</translation>
 <translation id="8066225060526005217">Haldavad küpsisefailide seaded</translation>
-<translation id="8067872629359326442">Sisestasite äsja oma parooli petturlikule saidile. Chromium saab teid aidata. Oma parooli muutmiseks ja Google'i teavitamiseks sellest, et teie konto võib olla ohus, klõpsake valikul Konto kaitsmine.</translation>
+
 <translation id="8070439594494267500">Rakenduse ikoon</translation>
 <translation id="8075736640322370409">Kiirelt uue Google'i arvutustabeli loomine</translation>
 <translation id="8075898834294118863">Saidi seadete haldamine</translation>
@@ -2790,7 +2780,7 @@ Lisateave:
 <translation id="8116925261070264013">Vaigistatud</translation>
 <translation id="8118489163946903409">Makseviis</translation>
 <translation id="8123046743443732598">Lauaarvutid</translation>
-<translation id="8124639700796374294">Nupp Chrome'i kohandamine, brauseri ilme kohandamiseks vajutage sisestusklahvi</translation>
+<translation id="8124639700796374294">Nupp WEB3 DNA Browser'i kohandamine, brauseri ilme kohandamiseks vajutage sisestusklahvi</translation>
 <translation id="8126056688005753476">Seiklusturism</translation>
 <translation id="8127301229239896662">Tarkvara „<ph name="SOFTWARE_NAME" />” ei installitud teie arvutisse või võrku korralikult. Paluge IT-administraatoril see probleem lahendada.</translation>
 <translation id="8131740175452115882">Kinnita</translation>
@@ -2801,7 +2791,7 @@ Lisateave:
 <translation id="8157295877370077682">Lahku saidilt</translation>
 <translation id="8163866351304776260">Neli auku vasakul</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Chrome pakub võimalust salvestada kaardid teie Google'i kontole, kuna olete sisse logitud. Seda käitumist saab seadetes muuta.</translation>
+<translation id="8903986195054043594">WEB3 DNA Browser pakub võimalust salvestada kaardid teie Google'i kontole, kuna olete sisse logitud. Seda käitumist saab seadetes muuta.</translation>
 <translation id="8176440868214972690">Seadme administraator on järgmistele veebisaitidele teatud teavet saatnud, näiteks seadete ja eeskirjade teavet.</translation>
 <translation id="8184538546369750125">Kasuta globaalset vaikeseadet (luba)</translation>
 <translation id="8186706823560132848">Tarkvara</translation>
@@ -2846,11 +2836,11 @@ Lisateave:
 <translation id="8270242299912238708">PDF-dokumendid</translation>
 <translation id="8275952078857499577">Ära paku selle saidi tõlkimist</translation>
 <translation id="8277900682056760511">Maksetöötleja leht on avatud</translation>
-<translation id="8279611986089885641">Chrome'i märguanded peavad olema sisse lülitatud. Saate need sisse lülitada menüüs <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">WEB3 DNA Browser'i märguanded peavad olema sisse lülitatud. Saate need sisse lülitada menüüs <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">Salv 11</translation>
 <translation id="8281886186245836920">Jäta vahele</translation>
 <translation id="8282947398454257691">Teave teie ainulaadse seadme koodi kohta</translation>
-<translation id="8284769179630993263">Hallake Chrome'i seadetes Google'i ohutut sirvimist ja muud</translation>
+<translation id="8284769179630993263">Hallake WEB3 DNA Browser'i seadetes Google'i ohutut sirvimist ja muud</translation>
 <translation id="8286036467436129157">Logi sisse</translation>
 <translation id="8288807391153049143">Kuva sertifikaat</translation>
 <translation id="8289355894181816810">Kui te pole kindel, mida see tähendab, võtke ühendust oma võrguadministraatoriga.</translation>
@@ -2889,7 +2879,7 @@ Lisateave:
 <translation id="8390725133630534698">Saidilt <ph name="ORIGIN_NAME" /> virtuaalmasinaga <ph name="VM_NAME" /> jagamine on administraatori reegliga blokeeritud</translation>
 <translation id="8396522675989118466">See on <ph name="NUMBER_OF_DIGITS" />-kohaline kood, mis asub siin: <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Otsi telefoni</translation>
-<translation id="8405579342203358118">Hallake Chrome'i seadetes, millist teavet sünkroonite</translation>
+<translation id="8405579342203358118">Hallake WEB3 DNA Browser'i seadetes, millist teavet sünkroonite</translation>
 <translation id="8409413588194360210">maksetöötlejad</translation>
 <translation id="8412145213513410671">Krahhid (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Peate sisestama sama parooli kaks korda.</translation>
@@ -2900,7 +2890,7 @@ Lisateave:
 <translation id="8427848540066057481">500 × 750 mm</translation>
 <translation id="8428213095426709021">Seaded</translation>
 <translation id="8428634594422941299">Selge</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes küpsiste eelistuste haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes küpsiste eelistuste haldamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="8433057134996913067">See logib teid välja enamikult veebisaitidelt.</translation>
 <translation id="8434840396568290395">Lemmikloomad</translation>
 <translation id="8437238597147034694">&amp;Võta teisaldamine tagasi</translation>
@@ -2920,12 +2910,12 @@ Lisateave:
 <translation id="8473863474539038330">Aadressid ja muu</translation>
 <translation id="8474910779563686872">Kuva arendaja üksikasjad</translation>
 <translation id="8479754468255770962">Kirjaklamber vasakul all</translation>
-<translation id="8483780878231876732">Google'i konto kaartide kasutamiseks logige sisse Chrome'i</translation>
+<translation id="8483780878231876732">Google'i konto kaartide kasutamiseks logige sisse WEB3 DNA Browser'i</translation>
 <translation id="8488350697529856933">Kehtib:</translation>
 <translation id="8490137692873530638">Virnastaja 10</translation>
 <translation id="8493948351860045254">Vabasta ruum</translation>
 <translation id="8498891568109133222">Hostil <ph name="HOST_NAME" /> kulus vastamiseks liiga kaua aega.</translation>
-<translation id="8503559462189395349">Chrome'i paroolid</translation>
+<translation id="1863492395079744896">WEB3 DNA Browser'i paroolid</translation>
 <translation id="8503813439785031346">Kasutajanimi</translation>
 <translation id="8507227106804027148">Käsurida</translation>
 <translation id="8508648098325802031">Otsinguikoon</translation>
@@ -2933,8 +2923,8 @@ Lisateave:
 <translation id="851353418319061866">Täpsuse kontroll</translation>
 <translation id="8513580896341796021">Allalaadimine on alanud. Selle nägemiseks vajutage klahvi |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">Administraator on HID-seadme lubanud</translation>
-<translation id="8522552481199248698">Chrome aitab teil oma Google'i kontot kaitsta ja parooli muuta.</translation>
-<translation id="8530813470445476232">Kustutage Chrome'i seadetes oma sirvimisajalugu ja küpsisefailid ning tühjendage vahemälu</translation>
+
+<translation id="8530813470445476232">Kustutage WEB3 DNA Browser'i seadetes oma sirvimisajalugu ja küpsisefailid ning tühjendage vahemälu</translation>
 <translation id="853332391023689529">Pikapid</translation>
 <translation id="8533619373899488139">Külastage saiti &lt;strong&gt;chrome://policy&lt;/strong&gt;, et näha blokeeritud URL-ide loendit ja teisi reegleid, mille teie süsteemiadministraator on jõustanud.</translation>
 <translation id="8539500321752640291">Kas anda kaks luba?</translation>
@@ -2950,7 +2940,7 @@ Lisateave:
 <translation id="8557066899867184262">CVC asub kaardi tagaküljel.</translation>
 <translation id="8559762987265718583">Privaatset ühendust ei saa domeeniga <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> luua, kuna seadme kuupäev ja kellaaeg (<ph name="DATE_AND_TIME" />) on valed.</translation>
 <translation id="8564182942834072828">Eraldi dokumendid / järjestamata koopiad</translation>
-<translation id="8564985650692024650">Chromium soovitab teil organisatsiooni <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser soovitab teil organisatsiooni <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
 <translation id="8576310925653847813">Kodukinosüsteemid</translation>
 <translation id="8577348305244205642">Virtuaalkaart pole saadaval</translation>
 <translation id="858637041960032120">Lisage telefoninumber</translation>
@@ -2982,7 +2972,7 @@ Lisateave:
 <translation id="868922510921656628">Lehekülgi komplekti kohta</translation>
 <translation id="869891660844655955">Aegumiskuupäev</translation>
 <translation id="8699041776323235191">HID-seade</translation>
-<translation id="8699899385443889493">Nupp Mängi Chrome'i dinosaurusemängu, Chrome'i dinosaurusemängu mängimiseks vajutage sisestusklahvi.</translation>
+<translation id="8699899385443889493">Nupp Mängi WEB3 DNA Browser'i dinosaurusemängu, WEB3 DNA Browser'i dinosaurusemängu mängimiseks vajutage sisestusklahvi.</translation>
 <translation id="8699985386408839112">Ümbrik Kaku 1</translation>
 <translation id="8703575177326907206">Teie ühendus <ph name="DOMAIN" />'ga pole krüptitud.</translation>
 <translation id="8705331520020532516">Seerianumber</translation>
@@ -2999,12 +2989,12 @@ Lisateave:
 <translation id="8725066075913043281">Proovi uuesti</translation>
 <translation id="8726549941689275341">Lehe suurus:</translation>
 <translation id="8730621377337864115">Valmis</translation>
-<translation id="8731544501227493793">Nupp Paroolide haldamine, vajutage Chrome'i seadetes paroolide vaatamiseks ja haldamiseks sisestusklahvi</translation>
+<translation id="8731544501227493793">Nupp Paroolide haldamine, vajutage WEB3 DNA Browser'i seadetes paroolide vaatamiseks ja haldamiseks sisestusklahvi</translation>
 <translation id="8734529307927223492">Teie seadet <ph name="DEVICE_TYPE" /> haldab <ph name="MANAGER" /></translation>
 <translation id="8736059027199600831">30 × 40 tolli</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage privaatse sirvimise jaoks uue inkognito akna avamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="8737685506611670901">Ava protokolli <ph name="PROTOCOL" /> lingid teenuse <ph name="REPLACED_HANDLER_TITLE" /> asemel</translation>
-<translation id="8738058698779197622">Turvalise ühenduse loomiseks peab kell olema õigesti seadistatud. See on nii, kuna sertifikaadid, mida veebisaidid kasutavad enda tuvastamiseks, kehtivad ainult teatud perioodi jooksul. Kuna teie seadme kell on vale, ei saa Chromium neid sertifikaate kinnitada.</translation>
+
 <translation id="8740359287975076522">Hosti <ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;DNS-aadressi&lt;/abbr&gt; ei leitud. Probleemi diagnoositakse.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> on saidi <ph name="ORIGIN" /> puhul teie kood</translation>
 <translation id="874918643257405732">Lisa vaheleht järjehoidjatesse</translation>
@@ -3023,9 +3013,9 @@ Lisateave:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Mootorrattad</translation>
 <translation id="8790007591277257123">&amp;Kustuta uuesti</translation>
-<translation id="8792621596287649091">Võite kaotada juurdepääsu oma teenuse <ph name="ORG_NAME" /> kontole või teie identiteet võidakse varastada. Chromium soovitab teil kohe oma parooli muuta.</translation>
+
 <translation id="8792626944327216835">mikrofon</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> lülitas teie brauseris sisse teenuse Chrome Enterprise Connectors. Nendel liidestel on juurdepääs osadele teie andmetele.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> lülitas teie brauseris sisse teenuse WEB3 DNA Browser Enterprise Connectors. Nendel liidestel on juurdepääs osadele teie andmetele.</translation>
 <translation id="8798099450830957504">Vaikimisi</translation>
 <translation id="8798739476508189189">Kas otsite brauseri lippe? Külastage</translation>
 <translation id="8805819170075074995">Loendikirje „<ph name="LANGUAGE_ID" />”: kirjet eiratakse, kuna seda hõlmab ka reegel SpellcheckLanguage.</translation>
@@ -3033,7 +3023,7 @@ Lisateave:
 <translation id="8807160976559152894">Kärbi pärast iga lehte</translation>
 <translation id="8813277370772331957">Tuleta mulle hiljem meelde</translation>
 <translation id="8814707942599948500">Ümbrik C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage Chrome'i seadetes Chrome'i värskendamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage WEB3 DNA Browser'i seadetes WEB3 DNA Browser'i värskendamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="8820817407110198400">Järjehoidjad</translation>
 <translation id="882338992931677877">Käsitsi sisestamise ava</translation>
 <translation id="8830320733681313421">Hagaki postkaart</translation>
@@ -3047,7 +3037,7 @@ Lisateave:
 <translation id="885306012106043620">Tennis</translation>
 <translation id="8855742650226305367">Tants</translation>
 <translation id="885730110891505394">Jagamine Google'iga</translation>
-<translation id="8858065207712248076">Chromium soovitab teil organisatsiooni <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
+
 <translation id="885906927438988819">Kui õigekirjavigu pole, <ph name="BEGIN_LINK" />käitage Windowsi võrgudiagnostika<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Filmimuusika</translation>
 <translation id="8866481888320382733">Reegli seadete sõelumisel ilmnes viga</translation>
@@ -3067,7 +3057,7 @@ Lisateave:
 <translation id="8903921497873541725">Suurendab</translation>
 <translation id="890493561996401738">Soovituse eemaldamise nupp, vajutage eemaldamiseks sisestusklahvi, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google'i konto</translation>
-<translation id="8913778647360618320">Nupp Makseviiside haldamine, vajutage Chrome'i seadetes maksete ja krediitkaarditeabe haldamiseks sisestusklahvi</translation>
+<translation id="8913778647360618320">Nupp Makseviiside haldamine, vajutage WEB3 DNA Browser'i seadetes maksete ja krediitkaarditeabe haldamiseks sisestusklahvi</translation>
 <translation id="8922013791253848639">Luba sellel saidil alati reklaamid</translation>
 <translation id="892588693504540538">Auk ülal paremal</translation>
 <translation id="8930330541574156305">Kinnisvara</translation>
@@ -3088,7 +3078,7 @@ Lisateave:
 <translation id="8975263830901772334">Teie prinditavate failide nimed</translation>
 <translation id="8978053250194585037">Google'i ohutu sirvimise funktsioon <ph name="BEGIN_LINK" />tuvastas hiljuti andmepüügi<ph name="END_LINK" /> saidil <ph name="SITE" />. Andmepüügisaidid teesklevad teie petmiseks, et tegemist on teise saidiga.</translation>
 <translation id="8983369100812962543">Teil on nüüd võimalik rakenduse suurust muuta</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'is oma sirvimisajaloo vaatamiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'is oma sirvimisajaloo vaatamiseks vajutage tabulaatorit ja seejärel sisestusklahvi.</translation>
 <translation id="8987927404178983737">kuu</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Kas otsite süsteemi versiooni? Külastage saiti</translation>
@@ -3135,19 +3125,19 @@ Lisateave:
 <translation id="908796725011587895">Kolledžisport</translation>
 <translation id="9089260154716455634">Eemalolekuaegade eeskirjad:</translation>
 <translation id="9095388113577226029">Rohkem keeli …</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />. Vajutage tabulaatorit, seejärel sisestusklahvi, et määrata Chrome iOS-i seadetes süsteemi vaikebrauseriks</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />. Vajutage tabulaatorit, seejärel sisestusklahvi, et määrata WEB3 DNA Browser iOS-i seadetes süsteemi vaikebrauseriks</translation>
 <translation id="9096679202588811390">Telesaated ja -programmid</translation>
 <translation id="9101630580131696064">Salv 1</translation>
 <translation id="9102081333385212048">Failid, mida kopeerite või teisaldate, saadetakse analüüsimiseks Google Cloudi või kolmandatele osapooltele. Näiteks võidakse neid skannida tundlike andmete või pahavara tuvastamiseks.</translation>
 <translation id="9103537084693478942">Videotarkvara</translation>
-<translation id="9103872766612412690">Sait <ph name="SITE" /> kasutab teie teabe kaitsmiseks tavaliselt krüpteerimist. Kui Chromium püüdis seekord saidiga <ph name="SITE" /> ühendust luua, tagastas veebisait ebatavalised ja valed mandaadid. See võib juhtuda siis, kui ründaja proovib teeselda, et on sait <ph name="SITE" />, või WiFi sisselogimisekraan on ühenduse katkestanud. Teie teave on endiselt kaitstud, sest Chromium peatas ühenduse enne andmevahetust.</translation>
+
 <translation id="9106062320799175032">Arveldusaadressi lisamine</translation>
 <translation id="9107467864910557787">Teie brauserit haldab <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Administraatori eeskirjad keelavad ekraanikuva jagamise rakendusega <ph name="APPLICATION_TITLE" />, kui konfidentsiaalne sisu on nähtaval</translation>
 <translation id="9114524666733003316">Kaardi kinnitamine …</translation>
-<translation id="9114581008513152754">Seda brauserit ei halda ettevõte ega muu organisatsioon. Selle seadme tegevusi võidakse hallata ka väljaspool Chrome'i. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Värske</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage tabulaatorit ja siis sisestusklahvi, et teekonda jätkata ning oma Chrome'i ajaloos asjakohaseid tegevusi näha</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage tabulaatorit ja siis sisestusklahvi, et teekonda jätkata ning oma WEB3 DNA Browser'i ajaloos asjakohaseid tegevusi näha</translation>
 <translation id="9119042192571987207">Üles laaditud</translation>
 <translation id="9122954576417194280">Kaupade ja futuuridega kauplemine</translation>
 <translation id="9128016270925453879">Reeglid on laaditud</translation>
@@ -3162,7 +3152,7 @@ Lisateave:
 <translation id="9148088599418889305">Valige tarneviis</translation>
 <translation id="9148507642005240123">&amp;Võta muudatus tagasi</translation>
 <translation id="9150045010208374699">Kaamera kasutamine</translation>
-<translation id="9150685862434908345">Teie administraator saab brauseri seadistust kaugühenduse kaudu muuta. Selle seadme tegevusi võidakse hallata ka väljaspool Chrome'i. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Värskendatud</translation>
 <translation id="9155211586651734179">Välised heliseadmed on ühendatud</translation>
 <translation id="9157595877708044936">Seadistamine...</translation>
@@ -3177,7 +3167,7 @@ Lisateave:
 <translation id="917450738466192189">Serveri sertifikaat on kehtetu.</translation>
 <translation id="9174623988242579721">Kohandatud ja suure võimsusega sõidukid</translation>
 <translation id="9174917557437862841">Vahelehe vahetamise nupp, vajutage selle vahelehe aktiveerimiseks sisestusklahvi</translation>
-<translation id="9179703756951298733">Hallake oma maksete ja krediitkaardi teavet Chrome'i seadetes</translation>
+<translation id="9179703756951298733">Hallake oma maksete ja krediitkaardi teavet WEB3 DNA Browser'i seadetes</translation>
 <translation id="9179907736442194268">Saadetakse meiliteavitus, kui hind mõnel saidil langeb</translation>
 <translation id="9183302530794969518">Google'i dokumendid</translation>
 <translation id="9183425211371246419">Host <ph name="HOST_NAME" /> kasutab toetamata protokolli.</translation>
@@ -3188,12 +3178,12 @@ Lisateave:
 <translation id="920511547311754821">Kas te ei leia oma koodi? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Artikli lisamine ebaõnnestus.</translation>
 <translation id="9213433120051936369">Ilme kohandamine</translation>
-<translation id="9215416866750762878">Rakendus ei luba Chrome'il selle saidiga ohutult ühendust luua</translation>
+<translation id="717994082075351832">Rakendus ei luba WEB3 DNA Browser'il selle saidiga ohutult ühendust luua</translation>
 <translation id="9219103736887031265">Pildid</translation>
-<translation id="922152298093051471">Chrome'i kohandamine</translation>
+<translation id="922152298093051471">WEB3 DNA Browser'i kohandamine</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">TÜHJENDA VORM</translation>
-<translation id="936602727769022409">Võite kaotada juurdepääsu oma Google'i kontole. Chromium soovitab teil kohe oma parooli muuta. Teil palutakse sisse logida.</translation>
+
 <translation id="937457230470581909">Loomaaiad, akvaariumid, kaitsealad</translation>
 <translation id="939736085109172342">Uus kaust</translation>
 <translation id="940053046584497293">Reisimine ja transport</translation>

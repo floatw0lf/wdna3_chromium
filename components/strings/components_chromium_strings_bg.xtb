@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="bg">
 <translation id="130631256467250065">Промените ви ще влязат в сила следващия път, когато рестартирате устройството си.</translation>
-<translation id="275588974610408078">Подаването на сигнали за сривове не е налице в Chromium.</translation>
-<translation id="3064346599913645280">Преглеждате защитена страница в Chromium.</translation>
-<translation id="358997566136285270">Лого на Chromium</translation>
-<translation id="4365115785552740256">Chromium е възможен благодарение на проекта с отворен код <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> и на друг <ph name="BEGIN_LINK_OSS" />софтуер с отворен код<ph name="END_LINK_OSS" />.</translation>
-<translation id="4559775032954821361">Отворете
-менюто на Chromium &gt;
+<translation id="4791283969776588221">Подаването на сигнали за сривове не е налице в WEB3 DNA Browser.</translation>
+<translation id="2844608976961792034">Преглеждате защитена страница в WEB3 DNA Browser.</translation>
+<translation id="1982446651380677046">Лого на WEB3 DNA Browser</translation>
+<translation id="4523656775797881494">WEB3 DNA Browser е възможен благодарение на проекта с отворен код <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> и на друг <ph name="BEGIN_LINK_OSS" />софтуер с отворен код<ph name="END_LINK_OSS" />.</translation>
+<translation id="4029636627665768575">Отворете
+менюто на WEB3 DNA Browser &gt;
 <ph name="SETTINGS_TITLE" />
 &gt;
 <ph name="ADVANCED_TITLE" />
@@ -16,21 +16,21 @@
 &gt;
 „LAN настройки“
 и премахнете отметката от квадратчето „Използвайте прокси сървър за вашата локална мрежа“.</translation>
-<translation id="4622039161600275920">Тази страница е блокирана от Chromium</translation>
-<translation id="48558539577516920">Разрешете достъпа на Chromium до мрежата от настройките на защитната стена
+<translation id="7398528135240070983">Тази страница е блокирана от WEB3 DNA Browser</translation>
+<translation id="329184862608851407">Разрешете достъпа на WEB3 DNA Browser до мрежата от настройките на защитната стена
 или антивирусния си софтуер.</translation>
 <translation id="4918837013875648434">Първоначалното настройване на Chromium OS не е завършено.</translation>
-<translation id="580822234363523061">Отворете
-менюто на Chromium &gt;
+<translation id="7951541701556745073">Отворете
+менюто на WEB3 DNA Browser &gt;
 <ph name="SETTINGS_TITLE" />
 &gt;
 <ph name="ADVANCED_TITLE" />
 &gt;
 <ph name="PROXIES_TITLE" />
 и се уверете, че за конфигурацията ви е зададено „no proxy“ или „direct“.</translation>
-<translation id="6613594504749178791">Промените ви ще влязат в сила следващия път, когато стартирате отново Chromium.</translation>
-<translation id="7861509383340276692">Отворете
-менюто на Chromium &gt;
+<translation id="8823298025665339355">Промените ви ще влязат в сила следващия път, когато стартирате отново WEB3 DNA Browser.</translation>
+<translation id="5334530291357334686">Отворете
+менюто на WEB3 DNA Browser &gt;
 „<ph name="SETTINGS_TITLE" />“
 &gt;
 „<ph name="ADVANCED_TITLE" />“
@@ -40,5 +40,5 @@
 <translation id="8187289872471304532">Отворете
 „Applications“ &gt; „System Preferences“ &gt; „Network“ &gt; „Advanced“ &gt; „Proxies“
 и премахнете отметките от избраните прокси сървъри.</translation>
-<translation id="8684913864886094367">Chromium не се затвори правилно.</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser не се затвори правилно.</translation>
 </translationbundle>

@@ -6,386 +6,386 @@
 <translation id="1065672644894730302">Podešavanja ne mogu da se pročitaju.
 
 Neke funkcije su možda nedostupne i promene podešavanja neće biti sačuvane.</translation>
-<translation id="1098170124587656448">Chromium može da vas štiti od upada u podatke, neispravnih dodataka i drugih problema</translation>
-<translation id="1104942323762546749">Chromium želi da izveze lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
-<translation id="113122355610423240">Chromium je podrazumevani pregledač</translation>
-<translation id="1131805035311359397">Da biste proverili da li su lozinke bezbedne od upada u podatke i drugih bezbednosnih problema, <ph name="BEGIN_LINK" />prijavite se u Chromium<ph name="END_LINK" />.</translation>
-<translation id="1185134272377778587">O Chromium-u</translation>
+<translation id="4960963727707787489">WEB3 DNA Browser može da vas štiti od upada u podatke, neispravnih dodataka i drugih problema</translation>
+<translation id="1018420750873862665">WEB3 DNA Browser želi da izveze lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
+<translation id="8728335547814212082">WEB3 DNA Browser je podrazumevani pregledač</translation>
+<translation id="3462550327714525487">Da biste proverili da li su lozinke bezbedne od upada u podatke i drugih bezbednosnih problema, <ph name="BEGIN_LINK" />prijavite se u WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="4464481789599383598">O WEB3 DNA Browser-u</translation>
 <translation id="1203500561924088507">Hvala vam na instalaciji. Potrebno je da restartujete pregledač pre nego što počnete da koristite <ph name="BUNDLE_NAME" />.</translation>
-<translation id="1231839967188101156">Kada je uključeno, Chromium oslobađa memoriju sa neaktivnih kartica. To aktivnim karticama i drugim aplikacijama pruža više računarskih resursa i održava Chromium brzim. Neaktivne kartice se automatski ponovo aktiviraju kada se vratite na njih. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /></translation>
-<translation id="1261119230216066228">Ušteda memorije je ubrzala Chromium</translation>
-<translation id="1315551408014407711">Podesite nov Chromium profil</translation>
-<translation id="1385859895174722837">Google pomoćnik u Chromium-u</translation>
-<translation id="1396446129537741364">Chromium pokušava da prikaže lozinke.</translation>
-<translation id="1414495520565016063">Prijavljeni ste na Chromium!</translation>
-<translation id="1493803763272692301">Možete da uživate u Chromium-u na najbolji način</translation>
-<translation id="1524282610922162960">Delite Chromium karticu</translation>
-<translation id="1553461853655228091">Chromium traži dozvolu da pristupi kameri da bi napravio 3D mapu okruženja</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Administrator zahteva da ponovo pokrenete Chromium da biste primenili ažuriranje}=1{Administrator zahteva da ponovo pokrenete Chromium da biste primenili ažuriranje. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Administrator zahteva da ponovo pokrenete Chromium da biste primenili ažuriranje. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Administrator zahteva da ponovo pokrenete Chromium da biste primenili ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Administrator zahteva da ponovo pokrenete Chromium da biste primenili ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
-<translation id="1625909126243026060">Pregledajte ključne kontrole privatnosti i bezbednosti u Chromium-u</translation>
-<translation id="1632539827495546968">Ako želite da koristite ovaj nalog samo jednom, možete da koristite <ph name="GUEST_LINK_BEGIN" />režim gosta<ph name="GUEST_LINK_END" /> u Chromium pregledaču. Ako želite da dodate nalog za nekog drugog, <ph name="LINK_BEGIN" />dodajte novu osobu<ph name="LINK_END" /> na uređaj <ph name="DEVICE_TYPE" />.
+<translation id="5978964989109500768">Kada je uključeno, WEB3 DNA Browser oslobađa memoriju sa neaktivnih kartica. To aktivnim karticama i drugim aplikacijama pruža više računarskih resursa i održava WEB3 DNA Browser brzim. Neaktivne kartice se automatski ponovo aktiviraju kada se vratite na njih. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /></translation>
+<translation id="2556820941333974881">Ušteda memorije je ubrzala WEB3 DNA Browser</translation>
+<translation id="8674698533637405550">Podesite nov WEB3 DNA Browser profil</translation>
+<translation id="5897235607289042281">Google pomoćnik u WEB3 DNA Browser-u</translation>
+<translation id="4011302926653396528">WEB3 DNA Browser pokušava da prikaže lozinke.</translation>
+<translation id="7808556894409107558">Prijavljeni ste na WEB3 DNA Browser!</translation>
+<translation id="2448956114941459869">Možete da uživate u WEB3 DNA Browser-u na najbolji način</translation>
+<translation id="6123758632973468022">Delite WEB3 DNA Browser karticu</translation>
+<translation id="1232307829393891937">WEB3 DNA Browser traži dozvolu da pristupi kameri da bi napravio 3D mapu okruženja</translation>
+<translation id="5103307222334991576">{COUNT,plural, =0{Administrator zahteva da ponovo pokrenete WEB3 DNA Browser da biste primenili ažuriranje}=1{Administrator zahteva da ponovo pokrenete WEB3 DNA Browser da biste primenili ažuriranje. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Administrator zahteva da ponovo pokrenete WEB3 DNA Browser da biste primenili ažuriranje. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Administrator zahteva da ponovo pokrenete WEB3 DNA Browser da biste primenili ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Administrator zahteva da ponovo pokrenete WEB3 DNA Browser da biste primenili ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
+<translation id="7291131704197390431">Pregledajte ključne kontrole privatnosti i bezbednosti u WEB3 DNA Browser-u</translation>
+<translation id="5962221630684419652">Ako želite da koristite ovaj nalog samo jednom, možete da koristite <ph name="GUEST_LINK_BEGIN" />režim gosta<ph name="GUEST_LINK_END" /> u WEB3 DNA Browser pregledaču. Ako želite da dodate nalog za nekog drugog, <ph name="LINK_BEGIN" />dodajte novu osobu<ph name="LINK_END" /> na uređaj <ph name="DEVICE_TYPE" />.
 
 Dozvole koje ste već dali veb-sajtovima i aplikacijama mogu da važe za ovaj nalog. Google nalozima možete da upravljate u <ph name="SETTINGS_LINK_BEGIN" />Podešavanjima<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1640672724030957280">Preuzimanje...</translation>
-<translation id="1708666629004767631">Dostupna je nova, bezbednija verzija Chromium-a.</translation>
-<translation id="17264556997921157">Možete da vidite i uklonite teme interesovanja koje sajtovi koriste da bi vam prikazivali oglase. Chromium procenjuje vaša interesovanja na osnovu nedavne istorije pregledanja.</translation>
-<translation id="1774152462503052664">Neka Chromium radi u pozadini</translation>
-<translation id="1779356040007214683">Da bismo učinili Chromium bezbednijim, onemogućili smo neke dodatke koje ne navodi <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i koji su možda dodati bez vašeg znanja.</translation>
-<translation id="1808667845054772817">Ponovo instaliraj Chromium</translation>
-<translation id="185970820835152459">Možete da upravljate Google nalozima na koje ste prijavljeni. Google nalozi se koriste za Chromium pregledač, Play prodavnicu, Gmail i drugo. Ako želite da dodate nalog za nekog drugog, npr. člana porodice, umesto toga dodajte novu osobu na svoj uređaj <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Saznajte više<ph name="LINK_END" /></translation>
-<translation id="1863308913976887472">Sajtovi mogu da čuvaju informacije o vašim interesovanjima u Chromium-u. Na primer, ako posetite sajt da biste kupili patike za maraton, taj sajt može da definiše vaše interesovanje kao trčanje maratona. Kasnije, ako posetite neki drugi sajt da biste se prijavili za trku, taj sajt može da vam prikaže oglas za patike za trčanje na osnovu interesovanja.</translation>
-<translation id="1881322772814446296">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad Chromium profilom. Chromium podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME" />. Moći ćete da izbrišete te podatke preko Kontrolne table Google naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. Možete opcionalno da napravite novi profil da bi postojeći Chromium podaci ostali odvojeni. <ph name="LEARN_MORE" /></translation>
-<translation id="1911763535808217981">Kada to uključite, možete da se prijavljujete na Google sajtove, kao što je Gmail, ali se ne prijavljujete u Chromium</translation>
-<translation id="1929939181775079593">Chromium ne reaguje. Želite li da ga odmah ponovo pokrenete?</translation>
+<translation id="2804101107797787361">Dostupna je nova, bezbednija verzija WEB3 DNA Browser-a.</translation>
+<translation id="9029405963934901712">Možete da vidite i uklonite teme interesovanja koje sajtovi koriste da bi vam prikazivali oglase. WEB3 DNA Browser procenjuje vaša interesovanja na osnovu nedavne istorije pregledanja.</translation>
+<translation id="2051400772676536118">Neka WEB3 DNA Browser radi u pozadini</translation>
+<translation id="9219442880476358008">Da bismo učinili WEB3 DNA Browser bezbednijim, onemogućili smo neke dodatke koje ne navodi <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i koji su možda dodati bez vašeg znanja.</translation>
+<translation id="2776567154969336836">Ponovo instaliraj WEB3 DNA Browser</translation>
+<translation id="4915372523140836376">Možete da upravljate Google nalozima na koje ste prijavljeni. Google nalozi se koriste za WEB3 DNA Browser pregledač, Play prodavnicu, Gmail i drugo. Ako želite da dodate nalog za nekog drugog, npr. člana porodice, umesto toga dodajte novu osobu na svoj uređaj <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Saznajte više<ph name="LINK_END" /></translation>
+<translation id="4370275707492934729">Sajtovi mogu da čuvaju informacije o vašim interesovanjima u WEB3 DNA Browser-u. Na primer, ako posetite sajt da biste kupili patike za maraton, taj sajt može da definiše vaše interesovanje kao trčanje maratona. Kasnije, ako posetite neki drugi sajt da biste se prijavili za trku, taj sajt može da vam prikaže oglas za patike za trčanje na osnovu interesovanja.</translation>
+<translation id="4590088122952951314">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad WEB3 DNA Browser profilom. WEB3 DNA Browser podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME" />. Moći ćete da izbrišete te podatke preko Kontrolne table Google naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. Možete opcionalno da napravite novi profil da bi postojeći WEB3 DNA Browser podaci ostali odvojeni. <ph name="LEARN_MORE" /></translation>
+<translation id="1773107071029134155">Kada to uključite, možete da se prijavljujete na Google sajtove, kao što je Gmail, ali se ne prijavljujete u WEB3 DNA Browser</translation>
+<translation id="1404683263809963517">WEB3 DNA Browser ne reaguje. Želite li da ga odmah ponovo pokrenete?</translation>
 <translation id="193439633299369377">Treba da restartujete Chromium OS da biste primenili ažuriranje.</translation>
-<translation id="1940680973325097484">Ako želite da koristite ovaj nalog samo jednom, možete da koristite režim gosta u Chromium pregledaču. Ako želite da dodate nalog za nekog drugog, <ph name="LINK_BEGIN" />dodajte novu osobu<ph name="LINK_END" /> na uređaj <ph name="DEVICE_TYPE" />.
+<translation id="2844934533235602125">Ako želite da koristite ovaj nalog samo jednom, možete da koristite režim gosta u WEB3 DNA Browser pregledaču. Ako želite da dodate nalog za nekog drugog, <ph name="LINK_BEGIN" />dodajte novu osobu<ph name="LINK_END" /> na uređaj <ph name="DEVICE_TYPE" />.
 
 Dozvole koje ste već dali veb-sajtovima i aplikacijama mogu da važe za ovaj nalog. Google nalozima možete da upravljate u <ph name="SETTINGS_LINK_BEGIN" />Podešavanjima<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1953553007165777902">Preuzima se... Još <ph name="MINUTE" /> min</translation>
-<translation id="1966382378801805537">Chromium ne može da odredi ni da podesi podrazumevani pregledač</translation>
-<translation id="2008474315282236005">Ovim ćete izbrisati 1 stavku sa ovog uređaja. Da biste kasnije vratili podatke, prijavite se u Chromium kao <ph name="USER_EMAIL" />.</translation>
+<translation id="7100172292317798034">WEB3 DNA Browser ne može da odredi ni da podesi podrazumevani pregledač</translation>
+<translation id="7388619658790717510">Ovim ćete izbrisati 1 stavku sa ovog uređaja. Da biste kasnije vratili podatke, prijavite se u WEB3 DNA Browser kao <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Instalacija nije uspela. Probajte ponovo.</translation>
-<translation id="2020032459870799438">Da biste proverili da li su ostale lozinke bezbedne od upada u podatke i drugih bezbednosnih problema, <ph name="BEGIN_LINK" />prijavite se u Chromium<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Odaberite da li ćete uvrstiti istoriju Chromium-a radi personalizovanijih doživljaja u Google uslugama</translation>
-<translation id="2088953378266246249">Informacije o tome kako Chromium upravlja sertifikatima osnovnog nivoa</translation>
-<translation id="2174178932569897599">Prilagodite Chromium</translation>
+<translation id="8775681507105719302">Da biste proverili da li su ostale lozinke bezbedne od upada u podatke i drugih bezbednosnih problema, <ph name="BEGIN_LINK" />prijavite se u WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="6765354414432698675">Odaberite da li ćete uvrstiti istoriju WEB3 DNA Browser-a radi personalizovanijih doživljaja u Google uslugama</translation>
+<translation id="5773286839920477494">Informacije o tome kako WEB3 DNA Browser upravlja sertifikatima osnovnog nivoa</translation>
+<translation id="1342703999636762729">Prilagodite WEB3 DNA Browser</translation>
 <translation id="2174917724755363426">Instalacija nije dovršena. Želite stvarno da je otkažete?</translation>
-<translation id="2185166961232948079">Chromium – prijavljivanje na mrežu – <ph name="PAGE_TITLE" /></translation>
-<translation id="2241627712206172106">Ako delite računar, prijatelji i porodica mogu zasebno da pregledaju i da podese Chromium baš onako kako žele.</translation>
-<translation id="2313870531055795960">Proverava URL-ove sa listom nebezbednih sajtova koji se čuvaju u Chromium-u. Ako neki sajt pokuša da ukrade vašu lozinku ili probate da preuzmete štetnu datoteku, Chromium može da pošalje URL-ove, uključujući delove sadržaja stranice, u Bezbedno pregledanje.</translation>
-<translation id="2343156876103232566">Da biste poslali broj sa ovog uređaja na Android telefon, prijavite se u Chromium na oba uređaja.</translation>
-<translation id="2347108572062610441">Ovaj dodatak je promenio stranicu koja se prikazuje kada pokrenete Chromium.</translation>
+<translation id="4604256298037443917">WEB3 DNA Browser – prijavljivanje na mrežu – <ph name="PAGE_TITLE" /></translation>
+<translation id="3692764894142598026">Ako delite računar, prijatelji i porodica mogu zasebno da pregledaju i da podese WEB3 DNA Browser baš onako kako žele.</translation>
+<translation id="1653667178840181002">Proverava URL-ove sa listom nebezbednih sajtova koji se čuvaju u WEB3 DNA Browser-u. Ako neki sajt pokuša da ukrade vašu lozinku ili probate da preuzmete štetnu datoteku, WEB3 DNA Browser može da pošalje URL-ove, uključujući delove sadržaja stranice, u Bezbedno pregledanje.</translation>
+<translation id="4170954887813547201">Da biste poslali broj sa ovog uređaja na Android telefon, prijavite se u WEB3 DNA Browser na oba uređaja.</translation>
+<translation id="7632546848754920458">Ovaj dodatak je promenio stranicu koja se prikazuje kada pokrenete WEB3 DNA Browser.</translation>
 <translation id="2359808026110333948">Nastavi</translation>
 <translation id="2384373936468275798">Chromium OS ne može da sinhronizuje podatke zato što su podaci za prijavljivanje na nalog zastareli.</translation>
-<translation id="2396765026452590966">Dodatak „<ph name="EXTENSION_NAME" />“ je promenio stranicu koja se prikazuje kada pokrenete Chromium.</translation>
-<translation id="2401032172288869980">Chromium-u su potrebne dozvole za kameru i mikrofon za ovaj sajt</translation>
-<translation id="2483889755041906834">U Chromium-u</translation>
+<translation id="3766979587851503326">Dodatak „<ph name="EXTENSION_NAME" />“ je promenio stranicu koja se prikazuje kada pokrenete WEB3 DNA Browser.</translation>
+<translation id="3197411627422504716">WEB3 DNA Browser-u su potrebne dozvole za kameru i mikrofon za ovaj sajt</translation>
+<translation id="6895208784707407784">U WEB3 DNA Browser-u</translation>
 <translation id="2485422356828889247">Deinstaliraj</translation>
-<translation id="2560420686485554789">Chromium traži pristup memorijskom prostoru da bi preuzimao datoteke</translation>
-<translation id="2572494885440352020">Chromium pomagač</translation>
-<translation id="2583187216237139145">Administrator poslovnog profila može da ukloni sve podatke Chromium-a koji se generišu tokom korišćenja ovog profila (poput pravljenja obeleživača, istorije, lozinki i drugih podešavanja). <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Nastavi sa korišćenjem Chromium-a</translation>
-<translation id="2648074677641340862">Tokom instalacije je došlo do greške u operativnom sistemu. Preuzmite Chromium ponovo.</translation>
-<translation id="2661879430930417727">Ako delite uređaj, prijatelji i porodica mogu zasebno da pregledaju i da podese Chromium baš onako kako žele</translation>
-<translation id="2669853942967761236">Chromium je blokirao ovaj fajl arhive jer možda krije malver</translation>
-<translation id="268602741124540128">Dobro došli u Chromium, <ph name="ACCOUNT_FIRST_NAME" /></translation>
-<translation id="2711502716910134313">Kartica Chromium</translation>
-<translation id="2718390899429598676">Chromium će šifrovati podatke radi dodatne sigurnosti.</translation>
+<translation id="5049950391929594900">WEB3 DNA Browser traži pristup memorijskom prostoru da bi preuzimao datoteke</translation>
+<translation id="2749516262341915024">WEB3 DNA Browser pomagač</translation>
+<translation id="2113242903075215938">Administrator poslovnog profila može da ukloni sve podatke WEB3 DNA Browser-a koji se generišu tokom korišćenja ovog profila (poput pravljenja obeleživača, istorije, lozinki i drugih podešavanja). <ph name="LEARN_MORE" /></translation>
+<translation id="4952960270884842265">Nastavi sa korišćenjem WEB3 DNA Browser-a</translation>
+<translation id="2731252252225464533">Tokom instalacije je došlo do greške u operativnom sistemu. Preuzmite WEB3 DNA Browser ponovo.</translation>
+<translation id="1821196395946518624">Ako delite uređaj, prijatelji i porodica mogu zasebno da pregledaju i da podese WEB3 DNA Browser baš onako kako žele</translation>
+<translation id="5872680003660133275">WEB3 DNA Browser je blokirao ovaj fajl arhive jer možda krije malver</translation>
+<translation id="7648513030043385007">Dobro došli u WEB3 DNA Browser, <ph name="ACCOUNT_FIRST_NAME" /></translation>
+<translation id="544374351717235856">Kartica WEB3 DNA Browser</translation>
+<translation id="5554916945232735698">WEB3 DNA Browser će šifrovati podatke radi dodatne sigurnosti.</translation>
 <translation id="2770231113462710648">Promeni podrazumevani pregledač u:</translation>
 <translation id="2799223571221894425">Ponovo pokreni</translation>
-<translation id="2837693172913560447">Ovim će se napraviti nov Chromium profil za <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="2847479871509788944">Ukloni iz Chromium-a...</translation>
-<translation id="2850691299438350830">Štiti vas u Chromium-u i može da se koristi za poboljšanje bezbednosti u drugim Google aplikacijama kada ste prijavljeni.</translation>
+<translation id="7343868188703540938">Ovim će se napraviti nov WEB3 DNA Browser profil za <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="4410717336615333062">Ukloni iz WEB3 DNA Browser-a...</translation>
+<translation id="4055140529823965372">Štiti vas u WEB3 DNA Browser-u i može da se koristi za poboljšanje bezbednosti u drugim Google aplikacijama kada ste prijavljeni.</translation>
 <translation id="2885378588091291677">Menadžer zadataka</translation>
-<translation id="2910007522516064972">O &amp;Chromium-u</translation>
+<translation id="224853752763613334">O &amp;WEB3 DNA Browser-u</translation>
 <translation id="2915996080311180594">Restartuj kasnije</translation>
 <translation id="2928420929544864228">Instalacija je dovršena.</translation>
-<translation id="2977470724722393594">Chromium je ažuriran</translation>
-<translation id="2977506796191543575">Ako neki sajt pokuša da ukrade vašu lozinku ili probate da preuzmete štetni fajl, Chromium može da pošalje URL-ove, uključujući delove sadržaja stranice, u Bezbedno pregledanje</translation>
-<translation id="2983934633046890458">Chromium pokušava da izmeni lozinke.</translation>
-<translation id="3032706164202344641">Chromium ne može da vam proverava lozinke. Probajte ponovo kasnije.</translation>
-<translation id="3032787606318309379">Dodavanje u Chromium...</translation>
+<translation id="8483611164641766271">WEB3 DNA Browser je ažuriran</translation>
+<translation id="2739338544529681223">Ako neki sajt pokuša da ukrade vašu lozinku ili probate da preuzmete štetni fajl, WEB3 DNA Browser može da pošalje URL-ove, uključujući delove sadržaja stranice, u Bezbedno pregledanje</translation>
+<translation id="6709063507223740532">WEB3 DNA Browser pokušava da izmeni lozinke.</translation>
+<translation id="6416874087185776406">WEB3 DNA Browser ne može da vam proverava lozinke. Probajte ponovo kasnije.</translation>
+<translation id="7632657090539802919">Dodavanje u WEB3 DNA Browser...</translation>
 <translation id="3038232873781883849">Čeka se instaliranje...</translation>
-<translation id="3068515742935458733">Pomozite nam da poboljšamo Chromium tako što ćete Google-u slati izveštaje o otkazivanju i <ph name="UMA_LINK" /></translation>
-<translation id="3101560983689755071">Istorija pregledanja utiče na oglase koji vam se prikazuju i interesovanja procenjena u nastavku. Radi zaštite privatnosti Chromium automatski briše interesovanja svakog meseca čim postanu dostupna. Interesovanja mogu da se osvežavaju ako ih ne uklonite.</translation>
-<translation id="3103660991484857065">Program za instalaciju nije uspeo da dekomprimuje arhivu. Preuzmite Chromium ponovo.</translation>
-<translation id="3130323860337406239">Chromium koristi mikrofon.</translation>
-<translation id="3155163173539279776">Ponovo pokreni Chromium</translation>
-<translation id="3179665906251668410">Otvori link u Chromium prozoru bez arhi&amp;viranja</translation>
-<translation id="3185330573522821672">Prilagodite novi Chromium profil</translation>
-<translation id="3190315855212034486">Opa! Chromium je otkazao. Želite li da ga odmah ponovo pokrenete?</translation>
-<translation id="3229526316128325841">Chromium želi da izveze lozinke.</translation>
-<translation id="3258596308407688501">Chromium ne može da čita podatke iz direktorijuma sa podacima niti da ih upisuje u njega:
+<translation id="8517483409722571699">Pomozite nam da poboljšamo WEB3 DNA Browser tako što ćete Google-u slati izveštaje o otkazivanju i <ph name="UMA_LINK" /></translation>
+<translation id="4288053573753081242">Istorija pregledanja utiče na oglase koji vam se prikazuju i interesovanja procenjena u nastavku. Radi zaštite privatnosti WEB3 DNA Browser automatski briše interesovanja svakog meseca čim postanu dostupna. Interesovanja mogu da se osvežavaju ako ih ne uklonite.</translation>
+<translation id="4786656728645530523">Program za instalaciju nije uspeo da dekomprimuje arhivu. Preuzmite WEB3 DNA Browser ponovo.</translation>
+<translation id="9049602934378376908">WEB3 DNA Browser koristi mikrofon.</translation>
+<translation id="5623271663074009477">Ponovo pokreni WEB3 DNA Browser</translation>
+<translation id="8452871758697304895">Otvori link u WEB3 DNA Browser prozoru bez arhi&amp;viranja</translation>
+<translation id="1129084746726669073">Prilagodite novi WEB3 DNA Browser profil</translation>
+<translation id="5492613633683347362">Opa! WEB3 DNA Browser je otkazao. Želite li da ga odmah ponovo pokrenete?</translation>
+<translation id="8199824399077877420">WEB3 DNA Browser želi da izveze lozinke.</translation>
+<translation id="4228792865955409287">WEB3 DNA Browser ne može da čita podatke iz direktorijuma sa podacima niti da ih upisuje u njega:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3283186697780795848">Instalirana je verzija Chromium-a <ph name="PRODUCT_VERSION" /></translation>
+<translation id="3857433786109736615">Instalirana je verzija WEB3 DNA Browser-a <ph name="PRODUCT_VERSION" /></translation>
 <translation id="3286538390144397061">Restartuj odmah</translation>
-<translation id="328888136576916638">Nedostaju šifre za Google API. Neke funkcije Chromium-a će biti onemogućene.</translation>
-<translation id="3296368748942286671">Nastavi sa pokretanjem aplikacija u pozadini kada se Chromium zatvori</translation>
-<translation id="3350761136195634146">Chromium profil sa ovim nalogom već postoji</translation>
+<translation id="1496654316150745021">Nedostaju šifre za Google API. Neke funkcije WEB3 DNA Browser-a će biti onemogućene.</translation>
+<translation id="1658920309978171288">Nastavi sa pokretanjem aplikacija u pozadini kada se WEB3 DNA Browser zatvori</translation>
+<translation id="6099044929456210951">WEB3 DNA Browser profil sa ovim nalogom već postoji</translation>
 <translation id="3387527074123400161">Chromium OS</translation>
-<translation id="3406848076815591792">Želite da pređete na postojeći Chromium profil?</translation>
+<translation id="3490516070300665202">Želite da pređete na postojeći WEB3 DNA Browser profil?</translation>
 <translation id="3412460710772753638">U Menadžeru lozinki na ovom uređaju</translation>
-<translation id="3420193029125244288">{COUNT,plural, =1{Administrator je konfigurisao Chromium da se zatvara ako je neaktivan duže od 1 minuta.}one{Administrator je konfigurisao Chromium da se zatvara ako je neaktivan duže od # minuta.}few{Administrator je konfigurisao Chromium da se zatvara ako je neaktivan duže od # minuta.}other{Administrator je konfigurisao Chromium da se zatvara ako je neaktivan duže od # minuta.}}</translation>
-<translation id="3430503420100763906">Pomoću Chromium profila možete da razdvojite sve Chromium sadržaje. Napravite profile za prijatelje i porodicu ili razdvojite posao i zabavu.</translation>
-<translation id="347328004046849135">Chromium će vas obavestiti kada se prijavite pomoću ugrožene lozinke</translation>
-<translation id="3474745554856756813">Ovim ćete izbrisati <ph name="ITEMS_COUNT" /> stavke(i) sa ovog uređaja. Da biste kasnije vratili podatke, prijavite se u Chromium kao <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931">Pomoću prečice <ph name="SHORTCUT" /> možete da prelazite sa jednog Chromium profila na drugi</translation>
-<translation id="3509308970982693815">Zatvorite sve Chromium prozore i pokušajte ponovo.</translation>
-<translation id="3518180795744733843">Google pomoćnik u Chromium-u može da dovršava radnje za vas na veb-sajtovima</translation>
-<translation id="3533435340678213462">Radi zaštite privatnosti automatski brišemo interesovanja starija od 4 nedelje. Kada nastavite da pregledate, interesovanje će se možda ponovo pojaviti na listi. Možete i da uklanjate interesovanja za koja ne želite da ih Chromium uzima u obzir.</translation>
-<translation id="3567254597502212821">Istorija pregledanja, evidencija sajtova koje ste posetili pomoću Chromium-a na ovom uređaju.</translation>
-<translation id="3575459661164320785">Na računaru postoji štetan softver. Chromium može da ga ukloni, vrati podešavanja i onemogući dodatke da bi pregledač mogao ponovo da radi uobičajeno.</translation>
-<translation id="3593091352817399191">Drugi nalog je već prijavljen. Da bi vam pregledanje bilo razdvojeno, Chromium može da napravi zaseban profil za vas.</translation>
-<translation id="3639635944603682591">Podaci pregledanja ove osobe će biti izbrisani sa ovog uređaja. Da biste vratili podatke, prijavite se u Chromium kao <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Novo ažuriranje za Chromium je dostupno i primeniće se čim ga ponovo pokrenete.}=1{Novo ažuriranje za Chromium je dostupno i primeniće se čim ga ponovo pokrenete. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Novo ažuriranje za Chromium je dostupno i primeniće se čim ga ponovo pokrenete. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Novo ažuriranje za Chromium je dostupno i primeniće se čim ga ponovo pokrenete. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Novo ažuriranje za Chromium je dostupno i primeniće se čim ga ponovo pokrenete. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
-<translation id="3651803019964686660">Da biste poslali broj sa <ph name="ORIGIN" /> na Android telefon, prijavite se u Chromium na oba uređaja.</translation>
-<translation id="3685209450716071127">Chromium ne može da vam proverava lozinke. Proverite internet vezu.</translation>
-<translation id="3702352323269013324">Saznajte više o personalizaciji oglasa u Chromium-u</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Administrator traži da ponovo pokrenete Chromium da biste primenili ovo ažuriranje}=1{Administrator traži da ponovo pokrenete Chromium da biste primenili ovo ažuriranje. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Administrator traži da ponovo pokrenete Chromium da biste primenili ovo ažuriranje. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Administrator traži da ponovo pokrenete Chromium da biste primenili ovo ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Administrator traži da ponovo pokrenete Chromium da biste primenili ovo ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
-<translation id="3713809861844741608">Otvori link u novoj Chromium &amp;kartici</translation>
-<translation id="3728336900324680424">Chromium će pristupati Disku da bi prikazivao predloge na traci za adresu</translation>
-<translation id="378917192836375108">Chromium vam omogućava da kliknete na broj telefona na vebu i da ga pozovete pomoću Skype-a!</translation>
+<translation id="3459447433517900945">{COUNT,plural, =1{Administrator je konfigurisao WEB3 DNA Browser da se zatvara ako je neaktivan duže od 1 minuta.}one{Administrator je konfigurisao WEB3 DNA Browser da se zatvara ako je neaktivan duže od # minuta.}few{Administrator je konfigurisao WEB3 DNA Browser da se zatvara ako je neaktivan duže od # minuta.}other{Administrator je konfigurisao WEB3 DNA Browser da se zatvara ako je neaktivan duže od # minuta.}}</translation>
+<translation id="8670809163194068299">Pomoću WEB3 DNA Browser profila možete da razdvojite sve WEB3 DNA Browser sadržaje. Napravite profile za prijatelje i porodicu ili razdvojite posao i zabavu.</translation>
+<translation id="9066892520177234564">WEB3 DNA Browser će vas obavestiti kada se prijavite pomoću ugrožene lozinke</translation>
+<translation id="2558936839934178842">Ovim ćete izbrisati <ph name="ITEMS_COUNT" /> stavke(i) sa ovog uređaja. Da biste kasnije vratili podatke, prijavite se u WEB3 DNA Browser kao <ph name="USER_EMAIL" />.</translation>
+<translation id="3356184603360407459">Pomoću prečice <ph name="SHORTCUT" /> možete da prelazite sa jednog WEB3 DNA Browser profila na drugi</translation>
+<translation id="4904006555695224532">Zatvorite sve WEB3 DNA Browser prozore i pokušajte ponovo.</translation>
+<translation id="1702866421814791137">Google pomoćnik u WEB3 DNA Browser-u može da dovršava radnje za vas na veb-sajtovima</translation>
+<translation id="5618636199529337261">Radi zaštite privatnosti automatski brišemo interesovanja starija od 4 nedelje. Kada nastavite da pregledate, interesovanje će se možda ponovo pojaviti na listi. Možete i da uklanjate interesovanja za koja ne želite da ih WEB3 DNA Browser uzima u obzir.</translation>
+<translation id="319672769194370808">Istorija pregledanja, evidencija sajtova koje ste posetili pomoću WEB3 DNA Browser-a na ovom uređaju.</translation>
+<translation id="4060507003609322665">Na računaru postoji štetan softver. WEB3 DNA Browser može da ga ukloni, vrati podešavanja i onemogući dodatke da bi pregledač mogao ponovo da radi uobičajeno.</translation>
+<translation id="6858481853319304501">Drugi nalog je već prijavljen. Da bi vam pregledanje bilo razdvojeno, WEB3 DNA Browser može da napravi zaseban profil za vas.</translation>
+<translation id="7181053905423306884">Podaci pregledanja ove osobe će biti izbrisani sa ovog uređaja. Da biste vratili podatke, prijavite se u WEB3 DNA Browser kao <ph name="USER_EMAIL" />.</translation>
+<translation id="8833453854863974594">{COUNT,plural, =0{Novo ažuriranje za WEB3 DNA Browser je dostupno i primeniće se čim ga ponovo pokrenete.}=1{Novo ažuriranje za WEB3 DNA Browser je dostupno i primeniće se čim ga ponovo pokrenete. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Novo ažuriranje za WEB3 DNA Browser je dostupno i primeniće se čim ga ponovo pokrenete. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Novo ažuriranje za WEB3 DNA Browser je dostupno i primeniće se čim ga ponovo pokrenete. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Novo ažuriranje za WEB3 DNA Browser je dostupno i primeniće se čim ga ponovo pokrenete. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
+<translation id="890421963650512515">Da biste poslali broj sa <ph name="ORIGIN" /> na Android telefon, prijavite se u WEB3 DNA Browser na oba uređaja.</translation>
+<translation id="8559660999448670332">WEB3 DNA Browser ne može da vam proverava lozinke. Proverite internet vezu.</translation>
+<translation id="2460459186000985919">Saznajte više o personalizaciji oglasa u WEB3 DNA Browser-u</translation>
+<translation id="1249507445971540698">{COUNT,plural, =0{Administrator traži da ponovo pokrenete WEB3 DNA Browser da biste primenili ovo ažuriranje}=1{Administrator traži da ponovo pokrenete WEB3 DNA Browser da biste primenili ovo ažuriranje. Prozor bez arhiviranja se neće ponovo otvoriti.}one{Administrator traži da ponovo pokrenete WEB3 DNA Browser da biste primenili ovo ažuriranje. # prozor bez arhiviranja se neće ponovo otvoriti.}few{Administrator traži da ponovo pokrenete WEB3 DNA Browser da biste primenili ovo ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}other{Administrator traži da ponovo pokrenete WEB3 DNA Browser da biste primenili ovo ažuriranje. # prozora bez arhiviranja se neće ponovo otvoriti.}}</translation>
+<translation id="8552541042755991172">Otvori link u novoj WEB3 DNA Browser &amp;kartici</translation>
+<translation id="6916875900143115982">WEB3 DNA Browser će pristupati Disku da bi prikazivao predloge na traci za adresu</translation>
+<translation id="336867116231879142">WEB3 DNA Browser vam omogućava da kliknete na broj telefona na vebu i da ga pozovete pomoću Skype-a!</translation>
 <translation id="3830894615770080216">Sistem Chromium OS</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> – Chromium</translation>
+<translation id="8864402478426522531"><ph name="PAGE_TITLE" /> – WEB3 DNA Browser</translation>
 <translation id="386822487697155367">Pronađite pomoć za Chromium OS</translation>
-<translation id="3871664619793219264">Preuzmite sadržaj iz Chromium pregledača sa: <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="388648406173476553">Prilagodite i kontrolišite Chromium. Treba da obratite pažnju na nešto – kliknite za više detalja.</translation>
-<translation id="3889543394854987837">Kliknite na ime da biste otvorili Chromium i počnite da pregledate.</translation>
-<translation id="390528597099634151">Korisnik <ph name="EXISTING_USER" /> je već prijavljen na ovaj Chromium profil. Da bi vam pregledanje bilo razdvojeno, Chromium može da napravi zaseban profil za vas.</translation>
-<translation id="391789666908693569">Vašim nalogom upravlja <ph name="MANAGER_NAME" />. Administrator može da vidi i menja ovaj profil u Chromium pregledaču i njegove podatke, poput obeleživača, istorije i lozinki.</translation>
-<translation id="3945058413678539331">Chromium pokušava da kopira lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
-<translation id="3962623956404948996">Chromium preporučuje skeniranje ovog fajla jer može da bude opasan</translation>
+<translation id="3532820600057985798">Preuzmite sadržaj iz WEB3 DNA Browser pregledača sa: <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="3254774751045951355">Prilagodite i kontrolišite WEB3 DNA Browser. Treba da obratite pažnju na nešto – kliknite za više detalja.</translation>
+<translation id="5690972056512883402">Kliknite na ime da biste otvorili WEB3 DNA Browser i počnite da pregledate.</translation>
+<translation id="5645023388974281920">Korisnik <ph name="EXISTING_USER" /> je već prijavljen na ovaj WEB3 DNA Browser profil. Da bi vam pregledanje bilo razdvojeno, WEB3 DNA Browser može da napravi zaseban profil za vas.</translation>
+<translation id="8552133641824014764">Vašim nalogom upravlja <ph name="MANAGER_NAME" />. Administrator može da vidi i menja ovaj profil u WEB3 DNA Browser pregledaču i njegove podatke, poput obeleživača, istorije i lozinki.</translation>
+<translation id="1745190996116952155">WEB3 DNA Browser pokušava da kopira lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
+<translation id="2363126436977372294">WEB3 DNA Browser preporučuje skeniranje ovog fajla jer može da bude opasan</translation>
 <translation id="3997429360543082038">O Chromium OS-u</translation>
 <translation id="4019629340646866719">Chromium OS je omogućen zahvaljujući dodatnom <ph name="BEGIN_LINK_CROS_OSS" />softveru sa otvorenim kodom<ph name="END_LINK_CROS_OSS" />, kao što je <ph name="BEGIN_LINK_LINUX_OSS" />Linux okruženje za programiranje<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="4036079820698952681">Pomozite da poboljšamo Chromium tako što ćete poslati izveštaj o <ph name="BEGIN_LINK" />aktuelnim podešavanjima<ph name="END_LINK" /></translation>
+<translation id="7039332938370903722">Pomozite da poboljšamo WEB3 DNA Browser tako što ćete poslati izveštaj o <ph name="BEGIN_LINK" />aktuelnim podešavanjima<ph name="END_LINK" /></translation>
 <translation id="4050175100176540509">Važna bezbednosna poboljšanja i nove funkcije su dostupni u najnovijoj verziji.</translation>
 <translation id="4148957013307229264">Instaliranje...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> – prijavljivanje na mrežu – Chromium</translation>
-<translation id="421369550622382712">Otkrijte odlične aplikacije, igre, dodatke i teme za Chromium.</translation>
-<translation id="4216212958613226427">Ovaj jezik se koristi za prikazivanje korisničkog interfejsa Chromium-a</translation>
+<translation id="9037768363939314060"><ph name="PAGE_TITLE" /> – prijavljivanje na mrežu – WEB3 DNA Browser</translation>
+<translation id="65082721690930806">Otkrijte odlične aplikacije, igre, dodatke i teme za WEB3 DNA Browser.</translation>
+<translation id="8180918330054927789">Ovaj jezik se koristi za prikazivanje korisničkog interfejsa WEB3 DNA Browser-a</translation>
 <translation id="4222932583846282852">Otkazuje se...</translation>
-<translation id="4230135487732243613">Želite li da povežete Chromium podatke sa ovim nalogom?</translation>
-<translation id="4271805377592243930">Pronađite pomoć za Chromium</translation>
-<translation id="4285930937574705105">Instalacija nije uspela zbog neodređene greške. Ako je Chromium trenutno otvoren, zatvorite ga i pokušajte ponovo.</translation>
+<translation id="4117615645977273587">Želite li da povežete WEB3 DNA Browser podatke sa ovim nalogom?</translation>
+<translation id="2562528065031024752">Pronađite pomoć za WEB3 DNA Browser</translation>
+<translation id="4628286205171331451">Instalacija nije uspela zbog neodređene greške. Ako je WEB3 DNA Browser trenutno otvoren, zatvorite ga i pokušajte ponovo.</translation>
 <translation id="4304713468139749426">Menadžer lozinki</translation>
 <translation id="4334294535648607276">Preuzimanje je dovršeno.</translation>
 <translation id="439358628917130594"><ph name="MANAGER" /> zahteva da pročitate i prihvatite sledeće Uslove korišćenja usluge pre korišćenja ovog uređaja. Ovi uslovi ne proširuju, menjaju niti ograničavaju Uslove za Chromium OS.</translation>
-<translation id="4407044323746248786">Želite li ipak da zatvorite Chromium?</translation>
-<translation id="4415566066719264597">Neka Chromium radi u pozadini</translation>
-<translation id="4423735387467980091">Prilagodite i kontrolišite Chromium</translation>
+<translation id="5363800095683563940">Želite li ipak da zatvorite WEB3 DNA Browser?</translation>
+<translation id="4413681411297396618">Neka WEB3 DNA Browser radi u pozadini</translation>
+<translation id="4960563596527056032">Prilagodite i kontrolišite WEB3 DNA Browser</translation>
 <translation id="4427306783828095590">Poboljšana zaštita nudi više mogućnosti za blokiranje „pecanja“ i malvera</translation>
-<translation id="452711251841752011">Dobro došli u Chromium; otvoren je novi prozor pregledača</translation>
-<translation id="4544142686420020088">Chromium se nije ažurirao. Došlo je do greške. <ph name="BEGIN_LINK" />Otklonite probleme sa ažuriranjem Chromium-a i neuspela ažuriranja.<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">Želite da nastavite na novom Chromium profilu?</translation>
+<translation id="5075487038316202932">Dobro došli u WEB3 DNA Browser; otvoren je novi prozor pregledača</translation>
+<translation id="8333408299151688471">WEB3 DNA Browser se nije ažurirao. Došlo je do greške. <ph name="BEGIN_LINK" />Otklonite probleme sa ažuriranjem WEB3 DNA Browser-a i neuspela ažuriranja.<ph name="END_LINK" /></translation>
+<translation id="5710517655208362990">Želite da nastavite na novom WEB3 DNA Browser profilu?</translation>
 <translation id="4567424176335768812">Prijavljeni ste kao <ph name="USER_EMAIL_ADDRESS" />. Sada možete da pristupate obeleživačima, istoriji i drugim podešavanjima na svim uređajima na kojima ste prijavljeni.</translation>
 <translation id="4594305310729380060">U Menadžer lozinki na ovom uređaju</translation>
-<translation id="459535195905078186">Chromium aplikacije</translation>
+<translation id="8700214093481776621">WEB3 DNA Browser aplikacije</translation>
 <translation id="4613863813562375431">Verzija Chromium OS-a</translation>
-<translation id="4621240073146040695">Ažuriranje je skoro gotovo! Ponovo pokrenite Chromium da biste dovršili ažuriranje.</translation>
-<translation id="4665829708273112819">Upozorenje: Chromium ne može da spreči dodatke da čuvaju istoriju pregledanja. Da biste onemogućili ovaj dodatak u režimu bez arhiviranja, poništite izbor ove opcije.</translation>
-<translation id="4673151026126227699">Ako delite i Chromium izveštaje o korišćenju, ti izveštaji obuhvataju URL-ove koje posećujete</translation>
-<translation id="4677944499843243528">Izgleda da se profil koristi u nekom drugom Chromium procesu (<ph name="PROCESS_ID" />) na nekom drugom računaru (<ph name="HOST_NAME" />). Chromium je zaključao profil da ne bi bio oštećen. Ako ste sigurni da nijedan drugi proces ne koristi ovaj profil, možete da otključate profil i ponovo pokrenete Chromium.</translation>
+<translation id="6951246183774166202">Ažuriranje je skoro gotovo! Ponovo pokrenite WEB3 DNA Browser da biste dovršili ažuriranje.</translation>
+<translation id="1967316171334904609">Upozorenje: WEB3 DNA Browser ne može da spreči dodatke da čuvaju istoriju pregledanja. Da biste onemogućili ovaj dodatak u režimu bez arhiviranja, poništite izbor ove opcije.</translation>
+<translation id="6242940079717718930">Ako delite i WEB3 DNA Browser izveštaje o korišćenju, ti izveštaji obuhvataju URL-ove koje posećujete</translation>
+<translation id="4405105480942922067">Izgleda da se profil koristi u nekom drugom WEB3 DNA Browser procesu (<ph name="PROCESS_ID" />) na nekom drugom računaru (<ph name="HOST_NAME" />). WEB3 DNA Browser je zaključao profil da ne bi bio oštećen. Ako ste sigurni da nijedan drugi proces ne koristi ovaj profil, možete da otključate profil i ponovo pokrenete WEB3 DNA Browser.</translation>
 <translation id="4680828127924988555">Otkaži instalaciju</translation>
-<translation id="4708774505295300557">Neko se prethodno prijavio na Chromium na ovom računaru kao <ph name="ACCOUNT_EMAIL_LAST" />. Napravite novog Chromium korisnika da bi informacije bile razdvojene.</translation>
-<translation id="4746050847053251315">Želite li ipak da zatvorite Chromium?</translation>
-<translation id="4748217263233248895">Posebno bezbednosno ažuriranje za Chromium je upravo primenjeno. Restartujte ga i vratićemo vam kartice.</translation>
-<translation id="4765210420921718862">Možete da se predomislite u bilo kom trenutku u podešavanjima Chromium-a. Probe se obavljaju paralelno uz trenutni način prikazivanja oglasa, pa nećete odmah videti promene.</translation>
-<translation id="4788777615168560705">Chromium ne može da vam proverava lozinke. Probajte ponovo posle 24 sata ili <ph name="BEGIN_LINK" />proverite lozinke na Google nalogu<ph name="END_LINK" />.</translation>
+<translation id="3750760070906465924">Neko se prethodno prijavio na WEB3 DNA Browser na ovom računaru kao <ph name="ACCOUNT_EMAIL_LAST" />. Napravite novog WEB3 DNA Browser korisnika da bi informacije bile razdvojene.</translation>
+<translation id="1217313267986183942">Želite li ipak da zatvorite WEB3 DNA Browser?</translation>
+<translation id="4805555266423130696">Posebno bezbednosno ažuriranje za WEB3 DNA Browser je upravo primenjeno. Restartujte ga i vratićemo vam kartice.</translation>
+<translation id="3541589509773411057">Možete da se predomislite u bilo kom trenutku u podešavanjima WEB3 DNA Browser-a. Probe se obavljaju paralelno uz trenutni način prikazivanja oglasa, pa nećete odmah videti promene.</translation>
+<translation id="2655572098566031184">WEB3 DNA Browser ne može da vam proverava lozinke. Probajte ponovo posle 24 sata ili <ph name="BEGIN_LINK" />proverite lozinke na Google nalogu<ph name="END_LINK" />.</translation>
 <translation id="479167709087336770">Koristi istu proveru pravopisa kao Google pretraga. Tekst koji unesete u pregledač se šalje Google-u. To uvek možete da promenite u podešavanjima.</translation>
-<translation id="4888717733111232871">Pravilo za dolazni saobraćaj za Chromium da bi se omogućio mDNS saobraćaj.</translation>
-<translation id="4893347770495441059">Ponovo pokreni da bi se &amp;Chromium ažurirao</translation>
-<translation id="4943838377383847465">Chromium je u pozadinskom režimu.</translation>
-<translation id="4987820182225656817">Gosti mogu da koriste Chromium a da ne ostavljaju nikakve tragove.</translation>
-<translation id="4994636714258228724">Dodajte sebe u Chromium</translation>
-<translation id="5114678101347489141">Chromium istražuje nove funkcije koje omogućavaju sajtovima da pružaju isti doživljaj pregledanja, a da koriste manje podataka</translation>
-<translation id="5224391634244552924">Nema sačuvanih lozinki. Chromium može da proverava lozinke kada ih sačuvate.</translation>
-<translation id="5252179775517634216">Korisnik <ph name="EXISTING_USER" /> je već prijavljen na ovaj Chromium profil. Ovim će se napraviti nov Chromium profil za <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="5277894862589591112">Da biste primenili promene, ponovo pokrenite Chromium</translation>
-<translation id="5296845517486664001">Dok probni periodi traju i ako vas je Chromium nasumično postavio u aktivni probni period, istorija pregledanja utiče na oglase koje vidite i interesovanja procenjena u nastavku. Radi zaštite privatnosti Chromium briše interesovanja svakog meseca čim postanu dostupna.</translation>
-<translation id="5358375970380395591">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad Chromium profilom. Chromium podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME" />. Moći ćete da izbrišete te podatke preko Kontrolne table Google naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">Ažuriranje Chromium-a (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Dozvoli prijavljivanje u Chromium</translation>
-<translation id="5398878173008909840">Dostupna je nova verzija Chromium-a.</translation>
-<translation id="5405650547142096840">Ukloni iz Chromium-a</translation>
-<translation id="5421879995290576427">{0,plural, =0{Chromium će se sada zatvoriti.}=1{Chromium će se zatvoriti za 1 sekundu.}one{Chromium će se zatvoriti za # sekundu.}few{Chromium će se zatvoriti za # sekunde.}other{Chromium će se zatvoriti za # sekundi.}}</translation>
-<translation id="5427571867875391349">Podesi Chromium kao podrazumevani pregledač</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – Chromium beta</translation>
-<translation id="5473971139929175403">Chromium možda neće ispravno raditi zato što više nije podržan na ovoj verziji Linux-a</translation>
-<translation id="5480860683791598150">Chromium traži pristup vašoj lokaciji da biste je delili sa ovim sajtom</translation>
-<translation id="5487574057737591516">Radi zaštite privatnosti automatski brišemo interesovanja starija od 4 nedelje. Kada nastavite da pregledate, interesovanje će se možda ponovo pojaviti na listi. Ako Chromium pogreši ili ne želite da vam se prikazuju određeni oglasi, možete da uklonite interesovanje.</translation>
-<translation id="549669000822060376">Sačekajte da Chromium instalira najnovija ažuriranja sistema.</translation>
-<translation id="5496810170689441661">Chromium pokušava da izmeni lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
-<translation id="5527463683072221100">Otvarajte PDF-ove u Chromium-u</translation>
-<translation id="5614091477838198795">Kada je ovo uključeno, bićete i odjavljeni iz Chromium-a</translation>
-<translation id="5623402015214259806">{0,plural, =0{Ažuriranje za Chromium je dostupno}=1{Ažuriranje za Chromium je dostupno}one{Ažuriranje za Chromium je dostupno već # dan}few{Ažuriranje za Chromium je dostupno već # dana}other{Ažuriranje za Chromium je dostupno već # dana}}</translation>
-<translation id="5634636535844844681">Za Chromium je potreban Windows 7 ili novija verzija.</translation>
-<translation id="5653831366781983928">Restartujte Chromium</translation>
-<translation id="5698481217667032250">Prikazuj Chromium na ovom jeziku</translation>
-<translation id="5862307444128926510">Dobro došli u Chromium</translation>
-<translation id="5883558403894052917">Chromium je otkrio malver u ovim stavkama:</translation>
+<translation id="6402416911698425675">Pravilo za dolazni saobraćaj za WEB3 DNA Browser da bi se omogućio mDNS saobraćaj.</translation>
+<translation id="5496148131599227635">Ponovo pokreni da bi se &amp;WEB3 DNA Browser ažurirao</translation>
+<translation id="3889712706226772861">WEB3 DNA Browser je u pozadinskom režimu.</translation>
+<translation id="5502939625951695202">Gosti mogu da koriste WEB3 DNA Browser a da ne ostavljaju nikakve tragove.</translation>
+<translation id="4935574428555172200">Dodajte sebe u WEB3 DNA Browser</translation>
+<translation id="60503244591890876">WEB3 DNA Browser istražuje nove funkcije koje omogućavaju sajtovima da pružaju isti doživljaj pregledanja, a da koriste manje podataka</translation>
+<translation id="282690038359289128">Nema sačuvanih lozinki. WEB3 DNA Browser može da proverava lozinke kada ih sačuvate.</translation>
+<translation id="3588920839125338516">Korisnik <ph name="EXISTING_USER" /> je već prijavljen na ovaj WEB3 DNA Browser profil. Ovim će se napraviti nov WEB3 DNA Browser profil za <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="1712448899328197828">Da biste primenili promene, ponovo pokrenite WEB3 DNA Browser</translation>
+<translation id="5425968257754155673">Dok probni periodi traju i ako vas je WEB3 DNA Browser nasumično postavio u aktivni probni period, istorija pregledanja utiče na oglase koje vidite i interesovanja procenjena u nastavku. Radi zaštite privatnosti WEB3 DNA Browser briše interesovanja svakog meseca čim postanu dostupna.</translation>
+<translation id="4715135477147720071">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad WEB3 DNA Browser profilom. WEB3 DNA Browser podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME" />. Moći ćete da izbrišete te podatke preko Kontrolne table Google naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. <ph name="LEARN_MORE" /></translation>
+<translation id="3959775081883542439">Ažuriranje WEB3 DNA Browser-a (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="8468846229743402892">Dozvoli prijavljivanje u WEB3 DNA Browser</translation>
+<translation id="868709743621506099">Dostupna je nova verzija WEB3 DNA Browser-a.</translation>
+<translation id="8954902894032987165">Ukloni iz WEB3 DNA Browser-a</translation>
+<translation id="8529594966625997901">{0,plural, =0{WEB3 DNA Browser će se sada zatvoriti.}=1{WEB3 DNA Browser će se zatvoriti za 1 sekundu.}one{WEB3 DNA Browser će se zatvoriti za # sekundu.}few{WEB3 DNA Browser će se zatvoriti za # sekunde.}other{WEB3 DNA Browser će se zatvoriti za # sekundi.}}</translation>
+<translation id="2581842036863502750">Podesi WEB3 DNA Browser kao podrazumevani pregledač</translation>
+<translation id="2775837035201231287"><ph name="PAGE_TITLE" /> – WEB3 DNA Browser beta</translation>
+<translation id="3342188394733679831">WEB3 DNA Browser možda neće ispravno raditi zato što više nije podržan na ovoj verziji Linux-a</translation>
+<translation id="6744035239102820989">WEB3 DNA Browser traži pristup vašoj lokaciji da biste je delili sa ovim sajtom</translation>
+<translation id="1336779017674457494">Radi zaštite privatnosti automatski brišemo interesovanja starija od 4 nedelje. Kada nastavite da pregledate, interesovanje će se možda ponovo pojaviti na listi. Ako WEB3 DNA Browser pogreši ili ne želite da vam se prikazuju određeni oglasi, možete da uklonite interesovanje.</translation>
+<translation id="5998903067774658363">Sačekajte da WEB3 DNA Browser instalira najnovija ažuriranja sistema.</translation>
+<translation id="840929360644660930">WEB3 DNA Browser pokušava da izmeni lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
+<translation id="7784374736068182823">Otvarajte PDF-ove u WEB3 DNA Browser-u</translation>
+<translation id="5825191796443441681">Kada je ovo uključeno, bićete i odjavljeni iz WEB3 DNA Browser-a</translation>
+<translation id="2714796268816869066">{0,plural, =0{Ažuriranje za WEB3 DNA Browser je dostupno}=1{Ažuriranje za WEB3 DNA Browser je dostupno}one{Ažuriranje za WEB3 DNA Browser je dostupno već # dan}few{Ažuriranje za WEB3 DNA Browser je dostupno već # dana}other{Ažuriranje za WEB3 DNA Browser je dostupno već # dana}}</translation>
+<translation id="685484431195180374">Za WEB3 DNA Browser je potreban Windows 7 ili novija verzija.</translation>
+<translation id="8800866953688530873">Restartujte WEB3 DNA Browser</translation>
+<translation id="6138729568957684301">Prikazuj WEB3 DNA Browser na ovom jeziku</translation>
+<translation id="3263014421647076303">Dobro došli u WEB3 DNA Browser</translation>
+<translation id="5243775519569499373">WEB3 DNA Browser je otkrio malver u ovim stavkama:</translation>
 <translation id="5895138241574237353">Pokreni ponovo</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> – prijavljivanje na mrežu</translation>
 <translation id="5924017743176219022">Povezujete se sa internetom…</translation>
 <translation id="5941711191222866238">Umanji</translation>
-<translation id="5972142260211327093">Ako vas je Chromium nasumično postavio u aktivni probni period, istorija pregledanja utiče na oglase koje vidite i interesovanja procenjena u nastavku. Radi zaštite privatnosti Chromium briše interesovanja svakog meseca čim postanu dostupna. Interesovanja se osvežavaju ako ih ne uklonite.</translation>
-<translation id="5987687638152509985">Ažurirajte Chromium da biste započeli sinhronizaciju</translation>
-<translation id="5988505247484123880">Uobičajeno je da sajtovi koje posećujete pamte stvari koje vas zanimaju radi personalizacije doživljaja. Sajtovi mogu i da čuvaju informacije o vašim interesovanjima u Chromium-u.</translation>
+<translation id="3298053682358110562">Ako vas je WEB3 DNA Browser nasumično postavio u aktivni probni period, istorija pregledanja utiče na oglase koje vidite i interesovanja procenjena u nastavku. Radi zaštite privatnosti WEB3 DNA Browser briše interesovanja svakog meseca čim postanu dostupna. Interesovanja se osvežavaju ako ih ne uklonite.</translation>
+<translation id="692313353224514675">Ažurirajte WEB3 DNA Browser da biste započeli sinhronizaciju</translation>
+<translation id="616886729690540411">Uobičajeno je da sajtovi koje posećujete pamte stvari koje vas zanimaju radi personalizacije doživljaja. Sajtovi mogu i da čuvaju informacije o vašim interesovanjima u WEB3 DNA Browser-u.</translation>
 <translation id="6003112304606738118">Preuzima se... Još <ph name="HOURS" /> č</translation>
 <translation id="6040143037577758943">Zatvori</translation>
-<translation id="6055895534982063517">Dostupna je nova verzija Chromium-a, brža nego ikada pre.</translation>
-<translation id="6063093106622310249">&amp;Otvori u Chromium-u</translation>
-<translation id="6072279588547424923">Dodatak <ph name="EXTENSION_NAME" /> je dodat u Chromium</translation>
-<translation id="6072463441809498330">Ubrzajte Chromium</translation>
+<translation id="6530764363503202587">Dostupna je nova verzija WEB3 DNA Browser-a, brža nego ikada pre.</translation>
+<translation id="9118683902399158578">&amp;Otvori u WEB3 DNA Browser-u</translation>
+<translation id="6636913786172654081">Dodatak <ph name="EXTENSION_NAME" /> je dodat u WEB3 DNA Browser</translation>
+<translation id="8335626147292265662">Ubrzajte WEB3 DNA Browser</translation>
 <translation id="608006075545470555">Dodajte poslovni profil u ovaj pregledač</translation>
-<translation id="6096348254544841612">Prilagodite i kontrolišite Chromium. Dostupno je ažuriranje.</translation>
-<translation id="6119438414301547735">Dozvoli dodatku da prikazuje zahteve za pristup na Chromium traci s alatkama</translation>
-<translation id="6120345080069858279">Chromium će sačuvati ovu lozinku na Google nalogu. Nećete morati da je pamtite.</translation>
-<translation id="6129621093834146363">Datoteka <ph name="FILE_NAME" /> je opasna, pa ju je Chromium blokirao.</translation>
-<translation id="6134968993075716475">Bezbedno pregledanje je isključeno. Chromium preporučuje da ga uključite.</translation>
-<translation id="6145820983052037069">Ovde možete da prelazite sa jednog Chromium profila na drugi</translation>
-<translation id="6183079672144801177">Uverite se da ste prijavljeni u Chromium na uređaju <ph name="TARGET_DEVICE_NAME" /> i probajte da pošaljete ponovo.</translation>
-<translation id="6212496753309875659">Ovaj računar već ima noviju verziju Chromium-a. Ako softver ne funkcioniše, deinstalirajte Chromium i pokušajte ponovo.</translation>
-<translation id="6219195342503754812">{0,plural, =0{Ponovo ćemo pokrenuti Chromium}=1{Ponovo ćemo pokrenuti Chromium za 1 sekundu}one{Ponovo ćemo pokrenuti Chromium za # sekundu}few{Ponovo ćemo pokrenuti Chromium za # sekunde}other{Ponovo ćemo pokrenuti Chromium za # sekundi}}</translation>
-<translation id="6241367896540709610">Chromium-u treba pristup memorijskom prostoru da bi preuzimao fajlove</translation>
-<translation id="6245734527075554892">Proverava URL-ove sa listom nebezbednih sajtova koji se čuvaju u Chromium-u</translation>
-<translation id="6248213926982192922">Podesi Chromium za podrazumevani pregledač</translation>
-<translation id="6266342355635466082">Chromium ne može da traži ažuriranja. Proverite internet vezu.</translation>
-<translation id="6268381023930128611">Želite li da se odjavite iz Chromium-a?</translation>
+<translation id="584202866735675117">Prilagodite i kontrolišite WEB3 DNA Browser. Dostupno je ažuriranje.</translation>
+<translation id="7117732708950464239">Dozvoli dodatku da prikazuje zahteve za pristup na WEB3 DNA Browser traci s alatkama</translation>
+<translation id="5619841049631523040">WEB3 DNA Browser će sačuvati ovu lozinku na Google nalogu. Nećete morati da je pamtite.</translation>
+<translation id="6208909969393126843">Datoteka <ph name="FILE_NAME" /> je opasna, pa ju je WEB3 DNA Browser blokirao.</translation>
+<translation id="3631145753627335779">Bezbedno pregledanje je isključeno. WEB3 DNA Browser preporučuje da ga uključite.</translation>
+<translation id="5305820434154384954">Ovde možete da prelazite sa jednog WEB3 DNA Browser profila na drugi</translation>
+<translation id="3213257950272370797">Uverite se da ste prijavljeni u WEB3 DNA Browser na uređaju <ph name="TARGET_DEVICE_NAME" /> i probajte da pošaljete ponovo.</translation>
+<translation id="4829390996077196027">Ovaj računar već ima noviju verziju WEB3 DNA Browser-a. Ako softver ne funkcioniše, deinstalirajte WEB3 DNA Browser i pokušajte ponovo.</translation>
+<translation id="1584253311175653367">{0,plural, =0{Ponovo ćemo pokrenuti WEB3 DNA Browser}=1{Ponovo ćemo pokrenuti WEB3 DNA Browser za 1 sekundu}one{Ponovo ćemo pokrenuti WEB3 DNA Browser za # sekundu}few{Ponovo ćemo pokrenuti WEB3 DNA Browser za # sekunde}other{Ponovo ćemo pokrenuti WEB3 DNA Browser za # sekundi}}</translation>
+<translation id="2125787073718346702">WEB3 DNA Browser-u treba pristup memorijskom prostoru da bi preuzimao fajlove</translation>
+<translation id="7121868166864824169">Proverava URL-ove sa listom nebezbednih sajtova koji se čuvaju u WEB3 DNA Browser-u</translation>
+<translation id="4611945660893475598">Podesi WEB3 DNA Browser za podrazumevani pregledač</translation>
+<translation id="5093746667503154407">WEB3 DNA Browser ne može da traži ažuriranja. Proverite internet vezu.</translation>
+<translation id="3169777041995452544">Želite li da se odjavite iz WEB3 DNA Browser-a?</translation>
 <translation id="6273793429163604305">Pripremate se...</translation>
-<translation id="6281746429495226318">Prilagodite Chromium profil</translation>
-<translation id="6290827346642914212">Dajte naziv Chromium profilu</translation>
-<translation id="6295779123002464101">Datoteka <ph name="FILE_NAME" /> je možda opasna, pa ju je Chromium blokirao.</translation>
-<translation id="6309712487085796862">Chromium koristi kameru.</translation>
-<translation id="632355235628111698">Chromium je blokirao ovaj fajl jer je opasan</translation>
+<translation id="6865466134977675861">Prilagodite WEB3 DNA Browser profil</translation>
+<translation id="3066241024811585202">Dajte naziv WEB3 DNA Browser profilu</translation>
+<translation id="4551717314122756729">Datoteka <ph name="FILE_NAME" /> je možda opasna, pa ju je WEB3 DNA Browser blokirao.</translation>
+<translation id="3046912207030099554">WEB3 DNA Browser koristi kameru.</translation>
+<translation id="6384166038402983055">WEB3 DNA Browser je blokirao ovaj fajl jer je opasan</translation>
 <translation id="6327105987658262776">Nema dostupnih ažuriranja.</translation>
-<translation id="6333502561965082103">Druga radnja u Chromium-u je u toku. Probajte ponovo kasnije.</translation>
-<translation id="6334986366598267305">Sada možete lakše da koristite Chromium sa Google nalogom i na deljenim računarima.</translation>
-<translation id="6373523479360886564">Jeste li sigurni da želite da deinstalirate Chromium?</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Kako koristimo ove podatke:<ph name="END_BOLD" /> Chromium može da proceni vaša interesovanja. Sajt koji kasnije posetite može da zatraži od Chromium-a pristup vašim interesovanjima da bi personalizovao oglase koji vam se prikazuju.</translation>
-<translation id="6403826409255603130">Chromium je veb pregledač koji pokreće veb-stranice i aplikacije munjevitom brzinom. Brz je, stabilan i jednostavan za korišćenje. Pregledajte Veb bezbednije sa zaštitom od malvera i „pecanja“ koja je ugrađena u Chromium.</translation>
+<translation id="1452531430459107501">Druga radnja u WEB3 DNA Browser-u je u toku. Probajte ponovo kasnije.</translation>
+<translation id="5949643712250952992">Sada možete lakše da koristite WEB3 DNA Browser sa Google nalogom i na deljenim računarima.</translation>
+<translation id="3428207813941614733">Jeste li sigurni da želite da deinstalirate WEB3 DNA Browser?</translation>
+<translation id="8367277764281804913"><ph name="BEGIN_BOLD" />Kako koristimo ove podatke:<ph name="END_BOLD" /> WEB3 DNA Browser može da proceni vaša interesovanja. Sajt koji kasnije posetite može da zatraži od WEB3 DNA Browser-a pristup vašim interesovanjima da bi personalizovao oglase koji vam se prikazuju.</translation>
+<translation id="3646769559663834227">WEB3 DNA Browser je veb pregledač koji pokreće veb-stranice i aplikacije munjevitom brzinom. Brz je, stabilan i jednostavan za korišćenje. Pregledajte Veb bezbednije sa zaštitom od malvera i „pecanja“ koja je ugrađena u WEB3 DNA Browser.</translation>
 <translation id="6442900851116057561">Restartujte Chromium OS</translation>
-<translation id="6455857529632101747">Dobro došli u Chromium profile</translation>
-<translation id="6457450909262716557">{SECONDS,plural, =1{Chromium će se restartovati za 1 sekundu}one{Chromium će se restartovati za # sekundu}few{Chromium će se restartovati za # sekunde}other{Chromium će se restartovati za # sekundi}}</translation>
-<translation id="6475912303565314141">Kontroliše i stranicu koja se prikazuje kada pokrenete Chromium.</translation>
-<translation id="6510925080656968729">Deinstaliraj Chromium</translation>
-<translation id="6542839706527980775">Svaki profil zadržava sopstvene Chromium podatke, poput obeleživača, istorije, lozinki i drugog sadržaja</translation>
-<translation id="6570579332384693436">Da bi ispravio pravopisne greške, Chromium šalje Google-ovim serverima tekst koji unosite u polja za tekst.</translation>
-<translation id="6598877126913850652">Idi na podešavanja obaveštenja za Chromium</translation>
-<translation id="6613594504749178791">Promene će stupiti na snagu kada sledeći put ponovo pokrenete Chromium.</translation>
-<translation id="665732753414869868">Chromium-u treba dozvola za kameru da bi napravio 3D mapu okruženja</translation>
+<translation id="4806322893637813344">Dobro došli u WEB3 DNA Browser profile</translation>
+<translation id="3150453102283643478">{SECONDS,plural, =1{WEB3 DNA Browser će se restartovati za 1 sekundu}one{WEB3 DNA Browser će se restartovati za # sekundu}few{WEB3 DNA Browser će se restartovati za # sekunde}other{WEB3 DNA Browser će se restartovati za # sekundi}}</translation>
+<translation id="6475912303565314141">Kontroliše i stranicu koja se prikazuje kada pokrenete WEB3 DNA Browser.</translation>
+<translation id="1113676425111919541">Deinstaliraj WEB3 DNA Browser</translation>
+<translation id="4127557045835948655">Svaki profil zadržava sopstvene WEB3 DNA Browser podatke, poput obeleživača, istorije, lozinki i drugog sadržaja</translation>
+<translation id="82412484113149506">Da bi ispravio pravopisne greške, WEB3 DNA Browser šalje Google-ovim serverima tekst koji unosite u polja za tekst.</translation>
+<translation id="1041508100495026545">Idi na podešavanja obaveštenja za WEB3 DNA Browser</translation>
+<translation id="8823298025665339355">Promene će stupiti na snagu kada sledeći put ponovo pokrenete WEB3 DNA Browser.</translation>
+<translation id="2513279141152484388">WEB3 DNA Browser-u treba dozvola za kameru da bi napravio 3D mapu okruženja</translation>
 <translation id="6676384891291319759">Pristupite Internetu</translation>
 <translation id="668175097507315160">Chromium OS ne može da sinhronizuje podatke zbog greške pri prijavljivanju.</translation>
-<translation id="6709350901466051922">Chromium-u treba dozvola za mikrofon za ovaj sajt</translation>
-<translation id="6717134281241384636">Profil ne može da se koristi jer je iz novije verzije Chromium-a.
+<translation id="3485439540953416536">WEB3 DNA Browser-u treba dozvola za mikrofon za ovaj sajt</translation>
+<translation id="3898949707616141056">Profil ne može da se koristi jer je iz novije verzije WEB3 DNA Browser-a.
 
-Neke funkcije će možda biti nedostupne. Navedite drugi direktorijum profila ili koristite noviju verziju Chromium-a.</translation>
-<translation id="6730677189742196061">Ušteda memorije je ubrzala Chromium</translation>
-<translation id="6734291798041940871">Chromium je već instaliran za sve korisnike na računaru.</translation>
-<translation id="673636774878526923">Da biste pristupali Chromium sadržaju na svim uređajima, prijavite se, pa uključite sinhronizaciju.</translation>
-<translation id="6774082503108938489">Roditelj je isključio Dozvole za sajtove, aplikacije i dodatke za Chromium. Omogućavanje ove stavke (<ph name="EXTENSION_TYPE_PARAMETER" />) nije dozvoljeno.</translation>
+Neke funkcije će možda biti nedostupne. Navedite drugi direktorijum profila ili koristite noviju verziju WEB3 DNA Browser-a.</translation>
+<translation id="2841305420532702376">Ušteda memorije je ubrzala WEB3 DNA Browser</translation>
+<translation id="4553621150701650138">WEB3 DNA Browser je već instaliran za sve korisnike na računaru.</translation>
+<translation id="3957858324423880626">Da biste pristupali WEB3 DNA Browser sadržaju na svim uređajima, prijavite se, pa uključite sinhronizaciju.</translation>
+<translation id="1489635928648141251">Roditelj je isključio Dozvole za sajtove, aplikacije i dodatke za WEB3 DNA Browser. Omogućavanje ove stavke (<ph name="EXTENSION_TYPE_PARAMETER" />) nije dozvoljeno.</translation>
 <translation id="6779406956731413166">Chromium OS omogućava dodatni <ph name="BEGIN_LINK_CROS_OSS" />softver otvorenog koda<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="6847869444787758381">Chromium vas obaveštava ako su lozinke ugrožene</translation>
-<translation id="6852530923436401894">Chromium je blokirao ovaj fajl jer sadrži malver</translation>
-<translation id="6857782730669500492">Chromium – <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">Google Pay (kopirano u Chromium)</translation>
-<translation id="6873893289264747459">Chromium je otkrio da <ph name="EXTENSION_NAME" /> sadrži malver</translation>
-<translation id="6893813176749746474">Chromium je ažuriran, ali ga niste koristili najmanje 30 dana.</translation>
-<translation id="691026815377248078">Chromium zahteva pristup Bluetooth-u radi nastavljanja sa 
+<translation id="6798439930306865443">WEB3 DNA Browser vas obaveštava ako su lozinke ugrožene</translation>
+<translation id="877665203225711835">WEB3 DNA Browser je blokirao ovaj fajl jer sadrži malver</translation>
+<translation id="7732765206800238484">WEB3 DNA Browser – <ph name="PAGE_TITLE" /></translation>
+<translation id="2089740034323086528">Google Pay (kopirano u WEB3 DNA Browser)</translation>
+<translation id="2329130305935541101">WEB3 DNA Browser je otkrio da <ph name="EXTENSION_NAME" /> sadrži malver</translation>
+<translation id="2947483933825476413">WEB3 DNA Browser je ažuriran, ali ga niste koristili najmanje 30 dana.</translation>
+<translation id="8828344991758417694">WEB3 DNA Browser zahteva pristup Bluetooth-u radi nastavljanja sa 
  uparivanjem. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Dok probni periodi traju, Merenje oglasa omogućava sajtovima koje posećujete da od Chromium-a zatraže informacije koje sajtu pomažu da meri učinak oglasa. Merenje oglasa ograničava praćenje na više sajtova tako što prenosi što manje informacija između sajtova.</translation>
-<translation id="6940431691900807093">Sajt koji kasnije posetite može da zatraži od Chromium-a pristup vašim interesovanjima da bi personalizovao oglase koji vam se prikazuju. Chromium može da deli najviše 3 interesovanja.</translation>
-<translation id="6964305034639999644">Otvori link u Chromium prozoru bez arhi&amp;viranja</translation>
-<translation id="6978145336957848883">Slabe lozinke lako mogu da se pogode. Dozvolite da Chromium <ph name="BEGIN_LINK" />pravi i pamti jake lozinke za vas<ph name="END_LINK" />.</translation>
-<translation id="6984667024406244807">Chromium je neaktivan</translation>
+<translation id="9067852028442542655">Dok probni periodi traju, Merenje oglasa omogućava sajtovima koje posećujete da od WEB3 DNA Browser-a zatraže informacije koje sajtu pomažu da meri učinak oglasa. Merenje oglasa ograničava praćenje na više sajtova tako što prenosi što manje informacija između sajtova.</translation>
+<translation id="6638774777596425412">Sajt koji kasnije posetite može da zatraži od WEB3 DNA Browser-a pristup vašim interesovanjima da bi personalizovao oglase koji vam se prikazuju. WEB3 DNA Browser može da deli najviše 3 interesovanja.</translation>
+<translation id="1618581910910744310">Otvori link u WEB3 DNA Browser prozoru bez arhi&amp;viranja</translation>
+<translation id="1141174083986936166">Slabe lozinke lako mogu da se pogode. Dozvolite da WEB3 DNA Browser <ph name="BEGIN_LINK" />pravi i pamti jake lozinke za vas<ph name="END_LINK" />.</translation>
+<translation id="1422439798626251044">WEB3 DNA Browser je neaktivan</translation>
 <translation id="6985329841647292029">Chromium OS uslovi</translation>
-<translation id="6990124437352146030">Chromium traži dozvolu da pristupi mikrofonu za ovaj sajt</translation>
+<translation id="8045464583440265694">WEB3 DNA Browser traži dozvolu da pristupi mikrofonu za ovaj sajt</translation>
 <translation id="7025789849649390912">Instalacija je prekinuta.</translation>
-<translation id="705851970750939768">Ažuriraj Chromium</translation>
-<translation id="7067091210845072982">Ako slika nema koristan opis, Chromium će probati da vam ga pruži. Slike se šalju Google-u radi pravljenja opisa.</translation>
-<translation id="718435575166326686">Chromium-u treba dozvola za kameru za ovaj sajt</translation>
-<translation id="7196312274710523067">Nije moguće pokrenuti Chromium. Pokušajte ponovo.</translation>
-<translation id="7197677400338048821">Chromium ne može da vam proverava lozinke. Probajte ponovo za 24 sata.</translation>
-<translation id="7218568399872925918">Sajtovi koje posećujete pamte vaše informacije dok ne zatvorite Chromium</translation>
-<translation id="7223968959479464213">Menadžer zadataka – Chromium</translation>
-<translation id="7246575524853130370">Vaša interesovanja prema proceni Chromium-a</translation>
-<translation id="7309928523159922338">Merenje oglasa omogućava sajtovima koje posećujete da od Chromium-a zatraže informacije koje sajtu pomažu da meri učinak oglasa. Merenje oglasa ograničava praćenje na više sajtova tako što prenosi što manje informacija između sajtova.</translation>
-<translation id="731795002583552498">Ažuriranje Chromium-a</translation>
-<translation id="7318036098707714271">Datoteka podešavanja je oštećena ili nevažeća.
+<translation id="475843105037256922">Ažuriraj WEB3 DNA Browser</translation>
+<translation id="326486748351990910">Ako slika nema koristan opis, WEB3 DNA Browser će probati da vam ga pruži. Slike se šalju Google-u radi pravljenja opisa.</translation>
+<translation id="5618043080831675837">WEB3 DNA Browser-u treba dozvola za kameru za ovaj sajt</translation>
+<translation id="6831720849639347633">Nije moguće pokrenuti WEB3 DNA Browser. Pokušajte ponovo.</translation>
+<translation id="7914905542208857296">WEB3 DNA Browser ne može da vam proverava lozinke. Probajte ponovo za 24 sata.</translation>
+<translation id="2219572028161280443">Sajtovi koje posećujete pamte vaše informacije dok ne zatvorite WEB3 DNA Browser</translation>
+<translation id="3988179273882088670">Menadžer zadataka – WEB3 DNA Browser</translation>
+<translation id="8082426603469914763">Vaša interesovanja prema proceni WEB3 DNA Browser-a</translation>
+<translation id="3791422786486318548">Merenje oglasa omogućava sajtovima koje posećujete da od WEB3 DNA Browser-a zatraže informacije koje sajtu pomažu da meri učinak oglasa. Merenje oglasa ograničava praćenje na više sajtova tako što prenosi što manje informacija između sajtova.</translation>
+<translation id="3826673197841439968">Ažuriranje WEB3 DNA Browser-a</translation>
+<translation id="3105300744480734014">Datoteka podešavanja je oštećena ili nevažeća.
 
-Chromium ne može da vrati podešavanja.</translation>
-<translation id="7337881442233988129">Chromium</translation>
+WEB3 DNA Browser ne može da vrati podešavanja.</translation>
+<translation id="4691707200828155405">WEB3 DNA Browser</translation>
 <translation id="7339898014177206373">Novi prozor</translation>
-<translation id="734373864078049451">Veb, obeleživači i drugi Chromium sadržaj se ovde uživo prikazuju.</translation>
-<translation id="7349591376906416160">Administrator sistema je konfigurisao Chromium da otvara pregledač <ph name="ALTERNATIVE_BROWSER_NAME" /> da bi pristupao <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7398989605938454041">Pomoću Chromium profila možete da razdvojite sve Chromium sadržaje. Na taj način ćete lakše moći da razdvojite posao i zabavu.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> – Programerska verzija Chromium-a</translation>
-<translation id="7451052299415159299">Chromium traži dozvolu da pristupi kameri za ovaj sajt</translation>
-<translation id="7461356015007898716">Da biste dobijali buduća Chromium ažuriranja, treba vam Windows 10 ili novija verzija. Ovaj računar koristi Windows 7.</translation>
-<translation id="7467949745582939695">Želite ponovo da pokrenete Chromium?</translation>
-<translation id="7483335560992089831">Nije moguće instalirati istu verziju Chromium-a koja se trenutno koristi. Zatvorite Chromium i pokušajte ponovo.</translation>
-<translation id="753534427205733210">{0,plural, =1{Ponovo ćemo pokrenuti Chromium za 1 minut}one{Ponovo ćemo pokrenuti Chromium # minut}few{Ponovo ćemo pokrenuti Chromium # minuta}other{Ponovo ćemo pokrenuti Chromium # minuta}}</translation>
-<translation id="7561906087460245826">Obriši podatke i iz Chromium-a (<ph name="URL" />)</translation>
-<translation id="7582945390259497898">Chromium može da proceni vaša interesovanja. Sajt koji kasnije posetite može da zatraži od Chromium-a pristup vašim interesovanjima da bi personalizovao oglase koji vam se prikazuju.</translation>
+<translation id="866415121309420782">Veb, obeleživači i drugi WEB3 DNA Browser sadržaj se ovde uživo prikazuju.</translation>
+<translation id="2516718275146731816">Administrator sistema je konfigurisao WEB3 DNA Browser da otvara pregledač <ph name="ALTERNATIVE_BROWSER_NAME" /> da bi pristupao <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="5218043865814307173">Pomoću WEB3 DNA Browser profila možete da razdvojite sve WEB3 DNA Browser sadržaje. Na taj način ćete lakše moći da razdvojite posao i zabavu.</translation>
+<translation id="5690617926609878272"><ph name="PAGE_TITLE" /> – Programerska verzija WEB3 DNA Browser-a</translation>
+<translation id="3479625329890795142">WEB3 DNA Browser traži dozvolu da pristupi kameri za ovaj sajt</translation>
+<translation id="3327138471292503109">Da biste dobijali buduća WEB3 DNA Browser ažuriranja, treba vam Windows 10 ili novija verzija. Ovaj računar koristi Windows 7.</translation>
+<translation id="570029382864869633">Želite ponovo da pokrenete WEB3 DNA Browser?</translation>
+<translation id="7081567920020845898">Nije moguće instalirati istu verziju WEB3 DNA Browser-a koja se trenutno koristi. Zatvorite WEB3 DNA Browser i pokušajte ponovo.</translation>
+<translation id="2308694661846361163">{0,plural, =1{Ponovo ćemo pokrenuti WEB3 DNA Browser za 1 minut}one{Ponovo ćemo pokrenuti WEB3 DNA Browser # minut}few{Ponovo ćemo pokrenuti WEB3 DNA Browser # minuta}other{Ponovo ćemo pokrenuti WEB3 DNA Browser # minuta}}</translation>
+<translation id="7403013663461228352">Obriši podatke i iz WEB3 DNA Browser-a (<ph name="URL" />)</translation>
+<translation id="5628570284195611526">WEB3 DNA Browser može da proceni vaša interesovanja. Sajt koji kasnije posetite može da zatraži od WEB3 DNA Browser-a pristup vašim interesovanjima da bi personalizovao oglase koji vam se prikazuju.</translation>
 <translation id="7583399374488819119"><ph name="COMPANY_NAME" /> program za instalaciju</translation>
-<translation id="7597596667193879455">Uključili ste poboljšano bezbedno pregledanje na nalogu. Uključite ga i za Chromium.</translation>
-<translation id="761356813943268536">Chromium koristi kameru i mikrofon.</translation>
-<translation id="7617377681829253106">Upravo smo poboljšali Chromium</translation>
+<translation id="18937021822671718">Uključili ste poboljšano bezbedno pregledanje na nalogu. Uključite ga i za WEB3 DNA Browser.</translation>
+<translation id="2422729508884289622">WEB3 DNA Browser koristi kameru i mikrofon.</translation>
+<translation id="7649176261008984828">Upravo smo poboljšali WEB3 DNA Browser</translation>
 <translation id="7649070708921625228">Pomoć</translation>
-<translation id="7682213815243802460">Više o ovim funkcijama možete da saznate u podešavanjima Chromium-a.</translation>
-<translation id="7682601070171973634">Chromium istražuje nove funkcije koje omogućavaju sajtovima da pružaju isti doživljaj pregledanja, a da koriste manje podataka</translation>
-<translation id="7686590090926151193">Chromium nije podrazumevani pregledač</translation>
-<translation id="7689606757190482937">Sinhronizujte i personalizujte Chromium na svim uređajima</translation>
-<translation id="7745317241717453663">Ovim ćete izbrisati podatke pregledanja sa ovog uređaja. Da biste kasnije vratili podatke, prijavite se u Chromium kao <ph name="USER_EMAIL" />.</translation>
+<translation id="5663191066657660868">Više o ovim funkcijama možete da saznate u podešavanjima WEB3 DNA Browser-a.</translation>
+<translation id="1180711544607099420">WEB3 DNA Browser istražuje nove funkcije koje omogućavaju sajtovima da pružaju isti doživljaj pregledanja, a da koriste manje podataka</translation>
+<translation id="1427927054102592884">WEB3 DNA Browser nije podrazumevani pregledač</translation>
+<translation id="7195845268083706212">Sinhronizujte i personalizujte WEB3 DNA Browser na svim uređajima</translation>
+<translation id="4540014860380760179">Ovim ćete izbrisati podatke pregledanja sa ovog uređaja. Da biste kasnije vratili podatke, prijavite se u WEB3 DNA Browser kao <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Program za instalaciju nije mogao da napravi privremeni direktorijum. Proverite da li imate slobodnog prostora na disku, kao i dozvolu da instalirate softver.</translation>
-<translation id="7786760609782648049">Ubrzajte Chromium</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> – Chromium Canary</translation>
-<translation id="7828947555739565424">Chromium profil sa ovim nalogom već postoji na ovom uređaju</translation>
+<translation id="3341158123816213810">Ubrzajte WEB3 DNA Browser</translation>
+<translation id="6564515530956462009"><ph name="PAGE_TITLE" /> – WEB3 DNA Browser Canary</translation>
+<translation id="8502268940781535829">WEB3 DNA Browser profil sa ovim nalogom već postoji na ovom uređaju</translation>
 <translation id="7845233973568007926">Hvala vam na instalaciji. Morate da restartujete računar pre nego što počnete da koristite <ph name="BUNDLE_NAME" />.</translation>
-<translation id="7867198900892795913">Chromium nije uspeo da se ažurira na najnoviju verziju, pa propuštate nove funkcije i bezbednosne ispravke.</translation>
+<translation id="5422417406245013307">WEB3 DNA Browser nije uspeo da se ažurira na najnoviju verziju, pa propuštate nove funkcije i bezbednosne ispravke.</translation>
 <translation id="7872446069773932638">Preuzima se... Još <ph name="SECONDS" /> sek</translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Kako možete da upravljate podacima:<ph name="END_BOLD" /> Radi zaštite privatnosti automatski brišemo interesovanja starija od 4 nedelje. Kada nastavite da pregledate, interesovanje će se možda ponovo pojaviti na listi. Možete i da uklanjate interesovanja za koja ne želite da ih Chromium uzima u obzir.</translation>
-<translation id="7937630085815544518">Bili ste prijavljeni na Chromium kao <ph name="USER_EMAIL_ADDRESS" />. Koristite isti nalog da biste se ponovo prijavili.</translation>
-<translation id="7975919845073681630">Ovo je sekundarna instalacija Chromium-a pa ne možete da ga podesite kao podrazumevani pregledač.</translation>
-<translation id="7997934263947464652">Dodaci, aplikacije i teme iz nepoznatih izvora mogu da naškode uređaju. Chromium preporučuje da ih instalirate samo iz: <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
-<translation id="8013436988911883588">Kada Chromium dobije pristup, veb-sajtovi će moći da zatraže pristup.</translation>
+<translation id="6590823489474620893"><ph name="BEGIN_BOLD" />Kako možete da upravljate podacima:<ph name="END_BOLD" /> Radi zaštite privatnosti automatski brišemo interesovanja starija od 4 nedelje. Kada nastavite da pregledate, interesovanje će se možda ponovo pojaviti na listi. Možete i da uklanjate interesovanja za koja ne želite da ih WEB3 DNA Browser uzima u obzir.</translation>
+<translation id="7280500878215405781">Bili ste prijavljeni na WEB3 DNA Browser kao <ph name="USER_EMAIL_ADDRESS" />. Koristite isti nalog da biste se ponovo prijavili.</translation>
+<translation id="2253021454574730566">Ovo je sekundarna instalacija WEB3 DNA Browser-a pa ne možete da ga podesite kao podrazumevani pregledač.</translation>
+<translation id="2180063386451170761">Dodaci, aplikacije i teme iz nepoznatih izvora mogu da naškode uređaju. WEB3 DNA Browser preporučuje da ih instalirate samo iz: <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
+<translation id="1446133009793910887">Kada WEB3 DNA Browser dobije pristup, veb-sajtovi će moći da zatraže pristup.</translation>
 <translation id="80471789339884597">Hvala vam na instalaciji. Morate da restartujete sve pregledače pre nego što počnete da koristite <ph name="BUNDLE_NAME" />.</translation>
-<translation id="8105840573057009683">Chromium-u treba dozvola za lokaciju za ovaj sajt</translation>
+<translation id="3869525261991846539">WEB3 DNA Browser-u treba dozvola za lokaciju za ovaj sajt</translation>
 <translation id="8133124826068723441">Chromium OS ne može da sinhronizuje podatke jer Sinhronizacija nije dostupna za domen.</translation>
 <translation id="813913629614996137">Pokreće se…</translation>
-<translation id="81770708095080097">Ova datoteka je opasna, pa ju je Chromium blokirao.</translation>
-<translation id="8213374284266571500">Chromium je blokirao ovaj fajl jer je ovaj tip fajla opasan</translation>
-<translation id="8248265253516264921">Ako slika nema koristan opis, Chromium će probati da vam ga pruži. Slike se šalju Google-u radi pravljenja opisa. To možete da isključite u podešavanjima u svakom trenutku.</translation>
-<translation id="8266560134891435528">Chromium ne može da vam proverava lozinke zato što niste prijavljeni</translation>
-<translation id="8276522524898344151">Chromium pokušava da kopira lozinke.</translation>
-<translation id="8290862415967981663">Ova datoteka je možda opasna, pa ju je Chromium blokirao.</translation>
-<translation id="8330519371938183845">Prijavite se da biste sinhronizovali i personalizovali Chromium na svim uređajima</translation>
-<translation id="8340674089072921962">Korisnik <ph name="USER_EMAIL_ADDRESS" /> je prethodno koristio Chromium</translation>
-<translation id="8357820681460164151">Da biste pristupali Chromium pregledaču na svim uređajima, prijavite se, pa uključite sinhronizaciju</translation>
-<translation id="8360718212975266891">Da biste dobijali buduća Chromium ažuriranja, treba vam Windows 10 ili novija verzija. Ovaj računar koristi Windows 8.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Ponovo pokrenite Chromium za jedan dan}one{Ponovo pokrenite Chromium za # dan}few{Ponovo pokrenite Chromium za # dana}other{Ponovo pokrenite Chromium za # dana}}</translation>
-<translation id="8453117565092476964">Arhiva programa za instalaciju je oštećena ili nevažeća. Preuzmite Chromium ponovo.</translation>
+<translation id="6871375725780252705">Ova datoteka je opasna, pa ju je WEB3 DNA Browser blokirao.</translation>
+<translation id="8821717781402291672">WEB3 DNA Browser je blokirao ovaj fajl jer je ovaj tip fajla opasan</translation>
+<translation id="8394136310056741303">Ako slika nema koristan opis, WEB3 DNA Browser će probati da vam ga pruži. Slike se šalju Google-u radi pravljenja opisa. To možete da isključite u podešavanjima u svakom trenutku.</translation>
+<translation id="4863557335992202213">WEB3 DNA Browser ne može da vam proverava lozinke zato što niste prijavljeni</translation>
+<translation id="8332908002682218419">WEB3 DNA Browser pokušava da kopira lozinke.</translation>
+<translation id="3862328687893385239">Ova datoteka je možda opasna, pa ju je WEB3 DNA Browser blokirao.</translation>
+<translation id="7450630974943556627">Prijavite se da biste sinhronizovali i personalizovali WEB3 DNA Browser na svim uređajima</translation>
+<translation id="8910359951607649198">Korisnik <ph name="USER_EMAIL_ADDRESS" /> je prethodno koristio WEB3 DNA Browser</translation>
+<translation id="7837286795552251352">Da biste pristupali WEB3 DNA Browser pregledaču na svim uređajima, prijavite se, pa uključite sinhronizaciju</translation>
+<translation id="4231941262737361466">Da biste dobijali buduća WEB3 DNA Browser ažuriranja, treba vam Windows 10 ili novija verzija. Ovaj računar koristi Windows 8.</translation>
+<translation id="4708615805477131870">{0,plural, =1{Ponovo pokrenite WEB3 DNA Browser za jedan dan}one{Ponovo pokrenite WEB3 DNA Browser za # dan}few{Ponovo pokrenite WEB3 DNA Browser za # dana}other{Ponovo pokrenite WEB3 DNA Browser za # dana}}</translation>
+<translation id="8293407095466346653">Arhiva programa za instalaciju je oštećena ili nevažeća. Preuzmite WEB3 DNA Browser ponovo.</translation>
 <translation id="8463672209299734063">Opcionalno: Automatski šaljite Google-u dijagnostiku i podatke o korišćenju da biste nam pomogli da poboljšamo funkcije i učinak Chromium OS-a.</translation>
-<translation id="8493179195440786826">Chromium je zastareo</translation>
+<translation id="2275026549113043779">WEB3 DNA Browser je zastareo</translation>
 <translation id="8550334526674375523">Ovaj poslovni profil je potpuno odvojen od ličnog profila.</translation>
-<translation id="8558383651099478961">Roditelj je isključio Dozvole za sajtove, aplikacije i dodatke za Chromium. Dodavanje ove stavke (<ph name="EXTENSION_TYPE_PARAMETER" />) nije dozvoljeno.</translation>
-<translation id="8561285221328166383">Da biste dobijali buduća Chromium ažuriranja, treba vam macOS 10.13 ili novija verzija. Ovaj računar koristi macOS 10.12.</translation>
-<translation id="8568283329061645092">Chromium može da vam proverava lozinke kada se prijavite pomoću Google naloga</translation>
-<translation id="8574036838419011058">Kada je uključena, Chromium štedi bateriju tako što ograničava aktivnosti u pozadini i vizuelne efekte, kao što je glatko skrolovanje i brzine kadrova u videu. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /></translation>
-<translation id="8586442755830160949">Autorska prava <ph name="YEAR" />. Autori Chromium-a. Sva prava zadržana.</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Kako koristimo ove podatke:<ph name="END_BOLD" /> Sajtovi mogu da čuvaju informacije o vašim interesovanjima u Chromium-u. Na primer, ako posetite sajt da biste kupili patike za maraton, taj sajt može da definiše vaše interesovanje kao trčanje maratona. Kasnije, ako posetite neki drugi sajt da biste se prijavili za trku, taj sajt može da vam prikaže oglas za patike za trčanje na osnovu interesovanja.</translation>
-<translation id="8619360774459241877">Pokreće se Chromium...</translation>
-<translation id="8621669128220841554">Instalacija nije uspela zbog neodređene greške. Preuzmite Chromium ponovo.</translation>
-<translation id="8697124171261953979">Kontroliše i stranicu koja se prikazuje kada pokrenete Chromium ili pretražujete iz omniboksa.</translation>
-<translation id="8704119203788522458">Ovo je vaš Chromium</translation>
-<translation id="8713679423359107094">Kada zatvorite sve Chromium prozore, podaci o kolačićima i sajtovima se automatski brišu</translation>
-<translation id="8796443464227412154">Bićete <ph name="BEGIN_BOLD" />odjavljeni sa većine sajtova<ph name="END_BOLD" /> kada zatvorite Chromium. Ako je sinhronizacija isključena, takođe ćete biti <ph name="BEGIN_BOLD" />odjavljeni iz Google usluga i Chromium-a<ph name="END_BOLD" />.</translation>
-<translation id="8796602469536043152">Chromium traži dozvolu da pristupi kameri i mikrofonu za ovaj sajt</translation>
+<translation id="3829194378861761606">Roditelj je isključio Dozvole za sajtove, aplikacije i dodatke za WEB3 DNA Browser. Dodavanje ove stavke (<ph name="EXTENSION_TYPE_PARAMETER" />) nije dozvoljeno.</translation>
+<translation id="6148620910029690666">Da biste dobijali buduća WEB3 DNA Browser ažuriranja, treba vam macOS 10.13 ili novija verzija. Ovaj računar koristi macOS 10.12.</translation>
+<translation id="1246723111619277441">WEB3 DNA Browser može da vam proverava lozinke kada se prijavite pomoću Google naloga</translation>
+<translation id="7115352036028984404">Kada je uključena, WEB3 DNA Browser štedi bateriju tako što ograničava aktivnosti u pozadini i vizuelne efekte, kao što je glatko skrolovanje i brzine kadrova u videu. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /></translation>
+<translation id="4799188800355420938">Autorska prava <ph name="YEAR" />. Autori WEB3 DNA Browser-a. Sva prava zadržana.</translation>
+<translation id="1392803118131207008"><ph name="BEGIN_BOLD" />Kako koristimo ove podatke:<ph name="END_BOLD" /> Sajtovi mogu da čuvaju informacije o vašim interesovanjima u WEB3 DNA Browser-u. Na primer, ako posetite sajt da biste kupili patike za maraton, taj sajt može da definiše vaše interesovanje kao trčanje maratona. Kasnije, ako posetite neki drugi sajt da biste se prijavili za trku, taj sajt može da vam prikaže oglas za patike za trčanje na osnovu interesovanja.</translation>
+<translation id="5546249279042208244">Pokreće se WEB3 DNA Browser...</translation>
+<translation id="5255237181758616742">Instalacija nije uspela zbog neodređene greške. Preuzmite WEB3 DNA Browser ponovo.</translation>
+<translation id="8697124171261953979">Kontroliše i stranicu koja se prikazuje kada pokrenete WEB3 DNA Browser ili pretražujete iz omniboksa.</translation>
+<translation id="4220559821674570264">Ovo je vaš WEB3 DNA Browser</translation>
+<translation id="8072998028605263569">Kada zatvorite sve WEB3 DNA Browser prozore, podaci o kolačićima i sajtovima se automatski brišu</translation>
+<translation id="6903751245620697304">Bićete <ph name="BEGIN_BOLD" />odjavljeni sa većine sajtova<ph name="END_BOLD" /> kada zatvorite WEB3 DNA Browser. Ako je sinhronizacija isključena, takođe ćete biti <ph name="BEGIN_BOLD" />odjavljeni iz Google usluga i WEB3 DNA Browser-a<ph name="END_BOLD" />.</translation>
+<translation id="7277260025828649281">WEB3 DNA Browser traži dozvolu da pristupi kameri i mikrofonu za ovaj sajt</translation>
 <translation id="8833697763442816810">Sistem Chromium OS</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Koji podaci se koriste:<ph name="END_BOLD" /> Istorija pregledanja, evidencija sajtova koje ste posetili pomoću Chromium-a na ovom uređaju.</translation>
+<translation id="7404934872971073925"><ph name="BEGIN_BOLD" />Koji podaci se koriste:<ph name="END_BOLD" /> Istorija pregledanja, evidencija sajtova koje ste posetili pomoću WEB3 DNA Browser-a na ovom uređaju.</translation>
 <translation id="8862326446509486874">Nemate odgovarajuća prava za instalaciju na nivou sistema. Probajte ponovo da pokrenete program za instalaciju, ovoga puta kao administrator.</translation>
-<translation id="8880203542552872219">Ako je tako, izmenite sačuvanu lozinku u Chromium-u tako da se podudara sa novom lozinkom.</translation>
-<translation id="8897323336392112261">Kontroliše i stranicu koja se prikazuje kada pokrenete Chromium ili kliknete na dugme Početak.</translation>
-<translation id="8907580949721785412">Chromium pokušava da prikaže lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
-<translation id="8931379085695076764">Chromium može da proceni interesovanja na osnovu istorije pregledanja iz poslednjih nekoliko nedelja. Te informacije ostaju na uređaju.</translation>
-<translation id="8941642502866065432">Ne možete da ažurirate Chromium</translation>
-<translation id="897581876605952338">Logotip Chromium-a za preduzeća</translation>
+<translation id="8304007095757244531">Ako je tako, izmenite sačuvanu lozinku u WEB3 DNA Browser-u tako da se podudara sa novom lozinkom.</translation>
+<translation id="8897323336392112261">Kontroliše i stranicu koja se prikazuje kada pokrenete WEB3 DNA Browser ili kliknete na dugme Početak.</translation>
+<translation id="257978004891740263">WEB3 DNA Browser pokušava da prikaže lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
+<translation id="7500894618301979366">WEB3 DNA Browser može da proceni interesovanja na osnovu istorije pregledanja iz poslednjih nekoliko nedelja. Te informacije ostaju na uređaju.</translation>
+<translation id="3731673200617615844">Ne možete da ažurirate WEB3 DNA Browser</translation>
+<translation id="1787382483918628946">Logotip WEB3 DNA Browser-a za preduzeća</translation>
 <translation id="8986207147630327271">Dodajete poslovni profil u ovaj pregledač i dajete administratoru kontrolu samo nad ovim poslovnim profilom.</translation>
-<translation id="9019929317751753759">Da bismo učinili Chromium bezbednijim, onemogućili smo sledeći dodatak koji <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ne navodi i koji je možda dodat bez vašeg znanja.</translation>
-<translation id="9022552996538154597">Prijavljivanje na Chromium</translation>
-<translation id="9089354809943900324">Chromium je zastareo</translation>
-<translation id="9093206154853821181">{0,plural, =1{Ponovo ćemo pokrenuti Chromium za jedan sat}one{Ponovo ćemo pokrenuti Chromium za # sat}few{Ponovo ćemo pokrenuti Chromium za # sata}other{Ponovo ćemo pokrenuti Chromium za # sati}}</translation>
-<translation id="9106612006984859720">Da biste dobijali buduća Chromium ažuriranja, treba vam Windows 10 ili novija verzija. Ovaj računar koristi Windows 8.1.</translation>
-<translation id="91086099826398415">Otvori link u novoj Chromium &amp;kartici</translation>
+<translation id="8867249455463470821">Da bismo učinili WEB3 DNA Browser bezbednijim, onemogućili smo sledeći dodatak koji <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ne navodi i koji je možda dodat bez vašeg znanja.</translation>
+<translation id="8879833215600767638">Prijavljivanje na WEB3 DNA Browser</translation>
+<translation id="853293422536067733">WEB3 DNA Browser je zastareo</translation>
+<translation id="325086175188777548">{0,plural, =1{Ponovo ćemo pokrenuti WEB3 DNA Browser za jedan sat}one{Ponovo ćemo pokrenuti WEB3 DNA Browser za # sat}few{Ponovo ćemo pokrenuti WEB3 DNA Browser za # sata}other{Ponovo ćemo pokrenuti WEB3 DNA Browser za # sati}}</translation>
+<translation id="8024211601023847048">Da biste dobijali buduća WEB3 DNA Browser ažuriranja, treba vam Windows 10 ili novija verzija. Ovaj računar koristi Windows 8.1.</translation>
+<translation id="2383920618768832592">Otvori link u novoj WEB3 DNA Browser &amp;kartici</translation>
 <translation id="911206726377975832">Želite li da izbrišete i podatke pregledanja?</translation>
-<translation id="9144490074902256427">Tokom proba možete da vidite i uklanjate interesovanja koja sajtovi koriste da bi vam prikazivali oglase. Chromium procenjuje vaša interesovanja na osnovu nedavne istorije pregledanja.</translation>
-<translation id="9158494823179993217">Administrator sistema je konfigurisao Chromium da otvara alternativni pregledač za pristup URL-u <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="9185526690718004400">Ponovo pokreni da bi se &amp;Chromium ažurirao</translation>
-<translation id="9190841055450128916">Chromium (mDNS-In)</translation>
-<translation id="93478295209880648">Chromium možda neće ispravno funkcionisati zato što više nije podržan na Windows XP-u ili Windows Vista-i</translation>
-<translation id="942598560705308788">Sertifikati kojima upravlja Chromium</translation>
-<translation id="945990405696787151">Da biste dobijali buduća Chromium ažuriranja, treba vam macOS 10.13 ili novija verzija. Ovaj računar koristi OS X 10.11.</translation>
-<translation id="965162752251293939">Ko koristi Chromium?</translation>
-<translation id="967427899662692980">Nabavite najjaču Chromium zaštitu</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="3209098675401285328">Tokom proba možete da vidite i uklanjate interesovanja koja sajtovi koriste da bi vam prikazivali oglase. WEB3 DNA Browser procenjuje vaša interesovanja na osnovu nedavne istorije pregledanja.</translation>
+<translation id="3219820530884298089">Administrator sistema je konfigurisao WEB3 DNA Browser da otvara alternativni pregledač za pristup URL-u <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="3490070383213151269">Ponovo pokreni da bi se &amp;WEB3 DNA Browser ažurirao</translation>
+<translation id="6090927689465861839">WEB3 DNA Browser (mDNS-In)</translation>
+<translation id="5838682317838879726">WEB3 DNA Browser možda neće ispravno funkcionisati zato što više nije podržan na Windows XP-u ili Windows Vista-i</translation>
+<translation id="864578822176559036">Sertifikati kojima upravlja WEB3 DNA Browser</translation>
+<translation id="5999581564161388420">Da biste dobijali buduća WEB3 DNA Browser ažuriranja, treba vam macOS 10.13 ili novija verzija. Ovaj računar koristi OS X 10.11.</translation>
+<translation id="8170259981824726476">Ko koristi WEB3 DNA Browser?</translation>
+<translation id="848072905736697318">Nabavite najjaču WEB3 DNA Browser zaštitu</translation>
+<translation id="3707690415152488007">Blockchain Witnesses organization</translation>
 </translationbundle>

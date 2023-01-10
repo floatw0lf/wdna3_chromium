@@ -31,8 +31,8 @@ namespace {
 const char kDefaultServiceName[] = "Chrome Safe Storage";
 const char kDefaultAccountName[] = "Chrome";
 #else
-const char kDefaultServiceName[] = "Chromium Safe Storage";
-const char kDefaultAccountName[] = "Chromium";
+const char kDefaultServiceName[] = "WEB3 DNA Browser Safe Storage";
+const char kDefaultAccountName[] = "WEB3 DNA Browser";
 #endif
 
 // Generates a random password and adds it to the Keychain.  The added password

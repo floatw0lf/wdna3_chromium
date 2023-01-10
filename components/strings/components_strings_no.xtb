@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Oppgi flere detaljer</translation>
 <translation id="1019413721762100891">Av</translation>
 <translation id="1021110881106174305">Godkjente kort</translation>
-<translation id="1021753677514347426">Dette problemet oppstår på grunn av et sertifikat du eller noen andre har installert på enheten. Det er kjent at sertifikatet brukes til nettverksavlytting og -overvåking, og Chromium stoler ikke på det. Selv om det finnes legitime bruksområder for overvåking, f.eks. på skole- eller bedriftsnettverk, vil Chromium sørge for at du er klar over at det foregår, selv om du ikke kan stoppe det. Overvåking kan skje i alle nettlesere og applikasjoner som bruker nettet.</translation>
+<translation id="6843750610117699926">Dette problemet oppstår på grunn av et sertifikat du eller noen andre har installert på enheten. Det er kjent at sertifikatet brukes til nettverksavlytting og -overvåking, og WEB3 DNA Browser stoler ikke på det. Selv om det finnes legitime bruksområder for overvåking, f.eks. på skole- eller bedriftsnettverk, vil WEB3 DNA Browser sørge for at du er klar over at det foregår, selv om du ikke kan stoppe det. Overvåking kan skje i alle nettlesere og applikasjoner som bruker nettet.</translation>
 <translation id="1024111578869940408">Noen ganger etterligner angripere nettsteder ved å gjøre endringer i nettadressen som er vanskelige å se.</translation>
 <translation id="1028781062521375153">Se detaljer</translation>
 <translation id="1030706264415084469"><ph name="URL" /> ber om å lagre store datamengder permanent på enheten din</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Angre tilleggingen</translation>
 <translation id="1056663316309890343">Fotoprogramvare</translation>
 <translation id="1056898198331236512">Advarsel</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å spille Dino Run-spillet i Chrome</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å spille Dino Run-spillet i WEB3 DNA Browser</translation>
 <translation id="1058479211578257048">Lagrer kort …</translation>
 <translation id="1060320201901229167">Kaku 5-konvolutt</translation>
 <translation id="10614374240317010">Aldri lagret</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Legg til navnet på kortet</translation>
 <translation id="1089439967362294234">Endre passord</translation>
 <translation id="1096545575934602868">Dette feltet skal ikke ha mer enn <ph name="MAX_ITEMS_LIMIT" /> oppføringer. Oppføringer utover dette blir forkastet.</translation>
-<translation id="1100782917270858593">«Fortsett reisen»-knappen – trykk på Enter for å fortsette reisen og se relevant aktivitet i Chrome-loggen</translation>
+<translation id="3985486898664025513">«Fortsett reisen»-knappen – trykk på Enter for å fortsette reisen og se relevant aktivitet i WEB3 DNA Browser-loggen</translation>
 <translation id="1101672080107056897">Feilhandling</translation>
 <translation id="1103523840287552314">Oversett alltid <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Du har skrevet inn passordet ditt på et nettsted som ikke administreres av organisasjonen din. For å beskytte kontoen din må du ikke bruke det samme passordet i andre apper eller på andre nettsteder.</translation>
 <translation id="1257553931232494454">zoomnivåer</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere Chrome-innstillingene dine</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere WEB3 DNA Browser-innstillingene dine</translation>
 <translation id="1263231323834454256">Leseliste</translation>
 <translation id="1264309058268477500">Alternativ skuff</translation>
 <translation id="1264974993859112054">Sport</translation>
@@ -131,7 +131,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1285320974508926690">Oversett aldri dette nettstedet</translation>
 <translation id="1288548991597756084">Lagre kortet sikkert</translation>
 <translation id="1292571435393770077">Skuff 16</translation>
-<translation id="1292701964462482250">«Det er programvare på datamaskinen din som hindrer Chrome i å koble trygt til Internett» (bare på Windows-datamaskiner)</translation>
+<translation id="3610512443326918645">«Det er programvare på datamaskinen din som hindrer WEB3 DNA Browser i å koble trygt til Internett» (bare på Windows-datamaskiner)</translation>
 <translation id="1293797321964802402">Konvolutt 9 x 11 tommer</translation>
 <translation id="1294154142200295408">Variasjoner i kommandolinjen</translation>
 <translation id="129553762522093515">Nylig lukket</translation>
@@ -150,7 +150,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1323433172918577554">Vis mer</translation>
 <translation id="132390688737681464">Lagre og fyll inn adresser</translation>
 <translation id="1330449323196174374">Venstre vindusfals</translation>
-<translation id="1333745675627230582">Spill Chrome Dino-spillet</translation>
+<translation id="6227572462599550594">Spill WEB3 DNA Browser Dino-spillet</translation>
 <translation id="1333989956347591814">Aktiviteten din <ph name="BEGIN_EMPHASIS" />kan fortsatt være synlig<ph name="END_EMPHASIS" /> for
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />nettsteder du besøker
@@ -223,7 +223,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1483493594462132177">Send</translation>
 <translation id="1484290072879560759">Velg leveringsadresse</translation>
 <translation id="1492194039220927094">Push-levering av regler:</translation>
-<translation id="149293076951187737">Når du lukker alle inkognitofaner i Chrome, blir aktiviteten din på de aktuelle fanene fjernet fra enheten:
+<translation id="3175654283800723944">Når du lukker alle inkognitofaner i WEB3 DNA Browser, blir aktiviteten din på de aktuelle fanene fjernet fra enheten:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Nettleseraktivitet<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Søkelogg<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="154408704832528245">Velg leveringsadresse</translation>
 <translation id="1549470594296187301">Denne funksjonen kan ikke brukes når JavaScript er slått av.</translation>
 <translation id="1551884710160394169">Kostnadsfrie programmer og shareware</translation>
-<translation id="1553358976309200471">Oppdater Chrome</translation>
+<translation id="1553358976309200471">Oppdater WEB3 DNA Browser</translation>
 <translation id="1555130319947370107">Blå</translation>
 <translation id="1559447966090556585">Vil du motta varsler?</translation>
 <translation id="1559528461873125649">Finner ingen slik fil eller katalog</translation>
@@ -263,7 +263,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="156703335097561114">Nettverksinformasjon som adresser, grensesnittkonfigurasjon og tilkoblingskvalitet</translation>
 <translation id="1567040042588613346">Denne regelen fungerer som den skal, men den samme verdien er angitt et annet sted og overstyres av denne regelen.</translation>
 <translation id="1569487616857761740">Oppgi utløpsdato</translation>
-<translation id="1569694109004336106">Google Chrome prøver å slå på Windows Hello for utfylling av passord.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser prøver å slå på Windows Hello for utfylling av passord.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> tommer</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Noe gikk galt da denne nettsiden skulle åpnes.</translation>
@@ -273,7 +273,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1594030484168838125">Velg</translation>
 <translation id="1596296697375291157">Thriller-, krim- og mysteriefilmer</translation>
 <translation id="1599199147673445968">Nytt kort? <ph name="BEGIN_LINK" />Oppgi kortopplysningene<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Spill Dino Run-spillet i Chrome</translation>
+<translation id="160851722280695521">Spill Dino Run-spillet i WEB3 DNA Browser</translation>
 <translation id="161042844686301425">Cyan</translation>
 <translation id="1611101756749861742">Andre rull</translation>
 <translation id="1615402009686901181">På grunn av en administratorregel er skjermdumper deaktivert når konfidensielt innhold er synlig</translation>
@@ -293,13 +293,13 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1642410292376109062">Knappen «Bytt Google-passord» – trykk på Enter for å endre passordet for Google-kontoen din</translation>
 <translation id="1644574205037202324">Logg</translation>
 <translation id="1645368109819982629">Protokollen støttes ikke</translation>
-<translation id="1650602712345345441">Administrer Chrome-innstillingene dine</translation>
+<translation id="1650602712345345441">Administrer WEB3 DNA Browser-innstillingene dine</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome har forenklet denne siden for å gjøre den lettere å lese. Chrome hentet den opprinnelige siden via en sikker forbindelse.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser har forenklet denne siden for å gjøre den lettere å lese. WEB3 DNA Browser hentet den opprinnelige siden via en sikker forbindelse.</translation>
 <translation id="1656489000284462475">Henting</translation>
 <translation id="1658918301167915956">Bluetooth-enheter</translation>
 <translation id="1662550410081243962">Lagre og fyll ut betalingsmåter</translation>
-<translation id="1663943134801823270">Kortene og adressene er fra Chrome. Du kan administrere dem i <ph name="BEGIN_LINK" />Innstillinger<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Kortene og adressene er fra WEB3 DNA Browser. Du kan administrere dem i <ph name="BEGIN_LINK" />Innstillinger<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">Fra nå av oversettes sider på <ph name="SOURCE_LANGUAGE" /> til <ph name="TARGET_LANGUAGE" />.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> til <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Kortsiden først</translation>
@@ -347,7 +347,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1757773103848038814">Monospace-skrifttype</translation>
 <translation id="1763864636252898013">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Sikkerhetssertifikatet til tjeneren er ikke klarert av enhetens operativsystem. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Prøv å kjøre Windows Nettverksdiagnose<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Finn ut mer om Inkognito i Chromium<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Finn ut mer om Inkognito i WEB3 DNA Browser<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">De åpne fanene dine vises her</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -399,11 +399,11 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1919526244108283799">400 x 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Ingen}=1{1 nettsted}other{# nettsteder}}</translation>
 <translation id="1924727005275031552">Ny</translation>
-<translation id="1927439593081478069">Knappen «Kjør Chrome-sikkerhetssjekk» – trykk på Enter for å kjøre en sikkerhetssjekk i Chrome-innstillingene</translation>
+<translation id="1927439593081478069">Knappen «Kjør WEB3 DNA Browser-sikkerhetssjekk» – trykk på Enter for å kjøre en sikkerhetssjekk i WEB3 DNA Browser-innstillingene</translation>
 <translation id="1935995810530254458">Kopier likevel</translation>
 <translation id="1939175642807587452">Kan be om å få sende varsler</translation>
 <translation id="1943994668912612445">Design</translation>
-<translation id="1945968466830820669">Du kan miste tilgangen til organisasjonskontoen din eller bli utsatt for identitetstyveri. Chromium anbefaler at du endrer passordet ditt nå.</translation>
+<translation id="5087943717045213809">Du kan miste tilgangen til organisasjonskontoen din eller bli utsatt for identitetstyveri. WEB3 DNA Browser anbefaler at du endrer passordet ditt nå.</translation>
 <translation id="1946849748901605102">12 x 15 tommer</translation>
 <translation id="1947454675006758438">Stift oppe til høyre</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -426,8 +426,8 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2001146170449793414">{COUNT,plural, =1{og 1 til}other{og # til}}</translation>
 <translation id="2003709556000175978">Tilbakestill passordet ditt nå</translation>
 <translation id="2003775180883135320">Fire hull topp</translation>
-<translation id="201174227998721785">Administrer tillatelser og data som er lagret på nettsteder, i Chrome-innstillingene</translation>
-<translation id="2019607688127825327">«Administrer tilgjengelighetsinnstillinger»-knappen – trykk på Enter for å gi tilgjengelighetsverktøyene dine personlig preg i innstillingene for Chrome</translation>
+<translation id="201174227998721785">Administrer tillatelser og data som er lagret på nettsteder, i WEB3 DNA Browser-innstillingene</translation>
+<translation id="2019607688127825327">«Administrer tilgjengelighetsinnstillinger»-knappen – trykk på Enter for å gi tilgjengelighetsverktøyene dine personlig preg i innstillingene for WEB3 DNA Browser</translation>
 <translation id="202224654587969958">12 x 19 tommer</translation>
 <translation id="2025115093177348061">Utvidet virkelighet</translation>
 <translation id="2025186561304664664">Mellomtjeneren er innstilt på automatisk konfigurasjon.</translation>
@@ -444,7 +444,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2048261947532620704">Oversetter siden</translation>
 <translation id="205212645995975601">Grilling</translation>
 <translation id="2053111141626950936">Sider på <ph name="LANGUAGE" /> oversettes ikke.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Når denne kontrollen er på og statusen er aktiv, bestemmer Chrome hvilken stor gruppe mennesker, eller "kohort", den siste nettleseraktiviteten din ligner mest på. Annonsører kan velge annonser for gruppen, og nettlesingsaktiviteten din holdes privat på enheten din. Gruppen din oppdateres hver dag.}=1{Når denne kontrollen er på og statusen er aktiv, bestemmer Chrome hvilken stor gruppe mennesker, eller "kohort", den siste nettleseraktiviteten din ligner mest på. Annonsører kan velge annonser for gruppen, og nettlesingsaktiviteten din holdes privat på enheten din. Gruppen din oppdateres hver dag.}other{Når denne kontrollen er på og statusen er aktiv, bestemmer Chrome hvilken stor gruppe mennesker, eller "kohort", den siste nettleseraktiviteten din ligner mest på. Annonsører kan velge annonser for gruppen, og nettlesingsaktiviteten din holdes privat på enheten din. Gruppen oppdateres hver {NUM_DAYS}. dag.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Når denne kontrollen er på og statusen er aktiv, bestemmer WEB3 DNA Browser hvilken stor gruppe mennesker, eller "kohort", den siste nettleseraktiviteten din ligner mest på. Annonsører kan velge annonser for gruppen, og nettlesingsaktiviteten din holdes privat på enheten din. Gruppen din oppdateres hver dag.}=1{Når denne kontrollen er på og statusen er aktiv, bestemmer WEB3 DNA Browser hvilken stor gruppe mennesker, eller "kohort", den siste nettleseraktiviteten din ligner mest på. Annonsører kan velge annonser for gruppen, og nettlesingsaktiviteten din holdes privat på enheten din. Gruppen din oppdateres hver dag.}other{Når denne kontrollen er på og statusen er aktiv, bestemmer WEB3 DNA Browser hvilken stor gruppe mennesker, eller "kohort", den siste nettleseraktiviteten din ligner mest på. Annonsører kan velge annonser for gruppen, og nettlesingsaktiviteten din holdes privat på enheten din. Gruppen oppdateres hver {NUM_DAYS}. dag.}}</translation>
 <translation id="2059202684901022309">22 x 34 tommer</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 forslag}other{# forslag}}</translation>
 <translation id="2066915425250589881">be om å få slettet</translation>
@@ -457,9 +457,9 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="20817612488360358">Innstillinger for systemmellomtjener er stilt inn på å brukes, men en uttrykkelig mellomtjenerkonfigurasjon er også angitt.</translation>
 <translation id="2082238445998314030">Resultat <ph name="RESULT_NUMBER" /> av <ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">Lagre …</translation>
-<translation id="2088086323192747268">Knappen «Administrer synkronisering» – trykk på Enter for å administrere hvilken informasjon du synkroniserer, i Chrome-innstillingene</translation>
+<translation id="2088086323192747268">Knappen «Administrer synkronisering» – trykk på Enter for å administrere hvilken informasjon du synkroniserer, i WEB3 DNA Browser-innstillingene</translation>
 <translation id="2091887806945687916">Lyd</translation>
-<translation id="2093982008204312032">Google Chrome prøver å slå av Windows Hello for utfylling av passord.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser prøver å slå av Windows Hello for utfylling av passord.</translation>
 <translation id="2094505752054353250">Domenene samsvarer ikke</translation>
 <translation id="2099652385553570808">Tre stifter venstre</translation>
 <translation id="2101225219012730419">Versjon:</translation>
@@ -543,7 +543,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2292556288342944218">Internett-tilgangen din er blokkert</translation>
 <translation id="2293443924986248631">Når dette er på, kan ikke nettsteder bruke informasjonskapsler som sporer deg på nettet. Det kan hende at funksjoner på enkelte nettsteder slutter å fungere.</translation>
 <translation id="2295290966866883927">Nettadressene til sider du besøker, sendes til Google Cloud eller tredjeparter for analyse. De kan for eksempel bli skannet for å oppdage utrygge nettsteder.</translation>
-<translation id="2298855485018661510">Knappen «Administrer informasjonskapsler» – trykk på Enter for å administrere preferansene dine for informasjonskapsler i Chrome-innstillingene</translation>
+<translation id="2298855485018661510">Knappen «Administrer informasjonskapsler» – trykk på Enter for å administrere preferansene dine for informasjonskapsler i WEB3 DNA Browser-innstillingene</translation>
 <translation id="2300306941146563769">Ikke lastet opp</translation>
 <translation id="2316159751672436664">Gi tilgjengelighetsverktøyene dine personlig preg i ChromeOS-innstillingene</translation>
 <translation id="2316887270356262533">Frigjør mindre enn 1 MB. Det kan hende enkelte nettsteder lastes inn tregere neste gang du besøker dem.</translation>
@@ -571,9 +571,9 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="236340516568226369">Meny med av/på-alternativer for størrelsesendring</translation>
 <translation id="2367567093518048410">Nivå</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Gi tilgjengelighetsverktøyene dine personlig preg i Chrome-innstillingene</translation>
+<translation id="2383455408879745299">Gi tilgjengelighetsverktøyene dine personlig preg i WEB3 DNA Browser-innstillingene</translation>
 <translation id="2384307209577226199">Bedriftsstandard</translation>
-<translation id="2385809941344967209">Oppdater Chrome fra Chrome-innstillingene</translation>
+<translation id="2385809941344967209">Oppdater WEB3 DNA Browser fra WEB3 DNA Browser-innstillingene</translation>
 <translation id="2386255080630008482">Tjenerens sertifikat er tilbakekalt.</translation>
 <translation id="239293030466334554">Kabrioleter</translation>
 <translation id="2392959068659972793">Vis innstillinger uten verdi</translation>
@@ -592,7 +592,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2463739503403862330">Fyll ut</translation>
 <translation id="2465655957518002998">Velg leveringsmåte</translation>
 <translation id="2465688316154986572">Stift</translation>
-<translation id="2465914000209955735">Administrer filer du har lastet ned i Chrome</translation>
+<translation id="2465914000209955735">Administrer filer du har lastet ned i WEB3 DNA Browser</translation>
 <translation id="2466004615675155314">Vis informasjon fra nettet</translation>
 <translation id="2467272921457885625">Maskinvarespesifikasjoner og -statistikk for enheten, for eksempel brukslogg for prosessor og RAM</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Kjør Nettverksdiagnose<ph name="END_LINK" /></translation>
@@ -609,7 +609,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2505268675989099013">Beskytt kontoen</translation>
 <translation id="2509167091171468975">Mat- og dagligvareforretninger</translation>
 <translation id="2512101340618156538">Ikke tillatt (standard)</translation>
-<translation id="2512413427717747692">Knappen «Angi Chrome som standardnettleser» – trykk på Enter for å angi Chrome som systemets standardnettleser i iOS-innstillingene</translation>
+<translation id="2512413427717747692">Knappen «Angi WEB3 DNA Browser som standardnettleser» – trykk på Enter for å angi WEB3 DNA Browser som systemets standardnettleser i iOS-innstillingene</translation>
 <translation id="2515629240566999685">Sjekk signalet i området ditt</translation>
 <translation id="2515761554693942801">Du har valgt å bekrefte med Touch ID på nettsteder som bruker <ph name="PROVIDER_ORIGIN" />. Denne leverandøren kan ha lagret informasjon om betalingsmåten din, som du kan <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Stift nede til høyre</translation>
@@ -626,7 +626,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2542106216580219892">Surfing</translation>
 <translation id="2544546346215446551">Administratoren din har startet enheten på nytt</translation>
 <translation id="2544644783021658368">Enkeltdokument</translation>
-<translation id="254524874071906077">Angi Chrome som standardnettleser</translation>
+<translation id="1319028298140338735">Angi WEB3 DNA Browser som standardnettleser</translation>
 <translation id="2546283357679194313">Informasjonskapsler og data fra nettsteder</translation>
 <translation id="2547466893236767989">Design og utvikling av nettsteder</translation>
 <translation id="254947805923345898">Regelverdien er ikke gyldig.</translation>
@@ -641,19 +641,19 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2570734079541893434">Administrer innstillinger</translation>
 <translation id="2573834589046842510">Utskrift og publisering</translation>
 <translation id="257674075312929031">Gruppér</translation>
-<translation id="2576880857912732701">Knappen «Administrer sikkerhetsinnstillinger» – trykk på Enter for å administrere Safe Browsing med mer i Chrome-innstillingene</translation>
+<translation id="2576880857912732701">Knappen «Administrer sikkerhetsinnstillinger» – trykk på Enter for å administrere Safe Browsing med mer i WEB3 DNA Browser-innstillingene</translation>
 <translation id="2586657967955657006">Utklippstavle</translation>
 <translation id="2587730715158995865">Fra <ph name="ARTICLE_PUBLISHER" />. Les denne og <ph name="OTHER_ARTICLE_COUNT" /> andre nyhetssaker.</translation>
 <translation id="2587841377698384444">ID for katalog-API:</translation>
 <translation id="2594318783181750337">Rask nettvisning:</translation>
 <translation id="2595719060046994702">Denne enheten og kontoen administreres ikke av et selskap eller en annen organisasjon.</translation>
-<translation id="2596415276201385844">Klokken din må være riktig stilt for at du skal kunne opprette en sikker forbindelse. Sertifikatene som nettsteder bruker til å identifisere seg med, er nemlig bare gyldige i en viss tid. Siden enhetens klokke er feil, kan ikke Chrome kontrollere disse sertifikatene.</translation>
+<translation id="7968235694092767490">Klokken din må være riktig stilt for at du skal kunne opprette en sikker forbindelse. Sertifikatene som nettsteder bruker til å identifisere seg med, er nemlig bare gyldige i en viss tid. Siden enhetens klokke er feil, kan ikke WEB3 DNA Browser kontrollere disse sertifikatene.</translation>
 <translation id="2597378329261239068">Dette dokumentet er passordbeskyttet. Skriv inn et passord.</translation>
 <translation id="259821504105826686">Fotografi og digital kunst</translation>
 <translation id="2601150049980261779">Romantiske filmer</translation>
 <translation id="2604589665489080024">Popmusikk</translation>
 <translation id="2610561535971892504">Klikk for å kopiere</translation>
-<translation id="2617988307566202237">Chrome <ph name="BEGIN_EMPHASIS" />lagrer ikke<ph name="END_EMPHASIS" /> følgende informasjon:
+<translation id="6174516088921923215">WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />lagrer ikke<ph name="END_EMPHASIS" /> følgende informasjon:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Nettleserloggen din
           <ph name="LIST_ITEM" />Informasjonskapsler og nettstedsdata
@@ -661,14 +661,14 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
         <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Klokken går for fort</translation>
 <translation id="262745152991669301">Kan be om å få koble til USB-enheter</translation>
-<translation id="2629325967560697240">For å få det høyeste sikkerhetsnivået som Chrome tilbyr, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />slå på økt beskyttelse<ph name="END_ENHANCED_PROTECTION_LINK" />.</translation>
+<translation id="9155656925188613813">For å få det høyeste sikkerhetsnivået som WEB3 DNA Browser tilbyr, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />slå på økt beskyttelse<ph name="END_ENHANCED_PROTECTION_LINK" />.</translation>
 <translation id="2634124572758952069">Fant ikke IP-adressen til tjeneren for <ph name="HOST_NAME" />.</translation>
 <translation id="2639739919103226564">Status:</translation>
 <translation id="2643134278432436513">Hårpleie</translation>
 <translation id="2647852283046201479">Strategispill</translation>
 <translation id="264810637653812429">Fant ingen kompatible enheter.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å tømme nettleserloggen, slette informasjonskapsler, tømme bufferen med mer i Chrome-innstillingene</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å tømme nettleserloggen, slette informasjonskapsler, tømme bufferen med mer i WEB3 DNA Browser-innstillingene</translation>
 <translation id="2650446666397867134">Tilgang til filen ble nektet</translation>
 <translation id="2653659639078652383">Send inn</translation>
 <translation id="2657637947725373811">{0,plural, =1{Vil du overføre denne konfidensielle filen?}other{Vil du overføre disse konfidensielle filene?}}</translation>
@@ -696,11 +696,11 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2705137772291741111">Den lagrede (bufrede) kopien av dette nettstedet kunne ikke leses.</translation>
 <translation id="2709516037105925701">Autofyll</translation>
 <translation id="2713444072780614174">Hvit</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere betalingene og kredittkortopplysningene dine i Chrome-innstillingene</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere betalingene og kredittkortopplysningene dine i WEB3 DNA Browser-innstillingene</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Trykk på |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| for å avslutte fullskjerm</translation>
 <translation id="2721148159707890343">Forespørselen var vellykket</translation>
-<translation id="2723669454293168317">Kjør en sikkerhetssjekk i Chrome-innstillingene</translation>
+<translation id="2723669454293168317">Kjør en sikkerhetssjekk i WEB3 DNA Browser-innstillingene</translation>
 <translation id="2726001110728089263">Sideskuff</translation>
 <translation id="2728127805433021124">Tjenerens sertifikat er signert med en usikker signaturalgoritme.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Kjør Tilkoblingsdiagnostikk<ph name="END_LINK" /></translation>
@@ -740,7 +740,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="287596039013813457">Vennskapelig</translation>
 <translation id="28761159517501904">Filmer</translation>
 <translation id="2876489322757410363">Går ut av Inkognitomodus for å betale via en ekstern app. Vil du fortsette?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere Safe Browsing med mer i Chrome-innstillingene</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere Safe Browsing med mer i WEB3 DNA Browser-innstillingene</translation>
 <translation id="2878197950673342043">Kryssfals</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Vil du lagre kortet?</translation>
@@ -752,7 +752,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="290376772003165898">Er ikke siden på <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">En nettverksendring ble oppdaget.</translation>
 <translation id="2911973620368911614">Bruker-ID for jobbregnskap</translation>
-<translation id="2914160345369867329"><ph name="SITE" /> bruker vanligvis kryptering for å beskytte informasjonen din. Da Chrome prøvde å koble til <ph name="SITE" /> denne gangen, sendte nettstedet uvanlig og feil legitimasjon tilbake. Dette kan skje når en angriper prøver å utgi seg for å være <ph name="SITE" />, eller hvis en Wifi-påloggingsskjerm har avbrutt tilkoblingen. Informasjonen din er likevel sikker, ettersom Chrome stoppet tilkoblingen før det ble utvekslet data.</translation>
+<translation id="6754677106668042373"><ph name="SITE" /> bruker vanligvis kryptering for å beskytte informasjonen din. Da WEB3 DNA Browser prøvde å koble til <ph name="SITE" /> denne gangen, sendte nettstedet uvanlig og feil legitimasjon tilbake. Dette kan skje når en angriper prøver å utgi seg for å være <ph name="SITE" />, eller hvis en Wifi-påloggingsskjerm har avbrutt tilkoblingen. Informasjonen din er likevel sikker, ettersom WEB3 DNA Browser stoppet tilkoblingen før det ble utvekslet data.</translation>
 <translation id="2915068235268646559">Krasj fra <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Maling</translation>
 <translation id="2916038427272391327">Lukk andre programmer</translation>
@@ -769,7 +769,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2943895734390379394">Opplastingstidspunkt:</translation>
 <translation id="2945026002409061480">Nettgrupper</translation>
 <translation id="2948083400971632585">På innstillingssiden kan du deaktivere eventuelle proxy-tjenere for tilkoblinger.</translation>
-<translation id="2949183777371959169">Ignorert fordi maskinen ikke er registrert med Skybasert Chrome-administrering.</translation>
+<translation id="7786089409521529641">Ignorert fordi maskinen ikke er registrert med Skybasert WEB3 DNA Browser-administrering.</translation>
 <translation id="2951588413176968965">Min postkasse</translation>
 <translation id="2952820037279740115">Lukk alle inkognitovinduer</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -783,7 +783,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2977665033722899841"><ph name="ROW_NAME" />, for øyeblikket valgt. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2983666748527428214">Åpne en inkognitofane</translation>
-<translation id="2985306909656435243">Hvis du slår på dette alternativet, lagrer Chromium en kopi av kortet ditt på denne enheten, slik at det går raskere å fylle ut skjemaer.</translation>
+<translation id="6458065442802745995">Hvis du slår på dette alternativet, lagrer WEB3 DNA Browser en kopi av kortet ditt på denne enheten, slik at det går raskere å fylle ut skjemaer.</translation>
 <translation id="2985398929374701810">Angi en gyldig adresse</translation>
 <translation id="2986368408720340940">Denne hentemetoden er ikke tilgjengelig. Prøv en annen metode.</translation>
 <translation id="2987034854559945715">Ingen samsvarende funksjoner</translation>
@@ -805,7 +805,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3037177537145227281">Sporer prisen</translation>
 <translation id="3037605927509011580">Æsj!</translation>
 <translation id="3041612393474885105">Sertifikatinformasjon</translation>
-<translation id="305162504811187366">loggen for Chrome Eksternt skrivebord, inkludert tidsstempler, verter og klientøkt-ID-er</translation>
+<translation id="6009592758194948058">loggen for WEB3 DNA Browser Eksternt skrivebord, inkludert tidsstempler, verter og klientøkt-ID-er</translation>
 <translation id="3052964831964880138"><ph name="PRICE_DROP" /> avslag på <ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Feilrettingstjeneste</translation>
 <translation id="306573536155379004">Spillet er startet.</translation>
@@ -853,7 +853,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3194737229810486521"><ph name="URL" /> ber om å lagre data permanent på enheten din</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> på <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Kan be om å få vite når du bruker denne enheten aktivt</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere hvilken informasjon du synkroniserer, i Chrome-innstillingene</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere hvilken informasjon du synkroniserer, i WEB3 DNA Browser-innstillingene</translation>
 <translation id="320323717674993345">Avbryt betalingen</translation>
 <translation id="3203366800380907218">Fra nettet</translation>
 <translation id="3207960819495026254">Bokmerket</translation>
@@ -877,7 +877,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å tilpasse nettleserens utseende</translation>
 <translation id="3240791268468473923">Ark for sikker betalingslegitimasjon uten samsvarende legitimasjon er åpnet</translation>
 <translation id="324180406144491771">«<ph name="HOST_NAME" />»-linker er blokkert</translation>
-<translation id="3248611290851046188">Dette nettstedet definerer interesser som andre nettsteder kan bruke til å vise deg annonser. Dette nettstedet mottar også interessene dine fra Chrome for å kunne vise deg mer relevante annonser.</translation>
+<translation id="8141792378421105106">Dette nettstedet definerer interesser som andre nettsteder kan bruke til å vise deg annonser. Dette nettstedet mottar også interessene dine fra WEB3 DNA Browser for å kunne vise deg mer relevante annonser.</translation>
 <translation id="3249151924975132674">Studielån og universitetsfinansiering</translation>
 <translation id="3249845759089040423">Groovy</translation>
 <translation id="3250640885957938546">Reklame og markedsføring</translation>
@@ -887,7 +887,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3256863843508922226">Pensjon</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å opprette en ny hendelse i Google Kalender raskt</translation>
 <translation id="3261488570342242926">Finn ut mer om virtuelle kort</translation>
-<translation id="3264837738038045344">Knappen «Administrer Chrome-innstillinger» – trykk på Enter for å åpne Chrome-innstillingene</translation>
+<translation id="3264837738038045344">Knappen «Administrer WEB3 DNA Browser-innstillinger» – trykk på Enter for å åpne WEB3 DNA Browser-innstillingene</translation>
 <translation id="3266793032086590337">Verdi (konflikt)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Ingen nettsteder er blokkert, inkludert relaterte nettsteder}=1{1 nettsted er blokkert, inkludert relaterte nettsteder}other{# nettsteder er blokkert, inkludert relaterte nettsteder}}</translation>
 <translation id="3268451620468152448">Åpne faner</translation>
@@ -901,7 +901,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3287510313208355388">Last ned når du er koblet til Internett</translation>
 <translation id="3288238092761586174"><ph name="URL" /> må kanskje utføre flere trinn for å bekrefte betalingen din</translation>
 <translation id="3293642807462928945">Finn ut mer om regelen <ph name="POLICY_NAME" /></translation>
-<translation id="3295444047715739395">Se og administrer passordene dine i Chrome-innstillingene</translation>
+<translation id="3295444047715739395">Se og administrer passordene dine i WEB3 DNA Browser-innstillingene</translation>
 <translation id="3299098170013242198">Windows Hello er påslått for utfylling av passord</translation>
 <translation id="3303176609391916566">30 x 42 tommer</translation>
 <translation id="3303855915957856445">Søket ga ingen treff</translation>
@@ -931,9 +931,9 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3366477098757335611">Vis kort</translation>
 <translation id="3369192424181595722">Klokkefeil</translation>
 <translation id="3369459162151165748">Bildeler og -tilbehør</translation>
-<translation id="3371064404604898522">Angi Chrome som standardnettleser</translation>
+<translation id="3371064404604898522">Angi WEB3 DNA Browser som standardnettleser</translation>
 <translation id="337363190475750230">Godkjenningen er opphevet</translation>
-<translation id="3375754925484257129">Kjør Chrome-sikkerhetssjekk</translation>
+<translation id="3375754925484257129">Kjør WEB3 DNA Browser-sikkerhetssjekk</translation>
 <translation id="3377144306166885718">Tjeneren brukte en foreldet versjon av TLS.</translation>
 <translation id="3377188786107721145">Feil under analysen av enhetsinnstillinger</translation>
 <translation id="3377736046129930310">Bruk skjermlås til å bekrefte kort raskere</translation>
@@ -957,7 +957,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3423742043356668186">Systemspesifisert</translation>
 <translation id="3427092606871434483">Tillat (standard)</translation>
 <translation id="3427342743765426898">&amp;Endre likevel</translation>
-<translation id="342781501876943858">Chromium anbefaler at du tilbakestiller passordet ditt hvis du også har brukt det på andre nettsteder.</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser anbefaler at du tilbakestiller passordet ditt hvis du også har brukt det på andre nettsteder.</translation>
 <translation id="3428151540071562330">Én eller flere av URI-ene for DnsOverHttpsTemplates-tjenermaler er ugyldige og blir ikke brukt.</translation>
 <translation id="3431216045099978607">Trykk på |<ph name="ACCELERATOR" />| for å avslutte fullskjerm og se nedlastingen.</translation>
 <translation id="3431636764301398940">Lagre dette kortet på denne enheten</translation>
@@ -979,7 +979,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å lukke alle åpne inkognitovinduer</translation>
 <translation id="3477679029130949506">Kino- og teaterprogram</translation>
 <translation id="3479552764303398839">Ikke nå</translation>
-<translation id="3484560055331845446">Du kan miste tilgangen til Google-kontoen din. Chrome anbefaler at du endrer passordet ditt nå. Du blir bedt om å logge på.</translation>
+<translation id="2148205384604312372">Du kan miste tilgangen til Google-kontoen din. WEB3 DNA Browser anbefaler at du endrer passordet ditt nå. Du blir bedt om å logge på.</translation>
 <translation id="3484861421501147767">Påminnelse: En lagret kampanjekode er tilgjengelig</translation>
 <translation id="3487845404393360112">Skuff 4</translation>
 <translation id="3495081129428749620">Finn på siden
@@ -988,7 +988,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3507936815618196901">lage et 3D-kart av omgivelsene dine og spore kameraposisjonen</translation>
 <translation id="3512163584740124171">Denne regelen ignoreres fordi en annen regel i den samme regelgruppen har høyere prioritet.</translation>
 <translation id="3515972145999192222">Organisasjonen din har blokkert domenet <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> fordi det bryter en regel. <ph name="BEGIN_LEARN_MORE_LINK" />Finn ut mer<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="35172538073169599">Knappen «Administrer adresser» – trykk på Enter for å legge til og administrere adresser i Chrome-innstillingene</translation>
+<translation id="35172538073169599">Knappen «Administrer adresser» – trykk på Enter for å legge til og administrere adresser i WEB3 DNA Browser-innstillingene</translation>
 <translation id="3518941727116570328">Håndtering av flere objekter</translation>
 <translation id="3525130752944427905">10 x 14 tommer</translation>
 <translation id="3528171143076753409">Tjenerens sertifikat er ikke pålitelig.</translation>
@@ -1015,7 +1015,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3576616784287504635">På en innebygd side på <ph name="SITE" /> står det</translation>
 <translation id="3577473026931028326">Noe gikk galt. Prøv på nytt.</translation>
 <translation id="3577902790357386792">Turn</translation>
-<translation id="3581089476000296252">Chrome gir deg beskjed når denne siden er klar. &lt;a&gt;Avbryt&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser gir deg beskjed når denne siden er klar. &lt;a&gt;Avbryt&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Legg til navn</translation>
 <translation id="3583757800736429874">&amp;Flytt likevel</translation>
 <translation id="3584299510153766161">To hull bunn</translation>
@@ -1030,7 +1030,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3611317423880285981">Husholdningsutstyr</translation>
 <translation id="3614103345592970299">Størrelse 2</translation>
 <translation id="361438452008624280">Listeoppføringen «<ph name="LANGUAGE_ID" />»: Språket er ukjent eller støttes ikke.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å kjøre en sikkerhetssjekk i Chrome-innstillingene</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å kjøre en sikkerhetssjekk i WEB3 DNA Browser-innstillingene</translation>
 <translation id="3615877443314183785">Angi en gyldig utløpsdato</translation>
 <translation id="36224234498066874">Slett alle nettlesingsdata</translation>
 <translation id="362276910939193118">Vis fullstendig logg</translation>
@@ -1041,9 +1041,9 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3631244953324577188">Biometri</translation>
 <translation id="3632503704576938756">Skjermdelingen er gjenopptatt</translation>
 <translation id="3632892046558972264">Skjermdelingen er satt på pause</translation>
-<translation id="3633738897356909127">Knappen «Oppdater Chrome» – trykk på Enter for å oppdatere Chrome fra Chrome-innstillingene</translation>
+<translation id="3633738897356909127">Knappen «Oppdater WEB3 DNA Browser» – trykk på Enter for å oppdatere WEB3 DNA Browser fra WEB3 DNA Browser-innstillingene</translation>
 <translation id="3634530185120165534">Skuff 5</translation>
-<translation id="3634567936866541746">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. Chrome anbefaler at du sikrer kontoene dine ved å sjekke de lagrede passordene dine.</translation>
+<translation id="6586777830476909681">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. WEB3 DNA Browser anbefaler at du sikrer kontoene dine ved å sjekke de lagrede passordene dine.</translation>
 <translation id="3642638418806704195">Program:</translation>
 <translation id="3647286794400715637">Hver nettadresse-strengoppføring må inneholde 1–2 nettadresser.</translation>
 <translation id="3650584904733503804">Valideringen var vellykket</translation>
@@ -1087,7 +1087,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3740319564441798148">Regionbuss og -tog</translation>
 <translation id="3744111561329211289">Bakgrunnssynkronisering</translation>
 <translation id="3744286742364977428">Filer du laster ned, sendes til Google Cloud eller tredjeparter for analyse. De kan for eksempel bli skannet for sensitive data eller skadelig programvare, og de kan bli lagret i henhold til bedriftens regler.</translation>
-<translation id="3744899669254331632">Du kan ikke gå til <ph name="SITE" /> akkurat nå, fordi nettstedet sendte kryptert legitimasjon som Chromium ikke kan behandle. Nettverksfeil og -angrep er vanligvis forbigående, så siden kommer sikkert til å virke senere.</translation>
+<translation id="3461179235677384837">Du kan ikke gå til <ph name="SITE" /> akkurat nå, fordi nettstedet sendte kryptert legitimasjon som WEB3 DNA Browser ikke kan behandle. Nettverksfeil og -angrep er vanligvis forbigående, så siden kommer sikkert til å virke senere.</translation>
 <translation id="3745099705178523657">Etter at du har bekreftet, deles kortopplysningene fra Google-kontoen din med dette nettstedet.</translation>
 <translation id="3748148204939282805">Angripere på <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> kan lure deg til å gjøre farlige ting, deriblant å installere programvare eller oppgi personopplysninger (for eksempel passord, telefonnumre og kredittkortinformasjon). <ph name="BEGIN_LEARN_MORE_LINK" />Finn ut mer<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Flybransjen</translation>
@@ -1207,7 +1207,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4097288585054919042">Slå av varsler</translation>
 <translation id="4098354747657067197">Villedende nettsted i sikte</translation>
 <translation id="4099048595830172239">Administratorreglene anbefaler ikke at du deler skjermen med <ph name="APPLICATION_TITLE" /> når konfidensielt innhold er synlig:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å tilpasse skriftstørrelser og -typer i Chrome</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å tilpasse skriftstørrelser og -typer i WEB3 DNA Browser</translation>
 <translation id="4101413244023615925">Tekst og grafikk</translation>
 <translation id="410148943680000050">DTP</translation>
 <translation id="4103249731201008433">Enhetens serienummer er ugyldig</translation>
@@ -1259,7 +1259,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4214357935346142455">profil for påloggingsskjermen</translation>
 <translation id="4220128509585149162">Kræsj</translation>
 <translation id="422022731706691852">Angripere på <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> kan prøve å lure deg til å installere programmer som påvirker surfeopplevelsen din (for eksempel ved å endre startsiden eller vise ekstra annonser på nettsteder du går til). <ph name="BEGIN_LEARN_MORE_LINK" />Finn ut mer<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;Trinn 1: Logg på portalen&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;Trinn 1: Logg på portalen&lt;/h4&gt;
     &lt;p&gt;Wifi-nettverk på steder som kaféer eller flyplasser krever at du logger på. For å se påloggingssiden, åpne en side som bruker &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Gå til et nettsted som begynner på &lt;code&gt;http://&lt;/code&gt;, for eksempel &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1267,11 +1267,11 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
     &lt;/ol&gt;
     &lt;h4&gt;Trinn 2: Åpne siden i inkognitomodus (bare på datamaskiner)&lt;/h4&gt;
     &lt;p&gt;Åpne siden du besøkte, i et inkognitovindu.&lt;/p&gt;
-    &lt;p&gt;Hvis siden åpnes, har du en Chrome-utvidelse som ikke fungerer som den skal. For å fikse feilen, slå av utvidelsen.&lt;/p&gt;
+    &lt;p&gt;Hvis siden åpnes, har du en WEB3 DNA Browser-utvidelse som ikke fungerer som den skal. For å fikse feilen, slå av utvidelsen.&lt;/p&gt;
     &lt;h4&gt;Trinn 3: Oppdater operativsystemet&lt;/h4&gt;
     &lt;p&gt;Sørg for at enheten din er oppdatert.&lt;/p&gt;
     &lt;h4&gt;Trinn 4: Slå av antivirusprogramvaren midlertidig&lt;/h4&gt;
-    &lt;p&gt;Du ser denne feilmeldingen hvis du har antivirusprogramvare som tilbyr «HTTPS-beskyttelse» eller «HTTPS-skanning», noe som gjør at sikkerhetsfunksjonene i Chrome ikke fungerer.&lt;/p&gt;
+    &lt;p&gt;Du ser denne feilmeldingen hvis du har antivirusprogramvare som tilbyr «HTTPS-beskyttelse» eller «HTTPS-skanning», noe som gjør at sikkerhetsfunksjonene i WEB3 DNA Browser ikke fungerer.&lt;/p&gt;
     &lt;p&gt;For å fikse dette problemet, slå av antivirusprogramvaren. Hvis siden fungerer når du har slått av programvaren, bør du slå den av når du bruker sikre nettsteder.&lt;/p&gt;
     &lt;p&gt;Husk å slå på antivirusprogramvaren igjen når du er ferdig.&lt;/p&gt;
     &lt;h4&gt;Trinn 5: Få mer hjelp&lt;/h4&gt;
@@ -1307,7 +1307,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4305666528087210886">Kunne ikke åpne filen</translation>
 <translation id="4306529830550717874">Vil du lagre adressen?</translation>
 <translation id="4306812610847412719">utklippstavle</translation>
-<translation id="4308567447483056043">Denne regelen ignoreres fordi brukeren ikke er tilknyttet. For at denne regelen skal gjelde, må Chrome-nettleseren og -profilen være administrert av den samme organisasjonen via administrasjonskonsollen.</translation>
+<translation id="3323451588703398074">Denne regelen ignoreres fordi brukeren ikke er tilknyttet. For at denne regelen skal gjelde, må WEB3 DNA Browser-nettleseren og -profilen være administrert av den samme organisasjonen via administrasjonskonsollen.</translation>
 <translation id="4310070645992025887">Søk i søkereisene dine</translation>
 <translation id="4310496734563057511">Hvis du deler denne enheten med andre, kan du slå på Windows Hello for å bekrefte at det er deg, når du bruker lagrede passord</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1323,8 +1323,8 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4331519897422864041">Hylle 5</translation>
 <translation id="4331708818696583467">Ikke sikker</translation>
 <translation id="4333561522337981382">administrere vinduer på alle skjermene dine</translation>
-<translation id="4340575312453649552">Denne annonsen brukte for mange ressurser for enheten din, så Chrome har fjernet den.</translation>
-<translation id="4340982228985273705">Denne datamaskinen er ikke registrert som administrert av en bedrift, så regelen kan bare automatisk installere utvidelser som finnes på Chrome Nettmarked. Nettadressen for Chrome Nettmarked-oppdateringen er «<ph name="CWS_UPDATE_URL" />».</translation>
+<translation id="3964216933844012257">Denne annonsen brukte for mange ressurser for enheten din, så WEB3 DNA Browser har fjernet den.</translation>
+<translation id="2218799635675752219">Denne datamaskinen er ikke registrert som administrert av en bedrift, så regelen kan bare automatisk installere utvidelser som finnes på WEB3 DNA Browser Nettmarked. Nettadressen for WEB3 DNA Browser Nettmarked-oppdateringen er «<ph name="CWS_UPDATE_URL" />».</translation>
 <translation id="4346197816712207223">Godkjente kredittkort</translation>
 <translation id="4348834659292907206">Tilkoblingen til <ph name="SITE" /> er ikke sikker</translation>
 <translation id="4349365535725594680">Kan ikke dele konfidensielt innhold</translation>
@@ -1335,7 +1335,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4356973930735388585">Angripere på dette nettstedet kan prøve å installere farlige programmer på datamaskinen din. Disse kan stjele eller slette informasjonen din (for eksempel bilder, passord, e-post og kredittkortinformasjon).</translation>
 <translation id="4358059973562876591">Malene du har angitt, kan ikke tas i bruk på grunn av en feil med DnsOverHttpsMode-regelen.</translation>
 <translation id="4358461427845829800">Administrer betalingsmåter…</translation>
-<translation id="4359160567981085931">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. Chrome kan hjelpe deg. For å bytte passord og varsle Google om at kontoen din kanskje er i fare, klikk på Beskytt konto.</translation>
+<translation id="4550052488331606118">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. WEB3 DNA Browser kan hjelpe deg. For å bytte passord og varsle Google om at kontoen din kanskje er i fare, klikk på Beskytt konto.</translation>
 <translation id="4363222835916186793">Varsler for dette produktet er slått av</translation>
 <translation id="437040971055499437">Forekomster av sikkerhetshendelse</translation>
 <translation id="4372948949327679948">Forventet <ph name="VALUE_TYPE" />-verdi.</translation>
@@ -1352,7 +1352,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4411435778612100394">Forbrukerelektronikk</translation>
 <translation id="4414515549596849729">informasjonskapsler og nettstedsdata</translation>
 <translation id="4415426530740016218">Henteadresse</translation>
-<translation id="4424024547088906515">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Sikkerhetssertifikatet til tjeneren er ikke klarert av Chrome. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
+<translation id="7486060888782747880">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Sikkerhetssertifikatet til tjeneren er ikke klarert av WEB3 DNA Browser. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
 <translation id="4428065317363009941">Personlig tilpasning av annonser</translation>
 <translation id="443121186588148776">Seriell port</translation>
 <translation id="4432688616882109544">Enten godtok ikke <ph name="HOST_NAME" /> påloggingssertifikatet ditt, eller så ble det ikke oppgitt.</translation>
@@ -1376,7 +1376,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4489023393592172404">Kaku 4-konvolutt</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Kryptér synkroniserte passord med Google-kontoen din</translation>
-<translation id="4492519888999857993">Som standard er disse funksjonene avslått. De kommer ikke til å være tilgjengelige i fremtidige versjoner av Chrome.</translation>
+<translation id="5711551727888568041">Som standard er disse funksjonene avslått. De kommer ikke til å være tilgjengelige i fremtidige versjoner av WEB3 DNA Browser.</translation>
 <translation id="4493480324863638523">Ugyldig nettadresse. Dette må være en nettadresse på standardformat, f.eks. http://example.com eller https://example.com.</translation>
 <translation id="4500587658229086076">usikkert innhold</translation>
 <translation id="4506176782989081258">Valideringsfeil: <ph name="VALIDATION_ERROR" /></translation>
@@ -1384,7 +1384,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="450710068430902550">Deling med administratoren</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å oversette denne siden med Google Oversetter</translation>
 <translation id="4514308731478712184">Slå av reiser</translation>
-<translation id="4515275063822566619">Kortene og adressene er fra Chrome og Google-kontoen din (<ph name="ACCOUNT_EMAIL" />). Du kan administrere dem i <ph name="BEGIN_LINK" />Innstillinger<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Kortene og adressene er fra WEB3 DNA Browser og Google-kontoen din (<ph name="ACCOUNT_EMAIL" />). Du kan administrere dem i <ph name="BEGIN_LINK" />Innstillinger<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">Nedlasting av denne filen er blokkert på grunn av en administratorregel</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Monarch-konvolutt</translation>
@@ -1401,11 +1401,11 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Prøv å slå av utvidelsene dine.</translation>
 <translation id="4566017918361049074">Utendørs</translation>
-<translation id="4567686777917670400">Administratoren kan endre nettleseroppsettet eksternt. Aktiviteten på denne enheten kan også administreres utenfor Chromium. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Administratoren kan endre nettleseroppsettet eksternt. Aktiviteten på denne enheten kan også administreres utenfor WEB3 DNA Browser. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Levering</translation>
 <translation id="4582204425268416675">Fjern kortet</translation>
 <translation id="4582595824823167856">Motta en tekstmelding</translation>
-<translation id="4587425331216688090">Vil du fjerne adressen fra Chrome?</translation>
+<translation id="4549859745110415735">Vil du fjerne adressen fra WEB3 DNA Browser?</translation>
 <translation id="459089498662672729">Innliming fra <ph name="ORIGIN_NAME" /> på denne plasseringen anbefales ikke av administratorreglene</translation>
 <translation id="4592951414987517459">Tilkoblingen til <ph name="DOMAIN" /> er kryptert med en moderne chifferserie.</translation>
 <translation id="4594403342090139922">&amp;Angre slettingen</translation>
@@ -1414,18 +1414,18 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4600084978141515058">Vegansk mat</translation>
 <translation id="4602465984861132303">Bowling</translation>
 <translation id="4606870351894164739">Virkningsfull</translation>
-<translation id="4607603470419975064">Knappen «Se Chrome-tips» – trykk på Enter for å lære om Chrome-funksjoner</translation>
-<translation id="4607608436550361748">Se Chrome-tips</translation>
+<translation id="4607603470419975064">Knappen «Se WEB3 DNA Browser-tips» – trykk på Enter for å lære om WEB3 DNA Browser-funksjoner</translation>
+<translation id="4607608436550361748">Se WEB3 DNA Browser-tips</translation>
 <translation id="460848736049414407">Blokkert av administrator</translation>
 <translation id="4610279718074907952">Dette nettstedet er med i en gruppe som er definert av <ph name="SET_OWNER" /> og kan se aktiviteten din</translation>
 <translation id="4617273035598175554">Programvare for tegning og animasjon</translation>
 <translation id="4622292761762557753">Overfør likevel</translation>
-<translation id="4627675673814409125">Denne regelen kan ikke konfigureres på Chrome-profilnivå og blir derfor ignorert.</translation>
+<translation id="6607050922769407881">Denne regelen kan ikke konfigureres på WEB3 DNA Browser-profilnivå og blir derfor ignorert.</translation>
 <translation id="4628948037717959914">Bilde</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Penger tilbake er tilknyttet</translation>
 <translation id="4636930964841734540">Info</translation>
-<translation id="4638670630777875591">Inkognito i Chromium</translation>
+<translation id="9064160697734393810">Inkognito i WEB3 DNA Browser</translation>
 <translation id="464342062220857295">Søkefunksjoner</translation>
 <translation id="4644670975240021822">Motsatt rekkefølge – forsiden ned</translation>
 <translation id="4646534391647090355">Gå dit nå</translation>
@@ -1463,7 +1463,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4731638775147756694">Dette programmet er blokkert av administratoren din</translation>
 <translation id="4733082559415072992"><ph name="URL" /> ber om å bruke posisjonen til enheten din</translation>
 <translation id="4736491186715342415">Motorkjøretøy</translation>
-<translation id="4736825316280949806">Start Chromium på nytt</translation>
+<translation id="1624940062651381269">Start WEB3 DNA Browser på nytt</translation>
 <translation id="4736934858538408121">Virtuelt kort</translation>
 <translation id="473775607612524610">Oppdater</translation>
 <translation id="4738601419177586157">Søkeforslag for <ph name="TEXT" /></translation>
@@ -1477,10 +1477,10 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4754461935447132332">Ikke tillatt for nettsteder som ikke er sikre</translation>
 <translation id="4756388243121344051">&amp;Logg</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. Chromium anbefaler at du sikrer kontoene dine ved å sjekke de lagrede passordene dine.</translation>
+
 <translation id="4758311279753947758">Legg til kontaktinformasjon</translation>
 <translation id="4761104368405085019">bruke mikrofonen din</translation>
-<translation id="4761869838909035636">Kjør Chrome-sikkerhetssjekk</translation>
+<translation id="2178430137592069173">Kjør WEB3 DNA Browser-sikkerhetssjekk</translation>
 <translation id="4764776831041365478">Det kan hende at nettsiden på <ph name="URL" /> er midlertidig nede eller flyttet permanent til en ny nettadresse.</translation>
 <translation id="4766713847338118463">To stifter bunn</translation>
 <translation id="4771973620359291008">Det har oppstått en ukjent feil.</translation>
@@ -1511,7 +1511,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4834250788637067901">Betalingsmåter, tilbud og adresser som bruker Google Pay</translation>
 <translation id="4838327282952368871">Drømmende</translation>
 <translation id="4839087176073128681">Betal raskere neste gang, og beskytt kortet ditt med Googles bransjeledende sikkerhet.</translation>
-<translation id="4840250757394056958">Se Chrome-loggen din</translation>
+<translation id="4840250757394056958">Se WEB3 DNA Browser-loggen din</translation>
 <translation id="484462545196658690">Auto</translation>
 <translation id="484671803914931257">Få rabatt hos <ph name="MERCHANT_NAME" /> og flere</translation>
 <translation id="484988093836683706">Bruk enhetsopplåsing</translation>
@@ -1553,7 +1553,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4934780484581617878">Vindusadministrering</translation>
 <translation id="4936134414789135531">Fant ikke angitt <ph name="VALUE_NAME" />.</translation>
 <translation id="4936675324097895694">Finans</translation>
-<translation id="4940163644868678279">Inkognito i Chrome</translation>
+
 <translation id="4943872375798546930">Ingen resultater</translation>
 <translation id="4943933359574417591">Tekstmeldinger og chat</translation>
 <translation id="4950898438188848926">Knappen for å bytte fane – trykk på Enter for å bytte til den åpne fanen, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1576,7 +1576,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4995216769782533993">Bekreft sikkerhetskoden for å dele kortopplysningene dine med dette nettstedet</translation>
 <translation id="4995474875135717171">Endret:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere nettstedsøk og standard søkemotor</translation>
-<translation id="5002932099480077015">Hvis du slår på dette alternativet, lagrer Chrome en kopi av kortet ditt på denne enheten, slik at det blir raskere å fylle ut skjemaer i fremtiden.</translation>
+
 <translation id="5011561501798487822">gjenkjent språk</translation>
 <translation id="5015510746216210676">Maskinnavn:</translation>
 <translation id="5017554619425969104">Teksten du kopierte</translation>
@@ -1585,7 +1585,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5018802455907704660">16 x 20 tommer</translation>
 <translation id="5019198164206649151">Ugyldig funksjonalitet for sikkerhetskopiering</translation>
 <translation id="5020776957610079374">Verdensmusikk</translation>
-<translation id="5021557570875267742">Spor priser med Chrome</translation>
+<translation id="4735860266347344416">Spor priser med WEB3 DNA Browser</translation>
 <translation id="5023310440958281426">Kontroller retningslinjene til administratoren din</translation>
 <translation id="5029568752722684782">Slett kopi</translation>
 <translation id="5030338702439866405">Utstedt av</translation>
@@ -1618,7 +1618,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5087580092889165836">Legg til et kort</translation>
 <translation id="5088142053160410913">Melding til operatøren</translation>
 <translation id="5093232627742069661">Z-fals</translation>
-<translation id="5094747076828555589">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Sikkerhetssertifikatet til tjeneren er ikke klarert av Chromium. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
+
 <translation id="5097099694988056070">enhetsstatistikk, som prosessor- og minnebruk</translation>
 <translation id="5097468150760963273">27 x 39 tommer</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1652,7 +1652,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5161506081086828129">Hylle 9</translation>
 <translation id="5164798890604758545">Tekst skrives inn</translation>
 <translation id="516920405563544094">Skriv inn verifiseringskoden for <ph name="CREDIT_CARD" />. Etter at du har bekreftet, deles kortopplysningene fra Google-kontoen din med dette nettstedet.</translation>
-<translation id="5169827969064885044">Du kan miste tilgangen til organisasjonskontoen din eller bli utsatt for identitetstyveri. Chrome anbefaler at du endrer passordet ditt nå.</translation>
+
 <translation id="5171045022955879922">Søk, eller skriv inn en nettadresse</translation>
 <translation id="5172758083709347301">Datamaskin</translation>
 <translation id="5177076414499237632">Finn ut mer om sidens kilde og emne</translation>
@@ -1664,7 +1664,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="51918995459521422"><ph name="ORIGIN" /> ber om å laste ned flere filer</translation>
 <translation id="519422657042045905">Annotering er ikke tilgjengelig</translation>
 <translation id="5201306358585911203">På en innebygd side på denne siden står det</translation>
-<translation id="5204468114771111727">Chrome har funnet passordet du nettopp brukte, i et databrudd. Google-assistenten kan endre passordet ditt automatisk.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser har funnet passordet du nettopp brukte, i et databrudd. Google-assistenten kan endre passordet ditt automatisk.</translation>
 <translation id="5205222826937269299">Navn er obligatorisk</translation>
 <translation id="5209518306177824490">SHA-1-fingeravtrykk</translation>
 <translation id="5209670883520018268">Skuff 20</translation>
@@ -1681,7 +1681,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5239623327352565343">Posisjon er tillatt</translation>
 <translation id="5242889659037569123">Bagasje og reisetilbehør</translation>
 <translation id="5250209940322997802">«Koble til nettverk»</translation>
-<translation id="52517543715119994">Lær om Chrome-funksjoner</translation>
+<translation id="52517543715119994">Lær om WEB3 DNA Browser-funksjoner</translation>
 <translation id="5251803541071282808">Nettsky</translation>
 <translation id="5254043433801397071">Optimaliser utskriftsinnhold</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1703,7 +1703,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5287456746628258573">Dette nettstedet bruker en utdatert sikkerhetskonfigurasjon, som betyr at informasjonen din (for eksempel passord eller kredittkortnumre) kan bli avslørt når den sendes til dette nettstedet.</translation>
 <translation id="5288108484102287882">Det har oppstått advarsler under validering av regelverdier</translation>
 <translation id="5288393065350884210">Regnskap og revisjon</translation>
-<translation id="5288808348893593856">Tilkoblingen til nettstedet er sikker om ikke Chrome forteller deg noe annet.</translation>
+<translation id="8429736460204202092">Tilkoblingen til nettstedet er sikker om ikke WEB3 DNA Browser forteller deg noe annet.</translation>
 <translation id="5289384342738547352">Håndtering av flere dokumenter</translation>
 <translation id="5293919335876685914">Kupeer</translation>
 <translation id="5296589789433599000">Mat og oppskrifter</translation>
@@ -1722,14 +1722,14 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5324080437450482387">Velg kontaktinformasjon</translation>
 <translation id="5329858041417644019">Nettleseren din administreres ikke</translation>
 <translation id="5332219387342487447">Leveringsmetode</translation>
-<translation id="5333022057423422993">Chrome har funnet passordet du nettopp brukte, i et databrudd. For å sikre kontoene dine anbefaler vi at du sjekker de lagrede passordene dine.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser har funnet passordet du nettopp brukte, i et databrudd. For å sikre kontoene dine anbefaler vi at du sjekker de lagrede passordene dine.</translation>
 <translation id="5334013548165032829">Detaljerte systemlogger</translation>
 <translation id="5334145288572353250">Lagre adresse?</translation>
 <translation id="5335920952954443287">Bankende hjerte</translation>
 <translation id="5340250774223869109">Programmet er blokkert</translation>
 <translation id="534295439873310000">NFC-enheter</translation>
 <translation id="5344579389779391559">Denne siden kan prøve å belaste deg for penger</translation>
-<translation id="5347645913823149105">«Tilpass skrifttyper i Chrome»-knappen – trykk på Enter for å tilpasse skriftstørrelser og -typer i Chrome</translation>
+<translation id="5347645913823149105">«Tilpass skrifttyper i WEB3 DNA Browser»-knappen – trykk på Enter for å tilpasse skriftstørrelser og -typer i WEB3 DNA Browser</translation>
 <translation id="5355557959165512791">Du kan ikke gå til <ph name="SITE" /> akkurat nå, siden sertifikatet for nettstedet er trukket tilbake. Nettverksfeil- og angrep er vanligvis midlertidige, så denne siden fungerer sannsynligvis senere.</translation>
 <translation id="5356837363448394805">Rødmende</translation>
 <translation id="5357848622083956825">Visuell kunst og design</translation>
@@ -1748,7 +1748,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="540630185148148480">Slå på varsler</translation>
 <translation id="540969355065856584">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Sikkerhetssertifikatet til tjeneren er ikke gyldig for øyeblikket. Dette kan være forårsaket av en feilkonfigurasjon eller en angriper som lytter på tilkoblingen din.</translation>
 <translation id="5412040515238827314">Ugyldig format: Forventet en liste over mønstre.</translation>
-<translation id="5412236728747081950">Dette nettstedet mottar interessene dine fra Chrome for å kunne vise deg mer relevante annonser</translation>
+<translation id="3825896935771081728">Dette nettstedet mottar interessene dine fra WEB3 DNA Browser for å kunne vise deg mer relevante annonser</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> – <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Hylle 4</translation>
 <translation id="5414511064953050917">Flytt likevel</translation>
@@ -1791,7 +1791,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å gi tilgjengelighetsverktøyene dine personlig preg i ChromeOS-innstillingene</translation>
 <translation id="5528532273234423708">Smarthus</translation>
 <translation id="55293785478302737">Kantstifting</translation>
-<translation id="5535133333442455806">Knappen «Slett nettlesingsdata» – trykk på Enter for å tømme nettleserloggen, slette informasjonskapsler, tømme bufferen med mer i Chrome-innstillingene</translation>
+<translation id="5535133333442455806">Knappen «Slett nettlesingsdata» – trykk på Enter for å tømme nettleserloggen, slette informasjonskapsler, tømme bufferen med mer i WEB3 DNA Browser-innstillingene</translation>
 <translation id="5536214594743852365">Vis «<ph name="SECTION" />»-delen</translation>
 <translation id="553782666181800029">Chou 2-konvolutt</translation>
 <translation id="5539243836947087108">Flåte</translation>
@@ -1801,7 +1801,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5541546772353173584">Legg til e-post</translation>
 <translation id="5545756402275714221">Artikler for deg</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="5552137475244467770">Chrome sjekker passordene dine regelmessig mot lister som er lagt ut på nett. Når dette gjøres, er passordene og brukernavnene dine kryptert. Det betyr at ingen kan lese dem, ikke engang Google.</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser sjekker passordene dine regelmessig mot lister som er lagt ut på nett. Når dette gjøres, er passordene og brukernavnene dine kryptert. Det betyr at ingen kan lese dem, ikke engang Google.</translation>
 <translation id="5556459405103347317">Last inn på nytt</translation>
 <translation id="5560088892362098740">Utløpsdato</translation>
 <translation id="55635442646131152">Dokumentoversikt</translation>
@@ -1864,7 +1864,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5720705177508910913">Gjeldende bruker</translation>
 <translation id="5723287205918986743">Forsvarsindustri</translation>
 <translation id="5725567311035061582">Administrer informasjonskapsler og nettstedsdata</translation>
-<translation id="5730040223043577876">Chrome anbefaler at du tilbakestiller passordet ditt hvis du også har brukt det på andre nettsteder.</translation>
+
 <translation id="5736165827969430182">Metaller og gruvedrift</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Lagre kort i Google-kontoen din}other{Lagre kort i Google-kontoen din}}</translation>
 <translation id="5738385766833540397">Administrer hvordan du mottar varsler om avslag for produkter du sporer</translation>
@@ -1890,14 +1890,14 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5784606427469807560">Det oppsto et problem under forsøket på å bekrefte kortet ditt. Kontroller Internett-tilkoblingen din, og prøv igjen.</translation>
 <translation id="5785756445106461925">Denne siden inneholder i tillegg andre ressurser som ikke er sikre. Disse ressursene er synlige for andre mens de sendes frem og tilbake, og eventuelle angripere kan modifisere dem for å endre på utseendet til siden.</translation>
 <translation id="5786044859038896871">Vil du fylle ut kortinformasjonen?</translation>
-<translation id="578633867165174378">Chrome har funnet passordet du nettopp brukte, i et databrudd. Vi anbefaler at du endrer dette passordet nå.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser har funnet passordet du nettopp brukte, i et databrudd. Vi anbefaler at du endrer dette passordet nå.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Vil du fylle ut informasjonen knyttet til <ph name="CARD_DETAIL" />?</translation>
 <translation id="5804241973901381774">Tillatelser</translation>
-<translation id="5808435672482059465">Se Chrome-loggen din</translation>
+<translation id="7552154626705223867">Se WEB3 DNA Browser-loggen din</translation>
 <translation id="5808542072418270309">Simulatorspill</translation>
 <translation id="5810442152076338065">Tilkoblingen til <ph name="DOMAIN" /> er kryptert med en foreldet chifferserie.</translation>
-<translation id="5812947184178430888">Når Chrome flagger sikkerhetshendelser, sendes relevante data om hendelsen til administratoren din. Dette kan omfatte nettadressene til sider du besøker i Chrome, filnavn, metadata og brukernavnet du bruker når du logger på nettbaserte programmer, enheten din og Chrome.</translation>
+<translation id="8479644990349381409">Når WEB3 DNA Browser flagger sikkerhetshendelser, sendes relevante data om hendelsen til administratoren din. Dette kan omfatte nettadressene til sider du besøker i WEB3 DNA Browser, filnavn, metadata og brukernavnet du bruker når du logger på nettbaserte programmer, enheten din og WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Legg til likevel</translation>
 <translation id="5813309815819933152">Reality-serier</translation>
 <translation id="5813753398265398978">Fysikk</translation>
@@ -2014,10 +2014,10 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6118782133429281336">Opphavslisten er tom.</translation>
 <translation id="6120179357481664955">Husker du UPI-ID-en din?</translation>
 <translation id="6122181661879998141">forsiden av kortet</translation>
-<translation id="6124432979022149706">Chrome Enterprise Connectors</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise Connectors</translation>
 <translation id="6126565365696310362">Kinesisk konvolutt nr. 2</translation>
 <translation id="6127379762771434464">Elementet er fjernet</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Finn ut mer om Incognito i Chrome<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Filetternavnet er tomt eller feilformatert.</translation>
 <translation id="6139975341602920272">17 x 22 tommer</translation>
 <translation id="6146055958333702838">Sjekk alle kabler, og start rutere, modemer eller andre nettverksenheter
@@ -2043,10 +2043,10 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6197648101609735209">89 x 89 mm</translation>
 <translation id="6203231073485539293">Kontroller Internett-tilkoblingen</translation>
 <translation id="6212314149070368045">US Fanfold</translation>
-<translation id="6218753634732582820">Vil du fjerne adressen fra Chromium?</translation>
+
 <translation id="622039917539443112">Parallellfals</translation>
 <translation id="6221345481584921695">Google Safe Browsing oppdaget nylig <ph name="BEGIN_LINK" />skadelig programvare<ph name="END_LINK" /> på <ph name="SITE" />. Nettsteder som vanligvis er trygge, kan noen ganger være infisert med skadelig programvare. Det skadelige innholdet kommer fra <ph name="SUBRESOURCE_HOST" />, som er en kjent distributør av skadelig programvare.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å gi tilgjengelighetsverktøyene dine personlig preg i Chrome-innstillingene</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å gi tilgjengelighetsverktøyene dine personlig preg i WEB3 DNA Browser-innstillingene</translation>
 <translation id="6229649258872345286">Familiereise</translation>
 <translation id="6232271601416750929">Ren skjønnhet</translation>
 <translation id="6233160458685643793">Flirende</translation>
@@ -2055,7 +2055,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6240447795304464094">Google Pay-logo</translation>
 <translation id="6241121617266208201">Skjul forslag</translation>
 <translation id="624499991300733384">Utskriftskomposisjonstjeneste</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere filer du har lastet ned i Chrome</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere filer du har lastet ned i WEB3 DNA Browser</translation>
 <translation id="6254436959401408446">Det er ikke nok minne til å åpne denne siden</translation>
 <translation id="6259156558325130047">&amp;Omorganiser likevel</translation>
 <translation id="6263376278284652872"><ph name="DOMAIN" />-bokmerker</translation>
@@ -2063,21 +2063,21 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6264485186158353794">Tilbake til trygg grunn</translation>
 <translation id="6265794661083428563">Kopiér verdien av <ph name="POLICY_NAME" />-regelen</translation>
 <translation id="6266934640124581640">Lys blågrønn</translation>
-<translation id="6272088941196661550">Fortsett reisen for å se relevant aktivitet i Chrome-loggen</translation>
+<translation id="1989642600714730446">Fortsett reisen for å se relevant aktivitet i WEB3 DNA Browser-loggen</translation>
 <translation id="6272383483618007430">Google Oppdatering</translation>
 <translation id="6276112860590028508">Sider fra leselisten din vises her</translation>
 <translation id="627746635834430766">For å betale raskere neste gang, lagre kortet ditt og faktureringsadressen i Google-kontoen din.</translation>
 <translation id="6279183038361895380">Trykk på |<ph name="ACCELERATOR" />| for å se markøren</translation>
 <translation id="6280223929691119688">Kan ikke levere til denne adressen. Velg en annen adresse.</translation>
 <translation id="6284292079994426700">26 x 38 tommer</translation>
-<translation id="6285507000506177184">Knappen «Administrer nedlastinger i Chrome» – trykk på Enter for å administrere filer du har lastet ned i Chrome</translation>
+<translation id="6285507000506177184">Knappen «Administrer nedlastinger i WEB3 DNA Browser» – trykk på Enter for å administrere filer du har lastet ned i WEB3 DNA Browser</translation>
 <translation id="6289939620939689042">Sidefarge</translation>
 <translation id="6290238015253830360">De foreslåtte artiklene dine vises her</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Enheten startes på nytt nå}=1{Enheten startes på nytt om 1 sekund}other{Enheten startes på nytt om # sekunder}}</translation>
 <translation id="6301104306974789820">Få varsler om prissporing</translation>
-<translation id="6302269476990306341">Stopper Google-assistenten i Chrome</translation>
+<translation id="6804344251855709483">Stopper Google-assistenten i WEB3 DNA Browser</translation>
 <translation id="6305205051461490394"><ph name="URL" /> er ikke tilgjengelig.</translation>
 <translation id="6311165245110979290">Virtuelt kort er tilgjengelig</translation>
 <translation id="6312113039770857350">Nettsiden er ikke tilgjengelig</translation>
@@ -2086,7 +2086,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6319249456820053699">Kameraer og videokameraer</translation>
 <translation id="6321917430147971392">Kontroller DNS-innstillingene dine</translation>
 <translation id="6322182122604171028">Kunne ikke bruke Windows Hello</translation>
-<translation id="6326947323444967009">Angi Chrome som systemets standardnettleser i iOS-innstillingene</translation>
+<translation id="6326947323444967009">Angi WEB3 DNA Browser som systemets standardnettleser i iOS-innstillingene</translation>
 <translation id="6328639280570009161">Prøv å slå av nettverksforutsigelse</translation>
 <translation id="6328784461820205019">«Tilkoblingen din er ikke privat», «&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;», «&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;», «&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;», «&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;» eller «SSL-sertifikatfeil»</translation>
 <translation id="6328786501058569169">Dette nettstedet er villedende</translation>
@@ -2097,7 +2097,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6348220984832452017">Aktive variasjoner</translation>
 <translation id="6349101878882523185">Installer <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Ingen}=1{1 passord (for <ph name="DOMAIN_LIST" /> – synkronisert)}=2{2 passord (for <ph name="DOMAIN_LIST" /> – synkronisert)}other{# passord (for <ph name="DOMAIN_LIST" /> – synkronisert)}}</translation>
-<translation id="6355392890578844978">Denne nettleseren administreres ikke av et selskap eller en annen organisasjon. Aktiviteten på denne enheten kan bli administrert utenfor Chromium. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Denne nettleseren administreres ikke av et selskap eller en annen organisasjon. Aktiviteten på denne enheten kan bli administrert utenfor WEB3 DNA Browser. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Hva innebærer dette?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />å sjekke konfigurasjonen for proxy-tjener, brannmur og sikker DNS<ph name="END_LINK" /></translation>
@@ -2122,7 +2122,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6405181733356710802">Vil du fortsette til <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Skriv inn utløpsdatoen og verifiseringskoden for <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium kan hjelpe deg med å beskytte Google-kontoen din og endre passordet ditt.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser kan hjelpe deg med å beskytte Google-kontoen din og endre passordet ditt.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Materiale</translation>
 <translation id="6427730057873428458">Vindusfals</translation>
@@ -2160,7 +2160,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6502626736864595182">Leverandører av forumer og chat</translation>
 <translation id="6502991525169604759">Uten endringene dine</translation>
 <translation id="6506959208958864820">Konvolutt</translation>
-<translation id="6508722015517270189">Start Chrome på nytt</translation>
+
 <translation id="6513005815064132016">Kan be om å få spore kameraposisjonen din</translation>
 <translation id="6517596291481585650">Advarsel: Denne regelen ble ikke sammenslått som en regelspesifisert liste fordi den ikke er en liste.</translation>
 <translation id="6518133107902771759">Bekreft</translation>
@@ -2181,11 +2181,11 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="657902945730878902">Tegning og fargelegging</translation>
 <translation id="6579630537141957243">Vil du koble til MIDI-enheten din?</translation>
 <translation id="6579990219486187401">Lys rosa</translation>
-<translation id="6587182488465657433">Chrome har funnet passordet du nettopp brukte, i et databrudd. For å sikre kontoene dine anbefaler vi at du endrer passordet nå, og deretter sjekker de lagrede passordene dine.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser har funnet passordet du nettopp brukte, i et databrudd. For å sikre kontoene dine anbefaler vi at du endrer passordet nå, og deretter sjekker de lagrede passordene dine.</translation>
 <translation id="6587893660316489419">B5-konvolutt</translation>
 <translation id="6587923378399804057">Linken du kopierte</translation>
 <translation id="6591833882275308647"><ph name="DEVICE_TYPE" /> administreres ikke</translation>
-<translation id="6592952801936330159">Knappen «Administrer nettstedsinnstillinger» – trykk på Enter for å administrere tillatelser og data som er lagret på nettsteder, i Chrome-innstillingene</translation>
+<translation id="6592952801936330159">Knappen «Administrer nettstedsinnstillinger» – trykk på Enter for å administrere tillatelser og data som er lagret på nettsteder, i WEB3 DNA Browser-innstillingene</translation>
 <translation id="6596325263575161958">Krypteringsalternativer</translation>
 <translation id="6599642189720630047">Sporede produkter</translation>
 <translation id="6611723696964473273">Økonominyheter</translation>
@@ -2202,7 +2202,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6645291930348198241">få tilgang til informasjonskapsler og nettstedsdata</translation>
 <translation id="6645478838938543427">Varsler om avslag blir sendt til <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Ingen}=1{Fra 1 nettsted (du blir ikke logget av Google-kontoen din)}other{Fra # nettsteder (du blir ikke logget av Google-kontoen din)}}</translation>
-<translation id="6648459603387803038">Administratoren kan endre nettleseroppsettet eksternt. Aktiviteten på denne enheten kan også administreres utenfor Chrome.</translation>
+<translation id="6228269625838082008">Administratoren kan endre nettleseroppsettet eksternt. Aktiviteten på denne enheten kan også administreres utenfor WEB3 DNA Browser.</translation>
 <translation id="6648524591329069940">Med seriffer</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
 <translation id="6651270836885078973">Administreres av:</translation>
@@ -2214,7 +2214,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6663846344464066639">Foldede hender</translation>
 <translation id="6665553082534466207">Tre hull høyre</translation>
 <translation id="6668389483194953109">Fant en papirstørrelse med navnet «custom», men «custom_size»-egenskapen er tom eller ugyldig.</translation>
-<translation id="6671697161687535275">Vil du fjerne forslaget fra Chromium?</translation>
+<translation id="3922033200710514285">Vil du fjerne forslaget fra WEB3 DNA Browser?</translation>
 <translation id="6683717648675961851">Stillingsannonser</translation>
 <translation id="6685834062052613830">Logg av og fullfør konfigurasjonen</translation>
 <translation id="6687335167692595844">Forespurt skriftstørrelse</translation>
@@ -2222,7 +2222,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6688743156324860098">Oppdater …</translation>
 <translation id="6688775486821967877">Virtuelt kort er ikke tilgjengelig akkurat nå – prøv igjen senere</translation>
 <translation id="6689249931105087298">Relativ med svartpunktkomprimering</translation>
-<translation id="6689271823431384964">Chrome tilbyr å lagre kort i Google-kontoen din fordi du er logget på. Du kan endre dette i innstillingene. Kortinnehaverens navn kommer fra kontoen din.</translation>
+<translation id="6568883612935818921">WEB3 DNA Browser tilbyr å lagre kort i Google-kontoen din fordi du er logget på. Du kan endre dette i innstillingene. Kortinnehaverens navn kommer fra kontoen din.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å finne enheten din i Google-kontoen</translation>
 <translation id="6696588630955820014">«Del denne fanen»-knappen – trykk på Enter for å dele denne fanen via en link, en QR-kode, casting eller annet</translation>
 <translation id="6698381487523150993">Opprettet:</translation>
@@ -2287,7 +2287,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6883221904761970440">Ark for sikker autentisering av betalingslegitimasjon er lukket</translation>
 <translation id="6884662655240309489">Størrelse 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome har forenklet denne siden for å gjøre den lettere å lese. Chrome hentet den opprinnelige siden via en usikker forbindelse.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser har forenklet denne siden for å gjøre den lettere å lese. WEB3 DNA Browser hentet den opprinnelige siden via en usikker forbindelse.</translation>
 <translation id="6890443033788248019">Vil du gi posisjonstillatelse?</translation>
 <translation id="6890531741535756070">Du har valgt å verifisere med <ph name="DEVICE_LABEL" /> på nettsteder som bruker <ph name="PROVIDER_ORIGIN" />. Denne leverandøren kan ha lagret informasjon om betalingsmåten din, som du kan <ph name="BEGIN_LINK" />be om å få slettet<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Innstillingsnivået støttes ikke.</translation>
@@ -2360,7 +2360,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7058774143982824355">Tjeneste for parsing av CSV-passord</translation>
 <translation id="7061777300866737982">Hjemmesikring og sikkerhet</translation>
 <translation id="7062635574500127092">Blågrønn</translation>
-<translation id="706295145388601875">Legg til og administrer adresser i Chrome-innstillingene</translation>
+<translation id="706295145388601875">Legg til og administrer adresser i WEB3 DNA Browser-innstillingene</translation>
 <translation id="7064851114919012435">Kontaktinformasjon</translation>
 <translation id="7067633076996245366">Soul og R&amp;B</translation>
 <translation id="7068733155164172741">Skriv inn den <ph name="OTP_LENGTH" />-sifrede koden</translation>
@@ -2371,11 +2371,11 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7081308185095828845">Denne funksjonen er ikke tilgjengelig på enheten din</translation>
 <translation id="7083258188081898530">Skuff 9</translation>
 <translation id="7086090958708083563">Opplasting forespurt av bruker</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere tillatelser og data som er lagret på nettsteder, i Chrome-innstillingene</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere tillatelser og data som er lagret på nettsteder, i WEB3 DNA Browser-innstillingene</translation>
 <translation id="7096937462164235847">Identiteten til dette nettstedet er ikke bekreftet.</translation>
 <translation id="7101893872976785596">Skrekkfilmer</translation>
 <translation id="7102079138917191645">Bygging og vedlikehold</translation>
-<translation id="7102554173784142865">Spill Chrome Dino-spillet</translation>
+<translation id="7102554173784142865">Spill WEB3 DNA Browser Dino-spillet</translation>
 <translation id="7108338896283013870">Skjul</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> ber om å bruke kameraet ditt</translation>
 <translation id="7108819624672055576">Tillatt av en utvidelse</translation>
@@ -2383,12 +2383,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7112327784801341716">Er ikke informasjonen riktig? Kontakt banken for å oppdatere den.</translation>
 <translation id="7118618213916969306">Søk etter nettadressen <ph name="SHORT_URL" /> på utklippstavlen</translation>
 <translation id="7119414471315195487">Lukk andre faner eller programmer</translation>
-<translation id="7129355289156517987">Når du lukker alle inkognitofaner i Chromium, blir aktiviteten din på de aktuelle fanene fjernet fra enheten:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Nettleseraktivitet<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Søkelogg<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Informasjon du har lagt inn i skjemaer<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Kan ikke sende til denne adressen. Velg en annen adresse.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Blokkert opplasting</translation>
@@ -2474,13 +2469,13 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7359588939039777303">Annonser er blokkert.</translation>
 <translation id="7360451453306104998">Når Google finner tilgjengelige rabatter, vises de i kassen</translation>
 <translation id="7363096869660964304">Du er imidlertid ikke usynlig. Inkognitomodus skjuler ikke surfingen din for arbeidsgiveren din, internettleverandøren din eller nettstedene du besøker.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å legge til og administrere adresser i Chrome-innstillingene</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å legge til og administrere adresser i WEB3 DNA Browser-innstillingene</translation>
 <translation id="7365849542400970216">Kan nettstedet få vite når enheten er i bruk?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Betalingsbehandlere</translation>
 <translation id="7372973238305370288">søkeresultat</translation>
 <translation id="7374461526650987610">Protokollbehandlere</translation>
-<translation id="7374733840632556089">Dette problemet oppstår på grunn av et sertifikat du eller noen andre har installert på enheten. Det er kjent at sertifikatet brukes til nettverksavlytting og -overvåking, og Chrome stoler ikke på det. Selv om det finnes legitime bruksområder for overvåking, f.eks. på skole- eller bedriftsnettverk, vil Chrome sørge for at du er klar over at det foregår, selv om du ikke kan stoppe det. Overvåking kan skje i alle nettlesere og applikasjoner som bruker nettet.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Ingen nettsteder er tillatt}=1{1 nettsted er tillatt}other{# nettsteder er tillatt}}</translation>
 <translation id="7375818412732305729">Filer legges ved</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> – <ph name="FULL_DATE" /></translation>
@@ -2498,7 +2493,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7400418766976504921">Nettadresse</translation>
 <translation id="7403392780200267761">Del denne fanen via en link, en QR-kode, casting eller annet</translation>
 <translation id="7403591733719184120"><ph name="DEVICE_NAME" /> administreres</translation>
-<translation id="7407424307057130981">&lt;p&gt;Du ser denne feilen hvis du har Superfish-programvare på Windows-datamaskinen din.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Du ser denne feilen hvis du har Superfish-programvare på Windows-datamaskinen din.&lt;/p&gt;
       &lt;p&gt;Følg disse trinnene for å deaktivere programvaren midlertidig, sånn at du kan komme deg på nettet. Du må ha administratorrettigheter.&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;Klikk på &lt;strong&gt;Start&lt;/strong&gt;, og søk etter og velg &lt;strong&gt;«Vis lokale tjenester»&lt;/strong&gt;.
@@ -2506,7 +2501,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
       &lt;li&gt;Velg &lt;strong&gt;Deaktivert&lt;/strong&gt; under &lt;strong&gt;Oppstartstype&lt;/strong&gt;.
       &lt;li&gt;Klikk på &lt;strong&gt;Stopp&lt;/strong&gt; under &lt;strong&gt;Tjenestestatus&lt;/strong&gt;.
       &lt;li&gt;Klikk på &lt;strong&gt;Bruk&lt;/strong&gt; og deretter på &lt;strong&gt;OK&lt;/strong&gt;.
-      &lt;li&gt;Gå til &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;brukerstøtten for Chrome&lt;/a&gt; for å finne ut hvordan du fjerner programvaren fra datamaskinen permanent.
+      &lt;li&gt;Gå til &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;brukerstøtten for WEB3 DNA Browser&lt;/a&gt; for å finne ut hvordan du fjerner programvaren fra datamaskinen permanent.
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Nydelig</translation>
 <translation id="741204030948306876">Ja, jeg er med</translation>
@@ -2514,7 +2509,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7418620734632363981">Programmering</translation>
 <translation id="7419106976560586862">Profilbane</translation>
 <translation id="7421067045979951561">protokollbehandlere</translation>
-<translation id="7426022697669111648">«Se Chrome-loggen din»-knappen – trykk på Enter for å se og administrere nettleserloggen din i Chrome-innstillingene</translation>
+<translation id="7426022697669111648">«Se WEB3 DNA Browser-loggen din»-knappen – trykk på Enter for å se og administrere nettleserloggen din i WEB3 DNA Browser-innstillingene</translation>
 <translation id="7427366580982928791">Barnesikkerhet på nettet</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Legg til kontaktinformasjon</translation>
@@ -2543,12 +2538,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7497998058912824456">Knappen «Opprett dokument» – trykk på Enter for å opprette et nytt Google-dokument raskt</translation>
 <translation id="7501663406926337752">Organisasjonen din har flagget nettstedet du prøver å besøke</translation>
 <translation id="7501853161948120656">Utdanningsressurser</translation>
-<translation id="7506488012654002225">Chromium <ph name="BEGIN_EMPHASIS" />lagrer ikke<ph name="END_EMPHASIS" /> følgende informasjon:
-        <ph name="BEGIN_LIST" />
-          <ph name="LIST_ITEM" />Nettleserloggen din
-          <ph name="LIST_ITEM" />Informasjonskapsler og nettstedsdata
-          <ph name="LIST_ITEM" />Informasjon du legger inn i skjemaer
-        <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Konvolutt nr. 9</translation>
 <translation id="7508255263130623398">Den returnerte enhets-ID-en for regelen er tom eller samsvarer ikke med den faktiske enhets-ID-en</translation>
 <translation id="7508870219247277067">Avokadogrønn</translation>
@@ -2570,7 +2560,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7542995811387359312">Automatisk utfylling av kredittkort er deaktivert fordi dette skjemaet ikke bruker en sikker tilkobling.</translation>
 <translation id="7548892272833184391">Fiks tilkoblingsfeil</translation>
 <translation id="7549584377607005141">Denne nettsiden krever data som du har skrevet inn tidligere for å vises korrekt. Du kan sende inn dataene på nytt, men hvis du gjør det, gjentas eventuelle handlinger denne siden utførte.</translation>
-<translation id="7550637293666041147">Brukernavnet ditt på enheten og i Chrome</translation>
+<translation id="4843621636877577887">Brukernavnet ditt på enheten og i WEB3 DNA Browser</translation>
 <translation id="7551484245293639699">Reiseforsikring</translation>
 <translation id="755279583747225797">Utprøving er aktiv</translation>
 <translation id="7552846755917812628">Prøv følgende tips:</translation>
@@ -2578,13 +2568,13 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7554791636758816595">Ny fane</translation>
 <translation id="7555777498260651025">Familievennlige TV-programmer</translation>
 <translation id="7559278538486662777">Du kan ikke endre størrelse på denne appen.</translation>
-<translation id="7564049878696755256">Du kan miste tilgangen til <ph name="ORG_NAME" />-kontoen din eller bli utsatt for identitetstyveri. Chrome anbefaler at du endrer passordet ditt nå.</translation>
+<translation id="8940464370390138384">Du kan miste tilgangen til <ph name="ORG_NAME" />-kontoen din eller bli utsatt for identitetstyveri. WEB3 DNA Browser anbefaler at du endrer passordet ditt nå.</translation>
 <translation id="7564680668369175887">Stasjonsvogner</translation>
 <translation id="7567204685887185387">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Tjenerens sikkerhetssertifikat kan ha blitt utstedt på uredelig vis. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
-<translation id="7568616151991626879">Google Chrome prøver å fylle ut passordet ditt på <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser prøver å fylle ut passordet ditt på <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">«Administrer søkemotorer»-knappen – trykk på Enter for å administrere standard søkemotor og nettstedsøk</translation>
-<translation id="7569952961197462199">Vil du fjerne kredittkortet fra Chrome?</translation>
+<translation id="9202224267417193484">Vil du fjerne kredittkortet fra WEB3 DNA Browser?</translation>
 <translation id="7569983096843329377">Svart</translation>
 <translation id="7575207903026901870">Knapp for å fjerne forslag – trykk på Enter for å fjerne dette forslaget</translation>
 <translation id="7577900504646297215">Administrer interesser</translation>
@@ -2603,15 +2593,15 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7600965453749440009">Oversett aldri <ph name="LANGUAGE" /></translation>
 <translation id="7610193165460212391">Verdien er utenfor rekkevidden <ph name="VALUE" />.</translation>
 <translation id="7613889955535752492">Utløpsdato: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å se og administrere passord i Chrome-innstillingene</translation>
-<translation id="7616645509853975347">Administratoren har slått på Chrome Enterprise Connectors i nettleseren din. Disse koblingene har tilgang til noen av dataene dine.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å se og administrere passord i WEB3 DNA Browser-innstillingene</translation>
+<translation id="2698924724374512123">Administratoren har slått på WEB3 DNA Browser Enterprise Connectors i nettleseren din. Disse koblingene har tilgang til noen av dataene dine.</translation>
 <translation id="7617825962482469577">C7-/C6-konvolutt</translation>
 <translation id="7619838219691048931">Sluttark</translation>
 <translation id="7625242817712715120">Administratorreglene anbefaler ikke at du skriver ut dette innholdet</translation>
 <translation id="762844065391966283">Enkeltvis</translation>
 <translation id="7631444403134069754">Friidrett</translation>
 <translation id="7633909222644580952">Ytelsesdata og programstopprapporter</translation>
-<translation id="7637571805876720304">Vil du fjerne kredittkortet fra Chromium?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Ingen}=1{1 passord i kontoen (for <ph name="DOMAIN_LIST" />)}other{# passord i kontoen (for <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Serielle porter</translation>
 <translation id="7639968568612851608">Mørk grå</translation>
@@ -2635,7 +2625,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7673278391011283842">Postkasse 6</translation>
 <translation id="7675325315208090829">Administrer betalingsmåter…</translation>
 <translation id="7676643023259824263">Søk etter teksten <ph name="TEXT" /> på utklippstavlen</translation>
-<translation id="7679367271685653708">Se og administrer nettleserloggen din i Chrome-innstillingene</translation>
+<translation id="7679367271685653708">Se og administrer nettleserloggen din i WEB3 DNA Browser-innstillingene</translation>
 <translation id="7679947978757153706">Baseball</translation>
 <translation id="7681273392938116652">Fantasisport</translation>
 <translation id="7682287625158474539">Forsendelse</translation>
@@ -2664,7 +2654,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7740996059027112821">Standard</translation>
 <translation id="77424286611022110">Dette nettstedet viser forstyrrende eller villedende annonser. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Farlig innhold er blokkert.</translation>
-<translation id="7751971323486164747">Tilpass skriftstørrelser og -typer i Chrome</translation>
+<translation id="7751971323486164747">Tilpass skriftstørrelser og -typer i WEB3 DNA Browser</translation>
 <translation id="7752995774971033316">Administreres ikke</translation>
 <translation id="7755624218968747854">Hovedrull</translation>
 <translation id="7758069387465995638">Brannmur- eller antivirusprogramvare kan ha blokkert tilkoblingen.</translation>
@@ -2688,7 +2678,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7805571567667010077">Administreres av organisasjonen din</translation>
 <translation id="7805768142964895445">Status</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Vil du fjerne skjemaforslaget fra Chrome?</translation>
+
 <translation id="781440967107097262">Vil du dele utklippstavlen din?</translation>
 <translation id="7815407501681723534">Fant <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> for «<ph name="SEARCH_STRING" />»</translation>
 <translation id="7822320754433038727">Jakt og skyting</translation>
@@ -2723,8 +2713,8 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7943397946612013052">Blokkert nedlasting</translation>
 <translation id="7943893128817522649">Kan be om å få laste ned flere filer automatisk</translation>
 <translation id="7947285636476623132">Kontroller utløpsdatoen, og prøv igjen</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å lære om Chrome-funksjoner</translation>
-<translation id="7950027195171824198">Administrer preferansene dine for informasjonskapsler i Chrome-innstillingene</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å lære om WEB3 DNA Browser-funksjoner</translation>
+<translation id="7950027195171824198">Administrer preferansene dine for informasjonskapsler i WEB3 DNA Browser-innstillingene</translation>
 <translation id="7951415247503192394">(32-bit)</translation>
 <translation id="7952192831285741665">European EDP</translation>
 <translation id="7953569069500808819">Kantstifting topp</translation>
@@ -2739,7 +2729,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7981129096182302364">Dance og elektronisk musikk</translation>
 <translation id="798134797138789862">Kan be om å få bruke virtuell virkelighet-enheter og -data</translation>
 <translation id="7983008347525536475">SUV-er</translation>
-<translation id="7984945080620862648">Du kan ikke gå til <ph name="SITE" /> akkurat nå fordi nettstedet sendte kryptert legitimasjon som Chrome ikke kan behandle. Nettverksfeil og -angrep er som regel kortvarige, så denne siden fungerer nok igjen senere.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Innbinding</translation>
 <translation id="7992044431894087211">Skjermdeling med <ph name="APPLICATION_TITLE" /> er gjenopptatt</translation>
@@ -2772,7 +2762,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="8057711352706143257">«<ph name="SOFTWARE_NAME" />» er ikke riktig konfigurert. Avinstallering av «<ph name="SOFTWARE_NAME" />» løser vanligvis problemet. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Matproduksjon</translation>
 <translation id="8066225060526005217">Administreres av innstillinger for informasjonskapsler</translation>
-<translation id="8067872629359326442">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. Chromium kan hjelpe deg. For å bytte passord og varsle Google om at kontoen din kanskje er i fare, klikk på Beskytt konto.</translation>
+
 <translation id="8070439594494267500">Appikon</translation>
 <translation id="8075736640322370409">Opprett et nytt Google-regneark raskt</translation>
 <translation id="8075898834294118863">Administrer nettstedsinnstillinger</translation>
@@ -2802,7 +2792,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="8116925261070264013">Kuttet lyd</translation>
 <translation id="8118489163946903409">Betalingsmåte</translation>
 <translation id="8123046743443732598">Stasjonære datamaskiner</translation>
-<translation id="8124639700796374294">«Tilpass Chrome»-knappen – trykk på Enter for å tilpasse nettleserens utseende</translation>
+<translation id="8124639700796374294">«Tilpass WEB3 DNA Browser»-knappen – trykk på Enter for å tilpasse nettleserens utseende</translation>
 <translation id="8126056688005753476">Opplevelsesreiser</translation>
 <translation id="8127301229239896662">«<ph name="SOFTWARE_NAME" />» er ikke riktig installert på datamaskinen eller på nettverket. Be IT-administratoren din om å løse problemet.</translation>
 <translation id="8131740175452115882">Bekreft</translation>
@@ -2813,7 +2803,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="8157295877370077682">Forlat nettstedet</translation>
 <translation id="8163866351304776260">Fire hull venstre</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Chrome tilbyr å lagre kort i Google-kontoen din fordi du er logget på. Du kan endre dette i innstillingene.</translation>
+<translation id="8903986195054043594">WEB3 DNA Browser tilbyr å lagre kort i Google-kontoen din fordi du er logget på. Du kan endre dette i innstillingene.</translation>
 <translation id="8176440868214972690">Enhetsadministratoren har sendt noe informasjon til de følgende nettstedene, for eksempel innstillinger eller retningslinjer.</translation>
 <translation id="8184538546369750125">Bruk global standardinnstilling (Tillat)</translation>
 <translation id="8186706823560132848">Programvare</translation>
@@ -2858,11 +2848,11 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="8270242299912238708">PDF-dokumenter</translation>
 <translation id="8275952078857499577">Ikke tilby å oversette dette nettstedet</translation>
 <translation id="8277900682056760511">Arket for betalingsbehandling er åpnet</translation>
-<translation id="8279611986089885641">Chrome-varsler må være på. Du kan slå dem på i <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">WEB3 DNA Browser-varsler må være på. Du kan slå dem på i <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">Skuff 11</translation>
 <translation id="8281886186245836920">Hopp over</translation>
 <translation id="8282947398454257691">få kjennskap til den unike enhetsidentifikatoren</translation>
-<translation id="8284769179630993263">Administrer Safe Browsing med mer i Chrome-innstillingene</translation>
+<translation id="8284769179630993263">Administrer Safe Browsing med mer i WEB3 DNA Browser-innstillingene</translation>
 <translation id="8286036467436129157">Logg på</translation>
 <translation id="8288807391153049143">Vis sertifikat</translation>
 <translation id="8289355894181816810">Kontakt nettverksadministratoren hvis du ikke er sikker på hva dette betyr.</translation>
@@ -2901,7 +2891,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="8390725133630534698">Deling fra <ph name="ORIGIN_NAME" /> til <ph name="VM_NAME" /> er blokkert av en administratorregel</translation>
 <translation id="8396522675989118466">Dette er den <ph name="NUMBER_OF_DIGITS" />-sifrede koden på <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Finn telefonen din</translation>
-<translation id="8405579342203358118">Administrer hvilken informasjon du synkroniserer, i Chrome-innstillingene</translation>
+<translation id="8405579342203358118">Administrer hvilken informasjon du synkroniserer, i WEB3 DNA Browser-innstillingene</translation>
 <translation id="8409413588194360210">betalingsbehandlere</translation>
 <translation id="8412145213513410671">Kræsj (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Du må angi den samme passordfrasen to ganger.</translation>
@@ -2912,7 +2902,7 @@ Mer informasjon:
 <translation id="8427848540066057481">500 x 750 mm</translation>
 <translation id="8428213095426709021">Innstillinger</translation>
 <translation id="8428634594422941299">Greit</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere preferansene dine for informasjonskapsler i Chrome-innstillingene</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å administrere preferansene dine for informasjonskapsler i WEB3 DNA Browser-innstillingene</translation>
 <translation id="8433057134996913067">Dette logger deg av de fleste nettsteder.</translation>
 <translation id="8434840396568290395">Kjæledyr</translation>
 <translation id="8437238597147034694">&amp;Angre flyttingen</translation>
@@ -2932,12 +2922,12 @@ Mer informasjon:
 <translation id="8473863474539038330">Adresser med mer</translation>
 <translation id="8474910779563686872">Vis utviklerdetaljer</translation>
 <translation id="8479754468255770962">Stift nede til venstre</translation>
-<translation id="8483780878231876732">For å bruke kredittkort du har lagret i Google-kontoen din, logg på Chrome</translation>
+<translation id="8483780878231876732">For å bruke kredittkort du har lagret i Google-kontoen din, logg på WEB3 DNA Browser</translation>
 <translation id="8488350697529856933">Gjelder for</translation>
 <translation id="8490137692873530638">Hylle 10</translation>
 <translation id="8493948351860045254">Frigjør plass</translation>
 <translation id="8498891568109133222"><ph name="HOST_NAME" /> brukte for lang tid på å svare.</translation>
-<translation id="8503559462189395349">Chrome-passord</translation>
+<translation id="1863492395079744896">WEB3 DNA Browser-passord</translation>
 <translation id="8503813439785031346">Brukernavn</translation>
 <translation id="8507227106804027148">Kommandolinje</translation>
 <translation id="8508648098325802031">Søkeikon</translation>
@@ -2945,8 +2935,8 @@ Mer informasjon:
 <translation id="851353418319061866">Nøyaktighetssjekk</translation>
 <translation id="8513580896341796021">Nedlastingen er startet. For å se den, trykk på |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">HID-enheten tillates av administratoren din</translation>
-<translation id="8522552481199248698">Chrome kan hjelpe deg med å beskytte Google-kontoen din og endre passordet ditt.</translation>
-<translation id="8530813470445476232">Tøm nettleserloggen, slett informasjonskapsler, tøm bufferen med mer i Chrome-innstillingene</translation>
+
+<translation id="8530813470445476232">Tøm nettleserloggen, slett informasjonskapsler, tøm bufferen med mer i WEB3 DNA Browser-innstillingene</translation>
 <translation id="853332391023689529">Pickuper</translation>
 <translation id="8533619373899488139">Gå til &lt;strong&gt;chrome://policy&lt;/strong&gt; for å se listen over blokkerte nettadresser og andre regler systemadministratoren din har fastsatt.</translation>
 <translation id="8539500321752640291">Vil du gi 2 tillatelser?</translation>
@@ -2962,7 +2952,7 @@ Mer informasjon:
 <translation id="8557066899867184262">CVC-koden finner du på baksiden av kortet.</translation>
 <translation id="8559762987265718583">En privat tilkobling til <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> kunne ikke etableres fordi datoen og klokkeslettet (<ph name="DATE_AND_TIME" />) er feil på enheten.</translation>
 <translation id="8564182942834072828">Separate dokumenter / ukollaterte eksemplarer</translation>
-<translation id="8564985650692024650">Chromium anbefaler at du tilbakestiller passordet ditt for <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> hvis du også har brukt det på andre nettsteder.</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser anbefaler at du tilbakestiller passordet ditt for <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> hvis du også har brukt det på andre nettsteder.</translation>
 <translation id="8576310925653847813">Hjemmekinosystemer</translation>
 <translation id="8577348305244205642">Virtuelt kort er ikke tilgjengelig</translation>
 <translation id="858637041960032120">Legg til telefonnummer</translation>
@@ -2994,7 +2984,7 @@ Mer informasjon:
 <translation id="868922510921656628">Sider pr. sett</translation>
 <translation id="869891660844655955">Utløpsdato</translation>
 <translation id="8699041776323235191">HID-enhet</translation>
-<translation id="8699899385443889493">«Spill Chrome Dino-spillet»-knappen – trykk på Enter for å spille Dino Run-spillet i Chrome</translation>
+<translation id="8699899385443889493">«Spill WEB3 DNA Browser Dino-spillet»-knappen – trykk på Enter for å spille Dino Run-spillet i WEB3 DNA Browser</translation>
 <translation id="8699985386408839112">Kaku 1-konvolutt</translation>
 <translation id="8703575177326907206">Tilkoblingen til <ph name="DOMAIN" /> er ikke kryptert.</translation>
 <translation id="8705331520020532516">Serienummer</translation>
@@ -3012,12 +3002,12 @@ Mer informasjon:
 <translation id="8726549941689275341">Sidestørrelse:</translation>
 <translation id="8730621377337864115">Ferdig</translation>
 <translation id="8731268612289859741">Sikkerhetskode</translation>
-<translation id="8731544501227493793">Knappen «Administrer passord» – trykk på Enter for å se og administrere passord i Chrome-innstillingene</translation>
+<translation id="8731544501227493793">Knappen «Administrer passord» – trykk på Enter for å se og administrere passord i WEB3 DNA Browser-innstillingene</translation>
 <translation id="8734529307927223492"><ph name="DEVICE_TYPE" /> administreres av <ph name="MANAGER" /></translation>
 <translation id="8736059027199600831">30 x 40 tommer</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å åpne et nytt inkognitovindu for privat surfing</translation>
 <translation id="8737685506611670901">åpne linker til <ph name="PROTOCOL" /> i stedet for <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Klokken din må være riktig stilt for at du skal kunne opprette en sikker forbindelse. Sertifikatene som nettsteder bruker til å identifisere seg med, er nemlig bare gyldige i en viss tid. Siden enhetens klokke er feil, kan ikke Chromium kontrollere disse sertifikatene.</translation>
+
 <translation id="8740359287975076522">&lt;abbr id="dnsDefinition"&gt;DNS-adressen&lt;/abbr&gt; til <ph name="HOST_NAME" /> ble ikke funnet. Problemet diagnostiseres.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> er koden din for <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Bokmerk denne fanen</translation>
@@ -3036,9 +3026,9 @@ Mer informasjon:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motorsykler</translation>
 <translation id="8790007591277257123">&amp;Slett likevel</translation>
-<translation id="8792621596287649091">Du kan miste tilgangen til <ph name="ORG_NAME" />-kontoen din eller bli utsatt for identitetstyveri. Chromium anbefaler at du endrer passordet ditt nå.</translation>
+
 <translation id="8792626944327216835">mikrofon</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> har slått på Chrome Enterprise Connectors i nettleseren din. Disse koblingene har tilgang til noen av dataene dine.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> har slått på WEB3 DNA Browser Enterprise Connectors i nettleseren din. Disse koblingene har tilgang til noen av dataene dine.</translation>
 <translation id="8798099450830957504">Standard</translation>
 <translation id="8798739476508189189">Ser du etter nettleserflagg? Besøk</translation>
 <translation id="8805819170075074995">Listeoppføringen «<ph name="LANGUAGE_ID" />»: Oppføringen er ignorert fordi den også er inkludert i regelen SpellcheckLanguage.</translation>
@@ -3046,7 +3036,7 @@ Mer informasjon:
 <translation id="8807160976559152894">Beskjær etter hver side</translation>
 <translation id="8813277370772331957">Påminn meg senere</translation>
 <translation id="8814707942599948500">C8-konvolutt</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å oppdatere Chrome fra Chrome-innstillingene</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å oppdatere WEB3 DNA Browser fra WEB3 DNA Browser-innstillingene</translation>
 <translation id="8820817407110198400">Bokmerker</translation>
 <translation id="882338992931677877">Manuelt spor</translation>
 <translation id="8830320733681313421">Hagaki-postkort</translation>
@@ -3060,7 +3050,7 @@ Mer informasjon:
 <translation id="885306012106043620">Tennis</translation>
 <translation id="8855742650226305367">Dans</translation>
 <translation id="885730110891505394">Deling med Google</translation>
-<translation id="8858065207712248076">Chrome anbefaler at du tilbakestiller passordet ditt for <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> hvis du også har brukt det på andre nettsteder.</translation>
+
 <translation id="885906927438988819">Hvis stavemåten er korrekt, kan du <ph name="BEGIN_LINK" />prøve å kjøre Windows Nettverksdiagnose<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Lydspor</translation>
 <translation id="8866481888320382733">Analysefeil i angivelsen av enhetrsinnstillinger</translation>
@@ -3080,7 +3070,7 @@ Mer informasjon:
 <translation id="8903921497873541725">Zoom inn</translation>
 <translation id="890493561996401738">Knapp for å fjerne forslag – trykk på Enter for å fjerne. <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google-konto</translation>
-<translation id="8913778647360618320">Knappen «Administrer betalingsmåter» – trykk på Enter for å administrere betalingene og kredittkortopplysningene dine i Chrome-innstillingene</translation>
+<translation id="8913778647360618320">Knappen «Administrer betalingsmåter» – trykk på Enter for å administrere betalingene og kredittkortopplysningene dine i WEB3 DNA Browser-innstillingene</translation>
 <translation id="8922013791253848639">Tillat alltid annonser på dette nettstedet</translation>
 <translation id="892588693504540538">Hull oppe til høyre</translation>
 <translation id="8930330541574156305">Eiendom</translation>
@@ -3101,7 +3091,7 @@ Mer informasjon:
 <translation id="8975263830901772334">Navnene på filer du skriver ut</translation>
 <translation id="8978053250194585037">Google Safe Browsing <ph name="BEGIN_LINK" />oppdaget nylig nettfisking<ph name="END_LINK" /> på <ph name="SITE" />. Nettsteder for nettfisking er laget for å ligne på andre nettsteder, for å prøve å lure deg.</translation>
 <translation id="8983369100812962543">Nå kan du endre størrelse på appen</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å se nettleserloggen din i Chrome</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å se nettleserloggen din i WEB3 DNA Browser</translation>
 <translation id="8987927404178983737">Måned</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Ser du etter systemversjonen? Gå til</translation>
@@ -3149,19 +3139,19 @@ Mer informasjon:
 <translation id="908796725011587895">Studentsport</translation>
 <translation id="9089260154716455634">Regler for bruk utenom arbeidstiden:</translation>
 <translation id="9095388113577226029">Flere språk</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å angi Chrome som systemets standardnettleser i iOS-innstillingene</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å angi WEB3 DNA Browser som systemets standardnettleser i iOS-innstillingene</translation>
 <translation id="9096679202588811390">TV-programmer og -serier</translation>
 <translation id="9101630580131696064">Skuff 1</translation>
 <translation id="9102081333385212048">Filer du kopierer eller flytter, blir sendt til Google Cloud eller tredjeparter for analyse. De kan for eksempel bli skannet for sensitive data eller skadelig programvare.</translation>
 <translation id="9103537084693478942">Videoprogramvare</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> bruker vanligvis kryptering for å beskytte informasjonen din. Da Chromium prøvde å koble til <ph name="SITE" /> denne gangen, sendte nettstedet tilbake uvanlig og feil legitimasjon. Dette kan skje hvis en angriper prøver å utgi seg for å være <ph name="SITE" />, eller hvis en Wifi-påloggingsskjerm har avbrutt tilkoblingen. Informasjonen din er likevel sikker fordi Chromium stoppet tilkoblingen før det ble utvekslet noen data.</translation>
+
 <translation id="9106062320799175032">Legg til faktureringsadresse</translation>
 <translation id="9107467864910557787">Nettleseren administreres av <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">En administratorregel deaktiverer skjermdeling med <ph name="APPLICATION_TITLE" /> når konfidensielt innhold er synlig</translation>
 <translation id="9114524666733003316">Bekrefter kortet …</translation>
-<translation id="9114581008513152754">Denne nettleseren administreres ikke av et selskap eller en annen organisasjon. Aktiviteten på denne enheten kan bli administrert utenfor Chrome. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Frisk</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å fortsette ferden og se relevant aktivitet i Chrome-loggen</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å fortsette ferden og se relevant aktivitet i WEB3 DNA Browser-loggen</translation>
 <translation id="9119042192571987207">Opplastet</translation>
 <translation id="9122954576417194280">Råvare- og futureshandel</translation>
 <translation id="9128016270925453879">Regler er lastet inn</translation>
@@ -3176,7 +3166,7 @@ Mer informasjon:
 <translation id="9148088599418889305">Velg leveringsmåte</translation>
 <translation id="9148507642005240123">&amp;Angre endringen</translation>
 <translation id="9150045010208374699">bruke kameraet ditt</translation>
-<translation id="9150685862434908345">Administratoren kan endre nettleseroppsettet eksternt. Aktiviteten på denne enheten kan også bli administrert utenfor Chrome. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Oppdatert</translation>
 <translation id="9155211586651734179">Eksterne lydenheter er tilkoblet</translation>
 <translation id="9157595877708044936">Konfigurerer ...</translation>
@@ -3191,7 +3181,7 @@ Mer informasjon:
 <translation id="917450738466192189">Tjenerens sertifikat er ugyldig.</translation>
 <translation id="9174623988242579721">Spesialbygde kjøretøy og prestasjonskjøretøy</translation>
 <translation id="9174917557437862841">Knappen for å bytte fane – trykk på Enter for å bytte til denne fanen</translation>
-<translation id="9179703756951298733">Administrer betalingene og kredittkortopplysningene dine i Chrome-innstillingene</translation>
+<translation id="9179703756951298733">Administrer betalingene og kredittkortopplysningene dine i WEB3 DNA Browser-innstillingene</translation>
 <translation id="9179907736442194268">Få e-postvarsler hvis prisen settes ned på noe nettsted</translation>
 <translation id="9183302530794969518">Google Dokumenter</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> bruker en protokoll som ikke støttes.</translation>
@@ -3202,12 +3192,12 @@ Mer informasjon:
 <translation id="920511547311754821">Finner du ikke koden? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Kunne ikke legge til artikkelen.</translation>
 <translation id="9213433120051936369">Tilpass utseendet</translation>
-<translation id="9215416866750762878">Et program hindrer Chrome i å koble trygt til dette nettstedet.</translation>
+<translation id="717994082075351832">Et program hindrer WEB3 DNA Browser i å koble trygt til dette nettstedet.</translation>
 <translation id="9219103736887031265">Bilder</translation>
-<translation id="922152298093051471">Tilpass Chrome</translation>
+<translation id="922152298093051471">Tilpass WEB3 DNA Browser</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">SLETT INNHOLDET I SKJEMAET</translation>
-<translation id="936602727769022409">Du kan miste tilgangen til Google-kontoen din. Chromium anbefaler at du endrer passordet ditt nå. Du blir bedt om å logge på.</translation>
+
 <translation id="937457230470581909">Dyrehager, akvarier og reservater</translation>
 <translation id="939736085109172342">Ny mappe</translation>
 <translation id="940053046584497293">Reise og transport</translation>

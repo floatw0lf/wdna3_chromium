@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="ar">
 <translation id="130631256467250065">تسري التغييرات في المرة التالية التي تعيد فيها تشغيل الجهاز.</translation>
-<translation id="275588974610408078">‏تقارير الأعطال غير متاحة في Chromium.</translation>
-<translation id="3064346599913645280">‏أنت تعرض صفحة Chromium آمنة</translation>
-<translation id="358997566136285270">‏شعار Chromium</translation>
-<translation id="4365115785552740256">‏أصبح Chromium الآن متاحًا بفضل المشروع المفتوح المصدر <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> و<ph name="BEGIN_LINK_OSS" />برامج أخرى مفتوحة المصدر<ph name="END_LINK_OSS" />.</translation>
-<translation id="4559775032954821361">‏انتقل إلى
-          قائمة Chromium &gt;
+<translation id="4791283969776588221">‏تقارير الأعطال غير متاحة في WEB3 DNA Browser.</translation>
+<translation id="2844608976961792034">‏أنت تعرض صفحة WEB3 DNA Browser آمنة</translation>
+<translation id="1982446651380677046">‏شعار WEB3 DNA Browser</translation>
+<translation id="4523656775797881494">‏أصبح WEB3 DNA Browser الآن متاحًا بفضل المشروع المفتوح المصدر <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> و<ph name="BEGIN_LINK_OSS" />برامج أخرى مفتوحة المصدر<ph name="END_LINK_OSS" />.</translation>
+<translation id="4029636627665768575">‏انتقل إلى
+          قائمة WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,21 +16,21 @@
           &gt;
           إعدادات الشبكة المحلية
           وألغ وضع علامة في مربّع الاختيار "استخدام خادم وكيل لشبكة الاتصال المحلية".</translation>
-<translation id="4622039161600275920">‏تم حظر هذه الصفحة بواسطة متصفّح Chromium.</translation>
-<translation id="48558539577516920">‏اسمح لـ Chromium بالدخول إلى الشبكة من خلال إعدادات الجدار الناري أو
+<translation id="7398528135240070983">‏تم حظر هذه الصفحة بواسطة متصفّح WEB3 DNA Browser.</translation>
+<translation id="329184862608851407">‏اسمح لـ WEB3 DNA Browser بالدخول إلى الشبكة من خلال إعدادات الجدار الناري أو
         برنامج مكافحة الفيروسات.</translation>
-<translation id="4918837013875648434">‏لم يكتمل الإعداد الأولي لنظام التشغيل Chromium.</translation>
-<translation id="580822234363523061">‏انتقل إلى
-          قائمة Chromium &gt;
+<translation id="4918837013875648434">‏لم يكتمل الإعداد الأولي لنظام التشغيل WEB3 DNA Browser.</translation>
+<translation id="7951541701556745073">‏انتقل إلى
+          قائمة WEB3 DNA Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           وتأكد من ضبط الإعداد على "بلا خادم وكيل" أو "مباشر."</translation>
-<translation id="6613594504749178791">‏ستسري التغييرات في المرة التالية التي تعيد فيها تشغيل Chromium.</translation>
-<translation id="7861509383340276692">‏انتقل إلى
-        قائمة Chromium &gt;
+<translation id="8823298025665339355">‏ستسري التغييرات في المرة التالية التي تعيد فيها تشغيل WEB3 DNA Browser.</translation>
+<translation id="5334530291357334686">‏انتقل إلى
+        قائمة WEB3 DNA Browser &gt;
         <ph name="SETTINGS_TITLE" />
         &gt;
         <ph name="ADVANCED_TITLE" />
@@ -38,5 +38,5 @@
         في حالة ما إذا لم يؤد ذلك إلى حل المشكلة، نوصي بتحديد هذا الخيار
         مرة أخرى من أجل أداء أفضل.</translation>
 <translation id="8187289872471304532">‏انتقل إلى Applications (التطبيقات) &gt; System Preferences (الإعدادات المفضّلة للنظام) &gt; Network (الشبكة) &gt; Advanced (الخيارات المتقدمة) &gt; Proxies (الخوادم الوكيلة) وألغ اختيار أي خوادم وكيلة تم تحديدها.</translation>
-<translation id="8684913864886094367">‏لم يغلق Chromium بشكل صحيح.</translation>
+<translation id="7950276115919177274">‏لم يغلق WEB3 DNA Browser بشكل صحيح.</translation>
 </translationbundle>

@@ -2,385 +2,385 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="lv">
 <translation id="1026101648481255140">Atsākt instalēšanu</translation>
-<translation id="1029669172902658969">Atkārtoti palaist, lai atjauninātu &amp;Chromium OS</translation>
+<translation id="1029669172902658969">Atkārtoti palaist, lai atjauninātu &amp;WEB3 DNA Browser OS</translation>
 <translation id="1065672644894730302">Jūsu preferences nevar nolasīt. Dažas funkcijas var nebūt pieejamas, un preferenču izmaiņas netiks saglabātas</translation>
-<translation id="1098170124587656448">Chromium var palīdzēt aizsargāt jūs pret datu noplūdi, ļaunprātīgiem paplašinājumiem un citiem apdraudējumiem.</translation>
-<translation id="1104942323762546749">Pārlūkā Chromium tiek mēģināts eksportēt jūsu paroles. Lai to atļautu, ievadiet savu Windows paroli.</translation>
-<translation id="113122355610423240">Jūsu noklusējuma pārlūks ir Chromium.</translation>
-<translation id="1131805035311359397">Lai pārbaudītu, vai jūsu paroles ir aizsargātas pret datu pārkāpumiem un citām drošības problēmām, <ph name="BEGIN_LINK" />pierakstieties pārlūkā Chromium<ph name="END_LINK" />.</translation>
-<translation id="1185134272377778587">Par Chromium</translation>
+<translation id="4960963727707787489">WEB3 DNA Browser var palīdzēt aizsargāt jūs pret datu noplūdi, ļaunprātīgiem paplašinājumiem un citiem apdraudējumiem.</translation>
+<translation id="1018420750873862665">Pārlūkā WEB3 DNA Browser tiek mēģināts eksportēt jūsu paroles. Lai to atļautu, ievadiet savu Windows paroli.</translation>
+<translation id="8728335547814212082">Jūsu noklusējuma pārlūks ir WEB3 DNA Browser.</translation>
+<translation id="3462550327714525487">Lai pārbaudītu, vai jūsu paroles ir aizsargātas pret datu pārkāpumiem un citām drošības problēmām, <ph name="BEGIN_LINK" />pierakstieties pārlūkā WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="4464481789599383598">Par WEB3 DNA Browser</translation>
 <translation id="1203500561924088507">Pateicamies, ka veicāt instalēšanu. Pirms <ph name="BUNDLE_NAME" /> izmantošanas ir jārestartē pārlūkprogramma.</translation>
-<translation id="1231839967188101156">Ja funkcija ir ieslēgta, pārlūkā Chromium neaktīvās cilnēs tiek atbrīvota atmiņa. Tādējādi aktīvajām cilnēm un citām lietotnēm tiek nodrošināts vairāk datora resursu un tiek uzlabots Chromium darbības ātrums. Neaktīvās cilnes atkal tiek automātiski aktivizētas, kad tās atverat. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
-<translation id="1261119230216066228">Atmiņas taupīšana nodrošināja ātrāku Chromium darbību</translation>
-<translation id="1315551408014407711">Jaunā Chromium profila iestatīšana</translation>
-<translation id="1385859895174722837">Google asistents pārlūkprogrammā Chromium</translation>
-<translation id="1396446129537741364">Chromium mēģina rādīt paroles.</translation>
-<translation id="1414495520565016063">Esat pierakstījies operētājsistēmā Chromium!</translation>
-<translation id="1493803763272692301">Varat pilnvērtīgi izmantot pārlūku Chromium</translation>
-<translation id="1524282610922162960">Chromium cilnes kopīgošana</translation>
-<translation id="1553461853655228091">Pārlūkam Chromium ir nepieciešama atļauja piekļūt jūsu kamerai, lai varētu izveidot jūsu apkārtnes 3D karti</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Chromium.}=1{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Chromium. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Chromium. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Chromium. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Chromium. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
-<translation id="1625909126243026060">Pārskatiet svarīgākās konfidencialitātes un drošības vadīklas pārlūkā Chromium.</translation>
-<translation id="1632539827495546968">Ja vēlaties šo kontu izmantot tikai vienu reizi, varat lietot <ph name="GUEST_LINK_BEGIN" />viesa režīmu<ph name="GUEST_LINK_END" /> pārlūkā Chromium. Ja vēlaties pievienot kontu kādam citam, <ph name="LINK_BEGIN" />pievienojiet jaunu personu<ph name="LINK_END" /> savai ierīcei (<ph name="DEVICE_TYPE" />).
+<translation id="5978964989109500768">Ja funkcija ir ieslēgta, pārlūkā WEB3 DNA Browser neaktīvās cilnēs tiek atbrīvota atmiņa. Tādējādi aktīvajām cilnēm un citām lietotnēm tiek nodrošināts vairāk datora resursu un tiek uzlabots WEB3 DNA Browser darbības ātrums. Neaktīvās cilnes atkal tiek automātiski aktivizētas, kad tās atverat. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
+<translation id="2556820941333974881">Atmiņas taupīšana nodrošināja ātrāku WEB3 DNA Browser darbību</translation>
+<translation id="8674698533637405550">Jaunā WEB3 DNA Browser profila iestatīšana</translation>
+<translation id="5897235607289042281">Google asistents pārlūkprogrammā WEB3 DNA Browser</translation>
+<translation id="4011302926653396528">WEB3 DNA Browser mēģina rādīt paroles.</translation>
+<translation id="7808556894409107558">Esat pierakstījies operētājsistēmā WEB3 DNA Browser!</translation>
+<translation id="2448956114941459869">Varat pilnvērtīgi izmantot pārlūku WEB3 DNA Browser</translation>
+<translation id="6123758632973468022">WEB3 DNA Browser cilnes kopīgošana</translation>
+<translation id="1232307829393891937">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja piekļūt jūsu kamerai, lai varētu izveidot jūsu apkārtnes 3D karti</translation>
+<translation id="5103307222334991576">{COUNT,plural, =0{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku WEB3 DNA Browser.}=1{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku WEB3 DNA Browser. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku WEB3 DNA Browser. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku WEB3 DNA Browser. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku WEB3 DNA Browser. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
+<translation id="7291131704197390431">Pārskatiet svarīgākās konfidencialitātes un drošības vadīklas pārlūkā WEB3 DNA Browser.</translation>
+<translation id="5962221630684419652">Ja vēlaties šo kontu izmantot tikai vienu reizi, varat lietot <ph name="GUEST_LINK_BEGIN" />viesa režīmu<ph name="GUEST_LINK_END" /> pārlūkā WEB3 DNA Browser. Ja vēlaties pievienot kontu kādam citam, <ph name="LINK_BEGIN" />pievienojiet jaunu personu<ph name="LINK_END" /> savai ierīcei (<ph name="DEVICE_TYPE" />).
 
 Uz šo kontu var attiekties atļaujas, ko esat jau piešķīris vietnēm un lietotnēm. Varat pārvaldīt savus Google kontus sadaļā <ph name="SETTINGS_LINK_BEGIN" />Iestatījumi<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1640672724030957280">Notiek lejupielāde...</translation>
-<translation id="1708666629004767631">Ir pieejama jauna un drošāka Chromium versija.</translation>
-<translation id="17264556997921157">Varat skatīt un noņemt interešu tēmas, kas vietnēs tiek izmantotas reklāmu rādīšanai. Pārlūkā Chromium tiek aptuveni noteiktas jūsu intereses, ņemot vērā neseno pārlūkošanas vēsturi.</translation>
-<translation id="1774152462503052664">Ļaut Chromium darboties fonā</translation>
-<translation id="1779356040007214683">Lai uzlabotu Chromium drošību, mēs atspējojām dažus paplašinājumus, kas nav norādīti vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienoti, jums nezinot.</translation>
-<translation id="1808667845054772817">Pārinstalēt Chromium</translation>
-<translation id="185970820835152459">Varat pārvaldīt Google kontus, kuros esat pierakstījies. Jūsu Google konti tiek izmantoti pārlūkā Chromium, Play veikalā, pakalpojumā Gmail un citur. Ja vēlaties pievienot kontu kādam citam, piemēram, ģimenes loceklim, pievienojiet jaunu personu savai <ph name="DEVICE_TYPE" /> ierīcei. <ph name="LINK_BEGIN" />Uzziniet vairāk<ph name="LINK_END" />.</translation>
-<translation id="1863308913976887472">Vietnes pārlūkā Chromium var glabāt informāciju par jūsu interesēm. Piemēram, ja apmeklējat kādu vietni, lai iegādātos apavus maratona skriešanai, vietne var noteikt, ka interesējaties par maratonu skriešanu. Ja vēlāk apmeklēsiet citu vietni, lai reģistrētos sacensībām, šajā vietnē var tikt rādīta skriešanas apavu reklāma, pamatojoties uz jūsu interesēm.</translation>
-<translation id="1881322772814446296">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Chromium dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. Ja vēlaties, varat izveidot jaunu profilu, lai atsevišķi glabātu Chromium datus. <ph name="LEARN_MORE" /></translation>
-<translation id="1911763535808217981">Ja izslēgsiet šo iestatījumu, varēsiet pierakstīties Google vietnēs, piemēram, pakalpojumā Gmail, nepierakstoties pārlūkā Chromium.</translation>
-<translation id="1929939181775079593">Chromium nereaģē. Vai restartēt to tūlīt?</translation>
-<translation id="193439633299369377">Chromium OS ir jārestartē, lai lietotu atjauninājumu.</translation>
-<translation id="1940680973325097484">Ja vēlaties šo kontu izmantot tikai vienu reizi, varat lietot viesa režīmu pārlūkā Chromium. Ja vēlaties pievienot kontu kādam citam, <ph name="LINK_BEGIN" />pievienojiet jaunu personu<ph name="LINK_END" /> savai ierīcei (<ph name="DEVICE_TYPE" />).
+<translation id="2804101107797787361">Ir pieejama jauna un drošāka WEB3 DNA Browser versija.</translation>
+<translation id="9029405963934901712">Varat skatīt un noņemt interešu tēmas, kas vietnēs tiek izmantotas reklāmu rādīšanai. Pārlūkā WEB3 DNA Browser tiek aptuveni noteiktas jūsu intereses, ņemot vērā neseno pārlūkošanas vēsturi.</translation>
+<translation id="2051400772676536118">Ļaut WEB3 DNA Browser darboties fonā</translation>
+<translation id="9219442880476358008">Lai uzlabotu WEB3 DNA Browser drošību, mēs atspējojām dažus paplašinājumus, kas nav norādīti vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienoti, jums nezinot.</translation>
+<translation id="2776567154969336836">Pārinstalēt WEB3 DNA Browser</translation>
+<translation id="4915372523140836376">Varat pārvaldīt Google kontus, kuros esat pierakstījies. Jūsu Google konti tiek izmantoti pārlūkā WEB3 DNA Browser, Play veikalā, pakalpojumā Gmail un citur. Ja vēlaties pievienot kontu kādam citam, piemēram, ģimenes loceklim, pievienojiet jaunu personu savai <ph name="DEVICE_TYPE" /> ierīcei. <ph name="LINK_BEGIN" />Uzziniet vairāk<ph name="LINK_END" />.</translation>
+<translation id="4370275707492934729">Vietnes pārlūkā WEB3 DNA Browser var glabāt informāciju par jūsu interesēm. Piemēram, ja apmeklējat kādu vietni, lai iegādātos apavus maratona skriešanai, vietne var noteikt, ka interesējaties par maratonu skriešanu. Ja vēlāk apmeklēsiet citu vietni, lai reģistrētos sacensībām, šajā vietnē var tikt rādīta skriešanas apavu reklāma, pamatojoties uz jūsu interesēm.</translation>
+<translation id="4590088122952951314">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu WEB3 DNA Browser dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. Ja vēlaties, varat izveidot jaunu profilu, lai atsevišķi glabātu WEB3 DNA Browser datus. <ph name="LEARN_MORE" /></translation>
+<translation id="1773107071029134155">Ja izslēgsiet šo iestatījumu, varēsiet pierakstīties Google vietnēs, piemēram, pakalpojumā Gmail, nepierakstoties pārlūkā WEB3 DNA Browser.</translation>
+<translation id="1404683263809963517">WEB3 DNA Browser nereaģē. Vai restartēt to tūlīt?</translation>
+<translation id="193439633299369377">WEB3 DNA Browser OS ir jārestartē, lai lietotu atjauninājumu.</translation>
+<translation id="2844934533235602125">Ja vēlaties šo kontu izmantot tikai vienu reizi, varat lietot viesa režīmu pārlūkā WEB3 DNA Browser. Ja vēlaties pievienot kontu kādam citam, <ph name="LINK_BEGIN" />pievienojiet jaunu personu<ph name="LINK_END" /> savai ierīcei (<ph name="DEVICE_TYPE" />).
 
 Uz šo kontu var attiekties atļaujas, ko esat jau piešķīris vietnēm un lietotnēm. Varat pārvaldīt savus Google kontus sadaļā <ph name="SETTINGS_LINK_BEGIN" />Iestatījumi<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1953553007165777902">Notiek lejupielāde... Atlikušais laiks: <ph name="MINUTE" /> minūte(-es).</translation>
-<translation id="1966382378801805537">Chromium nevar noteikt vai iestatīt noklusējuma pārlūku.</translation>
-<translation id="2008474315282236005">Veicot šo darbību, no šīs ierīces tiks dzēsts 1 vienums. Lai vēlāk izgūtu datus, pierakstieties pārlūkā Chromium kā <ph name="USER_EMAIL" />.</translation>
+<translation id="7100172292317798034">WEB3 DNA Browser nevar noteikt vai iestatīt noklusējuma pārlūku.</translation>
+<translation id="7388619658790717510">Veicot šo darbību, no šīs ierīces tiks dzēsts 1 vienums. Lai vēlāk izgūtu datus, pierakstieties pārlūkā WEB3 DNA Browser kā <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Instalēšana neizdevās. Lūdzu, mēģiniet vēlreiz.</translation>
-<translation id="2020032459870799438">Lai pārbaudītu, vai jūsu pārējās paroles ir aizsargātas pret datu pārkāpumiem un citām drošības problēmām, <ph name="BEGIN_LINK" />pierakstieties pārlūkā Chromium<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Izvēlieties, vai iekļaut Chromium vēsturi, lai iegūtu personalizētākas iespējas Google pakalpojumos.</translation>
-<translation id="2088953378266246249">Informācija par to, kā Chromium pārvalda savus saknes sertifikātus</translation>
-<translation id="2174178932569897599">Pielāgot pārlūkprogrammu Chromium</translation>
+<translation id="8775681507105719302">Lai pārbaudītu, vai jūsu pārējās paroles ir aizsargātas pret datu pārkāpumiem un citām drošības problēmām, <ph name="BEGIN_LINK" />pierakstieties pārlūkā WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="6765354414432698675">Izvēlieties, vai iekļaut WEB3 DNA Browser vēsturi, lai iegūtu personalizētākas iespējas Google pakalpojumos.</translation>
+<translation id="5773286839920477494">Informācija par to, kā WEB3 DNA Browser pārvalda savus saknes sertifikātus</translation>
+<translation id="1342703999636762729">Pielāgot pārlūkprogrammu WEB3 DNA Browser</translation>
 <translation id="2174917724755363426">Instalēšana nav pabeigta. Vai tiešām vēlaties atcelt?</translation>
-<translation id="2185166961232948079">Chromium — pierakstīšanās tīklā — <ph name="PAGE_TITLE" /></translation>
-<translation id="2241627712206172106">Ja jūsu datoru izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku Chromium atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos kontos.</translation>
-<translation id="2313870531055795960">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošo vietņu sarakstu, kas ir saglabāts pārlūkprogrammā Chromium. Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, Chromium var arī nosūtīt attiecīgos URL, tostarp lapas satura fragmentus, uz funkciju Droša pārlūkošana.</translation>
-<translation id="2343156876103232566">Lai nosūtītu numuru no šejienes uz savu Android tālruni, abās ierīcēs pierakstieties pārlūkā Chromium.</translation>
-<translation id="2347108572062610441">Šis paplašinājums mainīja iestatījumu, kura lapa tiek parādīta, palaižot pārlūku Chromium.</translation>
+<translation id="4604256298037443917">WEB3 DNA Browser — pierakstīšanās tīklā — <ph name="PAGE_TITLE" /></translation>
+<translation id="3692764894142598026">Ja jūsu datoru izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku WEB3 DNA Browser atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos kontos.</translation>
+<translation id="1653667178840181002">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošo vietņu sarakstu, kas ir saglabāts pārlūkprogrammā WEB3 DNA Browser. Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, WEB3 DNA Browser var arī nosūtīt attiecīgos URL, tostarp lapas satura fragmentus, uz funkciju Droša pārlūkošana.</translation>
+<translation id="4170954887813547201">Lai nosūtītu numuru no šejienes uz savu Android tālruni, abās ierīcēs pierakstieties pārlūkā WEB3 DNA Browser.</translation>
+<translation id="7632546848754920458">Šis paplašinājums mainīja iestatījumu, kura lapa tiek parādīta, palaižot pārlūku WEB3 DNA Browser.</translation>
 <translation id="2359808026110333948">Turpināt</translation>
-<translation id="2384373936468275798">Chromium OS nevarēja sinhronizēt jūsu datus, jo jūsu konta pierakstīšanās informācija ir novecojusi.</translation>
-<translation id="2396765026452590966">Paplašinājums “<ph name="EXTENSION_NAME" />” mainīja iestatījumu, kura lapa tiek parādīta, palaižot pārlūku Chromium.</translation>
-<translation id="2401032172288869980">Pārlūkam Chromium ir nepieciešama atļauja izmantot kameru un mikrofonu šajā vietnē.</translation>
-<translation id="2483889755041906834">Pārlūkā Chromium</translation>
+<translation id="2384373936468275798">WEB3 DNA Browser OS nevarēja sinhronizēt jūsu datus, jo jūsu konta pierakstīšanās informācija ir novecojusi.</translation>
+<translation id="3766979587851503326">Paplašinājums “<ph name="EXTENSION_NAME" />” mainīja iestatījumu, kura lapa tiek parādīta, palaižot pārlūku WEB3 DNA Browser.</translation>
+<translation id="3197411627422504716">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja izmantot kameru un mikrofonu šajā vietnē.</translation>
+<translation id="6895208784707407784">Pārlūkā WEB3 DNA Browser</translation>
 <translation id="2485422356828889247">Atinstalēt</translation>
-<translation id="2560420686485554789">Pārlūkam Chromium ir nepieciešama piekļuve krātuvei, lai varētu lejupielādēt failus.</translation>
-<translation id="2572494885440352020">Chromium palīgs</translation>
-<translation id="2583187216237139145">Darba profila administrators var noņemt šī profila lietošanas laikā ģenerētos Chromium datus (piemēram, grāmatzīmes, vēsturi, paroles un citus iestatījumus). <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Turpināt lietot Chromium</translation>
-<translation id="2648074677641340862">Instalācijas laikā radās operētājsistēmas kļūda. Lejupielādējiet Chromium vēlreiz.</translation>
-<translation id="2661879430930417727">Ja ierīci izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku Chromium atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos profilos.</translation>
-<translation id="2669853942967761236">Pārlūkā Chromium šis arhīva fails tika bloķēts, jo tas var slēpt ļaunprātīgu programmatūru.</translation>
-<translation id="268602741124540128">Laipni lūdzam pārlūkā Chromium, <ph name="ACCOUNT_FIRST_NAME" />!</translation>
-<translation id="2711502716910134313">Chromium cilne</translation>
-<translation id="2718390899429598676">Papildu drošības nolūkos Chromium šifrēs jūsu datus.</translation>
+<translation id="5049950391929594900">Pārlūkam WEB3 DNA Browser ir nepieciešama piekļuve krātuvei, lai varētu lejupielādēt failus.</translation>
+<translation id="2749516262341915024">WEB3 DNA Browser palīgs</translation>
+<translation id="2113242903075215938">Darba profila administrators var noņemt šī profila lietošanas laikā ģenerētos WEB3 DNA Browser datus (piemēram, grāmatzīmes, vēsturi, paroles un citus iestatījumus). <ph name="LEARN_MORE" /></translation>
+<translation id="4952960270884842265">Turpināt lietot WEB3 DNA Browser</translation>
+<translation id="2731252252225464533">Instalācijas laikā radās operētājsistēmas kļūda. Lejupielādējiet WEB3 DNA Browser vēlreiz.</translation>
+<translation id="1821196395946518624">Ja ierīci izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku WEB3 DNA Browser atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos profilos.</translation>
+<translation id="5872680003660133275">Pārlūkā WEB3 DNA Browser šis arhīva fails tika bloķēts, jo tas var slēpt ļaunprātīgu programmatūru.</translation>
+<translation id="7648513030043385007">Laipni lūdzam pārlūkā WEB3 DNA Browser, <ph name="ACCOUNT_FIRST_NAME" />!</translation>
+<translation id="544374351717235856">WEB3 DNA Browser cilne</translation>
+<translation id="5554916945232735698">Papildu drošības nolūkos WEB3 DNA Browser šifrēs jūsu datus.</translation>
 <translation id="2770231113462710648">Mainīt noklusējuma pārlūkprogrammu uz:</translation>
 <translation id="2799223571221894425">Restartēt</translation>
-<translation id="2837693172913560447">Tādējādi tiks izveidots jauns Chromium profils lietotājam <ph name="USER_EMAIL_ADDRESS" />.</translation>
-<translation id="2847479871509788944">Noņemšana no pārlūka Chromium...</translation>
-<translation id="2850691299438350830">Tiek nodrošināta jūsu aizsardzība pārlūkprogrammā Chromium. Šis režīms var tikt izmantots jūsu drošības uzlabošanai citās Google lietotnēs, kad esat pierakstījies.</translation>
+<translation id="7343868188703540938">Tādējādi tiks izveidots jauns WEB3 DNA Browser profils lietotājam <ph name="USER_EMAIL_ADDRESS" />.</translation>
+<translation id="4410717336615333062">Noņemšana no pārlūka WEB3 DNA Browser...</translation>
+<translation id="4055140529823965372">Tiek nodrošināta jūsu aizsardzība pārlūkprogrammā WEB3 DNA Browser. Šis režīms var tikt izmantots jūsu drošības uzlabošanai citās Google lietotnēs, kad esat pierakstījies.</translation>
 <translation id="2885378588091291677">Uzdevumu pārvaldnieks</translation>
-<translation id="2910007522516064972">Par &amp;Chromium</translation>
+<translation id="224853752763613334">Par &amp;WEB3 DNA Browser</translation>
 <translation id="2915996080311180594">Restartēt vēlāk</translation>
 <translation id="2928420929544864228">Instalēšana pabeigta.</translation>
-<translation id="2977470724722393594">Chromium ir atjaunināts</translation>
-<translation id="2977506796191543575">Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, Chromium var arī nosūtīt attiecīgos URL, tostarp lapas satura fragmentus, uz funkciju Droša pārlūkošana.</translation>
-<translation id="2983934633046890458">Chromium mēģina rediģēt paroles.</translation>
-<translation id="3032706164202344641">Pārlūkprogrammā Chromium nevar pārbaudīt jūsu paroles. Vēlāk mēģiniet vēlreiz.</translation>
-<translation id="3032787606318309379">Notiek pievienošana pārlūkam Chromium...</translation>
+<translation id="8483611164641766271">WEB3 DNA Browser ir atjaunināts</translation>
+<translation id="2739338544529681223">Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, WEB3 DNA Browser var arī nosūtīt attiecīgos URL, tostarp lapas satura fragmentus, uz funkciju Droša pārlūkošana.</translation>
+<translation id="6709063507223740532">WEB3 DNA Browser mēģina rediģēt paroles.</translation>
+<translation id="6416874087185776406">Pārlūkprogrammā WEB3 DNA Browser nevar pārbaudīt jūsu paroles. Vēlāk mēģiniet vēlreiz.</translation>
+<translation id="7632657090539802919">Notiek pievienošana pārlūkam WEB3 DNA Browser...</translation>
 <translation id="3038232873781883849">Gaida, lai instalētu...</translation>
-<translation id="3068515742935458733">Palīdzēt uzlabot Chromium, nosūtot Google serveriem avāriju pārskatus un <ph name="UMA_LINK" /></translation>
-<translation id="3101560983689755071">Pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, Chromium automātiski katru mēnesi pakāpeniski dzēš jūsu intereses. Intereses var tikt atjaunotas, ja vien nenoņemat tās.</translation>
-<translation id="3103660991484857065">Instalēšanas programmai neizdevās atarhivēt arhīvu. Lejupielādējiet Chromium vēlreiz.</translation>
-<translation id="3130323860337406239">Pārlūkā Chromium tiek izmantots jūsu mikrofons.</translation>
-<translation id="3155163173539279776">Restartēt Chromium</translation>
-<translation id="3179665906251668410">Atvērt saiti inko&amp;gnito režīma logā</translation>
-<translation id="3185330573522821672">Pielāgojiet savu jauno Chromium profilu.</translation>
-<translation id="3190315855212034486">Eh! Chromium ir avarējis. Vai restartēt to tūlīt?</translation>
-<translation id="3229526316128325841">Pārlūkā Chromium tiek mēģināts eksportēt jūsu paroles.</translation>
-<translation id="3258596308407688501">Chromium nevar nolasīt savu datu direktoriju un ierakstīt tajā:
+<translation id="8517483409722571699">Palīdzēt uzlabot WEB3 DNA Browser, nosūtot Google serveriem avāriju pārskatus un <ph name="UMA_LINK" /></translation>
+<translation id="4288053573753081242">Pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, WEB3 DNA Browser automātiski katru mēnesi pakāpeniski dzēš jūsu intereses. Intereses var tikt atjaunotas, ja vien nenoņemat tās.</translation>
+<translation id="4786656728645530523">Instalēšanas programmai neizdevās atarhivēt arhīvu. Lejupielādējiet WEB3 DNA Browser vēlreiz.</translation>
+<translation id="9049602934378376908">Pārlūkā WEB3 DNA Browser tiek izmantots jūsu mikrofons.</translation>
+<translation id="5623271663074009477">Restartēt WEB3 DNA Browser</translation>
+<translation id="8452871758697304895">Atvērt saiti inko&amp;gnito režīma logā</translation>
+<translation id="1129084746726669073">Pielāgojiet savu jauno WEB3 DNA Browser profilu.</translation>
+<translation id="5492613633683347362">Eh! WEB3 DNA Browser ir avarējis. Vai restartēt to tūlīt?</translation>
+<translation id="8199824399077877420">Pārlūkā WEB3 DNA Browser tiek mēģināts eksportēt jūsu paroles.</translation>
+<translation id="4228792865955409287">WEB3 DNA Browser nevar nolasīt savu datu direktoriju un ierakstīt tajā:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3283186697780795848">Ir instalēta Chromium versija <ph name="PRODUCT_VERSION" /></translation>
+<translation id="3857433786109736615">Ir instalēta WEB3 DNA Browser versija <ph name="PRODUCT_VERSION" /></translation>
 <translation id="3286538390144397061">Restartēt tūlīt</translation>
-<translation id="328888136576916638">Trūkst Google API atslēgu. Tiks atspējotas dažas Chromium funkcijas.</translation>
-<translation id="3296368748942286671">Turpināt lietotņu izpildi fonā, kad Chromium ir aizvērts</translation>
-<translation id="3350761136195634146">Chromium profils ar šādu kontu jau pastāv</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
-<translation id="3406848076815591792">Vai pāriet uz esošo Chromium profilu?</translation>
+<translation id="1496654316150745021">Trūkst Google API atslēgu. Tiks atspējotas dažas WEB3 DNA Browser funkcijas.</translation>
+<translation id="1658920309978171288">Turpināt lietotņu izpildi fonā, kad WEB3 DNA Browser ir aizvērts</translation>
+<translation id="6099044929456210951">WEB3 DNA Browser profils ar šādu kontu jau pastāv</translation>
+<translation id="3387527074123400161">WEB3 DNA Browser OS</translation>
+<translation id="3490516070300665202">Vai pāriet uz esošo WEB3 DNA Browser profilu?</translation>
 <translation id="3412460710772753638">Tā tiks atjaunināta Paroļu pārvaldniekā šajā ierīcē</translation>
-<translation id="3420193029125244288">{COUNT,plural, =1{Administrators ir konfigurējis Chromium, lai tas tiktu aizvērts, ja tas ir neaktīvs ilgāk par 1 minūti.}zero{Administrators ir konfigurējis Chromium, lai tas tiktu aizvērts, ja tas ir neaktīvs ilgāk par # minūtēm.}one{Administrators ir konfigurējis Chromium, lai tas tiktu aizvērts, ja tas ir neaktīvs ilgāk par # minūti.}other{Administrators ir konfigurējis Chromium, lai tas tiktu aizvērts, ja tas ir neaktīvs ilgāk par # minūtēm.}}</translation>
-<translation id="3430503420100763906">Izmantojot Chromium profilus, varat nodalīt visu savu Chromium saturu. Izveidojiet profilus draugiem un ģimenes locekļiem vai nodaliet darba un izklaides saturu.</translation>
-<translation id="347328004046849135">Ja pierakstīsieties ar uzlauztu paroli, pārlūkprogrammā Chromium tiks parādīts paziņojums</translation>
-<translation id="3474745554856756813">Veicot šo darbību, no šīs ierīces tiks dzēsts(-i) <ph name="ITEMS_COUNT" /> vienums(-i). Lai vēlāk izgūtu datus, pierakstieties pārlūkā Chromium kā <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931">Lai pārslēgtos starp Chromium profiliem, izmantojiet īsinājumtaustiņu <ph name="SHORTCUT" />.</translation>
-<translation id="3509308970982693815">Aizveriet visus Chromium logus un mēģiniet vēlreiz.</translation>
-<translation id="3518180795744733843">Google asistents pārlūkprogrammā Chromium var veikt darbības vietnēs jūsu vārdā.</translation>
-<translation id="3533435340678213462">Lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Varat arī noņemt intereses, ja nevēlaties, lai Chromium tās apsvērtu.</translation>
-<translation id="3567254597502212821">Jūsu pārlūkošanas vēsture, kurā tiek reģistrētas vietnes, ko šajā ierīcē apmeklējat ar pārlūku Chromium.</translation>
-<translation id="3575459661164320785">Jūsu datorā ir kaitīga programmatūra. Pārlūkprogramma Chromium var to noņemt, atjaunot jūsu iestatījumus un atspējot paplašinājumus, lai atkal pareizi darbotos.</translation>
-<translation id="3593091352817399191">Jūs jau esat pierakstījies citā kontā. Lai atdalītu pārlūkošanu, pārlūkā Chromium varat sev izveidot atsevišķu profilu.</translation>
-<translation id="3639635944603682591">Šī lietotāja pārlūkošanas dati tiks dzēsti no šīs ierīces. Lai atkoptu datus, pierakstieties pārlūkprogrammā Chromium kā lietotājs <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Pieejams Chromium atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku.}=1{Pieejams Chromium atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Pieejams Chromium atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Pieejams Chromium atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Pieejams Chromium atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
-<translation id="3651803019964686660">Lai nosūtītu numuru no vietnes <ph name="ORIGIN" /> uz savu Android tālruni, abās ierīcēs pierakstieties pārlūkā Chromium.</translation>
-<translation id="3685209450716071127">Pārlūkprogrammā Chromium nevar pārbaudīt jūsu paroles. Pārbaudiet interneta savienojumu.</translation>
-<translation id="3702352323269013324">Uzziniet vairāk par reklāmu personalizēšanu pārlūkā Chromium</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Chromium.}=1{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Chromium. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Chromium. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Chromium. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Chromium. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
-<translation id="3713809861844741608">Atvērt saiti jaunā Chromium &amp;cilnē</translation>
-<translation id="3728336900324680424">Pārlūkā Chromium tiks izmantota Diskā pieejamā informācija, lai adrešu joslā piedāvātu ieteikumus</translation>
-<translation id="378917192836375108">Chromium ļauj jums noklikšķināt uz tālruņa numura un zvanīt uz to pakalpojumā Skype!</translation>
-<translation id="3830894615770080216">Chromium OS sistēma</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> — Chromium</translation>
-<translation id="386822487697155367">Saņemt palīdzību saistībā ar Chromium OS</translation>
-<translation id="3871664619793219264">Piekļūstiet savam Chromium saturam no konta <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="388648406173476553">Pielāgojiet un kontrolējiet pārlūkprogrammu Chromium. Ir nepieciešama jūsu uzmanība. Noklikšķiniet, lai skatītu plašāku informāciju.</translation>
-<translation id="3889543394854987837">Noklikšķiniet uz sava vārda, lai atvērtu Chromium un sāktu pārlūkošanu.</translation>
-<translation id="390528597099634151">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā Chromium profilā. Lai atdalītu pārlūkošanu, pārlūkā Chromium varat sev izveidot atsevišķu profilu.</translation>
-<translation id="391789666908693569">Jūsu kontu pārvalda <ph name="MANAGER_NAME" />. Administrators var skatīt un rediģēt šo Chromium profilu un tā datus, piemēram, grāmatzīmes, vēsturi un paroles.</translation>
-<translation id="3945058413678539331">Chromium mēģina nokopēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
-<translation id="3962623956404948996">Chromium iesaka pārbaudīt šo failu, jo tas var būt bīstams</translation>
-<translation id="3997429360543082038">Par Chromium OS</translation>
-<translation id="4019629340646866719">Chromium OS, kā arī <ph name="BEGIN_LINK_LINUX_OSS" />Linux izstrādes vides<ph name="END_LINK_LINUX_OSS" /> darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="4036079820698952681">Palīdziet uzlabot pārlūku Chromium, ziņojot par <ph name="BEGIN_LINK" />pašreizējiem iestatījumiem<ph name="END_LINK" />.</translation>
+<translation id="3459447433517900945">{COUNT,plural, =1{Administrators ir konfigurējis WEB3 DNA Browser, lai tas tiktu aizvērts, ja tas ir neaktīvs ilgāk par 1 minūti.}zero{Administrators ir konfigurējis WEB3 DNA Browser, lai tas tiktu aizvērts, ja tas ir neaktīvs ilgāk par # minūtēm.}one{Administrators ir konfigurējis WEB3 DNA Browser, lai tas tiktu aizvērts, ja tas ir neaktīvs ilgāk par # minūti.}other{Administrators ir konfigurējis WEB3 DNA Browser, lai tas tiktu aizvērts, ja tas ir neaktīvs ilgāk par # minūtēm.}}</translation>
+<translation id="8670809163194068299">Izmantojot WEB3 DNA Browser profilus, varat nodalīt visu savu WEB3 DNA Browser saturu. Izveidojiet profilus draugiem un ģimenes locekļiem vai nodaliet darba un izklaides saturu.</translation>
+<translation id="9066892520177234564">Ja pierakstīsieties ar uzlauztu paroli, pārlūkprogrammā WEB3 DNA Browser tiks parādīts paziņojums</translation>
+<translation id="2558936839934178842">Veicot šo darbību, no šīs ierīces tiks dzēsts(-i) <ph name="ITEMS_COUNT" /> vienums(-i). Lai vēlāk izgūtu datus, pierakstieties pārlūkā WEB3 DNA Browser kā <ph name="USER_EMAIL" />.</translation>
+<translation id="3356184603360407459">Lai pārslēgtos starp WEB3 DNA Browser profiliem, izmantojiet īsinājumtaustiņu <ph name="SHORTCUT" />.</translation>
+<translation id="4904006555695224532">Aizveriet visus WEB3 DNA Browser logus un mēģiniet vēlreiz.</translation>
+<translation id="1702866421814791137">Google asistents pārlūkprogrammā WEB3 DNA Browser var veikt darbības vietnēs jūsu vārdā.</translation>
+<translation id="5618636199529337261">Lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Varat arī noņemt intereses, ja nevēlaties, lai WEB3 DNA Browser tās apsvērtu.</translation>
+<translation id="319672769194370808">Jūsu pārlūkošanas vēsture, kurā tiek reģistrētas vietnes, ko šajā ierīcē apmeklējat ar pārlūku WEB3 DNA Browser.</translation>
+<translation id="4060507003609322665">Jūsu datorā ir kaitīga programmatūra. Pārlūkprogramma WEB3 DNA Browser var to noņemt, atjaunot jūsu iestatījumus un atspējot paplašinājumus, lai atkal pareizi darbotos.</translation>
+<translation id="6858481853319304501">Jūs jau esat pierakstījies citā kontā. Lai atdalītu pārlūkošanu, pārlūkā WEB3 DNA Browser varat sev izveidot atsevišķu profilu.</translation>
+<translation id="7181053905423306884">Šī lietotāja pārlūkošanas dati tiks dzēsti no šīs ierīces. Lai atkoptu datus, pierakstieties pārlūkprogrammā WEB3 DNA Browser kā lietotājs <ph name="USER_EMAIL" />.</translation>
+<translation id="8833453854863974594">{COUNT,plural, =0{Pieejams WEB3 DNA Browser atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku.}=1{Pieejams WEB3 DNA Browser atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Pieejams WEB3 DNA Browser atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Pieejams WEB3 DNA Browser atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Pieejams WEB3 DNA Browser atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
+<translation id="890421963650512515">Lai nosūtītu numuru no vietnes <ph name="ORIGIN" /> uz savu Android tālruni, abās ierīcēs pierakstieties pārlūkā WEB3 DNA Browser.</translation>
+<translation id="8559660999448670332">Pārlūkprogrammā WEB3 DNA Browser nevar pārbaudīt jūsu paroles. Pārbaudiet interneta savienojumu.</translation>
+<translation id="2460459186000985919">Uzziniet vairāk par reklāmu personalizēšanu pārlūkā WEB3 DNA Browser</translation>
+<translation id="1249507445971540698">{COUNT,plural, =0{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku WEB3 DNA Browser.}=1{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku WEB3 DNA Browser. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku WEB3 DNA Browser. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku WEB3 DNA Browser. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku WEB3 DNA Browser. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
+<translation id="8552541042755991172">Atvērt saiti jaunā WEB3 DNA Browser &amp;cilnē</translation>
+<translation id="6916875900143115982">Pārlūkā WEB3 DNA Browser tiks izmantota Diskā pieejamā informācija, lai adrešu joslā piedāvātu ieteikumus</translation>
+<translation id="336867116231879142">WEB3 DNA Browser ļauj jums noklikšķināt uz tālruņa numura un zvanīt uz to pakalpojumā Skype!</translation>
+<translation id="3830894615770080216">WEB3 DNA Browser OS sistēma</translation>
+<translation id="8864402478426522531"><ph name="PAGE_TITLE" /> — WEB3 DNA Browser</translation>
+<translation id="386822487697155367">Saņemt palīdzību saistībā ar WEB3 DNA Browser OS</translation>
+<translation id="3532820600057985798">Piekļūstiet savam WEB3 DNA Browser saturam no konta <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="3254774751045951355">Pielāgojiet un kontrolējiet pārlūkprogrammu WEB3 DNA Browser. Ir nepieciešama jūsu uzmanība. Noklikšķiniet, lai skatītu plašāku informāciju.</translation>
+<translation id="5690972056512883402">Noklikšķiniet uz sava vārda, lai atvērtu WEB3 DNA Browser un sāktu pārlūkošanu.</translation>
+<translation id="5645023388974281920">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā WEB3 DNA Browser profilā. Lai atdalītu pārlūkošanu, pārlūkā WEB3 DNA Browser varat sev izveidot atsevišķu profilu.</translation>
+<translation id="8552133641824014764">Jūsu kontu pārvalda <ph name="MANAGER_NAME" />. Administrators var skatīt un rediģēt šo WEB3 DNA Browser profilu un tā datus, piemēram, grāmatzīmes, vēsturi un paroles.</translation>
+<translation id="1745190996116952155">WEB3 DNA Browser mēģina nokopēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
+<translation id="2363126436977372294">WEB3 DNA Browser iesaka pārbaudīt šo failu, jo tas var būt bīstams</translation>
+<translation id="3997429360543082038">Par WEB3 DNA Browser OS</translation>
+<translation id="4019629340646866719">WEB3 DNA Browser OS, kā arī <ph name="BEGIN_LINK_LINUX_OSS" />Linux izstrādes vides<ph name="END_LINK_LINUX_OSS" /> darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="7039332938370903722">Palīdziet uzlabot pārlūku WEB3 DNA Browser, ziņojot par <ph name="BEGIN_LINK" />pašreizējiem iestatījumiem<ph name="END_LINK" />.</translation>
 <translation id="4050175100176540509">Jaunākajā versijā ir pieejami svarīgi drošības uzlabojumi un jaunas funkcijas.</translation>
 <translation id="4148957013307229264">Notiek instalēšana...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> — pierakstīšanās tīklā — Chromium</translation>
-<translation id="421369550622382712">Atklājiet lieliskas lietotnes, spēles, paplašinājumus un motīvus, ko varat izmantot pārlūkā Chromium.</translation>
-<translation id="4216212958613226427">Šī valoda tiek izmantota, lai attēlotu Chromium lietotāja saskarni</translation>
+<translation id="9037768363939314060"><ph name="PAGE_TITLE" /> — pierakstīšanās tīklā — WEB3 DNA Browser</translation>
+<translation id="65082721690930806">Atklājiet lieliskas lietotnes, spēles, paplašinājumus un motīvus, ko varat izmantot pārlūkā WEB3 DNA Browser.</translation>
+<translation id="8180918330054927789">Šī valoda tiek izmantota, lai attēlotu WEB3 DNA Browser lietotāja saskarni</translation>
 <translation id="4222932583846282852">Notiek atcelšana...</translation>
-<translation id="4230135487732243613">Vai saistīt Chromium datus ar šo kontu?</translation>
-<translation id="4271805377592243930">Saņemt palīdzību par Chromium</translation>
-<translation id="4285930937574705105">Instalācija neizdevās nenoteiktas kļūdas dēļ. Ja Chromium šobrīd darbojas, aizveriet to un mēģiniet vēlreiz.</translation>
+<translation id="4117615645977273587">Vai saistīt WEB3 DNA Browser datus ar šo kontu?</translation>
+<translation id="2562528065031024752">Saņemt palīdzību par WEB3 DNA Browser</translation>
+<translation id="4628286205171331451">Instalācija neizdevās nenoteiktas kļūdas dēļ. Ja WEB3 DNA Browser šobrīd darbojas, aizveriet to un mēģiniet vēlreiz.</translation>
 <translation id="4304713468139749426">Paroļu pārvaldnieks</translation>
 <translation id="4334294535648607276">Lejupielāde pabeigta.</translation>
-<translation id="439358628917130594"><ph name="MANAGER" /> pieprasa, lai pirms šīs ierīces lietošanas jūs izlasītu tālāk sniegtos pakalpojumu sniegšanas noteikumus un piekristu tiem. Šie noteikumi nepaplašina, nepārveido un neierobežo operētājsistēmas Chromium OS noteikumus.</translation>
-<translation id="4407044323746248786">Vai tik un tā aizvērt pārlūku Chromium?</translation>
-<translation id="4415566066719264597">Ļaut pārlūkam Chromium darboties fonā</translation>
-<translation id="4423735387467980091">Pielāgot un kontrolēt Chromium</translation>
+<translation id="439358628917130594"><ph name="MANAGER" /> pieprasa, lai pirms šīs ierīces lietošanas jūs izlasītu tālāk sniegtos pakalpojumu sniegšanas noteikumus un piekristu tiem. Šie noteikumi nepaplašina, nepārveido un neierobežo operētājsistēmas WEB3 DNA Browser OS noteikumus.</translation>
+<translation id="5363800095683563940">Vai tik un tā aizvērt pārlūku WEB3 DNA Browser?</translation>
+<translation id="4413681411297396618">Ļaut pārlūkam WEB3 DNA Browser darboties fonā</translation>
+<translation id="4960563596527056032">Pielāgot un kontrolēt WEB3 DNA Browser</translation>
 <translation id="4427306783828095590">Uzlabotā aizsardzība labāk bloķē pikšķerēšanas mēģinājumus un ļaunprātīgu programmatūru</translation>
-<translation id="452711251841752011">Laipni lūdzam pārlūkā Chromium (tika atvērts jauns pārlūka logs)!</translation>
-<translation id="4544142686420020088">Pārlūkprogramma Chromium netika atjaunināta. Radās problēma. <ph name="BEGIN_LINK" />Novērsiet Chromium atjaunināšanas problēmas.<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">Vai turpināt jaunā Chromium profilā?</translation>
+<translation id="5075487038316202932">Laipni lūdzam pārlūkā WEB3 DNA Browser (tika atvērts jauns pārlūka logs)!</translation>
+<translation id="8333408299151688471">Pārlūkprogramma WEB3 DNA Browser netika atjaunināta. Radās problēma. <ph name="BEGIN_LINK" />Novērsiet WEB3 DNA Browser atjaunināšanas problēmas.<ph name="END_LINK" /></translation>
+<translation id="5710517655208362990">Vai turpināt jaunā WEB3 DNA Browser profilā?</translation>
 <translation id="4567424176335768812">Jūs esat pierakstījies kā <ph name="USER_EMAIL_ADDRESS" />. Tagad varat piekļūt savām grāmatzīmēm, vēsturei un citiem iestatījumiem visās ierīcēs, kurās esat pierakstījies.</translation>
 <translation id="4594305310729380060">Tā tiks saglabāta Paroļu pārvaldniekā šajā ierīcē</translation>
-<translation id="459535195905078186">Chromium lietotnes</translation>
-<translation id="4613863813562375431">Chromium OS versija</translation>
-<translation id="4621240073146040695">Atjaunināšana ir gandrīz pabeigta. Lai pabeigtu atjaunināšanu, atkārtoti palaidiet pārlūku Chromium.</translation>
-<translation id="4665829708273112819">Brīdinājums! Chromium nevar novērst to, ka paplašinājumi ieraksta jūsu pārlūkošanas vēsturi. Lai atspējotu šo paplašinājumu inkognito režīmā, noņemiet šīs opcijas atlasi.</translation>
-<translation id="4673151026126227699">Ja kopīgojat arī Chromium lietojuma pārskatus, šajos pārskatos tiek iekļauti jūsu apmeklētie vietrāži URL.</translation>
-<translation id="4677944499843243528">Šķiet, ka profils tiek izmantots citā Chromium procesā (<ph name="PROCESS_ID" />) citā datorā (<ph name="HOST_NAME" />). Lai profils netiktu bojāts, pārlūkā Chromium tas ir bloķēts. Ja esat pārliecināts, ka šis profils netiek izmantots citos procesos, varat to atbloķēt un restartēt pārlūku Chromium.</translation>
+<translation id="8700214093481776621">WEB3 DNA Browser lietotnes</translation>
+<translation id="4613863813562375431">WEB3 DNA Browser OS versija</translation>
+<translation id="6951246183774166202">Atjaunināšana ir gandrīz pabeigta. Lai pabeigtu atjaunināšanu, atkārtoti palaidiet pārlūku WEB3 DNA Browser.</translation>
+<translation id="1967316171334904609">Brīdinājums! WEB3 DNA Browser nevar novērst to, ka paplašinājumi ieraksta jūsu pārlūkošanas vēsturi. Lai atspējotu šo paplašinājumu inkognito režīmā, noņemiet šīs opcijas atlasi.</translation>
+<translation id="6242940079717718930">Ja kopīgojat arī WEB3 DNA Browser lietojuma pārskatus, šajos pārskatos tiek iekļauti jūsu apmeklētie vietrāži URL.</translation>
+<translation id="4405105480942922067">Šķiet, ka profils tiek izmantots citā WEB3 DNA Browser procesā (<ph name="PROCESS_ID" />) citā datorā (<ph name="HOST_NAME" />). Lai profils netiktu bojāts, pārlūkā WEB3 DNA Browser tas ir bloķēts. Ja esat pārliecināts, ka šis profils netiek izmantots citos procesos, varat to atbloķēt un restartēt pārlūku WEB3 DNA Browser.</translation>
 <translation id="4680828127924988555">Atcelt instalēšanu</translation>
-<translation id="4708774505295300557">Kāds iepriekš pierakstījās pārlūkā Chromium šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST" />. Lūdzu, izveidojiet jaunu Chromium lietotāju, lai nošķirtu savu informāciju.</translation>
-<translation id="4746050847053251315">Vai tik un tā aizvērt pārlūku Chromium?</translation>
-<translation id="4748217263233248895">Tikko tika piemērots īpašs Chromium drošības atjauninājums. Restartējiet tūlīt, un mēs atjaunosim jūsu cilnes.</translation>
-<translation id="4765210420921718862">Ja pārdomāsiet, jebkurā laikā varēsiet atbilstoši mainīt Chromium iestatījumus. Izmēģinājuma laikā reklāmu rādīšanai tiek izmantotas arī pašreizējās metodes, tāpēc izmaiņas nebūs pamanāmas uzreiz.</translation>
-<translation id="4788777615168560705">Pārlūkprogrammā Chromium nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām vai <ph name="BEGIN_LINK" />pārbaudiet paroles savā Google kontā<ph name="END_LINK" />.</translation>
+<translation id="3750760070906465924">Kāds iepriekš pierakstījās pārlūkā WEB3 DNA Browser šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST" />. Lūdzu, izveidojiet jaunu WEB3 DNA Browser lietotāju, lai nošķirtu savu informāciju.</translation>
+<translation id="1217313267986183942">Vai tik un tā aizvērt pārlūku WEB3 DNA Browser?</translation>
+<translation id="4805555266423130696">Tikko tika piemērots īpašs WEB3 DNA Browser drošības atjauninājums. Restartējiet tūlīt, un mēs atjaunosim jūsu cilnes.</translation>
+<translation id="3541589509773411057">Ja pārdomāsiet, jebkurā laikā varēsiet atbilstoši mainīt WEB3 DNA Browser iestatījumus. Izmēģinājuma laikā reklāmu rādīšanai tiek izmantotas arī pašreizējās metodes, tāpēc izmaiņas nebūs pamanāmas uzreiz.</translation>
+<translation id="2655572098566031184">Pārlūkprogrammā WEB3 DNA Browser nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām vai <ph name="BEGIN_LINK" />pārbaudiet paroles savā Google kontā<ph name="END_LINK" />.</translation>
 <translation id="479167709087336770">Šeit tiek izmantota tāds pats pareizrakstības pārbaudītājs, kāds tiek izmantots Google meklēšanā. Pārlūkprogrammā ievadītais teksts tiek nosūtīts Google serveriem. Jebkurā brīdī varat mainīt šo darbību iestatījumos.</translation>
-<translation id="4888717733111232871">Ienākošo savienojumu kārtula pārlūkam Chromium, lai atļautu mDNS datplūsmu.</translation>
-<translation id="4893347770495441059">Atkārtoti palaist, lai atjauninātu &amp;Chromium</translation>
-<translation id="4943838377383847465">Chromium darbojas fona režīmā.</translation>
-<translation id="4987820182225656817">Viesi var izmantot Chromium, neatstājot nekādas pēdas.</translation>
-<translation id="4994636714258228724">Pievienot savu kontu pārlūkā Chromium</translation>
-<translation id="5114678101347489141">Chromium pēta jaunas funkcijas, kas ļauj vietnēm nodrošināt tādas pašas pārlūkošanas iespējas, izmantojot mazāk informācijas.</translation>
-<translation id="5224391634244552924">Nav saglabātu paroļu. Pārlūkprogrammā Chromium var pārbaudīt jūsu paroles, ja jūs tās saglabājat.</translation>
-<translation id="5252179775517634216">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā Chromium profilā. Tādējādi tiks izveidots jauns Chromium profils lietotājam <ph name="USER_EMAIL_ADDRESS" />.</translation>
-<translation id="5277894862589591112">Lai ieviestu veiktās izmaiņas, atkārtoti palaidiet pārlūku Chromium.</translation>
-<translation id="5296845517486664001">Ja izmēģināšana ir ieslēgta un jūs esat iesaistīts aktīvā izmēģinājumā pārlūkā Chromium, jūsu pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, Chromium katru mēnesi pakāpeniski dzēš jūsu intereses.</translation>
-<translation id="5358375970380395591">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Chromium dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">Notiek Chromium atjaunināšana (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Atļaut pierakstīties pārlūkā Chromium</translation>
-<translation id="5398878173008909840">Pieejama jauna Chromium versija.</translation>
-<translation id="5405650547142096840">Noņemt no pārlūka Chromium</translation>
-<translation id="5421879995290576427">{0,plural, =0{Chromium tūlīt tiks aizvērts.}=1{Chromium tiks aizvērts pēc 1 sekundes.}zero{Chromium tiks aizvērts pēc # sekundēm.}one{Chromium tiks aizvērts pēc # sekundes.}other{Chromium tiks aizvērts pēc # sekundēm.}}</translation>
-<translation id="5427571867875391349">Iestatīt Chromium kā noklusējuma pārlūku</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> — Chromium beta versija</translation>
-<translation id="5473971139929175403">Iespējams, pārlūks Chromium nedarbosies pareizi, jo tas vairs netiek atbalstīts šajā Linux izdevumā.</translation>
-<translation id="5480860683791598150">Pārlūkam Chromium ir nepieciešama piekļuve jūsu atrašanās vietas datiem, lai varētu tos kopīgot ar šo vietni.</translation>
-<translation id="5487574057737591516">Lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Ja intereses pārlūkā Chromium nav noteiktas pareizi vai nevēlaties skatīt konkrētas reklāmas, varat noņemt interesi.</translation>
-<translation id="549669000822060376">Lūdzu, uzgaidiet, kamēr Chromium instalē jaunākos sistēmas atjauninājumus.</translation>
-<translation id="5496810170689441661">Chromium mēģina rediģēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
-<translation id="5527463683072221100">Atvērt PDF failus pārlūkā Chromium</translation>
-<translation id="5614091477838198795">Iestatījumam esot ieslēgtam, jūs tiksiet izrakstīts arī no pārlūka Chromium.</translation>
-<translation id="5623402015214259806">{0,plural, =0{Ir pieejams Chromium atjauninājums}=1{Ir pieejams Chromium atjauninājums}zero{Chromium atjauninājums ir pieejams jau # dienu}one{Chromium atjauninājums ir pieejams jau # dienu}other{Chromium atjauninājums ir pieejams jau # dienas}}</translation>
-<translation id="5634636535844844681">Pārlūka Chromium izmantošanai nepieciešama operētājsistēma Windows 7 vai jaunāka versija.</translation>
-<translation id="5653831366781983928">Lūdzu, nekavējoties restartējiet pārlūku Chromium</translation>
-<translation id="5698481217667032250">Rādīt Chromium šajā valodā</translation>
-<translation id="5862307444128926510">Laipni lūdzam pārlūkā Chromium!</translation>
-<translation id="5883558403894052917">Pārlūkā Chromium tika konstatēts, ka tālāk norādītie vienumi satur ļaunprātīgu programmatūru:</translation>
+<translation id="6402416911698425675">Ienākošo savienojumu kārtula pārlūkam WEB3 DNA Browser, lai atļautu mDNS datplūsmu.</translation>
+<translation id="5496148131599227635">Atkārtoti palaist, lai atjauninātu &amp;WEB3 DNA Browser</translation>
+<translation id="3889712706226772861">WEB3 DNA Browser darbojas fona režīmā.</translation>
+<translation id="5502939625951695202">Viesi var izmantot WEB3 DNA Browser, neatstājot nekādas pēdas.</translation>
+<translation id="4935574428555172200">Pievienot savu kontu pārlūkā WEB3 DNA Browser</translation>
+<translation id="60503244591890876">WEB3 DNA Browser pēta jaunas funkcijas, kas ļauj vietnēm nodrošināt tādas pašas pārlūkošanas iespējas, izmantojot mazāk informācijas.</translation>
+<translation id="282690038359289128">Nav saglabātu paroļu. Pārlūkprogrammā WEB3 DNA Browser var pārbaudīt jūsu paroles, ja jūs tās saglabājat.</translation>
+<translation id="3588920839125338516">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā WEB3 DNA Browser profilā. Tādējādi tiks izveidots jauns WEB3 DNA Browser profils lietotājam <ph name="USER_EMAIL_ADDRESS" />.</translation>
+<translation id="1712448899328197828">Lai ieviestu veiktās izmaiņas, atkārtoti palaidiet pārlūku WEB3 DNA Browser.</translation>
+<translation id="5425968257754155673">Ja izmēģināšana ir ieslēgta un jūs esat iesaistīts aktīvā izmēģinājumā pārlūkā WEB3 DNA Browser, jūsu pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, WEB3 DNA Browser katru mēnesi pakāpeniski dzēš jūsu intereses.</translation>
+<translation id="4715135477147720071">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu WEB3 DNA Browser dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. <ph name="LEARN_MORE" /></translation>
+<translation id="3959775081883542439">Notiek WEB3 DNA Browser atjaunināšana (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="8468846229743402892">Atļaut pierakstīties pārlūkā WEB3 DNA Browser</translation>
+<translation id="868709743621506099">Pieejama jauna WEB3 DNA Browser versija.</translation>
+<translation id="8954902894032987165">Noņemt no pārlūka WEB3 DNA Browser</translation>
+<translation id="8529594966625997901">{0,plural, =0{WEB3 DNA Browser tūlīt tiks aizvērts.}=1{WEB3 DNA Browser tiks aizvērts pēc 1 sekundes.}zero{WEB3 DNA Browser tiks aizvērts pēc # sekundēm.}one{WEB3 DNA Browser tiks aizvērts pēc # sekundes.}other{WEB3 DNA Browser tiks aizvērts pēc # sekundēm.}}</translation>
+<translation id="2581842036863502750">Iestatīt WEB3 DNA Browser kā noklusējuma pārlūku</translation>
+<translation id="2775837035201231287"><ph name="PAGE_TITLE" /> — WEB3 DNA Browser beta versija</translation>
+<translation id="3342188394733679831">Iespējams, pārlūks WEB3 DNA Browser nedarbosies pareizi, jo tas vairs netiek atbalstīts šajā Linux izdevumā.</translation>
+<translation id="6744035239102820989">Pārlūkam WEB3 DNA Browser ir nepieciešama piekļuve jūsu atrašanās vietas datiem, lai varētu tos kopīgot ar šo vietni.</translation>
+<translation id="1336779017674457494">Lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Ja intereses pārlūkā WEB3 DNA Browser nav noteiktas pareizi vai nevēlaties skatīt konkrētas reklāmas, varat noņemt interesi.</translation>
+<translation id="5998903067774658363">Lūdzu, uzgaidiet, kamēr WEB3 DNA Browser instalē jaunākos sistēmas atjauninājumus.</translation>
+<translation id="840929360644660930">WEB3 DNA Browser mēģina rediģēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
+<translation id="7784374736068182823">Atvērt PDF failus pārlūkā WEB3 DNA Browser</translation>
+<translation id="5825191796443441681">Iestatījumam esot ieslēgtam, jūs tiksiet izrakstīts arī no pārlūka WEB3 DNA Browser.</translation>
+<translation id="2714796268816869066">{0,plural, =0{Ir pieejams WEB3 DNA Browser atjauninājums}=1{Ir pieejams WEB3 DNA Browser atjauninājums}zero{WEB3 DNA Browser atjauninājums ir pieejams jau # dienu}one{WEB3 DNA Browser atjauninājums ir pieejams jau # dienu}other{WEB3 DNA Browser atjauninājums ir pieejams jau # dienas}}</translation>
+<translation id="685484431195180374">Pārlūka WEB3 DNA Browser izmantošanai nepieciešama operētājsistēma Windows 7 vai jaunāka versija.</translation>
+<translation id="8800866953688530873">Lūdzu, nekavējoties restartējiet pārlūku WEB3 DNA Browser</translation>
+<translation id="6138729568957684301">Rādīt WEB3 DNA Browser šajā valodā</translation>
+<translation id="3263014421647076303">Laipni lūdzam pārlūkā WEB3 DNA Browser!</translation>
+<translation id="5243775519569499373">Pārlūkā WEB3 DNA Browser tika konstatēts, ka tālāk norādītie vienumi satur ļaunprātīgu programmatūru:</translation>
 <translation id="5895138241574237353">Restartēt</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> — pierakstīšanās tīklā</translation>
 <translation id="5924017743176219022">Notiek savienojuma izveide ar internetu...</translation>
 <translation id="5941711191222866238">Minimizēt</translation>
-<translation id="5972142260211327093">Ja esat iesaistīts aktīvā izmēģinājumā pārlūkā Chromium, jūsu pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, Chromium katru mēnesi pakāpeniski dzēš jūsu intereses. Intereses tiek atjaunotas, ja vien nenoņemat tās.</translation>
-<translation id="5987687638152509985">Lai sāktu sinhronizēšanu, atjauniniet Chromium.</translation>
-<translation id="5988505247484123880">Bieži vien jūsu apmeklētajās vietnēs tiek saglabāta informācija par jūs interesējošām lietām, lai personalizētu jūsu pieredzi. Vietnes var arī glabāt informāciju par jūsu interesēm pārlūkā Chromium.</translation>
+<translation id="3298053682358110562">Ja esat iesaistīts aktīvā izmēģinājumā pārlūkā WEB3 DNA Browser, jūsu pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, WEB3 DNA Browser katru mēnesi pakāpeniski dzēš jūsu intereses. Intereses tiek atjaunotas, ja vien nenoņemat tās.</translation>
+<translation id="692313353224514675">Lai sāktu sinhronizēšanu, atjauniniet WEB3 DNA Browser.</translation>
+<translation id="616886729690540411">Bieži vien jūsu apmeklētajās vietnēs tiek saglabāta informācija par jūs interesējošām lietām, lai personalizētu jūsu pieredzi. Vietnes var arī glabāt informāciju par jūsu interesēm pārlūkā WEB3 DNA Browser.</translation>
 <translation id="6003112304606738118">Notiek lejupielāde... Atlikušais laiks: <ph name="HOURS" /> stunda(-as).</translation>
 <translation id="6040143037577758943">Aizvērt</translation>
-<translation id="6055895534982063517">Ir pieejama jauna Chromium versija, un tā ir ātrāka nekā jebkad agrāk.</translation>
-<translation id="6063093106622310249">&amp;Atvērt pārlūkā Chromium</translation>
-<translation id="6072279588547424923">Paplašinājums <ph name="EXTENSION_NAME" /> ir pievienots pārlūkam Chromium</translation>
-<translation id="6072463441809498330">Pārlūka Chromium darbības paātrināšana</translation>
+<translation id="6530764363503202587">Ir pieejama jauna WEB3 DNA Browser versija, un tā ir ātrāka nekā jebkad agrāk.</translation>
+<translation id="9118683902399158578">&amp;Atvērt pārlūkā WEB3 DNA Browser</translation>
+<translation id="6636913786172654081">Paplašinājums <ph name="EXTENSION_NAME" /> ir pievienots pārlūkam WEB3 DNA Browser</translation>
+<translation id="8335626147292265662">Pārlūka WEB3 DNA Browser darbības paātrināšana</translation>
 <translation id="608006075545470555">Darba profila pievienošana šai pārlūkprogrammai</translation>
-<translation id="6096348254544841612">Pielāgojiet un pārvaldiet pārlūku Chromium. Ir pieejams atjauninājums.</translation>
-<translation id="6119438414301547735">Atļaut paplašinājumam rādīt piekļuves pieprasījumus Chromium rīkjoslā</translation>
-<translation id="6120345080069858279">Pārlūks Chromium saglabās šo paroli jūsu Google kontā. To nav nepieciešams iegaumēt.</translation>
-<translation id="6129621093834146363">Fails <ph name="FILE_NAME" /> ir bīstams, tādēļ Chromium to bloķēja.</translation>
-<translation id="6134968993075716475">Droša pārlūkošana ir izslēgta. Pārlūkā Chromium tiek ieteikts to ieslēgt.</translation>
-<translation id="6145820983052037069">Šeit varat pārslēgties starp Chromium profiliem.</translation>
-<translation id="6183079672144801177">Ierīcē <ph name="TARGET_DEVICE_NAME" /> pierakstieties pārlūkā Chromium un pēc tam vēlreiz mēģiniet veikt sūtīšanu.</translation>
-<translation id="6212496753309875659">Šim datoram jau ir jaunākā Chromium versija. Ja programmatūra nedarbojas, atinstalējiet pārlūku Chromium un mēģiniet vēlreiz.</translation>
-<translation id="6219195342503754812">{0,plural, =0{Pārlūks Chromium tūlīt tiks restartēts}=1{Pārlūks Chromium pēc 1 sekundes tiks restartēts}zero{Pārlūks Chromium pēc # sekundēm tiks restartēts}one{Pārlūks Chromium pēc # sekundes tiks restartēts}other{Pārlūks Chromium pēc # sekundēm tiks restartēts}}</translation>
-<translation id="6241367896540709610">Pārlūkam Chromium ir nepieciešama atļauja piekļūt krātuvei, lai varētu lejupielādēt failus.</translation>
-<translation id="6245734527075554892">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošo vietņu sarakstu, kas ir saglabāts pārlūkprogrammā Chromium.</translation>
-<translation id="6248213926982192922">Padarīt Chromium par noklusējuma pārlūku</translation>
-<translation id="6266342355635466082">Pārlūkprogrammā Chromium nevar pārbaudīt atjauninājumu pieejamību. Pārbaudiet interneta savienojumu.</translation>
-<translation id="6268381023930128611">Vai izrakstīties no Chromium?</translation>
+<translation id="584202866735675117">Pielāgojiet un pārvaldiet pārlūku WEB3 DNA Browser. Ir pieejams atjauninājums.</translation>
+<translation id="7117732708950464239">Atļaut paplašinājumam rādīt piekļuves pieprasījumus WEB3 DNA Browser rīkjoslā</translation>
+<translation id="5619841049631523040">Pārlūks WEB3 DNA Browser saglabās šo paroli jūsu Google kontā. To nav nepieciešams iegaumēt.</translation>
+<translation id="6208909969393126843">Fails <ph name="FILE_NAME" /> ir bīstams, tādēļ WEB3 DNA Browser to bloķēja.</translation>
+<translation id="3631145753627335779">Droša pārlūkošana ir izslēgta. Pārlūkā WEB3 DNA Browser tiek ieteikts to ieslēgt.</translation>
+<translation id="5305820434154384954">Šeit varat pārslēgties starp WEB3 DNA Browser profiliem.</translation>
+<translation id="3213257950272370797">Ierīcē <ph name="TARGET_DEVICE_NAME" /> pierakstieties pārlūkā WEB3 DNA Browser un pēc tam vēlreiz mēģiniet veikt sūtīšanu.</translation>
+<translation id="4829390996077196027">Šim datoram jau ir jaunākā WEB3 DNA Browser versija. Ja programmatūra nedarbojas, atinstalējiet pārlūku WEB3 DNA Browser un mēģiniet vēlreiz.</translation>
+<translation id="1584253311175653367">{0,plural, =0{Pārlūks WEB3 DNA Browser tūlīt tiks restartēts}=1{Pārlūks WEB3 DNA Browser pēc 1 sekundes tiks restartēts}zero{Pārlūks WEB3 DNA Browser pēc # sekundēm tiks restartēts}one{Pārlūks WEB3 DNA Browser pēc # sekundes tiks restartēts}other{Pārlūks WEB3 DNA Browser pēc # sekundēm tiks restartēts}}</translation>
+<translation id="2125787073718346702">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja piekļūt krātuvei, lai varētu lejupielādēt failus.</translation>
+<translation id="7121868166864824169">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošo vietņu sarakstu, kas ir saglabāts pārlūkprogrammā WEB3 DNA Browser.</translation>
+<translation id="4611945660893475598">Padarīt WEB3 DNA Browser par noklusējuma pārlūku</translation>
+<translation id="5093746667503154407">Pārlūkprogrammā WEB3 DNA Browser nevar pārbaudīt atjauninājumu pieejamību. Pārbaudiet interneta savienojumu.</translation>
+<translation id="3169777041995452544">Vai izrakstīties no WEB3 DNA Browser?</translation>
 <translation id="6273793429163604305">Lūdzu, uzgaidiet...</translation>
-<translation id="6281746429495226318">Pielāgot Chromium profilu</translation>
-<translation id="6290827346642914212">Chromium profila nosaukšana</translation>
-<translation id="6295779123002464101">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ Chromium to bloķēja.</translation>
-<translation id="6309712487085796862">Chrome saitē tiek izmantota kamera.</translation>
-<translation id="632355235628111698">Pārlūkā Chromium tika bloķēts šis fails, jo tas ir bīstams.</translation>
+<translation id="6865466134977675861">Pielāgot WEB3 DNA Browser profilu</translation>
+<translation id="3066241024811585202">WEB3 DNA Browser profila nosaukšana</translation>
+<translation id="4551717314122756729">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ WEB3 DNA Browser to bloķēja.</translation>
+<translation id="3046912207030099554">WEB3 DNA Browser saitē tiek izmantota kamera.</translation>
+<translation id="6384166038402983055">Pārlūkā WEB3 DNA Browser tika bloķēts šis fails, jo tas ir bīstams.</translation>
 <translation id="6327105987658262776">Atjauninājums nav pieejams.</translation>
-<translation id="6333502561965082103">Tiek veikta cita darbība pārlūkā Chromium. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
-<translation id="6334986366598267305">Tagad pārlūkā Chromium ir vieglāk izmantot Google kontu, kā arī ir atvieglota lietošana datoros, ko izmanto vairākas personas.</translation>
-<translation id="6373523479360886564">Vai tiešām vēlaties atinstalēt pārlūku Chromium?</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Kā mēs izmantojam šos datus:<ph name="END_BOLD" /> pārlūkā Chromium var aptuveni noteikt jūsu intereses. Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam Chromium atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas.</translation>
-<translation id="6403826409255603130">Chromium ir tīmekļa pārlūks, kas darbina tīmekļa lapas un lietojumprogrammas zibenīgā ātrumā. Tas ir ātrs, stabils un ērti lietojams. Pārlūkojiet tīmekli vēl drošāk ar aizsardzību pret ļaunprātīgu programmatūru un pikšķerēšanu, kas iebūvēta pārlūkā Chromium.</translation>
-<translation id="6442900851116057561">Chromium OS restartēšana</translation>
-<translation id="6455857529632101747">Laipni lūdzam Chromium profilos!</translation>
-<translation id="6457450909262716557">{SECONDS,plural, =1{Pārlūks Chromium tiks restartēts pēc 1 sekundes.}zero{Pārlūks Chromium tiks restartēts pēc # sekundēm.}one{Pārlūks Chromium tiks restartēts pēc # sekundes.}other{Pārlūks Chromium tiks restartēts pēc # sekundēm.}}</translation>
-<translation id="6475912303565314141">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Chromium.</translation>
-<translation id="6510925080656968729">Atinstalēt Chromium</translation>
-<translation id="6542839706527980775">Katrā profilā tiek glabāta attiecīgā Chromium profila informācija, piemēram, grāmatzīmes, vēsture, paroles un citi dati.</translation>
-<translation id="6570579332384693436">Lai izlabotu pareizrakstības kļūdas, Chromium nosūta teksta laukos ievadīto tekstu Google serveriem.</translation>
-<translation id="6598877126913850652">Pāriet uz Chromium paziņojumu iestatījumiem</translation>
-<translation id="6613594504749178791">Izmaiņas stāsies spēkā, kad restartēsiet Chromium.</translation>
-<translation id="665732753414869868">Pārlūkam Chromium ir nepieciešama atļauja izmantot kameru, lai varētu izveidot jūsu apkārtnes 3D karti.</translation>
+<translation id="1452531430459107501">Tiek veikta cita darbība pārlūkā WEB3 DNA Browser. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
+<translation id="5949643712250952992">Tagad pārlūkā WEB3 DNA Browser ir vieglāk izmantot Google kontu, kā arī ir atvieglota lietošana datoros, ko izmanto vairākas personas.</translation>
+<translation id="3428207813941614733">Vai tiešām vēlaties atinstalēt pārlūku WEB3 DNA Browser?</translation>
+<translation id="8367277764281804913"><ph name="BEGIN_BOLD" />Kā mēs izmantojam šos datus:<ph name="END_BOLD" /> pārlūkā WEB3 DNA Browser var aptuveni noteikt jūsu intereses. Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam WEB3 DNA Browser atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas.</translation>
+<translation id="3646769559663834227">WEB3 DNA Browser ir tīmekļa pārlūks, kas darbina tīmekļa lapas un lietojumprogrammas zibenīgā ātrumā. Tas ir ātrs, stabils un ērti lietojams. Pārlūkojiet tīmekli vēl drošāk ar aizsardzību pret ļaunprātīgu programmatūru un pikšķerēšanu, kas iebūvēta pārlūkā WEB3 DNA Browser.</translation>
+<translation id="6442900851116057561">WEB3 DNA Browser OS restartēšana</translation>
+<translation id="4806322893637813344">Laipni lūdzam WEB3 DNA Browser profilos!</translation>
+<translation id="3150453102283643478">{SECONDS,plural, =1{Pārlūks WEB3 DNA Browser tiks restartēts pēc 1 sekundes.}zero{Pārlūks WEB3 DNA Browser tiks restartēts pēc # sekundēm.}one{Pārlūks WEB3 DNA Browser tiks restartēts pēc # sekundes.}other{Pārlūks WEB3 DNA Browser tiks restartēts pēc # sekundēm.}}</translation>
+<translation id="6475912303565314141">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku WEB3 DNA Browser.</translation>
+<translation id="1113676425111919541">Atinstalēt WEB3 DNA Browser</translation>
+<translation id="4127557045835948655">Katrā profilā tiek glabāta attiecīgā WEB3 DNA Browser profila informācija, piemēram, grāmatzīmes, vēsture, paroles un citi dati.</translation>
+<translation id="82412484113149506">Lai izlabotu pareizrakstības kļūdas, WEB3 DNA Browser nosūta teksta laukos ievadīto tekstu Google serveriem.</translation>
+<translation id="1041508100495026545">Pāriet uz WEB3 DNA Browser paziņojumu iestatījumiem</translation>
+<translation id="8823298025665339355">Izmaiņas stāsies spēkā, kad restartēsiet WEB3 DNA Browser.</translation>
+<translation id="2513279141152484388">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja izmantot kameru, lai varētu izveidot jūsu apkārtnes 3D karti.</translation>
 <translation id="6676384891291319759">Piekļūt internetam</translation>
-<translation id="668175097507315160">Chromium OS nevarēja sinhronizēt jūsu datus pierakstīšanās kļūdas dēļ.</translation>
-<translation id="6709350901466051922">Pārlūkam Chromium ir nepieciešama atļauja izmantot mikrofonu šajā vietnē.</translation>
-<translation id="6717134281241384636">Jūsu profilu nevar izmantot, jo tas ir no jaunākas Chromium versijas.
+<translation id="668175097507315160">WEB3 DNA Browser OS nevarēja sinhronizēt jūsu datus pierakstīšanās kļūdas dēļ.</translation>
+<translation id="3485439540953416536">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja izmantot mikrofonu šajā vietnē.</translation>
+<translation id="3898949707616141056">Jūsu profilu nevar izmantot, jo tas ir no jaunākas WEB3 DNA Browser versijas.
 
-Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai izmantojiet jaunāku Chromium versiju.</translation>
-<translation id="6730677189742196061">Atmiņas taupīšana nodrošināja ātrāku Chromium darbību</translation>
-<translation id="6734291798041940871">Pārlūks Chromium jau ir instalēts visiem lietotājiem jūsu datorā.</translation>
-<translation id="673636774878526923">Lai piekļūtu savam Chromium saturam visās jūsu ierīcēs, pierakstieties un pēc tam ieslēdziet sinhronizāciju.</translation>
-<translation id="6774082503108938489">Viens no jūsu vecākiem ir izslēdzis “Atļaujas vietnēm, lietotnēm un paplašinājumiem” pārlūkam Chromium. Nav atļauts iespējot šo: <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
-<translation id="6779406956731413166">Chromium OS darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="6847869444787758381">Ja jūsu paroles kādreiz tiks apdraudētas, pārlūkā Chromium saņemsiet paziņojumu</translation>
-<translation id="6852530923436401894">Pārlūkā Chromium šis fails tika bloķēts, jo tajā ir ļaunprātīga programmatūra.</translation>
-<translation id="6857782730669500492">Chromium — <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">Google Pay (kopēts pārlūkā Chromium)</translation>
-<translation id="6873893289264747459">Pārlūkā Chromium tika konstatēts, ka paplašinājums “<ph name="EXTENSION_NAME" />” satur ļaunprātīgu programmatūru.</translation>
-<translation id="6893813176749746474">Pārlūks Chromium ir atjaunināts, bet jūs neesat to izmantojis vismaz 30 dienas.</translation>
-<translation id="691026815377248078">Pārlūkam Chromium ir nepieciešama Bluetooth piekļuve, lai turpinātu savienošanu pārī. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Kad izmēģināšana ir ieslēgta, reklāmu izvērtēšana ļauj jūsu apmeklētajām vietnēm pieprasīt informāciju no Chromium, lai efektīvāk novērtētu vietnēs rādīto reklāmu veiktspēju. Reklāmu izvērtēšana ierobežo starpvietņu izsekošanu, pārsūtot starp vietnēm pēc iespējas mazāk informācijas.</translation>
-<translation id="6940431691900807093">Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam Chromium atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas. Pārlūks Chromium var kopīgot līdz trim interesēm.</translation>
-<translation id="6964305034639999644">Atvērt saiti inko&amp;gnito režīma logā</translation>
-<translation id="6978145336957848883">Nedrošas paroles ir viegli uzminēt. Pārlūkā Chromium <ph name="BEGIN_LINK" />var automātiski veidot un iegaumēt drošas paroles jūsu kontiem<ph name="END_LINK" />.</translation>
-<translation id="6984667024406244807">Chromium nav aktīvs</translation>
-<translation id="6985329841647292029">Chromium OS noteikumi</translation>
-<translation id="6990124437352146030">Pārlūkam Chromium ir nepieciešama atļauja piekļūt jūsu mikrofonam šajā vietnē.</translation>
+Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai izmantojiet jaunāku WEB3 DNA Browser versiju.</translation>
+<translation id="2841305420532702376">Atmiņas taupīšana nodrošināja ātrāku WEB3 DNA Browser darbību</translation>
+<translation id="4553621150701650138">Pārlūks WEB3 DNA Browser jau ir instalēts visiem lietotājiem jūsu datorā.</translation>
+<translation id="3957858324423880626">Lai piekļūtu savam WEB3 DNA Browser saturam visās jūsu ierīcēs, pierakstieties un pēc tam ieslēdziet sinhronizāciju.</translation>
+<translation id="1489635928648141251">Viens no jūsu vecākiem ir izslēdzis “Atļaujas vietnēm, lietotnēm un paplašinājumiem” pārlūkam WEB3 DNA Browser. Nav atļauts iespējot šo: <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
+<translation id="6779406956731413166">WEB3 DNA Browser OS darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="6798439930306865443">Ja jūsu paroles kādreiz tiks apdraudētas, pārlūkā WEB3 DNA Browser saņemsiet paziņojumu</translation>
+<translation id="877665203225711835">Pārlūkā WEB3 DNA Browser šis fails tika bloķēts, jo tajā ir ļaunprātīga programmatūra.</translation>
+<translation id="7732765206800238484">WEB3 DNA Browser — <ph name="PAGE_TITLE" /></translation>
+<translation id="2089740034323086528">Google Pay (kopēts pārlūkā WEB3 DNA Browser)</translation>
+<translation id="2329130305935541101">Pārlūkā WEB3 DNA Browser tika konstatēts, ka paplašinājums “<ph name="EXTENSION_NAME" />” satur ļaunprātīgu programmatūru.</translation>
+<translation id="2947483933825476413">Pārlūks WEB3 DNA Browser ir atjaunināts, bet jūs neesat to izmantojis vismaz 30 dienas.</translation>
+<translation id="8828344991758417694">Pārlūkam WEB3 DNA Browser ir nepieciešama Bluetooth piekļuve, lai turpinātu savienošanu pārī. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
+<translation id="9067852028442542655">Kad izmēģināšana ir ieslēgta, reklāmu izvērtēšana ļauj jūsu apmeklētajām vietnēm pieprasīt informāciju no WEB3 DNA Browser, lai efektīvāk novērtētu vietnēs rādīto reklāmu veiktspēju. Reklāmu izvērtēšana ierobežo starpvietņu izsekošanu, pārsūtot starp vietnēm pēc iespējas mazāk informācijas.</translation>
+<translation id="6638774777596425412">Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam WEB3 DNA Browser atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas. Pārlūks WEB3 DNA Browser var kopīgot līdz trim interesēm.</translation>
+<translation id="1618581910910744310">Atvērt saiti inko&amp;gnito režīma logā</translation>
+<translation id="1141174083986936166">Nedrošas paroles ir viegli uzminēt. Pārlūkā WEB3 DNA Browser <ph name="BEGIN_LINK" />var automātiski veidot un iegaumēt drošas paroles jūsu kontiem<ph name="END_LINK" />.</translation>
+<translation id="1422439798626251044">WEB3 DNA Browser nav aktīvs</translation>
+<translation id="6985329841647292029">WEB3 DNA Browser OS noteikumi</translation>
+<translation id="8045464583440265694">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja piekļūt jūsu mikrofonam šajā vietnē.</translation>
 <translation id="7025789849649390912">Instalēšana apturēta.</translation>
-<translation id="705851970750939768">Atjaunināt Chromium</translation>
-<translation id="7067091210845072982">Ja attēlam nav vērtīga apraksta, pārlūks Chromium mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google.</translation>
-<translation id="718435575166326686">Pārlūkam Chromium ir nepieciešama atļauja izmantot kameru šajā vietnē.</translation>
-<translation id="7196312274710523067">Neizdevās palaist Chromium. Mēģiniet vēlreiz.</translation>
-<translation id="7197677400338048821">Pārlūkprogrammā Chromium nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām.</translation>
-<translation id="7218568399872925918">Apmeklētajās vietnēs jūsu informācija tiks iegaumēta, līdz jūs aizvērsiet pārlūku Chromium.</translation>
-<translation id="7223968959479464213">Uzdevumu pārvaldnieks — Chromium</translation>
-<translation id="7246575524853130370">Jūsu intereses, kas aptuveni noteiktas pārlūkā Chromium</translation>
-<translation id="7309928523159922338">Reklāmu izvērtēšana ļauj jūsu apmeklētajām vietnēm pieprasīt informāciju no Chromium, lai efektīvāk novērtētu vietnēs rādīto reklāmu veiktspēju. Reklāmu izvērtēšana ierobežo starpvietņu izsekošanu, pārsūtot starp vietnēm pēc iespējas mazāk informācijas.</translation>
-<translation id="731795002583552498">Notiek Chromium atjaunināšana</translation>
-<translation id="7318036098707714271">Jūsu preferenču fails ir bojāts vai nederīgs. Chromium nespēj atkopt jūsu iestatījumus.</translation>
-<translation id="7337881442233988129">Chromium</translation>
+<translation id="475843105037256922">Atjaunināt WEB3 DNA Browser</translation>
+<translation id="326486748351990910">Ja attēlam nav vērtīga apraksta, pārlūks WEB3 DNA Browser mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google.</translation>
+<translation id="5618043080831675837">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja izmantot kameru šajā vietnē.</translation>
+<translation id="6831720849639347633">Neizdevās palaist WEB3 DNA Browser. Mēģiniet vēlreiz.</translation>
+<translation id="7914905542208857296">Pārlūkprogrammā WEB3 DNA Browser nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām.</translation>
+<translation id="2219572028161280443">Apmeklētajās vietnēs jūsu informācija tiks iegaumēta, līdz jūs aizvērsiet pārlūku WEB3 DNA Browser.</translation>
+<translation id="3988179273882088670">Uzdevumu pārvaldnieks — WEB3 DNA Browser</translation>
+<translation id="8082426603469914763">Jūsu intereses, kas aptuveni noteiktas pārlūkā WEB3 DNA Browser</translation>
+<translation id="3791422786486318548">Reklāmu izvērtēšana ļauj jūsu apmeklētajām vietnēm pieprasīt informāciju no WEB3 DNA Browser, lai efektīvāk novērtētu vietnēs rādīto reklāmu veiktspēju. Reklāmu izvērtēšana ierobežo starpvietņu izsekošanu, pārsūtot starp vietnēm pēc iespējas mazāk informācijas.</translation>
+<translation id="3826673197841439968">Notiek WEB3 DNA Browser atjaunināšana</translation>
+<translation id="3105300744480734014">Jūsu preferenču fails ir bojāts vai nederīgs. WEB3 DNA Browser nespēj atkopt jūsu iestatījumus.</translation>
+<translation id="4691707200828155405">WEB3 DNA Browser</translation>
 <translation id="7339898014177206373">Jauns logs</translation>
-<translation id="734373864078049451">Šeit atrodas jūsu tīmekļa saturs, grāmatzīmes un cits Chromium saturs.</translation>
-<translation id="7349591376906416160">Jūsu sistēmas administrators ir konfigurējis Chromium atvērt <ph name="ALTERNATIVE_BROWSER_NAME" />, lai piekļūtu <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7398989605938454041">Izmantojot Chromium profilus, varat nodalīt visu savu Chromium saturu. Tādējādi tiek atvieglota darba un izklaides satura nodalīšana.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> — Chromium izstrādātāju versija</translation>
-<translation id="7451052299415159299">Pārlūkam Chromium ir nepieciešama atļauja piekļūt jūsu kamerai šajā vietnē.</translation>
-<translation id="7461356015007898716">Lai saņemtu turpmākus Chromium atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 7.</translation>
-<translation id="7467949745582939695">Vai atkārtoti palaist Chromium?</translation>
-<translation id="7483335560992089831">Nevar instalēt to pašu Chromium versiju, kas jau šobrīd darbojas. Aizveriet Chromium un mēģiniet vēlreiz.</translation>
-<translation id="753534427205733210">{0,plural, =1{Pārlūks Chromium pēc 1 minūtes tiks restartēts}zero{Pārlūks Chromium pēc # minūtēm tiks restartēts}one{Pārlūks Chromium pēc # minūtes tiks restartēts}other{Pārlūks Chromium pēc # minūtēm tiks restartēts}}</translation>
-<translation id="7561906087460245826">Notīrīt arī datus no Chromium (<ph name="URL" />)</translation>
-<translation id="7582945390259497898">Pārlūkā Chromium var aptuveni noteikt jūsu intereses. Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam Chromium atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas.</translation>
+<translation id="866415121309420782">Šeit atrodas jūsu tīmekļa saturs, grāmatzīmes un cits WEB3 DNA Browser saturs.</translation>
+<translation id="2516718275146731816">Jūsu sistēmas administrators ir konfigurējis WEB3 DNA Browser atvērt <ph name="ALTERNATIVE_BROWSER_NAME" />, lai piekļūtu <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="5218043865814307173">Izmantojot WEB3 DNA Browser profilus, varat nodalīt visu savu WEB3 DNA Browser saturu. Tādējādi tiek atvieglota darba un izklaides satura nodalīšana.</translation>
+<translation id="5690617926609878272"><ph name="PAGE_TITLE" /> — WEB3 DNA Browser izstrādātāju versija</translation>
+<translation id="3479625329890795142">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja piekļūt jūsu kamerai šajā vietnē.</translation>
+<translation id="3327138471292503109">Lai saņemtu turpmākus WEB3 DNA Browser atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 7.</translation>
+<translation id="570029382864869633">Vai atkārtoti palaist WEB3 DNA Browser?</translation>
+<translation id="7081567920020845898">Nevar instalēt to pašu WEB3 DNA Browser versiju, kas jau šobrīd darbojas. Aizveriet WEB3 DNA Browser un mēģiniet vēlreiz.</translation>
+<translation id="2308694661846361163">{0,plural, =1{Pārlūks WEB3 DNA Browser pēc 1 minūtes tiks restartēts}zero{Pārlūks WEB3 DNA Browser pēc # minūtēm tiks restartēts}one{Pārlūks WEB3 DNA Browser pēc # minūtes tiks restartēts}other{Pārlūks WEB3 DNA Browser pēc # minūtēm tiks restartēts}}</translation>
+<translation id="7403013663461228352">Notīrīt arī datus no WEB3 DNA Browser (<ph name="URL" />)</translation>
+<translation id="5628570284195611526">Pārlūkā WEB3 DNA Browser var aptuveni noteikt jūsu intereses. Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam WEB3 DNA Browser atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas.</translation>
 <translation id="7583399374488819119"><ph name="COMPANY_NAME" /> instalēšanas programma</translation>
-<translation id="7597596667193879455">Jūs esat ieslēdzis drošu pārlūkošanu ar papildu aizsardzību savā kontā. Tagad iespējojiet to pārlūkā Chromium.</translation>
-<translation id="761356813943268536">Pārlūkā Chromium tiek izmantota jūsu kamera un mikrofons.</translation>
-<translation id="7617377681829253106">Pārlūkā Chromium ir veikti uzlabojumi</translation>
+<translation id="18937021822671718">Jūs esat ieslēdzis drošu pārlūkošanu ar papildu aizsardzību savā kontā. Tagad iespējojiet to pārlūkā WEB3 DNA Browser.</translation>
+<translation id="2422729508884289622">Pārlūkā WEB3 DNA Browser tiek izmantota jūsu kamera un mikrofons.</translation>
+<translation id="7649176261008984828">Pārlūkā WEB3 DNA Browser ir veikti uzlabojumi</translation>
 <translation id="7649070708921625228">Palīdzība</translation>
-<translation id="7682213815243802460">Chromium iestatījumos varat uzzināt vairāk par šīm funkcijām.</translation>
-<translation id="7682601070171973634">Chromium pēta jaunas funkcijas, kas ļauj vietnēm nodrošināt tādas pašas pārlūkošanas iespējas, izmantojot mazāk datu.</translation>
-<translation id="7686590090926151193">Chromium nav jūsu noklusējuma pārlūks.</translation>
-<translation id="7689606757190482937">Chromium sinhronizēšana un personalizēšana visās savās ierīcēs</translation>
-<translation id="7745317241717453663">Veicot šo darbību, no šīs ierīces tiks dzēsti pārlūkošanas dati. Lai vēlāk izgūtu datus, pierakstieties pārlūkā Chromium kā <ph name="USER_EMAIL" />.</translation>
+<translation id="5663191066657660868">WEB3 DNA Browser iestatījumos varat uzzināt vairāk par šīm funkcijām.</translation>
+<translation id="1180711544607099420">WEB3 DNA Browser pēta jaunas funkcijas, kas ļauj vietnēm nodrošināt tādas pašas pārlūkošanas iespējas, izmantojot mazāk datu.</translation>
+<translation id="1427927054102592884">WEB3 DNA Browser nav jūsu noklusējuma pārlūks.</translation>
+<translation id="7195845268083706212">WEB3 DNA Browser sinhronizēšana un personalizēšana visās savās ierīcēs</translation>
+<translation id="4540014860380760179">Veicot šo darbību, no šīs ierīces tiks dzēsti pārlūkošanas dati. Lai vēlāk izgūtu datus, pierakstieties pārlūkā WEB3 DNA Browser kā <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Instalētājam neizdevās izveidot pagaidu katalogu. Lūdzu, pārbaudiet, vai diskā pietiek vietas un vai ir atļauja instalēt programmatūru.</translation>
-<translation id="7786760609782648049">Pārlūka Chromium darbības paātrināšana</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> — Chromium Canary</translation>
-<translation id="7828947555739565424">Šajā ierīcē jau pastāv Chromium profils ar šādu kontu.</translation>
+<translation id="3341158123816213810">Pārlūka WEB3 DNA Browser darbības paātrināšana</translation>
+<translation id="6564515530956462009"><ph name="PAGE_TITLE" /> — WEB3 DNA Browser Canary</translation>
+<translation id="8502268940781535829">Šajā ierīcē jau pastāv WEB3 DNA Browser profils ar šādu kontu.</translation>
 <translation id="7845233973568007926">Pateicamies, ka veicāt instalēšanu. Pirms <ph name="BUNDLE_NAME" /> izmantošanas ir jārestartē dators.</translation>
-<translation id="7867198900892795913">Nevarēja atjaunināt uz jaunāko Chromium versiju, tādēļ jūs nevarēsiet piekļūt jaunākajām funkcijām un drošības labojumiem.</translation>
+<translation id="5422417406245013307">Nevarēja atjaunināt uz jaunāko WEB3 DNA Browser versiju, tādēļ jūs nevarēsiet piekļūt jaunākajām funkcijām un drošības labojumiem.</translation>
 <translation id="7872446069773932638">Notiek lejupielāde... Atlikušais laiks: <ph name="SECONDS" /> sekunde(-es).</translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Kā varat pārvaldīt savus datus:<ph name="END_BOLD" /> lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Varat arī noņemt intereses, ja nevēlaties, lai Chromium tās apsvērtu.</translation>
-<translation id="7937630085815544518">Operētājsistēmā Chromium iepriekš pierakstījāties kā lietotājs <ph name="USER_EMAIL_ADDRESS" />. Lai pierakstītos vēlreiz, lūdzu, izmantojiet to pašu kontu.</translation>
-<translation id="7975919845073681630">Šī ir Chromium papildu instalācija, un to nevar izmantot kā noklusējuma pārlūku.</translation>
-<translation id="7997934263947464652">No nezināmiem avotiem iegūti paplašinājumi, lietotnes un motīvi var kaitēt ierīcei. Chromium komanda iesaka instalēt tos tikai no veikala <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />.</translation>
-<translation id="8013436988911883588">Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.</translation>
+<translation id="6590823489474620893"><ph name="BEGIN_BOLD" />Kā varat pārvaldīt savus datus:<ph name="END_BOLD" /> lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Varat arī noņemt intereses, ja nevēlaties, lai WEB3 DNA Browser tās apsvērtu.</translation>
+<translation id="7280500878215405781">Operētājsistēmā WEB3 DNA Browser iepriekš pierakstījāties kā lietotājs <ph name="USER_EMAIL_ADDRESS" />. Lai pierakstītos vēlreiz, lūdzu, izmantojiet to pašu kontu.</translation>
+<translation id="2253021454574730566">Šī ir WEB3 DNA Browser papildu instalācija, un to nevar izmantot kā noklusējuma pārlūku.</translation>
+<translation id="2180063386451170761">No nezināmiem avotiem iegūti paplašinājumi, lietotnes un motīvi var kaitēt ierīcei. WEB3 DNA Browser komanda iesaka instalēt tos tikai no veikala <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />.</translation>
+<translation id="1446133009793910887">Tiklīdz pārlūkam WEB3 DNA Browser tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.</translation>
 <translation id="80471789339884597">Pateicamies, ka veicāt instalēšanu. Pirms <ph name="BUNDLE_NAME" /> izmantošanas ir jārestartē visas pārlūkprogrammas.</translation>
-<translation id="8105840573057009683">Pārlūkam Chromium ir nepieciešama atrašanās vietas atļauja šai vietnei.</translation>
-<translation id="8133124826068723441">Chromium OS nevarēja sinhronizēt jūsu datus, jo jūsu domēnā nav pieejama sinhronizācija.</translation>
+<translation id="3869525261991846539">Pārlūkam WEB3 DNA Browser ir nepieciešama atrašanās vietas atļauja šai vietnei.</translation>
+<translation id="8133124826068723441">WEB3 DNA Browser OS nevarēja sinhronizēt jūsu datus, jo jūsu domēnā nav pieejama sinhronizācija.</translation>
 <translation id="813913629614996137">Notiek inicializēšana...</translation>
-<translation id="81770708095080097">Šis fails ir bīstams, tāpēc Chromium to bloķēja.</translation>
-<translation id="8213374284266571500">Pārlūkā Chromium šis fails tika bloķēts, jo šī tipa faili ir bīstami.</translation>
-<translation id="8248265253516264921">Ja attēlam nav vērtīga apraksta, pārlūks Chromium mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google. Jebkurā brīdī iestatījumos varat izslēgt šo iespēju.</translation>
-<translation id="8266560134891435528">Pārlūkprogrammā Chromium nevar pārbaudīt jūsu paroles, jo jūs neesat pierakstījies.</translation>
-<translation id="8276522524898344151">Chromium mēģina nokopēt paroles.</translation>
-<translation id="8290862415967981663">Šis fails var būt bīstams, tāpēc Chromium to bloķēja.</translation>
-<translation id="8330519371938183845">Pierakstieties, lai sinhronizētu un personalizētu pārlūku Chromium visās savās ierīcēs.</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> iepriekš izmantoja Chromium</translation>
-<translation id="8357820681460164151">Lai piekļūtu savam Chromium saturam visās savās ierīcēs, pierakstieties un pēc tam ieslēdziet sinhronizāciju.</translation>
-<translation id="8360718212975266891">Lai saņemtu turpmākus Chromium atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 8.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Restartējiet pārlūku Chromium vienas dienas laikā}zero{Restartējiet pārlūku Chromium # dienu laikā}one{Restartējiet pārlūku Chromium # dienas laikā}other{Restartējiet pārlūku Chromium # dienu laikā}}</translation>
-<translation id="8453117565092476964">Instalēšanas programmas arhīvs ir bojāts vai nav derīgs. Lejupielādējiet Chromium vēlreiz.</translation>
-<translation id="8463672209299734063">Neobligāti: palīdziet uzlabot Chromium OS funkcijas un veiktspēju, automātiski nosūtot Google serveriem diagnostikas un lietojuma datus.</translation>
-<translation id="8493179195440786826">Chromium versija ir novecojusi</translation>
+<translation id="6871375725780252705">Šis fails ir bīstams, tāpēc WEB3 DNA Browser to bloķēja.</translation>
+<translation id="8821717781402291672">Pārlūkā WEB3 DNA Browser šis fails tika bloķēts, jo šī tipa faili ir bīstami.</translation>
+<translation id="8394136310056741303">Ja attēlam nav vērtīga apraksta, pārlūks WEB3 DNA Browser mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google. Jebkurā brīdī iestatījumos varat izslēgt šo iespēju.</translation>
+<translation id="4863557335992202213">Pārlūkprogrammā WEB3 DNA Browser nevar pārbaudīt jūsu paroles, jo jūs neesat pierakstījies.</translation>
+<translation id="8332908002682218419">WEB3 DNA Browser mēģina nokopēt paroles.</translation>
+<translation id="3862328687893385239">Šis fails var būt bīstams, tāpēc WEB3 DNA Browser to bloķēja.</translation>
+<translation id="7450630974943556627">Pierakstieties, lai sinhronizētu un personalizētu pārlūku WEB3 DNA Browser visās savās ierīcēs.</translation>
+<translation id="8910359951607649198"><ph name="USER_EMAIL_ADDRESS" /> iepriekš izmantoja WEB3 DNA Browser</translation>
+<translation id="7837286795552251352">Lai piekļūtu savam WEB3 DNA Browser saturam visās savās ierīcēs, pierakstieties un pēc tam ieslēdziet sinhronizāciju.</translation>
+<translation id="4231941262737361466">Lai saņemtu turpmākus WEB3 DNA Browser atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 8.</translation>
+<translation id="4708615805477131870">{0,plural, =1{Restartējiet pārlūku WEB3 DNA Browser vienas dienas laikā}zero{Restartējiet pārlūku WEB3 DNA Browser # dienu laikā}one{Restartējiet pārlūku WEB3 DNA Browser # dienas laikā}other{Restartējiet pārlūku WEB3 DNA Browser # dienu laikā}}</translation>
+<translation id="8293407095466346653">Instalēšanas programmas arhīvs ir bojāts vai nav derīgs. Lejupielādējiet WEB3 DNA Browser vēlreiz.</translation>
+<translation id="8463672209299734063">Neobligāti: palīdziet uzlabot WEB3 DNA Browser OS funkcijas un veiktspēju, automātiski nosūtot Google serveriem diagnostikas un lietojuma datus.</translation>
+<translation id="2275026549113043779">WEB3 DNA Browser versija ir novecojusi</translation>
 <translation id="8550334526674375523">Šis darba profils ir pilnīgi nesaistīts ar jūsu personīgo profilu.</translation>
-<translation id="8558383651099478961">Viens no jūsu vecākiem ir izslēdzis “Atļaujas vietnēm, lietotnēm un paplašinājumiem” pārlūkam Chromium. Nav atļauts pievienot šo: <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
-<translation id="8561285221328166383">Lai saņemtu turpmākus Chromium atjauninājumus, ir nepieciešama operētājsistēma macOS 10.13 vai jaunāka versija. Šajā datorā tiek izmantota macOS 10.12. versija</translation>
-<translation id="8568283329061645092">Pārlūkprogrammā Chromium var pārbaudīt jūsu paroles, ja esat pierakstījies savā Google kontā.</translation>
-<translation id="8574036838419011058">Kad šis iestatījums ir ieslēgts, pārlūkā Chromium tiek taupīta akumulatora jauda, ierobežojot darbības fonā un vizuālos efektus, piemēram, vienmērīgu ritināšanu un video kadru nomaiņas ātrumu. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
-<translation id="8586442755830160949">Autortiesības <ph name="YEAR" /> Chromium autori. Visas tiesības paturētas.</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Kā mēs izmantojam šos datus:<ph name="END_BOLD" /> vietnes pārlūkā Chromium var glabāt informāciju par jūsu interesēm. Piemēram, ja apmeklējat kādu vietni, lai iegādātos apavus maratona skriešanai, vietne var noteikt, ka interesējaties par maratonu skriešanu. Ja vēlāk apmeklēsiet citu vietni, lai reģistrētos sacensībām, šajā vietnē var tikt rādīta skriešanas apavu reklāma, pamatojoties uz jūsu interesēm.</translation>
-<translation id="8619360774459241877">Notiek Chromium palaišana...</translation>
-<translation id="8621669128220841554">Instalēšana neizdevās nenoteiktas kļūdas dēļ. Lejupielādējiet pārlūku Chromium vēlreiz.</translation>
-<translation id="8697124171261953979">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Chromium vai meklēsiet, izmantojot universālo lodziņu.</translation>
-<translation id="8704119203788522458">Šis ir jūsu Chromium</translation>
-<translation id="8713679423359107094">Aizverot visus Chromium logus, sīkfaili un vietņu dati tiek automātiski notīrīti.</translation>
-<translation id="8796443464227412154">Aizverot pārlūku Chromium, jūs tiksiet <ph name="BEGIN_BOLD" />izrakstīts no lielākās daļas vietņu<ph name="END_BOLD" />. Ja sinhronizācija ir izslēgta, jūs tiksiet arī <ph name="BEGIN_BOLD" />izrakstīts no Google pakalpojumiem un pārlūka Chromium<ph name="END_BOLD" />.</translation>
-<translation id="8796602469536043152">Pārlūkam Chromium ir nepieciešama atļauja piekļūt jūsu kamerai un mikrofonam šajā vietnē.</translation>
-<translation id="8833697763442816810">Chromium OS sistēma</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Kādi dati tiek izmantoti:<ph name="END_BOLD" /> jūsu pārlūkošanas vēsture, kurā tiek reģistrētas vietnes, ko šajā ierīcē apmeklējat ar pārlūku Chromium.</translation>
+<translation id="3829194378861761606">Viens no jūsu vecākiem ir izslēdzis “Atļaujas vietnēm, lietotnēm un paplašinājumiem” pārlūkam WEB3 DNA Browser. Nav atļauts pievienot šo: <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
+<translation id="6148620910029690666">Lai saņemtu turpmākus WEB3 DNA Browser atjauninājumus, ir nepieciešama operētājsistēma macOS 10.13 vai jaunāka versija. Šajā datorā tiek izmantota macOS 10.12. versija</translation>
+<translation id="1246723111619277441">Pārlūkprogrammā WEB3 DNA Browser var pārbaudīt jūsu paroles, ja esat pierakstījies savā Google kontā.</translation>
+<translation id="7115352036028984404">Kad šis iestatījums ir ieslēgts, pārlūkā WEB3 DNA Browser tiek taupīta akumulatora jauda, ierobežojot darbības fonā un vizuālos efektus, piemēram, vienmērīgu ritināšanu un video kadru nomaiņas ātrumu. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
+<translation id="4799188800355420938">Autortiesības <ph name="YEAR" /> WEB3 DNA Browser autori. Visas tiesības paturētas.</translation>
+<translation id="1392803118131207008"><ph name="BEGIN_BOLD" />Kā mēs izmantojam šos datus:<ph name="END_BOLD" /> vietnes pārlūkā WEB3 DNA Browser var glabāt informāciju par jūsu interesēm. Piemēram, ja apmeklējat kādu vietni, lai iegādātos apavus maratona skriešanai, vietne var noteikt, ka interesējaties par maratonu skriešanu. Ja vēlāk apmeklēsiet citu vietni, lai reģistrētos sacensībām, šajā vietnē var tikt rādīta skriešanas apavu reklāma, pamatojoties uz jūsu interesēm.</translation>
+<translation id="5546249279042208244">Notiek WEB3 DNA Browser palaišana...</translation>
+<translation id="5255237181758616742">Instalēšana neizdevās nenoteiktas kļūdas dēļ. Lejupielādējiet pārlūku WEB3 DNA Browser vēlreiz.</translation>
+<translation id="8697124171261953979">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku WEB3 DNA Browser vai meklēsiet, izmantojot universālo lodziņu.</translation>
+<translation id="4220559821674570264">Šis ir jūsu WEB3 DNA Browser</translation>
+<translation id="8072998028605263569">Aizverot visus WEB3 DNA Browser logus, sīkfaili un vietņu dati tiek automātiski notīrīti.</translation>
+<translation id="6903751245620697304">Aizverot pārlūku WEB3 DNA Browser, jūs tiksiet <ph name="BEGIN_BOLD" />izrakstīts no lielākās daļas vietņu<ph name="END_BOLD" />. Ja sinhronizācija ir izslēgta, jūs tiksiet arī <ph name="BEGIN_BOLD" />izrakstīts no Google pakalpojumiem un pārlūka WEB3 DNA Browser<ph name="END_BOLD" />.</translation>
+<translation id="7277260025828649281">Pārlūkam WEB3 DNA Browser ir nepieciešama atļauja piekļūt jūsu kamerai un mikrofonam šajā vietnē.</translation>
+<translation id="8833697763442816810">WEB3 DNA Browser OS sistēma</translation>
+<translation id="7404934872971073925"><ph name="BEGIN_BOLD" />Kādi dati tiek izmantoti:<ph name="END_BOLD" /> jūsu pārlūkošanas vēsture, kurā tiek reģistrētas vietnes, ko šajā ierīcē apmeklējat ar pārlūku WEB3 DNA Browser.</translation>
 <translation id="8862326446509486874">Jums nav vajadzīgo tiesību, lai instalētu sistēmas līmenī. Mēģiniet vēlreiz palaist instalēšanas programmu kā administrators.</translation>
-<translation id="8880203542552872219">Ja tā ir, lūdzu, rediģējiet saglabāto paroli pārlūkprogrammā Chromium, lai tā atbilstu jūsu jaunajai parolei.</translation>
-<translation id="8897323336392112261">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Chromium vai noklikšķināsiet uz pogas “Sākums”.</translation>
-<translation id="8907580949721785412">Chromium mēģina rādīt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
-<translation id="8931379085695076764">Chromium var aptuveni noteikt jūsu intereses, balstoties uz jūsu pēdējo nedēļu pārlūkošanas vēsturi. Šī informācija tiek glabāta jūsu ierīcē.</translation>
-<translation id="8941642502866065432">Nevar atjaunināt Chromium</translation>
-<translation id="897581876605952338">Chromium Enterprise logotips</translation>
+<translation id="8304007095757244531">Ja tā ir, lūdzu, rediģējiet saglabāto paroli pārlūkprogrammā WEB3 DNA Browser, lai tā atbilstu jūsu jaunajai parolei.</translation>
+<translation id="8897323336392112261">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku WEB3 DNA Browser vai noklikšķināsiet uz pogas “Sākums”.</translation>
+<translation id="257978004891740263">WEB3 DNA Browser mēģina rādīt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
+<translation id="7500894618301979366">WEB3 DNA Browser var aptuveni noteikt jūsu intereses, balstoties uz jūsu pēdējo nedēļu pārlūkošanas vēsturi. Šī informācija tiek glabāta jūsu ierīcē.</translation>
+<translation id="3731673200617615844">Nevar atjaunināt WEB3 DNA Browser</translation>
+<translation id="1787382483918628946">WEB3 DNA Browser Enterprise logotips</translation>
 <translation id="8986207147630327271">Jūs pievienosiet šai pārlūkprogrammai darba profilu un piešķirsiet administratoram kontroli tikai pār darba profilu.</translation>
-<translation id="9019929317751753759">Lai uzlabotu Chromium drošību, mēs atspējojām tālāk norādīto paplašinājumu, kas nav norādīts vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienots, jums nezinot.</translation>
-<translation id="9022552996538154597">Pierakstieties pārlūkā Chromium</translation>
-<translation id="9089354809943900324">Chromium versija ir novecojusi.</translation>
-<translation id="9093206154853821181">{0,plural, =1{Pārlūks Chromium pēc stundas tiks restartēts}zero{Pārlūks Chromium pēc # stundām tiks restartēts}one{Pārlūks Chromium pēc # stundas tiks restartēts}other{Pārlūks Chromium pēc # stundām tiks restartēts}}</translation>
-<translation id="9106612006984859720">Lai saņemtu turpmākus Chromium atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 8.1.</translation>
-<translation id="91086099826398415">Atvērt saiti jaunā Chromium &amp;cilnē</translation>
+<translation id="8867249455463470821">Lai uzlabotu WEB3 DNA Browser drošību, mēs atspējojām tālāk norādīto paplašinājumu, kas nav norādīts vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienots, jums nezinot.</translation>
+<translation id="8879833215600767638">Pierakstieties pārlūkā WEB3 DNA Browser</translation>
+<translation id="853293422536067733">WEB3 DNA Browser versija ir novecojusi.</translation>
+<translation id="325086175188777548">{0,plural, =1{Pārlūks WEB3 DNA Browser pēc stundas tiks restartēts}zero{Pārlūks WEB3 DNA Browser pēc # stundām tiks restartēts}one{Pārlūks WEB3 DNA Browser pēc # stundas tiks restartēts}other{Pārlūks WEB3 DNA Browser pēc # stundām tiks restartēts}}</translation>
+<translation id="8024211601023847048">Lai saņemtu turpmākus WEB3 DNA Browser atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 8.1.</translation>
+<translation id="2383920618768832592">Atvērt saiti jaunā WEB3 DNA Browser &amp;cilnē</translation>
 <translation id="911206726377975832">Vai dzēst arī pārlūkošanas datus?</translation>
-<translation id="9144490074902256427">Izmēģinājuma laikā varat skatīt un noņemt interešu tēmas, kas vietnēs tika izmantotas reklāmu rādīšanai. Pārlūkā Chromium tiek aptuveni noteiktas jūsu intereses, ņemot vērā neseno pārlūkošanas vēsturi.</translation>
-<translation id="9158494823179993217">Sistēmas administrators ir konfigurējis Chromium, lai vietne <ph name="TARGET_URL_HOSTNAME" /> tiktu atvērta papildu pārlūkā.</translation>
-<translation id="9185526690718004400">Atkārtoti palaist, lai atjauninātu &amp;Chromium</translation>
-<translation id="9190841055450128916">Chromium (mDNS ienākošie savienojumi)</translation>
-<translation id="93478295209880648">Iespējams, Chromium nedarbosies pareizi, jo tas vairs netiek atbalstīts operētājsistēmās Windows XP un Windows Vista.</translation>
-<translation id="942598560705308788">Chromium pārvaldītie sertifikāti</translation>
-<translation id="945990405696787151">Lai saņemtu turpmākus Chromium atjauninājumus, ir nepieciešama operētājsistēma macOS 10.13 vai jaunāka versija. Šajā datorā tiek izmantota OS X 10.11 versija.</translation>
-<translation id="965162752251293939">Kas izmanto pārlūku Chromium?</translation>
-<translation id="967427899662692980">Visaugstākais Chromium drošības līmenis</translation>
-<translation id="985602178874221306">Chromium autori</translation>
+<translation id="3209098675401285328">Izmēģinājuma laikā varat skatīt un noņemt interešu tēmas, kas vietnēs tika izmantotas reklāmu rādīšanai. Pārlūkā WEB3 DNA Browser tiek aptuveni noteiktas jūsu intereses, ņemot vērā neseno pārlūkošanas vēsturi.</translation>
+<translation id="3219820530884298089">Sistēmas administrators ir konfigurējis WEB3 DNA Browser, lai vietne <ph name="TARGET_URL_HOSTNAME" /> tiktu atvērta papildu pārlūkā.</translation>
+<translation id="3490070383213151269">Atkārtoti palaist, lai atjauninātu &amp;WEB3 DNA Browser</translation>
+<translation id="6090927689465861839">WEB3 DNA Browser (mDNS ienākošie savienojumi)</translation>
+<translation id="5838682317838879726">Iespējams, WEB3 DNA Browser nedarbosies pareizi, jo tas vairs netiek atbalstīts operētājsistēmās Windows XP un Windows Vista.</translation>
+<translation id="864578822176559036">WEB3 DNA Browser pārvaldītie sertifikāti</translation>
+<translation id="5999581564161388420">Lai saņemtu turpmākus WEB3 DNA Browser atjauninājumus, ir nepieciešama operētājsistēma macOS 10.13 vai jaunāka versija. Šajā datorā tiek izmantota OS X 10.11 versija.</translation>
+<translation id="8170259981824726476">Kas izmanto pārlūku WEB3 DNA Browser?</translation>
+<translation id="848072905736697318">Visaugstākais WEB3 DNA Browser drošības līmenis</translation>
+<translation id="3707690415152488007">WEB3 DNA Browser autori</translation>
 </translationbundle>

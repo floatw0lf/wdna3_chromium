@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Magbigay ng mga karagdagang detalye</translation>
 <translation id="1019413721762100891">I-off</translation>
 <translation id="1021110881106174305">Mga tinatanggap na card</translation>
-<translation id="1021753677514347426">Nangyayari ang problemang ito dahil sa isang certificate na na-install mo o ng ibang tao sa iyong device. Kilala ang certificate sa pagsubaybay at pag-intercept ng mga network, at hindi ito pinagkakatiwalaan ng Chromium. Bagama't mayroong mga lehitimong kaso ng pagsubaybay, gaya sa network sa paaralan o kumpanya, gustong tiyakin ng Chromium na alam mong nangyayari ito, kahit na hindi mo ito mapipigilan. Posibleng mangyari ang pagsubaybay sa anumang browser o application na nag-a-access ng web.</translation>
+<translation id="6843750610117699926">Nangyayari ang problemang ito dahil sa isang certificate na na-install mo o ng ibang tao sa iyong device. Kilala ang certificate sa pagsubaybay at pag-intercept ng mga network, at hindi ito pinagkakatiwalaan ng WEB3 DNA Browser. Bagama't mayroong mga lehitimong kaso ng pagsubaybay, gaya sa network sa paaralan o kumpanya, gustong tiyakin ng WEB3 DNA Browser na alam mong nangyayari ito, kahit na hindi mo ito mapipigilan. Posibleng mangyari ang pagsubaybay sa anumang browser o application na nag-a-access ng web.</translation>
 <translation id="1024111578869940408">Kung minsan, ginagaya ng mga attacker ang mga site sa pamamagitan ng paggawa ng mga mahirap makitang pagbabago sa address sa web.</translation>
 <translation id="1028781062521375153">Tingnan ang mga detalye</translation>
 <translation id="1030706264415084469">Gusto ng <ph name="URL" /> na permanenteng mag-store ng malaking data sa iyong device</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;I-undo ang Pagdagdag</translation>
 <translation id="1056663316309890343">Software sa larawan</translation>
 <translation id="1056898198331236512">Babala</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para laruin ang Dino Run sa Chrome</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para laruin ang Dino Run sa WEB3 DNA Browser</translation>
 <translation id="1058479211578257048">Sine-save ang mga card...</translation>
 <translation id="1060320201901229167">Envelope Kaku 5</translation>
 <translation id="10614374240317010">Hindi kailanman nag-save</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Magdagdag ng Pangalan sa Card</translation>
 <translation id="1089439967362294234">Palitan ang Password</translation>
 <translation id="1096545575934602868">Ang field na ito ay hindi dapat magkaroon ng higit sa <ph name="MAX_ITEMS_LIMIT" /> (na) entry. Madi-discard ang lahat ng karagdagang entry.</translation>
-<translation id="1100782917270858593">Button na Ipagpatuloy ang iyong journey, pindutin ang Enter para ipagpatuloy ang journey mo at makakita ng nauugnay na aktibidad sa iyong history sa Chrome</translation>
+<translation id="3985486898664025513">Button na Ipagpatuloy ang iyong journey, pindutin ang Enter para ipagpatuloy ang journey mo at makakita ng nauugnay na aktibidad sa iyong history sa WEB3 DNA Browser</translation>
 <translation id="1101672080107056897">Error sa pagkilos</translation>
 <translation id="1103523840287552314">Palaging i-translate ang <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Inilagay mo ang iyong password sa site na hindi pinamamahalaan ng iyong organisasyon. Para protektahan ang account mo, huwag gamiting muli ang iyong password sa iba pang app at site.</translation>
 <translation id="1257553931232494454">mga antas ng pag-zoom</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang Tab at pagkatapos ay ang Enter para pamahalaan ang iyong mga setting ng Chrome</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang Tab at pagkatapos ay ang Enter para pamahalaan ang iyong mga setting ng WEB3 DNA Browser</translation>
 <translation id="1263231323834454256">Listahan ng babasahin</translation>
 <translation id="1264309058268477500">Alternatibo</translation>
 <translation id="1264974993859112054">Pampalakasan</translation>
@@ -131,7 +131,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1285320974508926690">Huwag isalin kailanman ang site na ito</translation>
 <translation id="1288548991597756084">Secure na i-save ang card</translation>
 <translation id="1292571435393770077">Tray 16</translation>
-<translation id="1292701964462482250">"Pinipigilan ng software sa iyong computer na makakonekta nang ligtas ang Chrome sa web" (mga Windows computer lang)</translation>
+<translation id="3610512443326918645">"Pinipigilan ng software sa iyong computer na makakonekta nang ligtas ang WEB3 DNA Browser sa web" (mga Windows computer lang)</translation>
 <translation id="1293797321964802402">Envelope 9 x 11 in</translation>
 <translation id="1294154142200295408">Mga variation ng command-line</translation>
 <translation id="129553762522093515">Kamakailang isinara</translation>
@@ -150,7 +150,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1323433172918577554">Magpakita Nang Higit Pa</translation>
 <translation id="132390688737681464">I-save at Punan ang Mga Address</translation>
 <translation id="1330449323196174374">Left gate fold</translation>
-<translation id="1333745675627230582">Laruin ang Chrome Dino</translation>
+<translation id="6227572462599550594">Laruin ang WEB3 DNA Browser Dino</translation>
 <translation id="1333989956347591814">Ang iyong aktibidad <ph name="BEGIN_EMPHASIS" />ay maaari pa ring makita<ph name="END_EMPHASIS" /> ng:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Mga binibisita mong website
@@ -223,7 +223,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1483493594462132177">Ipadala</translation>
 <translation id="1484290072879560759">Pumili ng Address sa Pagpapadala</translation>
 <translation id="1492194039220927094">Pag-push ng mga patakaran:</translation>
-<translation id="149293076951187737">Kapag isinara mo ang lahat ng tab na Incognito sa Chrome, maki-clear mula sa device na ito ang iyong aktibidad sa mga tab na iyon:
+<translation id="3175654283800723944">Kapag isinara mo ang lahat ng tab na Incognito sa WEB3 DNA Browser, maki-clear mula sa device na ito ang iyong aktibidad sa mga tab na iyon:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Aktibidad sa pag-browse<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />History ng paghahanap<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="154408704832528245">Pumili ng Address sa Paghahatid</translation>
 <translation id="1549470594296187301">Dapat naka-enable ang JavaScript upang magamit ang feature na ito.</translation>
 <translation id="1551884710160394169">Freeware at shareware</translation>
-<translation id="1553358976309200471">I-update ang Chrome</translation>
+<translation id="1553358976309200471">I-update ang WEB3 DNA Browser</translation>
 <translation id="1555130319947370107">Asul</translation>
 <translation id="1559447966090556585">Tumanggap ng mga notification?</translation>
 <translation id="1559528461873125649">Walang naturang file o direktoryo</translation>
@@ -263,7 +263,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="156703335097561114">Impormasyon ng networking gaya ng mga address, configuration ng interface, at kalidad ng koneksyon</translation>
 <translation id="1567040042588613346">Gumagana ang patakarang ito tulad ng inaasahan pero itinatakda ang kaparehong value sa ibang lugar at nasasapawan ito ng patakarang ito.</translation>
 <translation id="1569487616857761740">Ilagay ang petsa ng pag-expire</translation>
-<translation id="1569694109004336106">Sinusubukan ng Google Chrome na i-on ang Windows Hello para sa paglalagay ng mga password.</translation>
+<translation id="8064078726251017937">Sinusubukan ng WEB3 DNA Browser na i-on ang Windows Hello para sa paglalagay ng mga password.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Nagkaproblema habang ipinapakita ang webpage na ito.</translation>
@@ -273,7 +273,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1594030484168838125">Pumili</translation>
 <translation id="1596296697375291157">Mga pelikulang thriller, krimen, at misteryo</translation>
 <translation id="1599199147673445968">Bagong card? <ph name="BEGIN_LINK" />Ilagay ang Mga Detalye ng Card<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Laruin ang Dino Run sa Chrome</translation>
+<translation id="160851722280695521">Laruin ang Dino Run sa WEB3 DNA Browser</translation>
 <translation id="161042844686301425">Cyan</translation>
 <translation id="1611101756749861742">Ikalawang Rolyo</translation>
 <translation id="1615402009686901181">Dini-disable ng patakaran ng administrator ang screen capture kapag may nakikitang kumpidensyal na content</translation>
@@ -293,13 +293,13 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1642410292376109062">Button na Palitan ang password sa Google, pindutin ang Enter para palitan ang password ng iyong Google Account</translation>
 <translation id="1644574205037202324">History</translation>
 <translation id="1645368109819982629">Hindi sinusuportahang protocol</translation>
-<translation id="1650602712345345441">Pamahalaan ang iyong mga setting ng Chrome</translation>
+<translation id="1650602712345345441">Pamahalaan ang iyong mga setting ng WEB3 DNA Browser</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Pinasimple ng Chrome ang page na ito para mas madali itong mabasa. Nakuha ng Chrome ang orihinal na page sa pamamagitan ng secure na koneksyon.</translation>
+<translation id="5043029585940149901">Pinasimple ng WEB3 DNA Browser ang page na ito para mas madali itong mabasa. Nakuha ng WEB3 DNA Browser ang orihinal na page sa pamamagitan ng secure na koneksyon.</translation>
 <translation id="1656489000284462475">I-pick up</translation>
 <translation id="1658918301167915956">mga bluetooth device</translation>
 <translation id="1662550410081243962">I-save at punan ang mga paraan ng pagbabayad</translation>
-<translation id="1663943134801823270">Ang mga card at address ay mula sa Chrome. Maaari mong pamahalaan ang mga ito sa <ph name="BEGIN_LINK" />Mga Setting<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Ang mga card at address ay mula sa WEB3 DNA Browser. Maaari mong pamahalaan ang mga ito sa <ph name="BEGIN_LINK" />Mga Setting<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">Simula ngayon ay ita-translate na sa <ph name="TARGET_LANGUAGE" /> ang mga page na nasa <ph name="SOURCE_LANGUAGE" />.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> na isasalin sa <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Short edge muna</translation>
@@ -347,7 +347,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1757773103848038814">Monospace Font</translation>
 <translation id="1763864636252898013">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; hindi pinagkakatiwalaan ng operating system ng iyong device ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Subukang patakbuhin ang Windows Network Diagnostics<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Matuto pa tungkol sa Incognito sa Chromium<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Matuto pa tungkol sa Incognito sa WEB3 DNA Browser<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Lalabas dito ang iyong mga bukas na tab</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -399,11 +399,11 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1919526244108283799">400 x 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Wala}=1{1 site}one{# site}other{# na site}}</translation>
 <translation id="1924727005275031552">Bago</translation>
-<translation id="1927439593081478069">Pindutin ang button ng pag-check sa kaligtasan sa Chrome, pindutin ang Enter para magpatakbo ng pag-check sa kaligtasan sa Chrome sa mga setting ng Chrome</translation>
+<translation id="1927439593081478069">Pindutin ang button ng pag-check sa kaligtasan sa WEB3 DNA Browser, pindutin ang Enter para magpatakbo ng pag-check sa kaligtasan sa WEB3 DNA Browser sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="1935995810530254458">Kopyahin pa rin</translation>
 <translation id="1939175642807587452">Puwedeng hilinging magpadala ng mga notification</translation>
 <translation id="1943994668912612445">Disenyo</translation>
-<translation id="1945968466830820669">Maaari kang mawalan ng access sa account ng iyong organisasyon o manakawan ng pagkakakilanlan. Inirerekomenda ng Chromium na palitan ang iyong password ngayon.</translation>
+<translation id="5087943717045213809">Maaari kang mawalan ng access sa account ng iyong organisasyon o manakawan ng pagkakakilanlan. Inirerekomenda ng WEB3 DNA Browser na palitan ang iyong password ngayon.</translation>
 <translation id="1946849748901605102">12 x 15 in</translation>
 <translation id="1947454675006758438">Staple top right</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -426,8 +426,8 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2001146170449793414">{COUNT,plural, =1{at 1 pa}one{at # pa}other{at # pa}}</translation>
 <translation id="2003709556000175978">I-reset na ang iyong password</translation>
 <translation id="2003775180883135320">Quad punch top</translation>
-<translation id="201174227998721785">Pamahalaan ang mga pahintulot at data na naka-store sa lahat ng site sa mga setting ng Chrome</translation>
-<translation id="2019607688127825327">Button na Pamahalaan ang mga setting ng accessibility, pindutin ang Enter para i-personalize ang iyong mga tool sa accessibility sa mga setting ng Chrome</translation>
+<translation id="201174227998721785">Pamahalaan ang mga pahintulot at data na naka-store sa lahat ng site sa mga setting ng WEB3 DNA Browser</translation>
+<translation id="2019607688127825327">Button na Pamahalaan ang mga setting ng accessibility, pindutin ang Enter para i-personalize ang iyong mga tool sa accessibility sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="202224654587969958">12 x 19 in</translation>
 <translation id="2025115093177348061">Augmented reality</translation>
 <translation id="2025186561304664664">Nakatakda sa awtomatikong naka-configure ang proxy.</translation>
@@ -444,7 +444,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2048261947532620704">Isinasalin ang page</translation>
 <translation id="205212645995975601">BBQ at pag-iihaw</translation>
 <translation id="2053111141626950936">Hindi ita-translate ang mga page na nasa <ph name="LANGUAGE" />.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Kapag naka-on ang kontrol na ito at aktibo ang status, tinutukoy ng Chrome kung aling malaking grupo ng mga tao, o "cohort," ang pinakakatulad ng iyong kamakailang aktibidad sa pag-browse. Makakapili ang mga advertiser ng mga ad para sa grupo at pinapanatiling pribado sa iyong device ang aktibidad mo sa pag-browse. Ina-update ang iyong grupo araw-araw.}=1{Kapag naka-on ang kontrol na ito at aktibo ang status, tinutukoy ng Chrome kung aling malaking grupo ng mga tao, o "cohort," ang pinakakatulad ng iyong kamakailang aktibidad sa pag-browse. Makakapili ang mga advertiser ng mga ad para sa grupo at pinapanatiling pribado sa iyong device ang aktibidad mo sa pag-browse. Ina-update ang iyong grupo araw-araw.}one{Kapag naka-on ang kontrol na ito at aktibo ang status, tinutukoy ng Chrome kung aling malaking grupo ng mga tao, o "cohort," ang pinakakatulad ng iyong kamakailang aktibidad sa pag-browse. Makakapili ang mga advertiser ng mga ad para sa grupo at pinapanatiling pribado sa iyong device ang aktibidad mo sa pag-browse. Ina-update ang iyong grupo kada {NUM_DAYS} araw.}other{Kapag naka-on ang kontrol na ito at aktibo ang status, tinutukoy ng Chrome kung aling malaking grupo ng mga tao, o "cohort," ang pinakakatulad ng iyong kamakailang aktibidad sa pag-browse. Makakapili ang mga advertiser ng mga ad para sa grupo at pinapanatiling pribado sa iyong device ang aktibidad mo sa pag-browse. Ina-update ang iyong grupo kada {NUM_DAYS} na araw.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Kapag naka-on ang kontrol na ito at aktibo ang status, tinutukoy ng WEB3 DNA Browser kung aling malaking grupo ng mga tao, o "cohort," ang pinakakatulad ng iyong kamakailang aktibidad sa pag-browse. Makakapili ang mga advertiser ng mga ad para sa grupo at pinapanatiling pribado sa iyong device ang aktibidad mo sa pag-browse. Ina-update ang iyong grupo araw-araw.}=1{Kapag naka-on ang kontrol na ito at aktibo ang status, tinutukoy ng WEB3 DNA Browser kung aling malaking grupo ng mga tao, o "cohort," ang pinakakatulad ng iyong kamakailang aktibidad sa pag-browse. Makakapili ang mga advertiser ng mga ad para sa grupo at pinapanatiling pribado sa iyong device ang aktibidad mo sa pag-browse. Ina-update ang iyong grupo araw-araw.}one{Kapag naka-on ang kontrol na ito at aktibo ang status, tinutukoy ng WEB3 DNA Browser kung aling malaking grupo ng mga tao, o "cohort," ang pinakakatulad ng iyong kamakailang aktibidad sa pag-browse. Makakapili ang mga advertiser ng mga ad para sa grupo at pinapanatiling pribado sa iyong device ang aktibidad mo sa pag-browse. Ina-update ang iyong grupo kada {NUM_DAYS} araw.}other{Kapag naka-on ang kontrol na ito at aktibo ang status, tinutukoy ng WEB3 DNA Browser kung aling malaking grupo ng mga tao, o "cohort," ang pinakakatulad ng iyong kamakailang aktibidad sa pag-browse. Makakapili ang mga advertiser ng mga ad para sa grupo at pinapanatiling pribado sa iyong device ang aktibidad mo sa pag-browse. Ina-update ang iyong grupo kada {NUM_DAYS} na araw.}}</translation>
 <translation id="2059202684901022309">22 x 34 in</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 suhestyon}one{# suhestyon}other{# na suhestyon}}</translation>
 <translation id="2066915425250589881">hilinging i-delete</translation>
@@ -457,9 +457,9 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="20817612488360358">Itinatakda ang mga setting ng proxy ng system upang magamit ngunit tinutukoy rin ang isang tahasang configuration ng proxy.</translation>
 <translation id="2082238445998314030">Resulta <ph name="RESULT_NUMBER" /> sa <ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">I-save…</translation>
-<translation id="2088086323192747268">Button na Pamahalaan ang pag-sync, pindutin ang Enter para pamahalaan kung anong impormasyon ang isi-sync mo sa mga setting ng Chrome</translation>
+<translation id="2088086323192747268">Button na Pamahalaan ang pag-sync, pindutin ang Enter para pamahalaan kung anong impormasyon ang isi-sync mo sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="2091887806945687916">Tunog</translation>
-<translation id="2093982008204312032">Sinusubukan ng Google Chrome na i-off ang Windows Hello para sa paglalagay ng mga password.</translation>
+<translation id="2399368725255444543">Sinusubukan ng WEB3 DNA Browser na i-off ang Windows Hello para sa paglalagay ng mga password.</translation>
 <translation id="2094505752054353250">Maling pagtutugma sa domain</translation>
 <translation id="2099652385553570808">Triple staple left</translation>
 <translation id="2101225219012730419">Bersyon:</translation>
@@ -543,7 +543,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2292556288342944218">Naka-block ang iyong access sa Internet</translation>
 <translation id="2293443924986248631">Kapag naka-on, ang mga site ay hindi makakagamit ng cookies na sumusubaybay sa iyo sa buong web. Posibleng masira ang mga feature sa ilang site.</translation>
 <translation id="2295290966866883927">Ipinapadala sa Google Cloud o mga third party para sa pagsusuri ang mga URL ng mga page na binibisita mo. Halimbawa, posibleng i-scan ang mga ito para matukoy ang mga hindi ligtas na website.</translation>
-<translation id="2298855485018661510">Button na Pamahalaan ang cookies, pindutin ang Enter para pamahalaan ang iyong mga kagustuhan sa cookies sa mga setting ng Chrome</translation>
+<translation id="2298855485018661510">Button na Pamahalaan ang cookies, pindutin ang Enter para pamahalaan ang iyong mga kagustuhan sa cookies sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="2300306941146563769">Hindi na-upload</translation>
 <translation id="2316159751672436664">I-personalize ang iyong mga tool sa accessibility sa mga setting ng ChromeOS</translation>
 <translation id="2316887270356262533">Magbabakante ng wala pang 1 MB. Maaaring mag-load nang mas mabagal ang ilang site sa iyong susunod na pagbisita.</translation>
@@ -571,9 +571,9 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="236340516568226369">Menu ng toggle sa pag-resize</translation>
 <translation id="2367567093518048410">Antas</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">I-personalize ang iyong mga tool sa pagiging accessible sa mga setting ng Chrome</translation>
+<translation id="2383455408879745299">I-personalize ang iyong mga tool sa pagiging accessible sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="2384307209577226199">Default ng enterprise</translation>
-<translation id="2385809941344967209">I-update ang Chrome mula sa iyong mga setting ng Chrome</translation>
+<translation id="2385809941344967209">I-update ang WEB3 DNA Browser mula sa iyong mga setting ng WEB3 DNA Browser</translation>
 <translation id="2386255080630008482">Nabawi ang certificate ng server.</translation>
 <translation id="239293030466334554">Mga convertible</translation>
 <translation id="2392959068659972793">Ipakita ang mga patakarang walang nakatakdang halaga</translation>
@@ -592,7 +592,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2463739503403862330">Punan</translation>
 <translation id="2465655957518002998">Pumili ng Paraan ng Paghahatid</translation>
 <translation id="2465688316154986572">Staple</translation>
-<translation id="2465914000209955735">Pamahalaan ang mga file na na-download mo sa Chrome</translation>
+<translation id="2465914000209955735">Pamahalaan ang mga file na na-download mo sa WEB3 DNA Browser</translation>
 <translation id="2466004615675155314">Ipakita ang impormasyon mula sa web</translation>
 <translation id="2467272921457885625">Mga detalye ng hardware at mga istatistika ng device gaya ng history ng paggamit ng CPU/RAM</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Magpatakbo ng Network Diagnostics<ph name="END_LINK" /></translation>
@@ -609,7 +609,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2505268675989099013">Protektahan ang Account</translation>
 <translation id="2509167091171468975">Mga retailer ng pagkain at grocery</translation>
 <translation id="2512101340618156538">Hindi pinapayagan (default)</translation>
-<translation id="2512413427717747692">Itakda ang Chrome bilang default na button ng browser, pindutin ang Enter para itakda ang Chrome bilang default na browser ng system sa mga setting ng iOS</translation>
+<translation id="2512413427717747692">Itakda ang WEB3 DNA Browser bilang default na button ng browser, pindutin ang Enter para itakda ang WEB3 DNA Browser bilang default na browser ng system sa mga setting ng iOS</translation>
 <translation id="2515629240566999685">Suriin ang signal sa iyong lugar</translation>
 <translation id="2515761554693942801">Puwede mong piliing mag-verify gamit ang Touch ID sa mga website na gumagamit ng <ph name="PROVIDER_ORIGIN" />. Ang provider na ito ay posibleng nag-store ng impormasyon tungkol sa iyong paraan ng pagbabayad, na puwede mong <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Staple bottom right</translation>
@@ -626,7 +626,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2542106216580219892">Surfing</translation>
 <translation id="2544546346215446551">Na-restart ng iyong administrator ang device mo</translation>
 <translation id="2544644783021658368">Isang dokumento</translation>
-<translation id="254524874071906077">Itakda ang Chrome bilang Default na Browser</translation>
+<translation id="1319028298140338735">Itakda ang WEB3 DNA Browser bilang Default na Browser</translation>
 <translation id="2546283357679194313">Cookies at data ng site</translation>
 <translation id="2547466893236767989">Pagdidisenyo at paggawa ng website</translation>
 <translation id="254947805923345898">Di-wasto ang value ng patakaran.</translation>
@@ -641,19 +641,19 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2570734079541893434">Pamahalaan ang mga setting</translation>
 <translation id="2573834589046842510">Pag-print at paglalathala</translation>
 <translation id="257674075312929031">Pangkat</translation>
-<translation id="2576880857912732701">Button na Pamahalaan ang mga setting ng seguridad, pindutin ang Enter para pamahalaan ang iyong Ligtas na Pag-browse at higit pa sa mga setting ng Chrome</translation>
+<translation id="2576880857912732701">Button na Pamahalaan ang mga setting ng seguridad, pindutin ang Enter para pamahalaan ang iyong Ligtas na Pag-browse at higit pa sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="2586657967955657006">Clipboard</translation>
 <translation id="2587730715158995865">Mula sa <ph name="ARTICLE_PUBLISHER" />. Basahin ito at ang <ph name="OTHER_ARTICLE_COUNT" /> (na) iba pang kwento.</translation>
 <translation id="2587841377698384444">Directory API ID:</translation>
 <translation id="2594318783181750337">Fast web view:</translation>
 <translation id="2595719060046994702">Ang device at account na ito ay hindi pinapamahalaan ng kumpanya o iba pang organisasyon.</translation>
-<translation id="2596415276201385844">Upang makapagtatag ng secure na koneksyon, kailangang itakda nang tama ang iyong orasan. Ito ay dahil sa may-bisa lang ang mga certificate na ginagamit ng mga website upang tukuyin ang mga sarili ng mga ito sa loob ng mga partikular na tagal ng panahon. Dahil mali ang orasan ng iyong device, hindi ma-verify ng Chrome ang mga certificate na ito.</translation>
+<translation id="7968235694092767490">Upang makapagtatag ng secure na koneksyon, kailangang itakda nang tama ang iyong orasan. Ito ay dahil sa may-bisa lang ang mga certificate na ginagamit ng mga website upang tukuyin ang mga sarili ng mga ito sa loob ng mga partikular na tagal ng panahon. Dahil mali ang orasan ng iyong device, hindi ma-verify ng WEB3 DNA Browser ang mga certificate na ito.</translation>
 <translation id="2597378329261239068">Protektado ng password ang dokumentong ito.  Mangyaring magpasok ng password.</translation>
 <translation id="259821504105826686">Photographic at digital arts</translation>
 <translation id="2601150049980261779">Mga pelikulang romance</translation>
 <translation id="2604589665489080024">Pop music</translation>
 <translation id="2610561535971892504">I-click para kopyahin</translation>
-<translation id="2617988307566202237"><ph name="BEGIN_EMPHASIS" />Hindi ise-save<ph name="END_EMPHASIS" /> ng Chrome ang sumusunod na impormasyon:
+<translation id="6174516088921923215"><ph name="BEGIN_EMPHASIS" />Hindi ise-save<ph name="END_EMPHASIS" /> ng WEB3 DNA Browser ang sumusunod na impormasyon:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Iyong history ng pag-browse
           <ph name="LIST_ITEM" />Cookies at data ng site
@@ -661,14 +661,14 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
         <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Nauuna ang iyong orasan</translation>
 <translation id="262745152991669301">Puwedeng hilinging kumonekta sa mga USB device</translation>
-<translation id="2629325967560697240">Para makuha ang pinakamataas na antas ng seguridad ng Chrome, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />i-on ang pinahusay na proteksyon<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">Para makuha ang pinakamataas na antas ng seguridad ng WEB3 DNA Browser, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />i-on ang pinahusay na proteksyon<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">Hindi makita ang IP address ng server ng <ph name="HOST_NAME" />.</translation>
 <translation id="2639739919103226564">Katayuan:</translation>
 <translation id="2643134278432436513">Pangangalaga sa buhok</translation>
 <translation id="2647852283046201479">Mga strategy game</translation>
 <translation id="264810637653812429">Walang nahanap na tugmang device.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para I-clear ang iyong history ng pag-browse, cookies, cache, at higit pa sa mga setting ng Chrome</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para I-clear ang iyong history ng pag-browse, cookies, cache, at higit pa sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="2650446666397867134">Tinanggihan ang access sa file</translation>
 <translation id="2653659639078652383">Isumite</translation>
 <translation id="2657637947725373811">{0,plural, =1{Ilipat ang kumpidensyal na file?}one{Ilipat ang mga kumpidensyal na file?}other{Ilipat ang mga kumpidensyal na file?}}</translation>
@@ -696,11 +696,11 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2705137772291741111">Hindi mabasa ang naka-save (naka-cache) na kopya ng site na ito.</translation>
 <translation id="2709516037105925701">AutoFill</translation>
 <translation id="2713444072780614174">Puti</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para pamahalaan ang iyong mga pagbabayad at ang impormasyon ng credit card sa mga setting ng Chrome</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para pamahalaan ang iyong mga pagbabayad at ang impormasyon ng credit card sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Pindutin ang |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| para lumabas sa full screen</translation>
 <translation id="2721148159707890343">Matagumpay ang kahilingan</translation>
-<translation id="2723669454293168317">Magpatakbo ng pag-check sa kaligtasan sa mga setting ng Chrome</translation>
+<translation id="2723669454293168317">Magpatakbo ng pag-check sa kaligtasan sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="2726001110728089263">Side Tray</translation>
 <translation id="2728127805433021124">Nilagdaan ang certificate ng server gamit ang mahinang algorithm ng lagda.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Magpatakbo ng Connectivity Diagnostics<ph name="END_LINK" /></translation>
@@ -740,7 +740,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="287596039013813457">Friendly</translation>
 <translation id="28761159517501904">Mga pelikula</translation>
 <translation id="2876489322757410363">Aalis sa Incognito mode upang magbayad sa pamamagitan ng external na application. Magpatuloy?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para pamahalaan ang iyong Ligtas na Pag-browse at higit pa sa mga setting ng Chrome</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para pamahalaan ang iyong Ligtas na Pag-browse at higit pa sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="2878197950673342043">Poster fold</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">I-save ang card?</translation>
@@ -752,7 +752,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="290376772003165898">Hindi nakasalin ang page sa <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">May nakitang pagbabago sa network.</translation>
 <translation id="2911973620368911614">User ID ng accounting ng trabaho</translation>
-<translation id="2914160345369867329">Karaniwang gumagamit ang <ph name="SITE" /> ng pag-encrypt para protektahan ang iyong impormasyon. Noong sinubukang kumonekta ng Chrome sa <ph name="SITE" /> sa pagkakataong ito, nagbalik ang website ng mga hindi pangkaraniwan at maling kredensyal. Posibleng mangyari ito kapag sinusubukan ng isang attacker na magpanggap bilang <ph name="SITE" />, o naputol ang koneksyon dahil sa isang screen ng pag-sign in sa Wi-Fi. Secure pa rin ang iyong impormasyon dahil inihinto ng Chrome ang koneksyon bago magkaroon ng palitan ng anumang data.</translation>
+<translation id="6754677106668042373">Karaniwang gumagamit ang <ph name="SITE" /> ng pag-encrypt para protektahan ang iyong impormasyon. Noong sinubukang kumonekta ng WEB3 DNA Browser sa <ph name="SITE" /> sa pagkakataong ito, nagbalik ang website ng mga hindi pangkaraniwan at maling kredensyal. Posibleng mangyari ito kapag sinusubukan ng isang attacker na magpanggap bilang <ph name="SITE" />, o naputol ang koneksyon dahil sa isang screen ng pag-sign in sa Wi-Fi. Secure pa rin ang iyong impormasyon dahil inihinto ng WEB3 DNA Browser ang koneksyon bago magkaroon ng palitan ng anumang data.</translation>
 <translation id="2915068235268646559">Pag-crash mula noong <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Pagpipinta</translation>
 <translation id="2916038427272391327">Isara ang iba pang program</translation>
@@ -769,7 +769,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2943895734390379394">Oras ng Pag-upload:</translation>
 <translation id="2945026002409061480">Mga online na komunidad</translation>
 <translation id="2948083400971632585">Maaari mong i-disable ang anumang mga proxy na naka-configure para sa isang koneksyon mula sa pahina ng mga setting.</translation>
-<translation id="2949183777371959169">Binalewala dahil hindi naka-enroll ang machine sa Chrome Browser Cloud Management.</translation>
+<translation id="7786089409521529641">Binalewala dahil hindi naka-enroll ang machine sa WEB3 DNA Browser Browser Cloud Management.</translation>
 <translation id="2951588413176968965">Aking mailbox</translation>
 <translation id="2952820037279740115">Isara ang lahat ng Incognito window</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -783,7 +783,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2977665033722899841">Kasalukuyang napili ang <ph name="ROW_NAME" />. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2983666748527428214">Magbukas ng Tab na Incognito</translation>
-<translation id="2985306909656435243">Kung naka-enable, mag-iimbak ang Chromium ng kopya ng iyong card sa device na ito para sa mas mabilis na pagsagot sa form.</translation>
+<translation id="6458065442802745995">Kung naka-enable, mag-iimbak ang WEB3 DNA Browser ng kopya ng iyong card sa device na ito para sa mas mabilis na pagsagot sa form.</translation>
 <translation id="2985398929374701810">Maglagay ng wastong address</translation>
 <translation id="2986368408720340940">Hindi available ang pamamaraan ng pag-pick up na ito. Sumubok ng ibang pamamaraan.</translation>
 <translation id="2987034854559945715">Walang tumutugmang feature</translation>
@@ -805,7 +805,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3037177537145227281">Sinusubaybayan ang presyo</translation>
 <translation id="3037605927509011580">Ay, Naku!</translation>
 <translation id="3041612393474885105">Impormasyon sa Certificate</translation>
-<translation id="305162504811187366">History ng Remote na Desktop ng Chrome, kabilang ang mga timestamp, host, at client session id</translation>
+<translation id="6009592758194948058">History ng Remote na Desktop ng WEB3 DNA Browser, kabilang ang mga timestamp, host, at client session id</translation>
 <translation id="3052964831964880138"><ph name="PRICE_DROP" /> pagbaba ng presyo ng <ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Serbisyo sa Pag-patch</translation>
 <translation id="306573536155379004">Nagsimula na ang laro.</translation>
@@ -853,7 +853,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3194737229810486521">Gusto ng <ph name="URL" /> na permanenteng mag-store ng data sa iyong device</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> sa <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Puwedeng hilinging malaman kung aktibo mong ginagamit ang device na ito</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab pagkatapos ay ang Enter para pamahalaan kung anong impormasyon ang isi-sync mo sa mga setting ng Chrome</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab pagkatapos ay ang Enter para pamahalaan kung anong impormasyon ang isi-sync mo sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="320323717674993345">Kanselahin ang Pagbabayad</translation>
 <translation id="3203366800380907218">Mula sa web</translation>
 <translation id="3207960819495026254">Naka-bookmark</translation>
@@ -877,7 +877,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para i-customize ang hitsura ng iyong browser</translation>
 <translation id="3240791268468473923">Nakabukas ang sheet na walang tumutugmang kredensyal sa kredensyal sa secure na pagbabayad</translation>
 <translation id="324180406144491771">Naka-block ang mga link na “<ph name="HOST_NAME" />”</translation>
-<translation id="3248611290851046188">Tinutukoy ng site na ito ang mga interes na magagamit ng iba pang site para magpakita sa iyo ng mga ad. Kinukuha rin ng site na ito ang mga interes mo mula sa Chrome para makapagpakita sa iyo ng higit pang nauugnay na ad.</translation>
+<translation id="8141792378421105106">Tinutukoy ng site na ito ang mga interes na magagamit ng iba pang site para magpakita sa iyo ng mga ad. Kinukuha rin ng site na ito ang mga interes mo mula sa WEB3 DNA Browser para makapagpakita sa iyo ng higit pang nauugnay na ad.</translation>
 <translation id="3249151924975132674">Mga loan ng estudyante at financing sa kolehiyo</translation>
 <translation id="3249845759089040423">Groovy</translation>
 <translation id="3250640885957938546">Advertising at marketing</translation>
@@ -887,7 +887,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3256863843508922226">Pagreretiro at pension</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para gumawa ng bagong event sa Google Calendar nang mabilis</translation>
 <translation id="3261488570342242926">Matuto pa tungkol sa mga virtual card</translation>
-<translation id="3264837738038045344">Button na Pamahalaan ang mga setting ng Chrome, pindutin ang Enter para bisitahin ang iyong mga setting ng Chrome</translation>
+<translation id="3264837738038045344">Button na Pamahalaan ang mga setting ng WEB3 DNA Browser, pindutin ang Enter para bisitahin ang iyong mga setting ng WEB3 DNA Browser</translation>
 <translation id="3266793032086590337">Value (hindi tumutugma)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Walang naka-block na site, kabilang ang mga kaugnay na site}=1{1 site ang naka-block, kabilang ang mga kaugnay na site}one{# site ang naka-block, kabilang ang mga kaugnay na site}other{# na site ang naka-block, kabilang ang mga kaugnay na site}}</translation>
 <translation id="3268451620468152448">Mga Bukas na Tab</translation>
@@ -901,7 +901,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3287510313208355388">I-download kapag online</translation>
 <translation id="3288238092761586174">Posibleng kailanganin ng <ph name="URL" /> na magsagawa ng mga karagdagang hakbang para ma-verify ang iyong pagbabayad</translation>
 <translation id="3293642807462928945">Matuto pa tungkol sa patakarang <ph name="POLICY_NAME" /></translation>
-<translation id="3295444047715739395">Tingnan at pamahalaan ang iyong mga password sa mga setting ng Chrome</translation>
+<translation id="3295444047715739395">Tingnan at pamahalaan ang iyong mga password sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="3299098170013242198">Naka-on ang Windows Hello para sa paglalagay ng mga password</translation>
 <translation id="3303176609391916566">30 x 42 in</translation>
 <translation id="3303855915957856445">Walang nakitang resulta ng paghahanap</translation>
@@ -931,9 +931,9 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3366477098757335611">Tingnan ang mga card</translation>
 <translation id="3369192424181595722">Error sa orasan</translation>
 <translation id="3369459162151165748">Mga piyesa at accessory ng sasakyan</translation>
-<translation id="3371064404604898522">Itakda ang Chrome bilang default na browser</translation>
+<translation id="3371064404604898522">Itakda ang WEB3 DNA Browser bilang default na browser</translation>
 <translation id="337363190475750230">Naalis sa pagkakaprobisyon</translation>
-<translation id="3375754925484257129">Magpatakbo ng pag-check sa kaligtasan sa Chrome</translation>
+<translation id="3375754925484257129">Magpatakbo ng pag-check sa kaligtasan sa WEB3 DNA Browser</translation>
 <translation id="3377144306166885718">Gumamit ang server ng lumang bersyon ng TLS.</translation>
 <translation id="3377188786107721145">Error sa pag-parse ng patakaran</translation>
 <translation id="3377736046129930310">Gumamit ng lock ng screen para kumpirmahin nang mas mabilis ang mga card</translation>
@@ -957,7 +957,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3423742043356668186">Tinukoy na system</translation>
 <translation id="3427092606871434483">Payagan (default)</translation>
 <translation id="3427342743765426898">&amp;Gawing Muli ang Pag-e-edit</translation>
-<translation id="342781501876943858">Inirerekomenda ng Chromium na i-reset ang iyong password kung ginamit mo ito sa iba pang site.</translation>
+<translation id="6443314628900752956">Inirerekomenda ng WEB3 DNA Browser na i-reset ang iyong password kung ginamit mo ito sa iba pang site.</translation>
 <translation id="3428151540071562330">Invalid at hindi gagamitin ang isa o higit pa sa mga URI ng template ng server ng DnsOverHttpsTemplates.</translation>
 <translation id="3431216045099978607">Pindutin ang |<ph name="ACCELERATOR" />| para lumabas sa full screen at makita ang download.</translation>
 <translation id="3431636764301398940">I-save ang card na ito sa device na ito</translation>
@@ -979,7 +979,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para isara ang lahat ng Incognito window na kasalukuyang nakabukas</translation>
 <translation id="3477679029130949506">Mga listahan ng pelikula at mga oras ng palabas sa sinehan</translation>
 <translation id="3479552764303398839">Hindi ngayon</translation>
-<translation id="3484560055331845446">Maaari kang mawalan ng access sa iyong Google Account. Inirerekomenda ng Chrome na palitan na ang iyong password. Hihilingin sa iyong mag-sign in.</translation>
+<translation id="2148205384604312372">Maaari kang mawalan ng access sa iyong Google Account. Inirerekomenda ng WEB3 DNA Browser na palitan na ang iyong password. Hihilingin sa iyong mag-sign in.</translation>
 <translation id="3484861421501147767">Paalala: May available na naka-save na promo code</translation>
 <translation id="3487845404393360112">Tray 4</translation>
 <translation id="3495081129428749620">Hanapin sa page
@@ -988,7 +988,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3507936815618196901">Gumawa ng 3D na mapa ng iyong kapaligiran at subaybayan ang posisyon ng camera</translation>
 <translation id="3512163584740124171">Binabalewala ang patakarang ito dahil may isa pang patakaran mula sa parehong pangkat ng patakaran na may mas mataas na priyoridad.</translation>
 <translation id="3515972145999192222">Na-block ng iyong organisasyon ang <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> dahil lumalabag ito sa isang patakaran. <ph name="BEGIN_LEARN_MORE_LINK" />Matuto pa<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="35172538073169599">Button na Pamahalaan ang mga address, pindutin ang Enter para magdagdag at mamahala ng mga address sa mga setting ng Chrome</translation>
+<translation id="35172538073169599">Button na Pamahalaan ang mga address, pindutin ang Enter para magdagdag at mamahala ng mga address sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="3518941727116570328">Pangangasiwa sa maraming object</translation>
 <translation id="3525130752944427905">10 x 14 in</translation>
 <translation id="3528171143076753409">Hindi pinagkakatiwalaan ang certificate ng server.</translation>
@@ -1015,7 +1015,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3576616784287504635">Isinasaad ng naka-embed na page sa <ph name="SITE" /> na</translation>
 <translation id="3577473026931028326">Nagkaproblema. Subukan ulit.</translation>
 <translation id="3577902790357386792">Gymnastics</translation>
-<translation id="3581089476000296252">Aabisuhan ka ng Chrome kapag handa na ang page na ito. &lt;a&gt;Kanselahin&lt;/a&gt;</translation>
+<translation id="8000957821693253206">Aabisuhan ka ng WEB3 DNA Browser kapag handa na ang page na ito. &lt;a&gt;Kanselahin&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Magdagdag ng pangalan</translation>
 <translation id="3583757800736429874">&amp;Gawing Muli ang Paglilipat</translation>
 <translation id="3584299510153766161">Dual punch bottom</translation>
@@ -1030,7 +1030,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3611317423880285981">Mga supply sa sambahayan</translation>
 <translation id="3614103345592970299">Laki 2</translation>
 <translation id="361438452008624280">Listahan ng entry na "<ph name="LANGUAGE_ID" />": Hindi kilala o hindi sinusuportahang wika.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para magpatakbo ng pag-check sa kaligtasan sa mga setting ng Chrome</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para magpatakbo ng pag-check sa kaligtasan sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="3615877443314183785">Maglagay ng wastong petsa ng pag-expire</translation>
 <translation id="36224234498066874">I-clear ang Data sa Pag-browse...</translation>
 <translation id="362276910939193118">Ipakita ang Buong History</translation>
@@ -1041,9 +1041,9 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3631244953324577188">Biometrics</translation>
 <translation id="3632503704576938756">Ipinagpatuloy ang pagbabahagi ng screen</translation>
 <translation id="3632892046558972264">Na-pause ang pagbabahagi ng screen</translation>
-<translation id="3633738897356909127">Button na I-update ang Chrome, pindutin ang Enter para i-update ang Chrome mula sa iyong mga setting ng Chrome</translation>
+<translation id="3633738897356909127">Button na I-update ang WEB3 DNA Browser, pindutin ang Enter para i-update ang WEB3 DNA Browser mula sa iyong mga setting ng WEB3 DNA Browser</translation>
 <translation id="3634530185120165534">Tray 5</translation>
-<translation id="3634567936866541746">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Para ma-secure ang iyong mga account, inirerekomenda ng Chrome na suriin mo ang yong mga na-save na password.</translation>
+<translation id="6586777830476909681">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Para ma-secure ang iyong mga account, inirerekomenda ng WEB3 DNA Browser na suriin mo ang yong mga na-save na password.</translation>
 <translation id="3642638418806704195">Application:</translation>
 <translation id="3647286794400715637">Ang bawat entry ng string ng mga url ay dapat na maglaman ng 1 hanggang 2 URL.</translation>
 <translation id="3650584904733503804">Matagumpay ang pagpapatunay</translation>
@@ -1087,7 +1087,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3740319564441798148">Pangmalayuang bus at tren</translation>
 <translation id="3744111561329211289">Pag-sync sa background</translation>
 <translation id="3744286742364977428">Ipinapadala sa Google Cloud o mga third party para sa pagsusuri ang mga file na dina-download mo. Halimbawa, posibleng i-scan ang mga ito para sa sensitibong data o malware at posibleng i-store batay sa mga patakaran ng kumpanya.</translation>
-<translation id="3744899669254331632">Hindi mo maaaring bisitahin ang <ph name="SITE" /> sa ngayon dahil nagpadala ang website ng mga pinaghalong kredensyal na hindi maproseso ng Chromium. Karaniwang pansamantala ang mga error at pag-atake sa network, kaya malamang na gagana ang page na ito sa ibang pagkakataon.</translation>
+<translation id="3461179235677384837">Hindi mo maaaring bisitahin ang <ph name="SITE" /> sa ngayon dahil nagpadala ang website ng mga pinaghalong kredensyal na hindi maproseso ng WEB3 DNA Browser. Karaniwang pansamantala ang mga error at pag-atake sa network, kaya malamang na gagana ang page na ito sa ibang pagkakataon.</translation>
 <translation id="3745099705178523657">Pagkatapos mong magkumpirma, ibabahagi sa site na ito ang mga detalye ng card mula sa iyong Google Account.</translation>
 <translation id="3748148204939282805">Maaaring linlangin ka ng mga attacker sa <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> na gawin ang isang mapanganib na bagay tulad ng pag-install ng software o paghayag ng iyong personal na impormasyon (halimbawa, mga password, numero ng telepono, o credit card). <ph name="BEGIN_LEARN_MORE_LINK" />Matuto pa<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Industriya ng aviation</translation>
@@ -1207,7 +1207,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4097288585054919042">I-off ang mga alerto</translation>
 <translation id="4098354747657067197">Mapupunta sa nakakapanlinlang na site</translation>
 <translation id="4099048595830172239">Hindi inirerekomenda ng patakaran ng administrator na ibahagi ang iyong screen sa <ph name="APPLICATION_TITLE" /> kapag nakikita ang kumpidensyal na content:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para i-customize ang mga laki ng font at typeface sa Chrome</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para i-customize ang mga laki ng font at typeface sa WEB3 DNA Browser</translation>
 <translation id="4101413244023615925">Text at graphic</translation>
 <translation id="410148943680000050">Desktop publishing</translation>
 <translation id="4103249731201008433">Di-wasto ang serial number ng device</translation>
@@ -1259,7 +1259,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4214357935346142455">profile sa screen sa pag-sign in</translation>
 <translation id="4220128509585149162">Mga Pag-crash</translation>
 <translation id="422022731706691852">Maaaring magtangka ang mga attacker sa <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> na linlangin ka sa pag-install ng mga program na magdudulot ng hindi magandang karanasan sa iyong pag-browse (halimbawa, sa pamamagitan ng pagpapalit ng homepage mo o pagpapakita ng mga karagdagang ad sa mga site na binibisita mo). <ph name="BEGIN_LEARN_MORE_LINK" />Matuto pa<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;Hakbang 1: Mag-sign in sa portal&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;Hakbang 1: Mag-sign in sa portal&lt;/h4&gt;
     &lt;p&gt;Hinihiling sa iyong mag-sign in ng mga Wi-Fi network sa mga lugar gaya ng mga cafe o airport. Para makita ang page sa pag-sign in, bisitahin ang isang page na gumagamit ng &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Pumunta sa anumang website na nagsisimula sa &lt;code&gt;http://&lt;/code&gt;, gaya ng &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1267,11 +1267,11 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
     &lt;/ol&gt;
     &lt;h4&gt;Hakbang 2: Buksan ang page sa Incognito mode (computer lang)&lt;/h4&gt;
     &lt;p&gt;Buksan ang page na binibisita mo sa isang Incognito window.&lt;/p&gt;
-    &lt;p&gt;Kung magbukas ang page, may hindi gumaganang extension ng Chrome. Para maayos ang error, i-off ang extension.&lt;/p&gt;
+    &lt;p&gt;Kung magbukas ang page, may hindi gumaganang extension ng WEB3 DNA Browser. Para maayos ang error, i-off ang extension.&lt;/p&gt;
     &lt;h4&gt;Hakbang 3: I-update ang iyong operating system&lt;/h4&gt;
     &lt;p&gt;Tiyaking napapanahon ang iyong device.&lt;/p&gt;
     &lt;h4&gt;Hakbang 4: Pansamantalang i-off ang iyong antivirus&lt;/h4&gt;
-    &lt;p&gt;Makikita mo ang error na ito kung mayroon kang antivirus software na nagbibigay ng "proteksyon ng HTTPS" o "pag-scan ng HTTPS." Pinipigilan ng antivirus ang Chrome sa pagbibigay ng seguridad.&lt;/p&gt;
+    &lt;p&gt;Makikita mo ang error na ito kung mayroon kang antivirus software na nagbibigay ng "proteksyon ng HTTPS" o "pag-scan ng HTTPS." Pinipigilan ng antivirus ang WEB3 DNA Browser sa pagbibigay ng seguridad.&lt;/p&gt;
     &lt;p&gt;Para maayos ang problema, i-off ang iyong antivirus software. Kung gumana ang page pagkatapos i-off ang software, i-off ang software na ito kapag gumagamit ka ng mga secure na site.&lt;/p&gt;
     &lt;p&gt;Tandaang i-on muli ang iyong antivirus program kapag tapos ka na.&lt;/p&gt;
     &lt;h4&gt;Hakbang 5: Humingi ng karagdagang tulong&lt;/h4&gt;
@@ -1307,7 +1307,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4305666528087210886">Hindi ma-access ang iyong file</translation>
 <translation id="4306529830550717874">I-save ang address?</translation>
 <translation id="4306812610847412719">clipboard</translation>
-<translation id="4308567447483056043">Binalewala ang patakarang ito dahil hindi affiliated ang user. Para malapat ang patakarang ito, dapat pamahalaan ng iisang organisasyon ang Chrome browser at profile sa pamamagitan ng Admin console.</translation>
+<translation id="3323451588703398074">Binalewala ang patakarang ito dahil hindi affiliated ang user. Para malapat ang patakarang ito, dapat pamahalaan ng iisang organisasyon ang WEB3 DNA Browser browser at profile sa pamamagitan ng Admin console.</translation>
 <translation id="4310070645992025887">Maghanap sa iyong Mga Journey</translation>
 <translation id="4310496734563057511">Kung ipinapagamit mo ang device na ito sa ibang tao, puwede mong i-on ang Windows Hello para i-verify na ikaw iyan kapag gagamit ka ng naka-save na password</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1323,8 +1323,8 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4331519897422864041">Stacker 5</translation>
 <translation id="4331708818696583467">Hindi Secure</translation>
 <translation id="4333561522337981382">Pamahalaan ang mga window sa lahat ng iyong display</translation>
-<translation id="4340575312453649552">Gumamit ang ad na ito ng masyadong maraming resource para sa iyong device kaya inalis ito ng Chrome.</translation>
-<translation id="4340982228985273705">Hindi na-detect ang computer na ito bilang pinamamahalaan ng enterprise kaya awtomatiko lang na mai-install ng patakaran ang mga extension na hino-host sa Chrome Webstore. Ang URL ng pag-update ng Chrome Webstore ay "<ph name="CWS_UPDATE_URL" />."</translation>
+<translation id="3964216933844012257">Gumamit ang ad na ito ng masyadong maraming resource para sa iyong device kaya inalis ito ng WEB3 DNA Browser.</translation>
+<translation id="2218799635675752219">Hindi na-detect ang computer na ito bilang pinamamahalaan ng enterprise kaya awtomatiko lang na mai-install ng patakaran ang mga extension na hino-host sa WEB3 DNA Browser Webstore. Ang URL ng pag-update ng WEB3 DNA Browser Webstore ay "<ph name="CWS_UPDATE_URL" />."</translation>
 <translation id="4346197816712207223">Mga Tinatanggap na Credit Card</translation>
 <translation id="4348834659292907206">Hindi secure ang koneksyon sa <ph name="SITE" /></translation>
 <translation id="4349365535725594680">Hindi puwedeng magbahagi ng kumpidensyal na content</translation>
@@ -1335,7 +1335,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4356973930735388585">Maaaring subukan ng mga attacker sa site na ito na mag-install ng mga mapanganib na program sa iyong computer na magnanakaw o magde-delete ng impormasyon mo (halimbawa, mga larawan, password, mensahe at credit card).</translation>
 <translation id="4358059973562876591">Posibleng hindi mailapat ang mga template na tinukoy mo dahil sa error sa patakarang DnsOverHttpsMode.</translation>
 <translation id="4358461427845829800">Pamahalaan ang mga paraan ng pagbabayad...</translation>
-<translation id="4359160567981085931">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Makakatulong ang Chrome. Para palitan ang iyong password at abisuhan ang Google na posibleng nasa panganib ang iyong account, i-click ang Protektahan ang Account.</translation>
+<translation id="4550052488331606118">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Makakatulong ang WEB3 DNA Browser. Para palitan ang iyong password at abisuhan ang Google na posibleng nasa panganib ang iyong account, i-click ang Protektahan ang Account.</translation>
 <translation id="4363222835916186793">Na-off ang mga alerto para sa produktong ito</translation>
 <translation id="437040971055499437">Nagkaroon ng event tungkol sa seguridad</translation>
 <translation id="4372948949327679948">Inaasahang <ph name="VALUE_TYPE" /> na halaga.</translation>
@@ -1352,7 +1352,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4411435778612100394">Consumer electronics</translation>
 <translation id="4414515549596849729">cookies at data ng site</translation>
 <translation id="4415426530740016218">Address sa Pag-pick up</translation>
-<translation id="4424024547088906515">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; hindi pinagkakatiwalaan ng Chrome ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
+<translation id="7486060888782747880">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; hindi pinagkakatiwalaan ng WEB3 DNA Browser ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
 <translation id="4428065317363009941">Pag-personalize ng ad</translation>
 <translation id="443121186588148776">Serial port</translation>
 <translation id="4432688616882109544">Hindi tinanggap ng <ph name="HOST_NAME" /> ang iyong certificate sa pag-log in o maaaring walang ibinigay.</translation>
@@ -1376,7 +1376,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4489023393592172404">Envelope Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">I-encrypt ang mga naka-sync na password gamit ang iyong Google Account</translation>
-<translation id="4492519888999857993">Naka-disable bilang default ang mga feature na ito. Hindi magiging available ang mga ito sa mga bersyon ng Chrome sa hinaharap.</translation>
+<translation id="5711551727888568041">Naka-disable bilang default ang mga feature na ito. Hindi magiging available ang mga ito sa mga bersyon ng WEB3 DNA Browser sa hinaharap.</translation>
 <translation id="4493480324863638523">Di-wastong URL. Dapat ay isang URL na may karaniwang scheme, hal. http://example.com o https://example.com.</translation>
 <translation id="4500587658229086076">hindi secure na content</translation>
 <translation id="4506176782989081258">Error sa pagpapatunay: <ph name="VALIDATION_ERROR" /></translation>
@@ -1384,7 +1384,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="450710068430902550">Pagbabahagi sa Administrator</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para isalin ang page na ito gamit ang Google Translate</translation>
 <translation id="4514308731478712184">I-off ang Mga Journey</translation>
-<translation id="4515275063822566619">Ang mga card at address ay mula sa Chrome at sa iyong Google Account (<ph name="ACCOUNT_EMAIL" />). Maaari mong pamahalaan ang mga ito sa <ph name="BEGIN_LINK" />Mga Setting<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Ang mga card at address ay mula sa WEB3 DNA Browser at sa iyong Google Account (<ph name="ACCOUNT_EMAIL" />). Maaari mong pamahalaan ang mga ito sa <ph name="BEGIN_LINK" />Mga Setting<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">Na-block ng patakaran ng administrator ang pag-download ng file na ito</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Envelope Monarch</translation>
@@ -1401,11 +1401,11 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Subukang i-disable ang iyong mga extension.</translation>
 <translation id="4566017918361049074">Sa labas</translation>
-<translation id="4567686777917670400">Puwedeng baguhin ng iyong administrator ang setup ng browser mo sa remote na paraan. Puwede ring pamahalaan sa labas ng Chromium ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Puwedeng baguhin ng iyong administrator ang setup ng browser mo sa remote na paraan. Puwede ring pamahalaan sa labas ng WEB3 DNA Browser ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Paghahatid</translation>
 <translation id="4582204425268416675">Alisin ang card</translation>
 <translation id="4582595824823167856">Makatanggap ng text message</translation>
-<translation id="4587425331216688090">Alisin ang address sa Chrome?</translation>
+<translation id="4549859745110415735">Alisin ang address sa WEB3 DNA Browser?</translation>
 <translation id="459089498662672729">Hindi inirerekomenda ng patakaran ng administrator ang pag-paste mula sa <ph name="ORIGIN_NAME" /> papunta sa lokasyong ito</translation>
 <translation id="4592951414987517459">Naka-encrypt ang iyong koneksyon sa <ph name="DOMAIN" /> gamit ang isang makabagong cipher suite.</translation>
 <translation id="4594403342090139922">&amp;I-undo ang Pagtanggal</translation>
@@ -1414,18 +1414,18 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4600084978141515058">Vegan cuisine</translation>
 <translation id="4602465984861132303">Bowling</translation>
 <translation id="4606870351894164739">Nakakamangha</translation>
-<translation id="4607603470419975064">Button na Tingnan ang mga tip sa Chrome, pindutin ang Enter para matuto pa tungkol sa mga feature ng Chrome</translation>
-<translation id="4607608436550361748">Tingnan ang mga tip sa Chrome</translation>
+<translation id="4607603470419975064">Button na Tingnan ang mga tip sa WEB3 DNA Browser, pindutin ang Enter para matuto pa tungkol sa mga feature ng WEB3 DNA Browser</translation>
+<translation id="4607608436550361748">Tingnan ang mga tip sa WEB3 DNA Browser</translation>
 <translation id="460848736049414407">Na-block ng Admin</translation>
 <translation id="4610279718074907952">Ang site na ito ay nasa isang grupo, na tinukoy ng <ph name="SET_OWNER" />, na makakakita ng iyong aktibidad</translation>
 <translation id="4617273035598175554">Graphics at animation software</translation>
 <translation id="4622292761762557753">Ilipat pa rin</translation>
-<translation id="4627675673814409125">Hindi maitatakda ang patakarang ito sa antas ng profile ng Chrome at babalewalain ito.</translation>
+<translation id="6607050922769407881">Hindi maitatakda ang patakarang ito sa antas ng profile ng WEB3 DNA Browser at babalewalain ito.</translation>
 <translation id="4628948037717959914">Larawan</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">May naka-link na cashback</translation>
 <translation id="4636930964841734540">Impormasyon</translation>
-<translation id="4638670630777875591">Incognito sa Chromium</translation>
+<translation id="9064160697734393810">Incognito sa WEB3 DNA Browser</translation>
 <translation id="464342062220857295">Mga feature sa paghahanap</translation>
 <translation id="4644670975240021822">Baligtarin ang pagkakasunod-sunod nang nakataob</translation>
 <translation id="4646534391647090355">Dalhin na ako roon</translation>
@@ -1463,7 +1463,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4731638775147756694">Na-block ng iyong administrator ang application na ito</translation>
 <translation id="4733082559415072992">Gustong gamitin ng <ph name="URL" /> ang lokasyon ng iyong device</translation>
 <translation id="4736491186715342415">Mga sasakyang de motor</translation>
-<translation id="4736825316280949806">I-restart ang Chromium</translation>
+<translation id="1624940062651381269">I-restart ang WEB3 DNA Browser</translation>
 <translation id="4736934858538408121">Virtual na card</translation>
 <translation id="473775607612524610">I-update</translation>
 <translation id="4738601419177586157">Suhestyon sa paghahanap para sa <ph name="TEXT" /></translation>
@@ -1477,10 +1477,10 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4754461935447132332">Hindi pinapayagan para sa mga hindi secure na site</translation>
 <translation id="4756388243121344051">&amp;History</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Para ma-secure ang iyong mga account, inirerekomenda ng Chromium na suriin mo ang iyong mga na-save na password.</translation>
+
 <translation id="4758311279753947758">Magdagdag ng impormasyon sa pakikipag-ugnayan</translation>
 <translation id="4761104368405085019">Gamitin ang iyong mikropono</translation>
-<translation id="4761869838909035636">Magpatakbo ng Pag-check sa Kaligtasan sa Chrome</translation>
+<translation id="2178430137592069173">Magpatakbo ng Pag-check sa Kaligtasan sa WEB3 DNA Browser</translation>
 <translation id="4764776831041365478">Ang webpage sa <ph name="URL" /> ay maaaring pansamantalang hindi gumagana o maaaring permanente itong inilipat sa isang bagong web address.</translation>
 <translation id="4766713847338118463">Dual staple bottom</translation>
 <translation id="4771973620359291008">Isang hindi alam na error ang nangyari.</translation>
@@ -1511,7 +1511,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4834250788637067901">Mga paraan ng pagbabayad, alok, at address na gumagamit ng Google Pay</translation>
 <translation id="4838327282952368871">Dreamy</translation>
 <translation id="4839087176073128681">Mas mabilis na magbayad sa susunod at protektahan ang iyong card gamit ang nangunguna sa industriyang seguridad ng Google.</translation>
-<translation id="4840250757394056958">Tingnan ang iyong history sa Chrome</translation>
+<translation id="4840250757394056958">Tingnan ang iyong history sa WEB3 DNA Browser</translation>
 <translation id="484462545196658690">Auto</translation>
 <translation id="484671803914931257">Makakuha ng diskwento sa <ph name="MERCHANT_NAME" /> at higit pa</translation>
 <translation id="484988093836683706">Gamitin ang pag-unlock ng device</translation>
@@ -1553,7 +1553,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4934780484581617878">Pamamahala sa window</translation>
 <translation id="4936134414789135531">Hindi makita ang inilagay na <ph name="VALUE_NAME" />.</translation>
 <translation id="4936675324097895694">Pananalapi</translation>
-<translation id="4940163644868678279">Incognito sa Chrome</translation>
+
 <translation id="4943872375798546930">Walang mga resulta</translation>
 <translation id="4943933359574417591">Text at instant messaging</translation>
 <translation id="4950898438188848926">Button sa paglipat ng tab, pindutin ang Enter para lumipat sa nakabukas na tab, na <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1576,7 +1576,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4995216769782533993">Kumpirmahin ang panseguridad na code para ibahagi ang mga detalye ng iyong card sa site na ito</translation>
 <translation id="4995474875135717171">Binago noong:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para pamahalaan ang paghahanap sa site at ang iyong default na search engine</translation>
-<translation id="5002932099480077015">Kung naka-enable, mag-iimbak ang Chrome ng kopya ng iyong card sa device na ito para sa mas mabilis na pagsagot sa form.</translation>
+
 <translation id="5011561501798487822">Na-detect na Wika</translation>
 <translation id="5015510746216210676">Pangalan ng Machine:</translation>
 <translation id="5017554619425969104">Text na kinopya mo</translation>
@@ -1585,7 +1585,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5018802455907704660">16 x 20 in</translation>
 <translation id="5019198164206649151">Hindi maganda ang katayuan ng backing store</translation>
 <translation id="5020776957610079374">Musika ng mundo</translation>
-<translation id="5021557570875267742">I-track ang mga presyo gamit ang Chrome</translation>
+<translation id="4735860266347344416">I-track ang mga presyo gamit ang WEB3 DNA Browser</translation>
 <translation id="5023310440958281426">Suriin ang mga patakaran ng iyong administrator</translation>
 <translation id="5029568752722684782">I-clear ang kopya</translation>
 <translation id="5030338702439866405">Ibinigay Ni</translation>
@@ -1618,7 +1618,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5087580092889165836">Magdagdag ng card</translation>
 <translation id="5088142053160410913">Mensahe sa operator</translation>
 <translation id="5093232627742069661">Z-fold</translation>
-<translation id="5094747076828555589">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; hindi pinagkakatiwalaan ng Chromium ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
+
 <translation id="5097099694988056070">Mga istatistika ng device gaya ng paggamit ng CPU/RAM</translation>
 <translation id="5097468150760963273">27 x 39 in</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1652,7 +1652,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5161506081086828129">Stacker 9</translation>
 <translation id="5164798890604758545">Naglagay ng text</translation>
 <translation id="516920405563544094">Ilagay ang CVC para sa <ph name="CREDIT_CARD" />. Pagkatapos mong magkumpirma, ibabahagi sa site na ito ang mga detalye ng card mula sa iyong Google Account.</translation>
-<translation id="5169827969064885044">Maaari kang mawalan ng access sa account ng iyong organisasyon o manakawan ng pagkakakilanlan. Inirerekomenda ng Chrome na palitan ang iyong password ngayon.</translation>
+
 <translation id="5171045022955879922">Hanapin o i-type ang URL</translation>
 <translation id="5172758083709347301">Computer</translation>
 <translation id="5177076414499237632">Matuto tungkol sa source at paksa ng page na ito</translation>
@@ -1664,7 +1664,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="51918995459521422">Gustong mag-download ng <ph name="ORIGIN" /> ng maraming file</translation>
 <translation id="519422657042045905">Hindi available ang anotasyon</translation>
 <translation id="5201306358585911203">Isinasaad ng naka-embed na page sa page na ito na</translation>
-<translation id="5204468114771111727">Nalaman ng Chrome na lumalabag sa data ang password na kakagamit mo lang. Puwedeng awtomatikong palitan ng iyong Google Assistant ang password mo.</translation>
+<translation id="214264184283456941">Nalaman ng WEB3 DNA Browser na lumalabag sa data ang password na kakagamit mo lang. Puwedeng awtomatikong palitan ng iyong Google Assistant ang password mo.</translation>
 <translation id="5205222826937269299">Kailangan ng pangalan</translation>
 <translation id="5209518306177824490">SHA-1 Fingerprint</translation>
 <translation id="5209670883520018268">Tray 20</translation>
@@ -1681,7 +1681,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5239623327352565343">Pinapayagan ang lokasyon</translation>
 <translation id="5242889659037569123">Mga accessory sa bagahe at pagbiyahe</translation>
 <translation id="5250209940322997802">"Kumonekta sa network"</translation>
-<translation id="52517543715119994">Alamin ang tungkol sa mga feature ng Chrome</translation>
+<translation id="52517543715119994">Alamin ang tungkol sa mga feature ng WEB3 DNA Browser</translation>
 <translation id="5251803541071282808">Cloud</translation>
 <translation id="5254043433801397071">I-optimize ang content ng print</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1703,7 +1703,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5287456746628258573">Gumagamit ang site na ito ng lumang configuration sa seguridad, na posibleng maglantad ng iyong impormasyon (halimbawa, mga password o numero ng credit card) kapag ipinadala ito sa site na ito.</translation>
 <translation id="5288108484102287882">Na-validate ang mga value ng patakaran at nagkaroon ng mga babala</translation>
 <translation id="5288393065350884210">Accounting at pag-audit</translation>
-<translation id="5288808348893593856">Secure ang koneksyon ng site maliban na lang kung sabihin sa iyo ng Chrome na hindi.</translation>
+<translation id="8429736460204202092">Secure ang koneksyon ng site maliban na lang kung sabihin sa iyo ng WEB3 DNA Browser na hindi.</translation>
 <translation id="5289384342738547352">Pangangasiwa sa maraming dokumento</translation>
 <translation id="5293919335876685914">Mga coupe</translation>
 <translation id="5296589789433599000">Pagluluto at mga recipe</translation>
@@ -1722,14 +1722,14 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5324080437450482387">Pumili ng Impormasyon sa Pakikipag-ugnayan</translation>
 <translation id="5329858041417644019">Hindi pinapamahalaan ang iyong browser</translation>
 <translation id="5332219387342487447">Paraan ng Pagpapadala</translation>
-<translation id="5333022057423422993">Nakita ng Chrome sa isang paglabag sa data ang password na kakagamit mo lang. Para i-secure ang iyong mga account, inirerekomenda naming suriin ang mga naka-save na password mo.</translation>
+<translation id="5377534826839863091">Nakita ng WEB3 DNA Browser sa isang paglabag sa data ang password na kakagamit mo lang. Para i-secure ang iyong mga account, inirerekomenda naming suriin ang mga naka-save na password mo.</translation>
 <translation id="5334013548165032829">Mga detalyadong log ng system</translation>
 <translation id="5334145288572353250">I-save ang Address?</translation>
 <translation id="5335920952954443287">Tumitibok na Puso</translation>
 <translation id="5340250774223869109">Naka-block ang application</translation>
 <translation id="534295439873310000">Mga NFC device</translation>
 <translation id="5344579389779391559">Maaari kang singilin ng pera ng page na ito</translation>
-<translation id="5347645913823149105">Button na I-customize ang mga font sa Chrome, pindutin ang Enter para i-customize ang mga laki ng font at typeface sa Chrome</translation>
+<translation id="5347645913823149105">Button na I-customize ang mga font sa WEB3 DNA Browser, pindutin ang Enter para i-customize ang mga laki ng font at typeface sa WEB3 DNA Browser</translation>
 <translation id="5355557959165512791">Hindi mo maaaring bisitahin ang <ph name="SITE" /> sa ngayon dahil binawi na ang certificate nito. Karaniwang pansamantala lang ang mga error at pag-atake sa network, kaya malamang na gagana ang page na ito sa ibang pagkakataon.</translation>
 <translation id="5356837363448394805">Namumula</translation>
 <translation id="5357848622083956825">Visual art at disenyo</translation>
@@ -1748,7 +1748,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="540630185148148480">I-on ang mga alerto</translation>
 <translation id="540969355065856584">Hindi mapatunayan ng server na ito ay ang <ph name="DOMAIN" />; walang bisa ang certificate sa seguridad nito sa pagkakataong ito. Maaaring dahil ito sa isang maling pag-configure o may isang attacker na humahadlang sa iyong koneksyon.</translation>
 <translation id="5412040515238827314">Invalid na format: May inaasahang listahan ng mga pattern.</translation>
-<translation id="5412236728747081950">Kinukuha ng site na ito ang iyong mga interes mula sa Chrome para makapagpakita sa iyo ng higit pang nauugnay na ad</translation>
+<translation id="3825896935771081728">Kinukuha ng site na ito ang iyong mga interes mula sa WEB3 DNA Browser para makapagpakita sa iyo ng higit pang nauugnay na ad</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" />, <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Stacker 4</translation>
 <translation id="5414511064953050917">Ilipat pa rin</translation>
@@ -1791,7 +1791,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para i-personalize ang iyong mga tool sa accessibility sa mga setting ng ChromeOS</translation>
 <translation id="5528532273234423708">Home automation</translation>
 <translation id="55293785478302737">Edge stitch</translation>
-<translation id="5535133333442455806">Button na I-clear ang data mula sa pag-browse, pindutin ang Enter para i-clear ang iyong history ng pag-browse, cookies, cache, at higit pa sa mga setting ng Chrome</translation>
+<translation id="5535133333442455806">Button na I-clear ang data mula sa pag-browse, pindutin ang Enter para i-clear ang iyong history ng pag-browse, cookies, cache, at higit pa sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="5536214594743852365">Ipakita ang seksyong "<ph name="SECTION" />"</translation>
 <translation id="553782666181800029">Envelope Chou 2</translation>
 <translation id="5539243836947087108">Raft</translation>
@@ -1801,7 +1801,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5541546772353173584">Magdagdag ng Email</translation>
 <translation id="5545756402275714221">Mga Artikulo para sa Iyo</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="5552137475244467770">Pana-panahong sinusuri ng Chrome ang iyong mga password sa mga listahang na-publish online. Kapag ginagawa ito, naka-encrypt ang iyong mga password at username, para hindi mabasa ng sinuman ang mga ito, kabilang ang Google.</translation>
+<translation id="8518722024434498270">Pana-panahong sinusuri ng WEB3 DNA Browser ang iyong mga password sa mga listahang na-publish online. Kapag ginagawa ito, naka-encrypt ang iyong mga password at username, para hindi mabasa ng sinuman ang mga ito, kabilang ang Google.</translation>
 <translation id="5556459405103347317">I-reload</translation>
 <translation id="5560088892362098740">Petsa ng Pag-expire</translation>
 <translation id="55635442646131152">Balangkas ng dokumento</translation>
@@ -1864,7 +1864,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5720705177508910913">Kasalukuyang user</translation>
 <translation id="5723287205918986743">Industriya ng depensa</translation>
 <translation id="5725567311035061582">Pamahalaan ang cookies at data ng site</translation>
-<translation id="5730040223043577876">Inirerekomenda ng Chrome na i-reset ang iyong password kung ginamit mo ito sa iba pang site.</translation>
+
 <translation id="5736165827969430182">Mga bakal at pagmimina</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{I-save ang card sa iyong Google Account}one{I-save ang mga card sa iyong Google Account}other{I-save ang mga card sa iyong Google Account}}</translation>
 <translation id="5738385766833540397">Pamahalaan kung paano mo matatanggap ang mga alerto sa pagbaba ng presyo para sa mga produktong tina-track mo</translation>
@@ -1890,14 +1890,14 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5784606427469807560">Nagkaroon ng problema sa pagkumpirma ng iyong card. Suriin ang koneksyon sa internet at subukang muli.</translation>
 <translation id="5785756445106461925">Bukod pa rito, ang page na ito ay may iba pang mga mapagkukunang hindi secure. Makikita ng iba ang mga mapagkukunang ito habang ipinadadala, at maaaring baguhin ng isang umaatake upang baguhin ang hitsura ng page.</translation>
 <translation id="5786044859038896871">Gusto mo bang ilagay ang impormasyon ng iyong card?</translation>
-<translation id="578633867165174378">Nakita ng Chrome sa isang paglabag sa data ang password na kakagamit mo lang. Inirerekomenda naming palitan na ngayon ang password na ito.</translation>
+<translation id="5116020889491573249">Nakita ng WEB3 DNA Browser sa isang paglabag sa data ang password na kakagamit mo lang. Inirerekomenda naming palitan na ngayon ang password na ito.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Gusto mo bang ilagay ang iyong <ph name="CARD_DETAIL" />?</translation>
 <translation id="5804241973901381774">Mga Pahintulot</translation>
-<translation id="5808435672482059465">Tingnan ang Iyong History sa Chrome</translation>
+<translation id="7552154626705223867">Tingnan ang Iyong History sa WEB3 DNA Browser</translation>
 <translation id="5808542072418270309">Mga simulation game</translation>
 <translation id="5810442152076338065">Naka-encrypt ang iyong koneksyon sa <ph name="DOMAIN" /> gamit ang isang hindi na ginagamit na cipher suite.</translation>
-<translation id="5812947184178430888">Kapag na-flag ng Chrome ang mga event tungkol sa seguridad, ipapadala sa iyong administrator ang nauugnay na data tungkol sa mga event. Puwedeng kabilang dito ang mga URL ng mga page na binibisita mo sa Chrome, mga pangalan ng file o metadata, at ang username na iyong ginagamit para mag-sign in sa mga web based na application, sa device mo at sa Chrome.</translation>
+<translation id="8479644990349381409">Kapag na-flag ng WEB3 DNA Browser ang mga event tungkol sa seguridad, ipapadala sa iyong administrator ang nauugnay na data tungkol sa mga event. Puwedeng kabilang dito ang mga URL ng mga page na binibisita mo sa WEB3 DNA Browser, mga pangalan ng file o metadata, at ang username na iyong ginagamit para mag-sign in sa mga web based na application, sa device mo at sa WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Gawing Muli ang Pagdagdag</translation>
 <translation id="5813309815819933152">Mga reality show sa TV</translation>
 <translation id="5813753398265398978">Physics</translation>
@@ -2014,10 +2014,10 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6118782133429281336">Walang laman ang listahan ng origin.</translation>
 <translation id="6120179357481664955">Natatandaan mo ang iyong UPI ID?</translation>
 <translation id="6122181661879998141">harap ng iyong card</translation>
-<translation id="6124432979022149706">Mga Chrome Enterprise Connector</translation>
+<translation id="7419188267353166461">Mga WEB3 DNA Browser Enterprise Connector</translation>
 <translation id="6126565365696310362">Envelope Chinese #2</translation>
 <translation id="6127379762771434464">Inalis ang item</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Matuto pa tungkol sa Incognito sa Chrome<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Walang laman o mali ang file extension.</translation>
 <translation id="6139975341602920272">17 x 22 in</translation>
 <translation id="6146055958333702838">Tingnan ang anumang mga kable at i-reboot ang anumang mga router, modem o iba
@@ -2043,10 +2043,10 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6197648101609735209">89 x 89 mm</translation>
 <translation id="6203231073485539293">Suriin ang iyong koneksyon sa Internet</translation>
 <translation id="6212314149070368045">US Fanfold</translation>
-<translation id="6218753634732582820">Gusto mo bang alisin ang address sa Chromium?</translation>
+
 <translation id="622039917539443112">Parallel fold</translation>
 <translation id="6221345481584921695">Kamakailan lang, ang Google Safe Browsing ay <ph name="BEGIN_LINK" />nakakita ng malware<ph name="END_LINK" /> sa <ph name="SITE" />. Paminsan-minsan, nagkakaroon ng malware ang mga website na karaniwang ligtas. Ang nakakahamak na content ay galing sa <ph name="SUBRESOURCE_HOST" />, isang kilalang nagkakalat ng malware.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para i-personalize ang iyong mga tool sa accessibility sa mga setting ng Chrome</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para i-personalize ang iyong mga tool sa accessibility sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="6229649258872345286">Mga pampamilyang pagbiyahe</translation>
 <translation id="6232271601416750929">Natural na pampaganda</translation>
 <translation id="6233160458685643793">Nakangisi</translation>
@@ -2055,7 +2055,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6240447795304464094">Logo ng Google Pay</translation>
 <translation id="6241121617266208201">Itago ang mga suhestyon</translation>
 <translation id="624499991300733384">Serbisyo ng Print Compositor</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang Tab at pagkatapos ay ang Enter para pamahalaan ang mga file na na-download mo sa Chrome</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang Tab at pagkatapos ay ang Enter para pamahalaan ang mga file na na-download mo sa WEB3 DNA Browser</translation>
 <translation id="6254436959401408446">Hindi sapat ang memory upang mabuksan ang page na ito</translation>
 <translation id="6259156558325130047">&amp;Gawing Muli ang Pagbabago sa Ayos</translation>
 <translation id="6263376278284652872">Mga bookmark ng <ph name="DOMAIN" /></translation>
@@ -2063,21 +2063,21 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6264485186158353794">Bumalik sa safety</translation>
 <translation id="6265794661083428563">Kopyahin ang value ng patakarang <ph name="POLICY_NAME" /></translation>
 <translation id="6266934640124581640">Light Teal</translation>
-<translation id="6272088941196661550">Ipagpatuloy ang iyong journey para makakita ng nauugnay na aktibidad sa history mo sa Chrome</translation>
+<translation id="1989642600714730446">Ipagpatuloy ang iyong journey para makakita ng nauugnay na aktibidad sa history mo sa WEB3 DNA Browser</translation>
 <translation id="6272383483618007430">Google Update</translation>
 <translation id="6276112860590028508">Lalabas dito ang mga page mula sa iyong listahan ng babasahin</translation>
 <translation id="627746635834430766">Para mas mabilis na makapagbayad sa susunod, i-save ang iyong card at billing address sa Google Account mo.</translation>
 <translation id="6279183038361895380">Pindutin ang |<ph name="ACCELERATOR" />| upang ipakita ang iyong cursor</translation>
 <translation id="6280223929691119688">Hindi maaaring maghatid sa address na ito. Pumili ng ibang address.</translation>
 <translation id="6284292079994426700">26 x 38 in</translation>
-<translation id="6285507000506177184">Button na Pamahalaan ang mga download sa Chrome, pindutin ang Enter para pamahalaan ang mga file na na-download mo sa Chrome</translation>
+<translation id="6285507000506177184">Button na Pamahalaan ang mga download sa WEB3 DNA Browser, pindutin ang Enter para pamahalaan ang mga file na na-download mo sa WEB3 DNA Browser</translation>
 <translation id="6289939620939689042">Kulay ng Page</translation>
 <translation id="6290238015253830360">Lalabas dito ang mga iminungkahi mong artikulo</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Magre-restart na ngayon ang iyong device}=1{Magre-restart ang iyong device pagkalipas ng 1 segundo}one{Magre-restart ang iyong device pagkalipas ng # segundo}other{Magre-restart ang iyong device pagkalipas ng # na segundo}}</translation>
 <translation id="6301104306974789820">Makakuha ng mga notification sa pagsubaybay sa presyo</translation>
-<translation id="6302269476990306341">Ihinihinto ang Google Assistant sa Chrome</translation>
+<translation id="6804344251855709483">Ihinihinto ang Google Assistant sa WEB3 DNA Browser</translation>
 <translation id="6305205051461490394">Hindi makakonekta sa <ph name="URL" />.</translation>
 <translation id="6311165245110979290">Available ang virtual na card</translation>
 <translation id="6312113039770857350">Hindi available ang webpage</translation>
@@ -2086,7 +2086,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6319249456820053699">Mga camera at camcorder</translation>
 <translation id="6321917430147971392">Suriin ang iyong mga setting ng DNS</translation>
 <translation id="6322182122604171028">Hindi magamit ang Windows Hello</translation>
-<translation id="6326947323444967009">Itakda ang Chrome bilang default na browser ng system sa mga setting ng iOS</translation>
+<translation id="6326947323444967009">Itakda ang WEB3 DNA Browser bilang default na browser ng system sa mga setting ng iOS</translation>
 <translation id="6328639280570009161">Subukang i-disable ang paghula ng network</translation>
 <translation id="6328784461820205019">"Hindi pribado ang iyong koneksyon" o "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" o "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" o "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" o "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" o "SSL certificate error"</translation>
 <translation id="6328786501058569169">Mapanlinlang ang site na ito</translation>
@@ -2097,7 +2097,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6348220984832452017">Mga Aktibong Variation</translation>
 <translation id="6349101878882523185">I-install ang <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Wala}=1{1 password (para sa <ph name="DOMAIN_LIST" />, naka-sync)}=2{2 password (para sa <ph name="DOMAIN_LIST" />, naka-sync)}one{# password (para sa <ph name="DOMAIN_LIST" />, naka-sync)}other{# na password (para sa <ph name="DOMAIN_LIST" />, naka-sync)}}</translation>
-<translation id="6355392890578844978">Hindi pinapamahalaan ng kumpanya o iba pang organisasyon ang browser na ito. Posibleng pinapamahalaan sa labas ng Chromium ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Hindi pinapamahalaan ng kumpanya o iba pang organisasyon ang browser na ito. Posibleng pinapamahalaan sa labas ng WEB3 DNA Browser ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Ano ang ibig sabihin ng mga ito?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Suriin ang configuration ng proxy, firewall, at Secure na DNS<ph name="END_LINK" /></translation>
@@ -2122,7 +2122,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6405181733356710802">Magpatuloy sa <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Ilagay ang petsa ng pag-expire at CVC para sa <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Makakatulong sa iyo ang Chromium na protektahan ang iyong Google Account at palitan ang password mo.</translation>
+<translation id="4571189034051647917">Makakatulong sa iyo ang WEB3 DNA Browser na protektahan ang iyong Google Account at palitan ang password mo.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Material</translation>
 <translation id="6427730057873428458">Gate fold</translation>
@@ -2160,7 +2160,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6502626736864595182">Mga provider ng forum at chat</translation>
 <translation id="6502991525169604759">Hindi kasama ang iyong mga pagbabago</translation>
 <translation id="6506959208958864820">Sobre</translation>
-<translation id="6508722015517270189">I-restart ang Chrome</translation>
+
 <translation id="6513005815064132016">Puwede ring hilinging i-track ang posisyon ng iyong camera</translation>
 <translation id="6517596291481585650">Babala: Hindi na-merge ang patakarang ito bilang listahan gaya ng tinukoy ng patakaran dahil hindi ito isang listahan.</translation>
 <translation id="6518133107902771759">I-verify</translation>
@@ -2181,11 +2181,11 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="657902945730878902">Pagguhit at pagkulay</translation>
 <translation id="6579630537141957243">Magkonekta ng MIDI device?</translation>
 <translation id="6579990219486187401">Light Pink</translation>
-<translation id="6587182488465657433">Nakita ng Chrome sa isang paglabag sa data ang password na kakagamit mo lang. Para i-secure ang iyong mga account, inirerekomenda naming palitan ito ngayon at pagkatapos ay suriin ang mga naka-save na password mo.</translation>
+<translation id="3021126460781205886">Nakita ng WEB3 DNA Browser sa isang paglabag sa data ang password na kakagamit mo lang. Para i-secure ang iyong mga account, inirerekomenda naming palitan ito ngayon at pagkatapos ay suriin ang mga naka-save na password mo.</translation>
 <translation id="6587893660316489419">Envelope B5</translation>
 <translation id="6587923378399804057">Link na kinopya mo</translation>
 <translation id="6591833882275308647">Hindi pinapamahalaan ang iyong <ph name="DEVICE_TYPE" /></translation>
-<translation id="6592952801936330159">Button na Pamahalaan ang mga setting ng site, pindutin ang Enter para pamahalaan ang mga pahintulot at data na naka-store sa lahat ng site sa mga setting ng Chrome</translation>
+<translation id="6592952801936330159">Button na Pamahalaan ang mga setting ng site, pindutin ang Enter para pamahalaan ang mga pahintulot at data na naka-store sa lahat ng site sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="6596325263575161958">Mga pagpipilian sa pag-encrypt</translation>
 <translation id="6599642189720630047">Mga Sinusubaybayang Produkto</translation>
 <translation id="6611723696964473273">Balita sa ekonomiya</translation>
@@ -2202,7 +2202,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6645291930348198241">I-access ang cookies at data ng site.</translation>
 <translation id="6645478838938543427">Ipapadala ang mga alerto sa pagbaba ng presyo sa <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Wala}=1{Mula sa 1 site (hindi ka masa-sign out sa iyong Google Account)}one{Mula sa # site (hindi ka masa-sign out sa iyong Google Account)}other{Mula sa # na site (hindi ka masa-sign out sa iyong Google Account)}}</translation>
-<translation id="6648459603387803038">Puwedeng baguhin ng iyong administrator ang setup ng browser mo sa remote na paraan. Puwede ring pamahalaan sa labas ng Chrome ang aktibidad sa device na ito.</translation>
+<translation id="6228269625838082008">Puwedeng baguhin ng iyong administrator ang setup ng browser mo sa remote na paraan. Puwede ring pamahalaan sa labas ng WEB3 DNA Browser ang aktibidad sa device na ito.</translation>
 <translation id="6648524591329069940">Serif Font</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
 <translation id="6651270836885078973">Pinapamahalaan ng:</translation>
@@ -2214,7 +2214,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6663846344464066639">Nakahalukipkip</translation>
 <translation id="6665553082534466207">Triple punch right</translation>
 <translation id="6668389483194953109">May nakitang pangalan ng laki ng papel na "custom," pero walang laman o invalid ang property na "custom_size."</translation>
-<translation id="6671697161687535275">Gusto mo bang alisin ang form para sa suhestyon sa Chromium?</translation>
+<translation id="3922033200710514285">Gusto mo bang alisin ang form para sa suhestyon sa WEB3 DNA Browser?</translation>
 <translation id="6683717648675961851">Mga listing ng trabaho</translation>
 <translation id="6685834062052613830">Mag-sign out at kumpletuhin ang setup</translation>
 <translation id="6687335167692595844">Hiniling na laki ng font</translation>
@@ -2222,7 +2222,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6688743156324860098">I-update…</translation>
 <translation id="6688775486821967877">Hindi available sa ngayon ang virtual card, pakisubukan ulit sa ibang pagkakataon</translation>
 <translation id="6689249931105087298">Kaugnay sa black point compression</translation>
-<translation id="6689271823431384964">Nag-aalok ang Chrome na i-save ang iyong mga card sa Google Account mo dahil naka-sign in ka. Puwede mong baguhin ang gawing ito sa mga setting. Mula sa iyong account ang pangalan ng cardholder.</translation>
+<translation id="6568883612935818921">Nag-aalok ang WEB3 DNA Browser na i-save ang iyong mga card sa Google Account mo dahil naka-sign in ka. Puwede mong baguhin ang gawing ito sa mga setting. Mula sa iyong account ang pangalan ng cardholder.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang Tab at pagkatapos ay ang Enter para Hanapin ang iyong device sa Google Account</translation>
 <translation id="6696588630955820014">Button na Ibahagi ang tab na ito, pindutin ang Enter para ibahagi ang tab na ito sa pamamagitan ng pagbabahagi sa link, paggawa ng QR code, pag-cast, at higit pa</translation>
 <translation id="6698381487523150993">Nalikha:</translation>
@@ -2287,7 +2287,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6883221904761970440">Isinara ang sheet para sa pag-authenticate ng kredensyal sa secure na pagbabayad</translation>
 <translation id="6884662655240309489">Laki 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Pinasimple ng Chrome ang page na ito para mas madali itong mabasa. Nakuha ng Chrome ang orihinal na page sa pamamagitan ng hindi secure na koneksyon.</translation>
+<translation id="2764758098439961275">Pinasimple ng WEB3 DNA Browser ang page na ito para mas madali itong mabasa. Nakuha ng WEB3 DNA Browser ang orihinal na page sa pamamagitan ng hindi secure na koneksyon.</translation>
 <translation id="6890443033788248019">Payagan ang lokasyon?</translation>
 <translation id="6890531741535756070">Pinili mong mag-verify gamit ang <ph name="DEVICE_LABEL" /> sa mga website na gumagamit ng <ph name="PROVIDER_ORIGIN" />. Posibleng nag-store ang provider na ito ng impormasyon tungkol sa iyong paraan ng pagbabayad, na puwede mong <ph name="BEGIN_LINK" />hilinging i-delete<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Hindi sinusuportahan ang antas ng patakaran.</translation>
@@ -2360,7 +2360,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="7058774143982824355">Serbisyong Pang-parse ng CSV na Password</translation>
 <translation id="7061777300866737982">Kaligtasan at seguridad sa tahanan</translation>
 <translation id="7062635574500127092">Teal</translation>
-<translation id="706295145388601875">Magdagdag at mamahala ng mga address sa mga setting ng Chrome</translation>
+<translation id="706295145388601875">Magdagdag at mamahala ng mga address sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="7064851114919012435">Impormasyon sa pakikipag-ugnayan</translation>
 <translation id="7067633076996245366">Soul at R&amp;B</translation>
 <translation id="7068733155164172741">Ilagay ang <ph name="OTP_LENGTH" /> (na) digit na code</translation>
@@ -2371,11 +2371,11 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="7081308185095828845">Hindi available ang feature na ito sa iyong device</translation>
 <translation id="7083258188081898530">Tray 9</translation>
 <translation id="7086090958708083563">Hiniling ng user ang pag-upload</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab pagkatapos ay ang Enter para pamahalaan ang mga pahintulot at data na naka-store sa lahat ng site sa mga setting ng Chrome</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab pagkatapos ay ang Enter para pamahalaan ang mga pahintulot at data na naka-store sa lahat ng site sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="7096937462164235847">Hindi na-verify ang pagkakakilanlan ng website na ito.</translation>
 <translation id="7101893872976785596">Mga pelikulang katatakutan</translation>
 <translation id="7102079138917191645">Konstruksyon at pagpapanatili</translation>
-<translation id="7102554173784142865">Laruin ang Chrome Dino</translation>
+<translation id="7102554173784142865">Laruin ang WEB3 DNA Browser Dino</translation>
 <translation id="7108338896283013870">Itago</translation>
 <translation id="7108634116785509031">Gustong gamitin ng <ph name="HOST" /> ang iyong camera</translation>
 <translation id="7108819624672055576">Pinayagan ng isang extension</translation>
@@ -2383,12 +2383,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="7112327784801341716">Hindi mo nakikita ang kasalukuyan mong impormasyon? Makipag-ugnayan sa iyong bangko para ma-update ito.</translation>
 <translation id="7118618213916969306">Hanapin ang URL sa clipboard, na <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Isara ang iba pang tab o program</translation>
-<translation id="7129355289156517987">Kapag isinara mo ang lahat ng tab na Incognito sa Chromium, maki-clear mula sa device na ito ang iyong aktibidad sa mga tab na iyon:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Aktibidad sa pag-browse<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />History ng paghahanap<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Impormasyong inilagay sa mga form<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Hindi maaaring magpadala sa address na ito. Pumili ng ibang address.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Na-block ang pag-upload</translation>
@@ -2475,13 +2470,13 @@ Mga karagdagang detalye:
 <translation id="7359588939039777303">Na-block ang mga ad.</translation>
 <translation id="7360451453306104998">Kapag nakahanap ang Google ng mga available na diskwento, lalabas ang mga ito sa checkout</translation>
 <translation id="7363096869660964304">Gayunpaman, hindi ka invisible. Kahit mag-Incognito ka, hindi matatago ang iyong pagba-browse mula sa iyong employer, sa iyong internet service provider o sa mga website na binibisita mo.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab pagkatapos ay ang Enter para magdagdag at mamahala ng mga address sa mga setting ng Chrome</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab pagkatapos ay ang Enter para magdagdag at mamahala ng mga address sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="7365849542400970216">Alam mo ba ang iyong paggamit ng device?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Mga tagapangasiwa ng pagbabayad</translation>
 <translation id="7372973238305370288">resulta ng paghahanap</translation>
 <translation id="7374461526650987610">Mga tagapangasiwa ng protocol</translation>
-<translation id="7374733840632556089">Nangyayari ang problemang ito dahil sa isang certificate na na-install mo o ng ibang tao sa iyong device. Kilala ang certificate sa pagsubaybay at pag-intercept ng mga network, at hindi ito pinagkakatiwalaan ng Chrome. Bagama't mayroong mga lehitimong kaso ng pagsubaybay, gaya sa network sa paaralan o kumpanya, gustong tiyakin ng Chrome na alam mong nangyayari ito, kahit na hindi mo ito mapipigilan. Posibleng mangyari ang pagsubaybay sa anumang browser o application na nag-a-access ng web.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Walang pinapayagang site}=1{1 site ang pinapayagan}one{# site ang pinapayagan}other{# na site ang pinapayagan}}</translation>
 <translation id="7375818412732305729">Nag-attach ng file</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2499,7 +2494,7 @@ Mga karagdagang detalye:
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Ibahagi ang tab na ito sa pamamagitan ng pagbabahagi sa link, paggawa ng QR code, pag-cast, at higit pa</translation>
 <translation id="7403591733719184120">Pinapamahalaan ang iyong <ph name="DEVICE_NAME" /></translation>
-<translation id="7407424307057130981">&lt;p&gt;Makikita mo ang error na ito kung mayroon kang Superfish software sa iyong Windows computer.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Makikita mo ang error na ito kung mayroon kang Superfish software sa iyong Windows computer.&lt;/p&gt;
     &lt;p&gt;Sundin ang mga hakbang na ito para pansamantalang i-disable ang software nang sa gayon ay makapunta ka sa web. Kakailanganin mo ng mga pribilehiyong pang-administrator.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;I-click ang &lt;strong&gt;Start&lt;/strong&gt;, pagkatapos ay hanapin at piliin ang &lt;strong&gt;"View local services"&lt;/strong&gt;
@@ -2507,7 +2502,7 @@ Mga karagdagang detalye:
     &lt;li&gt;Sa ilalim ng &lt;strong&gt;Startup type&lt;/strong&gt;, piliin ang &lt;strong&gt;Disabled&lt;/strong&gt;
     &lt;li&gt;Sa ilalim ng &lt;strong&gt;Service status&lt;/strong&gt;, i-click ang &lt;strong&gt;Stop&lt;/strong&gt;
     &lt;li&gt;I-click ang &lt;strong&gt;Apply&lt;/strong&gt;, pagkatapos ay i-click ang &lt;strong&gt;OK&lt;/strong&gt;
-    &lt;li&gt;Bisitahin ang &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;help center ng Chrome&lt;/a&gt; para matutunan kung paano permanenteng alisin ang software sa iyong computer
+    &lt;li&gt;Bisitahin ang &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;help center ng WEB3 DNA Browser&lt;/a&gt; para matutunan kung paano permanenteng alisin ang software sa iyong computer
     &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Maganda</translation>
 <translation id="741204030948306876">Oo, sali ako</translation>
@@ -2515,7 +2510,7 @@ Mga karagdagang detalye:
 <translation id="7418620734632363981">Programming</translation>
 <translation id="7419106976560586862">Path ng Profile</translation>
 <translation id="7421067045979951561">mga tagapangasiwa ng protocol</translation>
-<translation id="7426022697669111648">Button na Tingnan ang iyong history sa Chrome, pindutin ang Enter para tingnan at pamahalaan ang history ng pag-browse mo sa mga setting ng Chrome</translation>
+<translation id="7426022697669111648">Button na Tingnan ang iyong history sa WEB3 DNA Browser, pindutin ang Enter para tingnan at pamahalaan ang history ng pag-browse mo sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="7427366580982928791">Kaligtasan ng bata sa internet</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Magdagdag ng Impormasyon ng Contact</translation>
@@ -2544,12 +2539,7 @@ Mga karagdagang detalye:
 <translation id="7497998058912824456">Button na Gumawa ng doc, pindutin ang Enter para gumawa ng bagong Google Doc nang mabilis</translation>
 <translation id="7501663406926337752">Na-flag ng iyong organisasyon ang pupuntahang site</translation>
 <translation id="7501853161948120656">Mga resource na pang-edukasyon</translation>
-<translation id="7506488012654002225"><ph name="BEGIN_EMPHASIS" />Hindi ise-save<ph name="END_EMPHASIS" /> ng Chromium ang sumusunod na impormasyon:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Iyong history ng pag-browse
-            <ph name="LIST_ITEM" />Cookies at data ng site
-            <ph name="LIST_ITEM" />Impormasyong inilalagay sa mga form
-          <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Envelope #9</translation>
 <translation id="7508255263130623398">Walang laman ang ibinalik na device id ng patakaran o hindi ito tumutugma sa kasalukuyang device id</translation>
 <translation id="7508870219247277067">Avocado Green</translation>
@@ -2571,7 +2561,7 @@ Mga karagdagang detalye:
 <translation id="7542995811387359312">Hindi pinagana ang awtomatikong pagpuno ng credit card dahil ang form na ito ay hindi gumagamit ng secure na koneksyon.</translation>
 <translation id="7548892272833184391">Ayusin ang mga error sa koneksyon</translation>
 <translation id="7549584377607005141">Kinakailangan ng webpage na ito ng data na inilagay mo dati upang maipakita nang maayos. Maipapadala mong muli ang data na ito, ngunit kapag ginawa mo iyon, mauulit ang anumang pagkilos na isinagawa dati ng pahinang ito.</translation>
-<translation id="7550637293666041147">Username ng iyong device at username sa Chrome</translation>
+<translation id="4843621636877577887">Username ng iyong device at username sa WEB3 DNA Browser</translation>
 <translation id="7551484245293639699">Insurance sa pagbiyahe</translation>
 <translation id="755279583747225797">Aktibo ang trial</translation>
 <translation id="7552846755917812628">Subukan ang mga sumusunod na tip:</translation>
@@ -2579,13 +2569,13 @@ Mga karagdagang detalye:
 <translation id="7554791636758816595">Bagong Tab</translation>
 <translation id="7555777498260651025">Mga pampamilyang palabas sa TV</translation>
 <translation id="7559278538486662777">Hindi puwedeng i-resize ang app na ito.</translation>
-<translation id="7564049878696755256">Maaari kang mawalan ng access sa iyong account sa <ph name="ORG_NAME" /> o manakawan ng pagkakakilanlan. Inirerekomenda ng Chrome na palitan ang iyong password ngayon.</translation>
+<translation id="8940464370390138384">Maaari kang mawalan ng access sa iyong account sa <ph name="ORG_NAME" /> o manakawan ng pagkakakilanlan. Inirerekomenda ng WEB3 DNA Browser na palitan ang iyong password ngayon.</translation>
 <translation id="7564680668369175887">Mga station wagon</translation>
 <translation id="7567204685887185387">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; maaaring mapanlokong ibinigay ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
-<translation id="7568616151991626879">Sinusubukan ng Google Chrome na ilagay ang iyong password sa <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">Sinusubukan ng WEB3 DNA Browser na ilagay ang iyong password sa <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Button na pamahalaan ang mga search engine, pindutin ang Enter para pamahalaan ang iyong default na search engine at site search</translation>
-<translation id="7569952961197462199">Alisin ang credit card sa Chrome?</translation>
+<translation id="9202224267417193484">Alisin ang credit card sa WEB3 DNA Browser?</translation>
 <translation id="7569983096843329377">Itim</translation>
 <translation id="7575207903026901870">Button na Alisin ang Suhestyon, pindutin ang Enter para alisin ang suhestyong ito</translation>
 <translation id="7577900504646297215">Pamahalaan ang mga interes</translation>
@@ -2604,15 +2594,15 @@ Mga karagdagang detalye:
 <translation id="7600965453749440009">Huwag isalin kailanman ang <ph name="LANGUAGE" /></translation>
 <translation id="7610193165460212391">Wala sa sakop ang halaga <ph name="VALUE" />.</translation>
 <translation id="7613889955535752492">Exp: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para tingnan at pamahalaan ang mga password mo sa mga setting ng Chrome</translation>
-<translation id="7616645509853975347">Na-on ng iyong administrator ang Chrome Enterprise Connectors sa browser mo. May access ang mga connector na ito sa ilan sa iyong data.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para tingnan at pamahalaan ang mga password mo sa mga setting ng WEB3 DNA Browser</translation>
+<translation id="2698924724374512123">Na-on ng iyong administrator ang WEB3 DNA Browser Enterprise Connectors sa browser mo. May access ang mga connector na ito sa ilan sa iyong data.</translation>
 <translation id="7617825962482469577">Envelope C7/C6</translation>
 <translation id="7619838219691048931">Dulong sheet</translation>
 <translation id="7625242817712715120">Hindi inirerekomenda ng patakaran ng administrator ang pag-print sa content na ito</translation>
 <translation id="762844065391966283">Paisa-isa</translation>
 <translation id="7631444403134069754">Track &amp; field</translation>
 <translation id="7633909222644580952">Date ng performance at mga ulat ng pag-crash</translation>
-<translation id="7637571805876720304">Gusto mo bang alisin ang credit card sa Chromium?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Wala}=1{1 password sa iyong account (para sa <ph name="DOMAIN_LIST" />)}one{# password sa iyong account (para sa <ph name="DOMAIN_LIST" />)}other{# na password sa iyong account (para sa <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Mga serial port</translation>
 <translation id="7639968568612851608">Dark Grey</translation>
@@ -2636,7 +2626,7 @@ Mga karagdagang detalye:
 <translation id="7673278391011283842">Mailbox 6</translation>
 <translation id="7675325315208090829">Pamahalaan ang Mga Paraan ng Pagbabayad...</translation>
 <translation id="7676643023259824263">Hanapin ang text sa clipboard, na <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Tingnan at pamahalaan ang iyong history ng pag-browse sa mga setting ng Chrome</translation>
+<translation id="7679367271685653708">Tingnan at pamahalaan ang iyong history ng pag-browse sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="7679947978757153706">Baseball</translation>
 <translation id="7681273392938116652">Fantasy sports</translation>
 <translation id="7682287625158474539">Pagpapadala</translation>
@@ -2665,7 +2655,7 @@ Mga karagdagang detalye:
 <translation id="7740996059027112821">Karaniwan</translation>
 <translation id="77424286611022110">Nagpapakita ang site na ito ng mga nakakasagabal o nakakapanlinlang na ad. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Na-block ang mapanganib na content.</translation>
-<translation id="7751971323486164747">I-customize ang mga laki ng font at typeface sa Chrome</translation>
+<translation id="7751971323486164747">I-customize ang mga laki ng font at typeface sa WEB3 DNA Browser</translation>
 <translation id="7752995774971033316">Hindi pinamamahalaan</translation>
 <translation id="7755624218968747854">Pangunahing Rolyo</translation>
 <translation id="7758069387465995638">Maaaring na-block ng firewall o antivirus software ang koneksyon.</translation>
@@ -2689,7 +2679,7 @@ Mga karagdagang detalye:
 <translation id="7805571567667010077">Pinamamahalaan ng iyong organisasyon</translation>
 <translation id="7805768142964895445">Katayuan</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Alisin ang suhestyon sa Chrome?</translation>
+
 <translation id="781440967107097262">Ibahagi ang clipboard?</translation>
 <translation id="7815407501681723534">Nakakita ng <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> para sa '<ph name="SEARCH_STRING" />'</translation>
 <translation id="7822320754433038727">Pangangaso at pamamaril</translation>
@@ -2724,8 +2714,8 @@ Mga karagdagang detalye:
 <translation id="7943397946612013052">Na-block na pag-download</translation>
 <translation id="7943893128817522649">Puwedeng hilinging awtomatikong mag-download ng maraming file</translation>
 <translation id="7947285636476623132">Tingnan ang iyong taon ng pag-expire at subukang muli</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para matuto pa tungkol sa mga feature ng Chrome</translation>
-<translation id="7950027195171824198">Pamahalaan ang iyong mga kagustuhan sa cookie sa mga setting ng Chrome</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para matuto pa tungkol sa mga feature ng WEB3 DNA Browser</translation>
+<translation id="7950027195171824198">Pamahalaan ang iyong mga kagustuhan sa cookie sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="7951415247503192394">(32-bit)</translation>
 <translation id="7952192831285741665">European EDP</translation>
 <translation id="7953569069500808819">Edge stitch top</translation>
@@ -2740,7 +2730,7 @@ Mga karagdagang detalye:
 <translation id="7981129096182302364">Musikang pangsayaw at electronic</translation>
 <translation id="798134797138789862">Puwedeng hilinging gumamit ng mga virtual reality device at data</translation>
 <translation id="7983008347525536475">Mga SUV</translation>
-<translation id="7984945080620862648">Hindi mo maaaring bisitahin ang <ph name="SITE" /> sa ngayon dahil nagpadala ang website ng mga gulu-gulong kredensyal na hindi maproseso ng Chrome. Kadalasang pansamantala lang ang mga error at atake sa network, kaya malamang na gagana ang page na ito sa ibang pagkakataon.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Bind</translation>
 <translation id="7992044431894087211">Ipinagpatuloy ang pagbabahagi ng screen sa <ph name="APPLICATION_TITLE" /></translation>
@@ -2773,7 +2763,7 @@ Mga karagdagang detalye:
 <translation id="8057711352706143257">Hindi maayos na naka-configure ang "<ph name="SOFTWARE_NAME" />." Kadalasang naaayos ang problema kapag in-uninstall ang "<ph name="SOFTWARE_NAME" />." <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Paggawa ng pagkain</translation>
 <translation id="8066225060526005217">Pinapamahalaan ang mga setting ng cookie</translation>
-<translation id="8067872629359326442">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Makakatulong ang Chromium. Para palitan ang iyong password at abisuhan ang Google na posibleng nasa panganib ang iyong account, i-click ang Protektahan ang Account.</translation>
+
 <translation id="8070439594494267500">Icon ng app</translation>
 <translation id="8075736640322370409">Gumawa ng bagong Google Sheet nang mabilis</translation>
 <translation id="8075898834294118863">Pamahalaan ang mga setting ng site</translation>
@@ -2803,7 +2793,7 @@ Mga karagdagang detalye:
 <translation id="8116925261070264013">Naka-mute</translation>
 <translation id="8118489163946903409">Paraan ng pagbabayad</translation>
 <translation id="8123046743443732598">Mga desktop computer</translation>
-<translation id="8124639700796374294">Button na I-customize ang Chrome, pindutin ang Enter para i-customize ang hitsura ng iyong browser</translation>
+<translation id="8124639700796374294">Button na I-customize ang WEB3 DNA Browser, pindutin ang Enter para i-customize ang hitsura ng iyong browser</translation>
 <translation id="8126056688005753476">Adventure na pagbiyahe</translation>
 <translation id="8127301229239896662">Hindi na-install nang maayos ang "<ph name="SOFTWARE_NAME" />" sa iyong computer o network. Magtanong sa IT administrator mo upang malutas ang isyung ito.</translation>
 <translation id="8131740175452115882">Kumpirmahin</translation>
@@ -2814,7 +2804,7 @@ Mga karagdagang detalye:
 <translation id="8157295877370077682">Umalis sa site</translation>
 <translation id="8163866351304776260">Quad punch left</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Nag-aalok ang Chrome na i-save ang iyong mga card sa Google Account mo dahil naka-sign in ka. Maaari mong baguhin ang gawing ito sa mga setting.</translation>
+<translation id="8903986195054043594">Nag-aalok ang WEB3 DNA Browser na i-save ang iyong mga card sa Google Account mo dahil naka-sign in ka. Maaari mong baguhin ang gawing ito sa mga setting.</translation>
 <translation id="8176440868214972690">Nagpadala ang administrator ng device na ito ng ilang impormasyon sa mga sumusunod na website, tulad ng mga setting o patakaran.</translation>
 <translation id="8184538546369750125">Gamitin ang pangkalahatang default (Payagan)</translation>
 <translation id="8186706823560132848">Software</translation>
@@ -2859,11 +2849,11 @@ Mga karagdagang detalye:
 <translation id="8270242299912238708">Mga dokumentong PDF</translation>
 <translation id="8275952078857499577">Huwag mag-alok na isalin ang site na ito</translation>
 <translation id="8277900682056760511">Nakabukas ang sheet ng tagapangasiwa ng pagbabayad</translation>
-<translation id="8279611986089885641">Dapat naka-on ang mga notification sa Chrome. Puwede mong i-on ang mga ito sa <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">Dapat naka-on ang mga notification sa WEB3 DNA Browser. Puwede mong i-on ang mga ito sa <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">Tray 11</translation>
 <translation id="8281886186245836920">Laktawan</translation>
 <translation id="8282947398454257691">Alamin ang natatanging identifier ng iyong device</translation>
-<translation id="8284769179630993263">Pamahalaan ang iyong Ligtas na Pag-browse at higit pa sa mga setting ng Chrome</translation>
+<translation id="8284769179630993263">Pamahalaan ang iyong Ligtas na Pag-browse at higit pa sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="8286036467436129157">Mag-sign In</translation>
 <translation id="8288807391153049143">Ipakita ang certificate</translation>
 <translation id="8289355894181816810">Makipag-ugnay sa administrator ng iyong network kung hindi ka sigurado kung ano ang ibig sabihin nito.</translation>
@@ -2902,7 +2892,7 @@ Mga karagdagang detalye:
 <translation id="8390725133630534698">Na-block ng patakaran ng administrator ang pagbabahagi sa <ph name="VM_NAME" /> mula sa <ph name="ORIGIN_NAME" /></translation>
 <translation id="8396522675989118466">Ito ang <ph name="NUMBER_OF_DIGITS" /> (na) digit na code sa <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Hanapin ang iyong telepono</translation>
-<translation id="8405579342203358118">Pamahalaan kung anong impormasyon ang isi-sync mo sa mga setting ng Chrome</translation>
+<translation id="8405579342203358118">Pamahalaan kung anong impormasyon ang isi-sync mo sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="8409413588194360210">mga tagapangasiwa ng pagbabayad</translation>
 <translation id="8412145213513410671">Mga Pag-crash (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Dapat mong ilagay ang parehong passphrase nang dalawang beses.</translation>
@@ -2913,7 +2903,7 @@ Mga karagdagang detalye:
 <translation id="8427848540066057481">500 x 750 mm</translation>
 <translation id="8428213095426709021">Mga Setting</translation>
 <translation id="8428634594422941299">OK</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab pagkatapos ay ang Enter para pamahalaan ang iyong mga kagustuhan sa cookie sa mga setting ng Chrome</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab pagkatapos ay ang Enter para pamahalaan ang iyong mga kagustuhan sa cookie sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="8433057134996913067">Masa-sign out ka sa karamihan ng mga website.</translation>
 <translation id="8434840396568290395">Mga alagang hayop</translation>
 <translation id="8437238597147034694">&amp;I-undo ang paglilipat</translation>
@@ -2933,12 +2923,12 @@ Mga karagdagang detalye:
 <translation id="8473863474539038330">Mga address at higit pa</translation>
 <translation id="8474910779563686872">Ipakita ang mga detalye ng developer</translation>
 <translation id="8479754468255770962">Staple bottom left</translation>
-<translation id="8483780878231876732">Upang gumamit ng mga card mula sa iyong Google Account, mag-sign in sa Chrome</translation>
+<translation id="8483780878231876732">Upang gumamit ng mga card mula sa iyong Google Account, mag-sign in sa WEB3 DNA Browser</translation>
 <translation id="8488350697529856933">Nalalapat sa</translation>
 <translation id="8490137692873530638">Stacker 10</translation>
 <translation id="8493948351860045254">Magbakante ng espasyo</translation>
 <translation id="8498891568109133222">Masyadong matagal bago nakatugon ang <ph name="HOST_NAME" />.</translation>
-<translation id="8503559462189395349">Mga Password sa Chrome</translation>
+<translation id="1863492395079744896">Mga Password sa WEB3 DNA Browser</translation>
 <translation id="8503813439785031346">Username</translation>
 <translation id="8507227106804027148">Command line</translation>
 <translation id="8508648098325802031">Icon ng paghahanap</translation>
@@ -2946,8 +2936,8 @@ Mga karagdagang detalye:
 <translation id="851353418319061866">Pagsusuri sa Katumpakan</translation>
 <translation id="8513580896341796021">Nagsimula na ang pag-download. Para makita ito, pindutin ang |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">HID device na pinapayagan ng iyong administrator</translation>
-<translation id="8522552481199248698">Matutulungan ka ng Chrome na protektahan ang iyong Google Account at palitan ang password mo.</translation>
-<translation id="8530813470445476232">I-clear ang iyong history ng pag-browse, cookies, cache, at higit pa sa mga setting ng Chrome</translation>
+
+<translation id="8530813470445476232">I-clear ang iyong history ng pag-browse, cookies, cache, at higit pa sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="853332391023689529">Mga pickup truck</translation>
 <translation id="8533619373899488139">Bisitahin ang &lt;strong&gt;chrome://policy&lt;/strong&gt; para makita ang listahan ng mga naka-block na URL at ang iba pang patakarang ipinapatupad ng iyong system administrator.</translation>
 <translation id="8539500321752640291">Payagan ang 2 pahintulot?</translation>
@@ -2963,7 +2953,7 @@ Mga karagdagang detalye:
 <translation id="8557066899867184262">Makikita ang CVC sa likod ng iyong card.</translation>
 <translation id="8559762987265718583">Hindi makapagtatag ng pribadong koneksyon sa <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> dahil mali ang petsa at oras ng iyong device (<ph name="DATE_AND_TIME" />).</translation>
 <translation id="8564182942834072828">Mga hiwalay na dokumento/Mga hindi naka-collate na kopya</translation>
-<translation id="8564985650692024650">Inirerekomenda ng Chromium na i-reset ang iyong password sa <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> kung ginamit mo ito sa iba pang site.</translation>
+<translation id="6226192724169192103">Inirerekomenda ng WEB3 DNA Browser na i-reset ang iyong password sa <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> kung ginamit mo ito sa iba pang site.</translation>
 <translation id="8576310925653847813">Mga home theater system</translation>
 <translation id="8577348305244205642">Hindi available ang virtual card</translation>
 <translation id="858637041960032120">Magdagdag ng numero ng telepono</translation>
@@ -2995,7 +2985,7 @@ Mga karagdagang detalye:
 <translation id="868922510921656628">Mga page bawat hanay</translation>
 <translation id="869891660844655955">Expiration date</translation>
 <translation id="8699041776323235191">HID device</translation>
-<translation id="8699899385443889493">Button na Laruin ang Chrome Dino, pindutin ang Enter para laruin ang Dino Run sa Chrome</translation>
+<translation id="8699899385443889493">Button na Laruin ang WEB3 DNA Browser Dino, pindutin ang Enter para laruin ang Dino Run sa WEB3 DNA Browser</translation>
 <translation id="8699985386408839112">Envelope Kaku 1</translation>
 <translation id="8703575177326907206">Ang iyong koneksyon sa <ph name="DOMAIN" /> ay hindi naka-encrypt.</translation>
 <translation id="8705331520020532516">Serial Number</translation>
@@ -3013,12 +3003,12 @@ Mga karagdagang detalye:
 <translation id="8726549941689275341">Laki ng page:</translation>
 <translation id="8730621377337864115">Tapos na</translation>
 <translation id="8731268612289859741">Panseguridad na code</translation>
-<translation id="8731544501227493793">Button na Pamahalaan ang mga password, pindutin ang Enter para tingnan at pamahalaan ang mga password mo sa mga setting ng Chrome</translation>
+<translation id="8731544501227493793">Button na Pamahalaan ang mga password, pindutin ang Enter para tingnan at pamahalaan ang mga password mo sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="8734529307927223492">Pinapamahalaan ng <ph name="MANAGER" /> ang iyong <ph name="DEVICE_TYPE" /></translation>
 <translation id="8736059027199600831">30 x 40 in</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay Enter para magbukas ng bagong Incognito window para makapag-browse nang pribado</translation>
 <translation id="8737685506611670901">Buksan ang mga link ng <ph name="PROTOCOL" /> sa halip na ang <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Upang makapagtatag ng secure na koneksyon, kailangang itakda nang tama ang iyong orasan. Ito ay dahil sa may-bisa lang ang mga certificate na ginagamit ng mga website upang tukuyin ang mga sarili ng mga ito sa loob ng mga partikular na tagal ng panahon. Dahil mali ang orasan ng iyong device, hindi ma-verify ng Chromium ang mga certificate na ito.</translation>
+
 <translation id="8740359287975076522">Hindi makita ang &lt;abbr id="dnsDefinition"&gt;DNS address&lt;/abbr&gt; ng <ph name="HOST_NAME" />. Dina-diagnose ang problema.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> ang iyong code para sa <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">I-bookmark ang tab na ito</translation>
@@ -3037,9 +3027,9 @@ Mga karagdagang detalye:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Mga motorsiklo</translation>
 <translation id="8790007591277257123">&amp;Gawing muli ang pagtanggal</translation>
-<translation id="8792621596287649091">Maaari kang mawalan ng access sa iyong account sa <ph name="ORG_NAME" /> o manakawan ng pagkakakilanlan. Inirerekomenda ng Chromium na palitan ang iyong password ngayon.</translation>
+
 <translation id="8792626944327216835">mikropono</translation>
-<translation id="8793655568873652685">Na-on ng <ph name="ENROLLMENT_DOMAIN" /> ang Chrome Enterprise Connectors sa iyong browser. May access ang mga connector na ito sa ilan sa iyong data.</translation>
+<translation id="8238747517405767555">Na-on ng <ph name="ENROLLMENT_DOMAIN" /> ang WEB3 DNA Browser Enterprise Connectors sa iyong browser. May access ang mga connector na ito sa ilan sa iyong data.</translation>
 <translation id="8798099450830957504">Default</translation>
 <translation id="8798739476508189189">Hinahanap ang mga flag ng browser? Bisitahin</translation>
 <translation id="8805819170075074995">Listahan ng entry na "<ph name="LANGUAGE_ID" />": Binalewala ang entry dahil kasama rin ito sa patakarang SpellcheckLanguage.</translation>
@@ -3047,7 +3037,7 @@ Mga karagdagang detalye:
 <translation id="8807160976559152894">Paikliin pagkatapos ng bawat page</translation>
 <translation id="8813277370772331957">Ipaalala sa akin sa ibang pagkakataon</translation>
 <translation id="8814707942599948500">Envelope C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para i-update ang Chrome mula sa iyong mga setting ng Chrome</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para i-update ang WEB3 DNA Browser mula sa iyong mga setting ng WEB3 DNA Browser</translation>
 <translation id="8820817407110198400">Mga Bookmark</translation>
 <translation id="882338992931677877">Manual na Slot</translation>
 <translation id="8830320733681313421">Hagaki Postcard</translation>
@@ -3061,7 +3051,7 @@ Mga karagdagang detalye:
 <translation id="885306012106043620">Tennis</translation>
 <translation id="8855742650226305367">Sayaw</translation>
 <translation id="885730110891505394">Pagbabahagi sa Google</translation>
-<translation id="8858065207712248076">Inirerekomenda ng Chrome na i-reset ang iyong password sa <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> kung ginamit mo ito sa iba pang site.</translation>
+
 <translation id="885906927438988819">Kung tama ang pagbabaybay, <ph name="BEGIN_LINK" />subukang patakbuhin ang Mga Diagnostic ng Network ng Windows<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Mga soundtrack</translation>
 <translation id="8866481888320382733">Error sa pag-parse ng mga setting ng patakaran</translation>
@@ -3081,7 +3071,7 @@ Mga karagdagang detalye:
 <translation id="8903921497873541725">Mag-zoom in</translation>
 <translation id="890493561996401738">Button na Alisin ang Suhestyon, pindutin ang Enter para alisin, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google Account</translation>
-<translation id="8913778647360618320">Button na pamahalaan ang mga paraan ng pagbabayad, pindutin ang Enter para pamahalaan ang iyong mga pagbabayad at ang impormasyon ng credit card sa mga setting ng Chrome</translation>
+<translation id="8913778647360618320">Button na pamahalaan ang mga paraan ng pagbabayad, pindutin ang Enter para pamahalaan ang iyong mga pagbabayad at ang impormasyon ng credit card sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="8922013791253848639">Palaging payagan ang mga ad sa site na ito</translation>
 <translation id="892588693504540538">Punch top right</translation>
 <translation id="8930330541574156305">Real estate</translation>
@@ -3102,7 +3092,7 @@ Mga karagdagang detalye:
 <translation id="8975263830901772334">Mga pangalan ng mga file na pini-print mo</translation>
 <translation id="8978053250194585037">May <ph name="BEGIN_LINK" />na-detect na phishing<ph name="END_LINK" /> sa <ph name="SITE" /> kamakailan ang Ligtas na Pag-browse sa Google. Nagpapanggap ang mga phishing site bilang ibang website upang linlangin ka.</translation>
 <translation id="8983369100812962543">Puwede mo na ngayong i-resize ang app</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para tingnan ang iyong history ng pag-browse sa Chrome</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para tingnan ang iyong history ng pag-browse sa WEB3 DNA Browser</translation>
 <translation id="8987927404178983737">Buwan</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Hinahanap ang bersyon ng system? Bisitahin ang</translation>
@@ -3150,19 +3140,19 @@ Mga karagdagang detalye:
 <translation id="908796725011587895">College sports</translation>
 <translation id="9089260154716455634">Patakaran sa Mga Off Hour:</translation>
 <translation id="9095388113577226029">Higit pang wika...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para itakda ang Chrome bilang default na browser ng system sa mga setting ng iOS</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para itakda ang WEB3 DNA Browser bilang default na browser ng system sa mga setting ng iOS</translation>
 <translation id="9096679202588811390">Mga palabas at programa sa TV</translation>
 <translation id="9101630580131696064">Tray 1</translation>
 <translation id="9102081333385212048">Ipinapadala sa Google Cloud o mga third party para sa pagsusuri ang mga file na kinokopya o inililipat mo. Halimbawa, posibleng i-scan ang mga ito para sa sensitibong data o malware.</translation>
 <translation id="9103537084693478942">Software sa video</translation>
-<translation id="9103872766612412690">Karaniwang gumagamit ang <ph name="SITE" /> ng pag-encrypt upang protektahan ang iyong impormasyon. Noong sinubukang kumonekta ng Chromium sa <ph name="SITE" /> sa pagkakataong ito, nagbalik ang website ng mga hindi pangkaraniwan at maling kredensyal. Maaari itong mangyari kapag sinusubukan ng isang attacker na magpanggap bilang <ph name="SITE" />, o naputol ang koneksyon dahil sa isang screen ng pag-sign in sa Wi-Fi. Secure pa rin ang iyong impormasyon dahil inihinto ng Chromium ang koneksyon bago magkaroon ng palitan ng anumang data.</translation>
+
 <translation id="9106062320799175032">Magdagdag ng Billing Address</translation>
 <translation id="9107467864910557787">Pinapamahalaan ng <ph name="MANAGER" /> ang iyong browser</translation>
 <translation id="91108059142052966">Dini-disable ng patakaran ng administrator ang pagbabahagi ng screen sa <ph name="APPLICATION_TITLE" /> kapag may nakikitang kumpidensyal na content</translation>
 <translation id="9114524666733003316">Kinukumpirma ang card...</translation>
-<translation id="9114581008513152754">Hindi pinapamahalaan ng kumpanya o iba pang organisasyon ang browser na ito. Posibleng pinapamahalaan sa labas ng Chrome ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Bago</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para ipagpatuloy ang iyong paglalakbay para makakita ng nauugnay na aktibidad sa history mo sa Chrome</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para ipagpatuloy ang iyong paglalakbay para makakita ng nauugnay na aktibidad sa history mo sa WEB3 DNA Browser</translation>
 <translation id="9119042192571987207">Na-upload</translation>
 <translation id="9122954576417194280">Pangangalakal ng mga commodity at future</translation>
 <translation id="9128016270925453879">Na-load na ang mga patakaran</translation>
@@ -3177,7 +3167,7 @@ Mga karagdagang detalye:
 <translation id="9148088599418889305">Pumili ng Paraan ng Pagpapadala</translation>
 <translation id="9148507642005240123">&amp;I-undo ang pag-e-edit</translation>
 <translation id="9150045010208374699">Gamitin ang iyong camera</translation>
-<translation id="9150685862434908345">Mababago ng iyong administrator ang setup ng browser mo nang malayuan. Puwede ring pamahalaan sa labas ng Chrome ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Na-update</translation>
 <translation id="9155211586651734179">Naka-attach ang mga peripheral ng audio</translation>
 <translation id="9157595877708044936">Nagse-set up...</translation>
@@ -3192,7 +3182,7 @@ Mga karagdagang detalye:
 <translation id="917450738466192189">Di-wastong certificate ng server.</translation>
 <translation id="9174623988242579721">Mga custom at performance na sasakyan</translation>
 <translation id="9174917557437862841">Button na lumipat ng tab, pindutin ang Enter para lumipat sa tab na ito</translation>
-<translation id="9179703756951298733">Pamahalaan ang iyong mga pagbabayad at impormasyon ng credit card sa mga setting ng Chrome</translation>
+<translation id="9179703756951298733">Pamahalaan ang iyong mga pagbabayad at impormasyon ng credit card sa mga setting ng WEB3 DNA Browser</translation>
 <translation id="9179907736442194268">Makatanggap ng mga alerto sa email kung bababa ang presyo sa anumang site</translation>
 <translation id="9183302530794969518">Google Docs</translation>
 <translation id="9183425211371246419">Gumagamit ng hindi sinusuportahang protocol ang <ph name="HOST_NAME" />.</translation>
@@ -3203,12 +3193,12 @@ Mga karagdagang detalye:
 <translation id="920511547311754821">Hindi makita ang iyong code? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Hindi naidagdag ang artikulo.</translation>
 <translation id="9213433120051936369">I-customize ang hitsura</translation>
-<translation id="9215416866750762878">Pinipigilan ng isang application na makakonekta nang ligtas ang Chrome sa site na ito</translation>
+<translation id="717994082075351832">Pinipigilan ng isang application na makakonekta nang ligtas ang WEB3 DNA Browser sa site na ito</translation>
 <translation id="9219103736887031265">Mga Larawan</translation>
-<translation id="922152298093051471">I-customize ang Chrome</translation>
+<translation id="922152298093051471">I-customize ang WEB3 DNA Browser</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">CLEAR FORM</translation>
-<translation id="936602727769022409">Maaari kang mawalan ng access sa iyong Google Account. Inirerekomenda ng Chromium na palitan na ang iyong password. Hihilingin sa iyong mag-sign in.</translation>
+
 <translation id="937457230470581909">Mga zoo, aquarium, at preserve</translation>
 <translation id="939736085109172342">Bagong folder</translation>
 <translation id="940053046584497293">Paglalakbay at transportasyon</translation>

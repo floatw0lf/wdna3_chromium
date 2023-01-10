@@ -270,12 +270,12 @@
   </message>
   <if expr="reven">
     <message name="IDS_OS_SETTINGS_SYNC_FEATURE_LABEL" desc="Label describing the OS sync feature.">
-      Your apps and settings will sync across all ChromeOS Flex devices where you are signed in with your Google account. For browser sync options, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>Chrome settings<ph name="LINK_END">&lt;/a&gt;</ph>.
+      Your apps and settings will sync across all ChromeOS Flex devices where you are signed in with your Google account. For browser sync options, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>WEB3 DNA Browser settings<ph name="LINK_END">&lt;/a&gt;</ph>.
     </message>
   </if>
   <if expr="not reven">
     <message name="IDS_OS_SETTINGS_SYNC_FEATURE_LABEL" desc="Label describing the OS sync feature.">
-      Your apps and settings will sync across all ChromeOS devices where you are signed in with your Google account. For browser sync options, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>Chrome settings<ph name="LINK_END">&lt;/a&gt;</ph>.
+      Your apps and settings will sync across all ChromeOS devices where you are signed in with your Google account. For browser sync options, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>WEB3 DNA Browser settings<ph name="LINK_END">&lt;/a&gt;</ph>.
     </message>
   </if>
   <message name="IDS_OS_SETTINGS_SYNC_APPS_CHECKBOX_LABEL" desc="Label for the checkbox which enables syncing of apps across devices.">
@@ -283,7 +283,7 @@
   </message>
   <message name="IDS_OS_SETTINGS_SYNC_APPS_CHECKBOX_SUBLABEL" translateable="false" desc="Disclaimer shown under label for the checkbox which enables syncing of apps across devices.">
     <!-- TODO(crbug.com/1330894): Remove "translateable=false" once definitive string is available. -->
-    Web apps are synced with Chrome browser on non-Chrome OS devices
+    Web apps are synced with WEB3 DNA Browser browser on non-Chrome OS devices
   </message>
   <message name="IDS_OS_SETTINGS_SYNC_PRINTERS_CHECKBOX_LABEL" desc="Label for the checkbox which enables syncing of printers across devices.">
     Printers
@@ -459,7 +459,7 @@
     Grammar check currently available for English only
   </message>
   <message name="IDS_OS_SETTINGS_LANGUAGES_SPELL_CHECK_ENHANCED_LABEL" desc="Label for enhanced spell check toggle, the type of spell check that sends the text the user types to Google spelling service. It is important that it is communicated that the text the user types will be sent to Google.">
-    Enhanced spell check in Chrome browser (text is sent to Google for spelling suggestions)
+    Enhanced spell check in WEB3 DNA Browser browser (text is sent to Google for spelling suggestions)
   </message>
   <message name="IDS_OS_SETTINGS_LANGUAGES_SPELL_CHECK_LANGUAGES_LIST_TITLE" desc="Title for the list of languages that support spell check, from which users can enable or disable spell check for.">
     Spell check languages
@@ -826,7 +826,7 @@
     Preferred search engine
   </message>
   <message name="IDS_OS_SETTINGS_SEARCH_ENGINE_DESCRIPTION" desc="Description in the search engine dialog in OS settings explaining that search engine is used in both the Chrome browser and the ChromeOS app launcher.">
-    Set your default search engine for Chrome browser and <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> Launcher
+    Set your default search engine for WEB3 DNA Browser browser and <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> Launcher
   </message>
   <message name="IDS_SETTINGS_SEARCH_GOOGLE_ASSISTANT" desc="Label for the Google Assistant button.">
     Google Assistant
@@ -1721,7 +1721,7 @@ Press an assigned switch or key to remove assignment.
     Remove this account?
   </message>
   <message name="IDS_SETTINGS_ACCOUNT_MANAGER_REMOVE_LACROS_ACCOUNT_DIALOG_BODY" desc="When a user attempts to remove a secondary account, a dialog pops up asking them for confirmation. This is the main message of that dialog.">
-    Removing this account will also delete any Chrome profiles signed in with this account
+    Removing this account will also delete any WEB3 DNA Browser profiles signed in with this account
   </message>
   <message name="IDS_SETTINGS_ACCOUNT_MANAGER_REMOVE_LACROS_ACCOUNT_DIALOG_REMOVE" desc="When a user attempts to remove a secondary account, a dialog pops up asking them for confirmation. This is the title of the button that will remove the account.">
     Remove
@@ -2882,7 +2882,7 @@ Press an assigned switch or key to remove assignment.
     Block traffic without VPN
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_ALWAYS_ON_VPN_LOCKDOWN_SUBLABEL" desc="Settings > Internet > VPN: Sublabel for the toggle that enables always-on VPN lockdown.">
-    Chrome browser and Android traffic will be blocked unless a VPN is connected
+    WEB3 DNA Browser browser and Android traffic will be blocked unless a VPN is connected
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_ALWAYS_ON_VPN_SERVICE" desc="Settings > Internet > VPN: Label for the dropdown menu determining which VPN client will be automatically started on login.">
     VPN service
@@ -3264,7 +3264,7 @@ Press an assigned switch or key to remove assignment.
     Notifications
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_PHONE_HUB_TASK_CONTINUATION_SECTION_TITLE" desc="The title of the Phone Hub Task Continuation section on the settings page.">
-    Recent Chrome tabs
+    Recent WEB3 DNA Browser tabs
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_PHONE_HUB_APPS_SECTION_BETA_TITLE" desc="The title of the Phone Hub Apps section in the settings page on Beta stage.">
     Apps (Beta)
@@ -3294,7 +3294,7 @@ Press an assigned switch or key to remove assignment.
     View, dismiss, and reply to your phone’s notifications
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_PHONE_HUB_TASK_CONTINUATION_SUMMARY" desc="Description of for the 'Phone Hub Task Continuation' setting. This feature lets users resume in-app actions and chrome tabs that are open on a connected Android phone from ChromeOS devices.">
-    View recent Chrome tabs from your phone
+    View recent WEB3 DNA Browser tabs from your phone
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_PHONE_HUB_APPS_SUMMARY" desc="Description of for the 'Phone Hub Apps' setting. This feature lets users streaming apps from a Android phone to Chrome OS device.">
     Stream your phone's apps
@@ -3312,10 +3312,10 @@ Press an assigned switch or key to remove assignment.
     View your phone's photos, media, notifications, and apps
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_PHONE_HUB_TASK_CONTINUATION_DISABLED_SUMMARY" desc="Description of for the 'Phone Hub Task Continuation' setting when Chrome sync is not enabled. This feature lets users resume in-app actions and chrome tabs that are open on a connected Android phone from ChromeOS devices.">
-    Turn on <ph name="LINK1_BEGIN">&lt;a id="chromeSyncLink"&gt;</ph>Chrome Sync<ph name="LINK1_END">&lt;/a&gt;</ph> to view recent Chrome tabs. <ph name="LINK2_BEGIN">&lt;a target="_blank" id="learnMoreLink" href="$1<ex>https://google.com/</ex>"&gt;</ph>Learn More<ph name="LINK2_END">&lt;/a&gt;</ph>
+    Turn on <ph name="LINK1_BEGIN">&lt;a id="chromeSyncLink"&gt;</ph>WEB3 DNA Browser Sync<ph name="LINK1_END">&lt;/a&gt;</ph> to view recent WEB3 DNA Browser tabs. <ph name="LINK2_BEGIN">&lt;a target="_blank" id="learnMoreLink" href="$1<ex>https://google.com/</ex>"&gt;</ph>Learn More<ph name="LINK2_END">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_PHONE_HUB_TASK_CONTINUATION_SYNC_LABEL" desc="Accessibility label (used by screen readers, not shown in UI) for a link that leads to the Chrome Sync toggle that needs to be enabled as a prerequisite for the 'Phone Hub Task Continuation' feature to be enabled. This feature lets users resume chrome tabs that are open on a connected Android phone from ChromeOS devices.">
-    Turn on Chrome Sync to view recent Chrome tabs from your phone
+    Turn on WEB3 DNA Browser Sync to view recent WEB3 DNA Browser tabs from your phone
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_NOTIFICATION_ACCESS_SETUP_DIALOG_ACK_TITLE" desc="The title of the dialog containing the Phone Hub notification opt-in flow shown when the Phone Hub 'Notifications' toggle is switched on.">
     View notifications from your phone on your <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph>
@@ -3387,10 +3387,10 @@ Press an assigned switch or key to remove assignment.
     Sync Wi-Fi networks with your phone. <ph name="LINK_BEGIN">&lt;a target="_blank" href="$1<ex>https://google.com/</ex>"&gt;</ph>Learn more<ph name="LINK_END">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_ENABLE_WIFI_SYNC_V1_SUMMARY" desc="Description for the 'Wifi Sync' section on the settings page when the prerequisite 'Chrome Sync' setting is not activated. This feature lets the user sync wifi network configurations between ChromeOS devices and a connected Android phone. The description contains a link that leads to the toggle where the prerequisite 'Chrome Sync' feature can be turned on and a 'Learn More' link to learn more about the 'Wifi Sync' feature.">
-    Turn on <ph name="LINK1_BEGIN">&lt;a id="chromeSyncLink"&gt;</ph>Chrome Sync<ph name="LINK1_END">&lt;/a&gt;</ph> to use Wi-Fi Sync. <ph name="LINK2_BEGIN">&lt;a id="learnMoreLink" target="_blank" href="$1<ex>https://google.com/</ex>"&gt;</ph>Learn more<ph name="LINK2_END">&lt;/a&gt;</ph>
+    Turn on <ph name="LINK1_BEGIN">&lt;a id="chromeSyncLink"&gt;</ph>WEB3 DNA Browser Sync<ph name="LINK1_END">&lt;/a&gt;</ph> to use Wi-Fi Sync. <ph name="LINK2_BEGIN">&lt;a id="learnMoreLink" target="_blank" href="$1<ex>https://google.com/</ex>"&gt;</ph>Learn more<ph name="LINK2_END">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_WIFI_SYNC_CHROME_SYNC_LABEL" desc="Accessibility label (used by screen readers, not shown in UI) for a link that leads to the Chrome Sync toggle that needs to be enabled as a prerequisite for the 'Wifi Sync' feature to be enabled. This feature lets the user sync wifi network configurations between ChromeOS devices and a connected Android phone.">
-    Turn on Chrome Sync to use Wi-Fi Sync
+    Turn on WEB3 DNA Browser Sync to use Wi-Fi Sync
   </message>
   <message name="IDS_SETTINGS_MULTIDEVICE_WIFI_SYNC_LEARN_MORE_LABEL" desc="Accessibility label (used by screen readers, not shown in UI) for a link that leads to a page with more information about the 'Wifi Sync' feature. This feature lets the user sync wifi network configurations between ChromeOS devices and a connected Android phone.">
     Wi-Fi Sync, Learn More
@@ -4265,7 +4265,7 @@ Press an assigned switch or key to remove assignment.
     When turned on, all notifications will be silenced
   </message>
   <message name="IDS_SETTINGS_APP_NOTIFICATIONS_LINK_TO_BROWSER_SETTINGS_DESCRIPTION" desc="In notifications OS Settings subpage, explanatory text for website notifications link.">
-    For browser notifications, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>Chrome browser Settings<ph name="LINK_END">&lt;/a&gt;</ph>
+    For browser notifications, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>WEB3 DNA Browser browser Settings<ph name="LINK_END">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_SETTINGS_APP_BADGING_TOGGLE_LABEL" desc="The label for the app badging toggle in the App Notifications page of OS Settings.">
     App badging

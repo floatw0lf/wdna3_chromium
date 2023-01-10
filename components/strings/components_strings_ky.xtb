@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Кошумча маалымат берүү</translation>
 <translation id="1019413721762100891">Өчүк</translation>
 <translation id="1021110881106174305">Кабыл алынган карточкалар</translation>
-<translation id="1021753677514347426">Бул маселе түзмөгүңүзгө орнотулган тастыктамадан улам келип чыгышы мүмкүн. Ал тастыктама тармактарга көз салып, ортодон кармап калуусу менен белгилүү. Аны Chromium ишенимдүү тастыктама катары караштырбайт. Мындай тастыктамаларды мектептин же уюмдун тармактарында көзөмөлдөөнүн мыйзамдуу жолдору бар. Сиз эч нерсе кыла албаганыңыз менен, Chromium бул маселе тууралуу кабарыңыздын болушун туура көрдү. Көзөмөлдөө Интернетке туташкан бардык серепчилерде жана колдонмолордо жүргүзүлөт.</translation>
+<translation id="6843750610117699926">Бул маселе түзмөгүңүзгө орнотулган тастыктамадан улам келип чыгышы мүмкүн. Ал тастыктама тармактарга көз салып, ортодон кармап калуусу менен белгилүү. Аны WEB3 DNA Browser ишенимдүү тастыктама катары караштырбайт. Мындай тастыктамаларды мектептин же уюмдун тармактарында көзөмөлдөөнүн мыйзамдуу жолдору бар. Сиз эч нерсе кыла албаганыңыз менен, WEB3 DNA Browser бул маселе тууралуу кабарыңыздын болушун туура көрдү. Көзөмөлдөө Интернетке туташкан бардык серепчилерде жана колдонмолордо жүргүзүлөт.</translation>
 <translation id="1024111578869940408">Чабуулчулар кээ бир учурларда вебдаректин аталышына көзгө көрүнбөгөн өзгөртүүлөрдү киргизип, сайттарды туурашат.</translation>
 <translation id="1028781062521375153">Чоо-жайын көрүү</translation>
 <translation id="1030706264415084469"><ph name="URL" /> түзмөгүңүзгө көлөмдүү дайындарды биротоло сактаганы жатат</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">Кошууну &amp;жасабоо</translation>
 <translation id="1056663316309890343">Фото үчүн программалык камсыздоо</translation>
 <translation id="1056898198331236512">Эскертүү</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, Dino Run оюнун Chrome'до ойноо үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, Dino Run оюнун WEB3 DNA Browser'до ойноо үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="1058479211578257048">Карталар сакталууда...</translation>
 <translation id="1060320201901229167">Конверт Каку 5</translation>
 <translation id="10614374240317010">Эч качан сакталбайт</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Картанын ээсинин ысымын кошуу</translation>
 <translation id="1089439967362294234">Сызсөздү өзгөртүү</translation>
 <translation id="1096545575934602868">Бул талаага киргизилген маанилердин саны <ph name="MAX_ITEMS_LIMIT" /> ашпашы керек. Ашыкча маанилер жоюлат.</translation>
-<translation id="1100782917270858593">Саякатты улантуу баскычы, саякатыңызды улантып, Chrome´до көрүлгөн вебсайттарыңыздын арасынан ылайыктууларын көрүү үчүн Enter баскычын басыңыз</translation>
+<translation id="3985486898664025513">Саякатты улантуу баскычы, саякатыңызды улантып, WEB3 DNA Browser´до көрүлгөн вебсайттарыңыздын арасынан ылайыктууларын көрүү үчүн Enter баскычын басыңыз</translation>
 <translation id="1101672080107056897">Ката аракет</translation>
 <translation id="1103523840287552314"><ph name="LANGUAGE" /> тилин ар дайым которуу</translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Сырсөзүңүздү уюмуңуз тарабынан башкарылбаган сайтка киргиздиңиз. Аккаунтуңузду коргоо үчүн сырсөзүңүздү башка колдонмолор менен сайттарда колдонбоңуз.</translation>
 <translation id="1257553931232494454">чоңойтуп/кичирейтүү деңгээлдери</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome жөндөөлөрүңүздү башкаруу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser жөндөөлөрүңүздү башкаруу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="1263231323834454256">Окуу тизмеси</translation>
 <translation id="1264309058268477500">Кошумча</translation>
 <translation id="1264974993859112054">Спорт</translation>
@@ -131,7 +131,7 @@
 <translation id="1285320974508926690">Бул сайт эч качан которулбасын</translation>
 <translation id="1288548991597756084">Карта коопсуз сакталды</translation>
 <translation id="1292571435393770077">16-түпкүч</translation>
-<translation id="1292701964462482250">"Компьютериңизде иштеп жаткан программа Chrome’дун Интернетке коопсуз туташуусуна тоскоол болуп жатат" (Windows компьютерлери үчүн гана)</translation>
+<translation id="3610512443326918645">"Компьютериңизде иштеп жаткан программа WEB3 DNA Browser’дун Интернетке коопсуз туташуусуна тоскоол болуп жатат" (Windows компьютерлери үчүн гана)</translation>
 <translation id="1293797321964802402">Конверт 9 x 11 дюйм</translation>
 <translation id="1294154142200295408">Буйрук сабынын варианттары</translation>
 <translation id="129553762522093515">Жакында жабылган</translation>
@@ -150,7 +150,7 @@
 <translation id="1323433172918577554">Көбүрөөк көрсөтүү</translation>
 <translation id="132390688737681464">Даректерди сактоо жана автоматтык түрдө толтуруу</translation>
 <translation id="1330449323196174374">Сол бүктөлүшүн чаптоо</translation>
-<translation id="1333745675627230582">Chrome Dino оюнун ойноо</translation>
+<translation id="6227572462599550594">WEB3 DNA Browser Dino оюнун ойноо</translation>
 <translation id="1333989956347591814">Аракеттериңиз төмөнкүлөргө <ph name="BEGIN_EMPHASIS" />көрүнүп турат<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />кирген вебсайттарга;
@@ -223,7 +223,7 @@
 <translation id="1483493594462132177">Жөнтүү</translation>
 <translation id="1484290072879560759">Жөнөтүү дарегин тандоо</translation>
 <translation id="1492194039220927094">Саясаттарды колдонуу:</translation>
-<translation id="149293076951187737">Chrome'догу бардык жашыруун өтмөктөр жабылса, ал өтмөктөрдөгү аракеттериңиз бул түзмөктөн өчүрүлөт:
+<translation id="3175654283800723944">WEB3 DNA Browser'догу бардык жашыруун өтмөктөр жабылса, ал өтмөктөрдөгү аракеттериңиз бул түзмөктөн өчүрүлөт:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Көрүлгөн вебсайттар<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Издөө таржымалы<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@
 <translation id="154408704832528245">Жеткирүү дарегин тандоо</translation>
 <translation id="1549470594296187301">Бул функцияны пайдалануу үчүн JavaScript иштетилиши керек.</translation>
 <translation id="1551884710160394169">Акысыз программалык камсыздоо</translation>
-<translation id="1553358976309200471">Chrome'ду жаңыртуу</translation>
+<translation id="1553358976309200471">WEB3 DNA Browser'ду жаңыртуу</translation>
 <translation id="1555130319947370107">Көк</translation>
 <translation id="1559447966090556585">Билдирмелер алынсынбы?</translation>
 <translation id="1559528461873125649">Мындай файл же каталог жок</translation>
@@ -263,7 +263,7 @@
 <translation id="156703335097561114">Даректер, интерфейс конфигурациясы жана байланыштын сапаты сыяктуу тармак маалыматы</translation>
 <translation id="1567040042588613346">Бул саясат талаптагыдай иштеп жатат, бирок ал башка жерде коюлган окшош мааниге алмаштырып койду.</translation>
 <translation id="1569487616857761740">Насыя картасынын жарамдуулук мөөнөтүн киргизиңиз</translation>
-<translation id="1569694109004336106">Google Chrome сырсөздөрдү толтуруу үчүн Windows Hello функциясын күйгүзүүгө аракет кылып жатат.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser сырсөздөрдү толтуруу үчүн Windows Hello функциясын күйгүзүүгө аракет кылып жатат.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> дюйм</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Бул веб-баракча жүктөлүп жатканда бир жерден ката кетти.</translation>
@@ -273,7 +273,7 @@
 <translation id="1594030484168838125">Тандоо</translation>
 <translation id="1596296697375291157">Триллер, кылмыш жана сырдуу тасмалар</translation>
 <translation id="1599199147673445968">Жаңы картабы? <ph name="BEGIN_LINK" />Картанын чоо-жайын киргизиңиз<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Dino Run оюнун Chrome'до ойноо</translation>
+<translation id="160851722280695521">Dino Run оюнун WEB3 DNA Browser'до ойноо</translation>
 <translation id="161042844686301425">Көгүлтүр</translation>
 <translation id="1611101756749861742">Экинчи барабан</translation>
 <translation id="1615402009686901181">Купуя нерселер көрүнүп турганда, Администратордун саясатына ылайык экрандагыны сүрөткө тартып алууга болбойт</translation>
@@ -293,13 +293,13 @@
 <translation id="1642410292376109062">Google сырсөзүн өзгөртүү баскычы. Google аккаунтуңуздун сырсөзүн өзгөтүү үчүн Enter баскычын басыңыз</translation>
 <translation id="1644574205037202324">Таржымал</translation>
 <translation id="1645368109819982629">Колдоого алынбаган протокол</translation>
-<translation id="1650602712345345441">Chrome жөндөөлөрүн башкаруу</translation>
+<translation id="1650602712345345441">WEB3 DNA Browser жөндөөлөрүн башкаруу</translation>
 <translation id="1652415888492971589">JIS B8 (64mm x 91mm)</translation>
-<translation id="1656024727720460136">Chrome бул баракты окууну жеңилдетүү үчүн жөнөкөйлөттү Chrome коопсуз туташуу аркылуу түпнуска баракты алды.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser бул баракты окууну жеңилдетүү үчүн жөнөкөйлөттү WEB3 DNA Browser коопсуз туташуу аркылуу түпнуска баракты алды.</translation>
 <translation id="1656489000284462475">Алып кетүү</translation>
 <translation id="1658918301167915956">bluetooth түзмөктөрү</translation>
 <translation id="1662550410081243962">Төлөм ыкмаларын сактоо жана автоматтык түрдө толтуруу</translation>
-<translation id="1663943134801823270">Карточкалар жана даректер Chrome’дон алынган. Аларды <ph name="BEGIN_LINK" />Жөндөөлөрдөн<ph name="END_LINK" /> башкарсаңыз болот.</translation>
+<translation id="716145566107023410">Карточкалар жана даректер WEB3 DNA Browser’дон алынган. Аларды <ph name="BEGIN_LINK" />Жөндөөлөрдөн<ph name="END_LINK" /> башкарсаңыз болот.</translation>
 <translation id="1671391448414634642">Мындан кийин <ph name="SOURCE_LANGUAGE" /> тилиндеги барактар <ph name="TARGET_LANGUAGE" /> тилине которулат.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> тилинен <ph name="TARGET_LANGUAGE" /> тилине</translation>
 <translation id="1682696192498422849">Биринчи туурасы боюнча</translation>
@@ -347,7 +347,7 @@
 <translation id="1757773103848038814">Monospace ариби</translation>
 <translation id="1763864636252898013">Бул сервер <ph name="DOMAIN" /> экендигин далилдей алган жок; себеби түзмөгүңүздүн иш тутуму анын коопсуздук тастыктамасына ишенбейт. Мындай көйгөй туура эмес конфигурация менен шартталышы мүмкүн же туташууңузга чабуулчу кийлигишип жатат.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Windows аркылуу Тармак мүчүлүштүгүн аныктоону иштетип көрүңүз<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Chromium'дагы жашыруун өтмөк жөнүндө кеңири маалымат<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />WEB3 DNA Browser'дагы жашыруун өтмөк жөнүндө кеңири маалымат<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0 (1030mm x 1456mm)</translation>
 <translation id="1787142507584202372">Ачылган өтмөктөр бул жерде көрүнөт</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -398,11 +398,11 @@
 <translation id="1919526244108283799">400 x 600 мм.</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Бирөө да жок}=1{1 сайт}other{# сайт}}</translation>
 <translation id="1924727005275031552">Жаңы</translation>
-<translation id="1927439593081478069">Chrome'дун коопсуздугун текшерүү баскычы, Chrome жөндөөлөрүнөн коопсуздукту текшерүү үчүн Enter баскычын басыңыз</translation>
+<translation id="1927439593081478069">WEB3 DNA Browser'дун коопсуздугун текшерүү баскычы, WEB3 DNA Browser жөндөөлөрүнөн коопсуздукту текшерүү үчүн Enter баскычын басыңыз</translation>
 <translation id="1935995810530254458">Баарибир көчүрүү</translation>
 <translation id="1939175642807587452">Билдирмелерди жөнөтүүгө уруксат сурай алат</translation>
 <translation id="1943994668912612445">Жасалга</translation>
-<translation id="1945968466830820669">Кимдир бирөө сиздин жеке дайындарыңызга же уюмуңуздун аккаунтуна кирип алган окшойт. Chromium сырсөзүңүздү азыр өзгөртүүнү сунуштайт.</translation>
+<translation id="5087943717045213809">Кимдир бирөө сиздин жеке дайындарыңызга же уюмуңуздун аккаунтуна кирип алган окшойт. WEB3 DNA Browser сырсөзүңүздү азыр өзгөртүүнү сунуштайт.</translation>
 <translation id="1946849748901605102">12 x 15 дюйм</translation>
 <translation id="1947454675006758438">Жогорку оң жагын илмек менен бекитүү</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -425,8 +425,8 @@
 <translation id="2001146170449793414">{COUNT,plural, =1{жана дагы 1}other{жана дагы #}}</translation>
 <translation id="2003709556000175978">Сырсөзүңүздү азыр өзгөртүңүз</translation>
 <translation id="2003775180883135320">Жогорку жагын төрт жолу тешүү</translation>
-<translation id="201174227998721785">Chrome жөндөөлөрүнөн уруксаттарды жана сайттарда сакталган маалыматтарды башкаруу</translation>
-<translation id="2019607688127825327">"Атайын мүмкүнчүлүктөрдү тууралоону башкаруу" баскычы, Chrome жөндөөлөрүндө атайын мүмкүнчүлүктөр куралдарын жекелештирүү үчүн Enter баскычын басыңыз</translation>
+<translation id="201174227998721785">WEB3 DNA Browser жөндөөлөрүнөн уруксаттарды жана сайттарда сакталган маалыматтарды башкаруу</translation>
+<translation id="2019607688127825327">"Атайын мүмкүнчүлүктөрдү тууралоону башкаруу" баскычы, WEB3 DNA Browser жөндөөлөрүндө атайын мүмкүнчүлүктөр куралдарын жекелештирүү үчүн Enter баскычын басыңыз</translation>
 <translation id="202224654587969958">12 x 19 дюйм</translation>
 <translation id="2025115093177348061">Кошумчаланган чындык</translation>
 <translation id="2025186561304664664">Прокси автоконфигурацияланат деп коюлду.</translation>
@@ -443,7 +443,7 @@
 <translation id="2048261947532620704">Барак которулууда</translation>
 <translation id="205212645995975601">Барбекю жана гриль</translation>
 <translation id="2053111141626950936"><ph name="LANGUAGE" /> тилиндеги барактар которулбайт.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Бул көзөмөлдөө каражаты күйүк жана абалы жигердүү болгондо, Chrome акыркы көргөн вебсайттарыңыз адамдардын кайсы чоң тобуна же "когортасына" эң ылайыктуу экенин аныктайт. Жарнамачылар ал топ үчүн жарнамаларды тандай алат жана көргөн вебсайттарыңыз түзмөгүңүздө купуя сакталат. Тобуңуз күн сайын жаңыртылып турат.}=1{Бул көзөмөлдөө каражаты күйүк жана абалы жигердүү болгондо, Chrome акыркы көргөн вебсайттарыңыз адамдардын кайсы чоң тобуна же "когортасына" эң ылайыктуу экенин аныктайт. Жарнамачылар ал топ үчүн жарнамаларды тандай алат жана көргөн вебсайттарыңыз түзмөгүңүздө купуя сакталат. Тобуңуз күн сайын жаңыртылып турат.}other{Бул көзөмөлдөө каражаты күйүк жана абалы жигердүү болгондо, Chrome акыркы көргөн вебсайттарыңыз адамдардын кайсы чоң тобуна же "когортасына" эң ылайыктуу экенин аныктайт. Жарнамачылар ал топ үчүн жарнамаларды тандай алат жана көргөн вебсайттарыңыз түзмөгүңүздө купуя сакталат. Тобуңуз {NUM_DAYS} күн сайын жаңыртылып турат.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Бул көзөмөлдөө каражаты күйүк жана абалы жигердүү болгондо, WEB3 DNA Browser акыркы көргөн вебсайттарыңыз адамдардын кайсы чоң тобуна же "когортасына" эң ылайыктуу экенин аныктайт. Жарнамачылар ал топ үчүн жарнамаларды тандай алат жана көргөн вебсайттарыңыз түзмөгүңүздө купуя сакталат. Тобуңуз күн сайын жаңыртылып турат.}=1{Бул көзөмөлдөө каражаты күйүк жана абалы жигердүү болгондо, WEB3 DNA Browser акыркы көргөн вебсайттарыңыз адамдардын кайсы чоң тобуна же "когортасына" эң ылайыктуу экенин аныктайт. Жарнамачылар ал топ үчүн жарнамаларды тандай алат жана көргөн вебсайттарыңыз түзмөгүңүздө купуя сакталат. Тобуңуз күн сайын жаңыртылып турат.}other{Бул көзөмөлдөө каражаты күйүк жана абалы жигердүү болгондо, WEB3 DNA Browser акыркы көргөн вебсайттарыңыз адамдардын кайсы чоң тобуна же "когортасына" эң ылайыктуу экенин аныктайт. Жарнамачылар ал топ үчүн жарнамаларды тандай алат жана көргөн вебсайттарыңыз түзмөгүңүздө купуя сакталат. Тобуңуз {NUM_DAYS} күн сайын жаңыртылып турат.}}</translation>
 <translation id="2059202684901022309">22 x 34 дюйм</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 сунуш}other{# сунуш}}</translation>
 <translation id="2066915425250589881">өчүрүүнү сурансаңыз болот</translation>
@@ -455,9 +455,9 @@
 <translation id="20817612488360358">Системанын прокси жөндөөлөрү коюлду жана ошону менен катар, айкын прокси конфигурайиясы да белгиленди.</translation>
 <translation id="2082238445998314030"><ph name="TOTAL_RESULTS" /> ичинен <ph name="RESULT_NUMBER" /> натыйжа</translation>
 <translation id="2085876078937250610">Сактоо…</translation>
-<translation id="2088086323192747268">Шайкештирүүнү башкаруу баскычы, Chrome жөндөөлөрүнөн шайкештирилген маалыматты башкаруу үчүн Enter баскычын басыңыз</translation>
+<translation id="2088086323192747268">Шайкештирүүнү башкаруу баскычы, WEB3 DNA Browser жөндөөлөрүнөн шайкештирилген маалыматты башкаруу үчүн Enter баскычын басыңыз</translation>
 <translation id="2091887806945687916">Үн</translation>
-<translation id="2093982008204312032">Google Chrome сырсөздөрдү толтура турган Windows Hello функциясын өчүрүүгө аракет кылып жатат.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser сырсөздөрдү толтура турган Windows Hello функциясын өчүрүүгө аракет кылып жатат.</translation>
 <translation id="2094505752054353250">Домен дал келбейт</translation>
 <translation id="2099652385553570808">Сол жагын үч жолу илмек менен бекитүү</translation>
 <translation id="2101225219012730419">Версиясы:</translation>
@@ -540,7 +540,7 @@
 <translation id="2292556288342944218">Интернетке кирүү мүмкүнчүлүгүңүз бөгөттөлгөн</translation>
 <translation id="2293443924986248631">Күйгүзүлсө, сайттар сизге вебде көз салуу үчүн cookie файлдарын колдоно алышпайт. Функциялар айрым сайттарда туура иштебеши мүмкүн.</translation>
 <translation id="2295290966866883927">Сиз кирген барактардын URL даректери Google Булутка же үчүнчү тараптарга талдоо үчүн жөнөтүлүп турат. Мисалы, алар кооптуу вебсайттарды аныктоо үчүн колдонулушу мүмкүн.</translation>
-<translation id="2298855485018661510">Cookie файлдарын башкаруу баскычы, Chrome жөндөөлөрүнөн cookie файлдарынын параметрлерин башкаруу үчүн Enter баскычын басыңыз</translation>
+<translation id="2298855485018661510">Cookie файлдарын башкаруу баскычы, WEB3 DNA Browser жөндөөлөрүнөн cookie файлдарынын параметрлерин башкаруу үчүн Enter баскычын басыңыз</translation>
 <translation id="2300306941146563769">Жүктөлүп берилген жок</translation>
 <translation id="2316159751672436664">ChromeOS параметрлеринде атайын мүмкүнчүлүктөр куралдарын жекелештирүү</translation>
 <translation id="2316887270356262533">1 Мб чейин орун бошотулат. Кийинки жолу киргениңизде, айрым сайттар жайыраак жүктөлүшү мүмкүн.</translation>
@@ -568,9 +568,9 @@
 <translation id="236340516568226369">Өчүрүү/күйгүзүү менюсунун өлчөмүн өзгөртүү</translation>
 <translation id="2367567093518048410">Деңгээли</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Chrome жөндөөлөрүндө атайын мүмкүнчүлүктөр куралдарын жекелештирүү</translation>
+<translation id="2383455408879745299">WEB3 DNA Browser жөндөөлөрүндө атайын мүмкүнчүлүктөр куралдарын жекелештирүү</translation>
 <translation id="2384307209577226199">Демейки ишкана</translation>
-<translation id="2385809941344967209">Chrome'дун жөндөөлөрүнө өтүп, Chrome'ду жаңыртыңыз</translation>
+<translation id="2385809941344967209">WEB3 DNA Browser'дун жөндөөлөрүнө өтүп, WEB3 DNA Browser'ду жаңыртыңыз</translation>
 <translation id="2386255080630008482">Сервер тастыктамасы жокко чыгарылды.</translation>
 <translation id="239293030466334554">Кабриолеттер</translation>
 <translation id="2392959068659972793">Мааниси коюлбаган саясаттарды көрсөтүү</translation>
@@ -589,7 +589,7 @@
 <translation id="2463739503403862330">Толтуруу</translation>
 <translation id="2465655957518002998">Жеткирүү ыкмасын тандоо</translation>
 <translation id="2465688316154986572">Илмек</translation>
-<translation id="2465914000209955735">Chrome'до жүктөлүп алынган файлдарды башкаруу</translation>
+<translation id="2465914000209955735">WEB3 DNA Browser'до жүктөлүп алынган файлдарды башкаруу</translation>
 <translation id="2466004615675155314">Интернеттен алынган маалыматты көрсөтүү</translation>
 <translation id="2467272921457885625">CPU/RAM утилизация таржымалы сыяктуу түзмөктүн аппараттык камсыздоосунун мүнөздөмөлөрү жана статистикасы</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Тармак мүчүлүштүгүн аныктоону иштетиңиз<ph name="END_LINK" /></translation>
@@ -606,7 +606,7 @@
 <translation id="2505268675989099013">Аккаунттун коопсуздугун коргоо</translation>
 <translation id="2509167091171468975">Тамак-аш жана азык-түлүк сатуучулар</translation>
 <translation id="2512101340618156538">Тыюу салынган (демейки)</translation>
-<translation id="2512413427717747692">Chrome'ду демейки серепчи катары коюу баскычы, iOS жөндөөлөрүнөн Chrome'ду системанын демейки серепчиси катары коюу үчүн Enter баскычын басыңыз</translation>
+<translation id="2512413427717747692">WEB3 DNA Browser'ду демейки серепчи катары коюу баскычы, iOS жөндөөлөрүнөн WEB3 DNA Browser'ду системанын демейки серепчиси катары коюу үчүн Enter баскычын басыңыз</translation>
 <translation id="2515629240566999685">Аймагыңыздагы сигналды текшерип көрүңүз</translation>
 <translation id="2515761554693942801"><ph name="PROVIDER_ORIGIN" /> вебсайттарында Touch ID функциясын колдонууну тандагансыз. Бул провайдер төлөм ыкмаңызды сактап койгон болушу мүмкүн. Аны <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Төмөнк оң жагын илмек менен бекитүү</translation>
@@ -623,7 +623,7 @@
 <translation id="2542106216580219892">Сөрфинг</translation>
 <translation id="2544546346215446551">Администраторуңуз түзмөктү өчүрүп күйгүздү</translation>
 <translation id="2544644783021658368">Жалгыз документ</translation>
-<translation id="254524874071906077">Chrome'ду демейки серепчи катары коюу</translation>
+<translation id="1319028298140338735">WEB3 DNA Browser'ду демейки серепчи катары коюу</translation>
 <translation id="2546283357679194313">Кукилер жана сайттын дайындары</translation>
 <translation id="2547466893236767989">Веб-дизайн жана иштеп чыгуу</translation>
 <translation id="254947805923345898">Саясаттын мааниси туура эмес көрсөтүлдү.</translation>
@@ -638,19 +638,19 @@
 <translation id="2570734079541893434">Тууралоо</translation>
 <translation id="2573834589046842510">Басып чыгаруу жана жарыялоо</translation>
 <translation id="257674075312929031">Топ</translation>
-<translation id="2576880857912732701">Коопсуздук жөндөөлөрүн башкаруу баскычы, Chrome жөндөөлөрүнөн Коопсуз серептөөнү жана башка нерселерди башкаруу үчүн Enter баскычын басыңыз</translation>
+<translation id="2576880857912732701">Коопсуздук жөндөөлөрүн башкаруу баскычы, WEB3 DNA Browser жөндөөлөрүнөн Коопсуз серептөөнү жана башка нерселерди башкаруу үчүн Enter баскычын басыңыз</translation>
 <translation id="2586657967955657006">Алмашуу буфери</translation>
 <translation id="2587730715158995865">Булагы: <ph name="ARTICLE_PUBLISHER" />. Башка макалалар дагы бар (<ph name="OTHER_ARTICLE_COUNT" />).</translation>
 <translation id="2587841377698384444">Каталогдун API'синин ID:</translation>
 <translation id="2594318783181750337">Ыкчам веб көрүнүшү:</translation>
 <translation id="2595719060046994702">Бул түзмөк менен аккаунт компания же башка уюм тарабынан башкарылган жок.</translation>
-<translation id="2596415276201385844">Коопсуз туташууну орнотуу үчүн, саатыңыз туура коюлушу керек. Себеби вебсайттардын аныктыгын текшере турган тастыктамалар белгилүү бир убакыт аралыгында гана жарактуу болот. Түзмөгүңүздүн сааты туура эмес болгондуктан, Chrome бул тастыктамаларды текшере албайт.</translation>
+<translation id="7968235694092767490">Коопсуз туташууну орнотуу үчүн, саатыңыз туура коюлушу керек. Себеби вебсайттардын аныктыгын текшере турган тастыктамалар белгилүү бир убакыт аралыгында гана жарактуу болот. Түзмөгүңүздүн сааты туура эмес болгондуктан, WEB3 DNA Browser бул тастыктамаларды текшере албайт.</translation>
 <translation id="2597378329261239068">Бул документ сырсөз менен корголгон. Сырсөздү киргизиңиз.</translation>
 <translation id="259821504105826686">Фото жана санарип көркөм өнөрү</translation>
 <translation id="2601150049980261779">Романтикалык тасмалар</translation>
 <translation id="2604589665489080024">Поп-музыка</translation>
 <translation id="2610561535971892504">Көчүрүү үчүн чыкылдатыңыз</translation>
-<translation id="2617988307566202237">Chrome төмөнкү маалыматты <ph name="BEGIN_EMPHASIS" />сактабайт<ph name="END_EMPHASIS" />:
+<translation id="6174516088921923215">WEB3 DNA Browser төмөнкү маалыматты <ph name="BEGIN_EMPHASIS" />сактабайт<ph name="END_EMPHASIS" />:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Көргөн вебсайттарыңыз
             <ph name="LIST_ITEM" />Cookie файлдары жана сайттагы маалымат
@@ -658,14 +658,14 @@
           <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Саатыңыз алдыда</translation>
 <translation id="262745152991669301">USB түзмөктөргө туташууга уруксат сурай алат</translation>
-<translation id="2629325967560697240">Chrome’ду жогорку деңгээлде коопсуздандыруу үчүн <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />өркүндөтүлгөн коргоону күйгүзүңүз<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">WEB3 DNA Browser’ду жогорку деңгээлде коопсуздандыруу үчүн <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />өркүндөтүлгөн коргоону күйгүзүңүз<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069"><ph name="HOST_NAME" /> серверинин IP дареги табылбай койду.</translation>
 <translation id="2639739919103226564">Статус:</translation>
 <translation id="2643134278432436513">Чач тарач</translation>
 <translation id="2647852283046201479">Стратегиялык оюндар</translation>
 <translation id="264810637653812429">Шайкеш түзмөктөр табылган жок.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome жөндөөлөрүнөн көрүлгөн вебсайттарды, cookie файлдарын, кештерди жана башкаларды тазалоо үчүн, Tab, андан соң Enter баскычын басыңыз</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser жөндөөлөрүнөн көрүлгөн вебсайттарды, cookie файлдарын, кештерди жана башкаларды тазалоо үчүн, Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="2650446666397867134">Файлды колдонуу мүмкүнчүлүгү четке кагылды</translation>
 <translation id="2653659639078652383">Тапшыруу</translation>
 <translation id="2657637947725373811">{0,plural, =1{Купуя файл өткөрүлсүнбү?}other{Купуя файлдар өткөрүлсүнбү?}}</translation>
@@ -693,11 +693,11 @@
 <translation id="2705137772291741111">Бул сайттын сакталган (кештелген) көчүрмөсү окулбай койду.</translation>
 <translation id="2709516037105925701">Автотолтуруу</translation>
 <translation id="2713444072780614174">Ак</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome'дун жөндөөлөрүнө өтүп, төлөмдөрдү жана насыя карточкасынын маалыматын башкаруу үчүн, Tab, андан соң Enter баскычтарын басыңыз</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser'дун жөндөөлөрүнө өтүп, төлөмдөрдү жана насыя карточкасынын маалыматын башкаруу үчүн, Tab, андан соң Enter баскычтарын басыңыз</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Толук экран режиминен чыгуу үчүн |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| баскычтарын басыңыз</translation>
 <translation id="2721148159707890343">Сурам аткарылды</translation>
-<translation id="2723669454293168317">Chrome жөндөөлөрүнөн коопсуздукту текшериңиз</translation>
+<translation id="2723669454293168317">WEB3 DNA Browser жөндөөлөрүнөн коопсуздукту текшериңиз</translation>
 <translation id="2726001110728089263">Капталкы түпкүч</translation>
 <translation id="2728127805433021124">Сервердин тастыктамасына чабал колтамга алгоритми кол койгон.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Туташуу мүчүлүштүгүн аныктоону иштетиңиз<ph name="END_LINK" /></translation>
@@ -737,7 +737,7 @@
 <translation id="287596039013813457">Ынак</translation>
 <translation id="28761159517501904">Тасмалар</translation>
 <translation id="2876489322757410363">Тышкы колдонмо аркылуу төлөө үчүн жашыруун режимден чыкканы жатасыз. Уланта бересизби?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome жөндөөлөрүнөн Коопсуз серептөөнү жана башка нерселерди башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser жөндөөлөрүнөн Коопсуз серептөөнү жана башка нерселерди башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="2878197950673342043">Постер формасында бүктөө</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Карточка сакталсынбы?</translation>
@@ -749,7 +749,7 @@
 <translation id="290376772003165898">Барак <ph name="LANGUAGE" /> тилинде эмес бекен?</translation>
 <translation id="2909946352844186028">Тармак өзгөрүлгөн окшойт.</translation>
 <translation id="2911973620368911614">Тапшырманы аткаруучунун идентификатору</translation>
-<translation id="2914160345369867329"><ph name="SITE" /> маалыматыңызды коргоо үчүн шифрлөөнү колдонот. Chrome бул жолу <ph name="SITE" /> сайтына туташууга аракет кылганда, вебсайт адаттан тышкары жана туура эмес эсептик дайындарды жөнөттү. Бул чабуулчу өзүн <ph name="SITE" /> катары көрсөткөнгө аракет кылып жатканда же Wi-Fi'дын кирүү экраны туташууну үзгүлтүккө учуратканда орун алышы мүмкүн. Chrome дайын-даректер алмашылганга чейин туташууну үзүп койгондуктан, маалыматыңыздын коопсуздугу бузулган жок.</translation>
+<translation id="6754677106668042373"><ph name="SITE" /> маалыматыңызды коргоо үчүн шифрлөөнү колдонот. WEB3 DNA Browser бул жолу <ph name="SITE" /> сайтына туташууга аракет кылганда, вебсайт адаттан тышкары жана туура эмес эсептик дайындарды жөнөттү. Бул чабуулчу өзүн <ph name="SITE" /> катары көрсөткөнгө аракет кылып жатканда же Wi-Fi'дын кирүү экраны туташууну үзгүлтүккө учуратканда орун алышы мүмкүн. WEB3 DNA Browser дайын-даректер алмашылганга чейин туташууну үзүп койгондуктан, маалыматыңыздын коопсуздугу бузулган жок.</translation>
 <translation id="2915068235268646559">Бузулуу жөнүндө кабар саат <ph name="CRASH_TIME" /> алынды</translation>
 <translation id="2915496182262110498">Сүрөт тартуу</translation>
 <translation id="2916038427272391327">Башка программаларды жабыңыз</translation>
@@ -766,7 +766,7 @@
 <translation id="2943895734390379394">Жүктөп берүү убакыты:</translation>
 <translation id="2945026002409061480">Интернет коомдоштуктары</translation>
 <translation id="2948083400971632585">Жөндөөлөр бетинен туташат деп конфигурацияланган бардык проксилерди өчүрүп койсоңуз болот.</translation>
-<translation id="2949183777371959169">Машина Chrome серепчисинин Булуттан башкаруу тутумунда катталган эмес болгондуктан этибарга алынган жок.</translation>
+<translation id="7786089409521529641">Машина WEB3 DNA Browser серепчисинин Булуттан башкаруу тутумунда катталган эмес болгондуктан этибарга алынган жок.</translation>
 <translation id="2951588413176968965">Электрондук каттар кутум</translation>
 <translation id="2952820037279740115">Бардык жашыруун терезелерди жабуу</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -780,7 +780,7 @@
 <translation id="2977665033722899841">Учурда <ph name="ROW_NAME" /> тандалган. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Опера</translation>
 <translation id="2983666748527428214">Жашыруун өтмөктү ачуу</translation>
-<translation id="2985306909656435243">Эгер иштетилсе, форманы тезирээк толтуруу үчүн карточкаңыздын көчүрмөсүн Chromium ушул түзмөккө сактап коёт.</translation>
+<translation id="6458065442802745995">Эгер иштетилсе, форманы тезирээк толтуруу үчүн карточкаңыздын көчүрмөсүн WEB3 DNA Browser ушул түзмөккө сактап коёт.</translation>
 <translation id="2985398929374701810">Дарегин туура киргизиңиз</translation>
 <translation id="2986368408720340940">Алып кетүүнүн мындай ыкмасы мүмкүн эмес. Башка ыкмасын байкап көрүңүз.</translation>
 <translation id="2987034854559945715">Дал келген функциялар жок</translation>
@@ -802,7 +802,7 @@
 <translation id="3037177537145227281">Баасына көз салуу</translation>
 <translation id="3037605927509011580">Атаңдын көрү!</translation>
 <translation id="3041612393474885105">Тастыктама маалыматы</translation>
-<translation id="305162504811187366">Chrome Алыскы иштактанын таржымалы, анын ичинде убакыт белгилери, хосттор жана кардарлардын сеанстарынын идентификаторлору</translation>
+<translation id="6009592758194948058">WEB3 DNA Browser Алыскы иштактанын таржымалы, анын ичинде убакыт белгилери, хосттор жана кардарлардын сеанстарынын идентификаторлору</translation>
 <translation id="3052964831964880138"><ph name="PRODUCT_NAME" /> <ph name="PRICE_DROP" /> арзандайт</translation>
 <translation id="3061707000357573562">Оңдоо кызматы</translation>
 <translation id="306573536155379004">Оюн башталды.</translation>
@@ -850,7 +850,7 @@
 <translation id="3194737229810486521"><ph name="URL" /> түзмөгүңүзгө дайындарды биротоло сактаганы жатат</translation>
 <translation id="3195213714973468956"><ph name="SERVER_NAME" /> сервериндеги <ph name="PRINTER_NAME" /></translation>
 <translation id="3197136577151645743">Түзмөктү активдүү колдонуп жатканыңыз тууралуу маалыматты сурай алат</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome жөндөөлөрүнөн шайкештирилген маалыматты башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser жөндөөлөрүнөн шайкештирилген маалыматты башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="320323717674993345">Төлөмдү жокко чыгаруу</translation>
 <translation id="3203366800380907218">Интернеттен алынды</translation>
 <translation id="3207960819495026254">Кыстармаланды</translation>
@@ -874,7 +874,7 @@
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, серепчинин көрүнүшүн ыңгайлаштыруу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="3240791268468473923">Коопсуз төлөө үчүн дал келбеген эсептик дайындар барагы ачылды</translation>
 <translation id="324180406144491771">"<ph name="HOST_NAME" />" шилтемелери бөгөттөлдү</translation>
-<translation id="3248611290851046188">Бул сайт кызыккан нерселериңизди аныктап, ал аркылуу башка сайттар сизге ылайыктуу жарнамаларды көрсөтө алат. Ошондой эле, бул сайт Сhrome'дон кызыккан нерселериңиз тууралуу маалымат алып, сизге ылайыктуу жарнамаларды көрсөтүп турат.</translation>
+<translation id="8141792378421105106">Бул сайт кызыккан нерселериңизди аныктап, ал аркылуу башка сайттар сизге ылайыктуу жарнамаларды көрсөтө алат. Ошондой эле, бул сайт Сhrome'дон кызыккан нерселериңиз тууралуу маалымат алып, сизге ылайыктуу жарнамаларды көрсөтүп турат.</translation>
 <translation id="3249151924975132674">Студенттик насыялар жана колледжди каржылоо</translation>
 <translation id="3249845759089040423">Көркөм</translation>
 <translation id="3250640885957938546">Жарнама жана маркетинг</translation>
@@ -884,7 +884,7 @@
 <translation id="3256863843508922226">Пенсия</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, Google Жылнаамада жаңы иш-чараны тез түзүү Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="3261488570342242926">Виртуалдык карталар жөнүндө маалымат алыңыз</translation>
-<translation id="3264837738038045344">"Chrome жөндөөлөрүн башкаруу" баскычы, Chrome жөндөөлөрүнө баш багуу үчүн Enter баскычын басыңыз</translation>
+<translation id="3264837738038045344">"WEB3 DNA Browser жөндөөлөрүн башкаруу" баскычы, WEB3 DNA Browser жөндөөлөрүнө баш багуу үчүн Enter баскычын басыңыз</translation>
 <translation id="3266793032086590337">Маани (карама-каршы)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Бир да сайт, анын ичинде байланыштырылган сайттар бөгөттөлгөн жок}=1{1 сайт, анын ичинде байланыштырылган сайттар бөгөттөлдү}other{# сайт, анын ичинде байланыштырылган сайттар бөгөттөлдү}}</translation>
 <translation id="3268451620468152448">Ачык өтмөктөр</translation>
@@ -898,7 +898,7 @@
 <translation id="3287510313208355388">Интернетке туташканда жүктөлүп алынсын</translation>
 <translation id="3288238092761586174">Төлөмүңүздү ырастоо үчүн <ph name="URL" /> кошумча кадамдарды аткарышы керек</translation>
 <translation id="3293642807462928945"><ph name="POLICY_NAME" /> саясаты жөнүндө кеңири маалымат</translation>
-<translation id="3295444047715739395">Сырсөздөрүңүздү Chrome'дун жөндөөлөрүндө көрүп, башкарыңыз</translation>
+<translation id="3295444047715739395">Сырсөздөрүңүздү WEB3 DNA Browser'дун жөндөөлөрүндө көрүп, башкарыңыз</translation>
 <translation id="3299098170013242198">Сырсөздөрдү толтуруу үчүн Windows Hello күйгүзүлдү</translation>
 <translation id="3303176609391916566">30 x 42 дюйм</translation>
 <translation id="3303855915957856445">Эч нерсе табылган жок</translation>
@@ -928,9 +928,9 @@
 <translation id="3366477098757335611">Карталарды көрүү</translation>
 <translation id="3369192424181595722">Саат катасы</translation>
 <translation id="3369459162151165748">Унаанын тетиктери жана аксессуарлары</translation>
-<translation id="3371064404604898522">Chrome'ду демейки серепчи катары коюу</translation>
+<translation id="3371064404604898522">WEB3 DNA Browser'ду демейки серепчи катары коюу</translation>
 <translation id="337363190475750230">Чыгарылды</translation>
-<translation id="3375754925484257129">Chrome'дун коопсуздугун текшерүү</translation>
+<translation id="3375754925484257129">WEB3 DNA Browser'дун коопсуздугун текшерүү</translation>
 <translation id="3377144306166885718">Сервер TLS'тин жоюлган версиясын колдонду.</translation>
 <translation id="3377188786107721145">Саясатты талдоо катасы</translation>
 <translation id="3377736046129930310">Карталарды тезирээк ырастоо үчүн экрандын кулпусун колдонуңуз</translation>
@@ -954,7 +954,7 @@
 <translation id="3423742043356668186">Тутум белгиленди</translation>
 <translation id="3427092606871434483">Уруксат берүү (демейки)</translation>
 <translation id="3427342743765426898">Түзөтүүнү &amp;кайталоо</translation>
-<translation id="342781501876943858">Сырсөзүңүздү башка сайттарда колдонгон болсоңуз, Chromium аны өзгөртүүнү сунуштайт.</translation>
+<translation id="6443314628900752956">Сырсөзүңүздү башка сайттарда колдонгон болсоңуз, WEB3 DNA Browser аны өзгөртүүнү сунуштайт.</translation>
 <translation id="3428151540071562330">Бир же бир нече DnsOverHttpsTemplates серверлериндеги URI даректеринин үлгүлөрү жараксыз жана колдонулбайт.</translation>
 <translation id="3431216045099978607">Толук экран режиминен чыгып, жүктөлүп алынган файлды көрүү үчүн |<ph name="ACCELERATOR" />| баскычын басыңыз.</translation>
 <translation id="3431636764301398940">Бул карточка ушул түзмөктө сакталсын</translation>
@@ -976,14 +976,14 @@
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Учурда ачылып турган бардык Жашыруун терезелерди жабуу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="3477679029130949506">Кинолордун тизмеси жана театрдын көрсөтүү убактысы</translation>
 <translation id="3479552764303398839">Азыр эмес</translation>
-<translation id="3484560055331845446">Кимдир бирөө Google аккаунтуңузга кирип алган окшойт. Chrome сырсөзүңүздү азыр өзгөртүүнү сунуштайт. Аккаунтуңузга кайра киришиңиз керек болот.</translation>
+<translation id="2148205384604312372">Кимдир бирөө Google аккаунтуңузга кирип алган окшойт. WEB3 DNA Browser сырсөзүңүздү азыр өзгөртүүнү сунуштайт. Аккаунтуңузга кайра киришиңиз керек болот.</translation>
 <translation id="3484861421501147767">Эстеткич: Сакталган промокод жеткиликтүү</translation>
 <translation id="3487845404393360112">4-түпкүч</translation>
 <translation id="3495081129428749620"><ph name="PAGE_TITLE" /> барагынан табуу</translation>
 <translation id="350069200438440499">Файлдын аталышы:</translation>
 <translation id="3507936815618196901">Айланаңыздын 3D картасын түзүү же камераңыздын абалына көз салуу</translation>
 <translation id="3512163584740124171">Ушул эле саясаттар тобундагы башка саясаттын мааниси артыкчылыктуу болгондуктан, бул саясат этибарга алынбайт.</translation>
-<translation id="35172538073169599">Даректерди башкаруу баскычы, Chrome жөндөөлөрүнөн даректерди кошуу жана башкаруу үчүн Enter баскычын басыңыз</translation>
+<translation id="35172538073169599">Даректерди башкаруу баскычы, WEB3 DNA Browser жөндөөлөрүнөн даректерди кошуу жана башкаруу үчүн Enter баскычын басыңыз</translation>
 <translation id="3518941727116570328">Бир нече объектти тейлөө</translation>
 <translation id="3525130752944427905">10 x 14 дюйм</translation>
 <translation id="3528171143076753409">Сервердин тастыктамасы ишенимдүү эмес.</translation>
@@ -1010,7 +1010,7 @@
 <translation id="3576616784287504635"><ph name="SITE" /> сайтында кыстарылган баракча мындай дейт:</translation>
 <translation id="3577473026931028326">Бир жерден ката кетти. Кайталап көрүңүз.</translation>
 <translation id="3577902790357386792">Гимнастика</translation>
-<translation id="3581089476000296252">Бул барак даяр болгондо, Chrome сизге кабарлап коёт. &lt;a&gt;Баш тартуу&lt;/a&gt;</translation>
+<translation id="8000957821693253206">Бул барак даяр болгондо, WEB3 DNA Browser сизге кабарлап коёт. &lt;a&gt;Баш тартуу&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Ысым кошуу</translation>
 <translation id="3583757800736429874">Жылдырууну &amp;кайталоо</translation>
 <translation id="3584299510153766161">Төмөн жагын бир нече жолу тешүү</translation>
@@ -1025,7 +1025,7 @@
 <translation id="3611317423880285981">Үй буюмдары</translation>
 <translation id="3614103345592970299">Өлчөмү: 2</translation>
 <translation id="361438452008624280">Тизмедеги жазуу "<ph name="LANGUAGE_ID" />": Белгисиз же колдоого алынбаган тил.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome жөндөөлөрүнөн коопсуздукту текшерүү үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser жөндөөлөрүнөн коопсуздукту текшерүү үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="3615877443314183785">Мөөнөтү аяктоочу күндү туура киргизиңиз</translation>
 <translation id="36224234498066874">Серептөө дайындарын тазалоо…</translation>
 <translation id="362276910939193118">Толук таржымалды көрсөтүү</translation>
@@ -1036,9 +1036,9 @@
 <translation id="3631244953324577188">Биометрика</translation>
 <translation id="3632503704576938756">Экран бөлүшүү улантылды</translation>
 <translation id="3632892046558972264">Экран бөлүшүү тындырылды</translation>
-<translation id="3633738897356909127">Chrome'ду жаңыртуу баскычы. Chrome жөндөөлөрүңүздөн Chrome'ду жаңыртуу үчүн, Enter баскычын басыңыз</translation>
+<translation id="3633738897356909127">WEB3 DNA Browser'ду жаңыртуу баскычы. WEB3 DNA Browser жөндөөлөрүңүздөн WEB3 DNA Browser'ду жаңыртуу үчүн, Enter баскычын басыңыз</translation>
 <translation id="3634530185120165534">5-түпкүч</translation>
-<translation id="3634567936866541746">Сырсөзүңүздү жаңы эле кооптуу сайтта киргиздиңиз. Аккаунттарыңызды коргоо үчүн Chrome сакталган сырсөздөрүңүздү текшерүүнү сунуштайт.</translation>
+<translation id="6586777830476909681">Сырсөзүңүздү жаңы эле кооптуу сайтта киргиздиңиз. Аккаунттарыңызды коргоо үчүн WEB3 DNA Browser сакталган сырсөздөрүңүздү текшерүүнү сунуштайт.</translation>
 <translation id="3642638418806704195">Колдонмо:</translation>
 <translation id="3647286794400715637">Ар бир URL сабында 1–2 URL дареги болушу керек.</translation>
 <translation id="3650584904733503804">Жарактуулугу ийгиликтүү текшерилди</translation>
@@ -1081,7 +1081,7 @@
 <translation id="3740319564441798148">Алыскы жолдук автобус жана темир жол</translation>
 <translation id="3744111561329211289">Фонду шайкештирүү</translation>
 <translation id="3744286742364977428">Сиз жүктөп алган файлдар Google Булутка же үчүнчү тараптын кызматтарына талдоо үчүн жөнөтүлөт. Мисалы, аларда купуя маалыматтын же кесепеттүү программанын болуусу текшерилип, компаниянын саясаттарынын негизинде сакталышы мүмкүн.</translation>
-<translation id="3744899669254331632">Учурда <ph name="SITE" /> сайтына кире албайсыз, анткени вебсайт Chromium иштете албаган шифрленген далдаштырма дайындарды жөнөттү. Адатта тармактагы каталар жана чабуулдар убактылуу көрүнүш болгондуктан, бул баракча кийинчерээк иштеп калышы мүмкүн.</translation>
+<translation id="3461179235677384837">Учурда <ph name="SITE" /> сайтына кире албайсыз, анткени вебсайт WEB3 DNA Browser иштете албаган шифрленген далдаштырма дайындарды жөнөттү. Адатта тармактагы каталар жана чабуулдар убактылуу көрүнүш болгондуктан, бул баракча кийинчерээк иштеп калышы мүмкүн.</translation>
 <translation id="3745099705178523657">Сиз ырастагандан кийин, Google аккаунтуңуздагы картанын реквизиттери бул сайтка жөнөтүлөт.</translation>
 <translation id="3748148204939282805"><ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> сайтындагы чабуулчулар программа орнотуп же сырсөздөр, телефон номерлери жана насыя карталарынын дайындары сыяктуу жеке маалыматыңызды уурдашы мүмкүн. <ph name="BEGIN_LEARN_MORE_LINK" />Кеңири маалымат<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Авиация индустриясы</translation>
@@ -1200,7 +1200,7 @@
 <translation id="4097288585054919042">Эскертүүлөрдү өчүрүү</translation>
 <translation id="4098354747657067197">Алдыда жалган сайт</translation>
 <translation id="4099048595830172239">Купуя мазмун көрүнүп турганда, администратор экраныңызды <ph name="APPLICATION_TITLE" /> менен бөлүшүүнү сунуштабайт:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'до ариптерди жана алардын өлчөмүн ыңгайлаштыруу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'до ариптерди жана алардын өлчөмүн ыңгайлаштыруу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="4101413244023615925">Текст жана графика</translation>
 <translation id="410148943680000050">Иш такта басып чыгаруу ыкмасы</translation>
 <translation id="4103249731201008433">Түзмөктүн сериялык номери жараксыз</translation>
@@ -1252,7 +1252,7 @@
 <translation id="4214357935346142455">кирүү экранынын профили</translation>
 <translation id="4220128509585149162">Кыйроолор</translation>
 <translation id="422022731706691852"><ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> сайтындагы чабуулчулар сизди алдап (мисалы, башкы бетиңизди өзгөртүп же кирген сайттарыңызда кошумча жарнамаларды көрсөтүп), серептөө тажрыйбаңызга зыян келтирүүчү программаларды орнотууга аракет кылышы мүмкүн. <ph name="BEGIN_LEARN_MORE_LINK" />Кеңири маалымат<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;1-кадам: Порталга кириңиз&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;1-кадам: Порталга кириңиз&lt;/h4&gt;
     &lt;p&gt;Кафе же аэропорт сыяктуу жерлердеги Wi-Fi тармактарын колдонуу үчүн алардын вебсайтына кирүү талап кылынат. Кирүү барагына өтүү үчүн &lt;code&gt;http://&lt;/code&gt; деп башталган веб-баракчага кириңиз.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;&lt;code&gt;http://&lt;/code&gt; деп башталган каалаган вебсайтка өтсөңүз болот. Мисалы, &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1260,11 +1260,11 @@
     &lt;/ol&gt;
     &lt;h4&gt;2-кадам: Баракты жашыруун режимде (компьютерде гана) ачыңыз&lt;/h4&gt;
     &lt;p&gt;Баракты жашыруун режимде ачыңыз.&lt;/p&gt;
-    &lt;p&gt;Эгер баракча ачылса, Chrome кеңейтүүсү туура эмес иштеп жатканын билдирет. Бул катаны оңдоо үчүн кеңейтүүнү өчүрүңүз.&lt;/p&gt;
+    &lt;p&gt;Эгер баракча ачылса, WEB3 DNA Browser кеңейтүүсү туура эмес иштеп жатканын билдирет. Бул катаны оңдоо үчүн кеңейтүүнү өчүрүңүз.&lt;/p&gt;
     &lt;h4&gt;3-кадам: Операциялык тутумду жаңыртыңыз&lt;/h4&gt;
     &lt;p&gt;Түзмөгүңүз жаңыртылганын текшериңиз.&lt;/p&gt;
     &lt;h4&gt;4-кадам: Антивирусту убактылуу өчүрүп коюңуз&lt;/h4&gt;
-    &lt;p&gt;Бул катаны "HTTPS коргоо" же "HTTPS скандоо" менен камсыздаган антивирус программаңыз бар болсо көрөсүз. Антивирус Chrome'ду коопсуздук менен камсыздоодон бөгөттөйт.&lt;/p&gt;
+    &lt;p&gt;Бул катаны "HTTPS коргоо" же "HTTPS скандоо" менен камсыздаган антивирус программаңыз бар болсо көрөсүз. Антивирус WEB3 DNA Browser'ду коопсуздук менен камсыздоодон бөгөттөйт.&lt;/p&gt;
     &lt;p&gt;Көйгөйдү чечүү үчүн антивирус программаңызды өчүрүңүз. Бул программаны өчүргөндөн кийин барак иштесе, коопсуз сайттарды колдонгон сайын бул программаны өчүрүп туруңуз.&lt;/p&gt;
     &lt;p&gt;Бүткөндөн кийин антивирус программаңызды кайра күйгүзүүнү унутпаңыз.&lt;/p&gt;
     &lt;h4&gt;5-кадам: Кошумча жардам алыңыз&lt;/h4&gt;
@@ -1300,7 +1300,7 @@
 <translation id="4305666528087210886">Файл ачылбай койду</translation>
 <translation id="4306529830550717874">Дарек сакталсынбы?</translation>
 <translation id="4306812610847412719">алмашуу буфери</translation>
-<translation id="4308567447483056043">Колдонуучунун тиешеси жок болгондуктан, саясат этибарга алынган жок. Бул саясатты колдонуу үчүн Chrome серепчиси жана профиль бир эле уюмга таандык Администратордун консолу тарабынан тескелиши керек.</translation>
+<translation id="3323451588703398074">Колдонуучунун тиешеси жок болгондуктан, саясат этибарга алынган жок. Бул саясатты колдонуу үчүн WEB3 DNA Browser серепчиси жана профиль бир эле уюмга таандык Администратордун консолу тарабынан тескелиши керек.</translation>
 <translation id="4310070645992025887">Саякаттарыңызды издеңиз</translation>
 <translation id="4310496734563057511">Эгер бул түзмөктү башкалар менен бөлүшүп колдонсоңуз, сакталган сырсөздү колдонуп жаткан сиз экениңизди ырастоо үчүн Windows Hello функциясын күйгүзүңүз</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1316,8 +1316,8 @@
 <translation id="4331519897422864041">5-төшөгүч</translation>
 <translation id="4331708818696583467">Коопсуз эмес</translation>
 <translation id="4333561522337981382">Бардык экрандардагы терезелерди тескөө</translation>
-<translation id="4340575312453649552">Бул жарнама түзмөгүңүздүн ресурстарын ашыкча колдонуп жаткандыктан Chrome аны өчүрүп койду.</translation>
-<translation id="4340982228985273705">Бул компьютер ишкана тарабынан башкарылбаганы аныкталды, андыктан саясат Chrome Желе дүкөнүндө жайгашкан кеңейтүүлөрдү гана автоматтык түрдө орното алат. Chrome Желе дүкөнүн жаңыртуучу URL: "<ph name="CWS_UPDATE_URL" />".</translation>
+<translation id="3964216933844012257">Бул жарнама түзмөгүңүздүн ресурстарын ашыкча колдонуп жаткандыктан WEB3 DNA Browser аны өчүрүп койду.</translation>
+<translation id="2218799635675752219">Бул компьютер ишкана тарабынан башкарылбаганы аныкталды, андыктан саясат WEB3 DNA Browser Желе дүкөнүндө жайгашкан кеңейтүүлөрдү гана автоматтык түрдө орното алат. WEB3 DNA Browser Желе дүкөнүн жаңыртуучу URL: "<ph name="CWS_UPDATE_URL" />".</translation>
 <translation id="4346197816712207223">Кабыл алынган насыя карточкалары</translation>
 <translation id="4348834659292907206"><ph name="SITE" /> сайты менен туташуу кооптуу</translation>
 <translation id="4349365535725594680">Купуя мазмун бөлүшүлбөй жатат</translation>
@@ -1328,7 +1328,7 @@
 <translation id="4356973930735388585">Бул сайттагы бүлдүргүчтөр түзмөгүңүздөгү маалыматыңызды (мисалы, сүрөттөр, сырсөздөр, билдирүүлөр жана насыя карталары) уурдап же жок кыла турган коркунучтуу программаларды орнотууга аракет кылышы мүмкүн.</translation>
 <translation id="4358059973562876591">Сиз көрсөткөн үлгүлөрдү колдонууга болбойт, анткени DnsOverHttpsMode саясатында ката кетти.</translation>
 <translation id="4358461427845829800">Төлөм ыкмаларын башкаруу...</translation>
-<translation id="4359160567981085931">Сырсөзүңүздү жаңы эле адаштыруучу сайтта киргиздиңиз. Chrome жардам берет. Сырсөзүңүздү өзгөртүү жана аккаунтуңуздун коопсуздугу коркунучта экенин Google'га кабарлоо үчүн "Аккаунттун коопсуздугун коргоо" баскычын басыңыз.</translation>
+<translation id="4550052488331606118">Сырсөзүңүздү жаңы эле адаштыруучу сайтта киргиздиңиз. WEB3 DNA Browser жардам берет. Сырсөзүңүздү өзгөртүү жана аккаунтуңуздун коопсуздугу коркунучта экенин Google'га кабарлоо үчүн "Аккаунттун коопсуздугун коргоо" баскычын басыңыз.</translation>
 <translation id="4363222835916186793">Бул товар боюнча эскертүүлөр өчүрүлдү</translation>
 <translation id="437040971055499437">Коопсуздук иш-чарасы аныкталды</translation>
 <translation id="4372948949327679948">Күтүлгөн <ph name="VALUE_TYPE" /> мааниси.</translation>
@@ -1345,7 +1345,7 @@
 <translation id="4411435778612100394">Тиричилик электротехникасы</translation>
 <translation id="4414515549596849729">cookie файлдары жана сайттын маалыматы</translation>
 <translation id="4415426530740016218">Алып кете турган жердин дарегин тандоо</translation>
-<translation id="4424024547088906515">Бул сервер <ph name="DOMAIN" /> экендигин далилдей алган жок; себеби Chrome анын коопсуздук тастыктамасына ишенбейт. Мындай көйгөй туура эмес конфигурация менен шартталышы мүмкүн же туташууңузга чабуулчу кийлигишип жатат.</translation>
+<translation id="7486060888782747880">Бул сервер <ph name="DOMAIN" /> экендигин далилдей алган жок; себеби WEB3 DNA Browser анын коопсуздук тастыктамасына ишенбейт. Мындай көйгөй туура эмес конфигурация менен шартталышы мүмкүн же туташууңузга чабуулчу кийлигишип жатат.</translation>
 <translation id="4428065317363009941">Жарнамаларды жекелештирүү</translation>
 <translation id="443121186588148776">Сериялык порт</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> сайты кирүү тастыктамаңызды кабыл алган жок же тастыктама көрсөтүлгөн эмес окшойт.</translation>
@@ -1369,7 +1369,7 @@
 <translation id="4489023393592172404">Конверт Каку 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Шайкештирилген сырсөздөрдү Google аккаунтуңуз менен шифрлеңиз</translation>
-<translation id="4492519888999857993">Бул шарттар демейки катары өчүрүлгөн. Алар Chrome'дун жаңы версияларында колдонулбай калат.</translation>
+<translation id="5711551727888568041">Бул шарттар демейки катары өчүрүлгөн. Алар WEB3 DNA Browser'дун жаңы версияларында колдонулбай калат.</translation>
 <translation id="4493480324863638523">Жараксыз URL. URL дареги стандарттык үлгүдө болушу керек, мис., http://example.com же https://example.com.</translation>
 <translation id="4500587658229086076">кооптуу мазмун</translation>
 <translation id="4506176782989081258">Жарактуулугун текшерүү катасы: <ph name="VALIDATION_ERROR" /></translation>
@@ -1377,7 +1377,7 @@
 <translation id="450710068430902550">Администратор менен бөлүшүү</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />. Бул баракты Google Котормочу менен которуу үчүн, Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="4514308731478712184">Саякаттарды өчүрүү</translation>
-<translation id="4515275063822566619">Карточкалар жана даректер Chrome’дон жана Google аккаунтуңуздан (<ph name="ACCOUNT_EMAIL" />) алынган. Аларды <ph name="BEGIN_LINK" />Жөндөөлөрдөн<ph name="END_LINK" /> башкарсаңыз болот.</translation>
+<translation id="3850866307128304430">Карточкалар жана даректер WEB3 DNA Browser’дон жана Google аккаунтуңуздан (<ph name="ACCOUNT_EMAIL" />) алынган. Аларды <ph name="BEGIN_LINK" />Жөндөөлөрдөн<ph name="END_LINK" /> башкарсаңыз болот.</translation>
 <translation id="4520048001084013693">Бул файлды жүктөп алуу аракети администраторуңуздун саясаты менен бөгөттөлгөн</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> мм (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Конверт Монарх</translation>
@@ -1393,10 +1393,10 @@
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Кеңейтүүлөрүңүздү өчүрүп көрүңүз.</translation>
 <translation id="4566017918361049074">Ачык абада</translation>
-<translation id="4567686777917670400">Администраторуңуз серепчини алыстан жөндөй алат. Бул түзмөктө аткарылган аракеттер Chromium'дан тышкары да башкарылышы мүмкүн. <ph name="BEGIN_LINK" />Кеңири маалымат<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Администраторуңуз серепчини алыстан жөндөй алат. Бул түзмөктө аткарылган аракеттер WEB3 DNA Browser'дан тышкары да башкарылышы мүмкүн. <ph name="BEGIN_LINK" />Кеңири маалымат<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Жеткирүү</translation>
 <translation id="4582204425268416675">Картаны алып салуу</translation>
-<translation id="4587425331216688090">Дарек Chrome'дон алынып салынсынбы?</translation>
+<translation id="4549859745110415735">Дарек WEB3 DNA Browser'дон алынып салынсынбы?</translation>
 <translation id="459089498662672729">Администратор <ph name="ORIGIN_NAME" /> сайтынан бул жерге чаптоону сунуштабайт</translation>
 <translation id="4592951414987517459"><ph name="DOMAIN" /> менен туташууңуз заманбап шифр топтому менен шифрленген.</translation>
 <translation id="4594403342090139922">Жок кылууну &amp;жасабоо</translation>
@@ -1405,17 +1405,17 @@
 <translation id="4600084978141515058">Вегетариандык ашкана</translation>
 <translation id="4602465984861132303">Боулинг</translation>
 <translation id="4606870351894164739">Таасирлүү</translation>
-<translation id="4607603470419975064">Chrome'догу кеңештерди көрүү баскычы. Chrome'догу функциялар жөнүндө толук маалымат алуу үчүн Enter баскычтарын басыңыз</translation>
-<translation id="4607608436550361748">Chrome'дун кеңештерин көрүү</translation>
+<translation id="4607603470419975064">WEB3 DNA Browser'догу кеңештерди көрүү баскычы. WEB3 DNA Browser'догу функциялар жөнүндө толук маалымат алуу үчүн Enter баскычтарын басыңыз</translation>
+<translation id="4607608436550361748">WEB3 DNA Browser'дун кеңештерин көрүү</translation>
 <translation id="4610279718074907952">Бул сайт <ph name="SET_OWNER" /> аныктаган топко кирип, ал аракеттериңизди көрүп турат</translation>
 <translation id="4617273035598175554">Графика жана анимация программасы</translation>
 <translation id="4622292761762557753">Баары бир өткөрүлсүн</translation>
-<translation id="4627675673814409125">Бул саясат Chrome профилинин деңгээлинде туураланбайт жана четке кагылат.</translation>
+<translation id="6607050922769407881">Бул саясат WEB3 DNA Browser профилинин деңгээлинде туураланбайт жана четке кагылат.</translation>
 <translation id="4628948037717959914">Сүрөт</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Кешбэк байланыштырылды</translation>
 <translation id="4636930964841734540">Маалымат</translation>
-<translation id="4638670630777875591">Chromium'дагы жашыруун өтмөк</translation>
+<translation id="9064160697734393810">WEB3 DNA Browser'дагы жашыруун өтмөк</translation>
 <translation id="464342062220857295">Функцияларды издөө</translation>
 <translation id="4644670975240021822">Тескери иретте алдыңкы бетин ылдый каратып</translation>
 <translation id="4646534391647090355">Азыр көрүнсүн</translation>
@@ -1453,7 +1453,7 @@
 <translation id="4731638775147756694">Бул колдонмо администраторуңуз тарабынан бөгөттөлдү</translation>
 <translation id="4733082559415072992"><ph name="URL" /> түзмөгүңүздүн жайгашкан жерин пайдаланганы жатат</translation>
 <translation id="4736491186715342415">Автотранспорттор</translation>
-<translation id="4736825316280949806">Chromium’ду өчүрүп-күйгүзүңүз</translation>
+<translation id="1624940062651381269">WEB3 DNA Browser’ду өчүрүп-күйгүзүңүз</translation>
 <translation id="4736934858538408121">Виртуалдык карта</translation>
 <translation id="473775607612524610">Жаңыртуу</translation>
 <translation id="4738601419177586157"><ph name="TEXT" /> издөө сунушу</translation>
@@ -1467,10 +1467,10 @@
 <translation id="4754461935447132332">Кооптуу сайттарда тыюу салынат</translation>
 <translation id="4756388243121344051">&amp;Таржымал</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Сырсөзүңүздү жаңы эле кооптуу сайтта киргиздиңиз. Аккаунттарыңызды коргоо үчүн Chromium сакталган сырсөздөрүңүздү текшерүүнү сунуштайт.</translation>
+
 <translation id="4758311279753947758">Байланыш маалыматын кошуу</translation>
 <translation id="4761104368405085019">Микрофонуңузду колдонуңуз</translation>
-<translation id="4761869838909035636">Chrome'дун коопсуздугун текшерүү</translation>
+<translation id="2178430137592069173">WEB3 DNA Browser'дун коопсуздугун текшерүү</translation>
 <translation id="4764776831041365478"><ph name="URL" /> дарегиндеги веб-баракча убактылуу иштебейт же жаңы веб дарекке биротоло көчүрүлгөн окшойт.</translation>
 <translation id="4766713847338118463">Төмөн жагын эки жолу илмек менен бекитүү</translation>
 <translation id="4771973620359291008">Белгисиз ката кетти.</translation>
@@ -1501,7 +1501,7 @@
 <translation id="4834250788637067901">Google Pay'ди колдонгон төлөм ыкмалары, сунуштар жана даректер</translation>
 <translation id="4838327282952368871">Кыялкеч</translation>
 <translation id="4839087176073128681">Эмки жолу тез төлөп, картаңыздын коопсуздугун Google'дун жаңы технологиялары менен коргоңуз.</translation>
-<translation id="4840250757394056958">Chrome'до көрүлгөн вебсайттарды көрүү</translation>
+<translation id="4840250757394056958">WEB3 DNA Browser'до көрүлгөн вебсайттарды көрүү</translation>
 <translation id="484462545196658690">Авто</translation>
 <translation id="484671803914931257"><ph name="MERCHANT_NAME" /> сайтынан жана башкалардан арзандатуу алыңыз</translation>
 <translation id="484988093836683706">Түзмөктүн кулпусун ачууну колдонуу</translation>
@@ -1543,7 +1543,7 @@
 <translation id="4934780484581617878">Терезени тескөө</translation>
 <translation id="4936134414789135531">Киргизилген <ph name="VALUE_NAME" /> табылган жок.</translation>
 <translation id="4936675324097895694">Каржы</translation>
-<translation id="4940163644868678279">Chrome'догу жашыруун өтмөк</translation>
+
 <translation id="4943872375798546930">Натыйжалар жок</translation>
 <translation id="4943933359574417591">SMS жана заматта кабарлашуу</translation>
 <translation id="4950898438188848926">Өтмөктү которуштуруу баскычы. Ачык өтмөккө өтүү үчүн "Enter" баскычын басыңыз, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1566,7 +1566,7 @@
 <translation id="4995216769782533993">Картаңыздын чоо-жайын бул сайт менен бөлүшүү үчүн коопсуздук кодун ырастаңыз</translation>
 <translation id="4995474875135717171">Өзгөрүлгөн күнү:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, сайттан издөө жана демейки издөө каражатын башкаруу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
-<translation id="5002932099480077015">Эгер иштетилсе, форманы тезирээк толтуруу үчүн карточкаңыздын көчүрмөсүн Chrome ушул түзмөккө сактап коёт.</translation>
+
 <translation id="5011561501798487822">Аныкталган тил</translation>
 <translation id="5015510746216210676">Компьютердин аталышы:</translation>
 <translation id="5017554619425969104">Сиз көчүргөн текст</translation>
@@ -1575,7 +1575,7 @@
 <translation id="5018802455907704660">16 x 20 дюйм</translation>
 <translation id="5019198164206649151">Фондук сактагыч начар абалда</translation>
 <translation id="5020776957610079374">Дүйнөлүк музыка</translation>
-<translation id="5021557570875267742">Бааларга Chrome менен көз салуу</translation>
+<translation id="4735860266347344416">Бааларга WEB3 DNA Browser менен көз салуу</translation>
 <translation id="5023310440958281426">Администраторуңуздун саясаттарын текшериңиз</translation>
 <translation id="5029568752722684782">Көчүрмөнү тазалоо</translation>
 <translation id="5030338702439866405">Ким берген</translation>
@@ -1608,7 +1608,7 @@
 <translation id="5087580092889165836">Карточка кошуу</translation>
 <translation id="5088142053160410913">Операторго билдирүү</translation>
 <translation id="5093232627742069661">Z формасында бүктөө</translation>
-<translation id="5094747076828555589">Бул сервер <ph name="DOMAIN" /> экендигин далилдей алган жок; себеби Chromium коопсуздук тастыктамасына ишенбейт. Мындай көйгөй туура эмес конфигурация менен шартталышы мүмкүн же туташууңузга чабуулчу кийлигишип жатат.</translation>
+
 <translation id="5097099694988056070">Процессордун же оперативдик эстутумдун колдонулушу сыяктуу түзмөктүн статистикасы</translation>
 <translation id="5097468150760963273">27 x 39 дюйм</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1642,7 +1642,7 @@
 <translation id="5161506081086828129">9-төшөгүч</translation>
 <translation id="5164798890604758545">Текст киргизилди</translation>
 <translation id="516920405563544094"><ph name="CREDIT_CARD" /> картаңыздын CVC кодун киргизиңиз. Сиз ырастагандан кийин, Google аккаунтуңуздагы картанын реквизиттери бул сайтка жөнөтүлөт.</translation>
-<translation id="5169827969064885044">Кимдир бирөө сиздин жеке дайындарыңызга же уюмуңуздун аккаунтуна кирип алган окшойт. Chrome сырсөзүңүздү азыр өзгөртүүнү сунуштайт.</translation>
+
 <translation id="5171045022955879922">URL издеңиз же териңиз</translation>
 <translation id="5172758083709347301">Шайман</translation>
 <translation id="5177076414499237632">Бул барактын булагы жана темасы жөнүндө маалымат алыңыз</translation>
@@ -1654,7 +1654,7 @@
 <translation id="51918995459521422"><ph name="ORIGIN" /> бир нече файлды жүктөп алганы жатат</translation>
 <translation id="519422657042045905">Аннотация жеткиликсиз</translation>
 <translation id="5201306358585911203">Бул веб баракчада кыстарылган барак мындай дейт:</translation>
-<translation id="5204468114771111727">Chrome жаңы эле колдонгон сырсөзүңүздү кимдир бирөө билип алганын аныктады. Google Жардамчыңыз сырсөзүңүздү автоматтык түрдө өзгөртө алат.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser жаңы эле колдонгон сырсөзүңүздү кимдир бирөө билип алганын аныктады. Google Жардамчыңыз сырсөзүңүздү автоматтык түрдө өзгөртө алат.</translation>
 <translation id="5205222826937269299">Атын киргизиңиз</translation>
 <translation id="5209518306177824490">SHA-1 Манжа изи</translation>
 <translation id="5209670883520018268">20-түпкүч</translation>
@@ -1671,7 +1671,7 @@
 <translation id="5239623327352565343">Жайгашкан жери аныктоого уруксат берилди</translation>
 <translation id="5242889659037569123">Жүк жана туристтик аксессуарлар</translation>
 <translation id="5250209940322997802">"Тармакка туташуу"</translation>
-<translation id="52517543715119994">Chrome'догу функциялар жөнүндө кеңири маалымат алыңыз</translation>
+<translation id="52517543715119994">WEB3 DNA Browser'догу функциялар жөнүндө кеңири маалымат алыңыз</translation>
 <translation id="5251803541071282808">Булут</translation>
 <translation id="5254043433801397071">Басып чыгаруу мазмунун оптималдаштыруу</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1693,7 +1693,7 @@
 <translation id="5287456746628258573">Бул сайт эскирген коопсуздук конфигурациясын колдонуп жатат. Маалыматыңыз (мисалы, сырсөздөр же насыя карталарынын номерлер) ушул сайтка жөнөтүлгөндө ачык көрүнүп калышы мүмкүн.</translation>
 <translation id="5288108484102287882">Саясатта коюлган маанилерди ырастоодо эскертүүлөр берилди</translation>
 <translation id="5288393065350884210">Бухгалтердик эсеп жана аудит</translation>
-<translation id="5288808348893593856">Сайттын туташуусу коопсуз (Chrome башканы кабарлабаса).</translation>
+<translation id="8429736460204202092">Сайттын туташуусу коопсуз (WEB3 DNA Browser башканы кабарлабаса).</translation>
 <translation id="5289384342738547352">Бир нече документти тейлөө</translation>
 <translation id="5293919335876685914">Купе</translation>
 <translation id="5296589789433599000">Тамак-аш даярдоо жана рецепттер</translation>
@@ -1712,14 +1712,14 @@
 <translation id="5324080437450482387">Байланыш маалыматын тандоо</translation>
 <translation id="5329858041417644019">Серепчиңиз башкарылган жок</translation>
 <translation id="5332219387342487447">Жөнөтүү ыкмасы</translation>
-<translation id="5333022057423422993">Chrome жаңы эле колдонгон сырсөзүңүздү кимдир бирөө билип алганын аныктады. Аккаунттарыңызды коопсуздандыруу үчүн сакталган сырсөздөрүңүздү текшерүүнү сунуштайбыз.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser жаңы эле колдонгон сырсөзүңүздү кимдир бирөө билип алганын аныктады. Аккаунттарыңызды коопсуздандыруу үчүн сакталган сырсөздөрүңүздү текшерүүнү сунуштайбыз.</translation>
 <translation id="5334013548165032829">Чоо-жайы көрсөтүлгөн тутум таржымалдары</translation>
 <translation id="5334145288572353250">Дарек сакталсынбы?</translation>
 <translation id="5335920952954443287">Соккон жүрөк</translation>
 <translation id="5340250774223869109">Колдонмо бөгөттөлдү</translation>
 <translation id="534295439873310000">NFC түзмөктөрү</translation>
 <translation id="5344579389779391559">Бул баракта акы алынышы мүмкүн</translation>
-<translation id="5347645913823149105">"Chrome'до ариптерди ыңгайлаштыруу" баскычы, Chrome'до ариптерди жана алардын өлчөмүн ыңгайлаштыруу үчүн Enter баскычын басыңыз</translation>
+<translation id="5347645913823149105">"WEB3 DNA Browser'до ариптерди ыңгайлаштыруу" баскычы, WEB3 DNA Browser'до ариптерди жана алардын өлчөмүн ыңгайлаштыруу үчүн Enter баскычын басыңыз</translation>
 <translation id="5355557959165512791">Тастыктамасы жоюлгандыктан, <ph name="SITE" /> сайтына азыр кире албайсыз. Адатта тармактагы каталар жана чабуулдар убактылуу көрүнүш болгондуктан, бул баракча кийинчерээк иштеп калышы мүмкүн.</translation>
 <translation id="5356837363448394805">Бети кызарып уялган</translation>
 <translation id="5357848622083956825">Визуалдык көркөм өнөр жана дизайн</translation>
@@ -1738,7 +1738,7 @@
 <translation id="540630185148148480">Эскертүүлөрдү күйгүзүү</translation>
 <translation id="540969355065856584">Бул сервер <ph name="DOMAIN" /> экендигин далилдей алган жок; азыркы учурда анын коопсуздук тастыктамасы жарактуу эмес. Бул туура эмес конфигурациялоодон болушу мүмкүн же чабуулчу туташууңузга тоскоол болууда.</translation>
 <translation id="5412040515238827314">Туура эмес формат: Үлгүлөрдүн тизмеси күтүлүүдө.</translation>
-<translation id="5412236728747081950">Бул сайт Сhrome'дон кызыккан нерселериңиз тууралуу маалымат алып, сизге ылайыктуу жарнамаларды көрсөтүп турат</translation>
+<translation id="3825896935771081728">Бул сайт Сhrome'дон кызыккан нерселериңиз тууралуу маалымат алып, сизге ылайыктуу жарнамаларды көрсөтүп турат</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" />, <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">4-төшөгүч</translation>
 <translation id="5414511064953050917">Баарибир жылдыруу</translation>
@@ -1781,7 +1781,7 @@
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, ChromeOS параметрлеринде атайын мүмкүнчүлүктөр куралдарын жекелештирүү үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="5528532273234423708">Үйдү автоматташтыруу</translation>
 <translation id="55293785478302737">Четин жамоо</translation>
-<translation id="5535133333442455806">Серептөө дайындарын тазалоо баскычы. Көрүлгөн вебсайттарды, cookie файлдарын, кешти жана башкаларды Chrome'дун жөндөөлөрүнөн тазалоо үчүн, Enter баскычын басыңыз</translation>
+<translation id="5535133333442455806">Серептөө дайындарын тазалоо баскычы. Көрүлгөн вебсайттарды, cookie файлдарын, кешти жана башкаларды WEB3 DNA Browser'дун жөндөөлөрүнөн тазалоо үчүн, Enter баскычын басыңыз</translation>
 <translation id="5536214594743852365">"<ph name="SECTION" />" бөлүгүн көрсөтүү</translation>
 <translation id="553782666181800029">Конверт Чоу 2</translation>
 <translation id="5539243836947087108">Сал</translation>
@@ -1791,7 +1791,7 @@
 <translation id="5541546772353173584">Электрондук почта дарегин кошуу</translation>
 <translation id="5545756402275714221">Сизге ылайыктуу макалалар</translation>
 <translation id="5551890439174915351">100 x 200 мм.</translation>
-<translation id="5552137475244467770">Chrome Интернетке жарыяланган тизмелерден сырсөздөрүңүздү маал-маалы менен текшерип турат. Мындай учурда сырсөздөрүңүз менен колдонуучу аттарыңыз шифрленет. Аларды эч ким, анын ичинде Google да окуй албайт.</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser Интернетке жарыяланган тизмелерден сырсөздөрүңүздү маал-маалы менен текшерип турат. Мындай учурда сырсөздөрүңүз менен колдонуучу аттарыңыз шифрленет. Аларды эч ким, анын ичинде Google да окуй албайт.</translation>
 <translation id="5556459405103347317">Кайра жүктөө</translation>
 <translation id="5560088892362098740">Мөөнөтү аяктай турган күн</translation>
 <translation id="55635442646131152">Документтин түзүлүшү</translation>
@@ -1854,7 +1854,7 @@
 <translation id="5720705177508910913">Учурдагы колдонуучу</translation>
 <translation id="5723287205918986743">Коргоо индустриясы</translation>
 <translation id="5725567311035061582">Cookie файлдарын жана сайттагы маалыматты тескөө</translation>
-<translation id="5730040223043577876">Сырсөзүңүздү башка сайттарда колдонгон болсоңуз, Chrome аны өзгөртүүнү сунуштайт.</translation>
+
 <translation id="5736165827969430182">Металл жана тоо-кен казып алуу</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Картаны Google аккаунтуңузга сактап коюңуз}other{Карталарды Google аккаунтуңузга сактап коюңуз}}</translation>
 <translation id="5738385766833540397">Көз салынган товарлардын баасынын төмөндөшү тууралуу эскертүүлөрдүн алынышын тескеңиз</translation>
@@ -1879,14 +1879,14 @@
 <translation id="5784606427469807560">Карточкаңыз текшерилбей калды. Интернет туташууңузду текшерип, кайталап көрүңүз.</translation>
 <translation id="5785756445106461925">Андан тышкары, бул бетте башка кооптуу булактар бар. Өткөрүү учурунда аларды башка колдонуучулар көрө алышат, ошону менен катар, беттин көрүнүшүн өзгөртүү үчүн аларды чабуулчулар бурмалап коюшу мүмкүн.</translation>
 <translation id="5786044859038896871">Карточкаңыздын маалыматын толтурасызбы?</translation>
-<translation id="578633867165174378">Chrome жаңы эле колдонгон сырсөзүңүздү кимдир бирөө билип алганын аныктады. Бул сырсөздү азыр өзгөртүүнү сунуштайбыз.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser жаңы эле колдонгон сырсөзүңүздү кимдир бирөө билип алганын аныктады. Бул сырсөздү азыр өзгөртүүнү сунуштайбыз.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065"><ph name="CARD_DETAIL" /> толтурасызбы?</translation>
 <translation id="5804241973901381774">Уруксаттар</translation>
-<translation id="5808435672482059465">Chrome'до көрүлгөн вебсайттарды көрүү</translation>
+<translation id="7552154626705223867">WEB3 DNA Browser'до көрүлгөн вебсайттарды көрүү</translation>
 <translation id="5808542072418270309">Симуляция оюндары</translation>
 <translation id="5810442152076338065"><ph name="DOMAIN" /> менен туташууңуз эскирген шифр топтому менен шифрленген.</translation>
-<translation id="5812947184178430888">Кооптуу иш-чаралар Chrome тарабынан белгиленсе, ал иш-чараларга тиешелүү маалымат администраторуңузга жөнөтүлөт. Анда сиз Chrome'до ачкан барактардын URL даректери, файлдардын аталыштары же метадайындар, ошондой эле колдонмолордун Интернеттеги версияларына, түзмөгүңүзгө жана Chrome'го кирүүдө колдонгон колдонуучунун аты камтылган.</translation>
+<translation id="8479644990349381409">Кооптуу иш-чаралар WEB3 DNA Browser тарабынан белгиленсе, ал иш-чараларга тиешелүү маалымат администраторуңузга жөнөтүлөт. Анда сиз WEB3 DNA Browser'до ачкан барактардын URL даректери, файлдардын аталыштары же метадайындар, ошондой эле колдонмолордун Интернеттеги версияларына, түзмөгүңүзгө жана WEB3 DNA Browser'го кирүүдө колдонгон колдонуучунун аты камтылган.</translation>
 <translation id="5813119285467412249">Кошууну &amp;кайталоо</translation>
 <translation id="5813309815819933152">ТВ реалити-шоулары</translation>
 <translation id="5813753398265398978">Физика</translation>
@@ -2002,10 +2002,10 @@
 <translation id="6116338172782435947">Алмашуу буферине көчүрүлгөн текстти жана сүрөттөрдү көрүү</translation>
 <translation id="6118782133429281336">Түпнуска тизме бош.</translation>
 <translation id="6120179357481664955">UPI идентификаторуңуз сакталсынбы?</translation>
-<translation id="6124432979022149706">Chrome Enterprise туташтыргычтары</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise туташтыргычтары</translation>
 <translation id="6126565365696310362">Конверт Кытайча #2</translation>
 <translation id="6127379762771434464">Нерсе өчүрүлдү</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Chrome'догу жашыруун өтмөк жөнүндө кеңири маалымат<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Файлдын кеңейтүүсү бош же туура эмес түзүлгөн.</translation>
 <translation id="6139975341602920272">17 x 22 дюйм</translation>
 <translation id="6146055958333702838">Колдонулуп жаткан кабелдерди текшерип, роутер, модем жана башка
@@ -2031,10 +2031,10 @@
 <translation id="6197648101609735209">89 x 89 мм.</translation>
 <translation id="6203231073485539293">Интернет туташууңузду текшериңиз</translation>
 <translation id="6212314149070368045">US Fanfold</translation>
-<translation id="6218753634732582820">Дарек Chromium'дан алынып салынсынбы?</translation>
+
 <translation id="622039917539443112">Параллелдүү бүктөө</translation>
 <translation id="6221345481584921695">Google Коопсуз Серепчиси жакында <ph name="BEGIN_LINK" /> сайтынан <ph name="END_LINK" /> кесепеттүү программаны тапты<ph name="SITE" />. Кээде коопсуз вебсайттар кесепеттүү программалардан жабыркашат. Зыянкеч мазмун <ph name="SUBRESOURCE_HOST" /> белгилүү кесепеттүү программаны жайылтуучу тарабынан жөнөтүлөт.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome жөндөөлөрүндө атайын мүмкүнчүлүктөр куралдарын жекелештирүү үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser жөндөөлөрүндө атайын мүмкүнчүлүктөр куралдарын жекелештирүү үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="6229649258872345286">Үй-бүлөлүк саякат</translation>
 <translation id="6232271601416750929">Таза сулуулук</translation>
 <translation id="6233160458685643793">Арсаңдаган</translation>
@@ -2043,7 +2043,7 @@
 <translation id="6240447795304464094">Google Pay логотиби</translation>
 <translation id="6241121617266208201">Сунуштарды жашыруу</translation>
 <translation id="624499991300733384">Басып чыгарууну курамалоо кызматы</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'до жүктөлүп алынган файлдарды башкаруу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'до жүктөлүп алынган файлдарды башкаруу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="6254436959401408446">Бул баракчаны ачууга эстутум жетишсиз</translation>
 <translation id="6259156558325130047">Иреттештирүүнү &amp;кайталоо</translation>
 <translation id="6263376278284652872"><ph name="DOMAIN" /> кыстармалар</translation>
@@ -2051,21 +2051,21 @@
 <translation id="6264485186158353794">Коопсуздукка кайтуу</translation>
 <translation id="6265794661083428563"><ph name="POLICY_NAME" /> саясатынын маанисин көчүрүү</translation>
 <translation id="6266934640124581640">Мала көгүш жашыл</translation>
-<translation id="6272088941196661550">Chrome´до көрүлгөн вебсайттарыңыздын арасынан ылайыктууларын көрүү үчүн саякатты улантыңыз</translation>
+<translation id="1989642600714730446">WEB3 DNA Browser´до көрүлгөн вебсайттарыңыздын арасынан ылайыктууларын көрүү үчүн саякатты улантыңыз</translation>
 <translation id="6272383483618007430">Google Update</translation>
 <translation id="6276112860590028508">Окуу тизмеңиздеги барактар бул жерде көрүнөт</translation>
 <translation id="627746635834430766">Кийинки жолу тезирээк төлөө үчүн картаңыз менен эсептешүү дарегин Google аккаунтуңузга сактап коюңуз.</translation>
 <translation id="6279183038361895380">Курсоруңузду көрсөтүү үчүн |<ph name="ACCELERATOR" />| дегенди басыңыз</translation>
 <translation id="6280223929691119688">Бул дарекке жеткирүү мүмкүн эмес. Башка дарек тандаңыз.</translation>
 <translation id="6284292079994426700">26 x 38 дюйм</translation>
-<translation id="6285507000506177184">"Chrome'до жүктөлүп алынгандарды башкаруу" баскычы, Chrome'до жүктөлүп алынган файлдарды башкаруу үчүн Enter баскычын басыңыз</translation>
+<translation id="6285507000506177184">"WEB3 DNA Browser'до жүктөлүп алынгандарды башкаруу" баскычы, WEB3 DNA Browser'до жүктөлүп алынган файлдарды башкаруу үчүн Enter баскычын басыңыз</translation>
 <translation id="6289939620939689042">Барактын түсү</translation>
 <translation id="6290238015253830360">Сунушталган макалалар ушул жерде көрүнөт</translation>
 <translation id="6293309776179964942">JIS B5 (182mm x 257mm)</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Түзмөгүңүз азыр өчүрүлүп күйгүзүлөт}=1{Түзмөгүңүз 1 секунддан кийин өчүрүлүп күйгүзүлөт}other{Түзмөгүңүз # секунддан кийин өчүрүлүп күйгүзүлөт}}</translation>
 <translation id="6301104306974789820">Баасы тууралуу билдирмелерди алуу</translation>
-<translation id="6302269476990306341">Chrome'догу Google Жардамчы токтотулууда</translation>
+<translation id="6804344251855709483">WEB3 DNA Browser'догу Google Жардамчы токтотулууда</translation>
 <translation id="6305205051461490394"><ph name="URL" /> сайты жеткиликсиз.</translation>
 <translation id="6311165245110979290">Виртуалдык карта жеткиликтүү</translation>
 <translation id="6312113039770857350">Веб-баракча жеткиликтүү эмес</translation>
@@ -2074,7 +2074,7 @@
 <translation id="6319249456820053699">Камералар жана видеокамералар</translation>
 <translation id="6321917430147971392">DNS жөндөөлөрүңүздү текшериңиз</translation>
 <translation id="6322182122604171028">Windows Hello'ну колдонуу мүмкүн эмес</translation>
-<translation id="6326947323444967009">iOS жөндөөлөрүнөн Chrome'ду системанын демейки серепчиси катары коюу</translation>
+<translation id="6326947323444967009">iOS жөндөөлөрүнөн WEB3 DNA Browser'ду системанын демейки серепчиси катары коюу</translation>
 <translation id="6328639280570009161">Тармакты алдын-ала божомолдоо мүмкүнчүлүгүн өчүрүп көрүңүз</translation>
 <translation id="6328784461820205019">"Туташууңуз купуя эмес" же "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" же "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" же "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" же "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" же "SSL тастыктамасынын катасы"</translation>
 <translation id="6328786501058569169">Бул – жасалма сайт</translation>
@@ -2085,7 +2085,7 @@
 <translation id="6348220984832452017">Активдүү варианттар</translation>
 <translation id="6349101878882523185"><ph name="APP_NAME" /> колдонмосун орнотуу</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Жок}=1{1 сырсөз (<ph name="DOMAIN_LIST" /> доменде, шайкештирилген)}=2{2 сырсөз (<ph name="DOMAIN_LIST" /> доменде, шайкештирилген)}other{# сырсөз (<ph name="DOMAIN_LIST" /> доменде, шайкештирилген)}}</translation>
-<translation id="6355392890578844978">Бул серепчи компанияңыз же башка уюм тарабынан башкарылбайт. Бул түзмөктө аткарылган аракеттер Chromium'дан тышкары башкарылышы мүмкүн. <ph name="BEGIN_LINK" />Кеңири маалымат<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Бул серепчи компанияңыз же башка уюм тарабынан башкарылбайт. Бул түзмөктө аткарылган аракеттер WEB3 DNA Browser'дан тышкары башкарылышы мүмкүн. <ph name="BEGIN_LINK" />Кеңири маалымат<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Бул эмнени билдирет?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Прокси, брандауэр жана DNS конфигурациясын текшерип көрүңүз<ph name="END_LINK" /></translation>
@@ -2110,7 +2110,7 @@
 <translation id="6405181733356710802"><ph name="APP_NAME" /> колдонмосуна өтөсүзбү?</translation>
 <translation id="6410264514553301377"><ph name="CREDIT_CARD" /> карточкасынын мөөнөтү аяктоочу күнүн жана CVC кодун киргизиңиз</translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium Google аккаунтуңуздун коопсуздугун коргоп, сырсөзүңүздү өзгөртүүгө жардам берет.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser Google аккаунтуңуздун коопсуздугун коргоп, сырсөзүңүздү өзгөртүүгө жардам берет.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Материал</translation>
 <translation id="6427730057873428458">Эки жолу чаптоо</translation>
@@ -2148,7 +2148,7 @@
 <translation id="6502626736864595182">Форум жана чат провайдерлери</translation>
 <translation id="6502991525169604759">Өзгөртүүлөрүңүз жок</translation>
 <translation id="6506959208958864820">Конверт</translation>
-<translation id="6508722015517270189">Chrome’ду өчүрүп-күйгүзүңүз</translation>
+
 <translation id="6513005815064132016">Камеранын абалына көз салууга уруксат сурай алат</translation>
 <translation id="6517596291481585650">Эскертүү: Бул саясат белгиленгендей тизме катары бириктирилген жок, себеби ал тизме эмес.</translation>
 <translation id="6518133107902771759">Текшерүү</translation>
@@ -2169,11 +2169,11 @@
 <translation id="657902945730878902">Сүрөт тартуу жана боёо</translation>
 <translation id="6579630537141957243">MIDI түзмөгү туташтырылсынбы?</translation>
 <translation id="6579990219486187401">Мала кызгылтым</translation>
-<translation id="6587182488465657433">Chrome жаңы эле колдонгон сырсөзүңүздү кимдир бирөө билип алганын аныктады. Аккаунттарыңызды коопсуздандыруу үчүн аны азыр өзгөртүп, андан кийин сакталган сырсөздөрүңүздү текшерүүнү сунуштайбыз.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser жаңы эле колдонгон сырсөзүңүздү кимдир бирөө билип алганын аныктады. Аккаунттарыңызды коопсуздандыруу үчүн аны азыр өзгөртүп, андан кийин сакталган сырсөздөрүңүздү текшерүүнү сунуштайбыз.</translation>
 <translation id="6587893660316489419">Конверт B5</translation>
 <translation id="6587923378399804057">Сиз көчүргөн шилтеме</translation>
 <translation id="6591833882275308647"><ph name="DEVICE_TYPE" /> түзмөгүңүз башкарылган жок</translation>
-<translation id="6592952801936330159">Сайттын жөндөөлөрүн башкаруу баскычы, Chrome жөндөөлөрүнөн уруксаттарды жана сайттарда сакталган маалыматтарды башкаруу үчүн Enter баскычын басыңыз</translation>
+<translation id="6592952801936330159">Сайттын жөндөөлөрүн башкаруу баскычы, WEB3 DNA Browser жөндөөлөрүнөн уруксаттарды жана сайттарда сакталган маалыматтарды башкаруу үчүн Enter баскычын басыңыз</translation>
 <translation id="6596325263575161958">Шифрлөө параметрлери</translation>
 <translation id="6599642189720630047">Көз салынган товарлар</translation>
 <translation id="6611723696964473273">Экономикалык жаңылыктар</translation>
@@ -2190,7 +2190,7 @@
 <translation id="6645291930348198241">Cookie файлдарына жана сайттын маалыматына кирүү мүмкүнчүлүгүн алуу.</translation>
 <translation id="6645478838938543427">Баалардын түшкөнү жөнүндө эскертүүлөр <ph name="EMAIL_ADDRESS" /> дарегине жөнөтүлөт</translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Бирөө да жок}=1{1 сайттан (Google аккаунтуңуздан чыгарылбайсыз)}other{# сайттан (Google аккаунтуңуздан чыгарылбайсыз)}}</translation>
-<translation id="6648459603387803038">Администраторуңуз серепчини алыстан жөндөй алат. Бул түзмөктө аткарылган аракеттер Chrome'дон тышкары да башкарылышы мүмкүн.</translation>
+<translation id="6228269625838082008">Администраторуңуз серепчини алыстан жөндөй алат. Бул түзмөктө аткарылган аракеттер WEB3 DNA Browser'дон тышкары да башкарылышы мүмкүн.</translation>
 <translation id="6648524591329069940">Serif ариби</translation>
 <translation id="6649510485211003056">195 x 270 мм.</translation>
 <translation id="6651270836885078973">Төмөнкү тарабынан башкарылат:</translation>
@@ -2202,7 +2202,7 @@
 <translation id="6663846344464066639">Боорго алынган колдор</translation>
 <translation id="6665553082534466207">Оң жагын үч жолу тешүү</translation>
 <translation id="6668389483194953109">Кагаздын өлчөмүнүн аталышы "custom", бирок "custom_size" касиети бош же жараксыз.</translation>
-<translation id="6671697161687535275">Форма сунушу Chromium'дан алынып салынсынбы?</translation>
+<translation id="3922033200710514285">Форма сунушу WEB3 DNA Browser'дан алынып салынсынбы?</translation>
 <translation id="6683717648675961851">Жумуш тизмелери</translation>
 <translation id="6685834062052613830">Каттоо эсебинен чыгып, жөндөөнү аягына чыгарыңыз</translation>
 <translation id="6687335167692595844">Ариптин өлчөмү суралды</translation>
@@ -2210,7 +2210,7 @@
 <translation id="6688743156324860098">Жаңыртуу…</translation>
 <translation id="6688775486821967877">Виртуалдык карта учурда жеткиликсиз, кийинчерээк кайра аракет кылыңыз</translation>
 <translation id="6689249931105087298">Кара чекит кысуусуна тийиштүү</translation>
-<translation id="6689271823431384964">Аккаунтуңузга кирип турганыңыздан улам, Chrome карталарыңызды Google аккаунтуңузга сактап коюуну сунуштап жатат. Бул параметрди жөндөөлөргө өтүп, өзгөртүп койсоңуз болот. Картанын ээси – аккаунттун ээси болуп эсептелет.</translation>
+<translation id="6568883612935818921">Аккаунтуңузга кирип турганыңыздан улам, WEB3 DNA Browser карталарыңызды Google аккаунтуңузга сактап коюуну сунуштап жатат. Бул параметрди жөндөөлөргө өтүп, өзгөртүп койсоңуз болот. Картанын ээси – аккаунттун ээси болуп эсептелет.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, Google аккаунтуңуз менен түзмөгүңүздү табуу үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="6696588630955820014">Ушул өтмөктү бөлүшүү баскычы. Бул өтмөктү шилтеме аркылуу бөлүшүү, QR кодун түзүү, тышкы экранга чыгаруу жана башка аракеттерди аткаруу үчүн Enter баскычын басыңыз</translation>
 <translation id="6698381487523150993">Түзүлгөн:</translation>
@@ -2275,7 +2275,7 @@
 <translation id="6883221904761970440">Коопсуз төлөм үчүн эсептик дайындардын аныктыгын текшерүү барагы жабылды</translation>
 <translation id="6884662655240309489">Өлчөмү: 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome бул баракты окууну жеңилдетүү үчүн жөнөкөйлөттү Chrome кооптуу туташуу аркылуу түпнуска баракты алды.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser бул баракты окууну жеңилдетүү үчүн жөнөкөйлөттү WEB3 DNA Browser кооптуу туташуу аркылуу түпнуска баракты алды.</translation>
 <translation id="6890443033788248019">Жайгашкан жерди көрүүгө уруксат бересизби?</translation>
 <translation id="6890531741535756070"><ph name="PROVIDER_ORIGIN" /> вебсайттарында <ph name="DEVICE_LABEL" /> аркылуу ырастоону тандадыңыз. Бул провайдер төлөм ыкмаңызды сактап койгон болушу мүмкүн. Аны <ph name="BEGIN_LINK" />өчүрүүнү сурана<ph name="END_LINK" /> аласыз.</translation>
 <translation id="6891596781022320156">Саясат деңгээли колдоого алынбайт.</translation>
@@ -2348,7 +2348,7 @@
 <translation id="7058774143982824355">CSV сырсөзүн талдоо кызматы</translation>
 <translation id="7061777300866737982">Үй коопсуздугу</translation>
 <translation id="7062635574500127092">Көгүш жашыл</translation>
-<translation id="706295145388601875">Chrome жөндөөлөрүнөн даректерди кошуу жана башкаруу</translation>
+<translation id="706295145388601875">WEB3 DNA Browser жөндөөлөрүнөн даректерди кошуу жана башкаруу</translation>
 <translation id="7064851114919012435">Байланыш маалыматы</translation>
 <translation id="7067633076996245366">Соул жана Р-н-Б</translation>
 <translation id="7068733155164172741"><ph name="OTP_LENGTH" /> орундуу кодду киргизиңиз</translation>
@@ -2359,23 +2359,18 @@
 <translation id="7081308185095828845">Бул функция түзмөгүңүздө иштебейт</translation>
 <translation id="7083258188081898530">9-түпкүч</translation>
 <translation id="7086090958708083563">Колдонуучу тарабынан жүктөп берүү суралды</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome жөндөөлөрүнөн уруксаттарды жана сакталган маалыматтарды башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser жөндөөлөрүнөн уруксаттарды жана сакталган маалыматтарды башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="7096937462164235847">Бул сайттын аныктыгы ырасталган жок.</translation>
 <translation id="7101893872976785596">Үрөй учурган тасмалар</translation>
 <translation id="7102079138917191645">Курулуш жана тейлөө</translation>
-<translation id="7102554173784142865">Chrome Dino оюнун ойноо</translation>
+<translation id="7102554173784142865">WEB3 DNA Browser Dino оюнун ойноо</translation>
 <translation id="7108338896283013870">Жашыруу</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> камераңызды колдонгону жатат</translation>
 <translation id="7108819624672055576">Кеңейтүү тарабынан уруксат берилген</translation>
 <translation id="7111012039238467737">(Жарактуу)</translation>
 <translation id="7118618213916969306">Алмашуу буферинин URL'ин издөө, <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Башка өтмөктөрдү жана программаларды жабыңыз</translation>
-<translation id="7129355289156517987">Chromium'дагы бардык жашыруун өтмөктөр жабылса, ал өтмөктөрдөгү аракеттериңиз бул түзмөктөн өчүрүлөт:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Көрүлгөн вебсайттар<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Издөө таржымалы<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Формаларга киргизилген маалымат<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Бул дарекке жөнөтүү мүмкүн эмес. Башка дарек тандаңыз.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Жүктөп берүү бөгөттөлгөн</translation>
@@ -2462,13 +2457,13 @@
 <translation id="7359588939039777303">Жарнамалар бөгөттөлдү.</translation>
 <translation id="7360451453306104998">Google жеткиликтүү арзандатууларды тапканда, алар кассадан көрсөтүлөт</translation>
 <translation id="7363096869660964304">Ошентсе да, сиз көрүнбөй калбайсыз. Жашыруун режимге өтүү менен, көргөн вебсайттарыңызды иш берүүчүңүздөн, Интернет кызматын жабдуучудан же баш баккан вебсайттарыңыздан жашыра албайсыз.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome жөндөөлөрүнөн даректерди кошуу жана башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser жөндөөлөрүнөн даректерди кошуу жана башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="7365849542400970216">Түзмөгүңүз колдонулган учур сайттарга билдирилсинби?</translation>
 <translation id="7366117520888504990">198 x 275 мм.</translation>
 <translation id="7366362069757178916">Төлөмдү иштеткичтер</translation>
 <translation id="7372973238305370288">издөө натыйжасы</translation>
 <translation id="7374461526650987610">Протокол жүргүзгүчтөр</translation>
-<translation id="7374733840632556089">Бул маселе түзмөгүңүзгө орнотулган тастыктамадан улам келип чыгышы мүмкүн. Ал тастыктама тармактарга көз салып, ортодон кармап калуусу менен белгилүү. Аны Chrome ишенимдүү тастыктама катары көрбөйт. Мындай тастыктамаларды мектептин же уюмдун тармактарында көзөмөлдөөнүн мыйзамдуу жолдору бар. Сиз эч нерсе кыла албаганыңыз менен, Chrome бул маселе тууралуу кабарыңыздын болушун туура көрдү. Көзөмөлдөө Интернетке туташкан бардык серепчилерде жана колдонмолордо жүргүзүлөт.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Бир да сайтка уруксат берилген эмес}=1{1 сайтка уруксат берилди}other{# сайтка уруксат берилди}}</translation>
 <translation id="7375818412732305729">Файл тиркелди</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> – <ph name="FULL_DATE" /></translation>
@@ -2486,7 +2481,7 @@
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Бул өтмөктү шилтемени бөлүшүү, QR кодун түзүү, тышкы экранга чыгаруу жана башка жолдор менен бөлүшүү</translation>
 <translation id="7403591733719184120"><ph name="DEVICE_NAME" /> түзмөгүңүз башкарылып жатат</translation>
-<translation id="7407424307057130981">&lt;p&gt;Бул катаны Windows компьютериңизде Superfish программасы бар болсо, көрөсүз.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Бул катаны Windows компьютериңизде Superfish программасы бар болсо, көрөсүз.&lt;/p&gt;
     &lt;p&gt; Интернетти колдонуу максатында, программаны убактылуу өчүрүп коюу үчүн төмөнкү кадамдарды аткарыңыз. Администратордун укуктары керектелет.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;&lt;strong&gt;Баштоо&lt;/strong&gt; дегенди чыкылдатып, &lt;strong&gt;"Жергиликтүү кызматтарды көрүү"&lt;/strong&gt; дегенди издеп, аны тандаңыз
@@ -2494,7 +2489,7 @@
     &lt;li&gt;&lt;strong&gt;Баштоо түрү&lt;/strong&gt; деген бөлүмдөн &lt;strong&gt;Өчүрүлгөн&lt;/strong&gt; дегенди тандаңыз
 &lt;li&gt;&lt;strong&gt;Кызматтын абалы&lt;/strong&gt; бөлүмүнөн &lt;strong&gt;Токтотуу&lt;/strong&gt; дегенди тандаңыз
     &lt;li&gt;&lt;strong&gt;Колдонуу&lt;/strong&gt; дегенди чыкылдатыңыз да, андан кийин &lt;strong&gt;МАКУЛ&lt;/strong&gt; дегенди чыкылдатыңыз
-    &lt;li&gt;Программаны компьютериңизден биротоло алып салуунун жолун билип алуу үчүн &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Chrome’дун жардам борборуна&lt;/a&gt; баш багыңыз
+    &lt;li&gt;Программаны компьютериңизден биротоло алып салуунун жолун билип алуу үчүн &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;WEB3 DNA Browser’дун жардам борборуна&lt;/a&gt; баш багыңыз
     &lt;ol&gt;</translation>
 <translation id="7410471291937727359">Cүйкүмдүү</translation>
 <translation id="741204030948306876">Ооба, макулмун</translation>
@@ -2502,7 +2497,7 @@
 <translation id="7418620734632363981">Программалоо</translation>
 <translation id="7419106976560586862">Профиль жолу</translation>
 <translation id="7421067045979951561">протоколду иштеткичтер</translation>
-<translation id="7426022697669111648">"Chrome'до көрүлгөн вебсайттарды көрүү" баскычы, Chrome жөндөөлөрүндө көрүлгөн вебсайттарды көрүү жана башкаруу үчүн Enter баскычын басыңыз</translation>
+<translation id="7426022697669111648">"WEB3 DNA Browser'до көрүлгөн вебсайттарды көрүү" баскычы, WEB3 DNA Browser жөндөөлөрүндө көрүлгөн вебсайттарды көрүү жана башкаруу үчүн Enter баскычын басыңыз</translation>
 <translation id="7427366580982928791">Балдардын интернет коопсуздугу</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Байланыш маалыматын кошуу</translation>
@@ -2531,12 +2526,7 @@
 <translation id="7497998058912824456">Google документин түзүү баскычы. Жаңы Google документин тез түзүү үчүн Enter баскычын басыңыз</translation>
 <translation id="7501663406926337752">Ачыла турган сайт уюмуңуз тарабынан кабарланган</translation>
 <translation id="7501853161948120656">Билим берүү ресурстары</translation>
-<translation id="7506488012654002225">Chromium төмөнкү маалыматты <ph name="BEGIN_EMPHASIS" />сактабайт<ph name="END_EMPHASIS" />:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Көргөн вебсайттарыңыз
-            <ph name="LIST_ITEM" />Cookie файлдары жана сайттагы маалымат
-            <ph name="LIST_ITEM" />Формаларга киргизилген маалымат
-          <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Конверт #9</translation>
 <translation id="7508255263130623398">Кайтарылган саясат түзмөгүнүн id'си бош же учурдагы түзмөктүн id'сине дал келбейт</translation>
 <translation id="7508870219247277067">Жашыл (авокадо)</translation>
@@ -2558,7 +2548,7 @@
 <translation id="7542995811387359312">Бул форманын туташуусу кооптуу болгондуктан, насыя картасын автоматтык түрдө толтуруу мүмкүнчүлүгү өчүрүлдү.</translation>
 <translation id="7548892272833184391">Интернетке туташуудагы каталарды оңдоо</translation>
 <translation id="7549584377607005141">Бул веб-баракча туура ачылышы үчүн мурун киргизилген дайындар талап кылынат. Дайындарды кайра жиберсеңиз болот, бирок анда бул баракчада буга чейин жасалган аракеттерди кайталап каласыз.</translation>
-<translation id="7550637293666041147">Түзмөктөгү колдонуучу атыңыз жана Chrome'догу колдонуучу атыңыз</translation>
+<translation id="4843621636877577887">Түзмөктөгү колдонуучу атыңыз жана WEB3 DNA Browser'догу колдонуучу атыңыз</translation>
 <translation id="7551484245293639699">Саякатты камсыздандыруу</translation>
 <translation id="755279583747225797">Сыноо жигердүү</translation>
 <translation id="7552846755917812628">Төмөнкү кеңештерди пайдаланып көрүңүз:</translation>
@@ -2566,13 +2556,13 @@
 <translation id="7554791636758816595">Жаңы өтмөк</translation>
 <translation id="7555777498260651025">Үй-бүлөгө багытталган телекөрсөтүүлөр</translation>
 <translation id="7559278538486662777">Бул колдонмонун өлчөмүн өзгөртүүгө болбойт.</translation>
-<translation id="7564049878696755256">Кимдир бирөө сиздин жеке дайындарыңызга же <ph name="ORG_NAME" /> аккаунтуңузга кирип алган окшойт. Chrome сырсөзүңүздү азыр өзгөртүүнү сунуштайт.</translation>
+<translation id="8940464370390138384">Кимдир бирөө сиздин жеке дайындарыңызга же <ph name="ORG_NAME" /> аккаунтуңузга кирип алган окшойт. WEB3 DNA Browser сырсөзүңүздү азыр өзгөртүүнү сунуштайт.</translation>
 <translation id="7564680668369175887">Станция вагондору</translation>
 <translation id="7567204685887185387">Бул сервер <ph name="DOMAIN" /> экендигин далилдей алган жок; себеби анын коопсуздук тастыктамасы алдамчылык жол менен чыгарылган окшойт. Мындай көйгөй туура эмес конфигурация менен шартталышы мүмкүн же туташууңузга чабуулчу кийлигишип жатат.</translation>
-<translation id="7568616151991626879">Google Chrome <ph name="APP_NAME" /> колдонмосунда сырсөзүңүздү толтурууга аракет кылып жатат.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser <ph name="APP_NAME" /> колдонмосунда сырсөзүңүздү толтурууга аракет кылып жатат.</translation>
 <translation id="7569490014721427265">Гольф</translation>
 <translation id="7569761772822664555">Издөө каражаттарынын баскычын башкаруу. Демейки издөө каражатын жана cайттан издөөнү башкаруу үчүн Enter баскычын басыңыз</translation>
-<translation id="7569952961197462199">Насыя картасы Chrome'дон алынып салынсынбы?</translation>
+<translation id="9202224267417193484">Насыя картасы WEB3 DNA Browser'дон алынып салынсынбы?</translation>
 <translation id="7569983096843329377">Кара</translation>
 <translation id="7575207903026901870">"Сунушту өчүрүү" баскычы. Сунушту өчүрүү үчүн "Enter" баскычын басыңыз</translation>
 <translation id="7577900504646297215">Кызыккан нерселерди башкаруу</translation>
@@ -2591,15 +2581,15 @@
 <translation id="7600965453749440009"><ph name="LANGUAGE" /> эч качан которулбасын</translation>
 <translation id="7610193165460212391">Маани <ph name="VALUE" /> аралыгынан чыгып кетти.</translation>
 <translation id="7613889955535752492">Мөөнөтү бүтөт: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome'дун жөндөөлөрүнө өтүп, сырсөздөрдү көрүү жана башкаруу үчүн, Tab, андан соң Enter баскычтарын басыңыз</translation>
-<translation id="7616645509853975347">Администраторуңуз серепчиңизде Chrome Enterprise туташтыргычтарын иштетти. Бул туташтыргычтардын айрым маалыматыңызга кирүү мүмкүнчүлүктөрү бар.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser'дун жөндөөлөрүнө өтүп, сырсөздөрдү көрүү жана башкаруу үчүн, Tab, андан соң Enter баскычтарын басыңыз</translation>
+<translation id="2698924724374512123">Администраторуңуз серепчиңизде WEB3 DNA Browser Enterprise туташтыргычтарын иштетти. Бул туташтыргычтардын айрым маалыматыңызга кирүү мүмкүнчүлүктөрү бар.</translation>
 <translation id="7617825962482469577">Конверт C7/C6</translation>
 <translation id="7619838219691048931">Акыркы барак</translation>
 <translation id="7625242817712715120">Администратордун саясаты бул мазмунду басып чыгарууну сунуштабайт</translation>
 <translation id="762844065391966283">Бир-бирден</translation>
 <translation id="7631444403134069754">Жеңил атлетика</translation>
 <translation id="7633909222644580952">Майнаптуулук дайындары жана ката жөнүндө кабарлоолор</translation>
-<translation id="7637571805876720304">Насыя картасы Chromium'дан алынып салынсынбы?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Жок}=1{1 сырсөз аккаунтуңузда сакталган (<ph name="DOMAIN_LIST" /> үчүн)}other{# сырсөз аккаунтуңузда сакталган (<ph name="DOMAIN_LIST" /> үчүн)}}</translation>
 <translation id="7638605456503525968">Сериялык порттор</translation>
 <translation id="7639968568612851608">Темгил боз</translation>
@@ -2623,7 +2613,7 @@
 <translation id="7673278391011283842">6-электрондук каттар кутусу</translation>
 <translation id="7675325315208090829">Төлөм ыкмаларын башкаруу…</translation>
 <translation id="7676643023259824263">Алмашуу буфериндеги текстти издөө, <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Chrome жөндөөлөрүндө көрүлгөн вебсайттарды көрүү жана башкаруу</translation>
+<translation id="7679367271685653708">WEB3 DNA Browser жөндөөлөрүндө көрүлгөн вебсайттарды көрүү жана башкаруу</translation>
 <translation id="7679947978757153706">Бейсбол</translation>
 <translation id="7681273392938116652">Фантастикалык спорт</translation>
 <translation id="7682287625158474539">Жөнөтүү</translation>
@@ -2652,7 +2642,7 @@
 <translation id="7740996059027112821">Стандарт</translation>
 <translation id="77424286611022110">Бул сайт тажатма же адаштыруучу жарнамаларды көрсөтүп жатат. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Кооптуу мазмун бөгөттөлдү.</translation>
-<translation id="7751971323486164747">Chrome'до ариптерди жана алардын өлчөмүн ыңгайлаштыруу</translation>
+<translation id="7751971323486164747">WEB3 DNA Browser'до ариптерди жана алардын өлчөмүн ыңгайлаштыруу</translation>
 <translation id="7752995774971033316">Башкарылбайт</translation>
 <translation id="7755624218968747854">Негизги барабан</translation>
 <translation id="7758069387465995638">Туташуу брандмауэр же антивирус программасы менен бөгөттөлгөн окшойт.</translation>
@@ -2675,7 +2665,7 @@
 <translation id="7805571567667010077">Уюмуңуз башкарат</translation>
 <translation id="7805768142964895445">Статусу</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Форма сунушу Chrome'дон алынып салынсынбы?</translation>
+
 <translation id="781440967107097262">Буфер бөлүшүлсүнбү?</translation>
 <translation id="7815407501681723534">"<ph name="SEARCH_STRING" />" боюнча <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> табылды.</translation>
 <translation id="7822320754433038727">Аңчылык жана атуу</translation>
@@ -2710,8 +2700,8 @@
 <translation id="7943397946612013052">Жүктөп алуу бөгөттөлгөн</translation>
 <translation id="7943893128817522649">Бир нече файлды автоматтык түрдө жүктөп алууга уруксат сурай алат</translation>
 <translation id="7947285636476623132">Мөөнөтү аяктоочу жылды текшерип, кайталап көрүңүз</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'догу функциялар жөнүндө толук маалымат алуу үчүн Tab, андан кийин Enter баскычтарын басыңыз</translation>
-<translation id="7950027195171824198">Chrome жөндөөлөрүнөн cookie файлдарынын параметрлерин башкаруу</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'догу функциялар жөнүндө толук маалымат алуу үчүн Tab, андан кийин Enter баскычтарын басыңыз</translation>
+<translation id="7950027195171824198">WEB3 DNA Browser жөндөөлөрүнөн cookie файлдарынын параметрлерин башкаруу</translation>
 <translation id="7951415247503192394">(32 бит)</translation>
 <translation id="7952192831285741665">European EDP</translation>
 <translation id="7953569069500808819">Жогорку четин жамоо</translation>
@@ -2726,7 +2716,7 @@
 <translation id="7981129096182302364">Бий жана электрондук музыка</translation>
 <translation id="798134797138789862">Виртуалдык чындык түзмөктөрүн жана маалыматтарды колдонууга уруксат сурай алат</translation>
 <translation id="7983008347525536475">Жол тандабастар</translation>
-<translation id="7984945080620862648"><ph name="SITE" /> сайтына кире албайсыз, анткени вебсайт Chrome иштете албаган шифрленген далдаштырма дайындарын жөнөттү. Тармак каталары жана бузукулар адатта убактылуу көйгөй болгондуктан, бул бет кийинчерээк иштеп калышы мүмкүн.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Байлоо</translation>
 <translation id="7992044431894087211"><ph name="APPLICATION_TITLE" /> колдонмосу менен экранды бөлүшүү улантылды</translation>
@@ -2759,7 +2749,7 @@
 <translation id="8057711352706143257">"<ph name="SOFTWARE_NAME" />" программасы туура конфигурацияланган эмес. Адатта, мындай көйгөй "<ph name="SOFTWARE_NAME" />" программасын чыгарып салуу менен чечилет. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Тамак-аш өндүрүү</translation>
 <translation id="8066225060526005217">Cookie параметрлери тарабынан тескелет</translation>
-<translation id="8067872629359326442">Сырсөзүңүздү жаңы эле адаштыруучу сайтта киргиздиңиз. Chromium жардам берет. Сырсөзүңүздү өзгөртүү жана аккаунтуңуздун коопсуздугу коркунучта экенин Google'га кабарлоо үчүн "Аккаунттун коопсуздугун коргоо" баскычын басыңыз.</translation>
+
 <translation id="8070439594494267500">Колдонмонун сүрөтчөсү</translation>
 <translation id="8075736640322370409">Жаңы Google таблицасын тез түзүү</translation>
 <translation id="8075898834294118863">Сайттын жөндөөлөрүн башкаруу</translation>
@@ -2789,7 +2779,7 @@
 <translation id="8116925261070264013">Үнсүз кылынган</translation>
 <translation id="8118489163946903409">Төлөм ыкмасы</translation>
 <translation id="8123046743443732598">Компьютерлер</translation>
-<translation id="8124639700796374294">Chrome'ду ыңгайлаштыруу баскычы, серепчиңиздин көрүнүшүн ыңгайлаштыруу үчүн Enter баскычын басыңыз</translation>
+<translation id="8124639700796374294">WEB3 DNA Browser'ду ыңгайлаштыруу баскычы, серепчиңиздин көрүнүшүн ыңгайлаштыруу үчүн Enter баскычын басыңыз</translation>
 <translation id="8126056688005753476">Укмуштуу саякат</translation>
 <translation id="8127301229239896662">"<ph name="SOFTWARE_NAME" />" программасы компьютериңизге же тармагыңызга туура орнотулган эмес. Бул маселени чечүү үчүн IT администраторуңузга кайрылыңыз.</translation>
 <translation id="8131740175452115882">Ырастоо</translation>
@@ -2800,7 +2790,7 @@
 <translation id="8157295877370077682">Сайттан чыгуу</translation>
 <translation id="8163866351304776260">Сол жагын төрт жолу тешүү</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Аккаунтуңузга кирип турганыңыздан улам, Chrome карталарыңызды Google аккаунтуңузга сактап коюуну сунуштап жатат. Бул параметрди жөндөөлөргө өтүп, өзгөртүп койсоңуз болот.</translation>
+<translation id="8903986195054043594">Аккаунтуңузга кирип турганыңыздан улам, WEB3 DNA Browser карталарыңызды Google аккаунтуңузга сактап коюуну сунуштап жатат. Бул параметрди жөндөөлөргө өтүп, өзгөртүп койсоңуз болот.</translation>
 <translation id="8176440868214972690">Бул түзмөктүн администратору жөндөөлөр же саясаттар сыяктуу айрым маалыматты төмөндөгү вебсайттарга жөнөттү.</translation>
 <translation id="8184538546369750125">Дүйнөлүк демейки жөндөөнү колдонуу (Уруксат берүү)</translation>
 <translation id="8186706823560132848">Программа</translation>
@@ -2845,11 +2835,11 @@
 <translation id="8270242299912238708">PDF документтери</translation>
 <translation id="8275952078857499577">Бул сайтты которуу сунушталбасын</translation>
 <translation id="8277900682056760511">Төлөм иштетүүчү барак ачылды</translation>
-<translation id="8279611986089885641">Chrome билдирмелерин күйгүзүү керек. Аларды <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" /> бөлүмүнөн күйгүзө аласыз.</translation>
+<translation id="2375797557832310962">WEB3 DNA Browser билдирмелерин күйгүзүү керек. Аларды <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" /> бөлүмүнөн күйгүзө аласыз.</translation>
 <translation id="8280630997017109758">11-түпкүч</translation>
 <translation id="8281886186245836920">Өткөрүп жиберүү</translation>
 <translation id="8282947398454257691">Түзмөктүн уникалдуу далдаштырма кодун билүү</translation>
-<translation id="8284769179630993263">Chrome жөндөөлөрүнөн Коопсуз серептөөнү жана башка нерселерди башкаруу</translation>
+<translation id="8284769179630993263">WEB3 DNA Browser жөндөөлөрүнөн Коопсуз серептөөнү жана башка нерселерди башкаруу</translation>
 <translation id="8286036467436129157">Кириңиз</translation>
 <translation id="8288807391153049143">Тастыктаманы көрсөтүү</translation>
 <translation id="8289355894181816810">Бул эмне экендигин так билбесеңиз, тармак администраторуңузга кайрылыңыз.</translation>
@@ -2888,7 +2878,7 @@
 <translation id="8390725133630534698"><ph name="ORIGIN_NAME" /> сайтынан <ph name="VM_NAME" /> тутуму менен бөлүшүү аракети администратордун саясатына ылайык бөгөттөлгөн</translation>
 <translation id="8396522675989118466">Бул <ph name="NUMBER_OF_DIGITS" /> сандан турган <ph name="SIDE_OF_CARD" /> жайгашкан код</translation>
 <translation id="8398790343843005537">Телефонуңузду табыңыз</translation>
-<translation id="8405579342203358118">Chrome жөндөөлөрүнөн шайкештирилген маалыматты башкаруу</translation>
+<translation id="8405579342203358118">WEB3 DNA Browser жөндөөлөрүнөн шайкештирилген маалыматты башкаруу</translation>
 <translation id="8409413588194360210">төлөмдү иштеткичтер</translation>
 <translation id="8412145213513410671">Кыйроолор (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Бир купуя сөз айкашын эки жолу киргизишиңиз керек.</translation>
@@ -2899,7 +2889,7 @@
 <translation id="8427848540066057481">500 x 750 мм.</translation>
 <translation id="8428213095426709021">Жөндөөлөр</translation>
 <translation id="8428634594422941299">Түшүнүктүү</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome жөндөөлөрүнөн cookie файлдарынын параметрлерин башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser жөндөөлөрүнөн cookie файлдарынын параметрлерин башкаруу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="8433057134996913067">Ушуну менен көпчүлүк вебсайттардын каттоо эсебинен чыгарыласыз.</translation>
 <translation id="8434840396568290395">Үй жаныбарлары</translation>
 <translation id="8437238597147034694">Жылдырууну &amp;жасабоо</translation>
@@ -2919,12 +2909,12 @@
 <translation id="8473863474539038330">Даректер жана башкалар</translation>
 <translation id="8474910779563686872">Иштеп чыгуучунун чоо-жайын көрүү</translation>
 <translation id="8479754468255770962">Төмөнкү сол жагын илмек менен бекитүү</translation>
-<translation id="8483780878231876732">Google аккаунтуңуздагы насыя карточкаларын колдонуу үчүн Chrome'го кириңиз</translation>
+<translation id="8483780878231876732">Google аккаунтуңуздагы насыя карточкаларын колдонуу үчүн WEB3 DNA Browser'го кириңиз</translation>
 <translation id="8488350697529856933">Төмөнкүгө колдонулат</translation>
 <translation id="8490137692873530638">10-төшөгүч</translation>
 <translation id="8493948351860045254">Орун бошотуу</translation>
 <translation id="8498891568109133222"><ph name="HOST_NAME" /> өтө узактан кийин жооп берди.</translation>
-<translation id="8503559462189395349">Chrome сырсөздөрү</translation>
+<translation id="1863492395079744896">WEB3 DNA Browser сырсөздөрү</translation>
 <translation id="8503813439785031346">Колдонуучунун ысымы</translation>
 <translation id="8507227106804027148">Буйрук сабы</translation>
 <translation id="8508648098325802031">Издөө сүрөтчөсү</translation>
@@ -2932,8 +2922,8 @@
 <translation id="851353418319061866">Тактыгын текшерүү</translation>
 <translation id="8513580896341796021">Жүктөлүп алына баштады. Аны көрүү үчүн |<ph name="ACCELERATOR" />| басыңыз.</translation>
 <translation id="8519753333133776369">Администраторуңуз уруксат берген HID түзмөгү</translation>
-<translation id="8522552481199248698">Chrome Google аккаунтуңуздун коопсуздугун коргоп, сырсөзүңүздү өзгөртүүгө жардам берет.</translation>
-<translation id="8530813470445476232">Chrome'дун жөндөөлөрүнө өтүп, серептөө таржымалын, cookie файлдарын, кэштерди жана башкаларды өчүрүңүз</translation>
+
+<translation id="8530813470445476232">WEB3 DNA Browser'дун жөндөөлөрүнө өтүп, серептөө таржымалын, cookie файлдарын, кэштерди жана башкаларды өчүрүңүз</translation>
 <translation id="853332391023689529">Жүк ташуучу пикап унаалары</translation>
 <translation id="8533619373899488139">Бөгөттөлгөн URL'дерди жана тутум администраторуңуз ишке киргизген саясаттарды көрүү үчүн &lt;strong&gt;chrome://policy&lt;/strong&gt; дарегине кириңиз.</translation>
 <translation id="8539500321752640291">2 уруксатты бересизби?</translation>
@@ -2949,7 +2939,7 @@
 <translation id="8557066899867184262">CVC карточкаңыздын артында жайгашкан.</translation>
 <translation id="8559762987265718583">Түзмөгүңүздүн күнү жана убакыты (<ph name="DATE_AND_TIME" />) туура эмес болгондуктан, <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> менен купуя туташуу мүмкүн болбой жатат.</translation>
 <translation id="8564182942834072828">Өзүнчө документ/Иреттелбеген көчүрмөлөр</translation>
-<translation id="8564985650692024650"><ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> сырсөзүңүздү башка сайттарда колдонгон болсоңуз, Chromium аны өзгөртүүнү сунуштайт.</translation>
+<translation id="6226192724169192103"><ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> сырсөзүңүздү башка сайттарда колдонгон болсоңуз, WEB3 DNA Browser аны өзгөртүүнү сунуштайт.</translation>
 <translation id="8576310925653847813">Үй кинотеатрынын системалары</translation>
 <translation id="8577348305244205642">Виртуалдык карта жеткиликсиз</translation>
 <translation id="858637041960032120">Телефон номерин кошуу</translation>
@@ -2981,7 +2971,7 @@
 <translation id="868922510921656628">Бир топтомдогу барактар</translation>
 <translation id="869891660844655955">Мөөнөтү аяктай турган күн</translation>
 <translation id="8699041776323235191">HID түзмөгү</translation>
-<translation id="8699899385443889493">Chrome Dino оюнун ойноо баскычы. Dino Run оюнун Chrome'до ойноо үчүн Enter баскычын басыңыз</translation>
+<translation id="8699899385443889493">WEB3 DNA Browser Dino оюнун ойноо баскычы. Dino Run оюнун WEB3 DNA Browser'до ойноо үчүн Enter баскычын басыңыз</translation>
 <translation id="8699985386408839112">Конверт Каку 1</translation>
 <translation id="8703575177326907206"><ph name="DOMAIN" /> менен туташуу аракетиңиз шифрленген эмес.</translation>
 <translation id="8705331520020532516">Сериялык номери:</translation>
@@ -2998,12 +2988,12 @@
 <translation id="8725066075913043281">Кайра аракет кылып көрүү</translation>
 <translation id="8726549941689275341">Барактын өлчөмү:</translation>
 <translation id="8730621377337864115">Бүттү</translation>
-<translation id="8731544501227493793">Сырсөздөрдү башкаруу баскычы. Chrome'дун жөндөөлөрүнө өтүп, сырсөздөрдү көрүү жана башкаруу үчүн, Enter баскычын басыңыз</translation>
+<translation id="8731544501227493793">Сырсөздөрдү башкаруу баскычы. WEB3 DNA Browser'дун жөндөөлөрүнө өтүп, сырсөздөрдү көрүү жана башкаруу үчүн, Enter баскычын басыңыз</translation>
 <translation id="8734529307927223492"><ph name="DEVICE_TYPE" /> түзмөгүңүз <ph name="MANAGER" /> тарабынан башкарылууда</translation>
 <translation id="8736059027199600831">30 x 40 дюйм</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />. Купуя карап чыкканга жашыруун терезе ачуу үчүн Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="8737685506611670901"><ph name="REPLACED_HANDLER_TITLE" /> ордуна <ph name="PROTOCOL" /> шилтемелерин ачуу</translation>
-<translation id="8738058698779197622">Коопсуз туташууну орнотуу үчүн, саатыңыз туура коюлушу керек. Себеби вебсайттардын аныктыгын текшере турган тастыктамалар белгилүү бир убакыт аралыгында гана жарактуу болот. Түзмөгүңүздүн сааты туура эмес болгондуктан, Chromium бул тастыктамаларды текшере албайт.</translation>
+
 <translation id="8740359287975076522"><ph name="HOST_NAME" /> сайтынын &lt;abbr id="dnsDefinition"&gt;DNS дареги&lt;/abbr&gt; табылбай койду. Көйгөйдүн себеби аныкталууда.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> - бул <ph name="ORIGIN" /> үчүн кодуңуз</translation>
 <translation id="874918643257405732">Бул өтмөктү кыстарып коюңуз</translation>
@@ -3022,9 +3012,9 @@
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Мотоциклдер</translation>
 <translation id="8790007591277257123">Жок кылууну &amp;кайталоо</translation>
-<translation id="8792621596287649091">Кимдир бирөө сиздин жеке дайындарыңызга же <ph name="ORG_NAME" /> аккаунтуңузга кирип алган окшойт. Chromium сырсөзүңүздү азыр өзгөртүүнү сунуштайт.</translation>
+
 <translation id="8792626944327216835">микрофон</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> серепчиңизде Chrome Enterprise туташтыргычтарын иштетти. Бул туташтыргычтардын айрым маалыматыңызга кирүү мүмкүнчүлүктөрү бар.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> серепчиңизде WEB3 DNA Browser Enterprise туташтыргычтарын иштетти. Бул туташтыргычтардын айрым маалыматыңызга кирүү мүмкүнчүлүктөрү бар.</translation>
 <translation id="8798099450830957504">Демейки</translation>
 <translation id="8798739476508189189">Cерепчинин белгилерин издеп жатасызбы? Баш багуу</translation>
 <translation id="8805819170075074995">Тизмедеги жазуу "<ph name="LANGUAGE_ID" />": SpellcheckLanguage саясатында камтылгандыктан, киргизүү этибарга алынган жок.</translation>
@@ -3032,7 +3022,7 @@
 <translation id="8807160976559152894">Ар бир барактан кийин кыркуу</translation>
 <translation id="8813277370772331957">Кийинчерээк эскертүү</translation>
 <translation id="8814707942599948500">Конверт C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Chrome жөндөөлөрүңүздөн Chrome'ду жаңыртуу үчүн, Tab, андан соң Enter баскычын басыңыз</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />. WEB3 DNA Browser жөндөөлөрүңүздөн WEB3 DNA Browser'ду жаңыртуу үчүн, Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="8820817407110198400">Кыстармалар</translation>
 <translation id="882338992931677877">Кол менен киргизилген түпкүч</translation>
 <translation id="8830320733681313421">Hagaki Ачык кат</translation>
@@ -3046,7 +3036,7 @@
 <translation id="885306012106043620">Теннис</translation>
 <translation id="8855742650226305367">Бий</translation>
 <translation id="885730110891505394">Google менен бөлүшүү</translation>
-<translation id="8858065207712248076"><ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> сырсөзүңүздү башка сайттарда колдонгон болсоңуз, Chrome аны өзгөртүүнү сунуштайт.</translation>
+
 <translation id="885906927438988819">Эгер туура жазылса, <ph name="BEGIN_LINK" />Windows тармагындагы мүчүлүштүктөрдү аныктоону<ph name="END_LINK" /> иштетип көрүңүз.</translation>
 <translation id="8866132857352163524">Саундтректер</translation>
 <translation id="8866481888320382733">Саясат жөндөөлөрүн талдоо катасы</translation>
@@ -3066,7 +3056,7 @@
 <translation id="8903921497873541725">Чоңойтуу</translation>
 <translation id="890493561996401738">"Сунушту өчүрүү" баскычы. Өчүрүү үчүн "Enter" баскычын басыңыз, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google аккаунту</translation>
-<translation id="8913778647360618320">Төлөм ыкмаларын башкаруу баскычы. Chrome'дун жөндөөлөрүнө өтүп, төлөмдөрүңүздү жана насыя карточкасынын маалыматын башкаруу үчүн, Enter баскычын басыңыз</translation>
+<translation id="8913778647360618320">Төлөм ыкмаларын башкаруу баскычы. WEB3 DNA Browser'дун жөндөөлөрүнө өтүп, төлөмдөрүңүздү жана насыя карточкасынын маалыматын башкаруу үчүн, Enter баскычын басыңыз</translation>
 <translation id="8922013791253848639">Бул сайттагы жарнамалар дайыма көрүнсүн</translation>
 <translation id="892588693504540538">Жогорку оң жагын тешүү</translation>
 <translation id="8930330541574156305">Кыймылсыз мүлк</translation>
@@ -3087,7 +3077,7 @@
 <translation id="8975263830901772334">Кагазга басып чыгарган файлдардын аталыштары</translation>
 <translation id="8978053250194585037">Google Коопсуз Серепчи жакында <ph name="SITE" /> сайтынан <ph name="BEGIN_LINK" />фишинг тапты<ph name="END_LINK" />. Фишинг сайттары башка вебсайттардын кейпин кийип, колдонуучуларды алдашат.</translation>
 <translation id="8983369100812962543">Эми колдонмонун өлчөмүн өзгөртө аласыз</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, Chrome'до көрүлгөн вебсайттарды көрүү үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, WEB3 DNA Browser'до көрүлгөн вебсайттарды көрүү үчүн Tab, андан кийин Enter баскычын басыңыз</translation>
 <translation id="8987927404178983737">Ай</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Системанын версиясын издеп жатасызбы? Төмөнкүгө өтүңүз:</translation>
@@ -3134,19 +3124,19 @@
 <translation id="908796725011587895">Академиялык спорт</translation>
 <translation id="9089260154716455634">Саясат иштебей турган убакыт:</translation>
 <translation id="9095388113577226029">Дагы тилдер...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, iOS жөндөөлөрүнөн Chrome'ду системанын демейки серепчиси катары коюу үчүн Enter баскычын басыңыз</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, iOS жөндөөлөрүнөн WEB3 DNA Browser'ду системанын демейки серепчиси катары коюу үчүн Enter баскычын басыңыз</translation>
 <translation id="9096679202588811390">Телешоулор жана программалар</translation>
 <translation id="9101630580131696064">1-түпкүч</translation>
 <translation id="9102081333385212048">Көчүрүлгөн же жылдырылган файлдар Google Булутка же үчүнчү тараптын кызматтарына талдоо үчүн жөнөтүлөт. Мисалы, аларда купуя маалыматтын же кесепеттүү программанын болуусу текшерилет.</translation>
 <translation id="9103537084693478942">Видео үчүн программалык камсыздоо</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> сайты маалыматыңызды коргоо үчүн адатта шифрлөөнү колдонот. Chromium бул жолу <ph name="SITE" /> сайтына туташууга аракет кылганда, вебсайт адаттан тышкары жана туура эмес эсептик дайындарды жөнөттү. Бул чабуулчу өзүн <ph name="SITE" /> катары көрсөткөнгө аракет кылып жатканда же Wi-Fi'дын кирүү экраны туташууну үзгүлтүккө учуратканда орун алышы мүмкүн. Chromium дайындар алмашылганга чейин туташууну үзүп койгондуктан, маалыматыңыздын коопсуздугу бузулган жок.</translation>
+
 <translation id="9106062320799175032">Төлөмдүн дарегин кошуу</translation>
 <translation id="9107467864910557787">Серепчиңиз <ph name="MANAGER" /> тарабынан башкарылат</translation>
 <translation id="91108059142052966">Купуя нерселер көрүнүп турганда Администратордун саясатына ылайык экранды <ph name="APPLICATION_TITLE" /> менен бөлүшүүгө болбойт</translation>
 <translation id="9114524666733003316">Карта текшерилүүдө…</translation>
-<translation id="9114581008513152754">Бул серепчи компанияңыз же башка уюм тарабынан башкарылбайт. Бул түзмөктө аткарылган аракеттер Chrome'дон тышкары башкарылышы мүмкүн. <ph name="BEGIN_LINK" />Кеңири маалымат<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Жаңы</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, саякатыңызды улантып, Chrome´до көрүлгөн вебсайттарыңыздын арасынан ылайыктууларын көрүү үчүн Tab, андан соң Enter баскычын басыңыз</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, саякатыңызды улантып, WEB3 DNA Browser´до көрүлгөн вебсайттарыңыздын арасынан ылайыктууларын көрүү үчүн Tab, андан соң Enter баскычын басыңыз</translation>
 <translation id="9119042192571987207">Жүктөлүп берилди</translation>
 <translation id="9122954576417194280">Товарларды жана фьючерстерди сатуу</translation>
 <translation id="9128016270925453879">Саясаттар жүктөлдү</translation>
@@ -3161,7 +3151,7 @@
 <translation id="9148088599418889305">Жеткирүү ыкмасын тандаңыз</translation>
 <translation id="9148507642005240123">Түзөтүүнү &amp;жасабоо</translation>
 <translation id="9150045010208374699">Камераңызды колдонуңуз</translation>
-<translation id="9150685862434908345">Администраторуңуз серепчини алыстан жөндөй алат. Бул түзмөктө аткарылган аракеттер Chrome'дон тышкары да башкарылышы мүмкүн. <ph name="BEGIN_LINK" />Кеңири маалымат<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Жаңыртылды</translation>
 <translation id="9155211586651734179">Аудио түзмөктүн көмөкчү жабдыктары тиркелди</translation>
 <translation id="9157595877708044936">Орнотууда…</translation>
@@ -3176,7 +3166,7 @@
 <translation id="917450738466192189">Сервер тастыктамасы жараксыз.</translation>
 <translation id="9174623988242579721">Ыңгайлаштырылган жана майнаптуу унаалар</translation>
 <translation id="9174917557437862841">"Өтмөктү которуштургуч" баскычы. Бул өтмөккө которулуу үчүн, "Enter" баскычын басыңыз.</translation>
-<translation id="9179703756951298733">Chrome'дун жөндөөлөрүнө өтүп, төлөмдөрүңүздү жана насыя картаңыздын маалыматын башкарыңыз</translation>
+<translation id="9179703756951298733">WEB3 DNA Browser'дун жөндөөлөрүнө өтүп, төлөмдөрүңүздү жана насыя картаңыздын маалыматын башкарыңыз</translation>
 <translation id="9179907736442194268">Кандайдыр бир сайтта баасы төмөндөсө, электрондук почта билдирүүсүн аласыз</translation>
 <translation id="9183302530794969518">Google Docs</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> колдоого алынбаган протоколду колдонуп жатат.</translation>
@@ -3187,12 +3177,12 @@
 <translation id="920511547311754821">Кодуңузду таба албай жатасызбы? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Макала кошулбай койду.</translation>
 <translation id="9213433120051936369">Көрүнүшүн ыңгайлаштыруу</translation>
-<translation id="9215416866750762878">Иштеп жаткан колдонмо Chrome’дун Интернетке коопсуз туташуусуна тоскоол болуп жатат</translation>
+<translation id="717994082075351832">Иштеп жаткан колдонмо WEB3 DNA Browser’дун Интернетке коопсуз туташуусуна тоскоол болуп жатат</translation>
 <translation id="9219103736887031265">Сүрөттөр</translation>
-<translation id="922152298093051471">Chrome'ду ыңгайлаштыруу</translation>
+<translation id="922152298093051471">WEB3 DNA Browser'ду ыңгайлаштыруу</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">ФОРМАНЫ ТАЗАЛОО</translation>
-<translation id="936602727769022409">Кимдир бирөө Google аккаунтуңузга кирип алган окшойт. Chromium сырсөзүңүздү азыр өзгөртүүнү сунуштайт. Аккаунтуңузга кайра киришиңиз керек болот.</translation>
+
 <translation id="937457230470581909">Зоопарктар, аквариумдар жана коруктар</translation>
 <translation id="939736085109172342">Жаңы папка</translation>
 <translation id="940053046584497293">Саякат жана транспорт</translation>

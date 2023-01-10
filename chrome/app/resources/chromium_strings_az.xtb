@@ -6,381 +6,381 @@
 <translation id="1065672644894730302">Tərcihləriniz oxuna bilmir.
 
 Bəzi funksiyalar əlçatmaz ola bilər ki, nəticədə tərcihlərə edilən dəyişikliklər saxlanmaya bilər.</translation>
-<translation id="1098170124587656448">Chromium Sizi data pozuntuları, xətalı artırmalar və digər güvənlik məsələlərinə qarşı qoruya bilər</translation>
-<translation id="1104942323762546749">Chromium parollarınızı eksport etmək istəyir. Buna icazə vermək üçün Windows parolunu yazın.</translation>
-<translation id="113122355610423240">Chromium defolt brauzerinizdir</translation>
-<translation id="1131805035311359397">Parollarınızın data pozuntuları və digər güvənlik məsələlərinə qarşı güvəndə olduğunu yoxlamaq üçün <ph name="BEGIN_LINK" />Chromium'a daxil olun<ph name="END_LINK" />.</translation>
-<translation id="1185134272377778587">Chromium haqqında</translation>
+<translation id="4960963727707787489">WEB3 DNA Browser Sizi data pozuntuları, xətalı artırmalar və digər güvənlik məsələlərinə qarşı qoruya bilər</translation>
+<translation id="1018420750873862665">WEB3 DNA Browser parollarınızı eksport etmək istəyir. Buna icazə vermək üçün Windows parolunu yazın.</translation>
+<translation id="8728335547814212082">WEB3 DNA Browser defolt brauzerinizdir</translation>
+<translation id="3462550327714525487">Parollarınızın data pozuntuları və digər güvənlik məsələlərinə qarşı güvəndə olduğunu yoxlamaq üçün <ph name="BEGIN_LINK" />WEB3 DNA Browser'a daxil olun<ph name="END_LINK" />.</translation>
+<translation id="4464481789599383598">WEB3 DNA Browser haqqında</translation>
 <translation id="1203500561924088507">Quraşdırdığınız üçün təşəkkür edirik. <ph name="BUNDLE_NAME" /> istifadə etməzdən əvvəl brauzerinizi yenidən başlatmalısınız.</translation>
-<translation id="1231839967188101156">Aktiv olduqda, Chromium yaddaşı qeyri-aktiv tablardan təmizləyir. Bu, aktiv tablara və digər tətbiqlərə daha çox kompüter resursları verir və Chromium'u sürətli edir. Onlara qayıtdığınız zaman qeyri-aktiv tablarınız avtomatik olaraq yenidən aktivləşir. <ph name="BEGIN_LINK" />Ətraflı məlumat<ph name="END_LINK" /></translation>
-<translation id="1261119230216066228">Yaddaşa Qənaət Chromium'u daha sürətli etdi</translation>
-<translation id="1315551408014407711">Yeni Chromium profilinizi ayarlayın</translation>
-<translation id="1385859895174722837">Google Assistent Chromium'da</translation>
-<translation id="1396446129537741364">Chromium parolları göstərməyə çalışır.</translation>
-<translation id="1414495520565016063">Chromium'a daxil oldunuz!</translation>
-<translation id="1493803763272692301">Chromium'dan maksimum yararlana bilərsiniz</translation>
-<translation id="1524282610922162960">Chromium tabı paylaşın</translation>
-<translation id="1553461853655228091">Chromium ətrafınızın 3D xəritəsini yaratmaq üçün kameranıza giriş icazəsi tələb edir</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Administrator güncəlləməni tətbiq etmək üçün Chromium'u yenidən başlatmanızı tələb edir}=1{Administrator güncəlləməni tətbiq etmək üçün Chromium'u yenidən başlatmanızı tələb edir. Anonim pəncərəniz yenidən açılmayacaq.}other{Administrator güncəlləməni tətbiq etmək üçün Chromium'u yenidən başlatmanızı tələb edir. # Anonim pəncərəniz yenidən açılmayacaq.}}</translation>
-<translation id="1625909126243026060">Chromium'da əsas məxfilik və təhlükəsizlik nəzarətlərini nəzərdən keçirin</translation>
-<translation id="1632539827495546968">Bu hesabı sadəcə bir dəfə istifadə etmək istəyirsinizsə, Chromium brauzerində <ph name="GUEST_LINK_BEGIN" />Qonaq rejimindən<ph name="GUEST_LINK_END" /> istifadə edə bilərsiniz. Başqa birisi üçün hesab əlavə etmək istəyirsinizsə, <ph name="DEVICE_TYPE" /> cihazınıza <ph name="LINK_BEGIN" />yeni şəxs əlavə edin<ph name="LINK_END" />.
+<translation id="5978964989109500768">Aktiv olduqda, WEB3 DNA Browser yaddaşı qeyri-aktiv tablardan təmizləyir. Bu, aktiv tablara və digər tətbiqlərə daha çox kompüter resursları verir və WEB3 DNA Browser'u sürətli edir. Onlara qayıtdığınız zaman qeyri-aktiv tablarınız avtomatik olaraq yenidən aktivləşir. <ph name="BEGIN_LINK" />Ətraflı məlumat<ph name="END_LINK" /></translation>
+<translation id="2556820941333974881">Yaddaşa Qənaət WEB3 DNA Browser'u daha sürətli etdi</translation>
+<translation id="8674698533637405550">Yeni WEB3 DNA Browser profilinizi ayarlayın</translation>
+<translation id="5897235607289042281">Google Assistent WEB3 DNA Browser'da</translation>
+<translation id="4011302926653396528">WEB3 DNA Browser parolları göstərməyə çalışır.</translation>
+<translation id="7808556894409107558">WEB3 DNA Browser'a daxil oldunuz!</translation>
+<translation id="2448956114941459869">WEB3 DNA Browser'dan maksimum yararlana bilərsiniz</translation>
+<translation id="6123758632973468022">WEB3 DNA Browser tabı paylaşın</translation>
+<translation id="1232307829393891937">WEB3 DNA Browser ətrafınızın 3D xəritəsini yaratmaq üçün kameranıza giriş icazəsi tələb edir</translation>
+<translation id="5103307222334991576">{COUNT,plural, =0{Administrator güncəlləməni tətbiq etmək üçün WEB3 DNA Browser'u yenidən başlatmanızı tələb edir}=1{Administrator güncəlləməni tətbiq etmək üçün WEB3 DNA Browser'u yenidən başlatmanızı tələb edir. Anonim pəncərəniz yenidən açılmayacaq.}other{Administrator güncəlləməni tətbiq etmək üçün WEB3 DNA Browser'u yenidən başlatmanızı tələb edir. # Anonim pəncərəniz yenidən açılmayacaq.}}</translation>
+<translation id="7291131704197390431">WEB3 DNA Browser'da əsas məxfilik və təhlükəsizlik nəzarətlərini nəzərdən keçirin</translation>
+<translation id="5962221630684419652">Bu hesabı sadəcə bir dəfə istifadə etmək istəyirsinizsə, WEB3 DNA Browser brauzerində <ph name="GUEST_LINK_BEGIN" />Qonaq rejimindən<ph name="GUEST_LINK_END" /> istifadə edə bilərsiniz. Başqa birisi üçün hesab əlavə etmək istəyirsinizsə, <ph name="DEVICE_TYPE" /> cihazınıza <ph name="LINK_BEGIN" />yeni şəxs əlavə edin<ph name="LINK_END" />.
 
 Hazırda veb saytlar və tətbiqlərə verdiyiniz icazələr bu hesaba tətbiq oluna bilər. Google Hesablarınızı <ph name="SETTINGS_LINK_BEGIN" />Ayarlarda<ph name="SETTINGS_LINK_END" /> idarə edə bilərsiniz.</translation>
 <translation id="1640672724030957280">Endirilir...</translation>
-<translation id="1708666629004767631">Yeni, daha güvənli Chromium versiyası əlçatandır.</translation>
-<translation id="17264556997921157">Saytların sizə reklam göstərmək üçün istifadə etdiyi maraqlı mövzuları görə və silə bilərsiniz. Chromium son baxış tarixçənizə əsasən maraqlarınızı təxmin edir.</translation>
-<translation id="1774152462503052664">Chromium'a fonda işləməyə icazə verin</translation>
-<translation id="1779356040007214683">Chromium'u güvənli etmək üçün,  <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> siyahısında olmayan və xəbəriniz olmadan əlavə edilən bəzi artırmaları deaktiv etdik.</translation>
-<translation id="1808667845054772817">Chromium'u yenidən quraşdırın</translation>
-<translation id="185970820835152459">Daxil olunmuş Google Hesablarını idarə edə bilərsiniz. Google Hesablarınız Chromium brauzeri, Play Market, Gmail və digər xidmətlər üçün istifadə olunur. Ailə üzvü kimi başqası üçün bir hesab əlavə etmək istəyirsinizsə, əvəzində <ph name="DEVICE_TYPE" /> cihazınıza yeni bir şəxs əlavə edin. <ph name="LINK_BEGIN" />Ətraflı məlumat<ph name="LINK_END" /></translation>
-<translation id="1863308913976887472">Saytlar maraqlarınız haqqında Chromium ilə məlumat saxlaya bilər. Məsələn, marafona ayaqqabı almaq üçün sayta daxil olsanız, sayt marağınızı qaçış marafonu kimi müəyyən edə bilər. Sonra yarışa yazılmaq üçün başqa sayta daxil olsanız, həmin sayt maraqlarınız əsasında sizə qaçış ayaqqabısı reklamı göstərə bilər.</translation>
-<translation id="1881322772814446296">Nəzarət olunan hesabla daxil olursunuz və hesabın administratoruna Chromium profiliniz üzərində nəzarət etmək imkanı verirsiniz. Tətbiqləriniz, əlfəcinləriniz, tarixçəniz, parollarınız və digər ayarlarınız <ph name="USER_NAME" /> adına həmişəlik bağlı qalacaq. Bu datanı Google Hesab İdarə Paneli vasitəsilə silə biləcəksiniz, lakin bu datanı digər hesabla əlaqələndirə bilməyəcəksiniz. Mövcud Chromium datanızı ayrı saxlamaq üçün yeni profil yarada bilərsiniz. <ph name="LEARN_MORE" /></translation>
-<translation id="1911763535808217981">Bunu deaktiv etməklə Chromium'a giriş etmədən Gmail kimi Google saytlarına daxil ola bilərsiniz</translation>
-<translation id="1929939181775079593">Chromium cavab vermir. İndi yenidən başladılsın?</translation>
+<translation id="2804101107797787361">Yeni, daha güvənli WEB3 DNA Browser versiyası əlçatandır.</translation>
+<translation id="9029405963934901712">Saytların sizə reklam göstərmək üçün istifadə etdiyi maraqlı mövzuları görə və silə bilərsiniz. WEB3 DNA Browser son baxış tarixçənizə əsasən maraqlarınızı təxmin edir.</translation>
+<translation id="2051400772676536118">WEB3 DNA Browser'a fonda işləməyə icazə verin</translation>
+<translation id="9219442880476358008">WEB3 DNA Browser'u güvənli etmək üçün,  <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> siyahısında olmayan və xəbəriniz olmadan əlavə edilən bəzi artırmaları deaktiv etdik.</translation>
+<translation id="2776567154969336836">WEB3 DNA Browser'u yenidən quraşdırın</translation>
+<translation id="4915372523140836376">Daxil olunmuş Google Hesablarını idarə edə bilərsiniz. Google Hesablarınız WEB3 DNA Browser brauzeri, Play Market, Gmail və digər xidmətlər üçün istifadə olunur. Ailə üzvü kimi başqası üçün bir hesab əlavə etmək istəyirsinizsə, əvəzində <ph name="DEVICE_TYPE" /> cihazınıza yeni bir şəxs əlavə edin. <ph name="LINK_BEGIN" />Ətraflı məlumat<ph name="LINK_END" /></translation>
+<translation id="4370275707492934729">Saytlar maraqlarınız haqqında WEB3 DNA Browser ilə məlumat saxlaya bilər. Məsələn, marafona ayaqqabı almaq üçün sayta daxil olsanız, sayt marağınızı qaçış marafonu kimi müəyyən edə bilər. Sonra yarışa yazılmaq üçün başqa sayta daxil olsanız, həmin sayt maraqlarınız əsasında sizə qaçış ayaqqabısı reklamı göstərə bilər.</translation>
+<translation id="4590088122952951314">Nəzarət olunan hesabla daxil olursunuz və hesabın administratoruna WEB3 DNA Browser profiliniz üzərində nəzarət etmək imkanı verirsiniz. Tətbiqləriniz, əlfəcinləriniz, tarixçəniz, parollarınız və digər ayarlarınız <ph name="USER_NAME" /> adına həmişəlik bağlı qalacaq. Bu datanı Google Hesab İdarə Paneli vasitəsilə silə biləcəksiniz, lakin bu datanı digər hesabla əlaqələndirə bilməyəcəksiniz. Mövcud WEB3 DNA Browser datanızı ayrı saxlamaq üçün yeni profil yarada bilərsiniz. <ph name="LEARN_MORE" /></translation>
+<translation id="1773107071029134155">Bunu deaktiv etməklə WEB3 DNA Browser'a giriş etmədən Gmail kimi Google saytlarına daxil ola bilərsiniz</translation>
+<translation id="1404683263809963517">WEB3 DNA Browser cavab vermir. İndi yenidən başladılsın?</translation>
 <translation id="193439633299369377">Güncəlləşmənin tətbiq olunması üçün ChromiumOS yenidən başladılmalıdır.</translation>
-<translation id="1940680973325097484">Bu hesabı sadəcə bir dəfə istifadə etmək istəyirsinizsə, Chromium brauzerində Qonaq rejimindən istifadə edə bilərsiniz. Başqa birisi üçün hesab əlavə etmək istəyirsinizsə, <ph name="DEVICE_TYPE" /> cihazınıza <ph name="LINK_BEGIN" />yeni şəxs əlavə edin<ph name="LINK_END" />.
+<translation id="2844934533235602125">Bu hesabı sadəcə bir dəfə istifadə etmək istəyirsinizsə, WEB3 DNA Browser brauzerində Qonaq rejimindən istifadə edə bilərsiniz. Başqa birisi üçün hesab əlavə etmək istəyirsinizsə, <ph name="DEVICE_TYPE" /> cihazınıza <ph name="LINK_BEGIN" />yeni şəxs əlavə edin<ph name="LINK_END" />.
 
 Hazırda veb saytlar və tətbiqlərə verdiyiniz icazələr bu hesaba tətbiq oluna bilər. Google Hesablarınızı <ph name="SETTINGS_LINK_BEGIN" />Ayarlarda<ph name="SETTINGS_LINK_END" /> idarə edə bilərsiniz.</translation>
 <translation id="1953553007165777902">Endirilir... <ph name="MINUTE" /> dəqiqə qalıb</translation>
-<translation id="1966382378801805537">Chromium defolt brauzeri müəyyən edə və ya ayarlaya bilmir</translation>
-<translation id="2008474315282236005">1 element cihazdan silinəcək. Sonradan datanızı bərpa etmək üçün <ph name="USER_EMAIL" /> kimi Chromiuma daxil olun.</translation>
+<translation id="7100172292317798034">WEB3 DNA Browser defolt brauzeri müəyyən edə və ya ayarlaya bilmir</translation>
+<translation id="7388619658790717510">1 element cihazdan silinəcək. Sonradan datanızı bərpa etmək üçün <ph name="USER_EMAIL" /> kimi Chromiuma daxil olun.</translation>
 <translation id="2018879682492276940">Quraşdırma alınmadı. Yenidən sınayın.</translation>
-<translation id="2020032459870799438">Digər parollarınızın data pozuntuları və digər güvənlik məsələlərinə qarşı güvəndə olduğunu yoxlamaq üçün <ph name="BEGIN_LINK" />Chromium'a daxil olun<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Google xidmətlərində daha çox fərdiləşdirilmiş təcrübə üçün Chromium tarixçəsinin daxil edilib-edilməməsini seçin</translation>
-<translation id="2088953378266246249">Chromium'un kök sertifikatlarını necə idarə etməsi haqqında məlumat</translation>
-<translation id="2174178932569897599">Chromium'u fərdiləşdirin</translation>
+<translation id="8775681507105719302">Digər parollarınızın data pozuntuları və digər güvənlik məsələlərinə qarşı güvəndə olduğunu yoxlamaq üçün <ph name="BEGIN_LINK" />WEB3 DNA Browser'a daxil olun<ph name="END_LINK" />.</translation>
+<translation id="6765354414432698675">Google xidmətlərində daha çox fərdiləşdirilmiş təcrübə üçün WEB3 DNA Browser tarixçəsinin daxil edilib-edilməməsini seçin</translation>
+<translation id="5773286839920477494">WEB3 DNA Browser'un kök sertifikatlarını necə idarə etməsi haqqında məlumat</translation>
+<translation id="1342703999636762729">WEB3 DNA Browser'u fərdiləşdirin</translation>
 <translation id="2174917724755363426">Quraşdırma tamamlanmayıb. Ləğv etmək istədiyinizə əminsiniz?</translation>
-<translation id="2185166961232948079">Chromium - Şəbəkəyə Giriş - <ph name="PAGE_TITLE" /></translation>
-<translation id="2241627712206172106">Paylaşılan kompüteriniz varsa, kompüterin paylaşıldığı şəxslər ayrı-ayrılıqda istifadə edə və Chromium'u istədikləri kimi quraşdıra bilər.</translation>
-<translation id="2313870531055795960">URL'ləri Chromium'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə Chromium səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər.</translation>
-<translation id="2343156876103232566">Buradan Android telefonunuza nömrə göndərmək üçün hər iki cihazda Chromium'a daxil olun.</translation>
-<translation id="2347108572062610441">Bu artırma Chromium'u başlatdığınız zaman hansı səhifənin göstərildiyini dəyişdi.</translation>
+<translation id="4604256298037443917">WEB3 DNA Browser - Şəbəkəyə Giriş - <ph name="PAGE_TITLE" /></translation>
+<translation id="3692764894142598026">Paylaşılan kompüteriniz varsa, kompüterin paylaşıldığı şəxslər ayrı-ayrılıqda istifadə edə və WEB3 DNA Browser'u istədikləri kimi quraşdıra bilər.</translation>
+<translation id="1653667178840181002">URL'ləri WEB3 DNA Browser'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə WEB3 DNA Browser səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər.</translation>
+<translation id="4170954887813547201">Buradan Android telefonunuza nömrə göndərmək üçün hər iki cihazda WEB3 DNA Browser'a daxil olun.</translation>
+<translation id="7632546848754920458">Bu artırma WEB3 DNA Browser'u başlatdığınız zaman hansı səhifənin göstərildiyini dəyişdi.</translation>
 <translation id="2359808026110333948">Davam edin</translation>
 <translation id="2384373936468275798">ChromiumOS datanızı sinxronizasiya edə bilmir, çünki hesaba giriş məlumatlarınız köhnədir.</translation>
-<translation id="2396765026452590966">"<ph name="EXTENSION_NAME" />" artırması Chromium'u başlatdığınız zaman hansı səhifənin göstərildiyini dəyişdi.</translation>
-<translation id="2401032172288869980">Chromium bu sayt üçün kamera və mikrofon icazəsi tələb edir</translation>
-<translation id="2483889755041906834">Chromium'da</translation>
+<translation id="3766979587851503326">"<ph name="EXTENSION_NAME" />" artırması WEB3 DNA Browser'u başlatdığınız zaman hansı səhifənin göstərildiyini dəyişdi.</translation>
+<translation id="3197411627422504716">WEB3 DNA Browser bu sayt üçün kamera və mikrofon icazəsi tələb edir</translation>
+<translation id="6895208784707407784">WEB3 DNA Browser'da</translation>
 <translation id="2485422356828889247">Sistemdən silin</translation>
-<translation id="2560420686485554789">Faylları endirmək üçün Chromium yaddaşa giriş tələb edir</translation>
-<translation id="2572494885440352020">Chromium Yardım</translation>
-<translation id="2583187216237139145">Bu profilin istifadəsi zamanı yaranan hər hansı bir Chromium datası (əlfəcinlər, tarixçələr, parolların yaradılması və digər ayarlar kimi) iş profili administratoru tərəfindən silinə bilər. <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Chromium istifadəsinə davam edin</translation>
-<translation id="2648074677641340862">Quraşdırma zamanı əməliyyat sistemi xətası baş verdi. Chromium'u yenidən endirin.</translation>
-<translation id="2661879430930417727">Cihaz paylaşsanız, dostlarınız və ailəniz ayrıca baxış keçirə bilər və Chromium'u istədikləri kimi ayarlaya bilər.</translation>
-<translation id="2669853942967761236">Chromium bu arxiv faylını bloklayıb, çünki faylda zərərli proqram ola bilər</translation>
-<translation id="268602741124540128"><ph name="ACCOUNT_FIRST_NAME" />, Chromium'a xoş gəlmisiniz</translation>
-<translation id="2711502716910134313">Chromium Paneli</translation>
-<translation id="2718390899429598676">Əlavə təhlükəsizlik üçün, Chromium datanızı şifrələyəcək.</translation>
+<translation id="5049950391929594900">Faylları endirmək üçün WEB3 DNA Browser yaddaşa giriş tələb edir</translation>
+<translation id="2749516262341915024">WEB3 DNA Browser Yardım</translation>
+<translation id="2113242903075215938">Bu profilin istifadəsi zamanı yaranan hər hansı bir WEB3 DNA Browser datası (əlfəcinlər, tarixçələr, parolların yaradılması və digər ayarlar kimi) iş profili administratoru tərəfindən silinə bilər. <ph name="LEARN_MORE" /></translation>
+<translation id="4952960270884842265">WEB3 DNA Browser istifadəsinə davam edin</translation>
+<translation id="2731252252225464533">Quraşdırma zamanı əməliyyat sistemi xətası baş verdi. WEB3 DNA Browser'u yenidən endirin.</translation>
+<translation id="1821196395946518624">Cihaz paylaşsanız, dostlarınız və ailəniz ayrıca baxış keçirə bilər və WEB3 DNA Browser'u istədikləri kimi ayarlaya bilər.</translation>
+<translation id="5872680003660133275">WEB3 DNA Browser bu arxiv faylını bloklayıb, çünki faylda zərərli proqram ola bilər</translation>
+<translation id="7648513030043385007"><ph name="ACCOUNT_FIRST_NAME" />, WEB3 DNA Browser'a xoş gəlmisiniz</translation>
+<translation id="544374351717235856">WEB3 DNA Browser Paneli</translation>
+<translation id="5554916945232735698">Əlavə təhlükəsizlik üçün, WEB3 DNA Browser datanızı şifrələyəcək.</translation>
 <translation id="2770231113462710648">Defolt brauzeri dəyişin:</translation>
 <translation id="2799223571221894425">Yenidən başladın</translation>
-<translation id="2837693172913560447">Bununla <ph name="USER_EMAIL_ADDRESS" /> üçün yeni Chromium profili yaradılacaq</translation>
-<translation id="2847479871509788944">Chromium'dan silin...</translation>
-<translation id="2850691299438350830">Daxil olduğunuzda Chromium'da sizi qoruyur və digər Google tətbiqlərində təhlükəsizliyinizi artırmaq üçün istifadə edilə bilər</translation>
+<translation id="7343868188703540938">Bununla <ph name="USER_EMAIL_ADDRESS" /> üçün yeni WEB3 DNA Browser profili yaradılacaq</translation>
+<translation id="4410717336615333062">WEB3 DNA Browser'dan silin...</translation>
+<translation id="4055140529823965372">Daxil olduğunuzda WEB3 DNA Browser'da sizi qoruyur və digər Google tətbiqlərində təhlükəsizliyinizi artırmaq üçün istifadə edilə bilər</translation>
 <translation id="2885378588091291677">Tapşırıq Meneceri</translation>
-<translation id="2910007522516064972">Chromium haqqında</translation>
+<translation id="224853752763613334">WEB3 DNA Browser haqqında</translation>
 <translation id="2915996080311180594">Sonra yenidən başladın</translation>
 <translation id="2928420929544864228">Quraşdırma tamamlandı.</translation>
-<translation id="2977470724722393594">Chromium güncəldir</translation>
-<translation id="2977506796191543575">Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə Chromium səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər</translation>
-<translation id="2983934633046890458">Chromium parolları redaktə etməyə çalışır.</translation>
-<translation id="3032706164202344641">Chromium parollarınızı yoxlaya bilmir. Sonra yenidən cəhd edin.</translation>
-<translation id="3032787606318309379">Xrom durub ...</translation>
+<translation id="8483611164641766271">WEB3 DNA Browser güncəldir</translation>
+<translation id="2739338544529681223">Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə WEB3 DNA Browser səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər</translation>
+<translation id="6709063507223740532">WEB3 DNA Browser parolları redaktə etməyə çalışır.</translation>
+<translation id="6416874087185776406">WEB3 DNA Browser parollarınızı yoxlaya bilmir. Sonra yenidən cəhd edin.</translation>
+<translation id="7632657090539802919">Xrom durub ...</translation>
 <translation id="3038232873781883849">Quraşdırılması gözlənilir...</translation>
-<translation id="3068515742935458733">Qəza raportlarını və <ph name="UMA_LINK" /> linkini Google'a göndərməklə Chromium'un daha keyfiyyətli olmasına yardım olun</translation>
-<translation id="3101560983689755071">Baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Chromium hər ay maraqlarınızı növbəlilik əsasında avtomatik olaraq silir. Silmədiyiniz təqdirdə maraqlar yenilənə bilər.</translation>
-<translation id="3103660991484857065">Quraşdırıcı arxivi dekompres edə bilmədi. Chromium'u yenidən endirməyiniz xahiş olunur.</translation>
-<translation id="3130323860337406239">Chromium mikrofonunuzu istifadə edir.</translation>
-<translation id="3155163173539279776">Chromium'u yenidən başladın</translation>
-<translation id="3179665906251668410">Linki Gizli Chromium Pəncərəsində açın</translation>
-<translation id="3185330573522821672">Yeni Chromium profilinizi fərdiləşdirin</translation>
-<translation id="3190315855212034486">Hoa! Chromium'da qəza oldu. Yenidən işə salınsın?</translation>
-<translation id="3229526316128325841">Chromium parollarınızı eksport etmək istəyir.</translation>
-<translation id="3258596308407688501">Chromium öz data direktivini oxuya və yaza bilməz:  <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3283186697780795848">Chromium versiyası <ph name="PRODUCT_VERSION" /> quraşdırılıb</translation>
+<translation id="8517483409722571699">Qəza raportlarını və <ph name="UMA_LINK" /> linkini Google'a göndərməklə WEB3 DNA Browser'un daha keyfiyyətli olmasına yardım olun</translation>
+<translation id="4288053573753081242">Baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün WEB3 DNA Browser hər ay maraqlarınızı növbəlilik əsasında avtomatik olaraq silir. Silmədiyiniz təqdirdə maraqlar yenilənə bilər.</translation>
+<translation id="4786656728645530523">Quraşdırıcı arxivi dekompres edə bilmədi. WEB3 DNA Browser'u yenidən endirməyiniz xahiş olunur.</translation>
+<translation id="9049602934378376908">WEB3 DNA Browser mikrofonunuzu istifadə edir.</translation>
+<translation id="5623271663074009477">WEB3 DNA Browser'u yenidən başladın</translation>
+<translation id="8452871758697304895">Linki Gizli WEB3 DNA Browser Pəncərəsində açın</translation>
+<translation id="1129084746726669073">Yeni WEB3 DNA Browser profilinizi fərdiləşdirin</translation>
+<translation id="5492613633683347362">Hoa! WEB3 DNA Browser'da qəza oldu. Yenidən işə salınsın?</translation>
+<translation id="8199824399077877420">WEB3 DNA Browser parollarınızı eksport etmək istəyir.</translation>
+<translation id="4228792865955409287">WEB3 DNA Browser öz data direktivini oxuya və yaza bilməz:  <ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="3857433786109736615">WEB3 DNA Browser versiyası <ph name="PRODUCT_VERSION" /> quraşdırılıb</translation>
 <translation id="3286538390144397061">İndi yenidən başladın</translation>
-<translation id="328888136576916638">Google API açarları çatışmır. Chromium'un bəzi funksionallığı deaktiv ediləcək.</translation>
-<translation id="3296368748942286671">Chromium bağlı olduqda arxa fon tətbiqləri işləsin?</translation>
-<translation id="3350761136195634146">Bu hesab ilə Chromium profili artıq mövcuddur</translation>
+<translation id="1496654316150745021">Google API açarları çatışmır. WEB3 DNA Browser'un bəzi funksionallığı deaktiv ediləcək.</translation>
+<translation id="1658920309978171288">WEB3 DNA Browser bağlı olduqda arxa fon tətbiqləri işləsin?</translation>
+<translation id="6099044929456210951">Bu hesab ilə WEB3 DNA Browser profili artıq mövcuddur</translation>
 <translation id="3387527074123400161">ChromiumOS</translation>
-<translation id="3406848076815591792">Mövcud Chromium profilinə keçirilsin?</translation>
+<translation id="3490516070300665202">Mövcud WEB3 DNA Browser profilinə keçirilsin?</translation>
 <translation id="3412460710772753638">Bu cihazda Parol Menecerində</translation>
-<translation id="3420193029125244288">{COUNT,plural, =1{Administratorunuz Chromium'un 1 dəqiqədən çox fəaliyyətsiz qaldıqda bağlanmasını konfiqurasiya edib.}other{Administratorunuz Chromium'un # dəqiqədən çox fəaliyyətsiz qaldıqda bağlanmasını konfiqurasiya edib.}}</translation>
-<translation id="3430503420100763906">Chromium profilləri ilə bütün Chromium elementlərinizi ayıra bilərsiniz. Dostlarınız və ailəniz üçün profillər yaradın və ya iş və əyləncə arasında bölün.</translation>
-<translation id="347328004046849135">Oğurlanmış parol ilə daxil olduqda Chromium sizə bildiriş göndərəcək</translation>
-<translation id="3474745554856756813"><ph name="ITEMS_COUNT" /> element bu cihazdan silinəcək. Sonradan datanızı bərpa etmək üçün Chromiuma <ph name="USER_EMAIL" /> kimi daxil olun.</translation>
-<translation id="3497319089134299931"><ph name="SHORTCUT" /> Chromium profilləri arasında keçid edə bilər</translation>
-<translation id="3509308970982693815">Bütün Chromium pəncərələrini bağlayın və yenidən cəhd edin.</translation>
-<translation id="3518180795744733843">Chromium'da Google Assistent sizin üçün vebsaytlarda əməliyyatlar icra edə bilər</translation>
-<translation id="3533435340678213462">Məxfiliyinizi qorumaq üçün 4 həftədən köhnə maraqlarınızı avtomatik silirik. Baxmağa davam etdikcə, maraq siyahıda yenidən görünə bilər. Və ya Chromium'un nəzərə almasını istəmədiyiniz maraqları silə bilərsiniz.</translation>
-<translation id="3567254597502212821">Baxış tarixçəniz, bu cihazda Chromium istifadə edərək ziyarət etdiyiniz saytların qeydi.</translation>
-<translation id="3575459661164320785">Kompüterdə zərərli proqram təminatı var. Brauzerin normal şəkldə işləməsi üçün Chromium onu silə, ayarları bərpa edə və artırmaları deaktiv edə bilər.</translation>
-<translation id="3593091352817399191">Başqa hesab artıq daxil olub. Baxışınızı ayrı saxlamaq üçün Chromium sizin üçün öz profilinizi yarada bilər.</translation>
-<translation id="3639635944603682591">Bu şəxsin axtarış datası bu cihazdan silinəcək. Datanı bərpa etmək üçün Chromium'a <ph name="USER_EMAIL" /> olaraq daxil olun.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Chromium üçün yeni güncəlləmə əlçatandır. Chromium yenidən işə başladıqdan sonra tətbiq ediləcək.}=1{Chromium üçün yeni güncəlləmə əlçatandır. Chromium yenidən işə başladıqdan sonra tətbiq ediləcək. Anonim pəncərəniz yenidən açılmayacaq.}other{Chromium üçün yeni güncəlləmə əlçatandır. Chromium yenidən işə başladıqdan sonra tətbiq ediləcək. # Anonim pəncərəniz yenidən açılmayacaq.}}</translation>
-<translation id="3651803019964686660"><ph name="ORIGIN" /> cihazından Android telefonunuza nömrə göndərmək üçün hər iki cihazda Chromium'a daxil olun.</translation>
-<translation id="3685209450716071127">Chromium parollarınızı yoxlaya bilmir. İnternet bağlantınızı yoxlamağa cəhd edin.</translation>
-<translation id="3702352323269013324">Chromium'da reklam fərdiləşdirməsi haqqında ətraflı məlumat</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Administrator bu güncəlləməni tətbiq etmək üçün Chromium'u yenidən başlatmanızı tələb edir}=1{Administrator bu güncəlləməni tətbiq etmək üçün Chromium'u yenidən başlatmanızı tələb edir. Anonim pəncərəniz yenidən açılmayacaq.}other{Administrator bu güncəlləməni tətbiq etmək üçün Chromium'u yenidən başlatmanızı tələb edir. # Anonim pəncərəniz yenidən açılmayacaq.}}</translation>
-<translation id="3713809861844741608">Linki yeni Chromium tabında açın</translation>
-<translation id="3728336900324680424">Ünvan panelində təklif irəli sürmək üçün Chromium Diskinizə daxil olacaq</translation>
-<translation id="378917192836375108">Chromium Sizə imkan verir ki, telefon nömrənizə vebdə klikləyərək Skype-da zəng edəsiniz!</translation>
+<translation id="3459447433517900945">{COUNT,plural, =1{Administratorunuz WEB3 DNA Browser'un 1 dəqiqədən çox fəaliyyətsiz qaldıqda bağlanmasını konfiqurasiya edib.}other{Administratorunuz WEB3 DNA Browser'un # dəqiqədən çox fəaliyyətsiz qaldıqda bağlanmasını konfiqurasiya edib.}}</translation>
+<translation id="8670809163194068299">WEB3 DNA Browser profilləri ilə bütün WEB3 DNA Browser elementlərinizi ayıra bilərsiniz. Dostlarınız və ailəniz üçün profillər yaradın və ya iş və əyləncə arasında bölün.</translation>
+<translation id="9066892520177234564">Oğurlanmış parol ilə daxil olduqda WEB3 DNA Browser sizə bildiriş göndərəcək</translation>
+<translation id="2558936839934178842"><ph name="ITEMS_COUNT" /> element bu cihazdan silinəcək. Sonradan datanızı bərpa etmək üçün Chromiuma <ph name="USER_EMAIL" /> kimi daxil olun.</translation>
+<translation id="3356184603360407459"><ph name="SHORTCUT" /> WEB3 DNA Browser profilləri arasında keçid edə bilər</translation>
+<translation id="4904006555695224532">Bütün WEB3 DNA Browser pəncərələrini bağlayın və yenidən cəhd edin.</translation>
+<translation id="1702866421814791137">WEB3 DNA Browser'da Google Assistent sizin üçün vebsaytlarda əməliyyatlar icra edə bilər</translation>
+<translation id="5618636199529337261">Məxfiliyinizi qorumaq üçün 4 həftədən köhnə maraqlarınızı avtomatik silirik. Baxmağa davam etdikcə, maraq siyahıda yenidən görünə bilər. Və ya WEB3 DNA Browser'un nəzərə almasını istəmədiyiniz maraqları silə bilərsiniz.</translation>
+<translation id="319672769194370808">Baxış tarixçəniz, bu cihazda WEB3 DNA Browser istifadə edərək ziyarət etdiyiniz saytların qeydi.</translation>
+<translation id="4060507003609322665">Kompüterdə zərərli proqram təminatı var. Brauzerin normal şəkldə işləməsi üçün WEB3 DNA Browser onu silə, ayarları bərpa edə və artırmaları deaktiv edə bilər.</translation>
+<translation id="6858481853319304501">Başqa hesab artıq daxil olub. Baxışınızı ayrı saxlamaq üçün WEB3 DNA Browser sizin üçün öz profilinizi yarada bilər.</translation>
+<translation id="7181053905423306884">Bu şəxsin axtarış datası bu cihazdan silinəcək. Datanı bərpa etmək üçün WEB3 DNA Browser'a <ph name="USER_EMAIL" /> olaraq daxil olun.</translation>
+<translation id="8833453854863974594">{COUNT,plural, =0{WEB3 DNA Browser üçün yeni güncəlləmə əlçatandır. WEB3 DNA Browser yenidən işə başladıqdan sonra tətbiq ediləcək.}=1{WEB3 DNA Browser üçün yeni güncəlləmə əlçatandır. WEB3 DNA Browser yenidən işə başladıqdan sonra tətbiq ediləcək. Anonim pəncərəniz yenidən açılmayacaq.}other{WEB3 DNA Browser üçün yeni güncəlləmə əlçatandır. WEB3 DNA Browser yenidən işə başladıqdan sonra tətbiq ediləcək. # Anonim pəncərəniz yenidən açılmayacaq.}}</translation>
+<translation id="890421963650512515"><ph name="ORIGIN" /> cihazından Android telefonunuza nömrə göndərmək üçün hər iki cihazda WEB3 DNA Browser'a daxil olun.</translation>
+<translation id="8559660999448670332">WEB3 DNA Browser parollarınızı yoxlaya bilmir. İnternet bağlantınızı yoxlamağa cəhd edin.</translation>
+<translation id="2460459186000985919">WEB3 DNA Browser'da reklam fərdiləşdirməsi haqqında ətraflı məlumat</translation>
+<translation id="1249507445971540698">{COUNT,plural, =0{Administrator bu güncəlləməni tətbiq etmək üçün WEB3 DNA Browser'u yenidən başlatmanızı tələb edir}=1{Administrator bu güncəlləməni tətbiq etmək üçün WEB3 DNA Browser'u yenidən başlatmanızı tələb edir. Anonim pəncərəniz yenidən açılmayacaq.}other{Administrator bu güncəlləməni tətbiq etmək üçün WEB3 DNA Browser'u yenidən başlatmanızı tələb edir. # Anonim pəncərəniz yenidən açılmayacaq.}}</translation>
+<translation id="8552541042755991172">Linki yeni WEB3 DNA Browser tabında açın</translation>
+<translation id="6916875900143115982">Ünvan panelində təklif irəli sürmək üçün WEB3 DNA Browser Diskinizə daxil olacaq</translation>
+<translation id="336867116231879142">WEB3 DNA Browser Sizə imkan verir ki, telefon nömrənizə vebdə klikləyərək Skype-da zəng edəsiniz!</translation>
 <translation id="3830894615770080216">ChromiumOS sistemi</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - Chromium</translation>
+<translation id="8864402478426522531"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser</translation>
 <translation id="386822487697155367">ChromiumOS üzrə yardım alın</translation>
-<translation id="3871664619793219264">Chromium brauzerinin elementlərini <ph name="ACCOUNT_EMAIL" /> hesabından əldə edin</translation>
-<translation id="388648406173476553">Chromium'u fərdiləşdirin və nəzarət edin. Buna baxmalısınız - ətraflı məlumat üçün klikləyin.</translation>
-<translation id="3889543394854987837">Chromium'u açmaq üçün adın üzərinə klikləyin və baxışa başlayın.</translation>
-<translation id="390528597099634151"><ph name="EXISTING_USER" /> artıq bu Chromium profilinə daxil olub. Baxışınızı ayrı saxlamaq üçün Chromium sizin üçün öz profilinizi yarada bilər.</translation>
-<translation id="391789666908693569">Hesabınızı <ph name="MANAGER_NAME" /> idarə edir. Administratorunuz bu Chromium brauzer profilini və onun əlfəcinlər, tarixçə və parollar kimi datasını görə və redaktə edə bilər.</translation>
-<translation id="3945058413678539331">Chromium parolları kopyalamağa çalışır. Buna icazə vermək üçün Windows parolunuzu yazın.</translation>
-<translation id="3962623956404948996">Chromium bu faylı skan etməyi tövsiyə edir, çünki o, təhlükəli ola bilər</translation>
+<translation id="3532820600057985798">WEB3 DNA Browser brauzerinin elementlərini <ph name="ACCOUNT_EMAIL" /> hesabından əldə edin</translation>
+<translation id="3254774751045951355">WEB3 DNA Browser'u fərdiləşdirin və nəzarət edin. Buna baxmalısınız - ətraflı məlumat üçün klikləyin.</translation>
+<translation id="5690972056512883402">WEB3 DNA Browser'u açmaq üçün adın üzərinə klikləyin və baxışa başlayın.</translation>
+<translation id="5645023388974281920"><ph name="EXISTING_USER" /> artıq bu WEB3 DNA Browser profilinə daxil olub. Baxışınızı ayrı saxlamaq üçün WEB3 DNA Browser sizin üçün öz profilinizi yarada bilər.</translation>
+<translation id="8552133641824014764">Hesabınızı <ph name="MANAGER_NAME" /> idarə edir. Administratorunuz bu WEB3 DNA Browser brauzer profilini və onun əlfəcinlər, tarixçə və parollar kimi datasını görə və redaktə edə bilər.</translation>
+<translation id="1745190996116952155">WEB3 DNA Browser parolları kopyalamağa çalışır. Buna icazə vermək üçün Windows parolunuzu yazın.</translation>
+<translation id="2363126436977372294">WEB3 DNA Browser bu faylı skan etməyi tövsiyə edir, çünki o, təhlükəli ola bilər</translation>
 <translation id="3997429360543082038">ChromiumOS haqqında</translation>
 <translation id="4019629340646866719">ChromiumOS <ph name="BEGIN_LINK_LINUX_OSS" />Linux tərtibat mühiti<ph name="END_LINK_LINUX_OSS" /> kimi əlavə <ph name="BEGIN_LINK_CROS_OSS" />açıq mənbə proqram təminatı<ph name="END_LINK_CROS_OSS" /> ilə əlçatan edilib.</translation>
-<translation id="4036079820698952681"><ph name="BEGIN_LINK" />Cari ayarları<ph name="END_LINK" /> bildirməklə Chormium'u təkmilləşdirməyə kömək edin</translation>
+<translation id="7039332938370903722"><ph name="BEGIN_LINK" />Cari ayarları<ph name="END_LINK" /> bildirməklə Chormium'u təkmilləşdirməyə kömək edin</translation>
 <translation id="4050175100176540509">Mühüm təhlükəsizlik təkmilləşdirilmələri və yeni funksiyalar son versiyada əlçatandır.</translation>
 <translation id="4148957013307229264">Quraşdırılır...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> - Şəbəkəyə Giriş - Chromium</translation>
-<translation id="421369550622382712">Chromium üçün möhtəşəm tətbiqlər, oyunlar, artırmalar və temalar kəşf edin.</translation>
-<translation id="4216212958613226427">Bu dil Chromium UI-ni göstərmək üçün istifadə edilir</translation>
+<translation id="9037768363939314060"><ph name="PAGE_TITLE" /> - Şəbəkəyə Giriş - WEB3 DNA Browser</translation>
+<translation id="65082721690930806">WEB3 DNA Browser üçün möhtəşəm tətbiqlər, oyunlar, artırmalar və temalar kəşf edin.</translation>
+<translation id="8180918330054927789">Bu dil WEB3 DNA Browser UI-ni göstərmək üçün istifadə edilir</translation>
 <translation id="4222932583846282852">Ləğv edilir...</translation>
-<translation id="4230135487732243613">Chromium datanız bu hesab ilə birləşdirilsin?</translation>
-<translation id="4271805377592243930">Chromium ilə yardım alın</translation>
-<translation id="4285930937574705105">Naməlum xəta üzündən quraşdırmaq alınmadı. Əgər Chromium hazırda işləyirsə, lütfən, qapadın və yenidən cəhd edin.</translation>
+<translation id="4117615645977273587">WEB3 DNA Browser datanız bu hesab ilə birləşdirilsin?</translation>
+<translation id="2562528065031024752">WEB3 DNA Browser ilə yardım alın</translation>
+<translation id="4628286205171331451">Naməlum xəta üzündən quraşdırmaq alınmadı. Əgər WEB3 DNA Browser hazırda işləyirsə, lütfən, qapadın və yenidən cəhd edin.</translation>
 <translation id="4304713468139749426">Parol Meneceri</translation>
 <translation id="4334294535648607276">Endirmə tamamlandı.</translation>
 <translation id="439358628917130594"><ph name="MANAGER" /> bu cihazı istifadə etməzdən əvvəl aşağıdakı Xidmət Şərtlərini oxumağınızı və qəbul etməyinizi tələb edir. Bu şərtlər ChromiumOS Şərtlərini artırmır, dəyişdirmir və ya məhdudlaşdırmır.</translation>
-<translation id="4407044323746248786">Chromium'dan istənilən halda çıxılsın?</translation>
-<translation id="4415566066719264597">Chromium'a Arxa Fonda İşləmək İcazəsi Verin</translation>
-<translation id="4423735387467980091">Fərdiləşdirin və Chromium'u kontrol edin</translation>
+<translation id="5363800095683563940">WEB3 DNA Browser'dan istənilən halda çıxılsın?</translation>
+<translation id="4413681411297396618">WEB3 DNA Browser'a Arxa Fonda İşləmək İcazəsi Verin</translation>
+<translation id="4960563596527056032">Fərdiləşdirin və WEB3 DNA Browser'u kontrol edin</translation>
 <translation id="4427306783828095590">Təkmil qoruma ilə fişinq və zərərli proqramların bloklanması üçün daha çox iş görülür</translation>
-<translation id="452711251841752011">Chromium'a xoş gəlmisiniz; yeni brauzer pəncərəsi açılıb</translation>
-<translation id="4544142686420020088">Chromium güncəllənmədi, xəta baş verdi. <ph name="BEGIN_LINK" />Chrome'un güncəllənmə problemlərini və alınmayan güncəllənmələri həll edin.<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">Yeni Chromium profilində davam edilsin?</translation>
+<translation id="5075487038316202932">WEB3 DNA Browser'a xoş gəlmisiniz; yeni brauzer pəncərəsi açılıb</translation>
+<translation id="8333408299151688471">WEB3 DNA Browser güncəllənmədi, xəta baş verdi. <ph name="BEGIN_LINK" />WEB3 DNA Browser'un güncəllənmə problemlərini və alınmayan güncəllənmələri həll edin.<ph name="END_LINK" /></translation>
+<translation id="5710517655208362990">Yeni WEB3 DNA Browser profilində davam edilsin?</translation>
 <translation id="4567424176335768812"><ph name="USER_EMAIL_ADDRESS" /> kimi daxil olmusunuz. İndi bütün daxil olan cihazlarınızdan əlfəcin, tarixçə və digər ayarlara daxil ola bilərsiniz.</translation>
 <translation id="4594305310729380060">Bu cihazda Parol Menecerinə</translation>
-<translation id="459535195905078186">Chromium Tətbiqləri</translation>
+<translation id="8700214093481776621">WEB3 DNA Browser Tətbiqləri</translation>
 <translation id="4613863813562375431">ChromiumOS versiyası</translation>
-<translation id="4621240073146040695">Güncəllənmək üzrədir. Güncəlləşməni tamamlamaq üçün Chromium'u yenidən işə salın.</translation>
-<translation id="4665829708273112819">Xəbərdarlıq: Chromium artırmaların brauzer tarixçənizi yazmasının qarşısını ala bilməz. Bu artırmanı Anonim rejimdə deaktiv etmək üçün bu seçimi ləğv edin.</translation>
-<translation id="4673151026126227699">Chromium istifadə hesabatlarını da paylaşırsınızsa, bu hesabatlara ziyarət etdiyiniz keçidlər daxil olacaq</translation>
-<translation id="4677944499843243528">Profil başqa kompüterdə başqa Chromium prosesi tərəfindən (<ph name="PROCESS_ID" />)istifadə olunur (<ph name="HOST_NAME" />). Chromium profili xəta almaması üçün qapadıb. Əgər bu profilin başqa proseslər tərəfindən istifadə olunmadığına əminsinizsə, profili blokdan çıxarın və Chromium'u yenidən başladın.</translation>
+<translation id="6951246183774166202">Güncəllənmək üzrədir. Güncəlləşməni tamamlamaq üçün WEB3 DNA Browser'u yenidən işə salın.</translation>
+<translation id="1967316171334904609">Xəbərdarlıq: WEB3 DNA Browser artırmaların brauzer tarixçənizi yazmasının qarşısını ala bilməz. Bu artırmanı Anonim rejimdə deaktiv etmək üçün bu seçimi ləğv edin.</translation>
+<translation id="6242940079717718930">WEB3 DNA Browser istifadə hesabatlarını da paylaşırsınızsa, bu hesabatlara ziyarət etdiyiniz keçidlər daxil olacaq</translation>
+<translation id="4405105480942922067">Profil başqa kompüterdə başqa WEB3 DNA Browser prosesi tərəfindən (<ph name="PROCESS_ID" />)istifadə olunur (<ph name="HOST_NAME" />). WEB3 DNA Browser profili xəta almaması üçün qapadıb. Əgər bu profilin başqa proseslər tərəfindən istifadə olunmadığına əminsinizsə, profili blokdan çıxarın və WEB3 DNA Browser'u yenidən başladın.</translation>
 <translation id="4680828127924988555">Quraşdırmanı ləğv edin</translation>
-<translation id="4708774505295300557">Kimsə bu kompüterdə <ph name="ACCOUNT_EMAIL_LAST" /> kimi Chromium'a daxil olub. Məlumatınızı ayrı saxlamaq üçün yeni Chromium istifadəçisi yaradın.</translation>
-<translation id="4746050847053251315">Chromium'dan istənilən halda çıxılsın?</translation>
-<translation id="4748217263233248895">Chromium üçün xüsusi güvənlik güncəllənməsi indicə tətbiq edildi. Yenidən başladaraq açıq qalmış tablarınızı bərpa edə bilərsiniz.</translation>
-<translation id="4765210420921718862">İstənilən vaxt Chromium ayarlarında fikrinizi dəyişə bilərsiniz. Sınaqlar reklamların cari təqdim olunma üsulu ilə yanaşı işləyir, beləliklə, dəyişiklikləri dərhal görməyəcəksiniz.</translation>
-<translation id="4788777615168560705">Chromium parollarınızı yoxlaya bilmir. 24 saatdan sonra yenidən cəhd edin və ya <ph name="BEGIN_LINK" />Google Hesabınızda parolları yoxlayın<ph name="END_LINK" />.</translation>
+<translation id="3750760070906465924">Kimsə bu kompüterdə <ph name="ACCOUNT_EMAIL_LAST" /> kimi WEB3 DNA Browser'a daxil olub. Məlumatınızı ayrı saxlamaq üçün yeni WEB3 DNA Browser istifadəçisi yaradın.</translation>
+<translation id="1217313267986183942">WEB3 DNA Browser'dan istənilən halda çıxılsın?</translation>
+<translation id="4805555266423130696">WEB3 DNA Browser üçün xüsusi güvənlik güncəllənməsi indicə tətbiq edildi. Yenidən başladaraq açıq qalmış tablarınızı bərpa edə bilərsiniz.</translation>
+<translation id="3541589509773411057">İstənilən vaxt WEB3 DNA Browser ayarlarında fikrinizi dəyişə bilərsiniz. Sınaqlar reklamların cari təqdim olunma üsulu ilə yanaşı işləyir, beləliklə, dəyişiklikləri dərhal görməyəcəksiniz.</translation>
+<translation id="2655572098566031184">WEB3 DNA Browser parollarınızı yoxlaya bilmir. 24 saatdan sonra yenidən cəhd edin və ya <ph name="BEGIN_LINK" />Google Hesabınızda parolları yoxlayın<ph name="END_LINK" />.</translation>
 <translation id="479167709087336770">Bu, Google axtarışda istifadə edilən eyni orfoqrafiya yoxlayandan istifadə edir. Brauzerdə yazdığınız mətn Google'a göndərilir. Bunu istənilən vaxt ayarlardan dəyişə bilərsiniz.</translation>
-<translation id="4888717733111232871">mDNS trafikinə imkan vermək üçün Chromium üçün daxil olan qayda.</translation>
-<translation id="4893347770495441059">&amp;Chromium'u Güncəlləmək üçün yenidən başladın</translation>
-<translation id="4943838377383847465">Chromium arxa fon rejimindədir.</translation>
-<translation id="4987820182225656817">Qonaqlar geridə heç nə buraxmadan Chromium istifadə edə bilər.</translation>
-<translation id="4994636714258228724">Özünüzü Chromium'a əlavə edin</translation>
-<translation id="5114678101347489141">Chromium saytlara məlumatlarınızdan daha az istifadə etməklə eyni baxış təcrübəsi təqdim etməyə imkan verən yeni funksiyaları araşdırır</translation>
-<translation id="5224391634244552924">Yadda saxlanmış parol yoxdur. Parollarınızı yadda saxladıqda Chromium onları yoxlaya bilər.</translation>
-<translation id="5252179775517634216"><ph name="EXISTING_USER" /> artıq bu Chromium profilinə daxil olub. Bununla <ph name="USER_EMAIL_ADDRESS" /> üçün yeni Chromium profili yaradılacaq</translation>
-<translation id="5277894862589591112">Dəyişiklikləri tətbiq etmək üçün Chromium'u yenidən başladın</translation>
-<translation id="5296845517486664001">Sınaqlar aktiv olduqda və Chromium təsadüfi olaraq sizi aktiv sınağa təyin edibsə, baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Chromium hər ay maraqlarınızı növbəlilik əsasında silir.</translation>
-<translation id="5358375970380395591">İdarə olunan hesabla daxil olursnuz və onun inzibati idarəetməsini Chromium profilinizə verirsiniz. Tətbiqləriniz, əlfəcinləriniz, tarixçəniz və digər ayarlarınız Chromimum datanızla birlikdə <ph name="USER_NAME" /> üzərinə həmişəlik bənd olacaq. Bu datanı Google Hesabları Paneli vasitəsilə silə bilərsiniz, lakin bu datanı digər hesabla əlaqəli edə bilməzsiniz. Mövcud Chrome datanızı ayrı saxlamaq üçün yeni profil yarada bilərsiniz. <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">Chromium güncəllənir (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Chromium girişinə icazə verin</translation>
-<translation id="5398878173008909840">Chromium'um yeni versiyası əlçatandır.</translation>
-<translation id="5405650547142096840">Chromium'dan silin</translation>
-<translation id="5421879995290576427">{0,plural, =0{Chromium indi bağlanacaq.}=1{Chromium 1 saniyə sonra bağlanacaq.}other{Chromium # saniyə sonra bağlanacaq.}}</translation>
-<translation id="5427571867875391349">Chromium'u defolt brauzer təyin edin</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> - Chromium Beta</translation>
-<translation id="5473971139929175403">Chromium düzgün işləməyə bilər, çünki daha Linux sistemi üzərində dəstəklənmir</translation>
-<translation id="5480860683791598150">Chromium məkanı bu saytla paylaşmaq üçün ona giriş tələb edir</translation>
-<translation id="5487574057737591516">Məxfiliyinizi qorumaq üçün 4 həftədən köhnə maraqlarınızı avtomatik silirik. Baxmağa davam etdikcə, maraq siyahıda yenidən görünə bilər. Chromium səhv anlasa və ya müəyyən reklamları görmək istəmirsinizsə, marağı silə bilərsiniz.</translation>
-<translation id="549669000822060376">Chromium'um ən son sistem güncəlləşmələrini quraşdırmasını gözləyin.</translation>
-<translation id="5496810170689441661">Chromium parolları redaktə etməyə çalışır. Buna icazə vermək üçün Windows parolunuzu yazın.</translation>
-<translation id="5527463683072221100">PDF-ləri Chromium'da açın</translation>
-<translation id="5614091477838198795">Aktiv olduqda, Chromium'dan da çıxacaqsınız</translation>
-<translation id="5623402015214259806">{0,plural, =0{Chromium güncəlləməsi əlçatandır}=1{Chromium güncəlləməsi əlçatandır}other{Chromium güncəlləməsi # gün ərzində əlçatan olub}}</translation>
-<translation id="5634636535844844681">Chromium Windows 7 və ya daha yeni versiya tələb edir.</translation>
-<translation id="5653831366781983928">Chromium'u indi başladın</translation>
-<translation id="5698481217667032250">Chromium'u bu dildə görüntüləyin</translation>
-<translation id="5862307444128926510">Chromium'a xoş gəlmisiniz</translation>
-<translation id="5883558403894052917">Chromium bu elementlərdə zərərli proqram olduğunu aşkar edib:</translation>
+<translation id="6402416911698425675">mDNS trafikinə imkan vermək üçün WEB3 DNA Browser üçün daxil olan qayda.</translation>
+<translation id="5496148131599227635">&amp;WEB3 DNA Browser'u Güncəlləmək üçün yenidən başladın</translation>
+<translation id="3889712706226772861">WEB3 DNA Browser arxa fon rejimindədir.</translation>
+<translation id="5502939625951695202">Qonaqlar geridə heç nə buraxmadan WEB3 DNA Browser istifadə edə bilər.</translation>
+<translation id="4935574428555172200">Özünüzü WEB3 DNA Browser'a əlavə edin</translation>
+<translation id="60503244591890876">WEB3 DNA Browser saytlara məlumatlarınızdan daha az istifadə etməklə eyni baxış təcrübəsi təqdim etməyə imkan verən yeni funksiyaları araşdırır</translation>
+<translation id="282690038359289128">Yadda saxlanmış parol yoxdur. Parollarınızı yadda saxladıqda WEB3 DNA Browser onları yoxlaya bilər.</translation>
+<translation id="3588920839125338516"><ph name="EXISTING_USER" /> artıq bu WEB3 DNA Browser profilinə daxil olub. Bununla <ph name="USER_EMAIL_ADDRESS" /> üçün yeni WEB3 DNA Browser profili yaradılacaq</translation>
+<translation id="1712448899328197828">Dəyişiklikləri tətbiq etmək üçün WEB3 DNA Browser'u yenidən başladın</translation>
+<translation id="5425968257754155673">Sınaqlar aktiv olduqda və WEB3 DNA Browser təsadüfi olaraq sizi aktiv sınağa təyin edibsə, baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün WEB3 DNA Browser hər ay maraqlarınızı növbəlilik əsasında silir.</translation>
+<translation id="4715135477147720071">İdarə olunan hesabla daxil olursnuz və onun inzibati idarəetməsini WEB3 DNA Browser profilinizə verirsiniz. Tətbiqləriniz, əlfəcinləriniz, tarixçəniz və digər ayarlarınız Chromimum datanızla birlikdə <ph name="USER_NAME" /> üzərinə həmişəlik bənd olacaq. Bu datanı Google Hesabları Paneli vasitəsilə silə bilərsiniz, lakin bu datanı digər hesabla əlaqəli edə bilməzsiniz. Mövcud WEB3 DNA Browser datanızı ayrı saxlamaq üçün yeni profil yarada bilərsiniz. <ph name="LEARN_MORE" /></translation>
+<translation id="3959775081883542439">WEB3 DNA Browser güncəllənir (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="8468846229743402892">WEB3 DNA Browser girişinə icazə verin</translation>
+<translation id="868709743621506099">WEB3 DNA Browser'um yeni versiyası əlçatandır.</translation>
+<translation id="8954902894032987165">WEB3 DNA Browser'dan silin</translation>
+<translation id="8529594966625997901">{0,plural, =0{WEB3 DNA Browser indi bağlanacaq.}=1{WEB3 DNA Browser 1 saniyə sonra bağlanacaq.}other{WEB3 DNA Browser # saniyə sonra bağlanacaq.}}</translation>
+<translation id="2581842036863502750">WEB3 DNA Browser'u defolt brauzer təyin edin</translation>
+<translation id="2775837035201231287"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Beta</translation>
+<translation id="3342188394733679831">WEB3 DNA Browser düzgün işləməyə bilər, çünki daha Linux sistemi üzərində dəstəklənmir</translation>
+<translation id="6744035239102820989">WEB3 DNA Browser məkanı bu saytla paylaşmaq üçün ona giriş tələb edir</translation>
+<translation id="1336779017674457494">Məxfiliyinizi qorumaq üçün 4 həftədən köhnə maraqlarınızı avtomatik silirik. Baxmağa davam etdikcə, maraq siyahıda yenidən görünə bilər. WEB3 DNA Browser səhv anlasa və ya müəyyən reklamları görmək istəmirsinizsə, marağı silə bilərsiniz.</translation>
+<translation id="5998903067774658363">WEB3 DNA Browser'um ən son sistem güncəlləşmələrini quraşdırmasını gözləyin.</translation>
+<translation id="840929360644660930">WEB3 DNA Browser parolları redaktə etməyə çalışır. Buna icazə vermək üçün Windows parolunuzu yazın.</translation>
+<translation id="7784374736068182823">PDF-ləri WEB3 DNA Browser'da açın</translation>
+<translation id="5825191796443441681">Aktiv olduqda, WEB3 DNA Browser'dan da çıxacaqsınız</translation>
+<translation id="2714796268816869066">{0,plural, =0{WEB3 DNA Browser güncəlləməsi əlçatandır}=1{WEB3 DNA Browser güncəlləməsi əlçatandır}other{WEB3 DNA Browser güncəlləməsi # gün ərzində əlçatan olub}}</translation>
+<translation id="685484431195180374">WEB3 DNA Browser Windows 7 və ya daha yeni versiya tələb edir.</translation>
+<translation id="8800866953688530873">WEB3 DNA Browser'u indi başladın</translation>
+<translation id="6138729568957684301">WEB3 DNA Browser'u bu dildə görüntüləyin</translation>
+<translation id="3263014421647076303">WEB3 DNA Browser'a xoş gəlmisiniz</translation>
+<translation id="5243775519569499373">WEB3 DNA Browser bu elementlərdə zərərli proqram olduğunu aşkar edib:</translation>
 <translation id="5895138241574237353">Yenidən başladın</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> - Şəbəkəyə Giriş</translation>
 <translation id="5924017743176219022">İnternetə qoşulur...</translation>
 <translation id="5941711191222866238">Minimallaşdırın</translation>
-<translation id="5972142260211327093">Chromium təsadüfi olaraq sizi aktiv sınağa təyin edibsə, baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Chromium hər ay maraqlarınızı növbəlilik əsasında silir. Silmədiyiniz təqdirdə maraqlar yenilənir.</translation>
-<translation id="5987687638152509985">Sinxronizasiyanı başlatmaq üçün Chromium'u güncəlləyin</translation>
-<translation id="5988505247484123880">Ziyarət etdiyiniz saytların təcrübənizi fərdiləşdirmək üçün maraqlarınızı xatırlaması normaldır. Saytlar həmçinin maraqlarınız haqqında Chromium ilə məlumat saxlaya bilər.</translation>
+<translation id="3298053682358110562">WEB3 DNA Browser təsadüfi olaraq sizi aktiv sınağa təyin edibsə, baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün WEB3 DNA Browser hər ay maraqlarınızı növbəlilik əsasında silir. Silmədiyiniz təqdirdə maraqlar yenilənir.</translation>
+<translation id="692313353224514675">Sinxronizasiyanı başlatmaq üçün WEB3 DNA Browser'u güncəlləyin</translation>
+<translation id="616886729690540411">Ziyarət etdiyiniz saytların təcrübənizi fərdiləşdirmək üçün maraqlarınızı xatırlaması normaldır. Saytlar həmçinin maraqlarınız haqqında WEB3 DNA Browser ilə məlumat saxlaya bilər.</translation>
 <translation id="6003112304606738118">Endirilir... <ph name="HOURS" /> saat qalıb</translation>
 <translation id="6040143037577758943">Qapat</translation>
-<translation id="6055895534982063517">Chromium'um yeni versiyası əlçatandır və həmişəkindən daha sürətlidir.</translation>
-<translation id="6063093106622310249">Chromium'də açın</translation>
-<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> Chromium'a əlavə edildi</translation>
-<translation id="6072463441809498330">Chromium'u sürətli edin</translation>
+<translation id="6530764363503202587">WEB3 DNA Browser'um yeni versiyası əlçatandır və həmişəkindən daha sürətlidir.</translation>
+<translation id="9118683902399158578">WEB3 DNA Browser'də açın</translation>
+<translation id="6636913786172654081"><ph name="EXTENSION_NAME" /> WEB3 DNA Browser'a əlavə edildi</translation>
+<translation id="8335626147292265662">WEB3 DNA Browser'u sürətli edin</translation>
 <translation id="608006075545470555">Bu brauzerə İş Profili əlavə edin</translation>
-<translation id="6096348254544841612">Chromium'u fərdiləşdirin və idarə edin. Güncəlləmə əlçatandır.</translation>
-<translation id="6119438414301547735">Chromium alətlər panelində artırmanın giriş sorğularını göstərməsinə icazə verin</translation>
-<translation id="6120345080069858279">Chromium bu parolu Google Hesabında yadda saxlayacaq. Onu yadda saxlamalı olmayacaqsınız.</translation>
-<translation id="6129621093834146363"><ph name="FILE_NAME" /> təklükəli olduğu üçün Chromium onu blok etdi.</translation>
-<translation id="6134968993075716475">Təhlükəsiz Baxış deaktivdir. Chromium onu aktiv etməyi tövsiyə edir.</translation>
-<translation id="6145820983052037069">Burada Chromium profilləri arasında keçid edə bilərsiniz</translation>
-<translation id="6183079672144801177"><ph name="TARGET_DEVICE_NAME" /> cihazınızda Chromium'a daxil olduğunuza əmin olun və sonra yenidən göndərin.</translation>
-<translation id="6212496753309875659">Bu kompüterdə Chromium'um daha son versiyası var. Proqram təminatı işləmirsə, Chroimum'u sistemdən silin və yenidən cəhd edin.</translation>
-<translation id="6219195342503754812">{0,plural, =0{Chromium indi yenidən başlayacaq}=1{Chromium 1 saniyəyə yenidən başlayacaq}other{Chromium # saniyəyə yenidən başlayacaq}}</translation>
-<translation id="6241367896540709610">Chromium faylları endirmək üçün yaddaşa giriş tələb edir</translation>
-<translation id="6245734527075554892">URL'ləri Chromium'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır</translation>
-<translation id="6248213926982192922">Chromium'u defolt brauzer edin</translation>
-<translation id="6266342355635466082">Chromium güncəlləmələri yoxlaya bilmir. İnternet bağlantınızı yoxlamağa cəhd edin.</translation>
-<translation id="6268381023930128611">Chromium'dan çıxılsın?</translation>
+<translation id="584202866735675117">WEB3 DNA Browser'u fərdiləşdirin və idarə edin. Güncəlləmə əlçatandır.</translation>
+<translation id="7117732708950464239">WEB3 DNA Browser alətlər panelində artırmanın giriş sorğularını göstərməsinə icazə verin</translation>
+<translation id="5619841049631523040">WEB3 DNA Browser bu parolu Google Hesabında yadda saxlayacaq. Onu yadda saxlamalı olmayacaqsınız.</translation>
+<translation id="6208909969393126843"><ph name="FILE_NAME" /> təklükəli olduğu üçün WEB3 DNA Browser onu blok etdi.</translation>
+<translation id="3631145753627335779">Təhlükəsiz Baxış deaktivdir. WEB3 DNA Browser onu aktiv etməyi tövsiyə edir.</translation>
+<translation id="5305820434154384954">Burada WEB3 DNA Browser profilləri arasında keçid edə bilərsiniz</translation>
+<translation id="3213257950272370797"><ph name="TARGET_DEVICE_NAME" /> cihazınızda WEB3 DNA Browser'a daxil olduğunuza əmin olun və sonra yenidən göndərin.</translation>
+<translation id="4829390996077196027">Bu kompüterdə WEB3 DNA Browser'um daha son versiyası var. Proqram təminatı işləmirsə, Chroimum'u sistemdən silin və yenidən cəhd edin.</translation>
+<translation id="1584253311175653367">{0,plural, =0{WEB3 DNA Browser indi yenidən başlayacaq}=1{WEB3 DNA Browser 1 saniyəyə yenidən başlayacaq}other{WEB3 DNA Browser # saniyəyə yenidən başlayacaq}}</translation>
+<translation id="2125787073718346702">WEB3 DNA Browser faylları endirmək üçün yaddaşa giriş tələb edir</translation>
+<translation id="7121868166864824169">URL'ləri WEB3 DNA Browser'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır</translation>
+<translation id="4611945660893475598">WEB3 DNA Browser'u defolt brauzer edin</translation>
+<translation id="5093746667503154407">WEB3 DNA Browser güncəlləmələri yoxlaya bilmir. İnternet bağlantınızı yoxlamağa cəhd edin.</translation>
+<translation id="3169777041995452544">WEB3 DNA Browser'dan çıxılsın?</translation>
 <translation id="6273793429163604305">Qeydlərinizdə...</translation>
-<translation id="6281746429495226318">Chromium profilinizi fərdiləşdirin</translation>
-<translation id="6290827346642914212">Chromium profilinizə ad verin</translation>
-<translation id="6295779123002464101"><ph name="FILE_NAME" /> təklükəli ola bilər, bu səbəbdən Chromium onu blok etdi.</translation>
-<translation id="6309712487085796862">Chromium kameranızı istifadə edir.</translation>
-<translation id="632355235628111698">Chromium bu faylı təhlükəli olduğu üçün blokladı</translation>
+<translation id="6865466134977675861">WEB3 DNA Browser profilinizi fərdiləşdirin</translation>
+<translation id="3066241024811585202">WEB3 DNA Browser profilinizə ad verin</translation>
+<translation id="4551717314122756729"><ph name="FILE_NAME" /> təklükəli ola bilər, bu səbəbdən WEB3 DNA Browser onu blok etdi.</translation>
+<translation id="3046912207030099554">WEB3 DNA Browser kameranızı istifadə edir.</translation>
+<translation id="6384166038402983055">WEB3 DNA Browser bu faylı təhlükəli olduğu üçün blokladı</translation>
 <translation id="6327105987658262776">Güncəlləmə əlçatan deyil.</translation>
-<translation id="6333502561965082103">Chromium'da digər əməliyyat davam edir. Sonra yenidən cəhd edin.</translation>
-<translation id="6334986366598267305">Chromium'u Google Hesabınız ilə ə paylaşılmış kompüterlərdə istifadə etmək indi daha asandır.</translation>
-<translation id="6373523479360886564">Chromium'u silmək istəyirsiniz?</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Bu datanı necə istifadə edirik:<ph name="END_BOLD" /> Chromium maraqlarınızı təxmin edə bilər. Daha sonra ziyarət etdiyiniz sayt gördüyünüz reklamları fərdiləşdirmək üçün Chromium'dan maraqlarınızı görməyi tələb edə bilər.</translation>
-<translation id="6403826409255603130">Chromium veb səhifələri və tətbiqləri ildırım sürəti ilə işlədən veb brauzerdir. Chromium sürətlidir, stabildir və istifadəyə rahatdır. Chromium ilə internetdən fırıldaqlardan və viruslardan uzaq şəkildə istifadə edin.</translation>
+<translation id="1452531430459107501">WEB3 DNA Browser'da digər əməliyyat davam edir. Sonra yenidən cəhd edin.</translation>
+<translation id="5949643712250952992">WEB3 DNA Browser'u Google Hesabınız ilə ə paylaşılmış kompüterlərdə istifadə etmək indi daha asandır.</translation>
+<translation id="3428207813941614733">WEB3 DNA Browser'u silmək istəyirsiniz?</translation>
+<translation id="8367277764281804913"><ph name="BEGIN_BOLD" />Bu datanı necə istifadə edirik:<ph name="END_BOLD" /> WEB3 DNA Browser maraqlarınızı təxmin edə bilər. Daha sonra ziyarət etdiyiniz sayt gördüyünüz reklamları fərdiləşdirmək üçün WEB3 DNA Browser'dan maraqlarınızı görməyi tələb edə bilər.</translation>
+<translation id="3646769559663834227">WEB3 DNA Browser veb səhifələri və tətbiqləri ildırım sürəti ilə işlədən veb brauzerdir. WEB3 DNA Browser sürətlidir, stabildir və istifadəyə rahatdır. WEB3 DNA Browser ilə internetdən fırıldaqlardan və viruslardan uzaq şəkildə istifadə edin.</translation>
 <translation id="6442900851116057561">ChromiumOS'i yenidən başladın</translation>
-<translation id="6455857529632101747">Chromium profillərinə xoş gəlmisiniz</translation>
-<translation id="6457450909262716557">{SECONDS,plural, =1{Chromium 1 saniyəyə yenidən başlayacaq}other{Chromium # saniyəyə yenidən başlayacaq}}</translation>
-<translation id="6475912303565314141">Həmçinin, Chromium açılanda hansı səhifənin göstərildiyini idarə edir.</translation>
-<translation id="6510925080656968729">Chromium'u sistemdən silin</translation>
-<translation id="6542839706527980775">Hər bir profil əlfəcinlər, tarixçələr, parollar və s. kimi öz Chromium məlumatlarını saxlayır</translation>
-<translation id="6570579332384693436">Chromium, yazı səhvlərini düzəltmək üçün mətn sahələrinə yazdığınız mətni Google'a göndərir</translation>
-<translation id="6598877126913850652">Chromium bildiriş ayarlarına keçin</translation>
-<translation id="6613594504749178791">Dəyişiklikləriniz gələn dəfə Chromium'u başlatdıqda qüvvəyə minəcək.</translation>
-<translation id="665732753414869868">Chromium ətrafınızın 3D xəritəsini yaratmaq üçün kameranıza giriş icazəsi tələb edir</translation>
+<translation id="4806322893637813344">WEB3 DNA Browser profillərinə xoş gəlmisiniz</translation>
+<translation id="3150453102283643478">{SECONDS,plural, =1{WEB3 DNA Browser 1 saniyəyə yenidən başlayacaq}other{WEB3 DNA Browser # saniyəyə yenidən başlayacaq}}</translation>
+<translation id="6475912303565314141">Həmçinin, WEB3 DNA Browser açılanda hansı səhifənin göstərildiyini idarə edir.</translation>
+<translation id="1113676425111919541">WEB3 DNA Browser'u sistemdən silin</translation>
+<translation id="4127557045835948655">Hər bir profil əlfəcinlər, tarixçələr, parollar və s. kimi öz WEB3 DNA Browser məlumatlarını saxlayır</translation>
+<translation id="82412484113149506">WEB3 DNA Browser, yazı səhvlərini düzəltmək üçün mətn sahələrinə yazdığınız mətni Google'a göndərir</translation>
+<translation id="1041508100495026545">WEB3 DNA Browser bildiriş ayarlarına keçin</translation>
+<translation id="8823298025665339355">Dəyişiklikləriniz gələn dəfə WEB3 DNA Browser'u başlatdıqda qüvvəyə minəcək.</translation>
+<translation id="2513279141152484388">WEB3 DNA Browser ətrafınızın 3D xəritəsini yaratmaq üçün kameranıza giriş icazəsi tələb edir</translation>
 <translation id="6676384891291319759">İnternet</translation>
 <translation id="668175097507315160">Giriş xətası səbəbindən ChromiumOS datanızı sinxronizasiya edə bilmədi.</translation>
-<translation id="6709350901466051922">Chromium bu sayt üçün mikrofon icazəsi tələb edir</translation>
-<translation id="6717134281241384636">Profiliniz yeni versiya Google Chromium'dan olduğu üçün istifadə edilə bilməz.
+<translation id="3485439540953416536">WEB3 DNA Browser bu sayt üçün mikrofon icazəsi tələb edir</translation>
+<translation id="3898949707616141056">Profiliniz yeni versiya Google WEB3 DNA Browser'dan olduğu üçün istifadə edilə bilməz.
 
-Bəzi funksiyalar əlçatmaz ola bilər. Xüsusi profil direktoriyası göstərin və ya yeni Chromium versiyası işlədin.</translation>
-<translation id="6730677189742196061">Yaddaşa Qənaət Chromium'u daha sürətli etdi</translation>
-<translation id="6734291798041940871">Chromium kompüterinizdəki bütün istifadəçilər üçün artıq quraşdırılıb.</translation>
-<translation id="673636774878526923">Bütün cihazlarınızda Chromium elementlərinə giriş etmək üçün daxil olun və sinxronizasiyanı aktiv edin.</translation>
-<translation id="6774082503108938489">Valideyniniz Chromium üçün "Saytlar, tətbiqlər və artırmalar üçün icazələri" deaktiv edib. Bu <ph name="EXTENSION_TYPE_PARAMETER" /> artırmasının aktiv edilməsinə icazə verilmir.</translation>
+Bəzi funksiyalar əlçatmaz ola bilər. Xüsusi profil direktoriyası göstərin və ya yeni WEB3 DNA Browser versiyası işlədin.</translation>
+<translation id="2841305420532702376">Yaddaşa Qənaət WEB3 DNA Browser'u daha sürətli etdi</translation>
+<translation id="4553621150701650138">WEB3 DNA Browser kompüterinizdəki bütün istifadəçilər üçün artıq quraşdırılıb.</translation>
+<translation id="3957858324423880626">Bütün cihazlarınızda WEB3 DNA Browser elementlərinə giriş etmək üçün daxil olun və sinxronizasiyanı aktiv edin.</translation>
+<translation id="1489635928648141251">Valideyniniz WEB3 DNA Browser üçün "Saytlar, tətbiqlər və artırmalar üçün icazələri" deaktiv edib. Bu <ph name="EXTENSION_TYPE_PARAMETER" /> artırmasının aktiv edilməsinə icazə verilmir.</translation>
 <translation id="6779406956731413166">ChromiumOS əlavə <ph name="BEGIN_LINK_CROS_OSS" />açıq mənbə proqram təminatı ilə<ph name="END_LINK_CROS_OSS" /> mümkün oldu.</translation>
-<translation id="6847869444787758381">Chromium parollarınızın oğurlanıb-oğurlanmadığı haqqında Sizə məlumat verir</translation>
-<translation id="6852530923436401894">Chromium bu faylı zərərli proqram ehtiva etdiyinə görə bloklayıb</translation>
-<translation id="6857782730669500492">Chromium - <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">Google Pay (Chromium'a kopyalandı)</translation>
-<translation id="6873893289264747459">Chromium "<ph name="EXTENSION_NAME" />" artırmasında zərərli proqram olduğunu aşkar edib</translation>
-<translation id="6893813176749746474">Xrom yeniləndi, lakin ən azı 30 gün üçün istifadə etməmişlər.</translation>
-<translation id="691026815377248078">Chromium birləşməyə davam etmək üçün Bluetooth'a giriş tələb edir. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Sınaqlar aktiv olduqda, reklamın ölçülməsi ziyarət etdiyiniz saytlara Chromium'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.</translation>
-<translation id="6940431691900807093">Daha sonra ziyarət etdiyiniz sayt gördüyünüz reklamları fərdiləşdirmək üçün Chromium'dan maraqlarınızı görməyi tələb edə bilər. Chromium 3-ə qədər marağı paylaşa bilər.</translation>
-<translation id="6964305034639999644">Linki gizli Chromium pəncərəsində açın</translation>
-<translation id="6978145336957848883">Zəif parolları tapmaq asandır. Chromium'un <ph name="BEGIN_LINK" />sizin üçün güclü parollar yaratmasına və yadda saxlamasına<ph name="END_LINK" /> imkan verin.</translation>
-<translation id="6984667024406244807">Chromium fəaliyyətsizdir</translation>
+<translation id="6798439930306865443">WEB3 DNA Browser parollarınızın oğurlanıb-oğurlanmadığı haqqında Sizə məlumat verir</translation>
+<translation id="877665203225711835">WEB3 DNA Browser bu faylı zərərli proqram ehtiva etdiyinə görə bloklayıb</translation>
+<translation id="7732765206800238484">WEB3 DNA Browser - <ph name="PAGE_TITLE" /></translation>
+<translation id="2089740034323086528">Google Pay (WEB3 DNA Browser'a kopyalandı)</translation>
+<translation id="2329130305935541101">WEB3 DNA Browser "<ph name="EXTENSION_NAME" />" artırmasında zərərli proqram olduğunu aşkar edib</translation>
+<translation id="2947483933825476413">Xrom yeniləndi, lakin ən azı 30 gün üçün istifadə etməmişlər.</translation>
+<translation id="8828344991758417694">WEB3 DNA Browser birləşməyə davam etmək üçün Bluetooth'a giriş tələb edir. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
+<translation id="9067852028442542655">Sınaqlar aktiv olduqda, reklamın ölçülməsi ziyarət etdiyiniz saytlara WEB3 DNA Browser'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.</translation>
+<translation id="6638774777596425412">Daha sonra ziyarət etdiyiniz sayt gördüyünüz reklamları fərdiləşdirmək üçün WEB3 DNA Browser'dan maraqlarınızı görməyi tələb edə bilər. WEB3 DNA Browser 3-ə qədər marağı paylaşa bilər.</translation>
+<translation id="1618581910910744310">Linki gizli WEB3 DNA Browser pəncərəsində açın</translation>
+<translation id="1141174083986936166">Zəif parolları tapmaq asandır. WEB3 DNA Browser'un <ph name="BEGIN_LINK" />sizin üçün güclü parollar yaratmasına və yadda saxlamasına<ph name="END_LINK" /> imkan verin.</translation>
+<translation id="1422439798626251044">WEB3 DNA Browser fəaliyyətsizdir</translation>
 <translation id="6985329841647292029">ChromiumOS şərtləri</translation>
-<translation id="6990124437352146030">Chromium bu sayt üçün mikrofona giriş tələb edir</translation>
+<translation id="8045464583440265694">WEB3 DNA Browser bu sayt üçün mikrofona giriş tələb edir</translation>
 <translation id="7025789849649390912">Quraşdırma Dayandırılıb.</translation>
-<translation id="705851970750939768">Chromium'u güncəlləşdirin</translation>
-<translation id="7067091210845072982">Şəklin təsviri faydalı deyilsə, Chromium Sizin üçün təsviri təmin etməyə çalışacaq. Təsvir yaratmaq üçün şəkillər Google'a göndərilir.</translation>
-<translation id="718435575166326686">Chromium bu sayt üçün kamera icazəsi tələb edir</translation>
-<translation id="7196312274710523067">Chromium başlamadı. Yenidən sınayın.</translation>
-<translation id="7197677400338048821">Chromium parollarınızı yoxlaya bilmir. 24 saatdan sonra yenidən cəhd edin.</translation>
-<translation id="7218568399872925918">Ziyarət etdiyiniz saytlar Chromium'u bağlayana qədər məlumatlarınızı xatırlayır</translation>
-<translation id="7223968959479464213">Tapşırıq Meneceri - Chromium</translation>
-<translation id="7246575524853130370">Chromium tərəfindən təxmin edilən maraqlarınız</translation>
-<translation id="7309928523159922338">Reklamın ölçülməsi ziyarət etdiyiniz saytlara Chromium'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.</translation>
-<translation id="731795002583552498">Chromium güncəlləşir</translation>
-<translation id="7318036098707714271">Tərcih faylınız zədələnib və ya yanlışdır.  Chromium ayarlarınızı bərpa edə bilmir.</translation>
-<translation id="7337881442233988129">Chromium</translation>
+<translation id="475843105037256922">WEB3 DNA Browser'u güncəlləşdirin</translation>
+<translation id="326486748351990910">Şəklin təsviri faydalı deyilsə, WEB3 DNA Browser Sizin üçün təsviri təmin etməyə çalışacaq. Təsvir yaratmaq üçün şəkillər Google'a göndərilir.</translation>
+<translation id="5618043080831675837">WEB3 DNA Browser bu sayt üçün kamera icazəsi tələb edir</translation>
+<translation id="6831720849639347633">WEB3 DNA Browser başlamadı. Yenidən sınayın.</translation>
+<translation id="7914905542208857296">WEB3 DNA Browser parollarınızı yoxlaya bilmir. 24 saatdan sonra yenidən cəhd edin.</translation>
+<translation id="2219572028161280443">Ziyarət etdiyiniz saytlar WEB3 DNA Browser'u bağlayana qədər məlumatlarınızı xatırlayır</translation>
+<translation id="3988179273882088670">Tapşırıq Meneceri - WEB3 DNA Browser</translation>
+<translation id="8082426603469914763">WEB3 DNA Browser tərəfindən təxmin edilən maraqlarınız</translation>
+<translation id="3791422786486318548">Reklamın ölçülməsi ziyarət etdiyiniz saytlara WEB3 DNA Browser'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.</translation>
+<translation id="3826673197841439968">WEB3 DNA Browser güncəlləşir</translation>
+<translation id="3105300744480734014">Tərcih faylınız zədələnib və ya yanlışdır.  WEB3 DNA Browser ayarlarınızı bərpa edə bilmir.</translation>
+<translation id="4691707200828155405">WEB3 DNA Browser</translation>
 <translation id="7339898014177206373">Yeni pəncərə</translation>
-<translation id="734373864078049451">Veb, əlfəcinlər və Chromium'a aid hər şeyiniz buradadır.</translation>
-<translation id="7349591376906416160">Sistem administratorunun konfiqurasiyasına əsasən Chromium <ph name="TARGET_URL_HOSTNAME" /> ünvanına daxil olmaq üçün <ph name="ALTERNATIVE_BROWSER_NAME" /> tətbiqini aça bilər.</translation>
-<translation id="7398989605938454041">Chromium profilləri ilə bütün Chromium elementlərinizi ayıra bilərsiniz. Bu, iş və əyləncə arasında ayırım etməyi asanlaşdırır.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> - Chromium Dev</translation>
-<translation id="7451052299415159299">Chromium bu sayt üçün kameraya giriş tələb edir</translation>
-<translation id="7461356015007898716">Chromium güncəlləmələrini əldə etmək üçün Windows 10 və ya daha yeni versiya tələb olunur. Bu kompüter Windows 7 istifadə edir.</translation>
-<translation id="7467949745582939695">Chromium yenidən başladılsın?</translation>
-<translation id="7483335560992089831">Hazırda istifadə olunan Chromium versiyasını quraşdıra bilməzsiniz. Lütfən, Chromium'u qapadın və yenidən cəhd edin.</translation>
-<translation id="753534427205733210">{0,plural, =1{Chromium 1 dəqiqəyə yenidən başlayacaq}other{Chromium # dəqiqəyə yenidən başlayacaq}}</translation>
-<translation id="7561906087460245826">Chromium'dan datanı silin (<ph name="URL" />)</translation>
-<translation id="7582945390259497898">Chromium maraqlarınızı təxmin edə bilər. Daha sonra ziyarət etdiyiniz sayt gördüyünüz reklamları fərdiləşdirmək üçün Chromium'dan maraqlarınızı görməyi tələb edə bilər.</translation>
+<translation id="866415121309420782">Veb, əlfəcinlər və WEB3 DNA Browser'a aid hər şeyiniz buradadır.</translation>
+<translation id="2516718275146731816">Sistem administratorunun konfiqurasiyasına əsasən WEB3 DNA Browser <ph name="TARGET_URL_HOSTNAME" /> ünvanına daxil olmaq üçün <ph name="ALTERNATIVE_BROWSER_NAME" /> tətbiqini aça bilər.</translation>
+<translation id="5218043865814307173">WEB3 DNA Browser profilləri ilə bütün WEB3 DNA Browser elementlərinizi ayıra bilərsiniz. Bu, iş və əyləncə arasında ayırım etməyi asanlaşdırır.</translation>
+<translation id="5690617926609878272"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Dev</translation>
+<translation id="3479625329890795142">WEB3 DNA Browser bu sayt üçün kameraya giriş tələb edir</translation>
+<translation id="3327138471292503109">WEB3 DNA Browser güncəlləmələrini əldə etmək üçün Windows 10 və ya daha yeni versiya tələb olunur. Bu kompüter Windows 7 istifadə edir.</translation>
+<translation id="570029382864869633">WEB3 DNA Browser yenidən başladılsın?</translation>
+<translation id="7081567920020845898">Hazırda istifadə olunan WEB3 DNA Browser versiyasını quraşdıra bilməzsiniz. Lütfən, WEB3 DNA Browser'u qapadın və yenidən cəhd edin.</translation>
+<translation id="2308694661846361163">{0,plural, =1{WEB3 DNA Browser 1 dəqiqəyə yenidən başlayacaq}other{WEB3 DNA Browser # dəqiqəyə yenidən başlayacaq}}</translation>
+<translation id="7403013663461228352">WEB3 DNA Browser'dan datanı silin (<ph name="URL" />)</translation>
+<translation id="5628570284195611526">WEB3 DNA Browser maraqlarınızı təxmin edə bilər. Daha sonra ziyarət etdiyiniz sayt gördüyünüz reklamları fərdiləşdirmək üçün WEB3 DNA Browser'dan maraqlarınızı görməyi tələb edə bilər.</translation>
 <translation id="7583399374488819119"><ph name="COMPANY_NAME" /> Quraşdırıcısı</translation>
-<translation id="7597596667193879455">Hesabınızda Qabaqcıl Güvənli Baxışı aktiv etdiniz. İndi onu Chromium üçün əldə edin.</translation>
-<translation id="761356813943268536">Chromium kameranızı və mikrofonunuzu işlədir.</translation>
-<translation id="7617377681829253106">Chromium daha da keyfiyyətli oldu</translation>
+<translation id="18937021822671718">Hesabınızda Qabaqcıl Güvənli Baxışı aktiv etdiniz. İndi onu WEB3 DNA Browser üçün əldə edin.</translation>
+<translation id="2422729508884289622">WEB3 DNA Browser kameranızı və mikrofonunuzu işlədir.</translation>
+<translation id="7649176261008984828">WEB3 DNA Browser daha da keyfiyyətli oldu</translation>
 <translation id="7649070708921625228">Yardım</translation>
-<translation id="7682213815243802460">Chromium ayarlarında bu funksiyalar haqqında ətraflı öyrənə bilərsiniz.</translation>
-<translation id="7682601070171973634">Chromium saytlara datanızdan daha az istifadə etməklə eyni baxış təcrübəsi təqdim etməyə imkan verən yeni funksiyaları araşdırır</translation>
-<translation id="7686590090926151193">Chromium defolt brauzeriniz deyil</translation>
-<translation id="7689606757190482937">Chromium'u cihazlarda sinxronizasiya edin və fərdiləşdirin</translation>
-<translation id="7745317241717453663">Brauzinq datanız bu cihazdan silinəcək. Sonradan datanızı bərpa etmək üçün Chromiuma <ph name="USER_EMAIL" /> kimi daxil olun.</translation>
+<translation id="5663191066657660868">WEB3 DNA Browser ayarlarında bu funksiyalar haqqında ətraflı öyrənə bilərsiniz.</translation>
+<translation id="1180711544607099420">WEB3 DNA Browser saytlara datanızdan daha az istifadə etməklə eyni baxış təcrübəsi təqdim etməyə imkan verən yeni funksiyaları araşdırır</translation>
+<translation id="1427927054102592884">WEB3 DNA Browser defolt brauzeriniz deyil</translation>
+<translation id="7195845268083706212">WEB3 DNA Browser'u cihazlarda sinxronizasiya edin və fərdiləşdirin</translation>
+<translation id="4540014860380760179">Brauzinq datanız bu cihazdan silinəcək. Sonradan datanızı bərpa etmək üçün Chromiuma <ph name="USER_EMAIL" /> kimi daxil olun.</translation>
 <translation id="7747138024166251722">Quraşdırıcı müvəqqəti direktoriya yarada bilmədi. Proqramı quraşdırmaq üçün boş disk yeri və icazə tapın.</translation>
-<translation id="7786760609782648049">Chromium'u sürətli edin</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> - Chromium Canary</translation>
-<translation id="7828947555739565424">Bu hesab ilə Chromium profili artıq bu cihazda mövcuddur</translation>
+<translation id="3341158123816213810">WEB3 DNA Browser'u sürətli edin</translation>
+<translation id="6564515530956462009"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Canary</translation>
+<translation id="8502268940781535829">Bu hesab ilə WEB3 DNA Browser profili artıq bu cihazda mövcuddur</translation>
 <translation id="7845233973568007926">Quraşdırdığınız üçün təşəkkür edirik. <ph name="BUNDLE_NAME" /> istifadə etməzdən əvvəl kompüterinizi yenidən başlatmalısınız.</translation>
-<translation id="7867198900892795913">Chromium ən son versiyaya güncəllənə bilmədi. Yeni funksiyaları və təhlükəsizlik həllərini əldən verirsiniz.</translation>
+<translation id="5422417406245013307">WEB3 DNA Browser ən son versiyaya güncəllənə bilmədi. Yeni funksiyaları və təhlükəsizlik həllərini əldən verirsiniz.</translation>
 <translation id="7872446069773932638">Endirilir... <ph name="SECONDS" /> saniyə qalıb</translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Datanızı necə idarə edə bilərsiniz:<ph name="END_BOLD" /> Məxfiliyinizi qorumaq üçün 4 həftədən köhnə maraqlarınızı avtomatik silirik. Baxmağa davam etdikcə, maraq siyahıda yenidən görünə bilər. Və ya Chromium'un nəzərə almasını istəmədiyiniz maraqları silə bilərsiniz.</translation>
-<translation id="7937630085815544518">Chromium'a <ph name="USER_EMAIL_ADDRESS" /> kimi daxil olmuşdunuz. Lütfən, yenidən daxil olmaq üçün eyni hesabdan istifadə edin.</translation>
-<translation id="7975919845073681630">Bu Chromium'un ikinci quraşdırmasıdır və defolt brauzer kimi ayarlana bilmir.</translation>
-<translation id="7997934263947464652">Naməlum mənbələrdən olan artırmalar, tətbiqlər və temalar cihazınıza zərər verə bilər. Chromium onları yalnız buradan quraşdırmağı tövsiyə edir: <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
-<translation id="8013436988911883588">Chromium'un giriş imkanı olduqda veb saytlar giriş üçün Sizdən icazə istəyəcək.</translation>
+<translation id="6590823489474620893"><ph name="BEGIN_BOLD" />Datanızı necə idarə edə bilərsiniz:<ph name="END_BOLD" /> Məxfiliyinizi qorumaq üçün 4 həftədən köhnə maraqlarınızı avtomatik silirik. Baxmağa davam etdikcə, maraq siyahıda yenidən görünə bilər. Və ya WEB3 DNA Browser'un nəzərə almasını istəmədiyiniz maraqları silə bilərsiniz.</translation>
+<translation id="7280500878215405781">WEB3 DNA Browser'a <ph name="USER_EMAIL_ADDRESS" /> kimi daxil olmuşdunuz. Lütfən, yenidən daxil olmaq üçün eyni hesabdan istifadə edin.</translation>
+<translation id="2253021454574730566">Bu WEB3 DNA Browser'un ikinci quraşdırmasıdır və defolt brauzer kimi ayarlana bilmir.</translation>
+<translation id="2180063386451170761">Naməlum mənbələrdən olan artırmalar, tətbiqlər və temalar cihazınıza zərər verə bilər. WEB3 DNA Browser onları yalnız buradan quraşdırmağı tövsiyə edir: <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
+<translation id="1446133009793910887">WEB3 DNA Browser'un giriş imkanı olduqda veb saytlar giriş üçün Sizdən icazə istəyəcək.</translation>
 <translation id="80471789339884597">Quraşdırdığınız üçün təşəkkür edirik. <ph name="BUNDLE_NAME" /> istifadə etməzdən əvvəl bütün brauzerlərinizi yenidən başlatmalısınız.</translation>
-<translation id="8105840573057009683">Chromium bu sayt üçün məkan icazəsi tələb edir</translation>
+<translation id="3869525261991846539">WEB3 DNA Browser bu sayt üçün məkan icazəsi tələb edir</translation>
 <translation id="8133124826068723441">ChromiumOS datanızı sinxronizasiya edə bilmədi, çünki sinxronizasiya domeniniz üçün əlçatan deyil.</translation>
 <translation id="813913629614996137">Başladılır...</translation>
-<translation id="81770708095080097">Bu fayl təklükəlidir, bu səbəbdən Chromium onu blok etdi.</translation>
-<translation id="8213374284266571500">Chromium bu faylı bloklayıb, çünki bu fayl növü təhlükəlidir</translation>
-<translation id="8248265253516264921">Şəklin təsviri faydalı deyilsə, Chromium Sizin üçün təsviri təmin etməyə çalışacaq. Təsvir yaratmaq üçün şəkillər Google'a göndərilir. Bunu istənilən vaxt ayarlardan deaktiv edə bilərsiniz.</translation>
-<translation id="8266560134891435528">Hesaba daxil olmadığınız üçün Chromium parollarınızı yoxlaya bilmir</translation>
-<translation id="8276522524898344151">Chromium parolları kopyalamağa çalışır.</translation>
-<translation id="8290862415967981663">Bu fayl təklükəli ola bilər, bu səbəbdən Chromium onu blok etdi.</translation>
-<translation id="8330519371938183845">Chromium'u cihazlarda sinxronizasiya etmək və fərdiləşdirmək üçün daxil olun</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> əvvəl Chromium istifadə edirdi</translation>
-<translation id="8357820681460164151">Bütün cihazlarınızda Chromium brauzerinin elementlərinə giriş etmək üçün daxil olun və sinxronizasiyanı aktiv edin</translation>
-<translation id="8360718212975266891">Chromium güncəlləmələrini əldə etmək üçün Windows 10 və ya daha yeni versiya tələb olunur. Bu kompüter Windows 8 istifadə edir.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Chromium'u bir gün ərzində yenidən başladın}other{Chromium'u # gün ərzində yenidən başladın}}</translation>
-<translation id="8453117565092476964">Quraşdırıcı arxivi zədələnib və ya yanlışdır. Lütfən, Chromium'u yenidən endirin.</translation>
+<translation id="6871375725780252705">Bu fayl təklükəlidir, bu səbəbdən WEB3 DNA Browser onu blok etdi.</translation>
+<translation id="8821717781402291672">WEB3 DNA Browser bu faylı bloklayıb, çünki bu fayl növü təhlükəlidir</translation>
+<translation id="8394136310056741303">Şəklin təsviri faydalı deyilsə, WEB3 DNA Browser Sizin üçün təsviri təmin etməyə çalışacaq. Təsvir yaratmaq üçün şəkillər Google'a göndərilir. Bunu istənilən vaxt ayarlardan deaktiv edə bilərsiniz.</translation>
+<translation id="4863557335992202213">Hesaba daxil olmadığınız üçün WEB3 DNA Browser parollarınızı yoxlaya bilmir</translation>
+<translation id="8332908002682218419">WEB3 DNA Browser parolları kopyalamağa çalışır.</translation>
+<translation id="3862328687893385239">Bu fayl təklükəli ola bilər, bu səbəbdən WEB3 DNA Browser onu blok etdi.</translation>
+<translation id="7450630974943556627">WEB3 DNA Browser'u cihazlarda sinxronizasiya etmək və fərdiləşdirmək üçün daxil olun</translation>
+<translation id="8910359951607649198"><ph name="USER_EMAIL_ADDRESS" /> əvvəl WEB3 DNA Browser istifadə edirdi</translation>
+<translation id="7837286795552251352">Bütün cihazlarınızda WEB3 DNA Browser brauzerinin elementlərinə giriş etmək üçün daxil olun və sinxronizasiyanı aktiv edin</translation>
+<translation id="4231941262737361466">WEB3 DNA Browser güncəlləmələrini əldə etmək üçün Windows 10 və ya daha yeni versiya tələb olunur. Bu kompüter Windows 8 istifadə edir.</translation>
+<translation id="4708615805477131870">{0,plural, =1{WEB3 DNA Browser'u bir gün ərzində yenidən başladın}other{WEB3 DNA Browser'u # gün ərzində yenidən başladın}}</translation>
+<translation id="8293407095466346653">Quraşdırıcı arxivi zədələnib və ya yanlışdır. Lütfən, WEB3 DNA Browser'u yenidən endirin.</translation>
 <translation id="8463672209299734063">İstəyə görə: Diaqnostika və istifadəçi datasını avtomatik Google'a göndərməklə ChromiumOS funksiyalarını təkmilləşdirməyə yardım edin.</translation>
-<translation id="8493179195440786826">Chromium'um vaxtı keçib</translation>
+<translation id="2275026549113043779">WEB3 DNA Browser'um vaxtı keçib</translation>
 <translation id="8550334526674375523">Bu iş profili şəxsi profilinizdən tamamilə ayrıdır.</translation>
-<translation id="8558383651099478961">Valideyniniz Chromium üçün "Saytlar, tətbiqlər və artırmalar üçün icazələri" deaktiv edib. Bu <ph name="EXTENSION_TYPE_PARAMETER" /> artırmasının əlavə edilməsinə icazə verilmir.</translation>
-<translation id="8561285221328166383">Chromium güncəlləmələrini əldə etmək üçün macOS 10.13 və ya daha yeni versiya tələb olunur. Bu kompüter macOS 10.12 istifadə edir.</translation>
-<translation id="8568283329061645092">Google Hesabınız ilə daxil olduqda Chromium parollarınızı yoxlaya bilər</translation>
-<translation id="8574036838419011058">Aktiv olduqda, Chromium arxa fon fəaliyyətini və rahat sürüşdürmə və video kadr sürətləri kimi vizual effektləri məhdudlaşdırmaqla batareya enerjisinə qənaət edir. <ph name="BEGIN_LINK" />Ətraflı məlumat<ph name="END_LINK" /></translation>
-<translation id="8586442755830160949">Müəlliflik Hüququ <ph name="YEAR" /> Chromium Müəllifləri. Bütün hüquqlar qorunur.</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Bu datanı necə istifadə edirik:<ph name="END_BOLD" /> Saytlar maraqlarınız haqqında Chromium ilə məlumat saxlaya bilər. Məsələn, marafona ayaqqabı almaq üçün sayta daxil olsanız, sayt marağınızı qaçış marafonu kimi müəyyən edə bilər. Sonra yarışa yazılmaq üçün başqa sayta daxil olsanız, həmin sayt maraqlarınız əsasında sizə qaçış ayaqqabısı reklamı göstərə bilər.</translation>
-<translation id="8619360774459241877">Chromium başlayır...</translation>
-<translation id="8621669128220841554">Naməlum xəta üzündən quraşdırmaq alınmadı. Chromium'u yenidən endirin.</translation>
-<translation id="8697124171261953979">O, həmçinin Chromium'u başlatdığınız zaman və ya Omnibox'dan axtarış etdiyiniz zaman göstərilən səhifəyə nəzarət edir.</translation>
-<translation id="8704119203788522458">Bu, Sizin Chromium'dur</translation>
-<translation id="8713679423359107094">Bütün Chromium pəncərələrini bağladığınız zaman kukilər və sayt datası avtomatik olaraq silinir</translation>
-<translation id="8796443464227412154">Chromium'u bağladıqda <ph name="BEGIN_BOLD" />əksər saytlardan<ph name="END_BOLD" /> çıxacaqsınız. Sinxronizasiya deaktivdirsə <ph name="BEGIN_BOLD" />Google xidmətlərindən və Chromium'dan da çıxacaqsınız<ph name="END_BOLD" />.</translation>
-<translation id="8796602469536043152">Chromium bu sayt üçün kamera və mikrofona giriş icazəsi tələb edir</translation>
+<translation id="3829194378861761606">Valideyniniz WEB3 DNA Browser üçün "Saytlar, tətbiqlər və artırmalar üçün icazələri" deaktiv edib. Bu <ph name="EXTENSION_TYPE_PARAMETER" /> artırmasının əlavə edilməsinə icazə verilmir.</translation>
+<translation id="6148620910029690666">WEB3 DNA Browser güncəlləmələrini əldə etmək üçün macOS 10.13 və ya daha yeni versiya tələb olunur. Bu kompüter macOS 10.12 istifadə edir.</translation>
+<translation id="1246723111619277441">Google Hesabınız ilə daxil olduqda WEB3 DNA Browser parollarınızı yoxlaya bilər</translation>
+<translation id="7115352036028984404">Aktiv olduqda, WEB3 DNA Browser arxa fon fəaliyyətini və rahat sürüşdürmə və video kadr sürətləri kimi vizual effektləri məhdudlaşdırmaqla batareya enerjisinə qənaət edir. <ph name="BEGIN_LINK" />Ətraflı məlumat<ph name="END_LINK" /></translation>
+<translation id="4799188800355420938">Müəlliflik Hüququ <ph name="YEAR" /> WEB3 DNA Browser Müəllifləri. Bütün hüquqlar qorunur.</translation>
+<translation id="1392803118131207008"><ph name="BEGIN_BOLD" />Bu datanı necə istifadə edirik:<ph name="END_BOLD" /> Saytlar maraqlarınız haqqında WEB3 DNA Browser ilə məlumat saxlaya bilər. Məsələn, marafona ayaqqabı almaq üçün sayta daxil olsanız, sayt marağınızı qaçış marafonu kimi müəyyən edə bilər. Sonra yarışa yazılmaq üçün başqa sayta daxil olsanız, həmin sayt maraqlarınız əsasında sizə qaçış ayaqqabısı reklamı göstərə bilər.</translation>
+<translation id="5546249279042208244">WEB3 DNA Browser başlayır...</translation>
+<translation id="5255237181758616742">Naməlum xəta üzündən quraşdırmaq alınmadı. WEB3 DNA Browser'u yenidən endirin.</translation>
+<translation id="8697124171261953979">O, həmçinin WEB3 DNA Browser'u başlatdığınız zaman və ya Omnibox'dan axtarış etdiyiniz zaman göstərilən səhifəyə nəzarət edir.</translation>
+<translation id="4220559821674570264">Bu, Sizin WEB3 DNA Browser'dur</translation>
+<translation id="8072998028605263569">Bütün WEB3 DNA Browser pəncərələrini bağladığınız zaman kukilər və sayt datası avtomatik olaraq silinir</translation>
+<translation id="6903751245620697304">WEB3 DNA Browser'u bağladıqda <ph name="BEGIN_BOLD" />əksər saytlardan<ph name="END_BOLD" /> çıxacaqsınız. Sinxronizasiya deaktivdirsə <ph name="BEGIN_BOLD" />Google xidmətlərindən və WEB3 DNA Browser'dan da çıxacaqsınız<ph name="END_BOLD" />.</translation>
+<translation id="7277260025828649281">WEB3 DNA Browser bu sayt üçün kamera və mikrofona giriş icazəsi tələb edir</translation>
 <translation id="8833697763442816810">ChromiumOS sistemi</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Hansı data istifadə olunur:<ph name="END_BOLD" /> Baxış tarixçəniz, bu cihazda Chromium istifadə edərək ziyarət etdiyiniz saytların qeydi.</translation>
+<translation id="7404934872971073925"><ph name="BEGIN_BOLD" />Hansı data istifadə olunur:<ph name="END_BOLD" /> Baxış tarixçəniz, bu cihazda WEB3 DNA Browser istifadə edərək ziyarət etdiyiniz saytların qeydi.</translation>
 <translation id="8862326446509486874">Sistem səviyyəli quraşdırma üçün uyğun hüquqlarınız yoxdur. Quraşdırıcını yenidən Administrator olaraq işə salmağa cəhd edin.</translation>
-<translation id="8880203542552872219">Bu halda, Chromium'da saxlanmış parolları redaktə edərək yeni parola uyğunlaşdırın.</translation>
+<translation id="8304007095757244531">Bu halda, WEB3 DNA Browser'da saxlanmış parolları redaktə edərək yeni parola uyğunlaşdırın.</translation>
 <translation id="8897323336392112261">Həmçinin, əsas səhifə düyməsinə klikləyəndə göstəriləsi səhifəyə nəzarət edir.</translation>
-<translation id="8907580949721785412">Chromium parolları göstərməyə çalışır. buna icazə vermək üçün Windows parolunuzu yazın.</translation>
-<translation id="8931379085695076764">Chromium son bir neçə həftədəki baxış tarixçənizə əsasən maraqlarınızı təxmin edə bilər. Bu məlumat cihazınızda qalır.</translation>
-<translation id="8941642502866065432">Chromium'u güncəlləmək alınmadı</translation>
-<translation id="897581876605952338">Chromium Enterprise loqosu</translation>
+<translation id="257978004891740263">WEB3 DNA Browser parolları göstərməyə çalışır. buna icazə vermək üçün Windows parolunuzu yazın.</translation>
+<translation id="7500894618301979366">WEB3 DNA Browser son bir neçə həftədəki baxış tarixçənizə əsasən maraqlarınızı təxmin edə bilər. Bu məlumat cihazınızda qalır.</translation>
+<translation id="3731673200617615844">WEB3 DNA Browser'u güncəlləmək alınmadı</translation>
+<translation id="1787382483918628946">WEB3 DNA Browser Enterprise loqosu</translation>
 <translation id="8986207147630327271">Bu brauzerə iş profili əlavə edirsiniz və administratorunuza yalnız iş profili üzərində nəzarət verirsiniz.</translation>
-<translation id="9019929317751753759">Chromium'u təhlükəsiz etmək üçün, <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> siyahısında olmayan və xəbəriniz olmadan əlavə edilən artırmanı deaktiv etdik.</translation>
-<translation id="9022552996538154597">Chromium'a daxil olun</translation>
-<translation id="9089354809943900324">Chromium'un vaxtı keçib</translation>
-<translation id="9093206154853821181">{0,plural, =1{Chromium 1 saata yenidən başlayacaq}other{Chromium # saata yenidən başlayacaq}}</translation>
-<translation id="9106612006984859720">Chromium güncəlləmələrini əldə etmək üçün Windows 10 və ya daha yeni versiya tələb olunur. Bu kompüter Windows 8.1 istifadə edir.</translation>
-<translation id="91086099826398415">Linki Yeni Chromium tabında açın</translation>
+<translation id="8867249455463470821">WEB3 DNA Browser'u təhlükəsiz etmək üçün, <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> siyahısında olmayan və xəbəriniz olmadan əlavə edilən artırmanı deaktiv etdik.</translation>
+<translation id="8879833215600767638">WEB3 DNA Browser'a daxil olun</translation>
+<translation id="853293422536067733">WEB3 DNA Browser'un vaxtı keçib</translation>
+<translation id="325086175188777548">{0,plural, =1{WEB3 DNA Browser 1 saata yenidən başlayacaq}other{WEB3 DNA Browser # saata yenidən başlayacaq}}</translation>
+<translation id="8024211601023847048">WEB3 DNA Browser güncəlləmələrini əldə etmək üçün Windows 10 və ya daha yeni versiya tələb olunur. Bu kompüter Windows 8.1 istifadə edir.</translation>
+<translation id="2383920618768832592">Linki Yeni WEB3 DNA Browser tabında açın</translation>
 <translation id="911206726377975832">Brauzinq datanız da silinsin?</translation>
-<translation id="9144490074902256427">Sınaqlar zamanı saytların sizə reklam göstərmək üçün istifadə etdiyi maraqlı mövzuları görə və silə bilərsiniz. Chromium son baxış tarixçənizə əsasən maraqlarınızı təxmin edir.</translation>
-<translation id="9158494823179993217">Sistem administratoru Chromium'u <ph name="TARGET_URL_HOSTNAME" /> ünvanına daxil olmaq məqsədilə alternativ brauzer açmaq üçün konfiqurasiya edib.</translation>
-<translation id="9185526690718004400">&amp;Chromium'u güncəlləmək üçün yenidən başladın</translation>
-<translation id="9190841055450128916">Chromium (mDNS-In)</translation>
-<translation id="93478295209880648">Chromium düzgün işləməyə bilər, çünki daha Windows XP və ya Windows Vista'da dəstəklənmir</translation>
-<translation id="942598560705308788">Chromium tərəfindən idarə olunan sertifikatlar</translation>
-<translation id="945990405696787151">Chromium güncəlləmələrini əldə etmək üçün macOS 10.13 və ya daha yeni versiya tələb olunur. Bu kompüter OS X 10.11 istifadə edir.</translation>
-<translation id="965162752251293939">Chromium'u kim istifadə edir?</translation>
-<translation id="967427899662692980">Chromium’un ən güclü güvənlik sistemini əldə edin</translation>
-<translation id="985602178874221306">Chromium Müəllifləri</translation>
+<translation id="3209098675401285328">Sınaqlar zamanı saytların sizə reklam göstərmək üçün istifadə etdiyi maraqlı mövzuları görə və silə bilərsiniz. WEB3 DNA Browser son baxış tarixçənizə əsasən maraqlarınızı təxmin edir.</translation>
+<translation id="3219820530884298089">Sistem administratoru WEB3 DNA Browser'u <ph name="TARGET_URL_HOSTNAME" /> ünvanına daxil olmaq məqsədilə alternativ brauzer açmaq üçün konfiqurasiya edib.</translation>
+<translation id="3490070383213151269">&amp;WEB3 DNA Browser'u güncəlləmək üçün yenidən başladın</translation>
+<translation id="6090927689465861839">WEB3 DNA Browser (mDNS-In)</translation>
+<translation id="5838682317838879726">WEB3 DNA Browser düzgün işləməyə bilər, çünki daha Windows XP və ya Windows Vista'da dəstəklənmir</translation>
+<translation id="864578822176559036">WEB3 DNA Browser tərəfindən idarə olunan sertifikatlar</translation>
+<translation id="5999581564161388420">WEB3 DNA Browser güncəlləmələrini əldə etmək üçün macOS 10.13 və ya daha yeni versiya tələb olunur. Bu kompüter OS X 10.11 istifadə edir.</translation>
+<translation id="8170259981824726476">WEB3 DNA Browser'u kim istifadə edir?</translation>
+<translation id="848072905736697318">WEB3 DNA Browser’un ən güclü güvənlik sistemini əldə edin</translation>
+<translation id="3707690415152488007">WEB3 DNA Browser Müəllifləri</translation>
 </translationbundle>

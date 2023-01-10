@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Aanvullende gegevens verzenden</translation>
 <translation id="1019413721762100891">Uit</translation>
 <translation id="1021110881106174305">Geaccepteerde passen</translation>
-<translation id="1021753677514347426">Dit probleem doet zich voor als gevolg van een certificaat dat jij of iemand anders heeft geïnstalleerd op je apparaat. Het certificaat staat erom bekend dat het wordt gebruikt voor netwerkmonitoring en -onderschepping en wordt niet vertrouwd door Chromium. Hoewel er ook legitieme certificaten bestaan, bijvoorbeeld op een school- of zakelijk netwerk, wil Chromium zeker weten dat je begrijpt wat er gebeurt, ook als je het niet kunt tegenhouden. Monitoring kan plaatsvinden in elke browser of app met toegang tot internet.</translation>
+<translation id="6843750610117699926">Dit probleem doet zich voor als gevolg van een certificaat dat jij of iemand anders heeft geïnstalleerd op je apparaat. Het certificaat staat erom bekend dat het wordt gebruikt voor netwerkmonitoring en -onderschepping en wordt niet vertrouwd door WEB3 DNA Browser. Hoewel er ook legitieme certificaten bestaan, bijvoorbeeld op een school- of zakelijk netwerk, wil WEB3 DNA Browser zeker weten dat je begrijpt wat er gebeurt, ook als je het niet kunt tegenhouden. Monitoring kan plaatsvinden in elke browser of app met toegang tot internet.</translation>
 <translation id="1024111578869940408">Aanvallers maken sites soms na door wijzigingen in het webadres aan te brengen die je moeilijk kunt zien.</translation>
 <translation id="1028781062521375153">Details bekijken</translation>
 <translation id="1030706264415084469"><ph name="URL" /> wil grote gegevens permanent op je apparaat opslaan</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Toevoegen ongedaan maken</translation>
 <translation id="1056663316309890343">Fotosoftware</translation>
 <translation id="1056898198331236512">Waarschuwing</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om de Dino Run-game in Chrome te spelen</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om de Dino Run-game in WEB3 DNA Browser te spelen</translation>
 <translation id="1058479211578257048">Passen opslaan...</translation>
 <translation id="1060320201901229167">Envelop Kaku 5</translation>
 <translation id="10614374240317010">Nooit opgeslagen</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Naam op pas toevoegen</translation>
 <translation id="1089439967362294234">Wachtwoord wijzigen</translation>
 <translation id="1096545575934602868">Dit veld mag niet meer dan <ph name="MAX_ITEMS_LIMIT" /> items bevatten. Verdere items worden verwijderd.</translation>
-<translation id="1100782917270858593">De knop Je traject hervatten, druk op Enter om je traject te hervatten en relevante activiteit in je Chrome-geschiedenis te bekijken</translation>
+<translation id="3985486898664025513">De knop Je traject hervatten, druk op Enter om je traject te hervatten en relevante activiteit in je WEB3 DNA Browser-geschiedenis te bekijken</translation>
 <translation id="1101672080107056897">Fout in actie</translation>
 <translation id="1103523840287552314"><ph name="LANGUAGE" /> altijd vertalen</translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Je hebt je wachtwoord ingevoerd op een site die niet door je organisatie wordt beheerd. Hergebruik je wachtwoord niet voor andere apps en sites om je account te beschermen.</translation>
 <translation id="1257553931232494454">zoomniveaus</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je Chrome-instellingen te beheren</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je WEB3 DNA Browser-instellingen te beheren</translation>
 <translation id="1263231323834454256">Leeslijst</translation>
 <translation id="1264309058268477500">Alternatief</translation>
 <translation id="1264974993859112054">Sport</translation>
@@ -131,7 +131,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1285320974508926690">Deze site nooit vertalen</translation>
 <translation id="1288548991597756084">Kaart beveiligd opslaan</translation>
 <translation id="1292571435393770077">Lade 16</translation>
-<translation id="1292701964462482250">'Software op je computer voorkomt dat Chrome veilig verbinding kan maken met internet' (alleen Windows-computers)</translation>
+<translation id="3610512443326918645">'Software op je computer voorkomt dat WEB3 DNA Browser veilig verbinding kan maken met internet' (alleen Windows-computers)</translation>
 <translation id="1293797321964802402">Envelop 9 x 11 inch</translation>
 <translation id="1294154142200295408">Opdrachtregelvarianten</translation>
 <translation id="129553762522093515">Recent gesloten</translation>
@@ -150,7 +150,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1323433172918577554">Meer bekijken</translation>
 <translation id="132390688737681464">Adressen opslaan en invullen</translation>
 <translation id="1330449323196174374">Gatefold links</translation>
-<translation id="1333745675627230582">Chrome Dino-game spelen</translation>
+<translation id="6227572462599550594">WEB3 DNA Browser Dino-game spelen</translation>
 <translation id="1333989956347591814">Je activiteit is mogelijk <ph name="BEGIN_EMPHASIS" />nog wel zichtbaar<ph name="END_EMPHASIS" /> voor:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Websites die je bezoekt
@@ -223,7 +223,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1483493594462132177">Verzenden</translation>
 <translation id="1484290072879560759">Verzendadres kiezen</translation>
 <translation id="1492194039220927094">Pushen van beleid:</translation>
-<translation id="149293076951187737">Als je alle Chrome-incognitotabbladen sluit, wordt je activiteit op die tabbladen van dit apparaat gewist:
+<translation id="3175654283800723944">Als je alle WEB3 DNA Browser-incognitotabbladen sluit, wordt je activiteit op die tabbladen van dit apparaat gewist:
 <ph name="BEGIN_LIST" />
 <ph name="LIST_ITEM" />Browse-activiteit<ph name="END_LIST_ITEM" />
 <ph name="LIST_ITEM" />Zoekgeschiedenis<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="154408704832528245">Afleveradres kiezen</translation>
 <translation id="1549470594296187301">JavaScript moet aanstaan om deze functie te kunnen gebruiken.</translation>
 <translation id="1551884710160394169">Freeware en shareware</translation>
-<translation id="1553358976309200471">Chrome updaten</translation>
+<translation id="1553358976309200471">WEB3 DNA Browser updaten</translation>
 <translation id="1555130319947370107">Blauw</translation>
 <translation id="1559447966090556585">Meldingen ontvangen?</translation>
 <translation id="1559528461873125649">Dit bestand of deze directory bestaat niet</translation>
@@ -263,7 +263,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="156703335097561114">Netwerkinformatie zoals adressen, interfaceconfiguratie en verbindingskwaliteit</translation>
 <translation id="1567040042588613346">Dit beleid werkt zoals bedoeld, maar ergens anders is dezelfde waarde ingesteld die wordt vervangen door dit beleid.</translation>
 <translation id="1569487616857761740">Vervaldatum invoeren</translation>
-<translation id="1569694109004336106">Google Chrome probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Er is iets misgegaan met het bekijken van deze webpagina.</translation>
@@ -273,7 +273,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1594030484168838125">Kiezen</translation>
 <translation id="1596296697375291157">Thrillers, misdaad- en mysteriefilms</translation>
 <translation id="1599199147673445968">Nieuwe pas? <ph name="BEGIN_LINK" />Kaartgegevens invullen<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Speel de Dino Run-game in Chrome</translation>
+<translation id="160851722280695521">Speel de Dino Run-game in WEB3 DNA Browser</translation>
 <translation id="161042844686301425">Cyaan</translation>
 <translation id="1611101756749861742">2e rol</translation>
 <translation id="1615402009686901181">Op basis van het beheerdersbeleid worden schermopnamen uitgezet als er vertrouwelijke content zichtbaar is</translation>
@@ -293,13 +293,13 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1642410292376109062">Knop Google-wachtwoord wijzigen, druk op Enter om het wachtwoord van je Google-account te wijzigen</translation>
 <translation id="1644574205037202324">Geschiedenis</translation>
 <translation id="1645368109819982629">Niet-ondersteund protocol</translation>
-<translation id="1650602712345345441">Je Chrome-instellingen beheren</translation>
+<translation id="1650602712345345441">Je WEB3 DNA Browser-instellingen beheren</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome heeft deze pagina vereenvoudigd om deze beter leesbaar te maken. Chrome heeft de originele pagina opgehaald via een beveiligde verbinding.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser heeft deze pagina vereenvoudigd om deze beter leesbaar te maken. WEB3 DNA Browser heeft de originele pagina opgehaald via een beveiligde verbinding.</translation>
 <translation id="1656489000284462475">Ophaaltijd</translation>
 <translation id="1658918301167915956">bluetooth-apparaten</translation>
 <translation id="1662550410081243962">Betaalmethoden opslaan en invullen</translation>
-<translation id="1663943134801823270">Passen en adressen zijn afkomstig uit Chrome. Je kunt ze beheren in <ph name="BEGIN_LINK" />Instellingen<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Passen en adressen zijn afkomstig uit WEB3 DNA Browser. Je kunt ze beheren in <ph name="BEGIN_LINK" />Instellingen<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">Pagina's in het <ph name="SOURCE_LANGUAGE" /> worden vanaf nu vertaald naar het <ph name="TARGET_LANGUAGE" />.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> naar <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Korte zijde eerst</translation>
@@ -347,7 +347,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1757773103848038814">Monospace-lettertype</translation>
 <translation id="1763864636252898013">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server wordt niet vertrouwd door het besturingssysteem van je apparaat. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Voer Windows Netwerkcontrole uit<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Meer informatie over incognito in Chromium<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Meer informatie over incognito in WEB3 DNA Browser<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Je geopende tabbladen zie je hier</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -398,11 +398,11 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1919526244108283799">400 x 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Geen}=1{1 site}other{# sites}}</translation>
 <translation id="1924727005275031552">Nieuw</translation>
-<translation id="1927439593081478069">De knop Chrome-veiligheidscheck uitvoeren, druk op Enter om een veiligheidscheck uit te voeren in de Chrome-instellingen</translation>
+<translation id="1927439593081478069">De knop WEB3 DNA Browser-veiligheidscheck uitvoeren, druk op Enter om een veiligheidscheck uit te voeren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="1935995810530254458">Toch kopiëren</translation>
 <translation id="1939175642807587452">Kan vragen of deze site meldingen mag sturen</translation>
 <translation id="1943994668912612445">Ontwerp</translation>
-<translation id="1945968466830820669">Je kunt de toegang tot het account van je organisatie kwijtraken of slachtoffer worden van identiteitsdiefstal. Chromium raadt je aan je wachtwoord nu te wijzigen.</translation>
+<translation id="5087943717045213809">Je kunt de toegang tot het account van je organisatie kwijtraken of slachtoffer worden van identiteitsdiefstal. WEB3 DNA Browser raadt je aan je wachtwoord nu te wijzigen.</translation>
 <translation id="1946849748901605102">12 x 15 inch</translation>
 <translation id="1947454675006758438">Nietje rechtsboven</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -425,8 +425,8 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2001146170449793414">{COUNT,plural, =1{en 1 andere}other{en # andere}}</translation>
 <translation id="2003709556000175978">Stel je wachtwoord nu opnieuw in</translation>
 <translation id="2003775180883135320">Vier perforaties boven</translation>
-<translation id="201174227998721785">Rechten en opgeslagen gegevens voor sites beheren in de Chrome-instellingen</translation>
-<translation id="2019607688127825327">De knop Toegankelijkheidsinstellingen beheren, druk op Enter om je toegankelijkheidstools te personaliseren in de Chrome-instellingen</translation>
+<translation id="201174227998721785">Rechten en opgeslagen gegevens voor sites beheren in de WEB3 DNA Browser-instellingen</translation>
+<translation id="2019607688127825327">De knop Toegankelijkheidsinstellingen beheren, druk op Enter om je toegankelijkheidstools te personaliseren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="202224654587969958">12 x 19 inch</translation>
 <translation id="2025115093177348061">Augmented reality</translation>
 <translation id="2025186561304664664">Proxy is ingesteld op automatische configuratie.</translation>
@@ -443,7 +443,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2048261947532620704">Pagina vertalen</translation>
 <translation id="205212645995975601">Barbecue en grillen</translation>
 <translation id="2053111141626950936">Pagina's in het <ph name="LANGUAGE" /> worden niet vertaald.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Als dit bedieningselement aanstaat en de status actief is, bepaalt Chrome op welke grote groep mensen (ook wel een cohort genoemd) je recente browse-activiteit het meest lijkt. Adverteerders kunnen advertenties voor de groep selecteren en je browse-activiteit blijft privé op je apparaat. Je groep wordt elke dag geüpdatet.}=1{Als dit bedieningselement aanstaat en de status actief is, bepaalt Chrome op welke grote groep mensen (ook wel een cohort genoemd) je recente browse-activiteit het meest lijkt. Adverteerders kunnen advertenties voor de groep selecteren en je browse-activiteit blijft privé op je apparaat. Je groep wordt elke dag geüpdatet.}other{Als dit bedieningselement aanstaat en de status actief is, bepaalt Chrome op welke grote groep mensen (ook wel een cohort genoemd) je recente browse-activiteit het meest lijkt. Adverteerders kunnen advertenties voor de groep selecteren en je browse-activiteit blijft privé op je apparaat. Je groep wordt elke {NUM_DAYS} dagen geüpdatet.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Als dit bedieningselement aanstaat en de status actief is, bepaalt WEB3 DNA Browser op welke grote groep mensen (ook wel een cohort genoemd) je recente browse-activiteit het meest lijkt. Adverteerders kunnen advertenties voor de groep selecteren en je browse-activiteit blijft privé op je apparaat. Je groep wordt elke dag geüpdatet.}=1{Als dit bedieningselement aanstaat en de status actief is, bepaalt WEB3 DNA Browser op welke grote groep mensen (ook wel een cohort genoemd) je recente browse-activiteit het meest lijkt. Adverteerders kunnen advertenties voor de groep selecteren en je browse-activiteit blijft privé op je apparaat. Je groep wordt elke dag geüpdatet.}other{Als dit bedieningselement aanstaat en de status actief is, bepaalt WEB3 DNA Browser op welke grote groep mensen (ook wel een cohort genoemd) je recente browse-activiteit het meest lijkt. Adverteerders kunnen advertenties voor de groep selecteren en je browse-activiteit blijft privé op je apparaat. Je groep wordt elke {NUM_DAYS} dagen geüpdatet.}}</translation>
 <translation id="2059202684901022309">22 x 34 inch</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 suggestie}other{# suggesties}}</translation>
 <translation id="2066915425250589881">een verwijderingsverzoek indienen</translation>
@@ -455,9 +455,9 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="20817612488360358">De proxyinstellingen van het systeem moeten worden gebruikt, maar er is ook een expliciete proxyconfiguratie opgegeven.</translation>
 <translation id="2082238445998314030">Resultaat <ph name="RESULT_NUMBER" /> van <ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">Opslaan…</translation>
-<translation id="2088086323192747268">Knop Synchronisatie beheren, druk op Enter om de informatie die je synchroniseert te beheren in de Chrome-instellingen</translation>
+<translation id="2088086323192747268">Knop Synchronisatie beheren, druk op Enter om de informatie die je synchroniseert te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="2091887806945687916">Geluid</translation>
-<translation id="2093982008204312032">Google Chrome probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
 <translation id="2094505752054353250">Domeinen komen niet overeen</translation>
 <translation id="2099652385553570808">Drie nietjes links</translation>
 <translation id="2101225219012730419">Versie:</translation>
@@ -540,9 +540,9 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2292556288342944218">Je toegang tot internet wordt geblokkeerd</translation>
 <translation id="2293443924986248631">Als deze optie aanstaat, kunnen sites geen cookies gebruiken die je volgen op internet. Functies op bepaalde sites werken mogelijk niet meer.</translation>
 <translation id="2295290966866883927">URL's van pagina's die je bezoekt, worden voor analyse naar Google Cloud of derden gestuurd. Ze kunnen bijvoorbeeld worden gescand om niet-beveiligde websites te detecteren.</translation>
-<translation id="2298855485018661510">Knop Cookies beheren, druk op Enter om je cookievoorkeuren te beheren in de Chrome-instellingen</translation>
+<translation id="2298855485018661510">Knop Cookies beheren, druk op Enter om je cookievoorkeuren te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="2300306941146563769">Niet geüpload</translation>
-<translation id="2316159751672436664">Je toegankelijkheidstools personaliseren in de Chrome OS-instellingen</translation>
+<translation id="2316159751672436664">Je toegankelijkheidstools personaliseren in de WEB3 DNA Browser OS-instellingen</translation>
 <translation id="2316887270356262533">Hiermee wordt minder dan 1 MB vrijgemaakt. Sommige sites kunnen langzamer worden geladen wanneer je ze weer bezoekt.</translation>
 <translation id="2317259163369394535">Voor <ph name="DOMAIN" /> zijn een gebruikersnaam en een wachtwoord vereist.</translation>
 <translation id="2318594867107319532">Laatste beleidstijdstempel:</translation>
@@ -568,9 +568,9 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="236340516568226369">Schakelmenu voor aanpassen van formaat</translation>
 <translation id="2367567093518048410">Niveau</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Je toegankelijkheidstools personaliseren in de Chrome-instellingen</translation>
+<translation id="2383455408879745299">Je toegankelijkheidstools personaliseren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="2384307209577226199">Zakelijk standaard</translation>
-<translation id="2385809941344967209">Chrome updaten in de Chrome-instellingen</translation>
+<translation id="2385809941344967209">WEB3 DNA Browser updaten in de WEB3 DNA Browser-instellingen</translation>
 <translation id="2386255080630008482">Het servercertificaat is ingetrokken.</translation>
 <translation id="239293030466334554">Convertibles</translation>
 <translation id="2392959068659972793">Beleid zonder ingestelde waarde bekijken</translation>
@@ -589,7 +589,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2463739503403862330">Invullen</translation>
 <translation id="2465655957518002998">Bezorgingsmethode kiezen</translation>
 <translation id="2465688316154986572">Nieten</translation>
-<translation id="2465914000209955735">Bestanden beheren die je in Chrome hebt gedownload</translation>
+<translation id="2465914000209955735">Bestanden beheren die je in WEB3 DNA Browser hebt gedownload</translation>
 <translation id="2466004615675155314">Informatie van internet tonen</translation>
 <translation id="2467272921457885625">Apparaathardwarespecificaties en -statistieken zoals CPU-/RAM-gebruiksgeschiedenis</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Netwerkcontrole uitvoeren<ph name="END_LINK" /></translation>
@@ -606,7 +606,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2505268675989099013">Account beschermen</translation>
 <translation id="2509167091171468975">Supermarkten en levensmiddelenketens</translation>
 <translation id="2512101340618156538">Niet toegestaan (standaard)</translation>
-<translation id="2512413427717747692">Knop Chrome instellen als standaardbrowser, druk op Enter om Chrome in te stellen als de standaardbrowser van het systeem in de iOS-instellingen</translation>
+<translation id="2512413427717747692">Knop WEB3 DNA Browser instellen als standaardbrowser, druk op Enter om WEB3 DNA Browser in te stellen als de standaardbrowser van het systeem in de iOS-instellingen</translation>
 <translation id="2515629240566999685">Check of je bereik hebt in je omgeving</translation>
 <translation id="2515761554693942801">Je hebt ervoor gekozen te verifiëren met Touch ID op websites die <ph name="PROVIDER_ORIGIN" /> gebruiken. Deze provider heeft misschien informatie over je betaalmethode opgeslagen. Hiervoor kun je <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Nietje rechtsonder</translation>
@@ -623,7 +623,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2542106216580219892">Surfen</translation>
 <translation id="2544546346215446551">Je beheerder heeft je apparaat opnieuw opgestart</translation>
 <translation id="2544644783021658368">Eén document</translation>
-<translation id="254524874071906077">Chrome instellen als standaardbrowser</translation>
+<translation id="1319028298140338735">WEB3 DNA Browser instellen als standaardbrowser</translation>
 <translation id="2546283357679194313">Cookies en sitegegevens</translation>
 <translation id="2547466893236767989">Websiteontwerp en -ontwikkeling</translation>
 <translation id="254947805923345898">Beleidswaarde is ongeldig.</translation>
@@ -638,19 +638,19 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2570734079541893434">Instellingen beheren</translation>
 <translation id="2573834589046842510">Drukkerijen en uitgeverijen</translation>
 <translation id="257674075312929031">Groep</translation>
-<translation id="2576880857912732701">De knop Beveiligingsinstellingen beheren, druk op Enter om Safe Browsing en meer te beheren in de Chrome-instellingen</translation>
+<translation id="2576880857912732701">De knop Beveiligingsinstellingen beheren, druk op Enter om Safe Browsing en meer te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="2586657967955657006">Klembord</translation>
 <translation id="2587730715158995865">Van <ph name="ARTICLE_PUBLISHER" />. Lees dit en <ph name="OTHER_ARTICLE_COUNT" /> andere artikelen.</translation>
 <translation id="2587841377698384444">Directory API-ID:</translation>
 <translation id="2594318783181750337">Snelle webweergave:</translation>
 <translation id="2595719060046994702">Dit apparaat en dit account worden niet beheerd door een bedrijf of andere organisatie.</translation>
-<translation id="2596415276201385844">Als je een beveiligde verbinding tot stand wilt brengen, moet je klok juist zijn ingesteld. Dit moet omdat de certificaten die deze websites gebruiken om zichzelf te identificeren, slechts gedurende bepaalde perioden geldig zijn. Aangezien de klok van je apparaat niet goed is ingesteld, kan Chrome deze certificaten niet verifiëren.</translation>
+<translation id="7968235694092767490">Als je een beveiligde verbinding tot stand wilt brengen, moet je klok juist zijn ingesteld. Dit moet omdat de certificaten die deze websites gebruiken om zichzelf te identificeren, slechts gedurende bepaalde perioden geldig zijn. Aangezien de klok van je apparaat niet goed is ingesteld, kan WEB3 DNA Browser deze certificaten niet verifiëren.</translation>
 <translation id="2597378329261239068">Dit document is beveiligd met een wachtwoord. Geef een wachtwoord op.</translation>
 <translation id="259821504105826686">Fotografie en digitale kunst</translation>
 <translation id="2601150049980261779">Romantische films</translation>
 <translation id="2604589665489080024">Popmuziek</translation>
 <translation id="2610561535971892504">Klik om te kopiëren</translation>
-<translation id="2617988307566202237">De volgende gegevens worden <ph name="BEGIN_EMPHASIS" />niet opgeslagen<ph name="END_EMPHASIS" /> in Chrome:
+<translation id="6174516088921923215">De volgende gegevens worden <ph name="BEGIN_EMPHASIS" />niet opgeslagen<ph name="END_EMPHASIS" /> in WEB3 DNA Browser:
 <ph name="BEGIN_LIST" />
 <ph name="LIST_ITEM" />Je browsegeschiedenis
 <ph name="LIST_ITEM" />Cookies en sitegegevens
@@ -658,14 +658,14 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Je klok loopt voor</translation>
 <translation id="262745152991669301">Kan vragen of deze site verbinding mag maken met USB-apparaten</translation>
-<translation id="2629325967560697240"><ph name="BEGIN_ENHANCED_PROTECTION_LINK" />Zet de geoptimaliseerde beveiliging aan<ph name="END_ENHANCED_PROTECTION_LINK" /> om het hoogste beveiligingsniveau van Chrome te gebruiken</translation>
+<translation id="9155656925188613813"><ph name="BEGIN_ENHANCED_PROTECTION_LINK" />Zet de geoptimaliseerde beveiliging aan<ph name="END_ENHANCED_PROTECTION_LINK" /> om het hoogste beveiligingsniveau van WEB3 DNA Browser te gebruiken</translation>
 <translation id="2634124572758952069">Het IP-adres van de server van <ph name="HOST_NAME" /> kan niet worden gevonden.</translation>
 <translation id="2639739919103226564">Status:</translation>
 <translation id="2643134278432436513">Haarverzorging</translation>
 <translation id="2647852283046201479">Strategiegames</translation>
 <translation id="264810637653812429">Geen geschikte apparaten gevonden.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om je browsegeschiedenis, cookies, cache en meer te wissen in de Chrome-instellingen.</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om je browsegeschiedenis, cookies, cache en meer te wissen in de WEB3 DNA Browser-instellingen.</translation>
 <translation id="2650446666397867134">Toegang tot het bestand is geweigerd</translation>
 <translation id="2653659639078652383">Verzenden</translation>
 <translation id="2657637947725373811">{0,plural, =1{Vertrouwelijk bestand overzetten?}other{Vertrouwelijke bestanden overzetten?}}</translation>
@@ -693,11 +693,11 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2705137772291741111">De gecachete versie van deze site is niet bereikbaar.</translation>
 <translation id="2709516037105925701">Automatisch invullen</translation>
 <translation id="2713444072780614174">Wit</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om je betalingen en creditcardgegevens te beheren in de Chrome-instellingen.</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om je betalingen en creditcardgegevens te beheren in de WEB3 DNA Browser-instellingen.</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Druk op |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| om het volledige scherm te sluiten</translation>
 <translation id="2721148159707890343">Verzoek geslaagd</translation>
-<translation id="2723669454293168317">Voer een veiligheidscheck uit in de Chrome-instellingen</translation>
+<translation id="2723669454293168317">Voer een veiligheidscheck uit in de WEB3 DNA Browser-instellingen</translation>
 <translation id="2726001110728089263">Zijlade</translation>
 <translation id="2728127805433021124">Het certificaat van de server is ondertekend met een zwak ondertekeningsalgoritme.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Verbindingsdiagnose uitvoeren<ph name="END_LINK" /></translation>
@@ -737,7 +737,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="287596039013813457">Vriendelijk</translation>
 <translation id="28761159517501904">Films</translation>
 <translation id="2876489322757410363">Je verlaat de incognitomodus om te betalen via een externe app. Doorgaan?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om Safe Browsing en meer te beheren in de Chrome-instellingen</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om Safe Browsing en meer te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="2878197950673342043">Kruisvouw</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Pas opslaan?</translation>
@@ -749,7 +749,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="290376772003165898">Is deze pagina niet in het <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">Er is een netwerkwijziging gedetecteerd.</translation>
 <translation id="2911973620368911614">Gebruikers-ID van taakaccount</translation>
-<translation id="2914160345369867329"><ph name="SITE" /> gebruikt gewoonlijk versleuteling om je informatie te beschermen. Toen Chrome deze keer probeerde verbinding te maken met <ph name="SITE" />, stuurde de website ongewone en onjuiste inloggegevens terug. Dit kan gebeuren als een aanvaller probeert zich als <ph name="SITE" /> voor te doen of als een wifi-inlogscherm de verbinding heeft verbroken. Je informatie is nog steeds beveiligd omdat Chrome de verbinding heeft beëindigd voordat gegevens konden worden uitgewisseld.</translation>
+<translation id="6754677106668042373"><ph name="SITE" /> gebruikt gewoonlijk versleuteling om je informatie te beschermen. Toen WEB3 DNA Browser deze keer probeerde verbinding te maken met <ph name="SITE" />, stuurde de website ongewone en onjuiste inloggegevens terug. Dit kan gebeuren als een aanvaller probeert zich als <ph name="SITE" /> voor te doen of als een wifi-inlogscherm de verbinding heeft verbroken. Je informatie is nog steeds beveiligd omdat WEB3 DNA Browser de verbinding heeft beëindigd voordat gegevens konden worden uitgewisseld.</translation>
 <translation id="2915068235268646559">Crash van <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Schilderen en schilderijen</translation>
 <translation id="2916038427272391327">Andere programma's sluiten</translation>
@@ -766,7 +766,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2943895734390379394">Uploadtijd:</translation>
 <translation id="2945026002409061480">Online community's</translation>
 <translation id="2948083400971632585">Op de pagina met instellingen kun je proxyservers uitzetten die voor een verbinding zijn ingesteld.</translation>
-<translation id="2949183777371959169">Genegeerd omdat de machine niet is ingeschreven bij cloudbeheer voor de Chrome-browser.</translation>
+<translation id="7786089409521529641">Genegeerd omdat de machine niet is ingeschreven bij cloudbeheer voor de WEB3 DNA Browser-browser.</translation>
 <translation id="2951588413176968965">Mijn mailbox</translation>
 <translation id="2952820037279740115">Alle incognitovensters sluiten</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -780,7 +780,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2977665033722899841"><ph name="ROW_NAME" />, momenteel geselecteerd. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2983666748527428214">Incognitotabblad openen</translation>
-<translation id="2985306909656435243">Als deze instelling aanstaat, slaat Chromium een kopie van je pas op dit apparaat op zodat formulieren sneller kunnen worden ingevuld.</translation>
+<translation id="6458065442802745995">Als deze instelling aanstaat, slaat WEB3 DNA Browser een kopie van je pas op dit apparaat op zodat formulieren sneller kunnen worden ingevuld.</translation>
 <translation id="2985398929374701810">Geef een geldig adres op</translation>
 <translation id="2986368408720340940">Deze ophaalmethode is niet beschikbaar. Kies een andere methode.</translation>
 <translation id="2987034854559945715">Geen overeenkomende functies</translation>
@@ -802,7 +802,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="3037177537145227281">Prijs wordt gevolgd</translation>
 <translation id="3037605927509011580">Asjemenou!</translation>
 <translation id="3041612393474885105">Certificaatgegevens</translation>
-<translation id="305162504811187366">Chrome Remote Desktop-geschiedenis, waaronder tijdstempels, hosts en clientsessie-ID's</translation>
+<translation id="6009592758194948058">WEB3 DNA Browser Remote Desktop-geschiedenis, waaronder tijdstempels, hosts en clientsessie-ID's</translation>
 <translation id="3052964831964880138">Prijsdaling van <ph name="PRICE_DROP" /> voor <ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Patchservice</translation>
 <translation id="306573536155379004">Game gestart.</translation>
@@ -847,7 +847,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3194737229810486521"><ph name="URL" /> vraagt toestemming om gegevens permanent op je apparaat op te slaan</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> op <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Kan vragen of deze site mag weten wanneer je dit apparaat actief gebruikt</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om de informatie die je synchroniseert te beheren in de Chrome-instellingen</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om de informatie die je synchroniseert te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="320323717674993345">Betaling annuleren</translation>
 <translation id="3203366800380907218">Van internet</translation>
 <translation id="3207960819495026254">Toegevoegd aan 'Bookmarks'</translation>
@@ -871,7 +871,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om het uiterlijk van je browser aan te passen</translation>
 <translation id="3240791268468473923">Pagina geopend waarop staat dat er geen overeenkomende inloggegevens zijn voor beveiligde betaling</translation>
 <translation id="324180406144491771">Links van <ph name="HOST_NAME" /> zijn geblokkeerd</translation>
-<translation id="3248611290851046188">Deze site definieert interesses waarmee andere sites je advertenties kunnen laten zien. Deze site krijgt ook je interesses van Chrome zodat de site je relevantere advertenties kan laten zien</translation>
+<translation id="8141792378421105106">Deze site definieert interesses waarmee andere sites je advertenties kunnen laten zien. Deze site krijgt ook je interesses van WEB3 DNA Browser zodat de site je relevantere advertenties kan laten zien</translation>
 <translation id="3249151924975132674">Studentenleningen en studiefinanciering</translation>
 <translation id="3249845759089040423">Groovy</translation>
 <translation id="3250640885957938546">Reclame en marketing</translation>
@@ -881,7 +881,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3256863843508922226">Pensioen en oudedagsvoorziening</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om snel een nieuwe afspraak in Google Agenda te maken</translation>
 <translation id="3261488570342242926">Meer informatie over virtuele kaarten</translation>
-<translation id="3264837738038045344">Knop 'Chrome-instellingen beheren', druk op Enter om naar je Chrome-instellingen te gaan</translation>
+<translation id="3264837738038045344">Knop 'WEB3 DNA Browser-instellingen beheren', druk op Enter om naar je WEB3 DNA Browser-instellingen te gaan</translation>
 <translation id="3266793032086590337">Waarde (conflict)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Geen sites geblokkeerd, waaronder gerelateerde sites}=1{1 site geblokkeerd, waaronder gerelateerde sites}other{# sites geblokkeerd, waaronder gerelateerde sites}}</translation>
 <translation id="3268451620468152448">Geopende tabbladen</translation>
@@ -895,7 +895,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3287510313208355388">Downloaden wanneer online</translation>
 <translation id="3288238092761586174"><ph name="URL" /> moet mogelijk aanvullende stappen nemen om je betaling te verifiëren</translation>
 <translation id="3293642807462928945">Meer informatie over het beleid <ph name="POLICY_NAME" /></translation>
-<translation id="3295444047715739395">Je wachtwoorden bekijken en beheren in de Chrome-instellingen</translation>
+<translation id="3295444047715739395">Je wachtwoorden bekijken en beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="3299098170013242198">Windows Hello staat aan om wachtwoorden in te vullen</translation>
 <translation id="3303176609391916566">30 x 42 inch</translation>
 <translation id="3303855915957856445">Geen zoekresultaten gevonden</translation>
@@ -925,9 +925,9 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3366477098757335611">Passen bekijken</translation>
 <translation id="3369192424181595722">Klokfout</translation>
 <translation id="3369459162151165748">Voertuigonderdelen en -accessoires</translation>
-<translation id="3371064404604898522">Chrome instellen als standaardbrowser</translation>
+<translation id="3371064404604898522">WEB3 DNA Browser instellen als standaardbrowser</translation>
 <translation id="337363190475750230">Uitgeschreven</translation>
-<translation id="3375754925484257129">Chrome-veiligheidscheck uitvoeren</translation>
+<translation id="3375754925484257129">WEB3 DNA Browser-veiligheidscheck uitvoeren</translation>
 <translation id="3377144306166885718">De server gebruikte een verouderde versie van TLS.</translation>
 <translation id="3377188786107721145">Fout bij het parseren van beleid</translation>
 <translation id="3377736046129930310">Gebruik schermvergrendeling om kaarten sneller te bevestigen</translation>
@@ -951,7 +951,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3423742043356668186">Systeem opgegeven</translation>
 <translation id="3427092606871434483">Toestaan (standaard)</translation>
 <translation id="3427342743765426898">&amp;Opnieuw bewerken</translation>
-<translation id="342781501876943858">Chromium raadt je aan je wachtwoord te resetten als je het voor andere sites hebt hergebruikt.</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser raadt je aan je wachtwoord te resetten als je het voor andere sites hebt hergebruikt.</translation>
 <translation id="3428151540071562330">Een of meer van de servertemplate-URI's voor DnsOverHttpsTemplates zijn ongeldig en worden niet gebruikt.</translation>
 <translation id="3431216045099978607">Druk op |<ph name="ACCELERATOR" />| om het volledige scherm te sluiten en de download te bekijken.</translation>
 <translation id="3431636764301398940">Deze creditcard opslaan op dit apparaat</translation>
@@ -973,14 +973,14 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om alle momenteel geopende incognitovensters te sluiten</translation>
 <translation id="3477679029130949506">Filmladder en bioscoopagenda</translation>
 <translation id="3479552764303398839">Niet nu</translation>
-<translation id="3484560055331845446">Je kunt de toegang tot je Google-account kwijtraken. Chrome raadt je aan je wachtwoord nu te wijzigen. Je wordt gevraagd in te loggen op je account.</translation>
+<translation id="2148205384604312372">Je kunt de toegang tot je Google-account kwijtraken. WEB3 DNA Browser raadt je aan je wachtwoord nu te wijzigen. Je wordt gevraagd in te loggen op je account.</translation>
 <translation id="3484861421501147767">Herinnering: opgeslagen promotiecode beschikbaar</translation>
 <translation id="3487845404393360112">Lade 4</translation>
 <translation id="3495081129428749620">Zoeken op pagina <ph name="PAGE_TITLE" /></translation>
 <translation id="350069200438440499">Bestandsnaam:</translation>
 <translation id="3507936815618196901">Een 3D-kaart van je omgeving maken en de camerapositie volgen</translation>
 <translation id="3512163584740124171">Dit beleid wordt genegeerd omdat een ander beleid in dezelfde beleidsgroep een hogere prioriteit heeft.</translation>
-<translation id="35172538073169599">Knop Adressen beheren, druk op Enter om adressen toe te voegen en te beheren in de Chrome-instellingen</translation>
+<translation id="35172538073169599">Knop Adressen beheren, druk op Enter om adressen toe te voegen en te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="3518941727116570328">Verwerking van meerdere objecten</translation>
 <translation id="3525130752944427905">10 x 14 inch</translation>
 <translation id="3528171143076753409">Het servercertificaat is niet betrouwbaar.</translation>
@@ -1007,7 +1007,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3576616784287504635">Een ingesloten pagina op <ph name="SITE" /> meldt het volgende</translation>
 <translation id="3577473026931028326">Er is iets misgegaan. Probeer het opnieuw.</translation>
 <translation id="3577902790357386792">Turnen</translation>
-<translation id="3581089476000296252">Chrome laat je weten wanneer de pagina klaar is. &lt;a&gt;Annuleren&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser laat je weten wanneer de pagina klaar is. &lt;a&gt;Annuleren&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Voeg naam toe</translation>
 <translation id="3583757800736429874">&amp;Opnieuw verplaatsen</translation>
 <translation id="3584299510153766161">Twee perforaties onder</translation>
@@ -1022,7 +1022,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3611317423880285981">Huishoudelijke benodigdheden</translation>
 <translation id="3614103345592970299">Grootte 2</translation>
 <translation id="361438452008624280">Lijstitem '<ph name="LANGUAGE_ID" />': Onbekende of niet-ondersteunde taal.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om een veiligheidscheck uit te voeren in de Chrome-instellingen</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om een veiligheidscheck uit te voeren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="3615877443314183785">Geef een geldige vervaldatum op</translation>
 <translation id="36224234498066874">Browsegegevens wissen</translation>
 <translation id="362276910939193118">Volledige geschiedenis bekijken</translation>
@@ -1032,9 +1032,9 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3631244953324577188">Biometrische systemen</translation>
 <translation id="3632503704576938756">Scherm delen hervat</translation>
 <translation id="3632892046558972264">Scherm delen onderbroken</translation>
-<translation id="3633738897356909127">Knop 'Chrome updaten'. Druk op Enter om Chrome te updaten via de instellingen van Chrome.</translation>
+<translation id="3633738897356909127">Knop 'WEB3 DNA Browser updaten'. Druk op Enter om WEB3 DNA Browser te updaten via de instellingen van WEB3 DNA Browser.</translation>
 <translation id="3634530185120165534">Lade 5</translation>
-<translation id="3634567936866541746">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. Chrome raadt je aan je opgeslagen wachtwoorden te checken om je accounts te beveiligen.</translation>
+<translation id="6586777830476909681">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. WEB3 DNA Browser raadt je aan je opgeslagen wachtwoorden te checken om je accounts te beveiligen.</translation>
 <translation id="3642638418806704195">App:</translation>
 <translation id="3647286794400715637">Elke URL-tekenreeks moet 1 of 2 URL's bevatten.</translation>
 <translation id="3650584904733503804">Validatie geslaagd</translation>
@@ -1077,7 +1077,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3740319564441798148">Lange afstand bus- en treinvervoer</translation>
 <translation id="3744111561329211289">Synchronisatie op de achtergrond</translation>
 <translation id="3744286742364977428">Bestanden die je downloadt, worden voor analyse naar Google Cloud of naar derden gestuurd. Ze kunnen bijvoorbeeld worden gescand op gevoelige gegevens of malware en worden opgeslagen volgens het bedrijfsbeleid.</translation>
-<translation id="3744899669254331632">Je kunt <ph name="SITE" /> op dit moment niet bezoeken, omdat de website gecodeerde inloggegevens heeft verstuurd die niet door Chromium kunnen worden verwerkt. Aangezien netwerkfouten en aanvallen doorgaans van tijdelijke aard zijn, zal deze pagina later waarschijnlijk wel werken.</translation>
+<translation id="3461179235677384837">Je kunt <ph name="SITE" /> op dit moment niet bezoeken, omdat de website gecodeerde inloggegevens heeft verstuurd die niet door WEB3 DNA Browser kunnen worden verwerkt. Aangezien netwerkfouten en aanvallen doorgaans van tijdelijke aard zijn, zal deze pagina later waarschijnlijk wel werken.</translation>
 <translation id="3745099705178523657">Nadat je hebt bevestigd, worden de kaartgegevens uit je Google-account gedeeld met deze site.</translation>
 <translation id="3748148204939282805">Cybercriminelen op <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> kunnen proberen om je te misleiden zodat je iets gevaarlijks doet, bijvoorbeeld software installeren of je persoonlijke informatie bekendmaken (zoals wachtwoorden, telefoonnummers of creditcardgegevens). <ph name="BEGIN_LEARN_MORE_LINK" />Meer informatie<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Luchtvaartindustrie</translation>
@@ -1196,7 +1196,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4097288585054919042">Meldingen uitzetten</translation>
 <translation id="4098354747657067197">Misleidende site gedetecteerd</translation>
 <translation id="4099048595830172239">Op basis van het beheerdersbeleid wordt afgeraden dat je je scherm met <ph name="APPLICATION_TITLE" /> deelt als er vertrouwelijke content zichtbaar is:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je lettertypen en lettergrootten aan te passen in Chrome</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je lettertypen en lettergrootten aan te passen in WEB3 DNA Browser</translation>
 <translation id="4101413244023615925">Tekst en graphics</translation>
 <translation id="410148943680000050">Desktoppublishing</translation>
 <translation id="4103249731201008433">Serienummer van apparaat is ongeldig</translation>
@@ -1211,7 +1211,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4117700440116928470">Beleidsbereik wordt niet ondersteund.</translation>
 <translation id="4121428309786185360">Verloopt op</translation>
 <translation id="4123572138124678573">Drie perforaties onder</translation>
-<translation id="4127575959421463246">Zoek je de Chrome OS-flags? Ga naar</translation>
+<translation id="4127575959421463246">Zoek je de WEB3 DNA Browser OS-flags? Ga naar</translation>
 <translation id="4129401438321186435">{COUNT,plural, =1{1 andere persoon}other{# andere mensen}}</translation>
 <translation id="4130226655945681476">Controleer de netwerkkabels, modem en router</translation>
 <translation id="4132448310531350254">Dubbele handlers voor bestandsextensie <ph name="FILE_EXTENSION" /> waarnaar wordt verwezen door apps <ph name="POLICY_IDS_LIST" />.</translation>
@@ -1248,7 +1248,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4214357935346142455">profiel inlogscherm</translation>
 <translation id="4220128509585149162">Crashes</translation>
 <translation id="422022731706691852">Cybercriminelen op <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> proberen je mogelijk over te halen om programma's te installeren die schadelijk zijn voor de browserfunctionaliteit (door bijvoorbeeld je homepage te wijzigen of extra advertenties te bekijken op sites die je bezoekt). <ph name="BEGIN_LEARN_MORE_LINK" />Meer informatie<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;Stap 1: Log in bij de portal&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;Stap 1: Log in bij de portal&lt;/h4&gt;
     &lt;p&gt;Wifi-netwerken op openbare plekken zoals cafés en luchthavens vereisen dat je inlogt. Ga naar een pagina die &lt;code&gt;http://&lt;/code&gt; gebruikt om de inlogpagina te zien.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Ga naar een willekeurige website die begint met &lt;code&gt;http://&lt;/code&gt;, zoals &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1256,11 +1256,11 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
     &lt;/ol&gt;
     &lt;h4&gt;Stap 2: Open de pagina in de incognitomodus (alleen computer)&lt;/h4&gt;
     &lt;p&gt;Open de webpagina die je probeerde te bezoeken nu in een incognitovenster.&lt;/p&gt;
-    &lt;p&gt;Als de pagina wordt geopend, is er een probleem met een Chrome-extensie. Zet de extensie uit om de fout op te lossen.&lt;/p&gt;
+    &lt;p&gt;Als de pagina wordt geopend, is er een probleem met een WEB3 DNA Browser-extensie. Zet de extensie uit om de fout op te lossen.&lt;/p&gt;
     &lt;h4&gt;Stap 3: Update je besturingssysteem&lt;/h4&gt;
     &lt;p&gt;Controleer of je apparaat up-to-date is.&lt;/p&gt;
     &lt;h4&gt;Stap 4: Zet je antivirusprogramma tijdelijk uit&lt;/h4&gt;
-    &lt;p&gt;Je ziet deze foutmelding als je antivirussoftware gebruikt met HTTPS-bescherming of HTTPS-scannen. Deze software verhindert dat Chrome beveiliging biedt.&lt;/p&gt;
+    &lt;p&gt;Je ziet deze foutmelding als je antivirussoftware gebruikt met HTTPS-bescherming of HTTPS-scannen. Deze software verhindert dat WEB3 DNA Browser beveiliging biedt.&lt;/p&gt;
     &lt;p&gt;Zet je antivirussoftware uit om het probleem op te lossen. Als de pagina werkt nadat je de software hebt uitgezet, kun je de software uitzetten wanneer je beveiligde sites bezoekt.&lt;/p&gt;
     &lt;p&gt;Vergeet niet je antivirussoftware weer aan te zetten zodra je klaar bent.&lt;/p&gt;
     &lt;h4&gt;Stap 5: Vraag extra support&lt;/h4&gt;
@@ -1296,7 +1296,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4305666528087210886">Je bestand kan niet worden geopend</translation>
 <translation id="4306529830550717874">Adres opslaan?</translation>
 <translation id="4306812610847412719">klembord</translation>
-<translation id="4308567447483056043">Dit beleid wordt genegeerd omdat de gebruiker niet gelieerd is. Dit beleid kan alleen worden toegepast als de Chrome-browser en het Chrome-profiel door dezelfde organisatie worden beheerd via de Beheerdersconsole.</translation>
+<translation id="3323451588703398074">Dit beleid wordt genegeerd omdat de gebruiker niet gelieerd is. Dit beleid kan alleen worden toegepast als de WEB3 DNA Browser-browser en het WEB3 DNA Browser-profiel door dezelfde organisatie worden beheerd via de Beheerdersconsole.</translation>
 <translation id="4310070645992025887">Je Trajecten doorzoeken</translation>
 <translation id="4310496734563057511">Als je dit apparaat met anderen deelt, kun je Windows Hello aanzetten om te bevestigen dat jij het bent wanneer je een opgeslagen wachtwoord gebruikt</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1312,8 +1312,8 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4331519897422864041">Stapeleenheid 5</translation>
 <translation id="4331708818696583467">Niet beveiligd</translation>
 <translation id="4333561522337981382">Vensters beheren op al je schermen</translation>
-<translation id="4340575312453649552">Deze advertentie gebruikte te veel bronnen voor je apparaat, dus Chrome heeft de advertentie verwijderd.</translation>
-<translation id="4340982228985273705">Deze computer is niet gedetecteerd als een zakelijk beheerde computer. Overeenkomstig het beleid kunnen alleen automatisch extensies worden geïnstalleerd die worden gehost in de Chrome Web Store. De update-URL van de Chrome Web Store is <ph name="CWS_UPDATE_URL" />.</translation>
+<translation id="3964216933844012257">Deze advertentie gebruikte te veel bronnen voor je apparaat, dus WEB3 DNA Browser heeft de advertentie verwijderd.</translation>
+<translation id="2218799635675752219">Deze computer is niet gedetecteerd als een zakelijk beheerde computer. Overeenkomstig het beleid kunnen alleen automatisch extensies worden geïnstalleerd die worden gehost in de Chrome Web Store. De update-URL van de Chrome Web Store is <ph name="CWS_UPDATE_URL" />.</translation>
 <translation id="4346197816712207223">Geaccepteerde creditcards</translation>
 <translation id="4348834659292907206">De verbinding met <ph name="SITE" /> is niet beveiligd</translation>
 <translation id="4349365535725594680">Kan vertrouwelijke content niet delen</translation>
@@ -1324,7 +1324,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4356973930735388585">Cybercriminelen op deze site proberen mogelijk gevaarlijke programma's op je computer te installeren waarmee je gegevens worden gestolen of verwijderd (bijvoorbeeld foto's, wachtwoorden, berichten en creditcards).</translation>
 <translation id="4358059973562876591">De gespecificeerde templates worden misschien niet toegepast door een fout met het beleid DnsOverHttpsMode.</translation>
 <translation id="4358461427845829800">Betaalmethoden beheren...</translation>
-<translation id="4359160567981085931">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. Chrome kan je laten zien wat je nu kunt doen. Klik op 'Account beschermen' om je wachtwoord te wijzigen en Google te laten weten dat je account mogelijk gevaar loopt.</translation>
+<translation id="4550052488331606118">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. WEB3 DNA Browser kan je laten zien wat je nu kunt doen. Klik op 'Account beschermen' om je wachtwoord te wijzigen en Google te laten weten dat je account mogelijk gevaar loopt.</translation>
 <translation id="4363222835916186793">Meldingen voor dit product zijn uitgezet</translation>
 <translation id="437040971055499437">Beveiligingsgebeurtenis vindt plaats</translation>
 <translation id="4372948949327679948">Verwachte <ph name="VALUE_TYPE" /> waarde.</translation>
@@ -1341,7 +1341,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4411435778612100394">Consumentenelektronica</translation>
 <translation id="4414515549596849729">cookies en sitegegevens</translation>
 <translation id="4415426530740016218">Ophaaladres</translation>
-<translation id="4424024547088906515">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server wordt niet vertrouwd door Chrome. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
+<translation id="7486060888782747880">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server wordt niet vertrouwd door WEB3 DNA Browser. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
 <translation id="4428065317363009941">Advertentiepersonalisatie</translation>
 <translation id="443121186588148776">Seriële poort</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> heeft je inlogcertificaat niet geaccepteerd of er is geen inlogcertificaat geleverd.</translation>
@@ -1365,7 +1365,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4489023393592172404">Envelop Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Gesynchroniseerde wachtwoorden versleutelen met je Google-account</translation>
-<translation id="4492519888999857993">Deze functies staan standaard uit. Ze zijn niet meer beschikbaar in toekomstige versies van Chrome.</translation>
+<translation id="5711551727888568041">Deze functies staan standaard uit. Ze zijn niet meer beschikbaar in toekomstige versies van WEB3 DNA Browser.</translation>
 <translation id="4493480324863638523">Ongeldige URL. Dit moet een URL met een standaardschema zijn, zoals http://example.com of https://example.com.</translation>
 <translation id="4500587658229086076">onveilige content</translation>
 <translation id="4506176782989081258">Validatiefout: <ph name="VALIDATION_ERROR" /></translation>
@@ -1373,7 +1373,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="450710068430902550">Delen met beheerder</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om deze pagina te vertalen met Google Translate.</translation>
 <translation id="4514308731478712184">Trajecten uitzetten</translation>
-<translation id="4515275063822566619">Passen en adressen zijn afkomstig uit Chrome en je Google-account (<ph name="ACCOUNT_EMAIL" />). Je kunt ze beheren in <ph name="BEGIN_LINK" />Instellingen<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Passen en adressen zijn afkomstig uit WEB3 DNA Browser en je Google-account (<ph name="ACCOUNT_EMAIL" />). Je kunt ze beheren in <ph name="BEGIN_LINK" />Instellingen<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">Dit bestand downloaden is geblokkeerd door het beheerdersbeleid</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Envelop Monarch</translation>
@@ -1389,10 +1389,10 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Probeer je extensies uit te zetten.</translation>
 <translation id="4566017918361049074">Buitenactiviteiten</translation>
-<translation id="4567686777917670400">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten Chromium worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten WEB3 DNA Browser worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Bezorging</translation>
 <translation id="4582204425268416675">Pas verwijderen</translation>
-<translation id="4587425331216688090">Adres verwijderen uit Chrome?</translation>
+<translation id="4549859745110415735">Adres verwijderen uit WEB3 DNA Browser?</translation>
 <translation id="459089498662672729">Plakken vanuit <ph name="ORIGIN_NAME" /> naar deze locatie wordt afgeraden op basis van het beheerdersbeleid</translation>
 <translation id="4592951414987517459">Je verbinding met <ph name="DOMAIN" /> is versleuteld via een moderne Cipher Suite.</translation>
 <translation id="4594403342090139922">&amp;Verwijderen ongedaan maken</translation>
@@ -1401,17 +1401,17 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4600084978141515058">Veganistische keuken</translation>
 <translation id="4602465984861132303">Bowlen</translation>
 <translation id="4606870351894164739">Grote impact</translation>
-<translation id="4607603470419975064">Knop Chrome-tips bekijken, druk op Enter voor meer informatie over Chrome-functies</translation>
-<translation id="4607608436550361748">Chrome-tips bekijken</translation>
+<translation id="4607603470419975064">Knop WEB3 DNA Browser-tips bekijken, druk op Enter voor meer informatie over WEB3 DNA Browser-functies</translation>
+<translation id="4607608436550361748">WEB3 DNA Browser-tips bekijken</translation>
 <translation id="4610279718074907952">Deze site maakt deel uit van een groep die is gedefinieerd door <ph name="SET_OWNER" /> en die je activiteit kan bekijken</translation>
 <translation id="4617273035598175554">Graphics- en animatiesoftware</translation>
 <translation id="4622292761762557753">Toch overzetten</translation>
-<translation id="4627675673814409125">Je kunt dit beleid niet instellen op Chrome-profielniveau. Het beleid wordt genegeerd.</translation>
+<translation id="6607050922769407881">Je kunt dit beleid niet instellen op WEB3 DNA Browser-profielniveau. Het beleid wordt genegeerd.</translation>
 <translation id="4628948037717959914">Foto</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Cashback gekoppeld</translation>
 <translation id="4636930964841734540">Info</translation>
-<translation id="4638670630777875591">Incognito in Chromium</translation>
+<translation id="9064160697734393810">Incognito in WEB3 DNA Browser</translation>
 <translation id="464342062220857295">Zoekfuncties</translation>
 <translation id="4644670975240021822">Omgekeerde volgorde met de bedrukte zijde omlaag</translation>
 <translation id="4646534391647090355">Breng me daar nu naartoe</translation>
@@ -1449,7 +1449,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4731638775147756694">Deze app is geblokkeerd door je beheerder</translation>
 <translation id="4733082559415072992"><ph name="URL" /> wil de locatie van je apparaat gebruiken</translation>
 <translation id="4736491186715342415">Motorvoertuigen</translation>
-<translation id="4736825316280949806">Chromium opnieuw starten</translation>
+<translation id="1624940062651381269">WEB3 DNA Browser opnieuw starten</translation>
 <translation id="4736934858538408121">Virtuele kaart</translation>
 <translation id="473775607612524610">Updaten</translation>
 <translation id="4738601419177586157">Zoeksuggestie: <ph name="TEXT" /></translation>
@@ -1463,10 +1463,10 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4754461935447132332">Niet toegestaan voor niet-beveiligde sites</translation>
 <translation id="4756388243121344051">Gesc&amp;hiedenis</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. Chromium raadt je aan je opgeslagen wachtwoorden te checken om je accounts te beveiligen.</translation>
+
 <translation id="4758311279753947758">Contactgegevens toevoegen</translation>
 <translation id="4761104368405085019">Je microfoon gebruiken</translation>
-<translation id="4761869838909035636">Chrome-veiligheidscheck uitvoeren</translation>
+<translation id="2178430137592069173">WEB3 DNA Browser-veiligheidscheck uitvoeren</translation>
 <translation id="4764776831041365478"><ph name="URL" /> werkt even niet, of de pagina kan verhuisd zijn naar een nieuw webadres.</translation>
 <translation id="4766713847338118463">Twee nietjes onder</translation>
 <translation id="4771973620359291008">Er is een onbekende fout opgetreden.</translation>
@@ -1497,7 +1497,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4834250788637067901">Betaalmethoden, aanbiedingen en adressen via Google Pay</translation>
 <translation id="4838327282952368871">Dromerig</translation>
 <translation id="4839087176073128681">Betaal de volgende keer sneller en bescherm je kaart met de toonaangevende beveiliging van Google.</translation>
-<translation id="4840250757394056958">Je Chrome-geschiedenis bekijken</translation>
+<translation id="4840250757394056958">Je WEB3 DNA Browser-geschiedenis bekijken</translation>
 <translation id="484462545196658690">Auto</translation>
 <translation id="484671803914931257">Krijg korting bij onder andere <ph name="MERCHANT_NAME" /></translation>
 <translation id="484988093836683706">Apparaatontgrendeling gebruiken</translation>
@@ -1520,7 +1520,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4885256590493466218">Bij het afrekenen betalen met <ph name="CARD_DETAIL" /></translation>
 <translation id="4887406273302438710">Wachtwoorden beveiligen met Windows Hello</translation>
 <translation id="4888600795924685526">Onderwijs voor vreemde talen</translation>
-<translation id="4889420713887366944">Knop 'Incognitovenster openen'. Druk op 'Enter' om een nieuw incognitovenster in Chrome te openen om privé te browsen.</translation>
+<translation id="4889420713887366944">Knop 'Incognitovenster openen'. Druk op 'Enter' om een nieuw incognitovenster in WEB3 DNA Browser te openen om privé te browsen.</translation>
 <translation id="4892518386797173871">Achterzijde</translation>
 <translation id="4895877746940133817"><ph name="TYPE_1" />, <ph name="TYPE_2" />, <ph name="TYPE_3" /></translation>
 <translation id="4896809202198625921">Olympische Spelen</translation>
@@ -1539,7 +1539,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4934780484581617878">Vensterbeheer</translation>
 <translation id="4936134414789135531">De ingevoegde <ph name="VALUE_NAME" /> kan niet worden gevonden.</translation>
 <translation id="4936675324097895694">Financieel</translation>
-<translation id="4940163644868678279">Incognito in Chrome</translation>
+
 <translation id="4943872375798546930">Geen resultaten</translation>
 <translation id="4943933359574417591">Sms- en chatberichten</translation>
 <translation id="4950898438188848926">Schakelknop voor tabbladen, druk op Enter om naar het geopende tabblad, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, te schakelen</translation>
@@ -1562,7 +1562,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4995216769782533993">Bevestig de beveiligingscode om je kaartgegevens met deze site te delen</translation>
 <translation id="4995474875135717171">Aangepast:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om Site Search en je standaard zoekmachine te beheren</translation>
-<translation id="5002932099480077015">Als deze optie aanstaat, slaat Chrome een kopie van je pas op dit apparaat op zodat formulieren sneller kunnen worden ingevuld.</translation>
+
 <translation id="5011561501798487822">Waargenomen taal</translation>
 <translation id="5015510746216210676">Naam apparaat:</translation>
 <translation id="5017554619425969104">Tekst die je hebt gekopieerd</translation>
@@ -1571,7 +1571,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5018802455907704660">16 x 20 inch</translation>
 <translation id="5019198164206649151">Backend-opslag in slechte staat</translation>
 <translation id="5020776957610079374">Wereldmuziek</translation>
-<translation id="5021557570875267742">Prijzen volgen met Chrome</translation>
+<translation id="4735860266347344416">Prijzen volgen met WEB3 DNA Browser</translation>
 <translation id="5023310440958281426">Neem het beleid van je beheerder door</translation>
 <translation id="5029568752722684782">Kopie wissen</translation>
 <translation id="5030338702439866405">Verleend door</translation>
@@ -1604,7 +1604,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5087580092889165836">Pas toevoegen</translation>
 <translation id="5088142053160410913">Bericht aan bediener</translation>
 <translation id="5093232627742069661">Zigzagvouw</translation>
-<translation id="5094747076828555589">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server wordt niet vertrouwd door Chromium. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
+
 <translation id="5097099694988056070">Apparaatstatistieken zoals CPU-/RAM-gebruik rapporteren</translation>
 <translation id="5097468150760963273">27 x 39 inch</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1638,7 +1638,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5161506081086828129">Stapeleenheid 9</translation>
 <translation id="5164798890604758545">Tekst wordt ingevoerd</translation>
 <translation id="516920405563544094">Geef de CVC-code voor <ph name="CREDIT_CARD" /> op. Nadat je hebt bevestigd, worden de creditcardgegevens uit je Google-account gedeeld met deze site.</translation>
-<translation id="5169827969064885044">Je kunt de toegang tot het account van je organisatie kwijtraken of slachtoffer worden van identiteitsdiefstal. Chrome raadt je aan je wachtwoord nu te wijzigen.</translation>
+
 <translation id="5171045022955879922">Zoek of typ een URL</translation>
 <translation id="5172758083709347301">Computer</translation>
 <translation id="5177076414499237632">Meer informatie over de bron en het onderwerp van deze pagina</translation>
@@ -1650,7 +1650,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="51918995459521422"><ph name="ORIGIN" /> wil meerdere bestanden downloaden</translation>
 <translation id="519422657042045905">Annotatie niet beschikbaar</translation>
 <translation id="5201306358585911203">Een ingesloten pagina op deze pagina meldt het volgende</translation>
-<translation id="5204468114771111727">Chrome heeft het wachtwoord dat je net hebt gebruikt, gevonden bij een gegevenslek. De Google Assistent kan je wachtwoord automatisch voor je wijzigen.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser heeft het wachtwoord dat je net hebt gebruikt, gevonden bij een gegevenslek. De Google Assistent kan je wachtwoord automatisch voor je wijzigen.</translation>
 <translation id="5205222826937269299">Naam vereist</translation>
 <translation id="5209518306177824490">SHA-1-vingerafdruk</translation>
 <translation id="5209670883520018268">Lade 20</translation>
@@ -1667,7 +1667,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5239623327352565343">Locatie toegestaan</translation>
 <translation id="5242889659037569123">Koffers en reisaccessoires</translation>
 <translation id="5250209940322997802">'Verbinding maken met netwerk'</translation>
-<translation id="52517543715119994">Meer informatie over Chrome-functies</translation>
+<translation id="52517543715119994">Meer informatie over WEB3 DNA Browser-functies</translation>
 <translation id="5251803541071282808">Cloud</translation>
 <translation id="5254043433801397071">Afdrukcontent optimaliseren</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1689,7 +1689,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5287456746628258573">Deze site gebruikt een verouderde beveiligingsconfiguratie, waardoor je gegevens (zoals wachtwoorden of creditcardnummers) openbaar kunnen worden gemaakt als ze naar deze site worden gestuurd.</translation>
 <translation id="5288108484102287882">Tijdens de validatie van de beleidswaarden zijn er waarschuwingen geconstateerd</translation>
 <translation id="5288393065350884210">Accountancy en auditing</translation>
-<translation id="5288808348893593856">De verbinding met de site is beveiligd, tenzij Chrome iets anders aangeeft.</translation>
+<translation id="8429736460204202092">De verbinding met de site is beveiligd, tenzij WEB3 DNA Browser iets anders aangeeft.</translation>
 <translation id="5289384342738547352">Verwerking van meerdere documenten</translation>
 <translation id="5293919335876685914">Coupés</translation>
 <translation id="5296589789433599000">Koken en recepten</translation>
@@ -1708,14 +1708,14 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5324080437450482387">Contactgegevens kiezen</translation>
 <translation id="5329858041417644019">Je browser wordt niet beheerd.</translation>
 <translation id="5332219387342487447">Verzendmethode</translation>
-<translation id="5333022057423422993">Chrome heeft het wachtwoord dat je net hebt gebruikt, gevonden bij een gegevenslek. We raden je aan je opgeslagen wachtwoorden te checken om je accounts te beveiligen.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser heeft het wachtwoord dat je net hebt gebruikt, gevonden bij een gegevenslek. We raden je aan je opgeslagen wachtwoorden te checken om je accounts te beveiligen.</translation>
 <translation id="5334013548165032829">Gedetailleerde systeemlogboeken</translation>
 <translation id="5334145288572353250">Adres opslaan?</translation>
 <translation id="5335920952954443287">Kloppend hart</translation>
 <translation id="5340250774223869109">App is geblokkeerd</translation>
 <translation id="534295439873310000">NFC-apparaten</translation>
 <translation id="5344579389779391559">Deze pagina brengt je mogelijk kosten in rekening</translation>
-<translation id="5347645913823149105">De knop Lettertypen aanpassen in Chrome, druk op Enter om lettertypen en lettergrootten aan te passen in Chrome</translation>
+<translation id="5347645913823149105">De knop Lettertypen aanpassen in WEB3 DNA Browser, druk op Enter om lettertypen en lettergrootten aan te passen in WEB3 DNA Browser</translation>
 <translation id="5355557959165512791">Je kunt <ph name="SITE" /> momenteel niet bezoeken, omdat het bijbehorende certificaat is ingetrokken. Netwerkfouten en aanvallen zijn doorgaans tijdelijk, dus deze pagina werkt later waarschijnlijk correct.</translation>
 <translation id="5356837363448394805">Blozend</translation>
 <translation id="5357848622083956825">Visuele kunst en visueel ontwerp</translation>
@@ -1734,7 +1734,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="540630185148148480">Meldingen aanzetten</translation>
 <translation id="540969355065856584">Deze server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat is momenteel niet geldig. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
 <translation id="5412040515238827314">Ongeldige indeling: er wordt een lijst met patronen verwacht.</translation>
-<translation id="5412236728747081950">Deze site krijgt je interesses van Chrome zodat de site je relevantere advertenties kan laten zien</translation>
+<translation id="3825896935771081728">Deze site krijgt je interesses van WEB3 DNA Browser zodat de site je relevantere advertenties kan laten zien</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> - <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Stapeleenheid 4</translation>
 <translation id="5414511064953050917">Toch verplaatsen</translation>
@@ -1774,10 +1774,10 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5519516356611866228">Met jouw wijzigingen</translation>
 <translation id="5523118979700054094">Beleidsnaam</translation>
 <translation id="5525755241743357906">Bestand is gekopieerd of verplaatst</translation>
-<translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je toegankelijkheidstools te personaliseren in de Chrome OS-instellingen</translation>
+<translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je toegankelijkheidstools te personaliseren in de WEB3 DNA Browser OS-instellingen</translation>
 <translation id="5528532273234423708">Automatisering in huis</translation>
 <translation id="55293785478302737">Inbinden met nietjes</translation>
-<translation id="5535133333442455806">Knop 'Browsegegevens wissen'. Druk op Enter om je browsegeschiedenis, cookies, cache en meer te wissen in de Chrome-instellingen.</translation>
+<translation id="5535133333442455806">Knop 'Browsegegevens wissen'. Druk op Enter om je browsegeschiedenis, cookies, cache en meer te wissen in de WEB3 DNA Browser-instellingen.</translation>
 <translation id="5536214594743852365">Gedeelte <ph name="SECTION" /> bekijken</translation>
 <translation id="553782666181800029">Envelop Chou 2</translation>
 <translation id="5539243836947087108">Raft</translation>
@@ -1787,7 +1787,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5541546772353173584">E-mailadres toevoegen</translation>
 <translation id="5545756402275714221">Artikelen voor jou</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="5552137475244467770">Chrome vergelijkt periodiek je wachtwoorden met lijsten die online zijn gepubliceerd. Als dit wordt gedaan, zijn je wachtwoorden en gebruikersnamen versleuteld, zodat ze door niemand (inclusief Google) kunnen worden gelezen.</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser vergelijkt periodiek je wachtwoorden met lijsten die online zijn gepubliceerd. Als dit wordt gedaan, zijn je wachtwoorden en gebruikersnamen versleuteld, zodat ze door niemand (inclusief Google) kunnen worden gelezen.</translation>
 <translation id="5556459405103347317">Opnieuw laden</translation>
 <translation id="5560088892362098740">Vervaldatum</translation>
 <translation id="55635442646131152">Documentoverzicht</translation>
@@ -1850,7 +1850,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5720705177508910913">Huidige gebruiker</translation>
 <translation id="5723287205918986743">Wapenindustrie</translation>
 <translation id="5725567311035061582">Cookies en sitegegevens beheren</translation>
-<translation id="5730040223043577876">Chrome raadt je aan je wachtwoord opnieuw in te stellen als je het voor andere sites hebt hergebruikt.</translation>
+
 <translation id="5736165827969430182">Metalen en mijnbouw</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Pas opslaan in je Google-account}other{Passen opslaan in je Google-account}}</translation>
 <translation id="5738385766833540397">Beheren hoe je meldingen over prijsdalingen krijgt voor producten die je volgt</translation>
@@ -1875,14 +1875,14 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5784606427469807560">Er is een probleem opgetreden bij het bevestigen van je creditcard. Controleer je internetverbinding en probeer het opnieuw.</translation>
 <translation id="5785756445106461925">Bovendien bevat deze pagina bronnen die niet beveiligd zijn. Deze bronnen kunnen tijdens verzending door anderen worden bekeken en kunnen door een aanvaller worden gewijzigd om het uiterlijk van de pagina aan te passen.</translation>
 <translation id="5786044859038896871">Wil je de gegevens van je creditcard laten invullen?</translation>
-<translation id="578633867165174378">Chrome heeft het wachtwoord dat je net hebt gebruikt, gevonden bij een gegevenslek. We raden je aan dit wachtwoord nu te wijzigen.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser heeft het wachtwoord dat je net hebt gebruikt, gevonden bij een gegevenslek. We raden je aan dit wachtwoord nu te wijzigen.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Wil je de gegevens van je <ph name="CARD_DETAIL" /> laten invullen?</translation>
 <translation id="5804241973901381774">Rechten</translation>
-<translation id="5808435672482059465">Je Chrome-geschiedenis bekijken</translation>
+<translation id="7552154626705223867">Je WEB3 DNA Browser-geschiedenis bekijken</translation>
 <translation id="5808542072418270309">Simulatiegames</translation>
 <translation id="5810442152076338065">Je verbinding met <ph name="DOMAIN" /> is versleuteld via een verouderde Cipher Suite.</translation>
-<translation id="5812947184178430888">Als Chrome beveiligingsgebeurtenissen markeert, worden relevante gegevens over de gebeurtenissen naar je beheerder gestuurd. Deze gegevens zijn bijvoorbeeld URL's van pagina's die je hebt bezocht in Chrome, bestandsnamen of metadata en de gebruikersnaam die je gebruikt om in te loggen bij webgebaseerde apps, je apparaat en Chrome.</translation>
+<translation id="8479644990349381409">Als WEB3 DNA Browser beveiligingsgebeurtenissen markeert, worden relevante gegevens over de gebeurtenissen naar je beheerder gestuurd. Deze gegevens zijn bijvoorbeeld URL's van pagina's die je hebt bezocht in WEB3 DNA Browser, bestandsnamen of metadata en de gebruikersnaam die je gebruikt om in te loggen bij webgebaseerde apps, je apparaat en WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Opnieuw toevoegen</translation>
 <translation id="5813309815819933152">Tv-realityseries</translation>
 <translation id="5813753398265398978">Natuurkunde</translation>
@@ -1998,10 +1998,10 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6116338172782435947">Tekst en afbeeldingen bekijken die naar het klembord zijn gekopieerd</translation>
 <translation id="6118782133429281336">Oorspronglijst is leeg.</translation>
 <translation id="6120179357481664955">Weet je je UPI-ID nog?</translation>
-<translation id="6124432979022149706">Chrome Enterprise-connectors</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise-connectors</translation>
 <translation id="6126565365696310362">Envelop Chinees #2</translation>
 <translation id="6127379762771434464">Item verwijderd</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Meer informatie over incognito in Chrome<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">De bestandsextensie is leeg of heeft een onjuiste notatie.</translation>
 <translation id="6139975341602920272">17 x 22 inch</translation>
 <translation id="6146055958333702838">Controleer alle kabels en start alle routers, modems of andere netwerkapparaten die je gebruikt, opnieuw op.</translation>
@@ -2026,10 +2026,10 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6197648101609735209">89 x 89 mm</translation>
 <translation id="6203231073485539293">Controleer je internetverbinding</translation>
 <translation id="6212314149070368045">US Fanfold</translation>
-<translation id="6218753634732582820">Adres verwijderen uit Chromium?</translation>
+
 <translation id="622039917539443112">Parallelvouw</translation>
 <translation id="6221345481584921695">Google Safe Browsing heeft onlangs <ph name="BEGIN_LINK" />malware gedetecteerd<ph name="END_LINK" /> op <ph name="SITE" />. Websites die normaal gesproken veilig zijn, worden soms geïnfecteerd met malware. De schadelijke content is afkomstig van <ph name="SUBRESOURCE_HOST" />, een bekende distributeur van malware.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je toegankelijkheidstools te personaliseren in de Chrome-instellingen</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je toegankelijkheidstools te personaliseren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="6229649258872345286">Gezinsreizen</translation>
 <translation id="6232271601416750929">Natuurlijke cosmetica</translation>
 <translation id="6233160458685643793">Grijnzend</translation>
@@ -2038,7 +2038,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6240447795304464094">Google Pay-logo</translation>
 <translation id="6241121617266208201">Suggesties verbergen</translation>
 <translation id="624499991300733384">Print Compositor Service</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om bestanden te beheren die je in Chrome hebt gedownload</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om bestanden te beheren die je in WEB3 DNA Browser hebt gedownload</translation>
 <translation id="6254436959401408446">Onvoldoende geheugen om deze pagina te openen</translation>
 <translation id="6259156558325130047">&amp;Opnieuw volgorde wijzigen</translation>
 <translation id="6263376278284652872">Bookmarks voor <ph name="DOMAIN" /></translation>
@@ -2046,21 +2046,21 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6264485186158353794">Terug naar veilige website</translation>
 <translation id="6265794661083428563">Kopieer de waarde van het <ph name="POLICY_NAME" />-beleid</translation>
 <translation id="6266934640124581640">Lichtblauwgroen</translation>
-<translation id="6272088941196661550">Hervat je traject om relevante activiteit in je Chrome-geschiedenis te bekijken</translation>
+<translation id="1989642600714730446">Hervat je traject om relevante activiteit in je WEB3 DNA Browser-geschiedenis te bekijken</translation>
 <translation id="6272383483618007430">Google Update</translation>
 <translation id="6276112860590028508">Pagina's uit je leeslijst zie je hier</translation>
 <translation id="627746635834430766">Sla je pas en factuuradres op in je Google-account zodat je de volgende keer sneller kunt betalen.</translation>
 <translation id="6279183038361895380">Druk op |<ph name="ACCELERATOR" />| om je cursor te bekijken</translation>
 <translation id="6280223929691119688">Kan niet bezorgen op dit adres. Selecteer een ander adres.</translation>
 <translation id="6284292079994426700">26 x 38 inch</translation>
-<translation id="6285507000506177184">De knop Downloads in Chrome beheren, druk op Enter om bestanden te beheren die je hebt gedownload in Chrome</translation>
+<translation id="6285507000506177184">De knop Downloads in WEB3 DNA Browser beheren, druk op Enter om bestanden te beheren die je hebt gedownload in WEB3 DNA Browser</translation>
 <translation id="6289939620939689042">Paginakleur</translation>
 <translation id="6290238015253830360">Je voorgestelde artikelen zie je hier</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Je apparaat wordt nu opnieuw opgestart}=1{Je apparaat wordt over 1 seconde opnieuw opgestart}other{Je apparaat wordt over # seconden opnieuw opgestart}}</translation>
 <translation id="6301104306974789820">Meldingen voor volgen van prijzen krijgen</translation>
-<translation id="6302269476990306341">De Google Assistent in Chrome wordt gestopt</translation>
+<translation id="6804344251855709483">De Google Assistent in WEB3 DNA Browser wordt gestopt</translation>
 <translation id="6305205051461490394"><ph name="URL" /> is niet bereikbaar.</translation>
 <translation id="6311165245110979290">Virtuele kaart beschikbaar</translation>
 <translation id="6312113039770857350">Webpagina niet beschikbaar</translation>
@@ -2069,7 +2069,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6319249456820053699">Camera's en camcorders</translation>
 <translation id="6321917430147971392">Controleer je DNS-instellingen</translation>
 <translation id="6322182122604171028">Kan Windows Hello niet gebruiken</translation>
-<translation id="6326947323444967009">Chrome instellen als de standaardbrowser van het systeem in de iOS-instellingen</translation>
+<translation id="6326947323444967009">WEB3 DNA Browser instellen als de standaardbrowser van het systeem in de iOS-instellingen</translation>
 <translation id="6328639280570009161">Probeer netwerkvoorspelling uit te zetten</translation>
 <translation id="6328784461820205019">'Je verbinding is niet privé' of '&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;' of '&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;' of '&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;' of '&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;' of 'SSL certificaatfout'</translation>
 <translation id="6328786501058569169">Deze site is misleidend</translation>
@@ -2080,7 +2080,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6348220984832452017">Actieve variaties</translation>
 <translation id="6349101878882523185"><ph name="APP_NAME" /> installeren</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Geen}=1{1 wachtwoord (voor <ph name="DOMAIN_LIST" />, gesynchroniseerd)}=2{2 wachtwoorden (voor <ph name="DOMAIN_LIST" />, gesynchroniseerd)}other{# wachtwoorden (voor <ph name="DOMAIN_LIST" />, gesynchroniseerd)}}</translation>
-<translation id="6355392890578844978">Deze browser wordt niet beheerd door een bedrijf of andere organisatie. Activiteit op dit apparaat kan buiten Chromium worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Deze browser wordt niet beheerd door een bedrijf of andere organisatie. Activiteit op dit apparaat kan buiten WEB3 DNA Browser worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Wat betekent dit?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Controleer de proxy, firewall en configuratie voor beveiligde DNS<ph name="END_LINK" /></translation>
@@ -2105,7 +2105,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6405181733356710802">Doorgaan naar <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Geef de vervaldatum en CVC-code op voor <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium kan je helpen je Google-account te beschermen en je wachtwoord te wijzigen.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser kan je helpen je Google-account te beschermen en je wachtwoord te wijzigen.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Material</translation>
 <translation id="6427730057873428458">Luikvouw</translation>
@@ -2143,7 +2143,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6502626736864595182">Forum- en chatproviders</translation>
 <translation id="6502991525169604759">Zonder jouw wijzigingen</translation>
 <translation id="6506959208958864820">Envelop</translation>
-<translation id="6508722015517270189">Chrome opnieuw starten</translation>
+
 <translation id="6513005815064132016">Kan vragen of deze site je camerapositie mag bijhouden</translation>
 <translation id="6517596291481585650">Waarschuwing: Dit beleid is niet samengevoegd als lijst zoals gespecificeerd door het beleid, omdat het geen lijst is.</translation>
 <translation id="6518133107902771759">Controleren</translation>
@@ -2164,11 +2164,11 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="657902945730878902">Tekenen en kleuren</translation>
 <translation id="6579630537141957243">MIDI-apparaat verbinden?</translation>
 <translation id="6579990219486187401">Lichtroze</translation>
-<translation id="6587182488465657433">Chrome heeft het wachtwoord dat je net hebt gebruikt, gevonden bij een gegevenslek. We raden je aan dit wachtwoord nu te wijzigen en je opgeslagen wachtwoorden te checken.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser heeft het wachtwoord dat je net hebt gebruikt, gevonden bij een gegevenslek. We raden je aan dit wachtwoord nu te wijzigen en je opgeslagen wachtwoorden te checken.</translation>
 <translation id="6587893660316489419">Envelop B5</translation>
 <translation id="6587923378399804057">Link die je hebt gekopieerd</translation>
 <translation id="6591833882275308647">Je <ph name="DEVICE_TYPE" /> wordt niet beheerd</translation>
-<translation id="6592952801936330159">Knop Site-instellingen beheren, druk op Enter om rechten en opgeslagen gegevens voor sites te beheren in de Chrome-instellingen</translation>
+<translation id="6592952801936330159">Knop Site-instellingen beheren, druk op Enter om rechten en opgeslagen gegevens voor sites te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="6596325263575161958">Opties voor versleuteling</translation>
 <translation id="6599642189720630047">Gevolgde producten</translation>
 <translation id="6611723696964473273">Economisch nieuws</translation>
@@ -2185,7 +2185,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6645291930348198241">Toegang krijgen tot cookies en sitegegevens.</translation>
 <translation id="6645478838938543427">Meldingen over prijsdalingen worden naar <ph name="EMAIL_ADDRESS" /> gestuurd</translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Geen}=1{Van 1 site (je wordt niet uitgelogd bij je Google-account)}other{Van # sites (je wordt niet uitgelogd bij je Google-account)}}</translation>
-<translation id="6648459603387803038">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten Chrome worden beheerd.</translation>
+<translation id="6228269625838082008">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten WEB3 DNA Browser worden beheerd.</translation>
 <translation id="6648524591329069940">Serif-lettertype</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
 <translation id="6651270836885078973">Beheerd door:</translation>
@@ -2197,7 +2197,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6663846344464066639">Gevouwen handen</translation>
 <translation id="6665553082534466207">Drie perforaties rechts</translation>
 <translation id="6668389483194953109">De papierformaatnaam 'custom' is gevonden, maar de property 'custom_size' is leeg of ongeldig.</translation>
-<translation id="6671697161687535275">Formuliersuggestie verwijderen uit Chromium?</translation>
+<translation id="3922033200710514285">Formuliersuggestie verwijderen uit WEB3 DNA Browser?</translation>
 <translation id="6683717648675961851">Vacatures</translation>
 <translation id="6685834062052613830">Uitloggen en configuratie voltooien</translation>
 <translation id="6687335167692595844">Lettergrootte aangevraagd</translation>
@@ -2205,7 +2205,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6688743156324860098">Updaten…</translation>
 <translation id="6688775486821967877">Virtuele kaart nu niet beschikbaar, probeer het later opnieuw</translation>
 <translation id="6689249931105087298">Relatief met zwartpuntcompressie</translation>
-<translation id="6689271823431384964">Chrome biedt aan je kaarten in je Google-account op te slaan omdat je bent ingelogd. Je kunt dit wijzigen in de instellingen. De naam van de kaarthouder is afkomstig uit je account.</translation>
+<translation id="6568883612935818921">WEB3 DNA Browser biedt aan je kaarten in je Google-account op te slaan omdat je bent ingelogd. Je kunt dit wijzigen in de instellingen. De naam van de kaarthouder is afkomstig uit je account.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om in het Google-account naar je apparaat te zoeken</translation>
 <translation id="6696588630955820014">De knop Dit tabblad delen, druk op Enter om dit tabblad te delen door bijvoorbeeld de link te delen, een QR-code te maken en te casten</translation>
 <translation id="6698381487523150993">Gemaakt:</translation>
@@ -2270,7 +2270,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6883221904761970440">Blad voor beveiligde verificatie van betalingsgegevens is gesloten</translation>
 <translation id="6884662655240309489">Grootte 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome heeft deze pagina vereenvoudigd om deze beter leesbaar te maken. Chrome heeft de originele pagina opgehaald via een niet-beveiligde verbinding.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser heeft deze pagina vereenvoudigd om deze beter leesbaar te maken. WEB3 DNA Browser heeft de originele pagina opgehaald via een niet-beveiligde verbinding.</translation>
 <translation id="6890443033788248019">Locatie toestaan?</translation>
 <translation id="6890531741535756070">Je hebt ervoor gekozen om te verifiëren met <ph name="DEVICE_LABEL" /> op websites die <ph name="PROVIDER_ORIGIN" /> gebruiken. Deze provider heeft misschien informatie over je betaalmethode opgeslagen. Je kunt een <ph name="BEGIN_LINK" />verwijderingsverzoek indienen<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Beleidsniveau wordt niet ondersteund.</translation>
@@ -2343,7 +2343,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="7058774143982824355">Parserservice voor csv-bestand met wachtwoorden</translation>
 <translation id="7061777300866737982">Beveiligingssystemen en veiligheidsproducten voor thuis</translation>
 <translation id="7062635574500127092">Blauwgroen</translation>
-<translation id="706295145388601875">Adressen toevoegen en beheren in de Chrome-instellingen</translation>
+<translation id="706295145388601875">Adressen toevoegen en beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="7064851114919012435">Contactgegevens</translation>
 <translation id="7067633076996245366">Soul en R&amp;B</translation>
 <translation id="7068733155164172741">Geef de <ph name="OTP_LENGTH" />-cijferige code op</translation>
@@ -2354,23 +2354,18 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="7081308185095828845">Deze functie is niet beschikbaar op je apparaat</translation>
 <translation id="7083258188081898530">Lade 9</translation>
 <translation id="7086090958708083563">Upload aangevraagd door gebruiker</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om rechten en opgeslagen gegevens voor sites te beheren in de Chrome-instellingen</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om rechten en opgeslagen gegevens voor sites te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="7096937462164235847">De identiteit van deze website is niet geverifieerd.</translation>
 <translation id="7101893872976785596">Horrorfilms</translation>
 <translation id="7102079138917191645">Bouw en onderhoud</translation>
-<translation id="7102554173784142865">Chrome Dino-game spelen</translation>
+<translation id="7102554173784142865">WEB3 DNA Browser Dino-game spelen</translation>
 <translation id="7108338896283013870">Verbergen</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> wil gebruikmaken van je camera</translation>
 <translation id="7108819624672055576">Toegestaan door een extensie</translation>
 <translation id="7111012039238467737">(Geldig)</translation>
 <translation id="7118618213916969306">Zoeken naar klembord-URL, <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Andere tabbladen of programma's sluiten</translation>
-<translation id="7129355289156517987">Als je alle Chromium-incognitotabbladen sluit, wordt je activiteit op die tabbladen van dit apparaat gewist:
-<ph name="BEGIN_LIST" />
-<ph name="LIST_ITEM" />Browse-activiteit<ph name="END_LIST_ITEM" />
-<ph name="LIST_ITEM" />Zoekgeschiedenis<ph name="END_LIST_ITEM" />
-<ph name="LIST_ITEM" />Informatie die je in formulieren hebt opgegeven<ph name="END_LIST_ITEM" />
-<ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Kan niet verzenden naar dit adres. Selecteer een ander adres.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Upload geblokkeerd</translation>
@@ -2457,13 +2452,13 @@ Aanvullende informatie:
 <translation id="7359588939039777303">Advertenties geblokkeerd.</translation>
 <translation id="7360451453306104998">Als Google beschikbare kortingen vindt, worden deze tijdens het afrekenen getoond</translation>
 <translation id="7363096869660964304">Je bent echter niet onzichtbaar. Als je incognito bent, wordt je browsegeschiedenis niet verborgen voor je werkgever, je internetprovider of de websites die je bezoekt.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om adressen toe te voegen en te beheren in de Chrome-instellingen</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om adressen toe te voegen en te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="7365849542400970216">Laten weten wanneer je dit apparaat gebruikt?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Betalingshandlers</translation>
 <translation id="7372973238305370288">zoekresultaat</translation>
 <translation id="7374461526650987610">Protocolhandlers</translation>
-<translation id="7374733840632556089">Dit probleem doet zich voor als gevolg van een certificaat dat jij of iemand anders heeft geïnstalleerd op je apparaat. Het certificaat staat erom bekend dat het wordt gebruikt voor netwerkmonitoring en -onderschepping en wordt niet vertrouwd door Chrome. Hoewel er ook legitieme certificaten bestaan, bijvoorbeeld op een school- of zakelijk netwerk, wil Chrome zeker weten dat je begrijpt wat er gebeurt, ook als je het niet kunt tegenhouden. Monitoring kan plaatsvinden in elke browser of app met toegang tot internet.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Geen sites toegestaan}=1{1 site toegestaan}other{# sites toegestaan}}</translation>
 <translation id="7375818412732305729">Bestand wordt bijgevoegd</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2481,7 +2476,7 @@ Aanvullende informatie:
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Deel dit tabblad door bijvoorbeeld de link te delen, een QR-code te maken en te casten</translation>
 <translation id="7403591733719184120">Je <ph name="DEVICE_NAME" /> wordt beheerd</translation>
-<translation id="7407424307057130981">&lt;p&gt;Je ziet deze foutmelding als je Superfish-software op je Windows-computer hebt geïnstalleerd.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Je ziet deze foutmelding als je Superfish-software op je Windows-computer hebt geïnstalleerd.&lt;/p&gt;
       &lt;p&gt;Volg deze stappen om de software tijdelijk uit te zetten, zodat je verbinding met internet kunt maken. Je hebt beheerdersrechten nodig.&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;Klik op &lt;strong&gt;Start&lt;/strong&gt; en selecteer &lt;strong&gt;Lokale services bekijken&lt;/strong&gt;
@@ -2489,7 +2484,7 @@ Aanvullende informatie:
       &lt;li&gt;Selecteer onder &lt;strong&gt;Opstarttype&lt;/strong&gt; de optie &lt;strong&gt;Uitgezet&lt;/strong&gt;
       &lt;li&gt;Klik onder &lt;strong&gt;Servicestatus&lt;/strong&gt; op de optie &lt;strong&gt;Stoppen&lt;/strong&gt;
       &lt;li&gt;Klik op &lt;strong&gt;Toepassen&lt;/strong&gt; en vervolgens op &lt;strong&gt;OK&lt;/strong&gt;
-      &lt;li&gt;Ga naar het &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Helpcentrum van Chrome&lt;/a&gt; voor meer informatie over hoe je de software definitief van je computer kunt verwijderen
+      &lt;li&gt;Ga naar het &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Helpcentrum van WEB3 DNA Browser&lt;/a&gt; voor meer informatie over hoe je de software definitief van je computer kunt verwijderen
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Mooi</translation>
 <translation id="741204030948306876">Ja, aanzetten</translation>
@@ -2497,7 +2492,7 @@ Aanvullende informatie:
 <translation id="7418620734632363981">Programmeren</translation>
 <translation id="7419106976560586862">Profielpad</translation>
 <translation id="7421067045979951561">protocolhandlers</translation>
-<translation id="7426022697669111648">De knop Je Chrome-geschiedenis bekijken, druk op Enter om je browsegeschiedenis te bekijken en te beheren in de Chrome-instellingen</translation>
+<translation id="7426022697669111648">De knop Je WEB3 DNA Browser-geschiedenis bekijken, druk op Enter om je browsegeschiedenis te bekijken en te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="7427366580982928791">Internetveiligheid van kinderen</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Contactgegevens toevoegen</translation>
@@ -2526,12 +2521,7 @@ Aanvullende informatie:
 <translation id="7497998058912824456">Knop Document maken, druk op Enter om snel een nieuw Google-document te maken</translation>
 <translation id="7501663406926337752">De site die je wilt bezoeken, is gemarkeerd door je organisatie</translation>
 <translation id="7501853161948120656">Onderwijsinformatie</translation>
-<translation id="7506488012654002225">De volgende gegevens worden <ph name="BEGIN_EMPHASIS" />niet opgeslagen<ph name="END_EMPHASIS" /> in Chromium:
-<ph name="BEGIN_LIST" />
-<ph name="LIST_ITEM" />Je browsegeschiedenis
-<ph name="LIST_ITEM" />Cookies en sitegegevens
-<ph name="LIST_ITEM" />Informatie die je in formulieren hebt opgegeven
-<ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Envelop #9</translation>
 <translation id="7508255263130623398">Geretourneerde apparaat-ID voor beleid is leeg of komt niet overeen met de huidige apparaat-ID</translation>
 <translation id="7508870219247277067">Avocadogroen</translation>
@@ -2553,7 +2543,7 @@ Aanvullende informatie:
 <translation id="7542995811387359312">Het automatisch invullen van creditcardnummers staat uit omdat dit formulier geen beveiligde verbinding gebruikt.</translation>
 <translation id="7548892272833184391">Verbindingsfouten oplossen</translation>
 <translation id="7549584377607005141">Deze webpagina kan alleen correct worden weergegeven op basis van gegevens die je eerder hebt opgegeven. Je kunt deze gegevens opnieuw verzenden, maar hierdoor worden de acties herhaald die eerder op deze pagina zijn uitgevoerd.</translation>
-<translation id="7550637293666041147">De gebruikersnaam van je apparaat en je Chrome-gebruikersnaam</translation>
+<translation id="4843621636877577887">De gebruikersnaam van je apparaat en je WEB3 DNA Browser-gebruikersnaam</translation>
 <translation id="7551484245293639699">Reisverzekering</translation>
 <translation id="755279583747225797">Proef is actief</translation>
 <translation id="7552846755917812628">Probeer de volgende tips:</translation>
@@ -2561,13 +2551,13 @@ Aanvullende informatie:
 <translation id="7554791636758816595">Nieuw tabblad</translation>
 <translation id="7555777498260651025">Tv-programma's voor het hele gezin</translation>
 <translation id="7559278538486662777">Het formaat van deze app kan niet worden aangepast.</translation>
-<translation id="7564049878696755256">Je kunt de toegang tot je account van <ph name="ORG_NAME" /> kwijtraken of slachtoffer worden van identiteitsdiefstal. Chrome raadt je aan je wachtwoord nu te wijzigen.</translation>
+<translation id="8940464370390138384">Je kunt de toegang tot je account van <ph name="ORG_NAME" /> kwijtraken of slachtoffer worden van identiteitsdiefstal. WEB3 DNA Browser raadt je aan je wachtwoord nu te wijzigen.</translation>
 <translation id="7564680668369175887">Stationcars</translation>
 <translation id="7567204685887185387">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server is mogelijk frauduleus verstrekt. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
-<translation id="7568616151991626879">Google Chrome probeert je wachtwoord in te vullen in <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser probeert je wachtwoord in te vullen in <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">De knop Zoekmachines beheren, druk op Enter om je standaard zoekmachine en Site Search te beheren</translation>
-<translation id="7569952961197462199">Creditcard verwijderen uit Chrome?</translation>
+<translation id="9202224267417193484">Creditcard verwijderen uit WEB3 DNA Browser?</translation>
 <translation id="7569983096843329377">Zwart</translation>
 <translation id="7575207903026901870">Suggestieknop verwijderen, druk op Enter om deze suggestie te verwijderen</translation>
 <translation id="7577900504646297215">Interesses beheren</translation>
@@ -2586,15 +2576,15 @@ Aanvullende informatie:
 <translation id="7600965453749440009"><ph name="LANGUAGE" /> nooit vertalen</translation>
 <translation id="7610193165460212391">Waarde <ph name="VALUE" /> is buiten bereik.</translation>
 <translation id="7613889955535752492">Vervaldatum: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om je wachtwoorden te beheren in de Chrome-instellingen.</translation>
-<translation id="7616645509853975347">Je beheerder heeft Chrome Enterprise Connectors voor je browser ingesteld. Deze connectors hebben toegang tot sommige van je gegevens.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om je wachtwoorden te beheren in de WEB3 DNA Browser-instellingen.</translation>
+<translation id="2698924724374512123">Je beheerder heeft WEB3 DNA Browser Enterprise Connectors voor je browser ingesteld. Deze connectors hebben toegang tot sommige van je gegevens.</translation>
 <translation id="7617825962482469577">Envelop C7/C6</translation>
 <translation id="7619838219691048931">Eindblad</translation>
 <translation id="7625242817712715120">Op basis van het beheerdersbeleid wordt afgeraden deze content af te drukken</translation>
 <translation id="762844065391966283">Eén tegelijk</translation>
 <translation id="7631444403134069754">Atletiek</translation>
 <translation id="7633909222644580952">Prestatiegegevens en crashrapporten</translation>
-<translation id="7637571805876720304">Creditcard verwijderen uit Chromium?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Geen}=1{1 wachtwoord in je account (voor <ph name="DOMAIN_LIST" />)}other{# wachtwoorden in je account (voor <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Seriële poorten</translation>
 <translation id="7639968568612851608">Donkergrijs</translation>
@@ -2618,7 +2608,7 @@ Aanvullende informatie:
 <translation id="7673278391011283842">Mailbox 6</translation>
 <translation id="7675325315208090829">Betaalmethoden beheren...</translation>
 <translation id="7676643023259824263">Zoeken naar klembordtekst, <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Je browsegeschiedenis bekijken en beheren in de Chrome-instellingen</translation>
+<translation id="7679367271685653708">Je browsegeschiedenis bekijken en beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="7679947978757153706">Honkbal</translation>
 <translation id="7681273392938116652">Fantasy-sporten</translation>
 <translation id="7682287625158474539">Verzendadres</translation>
@@ -2647,7 +2637,7 @@ Aanvullende informatie:
 <translation id="7740996059027112821">Standaard</translation>
 <translation id="77424286611022110">Deze site toont opdringerige of misleidende advertenties. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Gevaarlijke content geblokkeerd.</translation>
-<translation id="7751971323486164747">Lettertypen en lettergrootten aanpassen in Chrome</translation>
+<translation id="7751971323486164747">Lettertypen en lettergrootten aanpassen in WEB3 DNA Browser</translation>
 <translation id="7752995774971033316">Niet-beheerd</translation>
 <translation id="7755624218968747854">Primaire rol</translation>
 <translation id="7758069387465995638">De verbinding is mogelijk geblokkeerd door de firewall of antivirussoftware.</translation>
@@ -2670,7 +2660,7 @@ Aanvullende informatie:
 <translation id="7805571567667010077">Beheerd door je organisatie</translation>
 <translation id="7805768142964895445">Status</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Formuliersuggestie verwijderen uit Chrome?</translation>
+
 <translation id="781440967107097262">Klembord delen?</translation>
 <translation id="7815407501681723534"><ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> gevonden voor '<ph name="SEARCH_STRING" />'</translation>
 <translation id="7822320754433038727">Jacht en schietsport</translation>
@@ -2705,8 +2695,8 @@ Aanvullende informatie:
 <translation id="7943397946612013052">Download geblokkeerd</translation>
 <translation id="7943893128817522649">Kan vragen of deze site automatisch meerdere bestanden mag downloaden</translation>
 <translation id="7947285636476623132">Controleer het vervaljaar en probeer het opnieuw</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter voor meer informatie over Chrome-functies</translation>
-<translation id="7950027195171824198">Je cookievoorkeuren beheren in de Chrome-instellingen</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter voor meer informatie over WEB3 DNA Browser-functies</translation>
+<translation id="7950027195171824198">Je cookievoorkeuren beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="7951415247503192394">(32-bits)</translation>
 <translation id="7952192831285741665">Europese EDP</translation>
 <translation id="7953569069500808819">Inbinden met nietjes boven</translation>
@@ -2721,7 +2711,7 @@ Aanvullende informatie:
 <translation id="7981129096182302364">Dance en electronic</translation>
 <translation id="798134797138789862">Kan vragen of deze site virtualreality-apparaten en -gegevens mag gebruiken</translation>
 <translation id="7983008347525536475">SUV's</translation>
-<translation id="7984945080620862648">Je kunt <ph name="SITE" /> op dit moment niet bezoeken, omdat de website gecodeerde verificatiegegevens heeft verzonden die niet door Chrome kunnen worden verwerkt. Netwerkfouten en aanvallen zijn doorgaans tijdelijk, dus deze pagina werkt later waarschijnlijk correct.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Inbinden</translation>
 <translation id="7992044431894087211">Scherm delen met <ph name="APPLICATION_TITLE" /> is hervat</translation>
@@ -2754,7 +2744,7 @@ Aanvullende informatie:
 <translation id="8057711352706143257">'<ph name="SOFTWARE_NAME" />' is niet correct geconfigureerd. Als je '<ph name="SOFTWARE_NAME" />' verwijdert, wordt het probleem meestal opgelost. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Levensmiddelenindustrie</translation>
 <translation id="8066225060526005217">Beheerd door cookie-instellingen</translation>
-<translation id="8067872629359326442">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. Chromium kan je laten zien wat je nu kunt doen. Klik op 'Account beschermen' om je wachtwoord te wijzigen en Google te laten weten dat je account mogelijk gevaar loopt.</translation>
+
 <translation id="8070439594494267500">App-icoon</translation>
 <translation id="8075736640322370409">Snel een nieuwe Google-spreadsheet maken</translation>
 <translation id="8075898834294118863">Site-instellingen beheren</translation>
@@ -2784,7 +2774,7 @@ Aanvullende informatie:
 <translation id="8116925261070264013">Geluid uit</translation>
 <translation id="8118489163946903409">Betaalmethode</translation>
 <translation id="8123046743443732598">Desktopcomputers</translation>
-<translation id="8124639700796374294">De knop Chrome aanpassen, druk op Enter om het uiterlijk van je browser aan te passen</translation>
+<translation id="8124639700796374294">De knop WEB3 DNA Browser aanpassen, druk op Enter om het uiterlijk van je browser aan te passen</translation>
 <translation id="8126056688005753476">Avontuurlijke reizen</translation>
 <translation id="8127301229239896662">'<ph name="SOFTWARE_NAME" />' is niet correct geïnstalleerd op je computer of netwerk. Neem contact op met je IT-beheerder om dit probleem op te lossen.</translation>
 <translation id="8131740175452115882">Bevestigen</translation>
@@ -2795,7 +2785,7 @@ Aanvullende informatie:
 <translation id="8157295877370077682">Site verlaten</translation>
 <translation id="8163866351304776260">Vier perforaties links</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Chrome biedt aan je passen in je Google-account op te slaan omdat je bent ingelogd. Je kunt dit wijzigen in de instellingen.</translation>
+<translation id="8903986195054043594">WEB3 DNA Browser biedt aan je passen in je Google-account op te slaan omdat je bent ingelogd. Je kunt dit wijzigen in de instellingen.</translation>
 <translation id="8176440868214972690">De beheerder van dit apparaat heeft bepaalde gegevens gestuurd naar de volgende websites, zoals instellingen of beleidsregels.</translation>
 <translation id="8184538546369750125">Algemene standaardinstelling gebruiken (Toestaan)</translation>
 <translation id="8186706823560132848">Software</translation>
@@ -2827,7 +2817,7 @@ Aanvullende informatie:
 <translation id="8242426110754782860">Doorgaan</translation>
 <translation id="8249296373107784235">Annuleren</translation>
 <translation id="8249463483885748674">Gestandaardiseerde tests en toelatingsexamens</translation>
-<translation id="8252991034201168845">De knop Toegankelijkheidsinstellingen beheren, druk op Enter om je toegankelijkheidstools te personaliseren in de Chrome OS-instellingen</translation>
+<translation id="8252991034201168845">De knop Toegankelijkheidsinstellingen beheren, druk op Enter om je toegankelijkheidstools te personaliseren in de WEB3 DNA Browser OS-instellingen</translation>
 <translation id="8253091569723639551">Factuuradres vereist</translation>
 <translation id="8257387598443225809">Deze app is ontworpen voor mobiel</translation>
 <translation id="825929999321470778">Alle opgeslagen wachtwoorden bekijken</translation>
@@ -2840,11 +2830,11 @@ Aanvullende informatie:
 <translation id="8270242299912238708">Pdf-documenten</translation>
 <translation id="8275952078857499577">Niet aanbieden om deze site te vertalen</translation>
 <translation id="8277900682056760511">Blad voor betalingshandler is geopend</translation>
-<translation id="8279611986089885641">Chrome-meldingen moeten aanstaan. Je kunt ze aanzetten in <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">WEB3 DNA Browser-meldingen moeten aanstaan. Je kunt ze aanzetten in <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">Lade 11</translation>
 <translation id="8281886186245836920">Overslaan</translation>
 <translation id="8282947398454257691">Je unieke apparaat-ID weten</translation>
-<translation id="8284769179630993263">Safe Browsing en meer beheren in de Chrome-instellingen</translation>
+<translation id="8284769179630993263">Safe Browsing en meer beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="8286036467436129157">Inloggen</translation>
 <translation id="8288807391153049143">Certificaat bekijken</translation>
 <translation id="8289355894181816810">Neem contact op met je netwerkbeheerder als je niet zeker weet wat dit betekent.</translation>
@@ -2883,7 +2873,7 @@ Aanvullende informatie:
 <translation id="8390725133630534698">Delen van <ph name="ORIGIN_NAME" /> naar <ph name="VM_NAME" /> is geblokkeerd op basis van beheerdersbeleid</translation>
 <translation id="8396522675989118466">Dit is de code van <ph name="NUMBER_OF_DIGITS" /> cijfers op de <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Je telefoon zoeken</translation>
-<translation id="8405579342203358118">De informatie die je synchroniseert beheren in de Chrome-instellingen</translation>
+<translation id="8405579342203358118">De informatie die je synchroniseert beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="8409413588194360210">betalingshandlers</translation>
 <translation id="8412145213513410671">Crashes (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Je moet twee keer dezelfde wachtwoordzin opgeven.</translation>
@@ -2894,7 +2884,7 @@ Aanvullende informatie:
 <translation id="8427848540066057481">500 x 750 mm</translation>
 <translation id="8428213095426709021">Instellingen</translation>
 <translation id="8428634594422941299">OK</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je cookievoorkeuren te beheren in de Chrome-instellingen</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je cookievoorkeuren te beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="8433057134996913067">Hiermee word je uitgelogd van de meeste websites.</translation>
 <translation id="8434840396568290395">Huisdieren</translation>
 <translation id="8437238597147034694">&amp;Verplaatsen ongedaan maken</translation>
@@ -2914,12 +2904,12 @@ Aanvullende informatie:
 <translation id="8473863474539038330">Adressen en meer</translation>
 <translation id="8474910779563686872">Ontwikkelaarsgegevens bekijken</translation>
 <translation id="8479754468255770962">Nietje linksonder</translation>
-<translation id="8483780878231876732">Log in bij Chrome om passen uit je Google-account te gebruiken</translation>
+<translation id="8483780878231876732">Log in bij WEB3 DNA Browser om passen uit je Google-account te gebruiken</translation>
 <translation id="8488350697529856933">Van toepassing op</translation>
 <translation id="8490137692873530638">Stapeleenheid 10</translation>
 <translation id="8493948351860045254">Ruimte vrijmaken</translation>
 <translation id="8498891568109133222">Het duurt te lang voordat <ph name="HOST_NAME" /> reageert.</translation>
-<translation id="8503559462189395349">Chrome-wachtwoorden</translation>
+<translation id="1863492395079744896">WEB3 DNA Browser-wachtwoorden</translation>
 <translation id="8503813439785031346">Gebruikersnaam</translation>
 <translation id="8507227106804027148">Opdrachtregel</translation>
 <translation id="8508648098325802031">Zoekpictogram</translation>
@@ -2927,8 +2917,8 @@ Aanvullende informatie:
 <translation id="851353418319061866">Nauwkeurigheidscheck</translation>
 <translation id="8513580896341796021">Download gestart. Druk op |<ph name="ACCELERATOR" />| om deze te bekijken.</translation>
 <translation id="8519753333133776369">HID-apparaat toegestaan door je beheerder</translation>
-<translation id="8522552481199248698">Chrome kan je helpen je Google-account te beschermen en je wachtwoord te wijzigen.</translation>
-<translation id="8530813470445476232">Je browsegeschiedenis, cookies, cache en meer wissen in de Chrome-instellingen</translation>
+
+<translation id="8530813470445476232">Je browsegeschiedenis, cookies, cache en meer wissen in de WEB3 DNA Browser-instellingen</translation>
 <translation id="853332391023689529">Pick-ups</translation>
 <translation id="8533619373899488139">Ga naar &lt;strong&gt;chrome://policy&lt;/strong&gt; om de lijst met geblokkeerde URL's en andere beleidsregels te bekijken die worden afgedwongen door je systeembeheerder.</translation>
 <translation id="8539500321752640291">2 rechten toestaan?</translation>
@@ -2944,7 +2934,7 @@ Aanvullende informatie:
 <translation id="8557066899867184262">De CVC-code staat op de achterkant van je pas.</translation>
 <translation id="8559762987265718583">Er kan geen privéverbinding met <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> tot stand worden gebracht, omdat de datum en tijd van je apparaat (<ph name="DATE_AND_TIME" />) onjuist zijn.</translation>
 <translation id="8564182942834072828">Afzonderlijke documenten/ongesorteerde exemplaren</translation>
-<translation id="8564985650692024650">Chromium raadt je aan het wachtwoord voor <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> opnieuw in te stellen als je het voor andere sites hebt hergebruikt.</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser raadt je aan het wachtwoord voor <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> opnieuw in te stellen als je het voor andere sites hebt hergebruikt.</translation>
 <translation id="8576310925653847813">Thuisbioscoopsystemen</translation>
 <translation id="8577348305244205642">Virtuele kaart niet beschikbaar</translation>
 <translation id="858637041960032120">Telnr. toevoegen</translation>
@@ -2976,7 +2966,7 @@ Aanvullende informatie:
 <translation id="868922510921656628">Pagina's per set</translation>
 <translation id="869891660844655955">Vervaldatum</translation>
 <translation id="8699041776323235191">HID-apparaat</translation>
-<translation id="8699899385443889493">De knop Chrome Dino-game spelen, druk op Enter om de Dino Run-game in Chrome te spelen</translation>
+<translation id="8699899385443889493">De knop WEB3 DNA Browser Dino-game spelen, druk op Enter om de Dino Run-game in WEB3 DNA Browser te spelen</translation>
 <translation id="8699985386408839112">Envelop Kaku 1</translation>
 <translation id="8703575177326907206">Je verbinding met <ph name="DOMAIN" /> is niet gecodeerd.</translation>
 <translation id="8705331520020532516">Serienummer</translation>
@@ -2993,12 +2983,12 @@ Aanvullende informatie:
 <translation id="8725066075913043281">Opnieuw proberen</translation>
 <translation id="8726549941689275341">Paginagrootte:</translation>
 <translation id="8730621377337864115">Klaar</translation>
-<translation id="8731544501227493793">Knop 'Wachtwoorden beheren'. Druk op Enter om je wachtwoorden te bekijken en te beheren in de Chrome-instellingen.</translation>
+<translation id="8731544501227493793">Knop 'Wachtwoorden beheren'. Druk op Enter om je wachtwoorden te bekijken en te beheren in de WEB3 DNA Browser-instellingen.</translation>
 <translation id="8734529307927223492">Je <ph name="DEVICE_TYPE" /> wordt beheerd door <ph name="MANAGER" /></translation>
 <translation id="8736059027199600831">30 x 40 inch</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om een nieuw incognitovenster te openen om privé te browsen.</translation>
 <translation id="8737685506611670901">Links voor <ph name="PROTOCOL" /> openen in plaats van <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Als je een beveiligde verbinding tot stand wilt brengen, moet je klok goed zijn ingesteld. Dit moet omdat de certificaten die deze websites gebruiken om zichzelf te identificeren, slechts gedurende bepaalde perioden geldig zijn. Aangezien de klok van je apparaat niet goed is ingesteld, kan Chromium deze certificaten niet verifiëren.</translation>
+
 <translation id="8740359287975076522">Het &lt;abbr id="dnsDefinition"&gt;DNS-adres&lt;/abbr&gt; van <ph name="HOST_NAME" /> kan niet worden gevonden. Er wordt een diagnose van het probleem uitgevoerd.</translation>
 <translation id="8742371904523228557">Je code voor <ph name="ORIGIN" /> is<ph name="ONE_TIME_CODE" />.</translation>
 <translation id="874918643257405732">Bookmark toevoegen voor dit tabblad</translation>
@@ -3017,9 +3007,9 @@ Aanvullende informatie:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motorfietsen</translation>
 <translation id="8790007591277257123">&amp;Opnieuw verwijderen</translation>
-<translation id="8792621596287649091">Je kunt de toegang tot je account van <ph name="ORG_NAME" /> kwijtraken of slachtoffer worden van identiteitsdiefstal. Chromium raadt je aan je wachtwoord nu te wijzigen.</translation>
+
 <translation id="8792626944327216835">microfoon</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> heeft Chrome Enterprise Connectors voor je browser aangezet. Deze connectors hebben toegang tot sommige van je gegevens.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> heeft WEB3 DNA Browser Enterprise Connectors voor je browser aangezet. Deze connectors hebben toegang tot sommige van je gegevens.</translation>
 <translation id="8798099450830957504">Standaard</translation>
 <translation id="8798739476508189189">Zoek je browserflags? Ga naar</translation>
 <translation id="8805819170075074995">Lijstitem '<ph name="LANGUAGE_ID" />': Item is genegeerd omdat dit ook is opgenomen in het beleid SpellcheckLanguage.</translation>
@@ -3027,7 +3017,7 @@ Aanvullende informatie:
 <translation id="8807160976559152894">Bijsnijden na elke pagina</translation>
 <translation id="8813277370772331957">Later herinneren</translation>
 <translation id="8814707942599948500">Envelop C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om Chrome te updaten via je Chrome-instellingen</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om WEB3 DNA Browser te updaten via je WEB3 DNA Browser-instellingen</translation>
 <translation id="8820817407110198400">Bookmarks</translation>
 <translation id="882338992931677877">Handmatige sleuf</translation>
 <translation id="8830320733681313421">Hagaki (briefkaart)</translation>
@@ -3041,7 +3031,7 @@ Aanvullende informatie:
 <translation id="885306012106043620">Tennis</translation>
 <translation id="8855742650226305367">Dansen</translation>
 <translation id="885730110891505394">Delen met Google</translation>
-<translation id="8858065207712248076">Chrome raadt je aan het wachtwoord voor <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> opnieuw in te stellen als je het voor andere sites hebt hergebruikt.</translation>
+
 <translation id="885906927438988819">Als de spelling klopt, <ph name="BEGIN_LINK" />voer je een Windows-netwerkcontrole uit<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Soundtracks</translation>
 <translation id="8866481888320382733">Fout bij het parseren van beleidsinstellingen</translation>
@@ -3061,7 +3051,7 @@ Aanvullende informatie:
 <translation id="8903921497873541725">Inzoomen</translation>
 <translation id="890493561996401738">Suggestieknop verwijderen, druk op Enter om te verwijderen, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google-account</translation>
-<translation id="8913778647360618320">Knop 'Betaalmethoden beheren'. Druk op Enter om je betalingen en creditcardgegevens te beheren in de Chrome-instellingen.</translation>
+<translation id="8913778647360618320">Knop 'Betaalmethoden beheren'. Druk op Enter om je betalingen en creditcardgegevens te beheren in de WEB3 DNA Browser-instellingen.</translation>
 <translation id="8922013791253848639">Altijd advertenties op deze site toestaan</translation>
 <translation id="892588693504540538">Perforatie rechtsboven</translation>
 <translation id="8930330541574156305">Onroerend goed</translation>
@@ -3082,7 +3072,7 @@ Aanvullende informatie:
 <translation id="8975263830901772334">Namen van bestanden die je afdrukt</translation>
 <translation id="8978053250194585037">Google Safe Browsing heeft onlangs <ph name="BEGIN_LINK" />phishing gedetecteerd<ph name="END_LINK" /> op <ph name="SITE" />. Phishingsites doen zich voor als een andere website om je te misleiden.</translation>
 <translation id="8983369100812962543">Je kunt het formaat van de app nu aanpassen</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je browsegeschiedenis in Chrome te bekijken</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om je browsegeschiedenis in WEB3 DNA Browser te bekijken</translation>
 <translation id="8987927404178983737">Maand</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Zoek je de systeemversie? Ga naar</translation>
@@ -3129,19 +3119,19 @@ Aanvullende informatie:
 <translation id="908796725011587895">Schoolsporten</translation>
 <translation id="9089260154716455634">Beleid buiten gebruikstijd:</translation>
 <translation id="9095388113577226029">Meer talen...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om Chrome in te stellen als de standaardbrowser van het systeem in de iOS-instellingen</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om WEB3 DNA Browser in te stellen als de standaardbrowser van het systeem in de iOS-instellingen</translation>
 <translation id="9096679202588811390">Tv-programma's</translation>
 <translation id="9101630580131696064">Lade 1</translation>
 <translation id="9102081333385212048">Bestanden die je kopieert of verplaatst, worden naar Google Cloud of derden gestuurd voor analyse. De bestanden kunnen bijvoorbeeld worden gescand op gevoelige gegevens of malware.</translation>
 <translation id="9103537084693478942">Videosoftware</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> gebruikt gewoonlijk versleuteling om je gegevens te beschermen. Toen Chromium deze keer probeerde verbinding te maken met <ph name="SITE" />, retourneerde de website ongewone en onjuiste inloggegevens. Dit gebeurt wanneer een aanvaller probeert zich als <ph name="SITE" /> voor te doen of wanneer een wifi-inlogscherm de verbinding heeft verbroken. Je gegevens zijn nog steeds beveiligd omdat Chromium de verbinding heeft beëindigd voordat er gegevens konden worden uitgewisseld.</translation>
+
 <translation id="9106062320799175032">Factuuradres toevoegen</translation>
 <translation id="9107467864910557787">Je browser wordt beheerd door <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Op basis van het beheerdersbeleid wordt scherm delen met <ph name="APPLICATION_TITLE" /> uitgezet als er vertrouwelijke content zichtbaar is</translation>
 <translation id="9114524666733003316">Creditcard bevestigen...</translation>
-<translation id="9114581008513152754">Deze browser wordt niet beheerd door een bedrijf of andere organisatie. Activiteit op dit apparaat kan buiten Chrome worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Nieuw</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en daarna op Enter om je reis te hervatten en relevante activiteit in je Chrome-geschiedenis te bekijken.</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en daarna op Enter om je reis te hervatten en relevante activiteit in je WEB3 DNA Browser-geschiedenis te bekijken.</translation>
 <translation id="9119042192571987207">Geüpload</translation>
 <translation id="9122954576417194280">Grondstoffen- en derivatenhandel</translation>
 <translation id="9128016270925453879">Beleid is geladen</translation>
@@ -3156,7 +3146,7 @@ Aanvullende informatie:
 <translation id="9148088599418889305">Verzendmethode kiezen</translation>
 <translation id="9148507642005240123">&amp;Bewerken ongedaan maken</translation>
 <translation id="9150045010208374699">Je camera gebruiken</translation>
-<translation id="9150685862434908345">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten Chrome worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Bijgewerkt</translation>
 <translation id="9155211586651734179">Aangesloten audiorandapparaten</translation>
 <translation id="9157595877708044936">Bezig met instellen...</translation>
@@ -3171,7 +3161,7 @@ Aanvullende informatie:
 <translation id="917450738466192189">Het servercertificaat is ongeldig.</translation>
 <translation id="9174623988242579721">Custom en bijzondere voertuigen</translation>
 <translation id="9174917557437862841">Schakelknop voor tabbladen, druk op Enter om naar dit tabblad te schakelen</translation>
-<translation id="9179703756951298733">Je betalingen en creditcardgegevens beheren in de Chrome-instellingen</translation>
+<translation id="9179703756951298733">Je betalingen en creditcardgegevens beheren in de WEB3 DNA Browser-instellingen</translation>
 <translation id="9179907736442194268">Krijg e-mailmeldingen bij een prijsdaling op een site</translation>
 <translation id="9183302530794969518">Google Documenten</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> gebruikt een niet-ondersteund protocol.</translation>
@@ -3182,12 +3172,12 @@ Aanvullende informatie:
 <translation id="920511547311754821">Kun je de code niet vinden? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Kan artikel niet toevoegen.</translation>
 <translation id="9213433120051936369">Weergave aanpassen</translation>
-<translation id="9215416866750762878">Een app voorkomt dat Chrome veilig verbinding kan maken met deze site</translation>
+<translation id="717994082075351832">Een app voorkomt dat WEB3 DNA Browser veilig verbinding kan maken met deze site</translation>
 <translation id="9219103736887031265">Afbeeldingen</translation>
-<translation id="922152298093051471">Chrome aanpassen</translation>
+<translation id="922152298093051471">WEB3 DNA Browser aanpassen</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">FORMULIER LEEGMAKEN</translation>
-<translation id="936602727769022409">Je kunt de toegang tot je Google-account kwijtraken. Chromium raadt je aan je wachtwoord nu te wijzigen. Je wordt gevraagd in te loggen op je account.</translation>
+
 <translation id="937457230470581909">Dierentuinen, aquaria en natuurreservaten</translation>
 <translation id="939736085109172342">Nieuwe map</translation>
 <translation id="940053046584497293">Reizen en transport</translation>

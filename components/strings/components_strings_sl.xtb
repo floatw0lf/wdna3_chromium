@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Navedite dodatne podrobnosti</translation>
 <translation id="1019413721762100891">Izklopljeno</translation>
 <translation id="1021110881106174305">Sprejete kartice</translation>
-<translation id="1021753677514347426">Do te težave pride zaradi potrdila, ki ste ga vi ali nekdo drug namestili v napravo. To potrdilo se je v preteklosti uporabljalo za prestrezanje in nadzor v omrežjih, zato ga Chromium ne obravnava kot zaupanja vrednega. Čeprav obstajajo nekateri legitimni primeri nadzora, denimo v šolah ali omrežjih v podjetjih, se želi Chromium prepričati, da se nadzora zavedate, tudi če ga ne morete preprečiti. Do nadzora lahko pride v katerem koli brskalniku ali aplikaciji, ki dostopa do spleta.</translation>
+<translation id="6843750610117699926">Do te težave pride zaradi potrdila, ki ste ga vi ali nekdo drug namestili v napravo. To potrdilo se je v preteklosti uporabljalo za prestrezanje in nadzor v omrežjih, zato ga WEB3 DNA Browser ne obravnava kot zaupanja vrednega. Čeprav obstajajo nekateri legitimni primeri nadzora, denimo v šolah ali omrežjih v podjetjih, se želi WEB3 DNA Browser prepričati, da se nadzora zavedate, tudi če ga ne morete preprečiti. Do nadzora lahko pride v katerem koli brskalniku ali aplikaciji, ki dostopa do spleta.</translation>
 <translation id="1024111578869940408">Napadalci včasih poskušajo posnemati spletna mesta, tako da skoraj neopazno spremenijo spletni naslov.</translation>
 <translation id="1028781062521375153">Ogled podrobnosti</translation>
 <translation id="1030706264415084469"><ph name="URL" /> želi trajno shranjevati velike količine podatkov v vaši napravi</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Dodajanje imena na kartico</translation>
 <translation id="1089439967362294234">Spremeni geslo</translation>
 <translation id="1096545575934602868">V tem polju je lahko največ toliko vnosov: <ph name="MAX_ITEMS_LIMIT" />. Vsi nadaljnji vnosi bodo zavrženi.</translation>
-<translation id="1100782917270858593">Gumb za nadaljevanje poti, pritisnite Enter, če želite nadaljevati pot in si ogledati pomembno dejavnost v zgodovini uporabe Chroma.</translation>
+<translation id="3985486898664025513">Gumb za nadaljevanje poti, pritisnite Enter, če želite nadaljevati pot in si ogledati pomembno dejavnost v zgodovini uporabe Chroma.</translation>
 <translation id="1101672080107056897">Dejanje ob napaki</translation>
 <translation id="1103523840287552314">Vedno prevedi ta jezik: <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -131,7 +131,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="1285320974508926690">Nikoli ne prevedi tega spletnega mesta</translation>
 <translation id="1288548991597756084">Varno shranite kartico</translation>
 <translation id="1292571435393770077">Pladenj 16</translation>
-<translation id="1292701964462482250">»Programska oprema v računalniku Chromu preprečuje vzpostavitev varne povezave s spletom« (samo računalniki s sistemom Windows)</translation>
+<translation id="3610512443326918645">»Programska oprema v računalniku Chromu preprečuje vzpostavitev varne povezave s spletom« (samo računalniki s sistemom Windows)</translation>
 <translation id="1293797321964802402">Kuverta 9 x 11 palcev</translation>
 <translation id="1294154142200295408">Različice ukazne vrstice</translation>
 <translation id="129553762522093515">Nedavno zaprto</translation>
@@ -150,7 +150,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="1323433172918577554">Pokaži več</translation>
 <translation id="132390688737681464">Shranjevanje in izpolnjevanje naslovov</translation>
 <translation id="1330449323196174374">Prepogibanje v obliki okna z leve</translation>
-<translation id="1333745675627230582">Igranje igre Dino za Chrome</translation>
+<translation id="6227572462599550594">Igranje igre Dino za WEB3 DNA Browser</translation>
 <translation id="1333989956347591814">Vaša dejavnost <ph name="BEGIN_EMPHASIS" />je morda še vedno vidna<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />spletnim mestom, ki jih obiščete,
@@ -223,7 +223,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="1483493594462132177">Pošlji</translation>
 <translation id="1484290072879560759">Izbira naslova za pošiljanje</translation>
 <translation id="1492194039220927094">Potiskanje pravilnikov:</translation>
-<translation id="149293076951187737">Ko v Chromu zaprete vse anonimne zavihke, se dejavnost na teh zavihkih izbriše iz te naprave:
+<translation id="3175654283800723944">Ko v Chromu zaprete vse anonimne zavihke, se dejavnost na teh zavihkih izbriše iz te naprave:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />dejavnost brskanja;<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />zgodovina iskanja;<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="154408704832528245">Izbira naslova za dostavo</translation>
 <translation id="1549470594296187301">Če želite uporabljati to funkcijo, mora biti omogočen JavaScript.</translation>
 <translation id="1551884710160394169">Programska oprema brez denarnega plačila in preizkusna programska oprema</translation>
-<translation id="1553358976309200471">Posodobi Chrome</translation>
+<translation id="1553358976309200471">Posodobi WEB3 DNA Browser</translation>
 <translation id="1555130319947370107">Modra</translation>
 <translation id="1559447966090556585">Želite prejemati obvestila?</translation>
 <translation id="1559528461873125649">Taka datoteka ali imenik ne obstaja</translation>
@@ -263,7 +263,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="156703335097561114">Podatki o omrežju, kot so naslovi, konfiguracija vmesnika in kakovost povezave</translation>
 <translation id="1567040042588613346">Ta pravilnik deluje, kot je predvideno, vendar je nekje drugje nastavljena enaka vrednost, ki jo ta pravilnik nadomesti.</translation>
 <translation id="1569487616857761740">Vnesite datum poteka</translation>
-<translation id="1569694109004336106">Google Chrome poskuša vklopiti Windows Hello za izpolnjevanje gesel.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser poskuša vklopiti Windows Hello za izpolnjevanje gesel.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> palcev</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Med prikazom spletne strani je prišlo do napake.</translation>
@@ -295,11 +295,11 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="1645368109819982629">Nepodprt protokol</translation>
 <translation id="1650602712345345441">Upravljanje Chromovih nastavitev</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome je prilagodil to stran za lažje branje. Chrome je prenesel izvirno stran prek varne povezave.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser je prilagodil to stran za lažje branje. WEB3 DNA Browser je prenesel izvirno stran prek varne povezave.</translation>
 <translation id="1656489000284462475">Prevzem</translation>
 <translation id="1658918301167915956">naprave Bluetooth</translation>
 <translation id="1662550410081243962">Shranjevanje in izpolnjevanje podatkov o plačilnih sredstvih</translation>
-<translation id="1663943134801823270">Kartice in naslovi so iz Chroma. Upravljate jih lahko v <ph name="BEGIN_LINK" />nastavitvah<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Kartice in naslovi so iz Chroma. Upravljate jih lahko v <ph name="BEGIN_LINK" />nastavitvah<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">Strani v jeziku <ph name="SOURCE_LANGUAGE" /> bodo odslej prevedene v jezik <ph name="TARGET_LANGUAGE" />.</translation>
 <translation id="1674504678466460478">Iz jezika <ph name="SOURCE_LANGUAGE" /> v jezik <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Najprej kratki rob</translation>
@@ -347,7 +347,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="1757773103848038814">Pisava s stalno širino</translation>
 <translation id="1763864636252898013">Strežniku ni uspelo dokazati, da je <ph name="DOMAIN" />; operacijski sistem vaše naprave ne zaupa njegovemu varnostnemu potrdilu. Razlog za to je lahko napačna konfiguracija ali napadalčevo prestrezanje povezave.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Poskušajte zagnati orodje Omrežna diagnostika Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Preberite več o anonimnem načinu v Chromiumu<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Preberite več o anonimnem načinu v Chromiumu<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Tu so prikazani odprti zavihki</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -402,7 +402,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="1935995810530254458">Vseeno kopiraj</translation>
 <translation id="1939175642807587452">Lahko zahteva pošiljanje obvestil.</translation>
 <translation id="1943994668912612445">Oblikovanje</translation>
-<translation id="1945968466830820669">Izgubite lahko dostop do računa za organizacijo ali postanete žrtev kraje identitete. Chromium priporoča, da spremenite geslo.</translation>
+<translation id="5087943717045213809">Izgubite lahko dostop do računa za organizacijo ali postanete žrtev kraje identitete. WEB3 DNA Browser priporoča, da spremenite geslo.</translation>
 <translation id="1946849748901605102">12 x 15 palcev</translation>
 <translation id="1947454675006758438">Spenjanje zgoraj desno</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -443,7 +443,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="2048261947532620704">Prevajanje strani</translation>
 <translation id="205212645995975601">Žar</translation>
 <translation id="2053111141626950936">Strani v jeziku <ph name="LANGUAGE" /> ne bodo prevedene.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Če je ta kontrolnik vklopljen in stanje aktivno, Chrome določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak dan.}=1{Če je ta kontrolnik vklopljen in stanje aktivno, Chrome določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak dan.}one{Če je ta kontrolnik vklopljen in stanje aktivno, Chrome določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak {NUM_DAYS} dan.}two{Če je ta kontrolnik vklopljen in stanje aktivno, Chrome določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak {NUM_DAYS} dneva.}few{Če je ta kontrolnik vklopljen in stanje aktivno, Chrome določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak {NUM_DAYS} dni.}other{Če je ta kontrolnik vklopljen in stanje aktivno, Chrome določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak {NUM_DAYS} dni.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Če je ta kontrolnik vklopljen in stanje aktivno, WEB3 DNA Browser določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak dan.}=1{Če je ta kontrolnik vklopljen in stanje aktivno, WEB3 DNA Browser določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak dan.}one{Če je ta kontrolnik vklopljen in stanje aktivno, WEB3 DNA Browser določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak {NUM_DAYS} dan.}two{Če je ta kontrolnik vklopljen in stanje aktivno, WEB3 DNA Browser določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak {NUM_DAYS} dneva.}few{Če je ta kontrolnik vklopljen in stanje aktivno, WEB3 DNA Browser določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak {NUM_DAYS} dni.}other{Če je ta kontrolnik vklopljen in stanje aktivno, WEB3 DNA Browser določi, kateri veliki skupini oseb ali »kohorti« je vaša nedavna dejavnost brskanja najbolj podobna. Izdajatelji lahko izberejo oglase za skupino in vaša dejavnost brskanja je zasebna v napravi. Skupina se posodobi vsak {NUM_DAYS} dni.}}</translation>
 <translation id="2059202684901022309">22 x 34 palcev</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 predlog}one{# predlog}two{# predloga}few{# predlogi}other{# predlogov}}</translation>
 <translation id="2066915425250589881">zahtevate, da jih izbriše</translation>
@@ -457,7 +457,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="2085876078937250610">Shrani …</translation>
 <translation id="2088086323192747268">Gumb za upravljanje sinhronizacije, pritisnite Enter, če želite upravljati, kateri podatki se sinhronizirajo v Chromovih nastavitvah.</translation>
 <translation id="2091887806945687916">Zvok</translation>
-<translation id="2093982008204312032">Google Chrome poskuša izklopiti Windows Hello za izpolnjevanje gesel.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser poskuša izklopiti Windows Hello za izpolnjevanje gesel.</translation>
 <translation id="2094505752054353250">Neujemanje domen</translation>
 <translation id="2099652385553570808">Trojno spenjanje na levi</translation>
 <translation id="2101225219012730419">Različica:</translation>
@@ -606,7 +606,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="2505268675989099013">Zaščita računa</translation>
 <translation id="2509167091171468975">Trgovine z živili</translation>
 <translation id="2512101340618156538">Ni dovoljeno (privzeto)</translation>
-<translation id="2512413427717747692">Gumb za nastavite Chroma kot privzeti brskalnik, pritisnite tipko Enter, če želite nastaviti Chrome kot privzeti brskalnik sistema v nastavitvah sistema iOS.</translation>
+<translation id="2512413427717747692">Gumb za nastavite Chroma kot privzeti brskalnik, pritisnite tipko Enter, če želite nastaviti WEB3 DNA Browser kot privzeti brskalnik sistema v nastavitvah sistema iOS.</translation>
 <translation id="2515629240566999685">preveriti signal na svojem območju</translation>
 <translation id="2515761554693942801">Na spletnih mestih, ki uporabljajo <ph name="PROVIDER_ORIGIN" />, ste izbrali preverjanje s funkcijo Touch ID. Ta ponudnik je morda shranil podatke o vašem plačilnem sredstvu, za katere lahko <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Spenjanje spodaj desno</translation>
@@ -623,7 +623,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="2542106216580219892">Deskanje na vodi</translation>
 <translation id="2544546346215446551">Skrbnik je znova zagnal napravo</translation>
 <translation id="2544644783021658368">Enojni dokument</translation>
-<translation id="254524874071906077">Nastavi Chrome kot privzeti brskalnik</translation>
+<translation id="1319028298140338735">Nastavi WEB3 DNA Browser kot privzeti brskalnik</translation>
 <translation id="2546283357679194313">Piškotki in podatki o spletnih mestih</translation>
 <translation id="2547466893236767989">Spletno oblikovanje in razvoj</translation>
 <translation id="254947805923345898">Vrednost pravilnika ni veljavna.</translation>
@@ -644,13 +644,13 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="2587841377698384444">ID API-ja imenika:</translation>
 <translation id="2594318783181750337">Hiter spletni ogled:</translation>
 <translation id="2595719060046994702">Te naprave in računa ne upravlja podjetje ali druga organizacija.</translation>
-<translation id="2596415276201385844">Če želite vzpostaviti varno povezavo, mora biti ura pravilno nastavljena. Potrdila, ki jih uporabljajo spletna mesta za prepoznavanje, namreč veljajo samo določen čas. Ker je ura sistema nepravilna, Chrome teh potrdil ne more preveriti.</translation>
+<translation id="7968235694092767490">Če želite vzpostaviti varno povezavo, mora biti ura pravilno nastavljena. Potrdila, ki jih uporabljajo spletna mesta za prepoznavanje, namreč veljajo samo določen čas. Ker je ura sistema nepravilna, WEB3 DNA Browser teh potrdil ne more preveriti.</translation>
 <translation id="2597378329261239068">Dokument je zaščiten z geslom. Vnesite geslo.</translation>
 <translation id="259821504105826686">Fotografska in digitalna umetnost</translation>
 <translation id="2601150049980261779">Romantični filmi</translation>
 <translation id="2604589665489080024">Pop glasba</translation>
 <translation id="2610561535971892504">Kliknite za kopiranje</translation>
-<translation id="2617988307566202237">Chrome <ph name="BEGIN_EMPHASIS" />ne shrani<ph name="END_EMPHASIS" /> teh podatkov:
+<translation id="6174516088921923215">WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />ne shrani<ph name="END_EMPHASIS" /> teh podatkov:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />zgodovine brskanja,
             <ph name="LIST_ITEM" />piškotkov in podatkov spletnih mest,
@@ -658,7 +658,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
           <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Ura prehiteva</translation>
 <translation id="262745152991669301">Lahko zahteva vzpostavitev povezave z napravami USB.</translation>
-<translation id="2629325967560697240">Če želite imeti Chromovo največjo raven varnosti, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />vklopite izboljšano zaščito<ph name="END_ENHANCED_PROTECTION_LINK" />.</translation>
+<translation id="9155656925188613813">Če želite imeti Chromovo največjo raven varnosti, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />vklopite izboljšano zaščito<ph name="END_ENHANCED_PROTECTION_LINK" />.</translation>
 <translation id="2634124572758952069">Naslova IP strežnika <ph name="HOST_NAME" /> ni bilo mogoče najti.</translation>
 <translation id="2639739919103226564">Stanje:</translation>
 <translation id="2643134278432436513">Nega las</translation>
@@ -749,7 +749,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="290376772003165898">Stran ni v jeziku <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">Zaznana je bila sprememba omrežja.</translation>
 <translation id="2911973620368911614">ID uporabnika za računovodstvo glede opravil</translation>
-<translation id="2914160345369867329">Spletno mesto <ph name="SITE" /> za zaščito vaših podatkov običajno uporablja šifriranje. Ko se je Chrome tokrat poskusil povezati s spletnim mestom <ph name="SITE" />, je to vrnilo nenavadne in nepravilne poverilnice. Do tega lahko pride, če se napadalec lažno predstavlja za spletno mesto <ph name="SITE" /> ali če je povezavo prekinil zaslon za prijavo v omrežje Wi-Fi. Vaši podatki so še vedno varni, saj je Chrome pred izmenjavo podatkov prekinil povezavo.</translation>
+<translation id="6754677106668042373">Spletno mesto <ph name="SITE" /> za zaščito vaših podatkov običajno uporablja šifriranje. Ko se je WEB3 DNA Browser tokrat poskusil povezati s spletnim mestom <ph name="SITE" />, je to vrnilo nenavadne in nepravilne poverilnice. Do tega lahko pride, če se napadalec lažno predstavlja za spletno mesto <ph name="SITE" /> ali če je povezavo prekinil zaslon za prijavo v omrežje Wi-Fi. Vaši podatki so še vedno varni, saj je WEB3 DNA Browser pred izmenjavo podatkov prekinil povezavo.</translation>
 <translation id="2915068235268646559">Zrušitev: <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Slikanje</translation>
 <translation id="2916038427272391327">Zaprite druge programe</translation>
@@ -766,7 +766,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="2943895734390379394">Čas nalaganja:</translation>
 <translation id="2945026002409061480">Spletne skupnosti</translation>
 <translation id="2948083400971632585">Namestniške strežnike, konfigurirane za povezavo, lahko onemogočite na strani z nastavitvami.</translation>
-<translation id="2949183777371959169">Prezrto, ker računalnik ni včlanjen v upravljanje v oblaku za brskalnik Chrome.</translation>
+<translation id="7786089409521529641">Prezrto, ker računalnik ni včlanjen v upravljanje v oblaku za brskalnik WEB3 DNA Browser.</translation>
 <translation id="2951588413176968965">Moj nabiralnik</translation>
 <translation id="2952820037279740115">Zapri vsa anonimna okna</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -780,7 +780,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="2977665033722899841">Trenutno izbrano: <ph name="ROW_NAME" />. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2983666748527428214">Odpri anonimni zavihek</translation>
-<translation id="2985306909656435243">Če je to omogočeno, Chromium shrani kopijo kartice v tej napravi zaradi hitrejšega izpolnjevanja obrazcev.</translation>
+<translation id="6458065442802745995">Če je to omogočeno, WEB3 DNA Browser shrani kopijo kartice v tej napravi zaradi hitrejšega izpolnjevanja obrazcev.</translation>
 <translation id="2985398929374701810">Vnesite veljaven naslov</translation>
 <translation id="2986368408720340940">Ta način prevzema ni na voljo. Poskusite uporabiti drugega.</translation>
 <translation id="2987034854559945715">Ni ustreznih funkcij</translation>
@@ -802,7 +802,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="3037177537145227281">Spremljanje cene</translation>
 <translation id="3037605927509011580">Ti šment!</translation>
 <translation id="3041612393474885105">Informacije o potrdilu</translation>
-<translation id="305162504811187366">Zgodovina Oddaljenega namizja Chrome, vključno s časovnimi žigi, gostitelji in ID-ji sej odjemalca</translation>
+<translation id="6009592758194948058">Zgodovina Oddaljenega namizja WEB3 DNA Browser, vključno s časovnimi žigi, gostitelji in ID-ji sej odjemalca</translation>
 <translation id="3052964831964880138"><ph name="PRICE_DROP" />-odstotno znižanje cene izdelka <ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Storitev za popravke</translation>
 <translation id="306573536155379004">Igra se je začela.</translation>
@@ -874,7 +874,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite prilagoditi videz brskalnika.</translation>
 <translation id="3240791268468473923">Preglednica za neujemanje poverilnic poverilnice za varno plačilo je odprta</translation>
 <translation id="324180406144491771">Povezave gostitelja »<ph name="HOST_NAME" />« so blokirane</translation>
-<translation id="3248611290851046188">To spletno mesto določa zanimanja, ki jih druga spletna mesta lahko uporabijo pri prikazovanju oglasov. To spletno mesto tudi pridobi vaša zanimanja iz Chroma, da vam prikaže ustreznejše oglase.</translation>
+<translation id="8141792378421105106">To spletno mesto določa zanimanja, ki jih druga spletna mesta lahko uporabijo pri prikazovanju oglasov. To spletno mesto tudi pridobi vaša zanimanja iz Chroma, da vam prikaže ustreznejše oglase.</translation>
 <translation id="3249151924975132674">Študentska posojila in financiranje študija</translation>
 <translation id="3249845759089040423">Razgibano</translation>
 <translation id="3250640885957938546">Oglaševanje in trženje</translation>
@@ -928,7 +928,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="3366477098757335611">Ogled kartic</translation>
 <translation id="3369192424181595722">Napaka ure</translation>
 <translation id="3369459162151165748">Deli in oprema za vozila</translation>
-<translation id="3371064404604898522">Nastavi Chrome kot privzeti brskalnik</translation>
+<translation id="3371064404604898522">Nastavi WEB3 DNA Browser kot privzeti brskalnik</translation>
 <translation id="337363190475750230">Nepripravljen</translation>
 <translation id="3375754925484257129">Zaženi varnostno preverjanje v Chromu</translation>
 <translation id="3377144306166885718">Strežnik je uporabljal zastarelo različico standarda TLS.</translation>
@@ -954,7 +954,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="3423742043356668186">Sistemsko določeno</translation>
 <translation id="3427092606871434483">Dovoli (privzeto)</translation>
 <translation id="3427342743765426898">&amp;Uveljavi urejanje</translation>
-<translation id="342781501876943858">Chromium priporoča, da ponastavite geslo, če ste ga uporabljali tudi na drugih spletnih mestih.</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser priporoča, da ponastavite geslo, če ste ga uporabljali tudi na drugih spletnih mestih.</translation>
 <translation id="3428151540071562330">Eden ali več URI-jev strežniških predlog pravilnika DnsOverHttpsTemplates je neveljaven in ne bo uporabljen.</translation>
 <translation id="3431216045099978607">Pritisnite |<ph name="ACCELERATOR" />| za izhod iz celozaslonskega načina in prikaz prenosa.</translation>
 <translation id="3431636764301398940">Shrani to kartico v tej napravi</translation>
@@ -976,7 +976,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite zapreti vsa trenutno odprta anonimna okna.</translation>
 <translation id="3477679029130949506">Filmski sporedi in sporedi gledaliških predstav</translation>
 <translation id="3479552764303398839">Ne zdaj</translation>
-<translation id="3484560055331845446">Izgubite lahko dostop do Google Računa. Chrome priporoča, da spremenite geslo. Pozvani boste, da se prijavite.</translation>
+<translation id="2148205384604312372">Izgubite lahko dostop do Google Računa. WEB3 DNA Browser priporoča, da spremenite geslo. Pozvani boste, da se prijavite.</translation>
 <translation id="3484861421501147767">Opomnik: Shranjena promocijska koda je na voljo</translation>
 <translation id="3487845404393360112">Pladenj 4</translation>
 <translation id="3495081129428749620">Iskanje na strani
@@ -1011,7 +1011,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="3576616784287504635">Vdelana stran na spletnem mestu <ph name="SITE" /> sporoča:</translation>
 <translation id="3577473026931028326">Prišlo je do napake. Poskusite znova.</translation>
 <translation id="3577902790357386792">Gimnastika</translation>
-<translation id="3581089476000296252">Chrome vas bo obvestil, ko bo ta stran pripravljena. &lt;a&gt;Prekliči&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser vas bo obvestil, ko bo ta stran pripravljena. &lt;a&gt;Prekliči&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Dodajte ime</translation>
 <translation id="3583757800736429874">&amp;Uveljavi premik</translation>
 <translation id="3584299510153766161">Dvojno luknjanje spodaj</translation>
@@ -1037,9 +1037,9 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="3631244953324577188">Biometrika</translation>
 <translation id="3632503704576938756">Deljenje zaslona se nadaljuje</translation>
 <translation id="3632892046558972264">Deljenje zaslona je začasno zaustavljeno</translation>
-<translation id="3633738897356909127">Gumb za posodobitev Chroma, pritisnite Enter, če želite posodobiti Chrome v Chromovih nastavitvah</translation>
+<translation id="3633738897356909127">Gumb za posodobitev Chroma, pritisnite Enter, če želite posodobiti WEB3 DNA Browser v Chromovih nastavitvah</translation>
 <translation id="3634530185120165534">Pladenj 5</translation>
-<translation id="3634567936866541746">Pravkar ste vnesli geslo na zavajajočem spletnem mestu. Chrome zaradi zaščite računov priporoča, da preverite shranjena gesla.</translation>
+<translation id="6586777830476909681">Pravkar ste vnesli geslo na zavajajočem spletnem mestu. WEB3 DNA Browser zaradi zaščite računov priporoča, da preverite shranjena gesla.</translation>
 <translation id="3642638418806704195">Program:</translation>
 <translation id="3647286794400715637">Vsak vnos z nizom URL-jev mora vsebovati od 1 do 2 URL-ja.</translation>
 <translation id="3650584904733503804">Preverjanje veljavnosti uspešno</translation>
@@ -1082,7 +1082,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="3740319564441798148">Medmestni avtobusi in vlaki</translation>
 <translation id="3744111561329211289">Sinhroniziranje v ozadju</translation>
 <translation id="3744286742364977428">Datoteke, ki jih prenesete, so poslane v oblak Google Cloud ali drugim ponudnikom v analizo. Lahko so na primer pregledane glede tega, ali vsebujejo občutljive podatke ali zlonamerno programsko opremo, pri čemer so morda shranjene na podlagi pravilnikov podjetja.</translation>
-<translation id="3744899669254331632">Spletnega mesta <ph name="SITE" /> trenutno ne morete obiskati, ker je poslalo šifrirane poverilnice, ki jih Chromium ne more obdelati. Napake v omrežju in napadi so običajno začasni, zato bo ta stran verjetno delovala pozneje.</translation>
+<translation id="3461179235677384837">Spletnega mesta <ph name="SITE" /> trenutno ne morete obiskati, ker je poslalo šifrirane poverilnice, ki jih WEB3 DNA Browser ne more obdelati. Napake v omrežju in napadi so običajno začasni, zato bo ta stran verjetno delovala pozneje.</translation>
 <translation id="3745099705178523657">Ko potrdite, bodo temu spletnemu mestu razkriti podatki o kartici iz Google Računa.</translation>
 <translation id="3748148204939282805">Napadalci na <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> vas lahko z zavajanjem morda pripravijo do tega, da storite kaj nevarnega – denimo, da namestite programsko opremo ali razkrijete osebne podatke (na primer gesla, telefonske številke ali podatke kreditnih kartic). <ph name="BEGIN_LEARN_MORE_LINK" />Več o tem<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Letalska industrija</translation>
@@ -1253,7 +1253,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4214357935346142455">profil na zaslonu za prijavo</translation>
 <translation id="4220128509585149162">Zrušitve</translation>
 <translation id="422022731706691852">Napadalci na spletnem mestu <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> vas bodo morda poskusili zavesti, da bi namestili programe, ki škodljivo vplivajo na brskanje (na primer tako, da spremenijo vašo domačo stran ali na spletnih mestih, ki jih obiščete, prikazujejo dodatne oglase). <ph name="BEGIN_LEARN_MORE_LINK" />Več o tem<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;1. korak: prijavite se v portal&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;1. korak: prijavite se v portal&lt;/h4&gt;
     &lt;p&gt;V omrežja Wi-Fi na mestih, kot so kavarne ali letališča, se morate prijaviti. Če želite prikazati stran za prijavo, obiščite stran, ki uporablja &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Odprite poljubno spletno mesto, ki se začne s &lt;code&gt;http://&lt;/code&gt;, kot je &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1261,7 +1261,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
     &lt;/ol&gt;
     &lt;h4&gt;2. korak: odprite stran v anonimnem načinu (samo računalnik)&lt;/h4&gt;
     &lt;p&gt;Odprite stran, ki ste jo obiskali, v anonimnem oknu.&lt;/p&gt;
-    &lt;p&gt;Če se stran odpre, imate razširitev za Chrome, ki ne deluje pravilno. Napako odpravite tako, da izklopite razširitev.&lt;/p&gt;
+    &lt;p&gt;Če se stran odpre, imate razširitev za WEB3 DNA Browser, ki ne deluje pravilno. Napako odpravite tako, da izklopite razširitev.&lt;/p&gt;
     &lt;h4&gt;3. korak: posodobite operacijski sistem&lt;/h4&gt;
     &lt;p&gt;Poskrbite, da je naprava posodobljena.&lt;/p&gt;
     &lt;h4&gt;4. korak: začasno izklopite protivirusno programsko opremo&lt;/h4&gt;
@@ -1301,7 +1301,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4305666528087210886">Ni bilo mogoče dostopati do datoteke</translation>
 <translation id="4306529830550717874">Želite shraniti naslov?</translation>
 <translation id="4306812610847412719">odložišče</translation>
-<translation id="4308567447483056043">Ta pravilnik se prezre, ker uporabnik ni povezan. Če želite, da je uporabljen ta pravilnik, mora brskalnik Chrome in profil v Chromu prek skrbniške konzole upravljati ista organizacija.</translation>
+<translation id="3323451588703398074">Ta pravilnik se prezre, ker uporabnik ni povezan. Če želite, da je uporabljen ta pravilnik, mora brskalnik WEB3 DNA Browser in profil v Chromu prek skrbniške konzole upravljati ista organizacija.</translation>
 <translation id="4310070645992025887">Iščite po poteh</translation>
 <translation id="4310496734563057511">Če napravo delite z drugimi, lahko vklopite Windows Hello in potrdite, da ste to res vi, ko uporabite shranjeno geslo.</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1317,8 +1317,8 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4331519897422864041">Zlagalnik 5</translation>
 <translation id="4331708818696583467">Ni varno</translation>
 <translation id="4333561522337981382">Upravljati okna na vseh zaslonih</translation>
-<translation id="4340575312453649552">Ta oglas je uporabljal preveč sredstev za napravo, zato ga je Chrome odstranil.</translation>
-<translation id="4340982228985273705">Ta računalnik ni zaznan kot računalnik, ki ga upravlja podjetje, zato lahko pravilnik samodejno namesti samo razširitve, ki gostujejo v Spletni trgovini Chrome. URL za posodobitve v Spletni trgovini Chrome je »<ph name="CWS_UPDATE_URL" />«.</translation>
+<translation id="3964216933844012257">Ta oglas je uporabljal preveč sredstev za napravo, zato ga je WEB3 DNA Browser odstranil.</translation>
+<translation id="2218799635675752219">Ta računalnik ni zaznan kot računalnik, ki ga upravlja podjetje, zato lahko pravilnik samodejno namesti samo razširitve, ki gostujejo v Spletni trgovini WEB3 DNA Browser. URL za posodobitve v Spletni trgovini WEB3 DNA Browser je »<ph name="CWS_UPDATE_URL" />«.</translation>
 <translation id="4346197816712207223">Sprejete kreditne kartice</translation>
 <translation id="4348834659292907206">Povezava s spletnim mestom <ph name="SITE" /> ni varna</translation>
 <translation id="4349365535725594680">Zaupne vsebine mi mogoče zajeti</translation>
@@ -1329,7 +1329,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4356973930735388585">Napadalci na tem spletnem mestu lahko poskusijo v vašem računalniku namestiti nevarne programe, ki kradejo ali brišejo podatke (na primer fotografije, gesla, sporočila in podatke kreditnih kartic).</translation>
 <translation id="4358059973562876591">Navedenih predlog morda ne bo mogoče uporabiti zaradi napake pravilnika DnsOverHttpsMode.</translation>
 <translation id="4358461427845829800">Upravljanje plačilnih sredstev ...</translation>
-<translation id="4359160567981085931">Pravkar ste vnesli geslo na zavajajočem spletnem mestu. Chrome lahko pomaga. Če želite spremeniti geslo in obvestiti Google, da je vaš račun morda ogrožen, kliknite »Zaščita računa«.</translation>
+<translation id="4550052488331606118">Pravkar ste vnesli geslo na zavajajočem spletnem mestu. WEB3 DNA Browser lahko pomaga. Če želite spremeniti geslo in obvestiti Google, da je vaš račun morda ogrožen, kliknite »Zaščita računa«.</translation>
 <translation id="4363222835916186793">Opozorila za ta izdelek so bila izklopljena.</translation>
 <translation id="437040971055499437">Varnostni dogodek se zgodi</translation>
 <translation id="4372948949327679948">Pričakovana vrednost je vrste <ph name="VALUE_TYPE" />.</translation>
@@ -1346,7 +1346,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4411435778612100394">Zabavna elektronika</translation>
 <translation id="4414515549596849729">piškotki in podatki spletnih mest</translation>
 <translation id="4415426530740016218">Naslov za prevzem</translation>
-<translation id="4424024547088906515">Strežniku ni uspelo dokazati, da je <ph name="DOMAIN" />; Chrome ne zaupa njegovemu varnostnemu potrdilu. Razlog za to je lahko napačna konfiguracija ali napadalčevo prestrezanje povezave.</translation>
+<translation id="7486060888782747880">Strežniku ni uspelo dokazati, da je <ph name="DOMAIN" />; WEB3 DNA Browser ne zaupa njegovemu varnostnemu potrdilu. Razlog za to je lahko napačna konfiguracija ali napadalčevo prestrezanje povezave.</translation>
 <translation id="4428065317363009941">Osebno prilagajanje oglasov</translation>
 <translation id="443121186588148776">Serijska vrata</translation>
 <translation id="4432688616882109544">Spletno mesto <ph name="HOST_NAME" /> ni sprejelo potrdila za prijavo ali pa to ni bilo posredovano.</translation>
@@ -1370,7 +1370,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4489023393592172404">Kuverta Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Šifriranje sinhroniziranih gesel z računom Google</translation>
-<translation id="4492519888999857993">Te funkcije so privzeto onemogočene. Ne bodo na voljo v prihodnjih različicah Chroma.</translation>
+<translation id="5711551727888568041">Te funkcije so privzeto onemogočene. Ne bodo na voljo v prihodnjih različicah Chroma.</translation>
 <translation id="4493480324863638523">Neveljaven URL. Mora biti URL s standardno shemo, kot je http://primer.com ali https://primer.com.</translation>
 <translation id="4500587658229086076">vsebina, ki ni varna</translation>
 <translation id="4506176782989081258">Napaka pri preverjanju veljavnosti: <ph name="VALIDATION_ERROR" /></translation>
@@ -1378,7 +1378,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="450710068430902550">Deljenje s skrbnikom</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite prevesti to stran s Prevajalnikom Google</translation>
 <translation id="4514308731478712184">Izklop Poti</translation>
-<translation id="4515275063822566619">Kartice in naslovi so iz Chroma in Google Računa (<ph name="ACCOUNT_EMAIL" />). Upravljate jih lahko v <ph name="BEGIN_LINK" />nastavitvah<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Kartice in naslovi so iz Chroma in Google Računa (<ph name="ACCOUNT_EMAIL" />). Upravljate jih lahko v <ph name="BEGIN_LINK" />nastavitvah<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">Prenos te datoteke blokira skrbniški pravilnik.</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" />×<ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Kuverta Monarch</translation>
@@ -1394,10 +1394,10 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Poskusite onemogočiti razširitve.</translation>
 <translation id="4566017918361049074">Na prostem</translation>
-<translation id="4567686777917670400">Skrbnik lahko spremeni nastavitev brskalnika na daljavo. Dejavnost v tej napravi morda tudi upravljajo zunaj Chromiuma. <ph name="BEGIN_LINK" />Več o tem<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Skrbnik lahko spremeni nastavitev brskalnika na daljavo. Dejavnost v tej napravi morda tudi upravljajo zunaj Chromiuma. <ph name="BEGIN_LINK" />Več o tem<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Dostava</translation>
 <translation id="4582204425268416675">Odstranitev kartice</translation>
-<translation id="4587425331216688090">Želite odstraniti naslov iz Chroma?</translation>
+<translation id="4549859745110415735">Želite odstraniti naslov iz Chroma?</translation>
 <translation id="459089498662672729">Pravilnik skrbnika ne priporoča lepljenja iz vira <ph name="ORIGIN_NAME" /> na to mesto.</translation>
 <translation id="4592951414987517459">Povezava z domeno <ph name="DOMAIN" /> je šifrirana s sodobno šifrirno zbirko.</translation>
 <translation id="4594403342090139922">&amp;Razveljavi izbris</translation>
@@ -1406,17 +1406,17 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4600084978141515058">Veganska kuhinja</translation>
 <translation id="4602465984861132303">Kegljanje</translation>
 <translation id="4606870351894164739">Izstopajoče</translation>
-<translation id="4607603470419975064">Gumb za ogled nasvetov za Chrome, pritisnite Enter, če želite izvedeti več o funkcijah Chroma</translation>
-<translation id="4607608436550361748">Ogled nasvetov za Chrome</translation>
+<translation id="4607603470419975064">Gumb za ogled nasvetov za WEB3 DNA Browser, pritisnite Enter, če želite izvedeti več o funkcijah Chroma</translation>
+<translation id="4607608436550361748">Ogled nasvetov za WEB3 DNA Browser</translation>
 <translation id="4610279718074907952">To spletno mesto je v skupini, ki jo definiral(-a) <ph name="SET_OWNER" />, ki si lahko ogleda vašo dejavnost.</translation>
 <translation id="4617273035598175554">Programska oprema za grafiko in animacije</translation>
 <translation id="4622292761762557753">Vseeno prenesi</translation>
-<translation id="4627675673814409125">Tega pravilnika ni mogoče nastaviti na ravni profila v Chromu in bo prezrt.</translation>
+<translation id="6607050922769407881">Tega pravilnika ni mogoče nastaviti na ravni profila v Chromu in bo prezrt.</translation>
 <translation id="4628948037717959914">Fotografija</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Vključuje vračilo gotovine</translation>
 <translation id="4636930964841734540">Informacije</translation>
-<translation id="4638670630777875591">Anonimni način v Chromiumu</translation>
+<translation id="9064160697734393810">Anonimni način v Chromiumu</translation>
 <translation id="464342062220857295">Funkcije iskanja</translation>
 <translation id="4644670975240021822">V obratnem vrstnem redu s tiskom na spodnji strani</translation>
 <translation id="4646534391647090355">Odpri zdaj</translation>
@@ -1454,7 +1454,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4731638775147756694">To aplikacijo je blokiral skrbnik</translation>
 <translation id="4733082559415072992"><ph name="URL" /> želi uporabljati lokacijo vaše naprave</translation>
 <translation id="4736491186715342415">Motorna vozila</translation>
-<translation id="4736825316280949806">Znova zaženite Chromium</translation>
+<translation id="1624940062651381269">Znova zaženite WEB3 DNA Browser</translation>
 <translation id="4736934858538408121">Navidezna kartica</translation>
 <translation id="473775607612524610">Posodobi</translation>
 <translation id="4738601419177586157">Predlog za iskanje poizvedbe <ph name="TEXT" /></translation>
@@ -1468,10 +1468,10 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4754461935447132332">Ni dovoljeno za spletna mesta, ki niso varna</translation>
 <translation id="4756388243121344051">&amp;Zgodovina</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Pravkar ste vnesli geslo na zavajajočem spletnem mestu. Chromium zaradi zaščite računov priporoča, da preverite shranjena gesla.</translation>
+
 <translation id="4758311279753947758">Dodaj podatke za stik</translation>
 <translation id="4761104368405085019">Uporabite mikrofon</translation>
-<translation id="4761869838909035636">Zaženi varnostno opravljanje v Chromu</translation>
+<translation id="2178430137592069173">Zaženi varnostno opravljanje v Chromu</translation>
 <translation id="4764776831041365478">Spletna stran na naslovu <ph name="URL" /> morda začasno ne deluje ali pa je trajno premaknjena na novi spletni naslov.</translation>
 <translation id="4766713847338118463">Dvojno spenjanje spodaj</translation>
 <translation id="4771973620359291008">Prišlo je do neznane napake.</translation>
@@ -1544,7 +1544,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4934780484581617878">Upravljanje oken</translation>
 <translation id="4936134414789135531">Vstavljenega elementa <ph name="VALUE_NAME" /> ni bilo mogoče najti.</translation>
 <translation id="4936675324097895694">Finance</translation>
-<translation id="4940163644868678279">Anonimni način v Chromu</translation>
+
 <translation id="4943872375798546930">Ni rezultatov</translation>
 <translation id="4943933359574417591">Besedilno in neposredno sporočanje</translation>
 <translation id="4950898438188848926">Gumb za preklop zavihkov, pritisnite Enter, če želite preklopiti na odprti zavihek, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1567,7 +1567,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="4995216769782533993">Potrdite varnostno kodo, če želite s tem mestom deliti podatke o kartici</translation>
 <translation id="4995474875135717171">Spremenjeno:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite upravljati iskanje po spletnem mestu in privzeti iskalnik</translation>
-<translation id="5002932099480077015">Če je to omogočeno, Chrome shrani kopijo kartice v tej napravi zaradi hitrejšega izpolnjevanja obrazcev.</translation>
+
 <translation id="5011561501798487822">Zaznan jezik</translation>
 <translation id="5015510746216210676">Ime naprave:</translation>
 <translation id="5017554619425969104">Besedilo, ki ste ga kopirali</translation>
@@ -1576,7 +1576,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="5018802455907704660">16 x 20 palcev</translation>
 <translation id="5019198164206649151">Neprimerno stanje rezervne shrambe</translation>
 <translation id="5020776957610079374">Svetovna glasba</translation>
-<translation id="5021557570875267742">Spremljanje cen v Chromu</translation>
+<translation id="4735860266347344416">Spremljanje cen v Chromu</translation>
 <translation id="5023310440958281426">Preverite skrbnikove pravilnike</translation>
 <translation id="5029568752722684782">Počisti kopijo</translation>
 <translation id="5030338702439866405">Izdajatelj</translation>
@@ -1609,7 +1609,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="5087580092889165836">Dodaj kartico</translation>
 <translation id="5088142053160410913">Sporočilo operaterju</translation>
 <translation id="5093232627742069661">Cikcakasto prepogibanje</translation>
-<translation id="5094747076828555589">Strežniku ni uspelo dokazati, da je <ph name="DOMAIN" />; Chromium ne zaupa njegovemu varnostnemu potrdilu. Razlog za to je lahko napačna konfiguracija ali napadalčevo prestrezanje povezave.</translation>
+
 <translation id="5097099694988056070">Statistični podatki naprave, kot je uporaba CPE-ja/RAM-a</translation>
 <translation id="5097468150760963273">27 x 39 palcev</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1643,7 +1643,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="5161506081086828129">Zlagalnik 9</translation>
 <translation id="5164798890604758545">Besedilo je vneseno</translation>
 <translation id="516920405563544094">Vnesite CVC za kreditno kartico <ph name="CREDIT_CARD" />. Ko potrdite, bodo temu spletnemu mestu razkriti podatki o kreditni kartici iz Google Računa.</translation>
-<translation id="5169827969064885044">Izgubite lahko dostop do računa za organizacijo ali postanete žrtev kraje identitete. Chrome priporoča, da spremenite geslo.</translation>
+
 <translation id="5171045022955879922">Poiščite ali vnesite URL</translation>
 <translation id="5172758083709347301">Računalnik</translation>
 <translation id="5177076414499237632">Več o virih in temah na tej strani</translation>
@@ -1655,7 +1655,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="51918995459521422"><ph name="ORIGIN" /> želi prenesti več datotek</translation>
 <translation id="519422657042045905">Pripisi niso na voljo</translation>
 <translation id="5201306358585911203">Vdelana stran na tej spletni strani sporoča:</translation>
-<translation id="5204468114771111727">Chrome je geslo, ki ste ga pravkar uporabili, našel v podatkovni kršitvi. Pomočnik Google lahko geslo spremeni samodejno.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser je geslo, ki ste ga pravkar uporabili, našel v podatkovni kršitvi. Pomočnik Google lahko geslo spremeni samodejno.</translation>
 <translation id="5205222826937269299">Ime je obvezno</translation>
 <translation id="5209518306177824490">SHA-1 Fingerprint</translation>
 <translation id="5209670883520018268">Pladenj 20</translation>
@@ -1694,7 +1694,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="5287456746628258573">To spletno mesto uporablja zastarelo varnostno konfiguracijo, zaradi česar so lahko vaši podatki ob pošiljanju temu spletnemu mestu izpostavljeni (npr. gesla ali številke kreditnih kartic).</translation>
 <translation id="5288108484102287882">Preverjanje vrednosti pravilnika je aktiviralo opozorila</translation>
 <translation id="5288393065350884210">Računovodstvo in revidiranje</translation>
-<translation id="5288808348893593856">Povezava spletnega mesta je varna, razen če Chrome ne sporoči drugače.</translation>
+<translation id="8429736460204202092">Povezava spletnega mesta je varna, razen če WEB3 DNA Browser ne sporoči drugače.</translation>
 <translation id="5289384342738547352">Obravnava več dokumentov</translation>
 <translation id="5293919335876685914">Kupeji</translation>
 <translation id="5296589789433599000">Kuhanje in recepti</translation>
@@ -1713,7 +1713,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="5324080437450482387">Izbira podatkov za stik</translation>
 <translation id="5329858041417644019">Vaš brskalnik ni upravljan</translation>
 <translation id="5332219387342487447">Način pošiljanja</translation>
-<translation id="5333022057423422993">Chrome je geslo, ki ste ga pravkar uporabili, našel v podatkovni kršitvi. Zaradi zavarovanja računov priporočamo, da preverite shranjena gesla.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser je geslo, ki ste ga pravkar uporabili, našel v podatkovni kršitvi. Zaradi zavarovanja računov priporočamo, da preverite shranjena gesla.</translation>
 <translation id="5334013548165032829">Podrobni sistemski dnevniki</translation>
 <translation id="5334145288572353250">Želite shraniti naslov?</translation>
 <translation id="5335920952954443287">Utripajoče srce</translation>
@@ -1739,7 +1739,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="540630185148148480">Vklop obvestil</translation>
 <translation id="540969355065856584">Strežniku ni uspelo dokazati, da je <ph name="DOMAIN" />; njegovo varnostno potrdilo trenutno ni veljavno. Razlog za to je lahko napačna konfiguracija ali napadalčevo prestrezanje povezave.</translation>
 <translation id="5412040515238827314">Neveljavna oblika: Pričakovan je seznam vzorcev.</translation>
-<translation id="5412236728747081950">To spletno mesto pridobi vaša zanimanja iz Chroma, da vam pokaže ustreznejše oglase.</translation>
+<translation id="3825896935771081728">To spletno mesto pridobi vaša zanimanja iz Chroma, da vam pokaže ustreznejše oglase.</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> – <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Zlagalnik 4</translation>
 <translation id="5414511064953050917">Vseeno premakni</translation>
@@ -1792,7 +1792,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="5541546772353173584">Dodajanje e-poštnega naslova</translation>
 <translation id="5545756402275714221">Članki za vas</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="5552137475244467770">Chrome občasno preveri vaša gesla, tako da jih primerja s seznami gesel, objavljenimi v spletu. Pri tem so vaša gesla in uporabniška imena šifrirana, da jih ne more prebrati nihče, vključno z Googlom.</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser občasno preveri vaša gesla, tako da jih primerja s seznami gesel, objavljenimi v spletu. Pri tem so vaša gesla in uporabniška imena šifrirana, da jih ne more prebrati nihče, vključno z Googlom.</translation>
 <translation id="5556459405103347317">Znova naloži</translation>
 <translation id="5560088892362098740">Datum poteka</translation>
 <translation id="55635442646131152">Oris dokumenta</translation>
@@ -1855,7 +1855,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="5720705177508910913">Trenutni uporabnik</translation>
 <translation id="5723287205918986743">Obrambna industrija</translation>
 <translation id="5725567311035061582">Upravljanje piškotkov in podatkov spletnih mest</translation>
-<translation id="5730040223043577876">Chrome priporoča, da ponastavite geslo, če ste ga uporabljali na drugih spletnih mestih.</translation>
+
 <translation id="5736165827969430182">Kovine in rudarstvo</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Shranjevanje kartice v Google Računu}one{Shranjevanje kartic v Google Računu}two{Shranjevanje kartic v Google Računu}few{Shranjevanje kartic v Google Računu}other{Shranjevanje kartic v Google Računu}}</translation>
 <translation id="5738385766833540397">Upravljanje načina prejemanja opozoril o znižanju cen za izdelke, ki jih spremljate.</translation>
@@ -1880,14 +1880,14 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="5784606427469807560">Težava pri potrditvi kartice. Preverite internetno povezavo in poskusite znova.</translation>
 <translation id="5785756445106461925">Poleg tega so na tej strani druga sredstva, ki niso varna. Ta sredstva lahko med prenosom pregledujejo drugi, morebitni napadalec pa jih lahko spremeni, tako da se spremeni videz strani.</translation>
 <translation id="5786044859038896871">Ali želite izpolniti podatke kreditne kartice?</translation>
-<translation id="578633867165174378">Chrome je geslo, ki ste ga pravkar uporabili, našel v podatkovni kršitvi. Priporočamo, da ga takoj spremenite.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser je geslo, ki ste ga pravkar uporabili, našel v podatkovni kršitvi. Priporočamo, da ga takoj spremenite.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Ali želite izpolniti podatke za kartico <ph name="CARD_DETAIL" />?</translation>
 <translation id="5804241973901381774">Dovoljenja</translation>
-<translation id="5808435672482059465">Ogled zgodovine v Chromu</translation>
+<translation id="7552154626705223867">Ogled zgodovine v Chromu</translation>
 <translation id="5808542072418270309">Simulacijske igre</translation>
 <translation id="5810442152076338065">Povezava z domeno <ph name="DOMAIN" /> je šifrirana z zastarelo šifrirno zbirko.</translation>
-<translation id="5812947184178430888">Ko Chrome opozori na varnostne dogodke, se ustrezni podatki glede dogodkov pošljejo skrbniku. To lahko vključuje URL-je strani, ki jih obiščete v Chromu, imena ali metapodatke datotek in uporabniško ime, s katerim se prijavite v spletne aplikacije, napravo in Chrome.</translation>
+<translation id="8479644990349381409">Ko WEB3 DNA Browser opozori na varnostne dogodke, se ustrezni podatki glede dogodkov pošljejo skrbniku. To lahko vključuje URL-je strani, ki jih obiščete v Chromu, imena ali metapodatke datotek in uporabniško ime, s katerim se prijavite v spletne aplikacije, napravo in WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Uveljavi dodajanje</translation>
 <translation id="5813309815819933152">Televizijski resničnostni šovi</translation>
 <translation id="5813753398265398978">Fizika</translation>
@@ -2003,10 +2003,10 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6116338172782435947">ogled besedila in slik, kopiranih v odložišče</translation>
 <translation id="6118782133429281336">Seznam izhodišč je prazen.</translation>
 <translation id="6120179357481664955">Si želite zapomniti ID za UPI?</translation>
-<translation id="6124432979022149706">Priključki za Chrome za podjetja</translation>
+<translation id="7419188267353166461">Priključki za WEB3 DNA Browser za podjetja</translation>
 <translation id="6126565365696310362">Kitajska kuverta št. 2</translation>
 <translation id="6127379762771434464">Element odstranjen</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Preberite več o anonimnem načinu v Chromu<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Pripona datoteke je prazna ali napačno oblikovana.</translation>
 <translation id="6139975341602920272">17 x 22 palcev</translation>
 <translation id="6146055958333702838">Preverite kable in znova zaženite usmerjevalnike, modeme ali druge omrežne 
@@ -2032,7 +2032,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6197648101609735209">89 x 89 mm</translation>
 <translation id="6203231073485539293">Preverite internetno povezavo</translation>
 <translation id="6212314149070368045">US Fanfold</translation>
-<translation id="6218753634732582820">Želite naslov odstraniti iz Chromiuma?</translation>
+
 <translation id="622039917539443112">Vzporedno prepogibanje</translation>
 <translation id="6221345481584921695">Googlova funkcija varnega brskanja je na spletnem mestu <ph name="BEGIN_LINK" /> nedavno <ph name="END_LINK" />zaznala zlonamerno programsko opremo<ph name="SITE" />. Spletna mesta, ki so običajno varna, so včasih okužena z zlonamerno programsko opremo. Zlonamerno vsebino razširja znani distributer zlonamerne programske opreme, <ph name="SUBRESOURCE_HOST" />.</translation>
 <translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite osebno prilagoditi orodja za ljudi s posebnimi potrebami v Chromovih nastavitvah.</translation>
@@ -2052,7 +2052,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6264485186158353794">Nazaj na varno</translation>
 <translation id="6265794661083428563">Kopiranje vrednosti pravilnika <ph name="POLICY_NAME" /></translation>
 <translation id="6266934640124581640">Svetlo zelenomodra</translation>
-<translation id="6272088941196661550">Nadaljujte pot, če si želite ogledati pomembno dejavnost v zgodovini uporabe Chroma.</translation>
+<translation id="1989642600714730446">Nadaljujte pot, če si želite ogledati pomembno dejavnost v zgodovini uporabe Chroma.</translation>
 <translation id="6272383483618007430">Google Posodobitve</translation>
 <translation id="6276112860590028508">Strani z bralnega seznama so prikazane tukaj</translation>
 <translation id="627746635834430766">Če želite naslednjič hitreje plačati, shranite kartico in naslov za izstavitev računa v Google Računu.</translation>
@@ -2066,7 +2066,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Naprava se bo zdaj znova zagnala}=1{Naprava se bo znova zagnala čez 1 sekundo}one{Naprava se bo znova zagnala čez # sekundo}two{Naprava se bo znova zagnala čez # sekundi}few{Naprava se bo znova zagnala čez # sekunde}other{Naprava se bo znova zagnala čez # sekund}}</translation>
 <translation id="6301104306974789820">Prejemanje obvestil o spremljanju cen</translation>
-<translation id="6302269476990306341">Pomočnik Google v Chromu se ustavlja</translation>
+<translation id="6804344251855709483">Pomočnik Google v Chromu se ustavlja</translation>
 <translation id="6305205051461490394">Naslov <ph name="URL" /> je nedosegljiv.</translation>
 <translation id="6311165245110979290">Na voljo je virtualna kartica</translation>
 <translation id="6312113039770857350">Spletna stran ni na voljo</translation>
@@ -2075,7 +2075,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6319249456820053699">Fotoaparati in kamere</translation>
 <translation id="6321917430147971392">Preverite nastavitve za DNS</translation>
 <translation id="6322182122604171028">Funkcije Windows Hello ni bilo mogoče uporabiti</translation>
-<translation id="6326947323444967009">Nastavite Chrome kot privzeti brskalnik sistema v nastavitvah sistema iOS</translation>
+<translation id="6326947323444967009">Nastavite WEB3 DNA Browser kot privzeti brskalnik sistema v nastavitvah sistema iOS</translation>
 <translation id="6328639280570009161">Poskusite onemogočiti omrežno predvidevanje</translation>
 <translation id="6328784461820205019">»Vaša povezava ni zasebna« ali »&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;« ali »&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;« ali »&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;« ali »&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;« ali »Napaka v potrdilu SSL«</translation>
 <translation id="6328786501058569169">To spletno mesto je zavajajoče</translation>
@@ -2086,7 +2086,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6348220984832452017">Aktivne različice</translation>
 <translation id="6349101878882523185">Namestite <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Nič}=1{Eno geslo (za <ph name="DOMAIN_LIST" />, sinhronizirano)}=2{Dve gesli (za <ph name="DOMAIN_LIST" />, sinhronizirano)}one{# geslo (za <ph name="DOMAIN_LIST" />, sinhronizirano)}two{# gesli (za <ph name="DOMAIN_LIST" />, sinhronizirano)}few{# gesla (za <ph name="DOMAIN_LIST" />, sinhronizirano)}other{# gesel (za <ph name="DOMAIN_LIST" />, sinhronizirano)}}</translation>
-<translation id="6355392890578844978">Tega brskalnika ne upravlja podjetje ali druga organizacija. Dejavnost v tej napravi morda upravljajo zunaj Chromiuma. <ph name="BEGIN_LINK" />Več o tem<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Tega brskalnika ne upravlja podjetje ali druga organizacija. Dejavnost v tej napravi morda upravljajo zunaj Chromiuma. <ph name="BEGIN_LINK" />Več o tem<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Več o teh nastavitvah</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Preveriti strežnik proxy, požarni zid in konfiguracijo varnega strežnika DNS<ph name="END_LINK" /></translation>
@@ -2111,7 +2111,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6405181733356710802">Želite nadaljevati v aplikacijo <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Vnesite datum poteka veljavnosti in kodo CVC za kartico <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium vam lahko pomaga zaščititi račun za Google in spremeniti geslo.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser vam lahko pomaga zaščititi račun za Google in spremeniti geslo.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Materialno</translation>
 <translation id="6427730057873428458">Prepogibanje v obliki okna</translation>
@@ -2149,7 +2149,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6502626736864595182">Ponudniki forumov in klepetalnic</translation>
 <translation id="6502991525169604759">Brez vaših sprememb</translation>
 <translation id="6506959208958864820">Kuverta</translation>
-<translation id="6508722015517270189">Znova zaženite Chrome</translation>
+
 <translation id="6513005815064132016">Lahko zahteva spremljanje položaja kamere.</translation>
 <translation id="6517596291481585650">Opozorilo: ta pravilnik ni bil združen kot seznam, kot je določeno v pravilniku, ker ni seznam.</translation>
 <translation id="6518133107902771759">Preveri</translation>
@@ -2170,7 +2170,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="657902945730878902">Risanje in barvanje</translation>
 <translation id="6579630537141957243">Želite povezati napravo MIDI?</translation>
 <translation id="6579990219486187401">Svetlo rožnata</translation>
-<translation id="6587182488465657433">Chrome je geslo, ki ste ga pravkar uporabili, našel v podatkovni kršitvi. Zaradi zavarovanja računov priporočamo, da ga takoj spremenite in nato preverite shranjena gesla.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser je geslo, ki ste ga pravkar uporabili, našel v podatkovni kršitvi. Zaradi zavarovanja računov priporočamo, da ga takoj spremenite in nato preverite shranjena gesla.</translation>
 <translation id="6587893660316489419">Kuverta B5</translation>
 <translation id="6587923378399804057">Povezava, ki ste jo kopirali</translation>
 <translation id="6591833882275308647">Naprava <ph name="DEVICE_TYPE" /> ni upravljana</translation>
@@ -2191,7 +2191,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6645291930348198241">Dostop do piškotkov in podatkov spletnih mest.</translation>
 <translation id="6645478838938543427">Opozorila o znižanju cen bodo poslana na <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Nič}=1{Na 1 spletnem mestu (iz Google Računa ne boste odjavljeni)}one{Na # spletnem mestu (iz Google Računa ne boste odjavljeni)}two{Na # spletnih mestih (iz Google Računa ne boste odjavljeni)}few{Na # spletnih mestih (iz Google Računa ne boste odjavljeni)}other{Na # spletnih mestih (iz Google Računa ne boste odjavljeni)}}</translation>
-<translation id="6648459603387803038">Skrbnik lahko spremeni nastavitev brskalnika na daljavo. Dejavnost v tej napravi morda tudi upravljajo zunaj Chroma.</translation>
+<translation id="6228269625838082008">Skrbnik lahko spremeni nastavitev brskalnika na daljavo. Dejavnost v tej napravi morda tudi upravljajo zunaj Chroma.</translation>
 <translation id="6648524591329069940">Serifna pisava</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
 <translation id="6651270836885078973">Upravitelj:</translation>
@@ -2203,7 +2203,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6663846344464066639">Sklenjene roke</translation>
 <translation id="6665553082534466207">Trojno luknjanje na desni</translation>
 <translation id="6668389483194953109">Najdeno je bilo ime velikosti papirja »custom«, vendar je lastnost »custom_size« prazna ali neveljavna.</translation>
-<translation id="6671697161687535275">Želite predlog obrazca odstraniti iz Chromiuma?</translation>
+<translation id="3922033200710514285">Želite predlog obrazca odstraniti iz Chromiuma?</translation>
 <translation id="6683717648675961851">Prosta delovna mesta</translation>
 <translation id="6685834062052613830">Odjavite se in dokončajte nastavitev</translation>
 <translation id="6687335167692595844">Zahtevana je velikost besedila</translation>
@@ -2211,7 +2211,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6688743156324860098">Posodobi …</translation>
 <translation id="6688775486821967877">Virtualna kartica trenutno ni na voljo. Poskusite znova pozneje.</translation>
 <translation id="6689249931105087298">Relativno s stiskanjem črnih pik</translation>
-<translation id="6689271823431384964">Chrome ponuja shranjevanje kartic v račun za Google, ker ste prijavljeni. To lahko spremenite v nastavitvah. Ime imetnika računa je iz vašega računa.</translation>
+<translation id="6568883612935818921">WEB3 DNA Browser ponuja shranjevanje kartic v račun za Google, ker ste prijavljeni. To lahko spremenite v nastavitvah. Ime imetnika računa je iz vašega računa.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite poiskati napravo v računu Google.</translation>
 <translation id="6696588630955820014">Gumb za deljenje zavihka, pritisnite Enter, če želite ta zavihek deliti z drugimi tako, da delite povezavo, ustvarite kodo QR, ga predvajate oziroma na kak drug način.</translation>
 <translation id="6698381487523150993">Ustvarjeno:</translation>
@@ -2276,7 +2276,7 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="6883221904761970440">Preglednica za preverjanje pristnosti poverilnice za varno plačilo je zaprta</translation>
 <translation id="6884662655240309489">Velikost 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome je prilagodil to stran za lažje branje. Chrome je prenesel izvirno stran prek povezave, ki ni varna.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser je prilagodil to stran za lažje branje. WEB3 DNA Browser je prenesel izvirno stran prek povezave, ki ni varna.</translation>
 <translation id="6890443033788248019">Želite odobriti dostop do lokacije?</translation>
 <translation id="6890531741535756070">Izbrali ste preverjanje <ph name="DEVICE_LABEL" /> na spletnih mestih, ki uporabljajo <ph name="PROVIDER_ORIGIN" />. Ta ponudnik je morda shranil podatke o vašem plačilnem sredstvu, za katere lahko <ph name="BEGIN_LINK" />zahtevate izbris<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Raven pravilnika ni podprta.</translation>
@@ -2364,19 +2364,14 @@ V nasprotnem primeru bodo to blokirale nastavitve zasebnosti. S tem bo vsebina, 
 <translation id="7096937462164235847">Identiteta tega spletnega mesta ni potrjena.</translation>
 <translation id="7101893872976785596">Grozljivke</translation>
 <translation id="7102079138917191645">Gradnja in vzdrževanje</translation>
-<translation id="7102554173784142865">Igranje igre Dino za Chrome</translation>
+<translation id="7102554173784142865">Igranje igre Dino za WEB3 DNA Browser</translation>
 <translation id="7108338896283013870">Skrij</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> želi uporabljati kamero</translation>
 <translation id="7108819624672055576">Omogoča razširitev</translation>
 <translation id="7111012039238467737">(veljavno)</translation>
 <translation id="7118618213916969306">Iskanje URL-ja v odložišču, <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Zaprite druge zavihke ali programe</translation>
-<translation id="7129355289156517987">Ko v Chromiumu zaprete vse anonimne zavihke, se dejavnost na teh zavihkih izbriše iz te naprave:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />dejavnost brskanja;<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />zgodovina iskanja;<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />podatki, vneseni v obrazce.<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Pošiljanje na ta naslov ni mogoče. Izberite drugega.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Blokirano nalaganje</translation>
@@ -2469,7 +2464,7 @@ Dodatne podrobnosti:
 <translation id="7366362069757178916">Rutine za obravnavo plačil</translation>
 <translation id="7372973238305370288">rezultat iskanja</translation>
 <translation id="7374461526650987610">Rutine za obravnavanje protokolov</translation>
-<translation id="7374733840632556089">Do te težave pride zaradi potrdila, ki ste ga vi ali nekdo drug namestili v napravo. To potrdilo se je v preteklosti uporabljalo za prestrezanje in nadzor v omrežjih, zato ga Chrome ne obravnava kot zaupanja vrednega. Čeprav obstajajo nekateri legitimni primeri nadzora, denimo v šolah ali omrežjih v podjetjih, se želi Chrome prepričati, da se nadzora zavedate, tudi če ga ne morete preprečiti. Do nadzora lahko pride v katerem koli brskalniku ali aplikaciji, ki dostopa do spleta.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Dovoljeni niso za nobeno spletno mesto}=1{Dovoljeni so za 1 spletno mesto}one{Dovoljeni so za # spletno mesto}two{Dovoljeni so za # spletni mesti}few{Dovoljeni so za # spletna mesta}other{Dovoljeni so za # spletnih mest}}</translation>
 <translation id="7375818412732305729">Datoteka je priložena</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> – <ph name="FULL_DATE" /></translation>
@@ -2487,7 +2482,7 @@ Dodatne podrobnosti:
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Delite ta zavihek z drugimi tako, da delite povezavo, ustvarite kodo QR, ga predvajate oziroma na kak drug način.</translation>
 <translation id="7403591733719184120">Naprava <ph name="DEVICE_NAME" /> je upravljana</translation>
-<translation id="7407424307057130981">&lt;p&gt;To napako boste videli, če imate v računalniku s sistemom Windows programsko opremo Superfish.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;To napako boste videli, če imate v računalniku s sistemom Windows programsko opremo Superfish.&lt;/p&gt;
       &lt;p&gt;Upoštevajte ta navodila, če želite začasno onemogočiti programsko opremo, da se boste lahko povezali v splet. Potrebujete skrbniške pravice.&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;Kliknite &lt;strong&gt;Start&lt;/strong&gt;, nato poiščite in izberite &lt;strong&gt;»Ogled lokalnih storitev«.&lt;/strong&gt;
@@ -2495,7 +2490,7 @@ Dodatne podrobnosti:
       &lt;li&gt;Pri &lt;strong&gt;Vrsta zagona&lt;/strong&gt; izberite &lt;strong&gt;Onemogočeno&lt;/strong&gt;.
       &lt;li&gt;Pri &lt;strong&gt;Stanje storitve&lt;/strong&gt; kliknite &lt;strong&gt;Ustavi&lt;/strong&gt;.
       &lt;li&gt;Kliknite &lt;strong&gt;Uporabi&lt;/strong&gt; in nato &lt;strong&gt;V redu&lt;/strong&gt;.
-      &lt;li&gt;Obiščite &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;center za pomoč za Chrome&lt;/a&gt; če želite izvedeti, kako programsko opremo trajno odstranite iz računalnika.
+      &lt;li&gt;Obiščite &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;center za pomoč za WEB3 DNA Browser&lt;/a&gt; če želite izvedeti, kako programsko opremo trajno odstranite iz računalnika.
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Ljubko</translation>
 <translation id="741204030948306876">Da, sem za</translation>
@@ -2532,12 +2527,7 @@ Dodatne podrobnosti:
 <translation id="7497998058912824456">Gumb za ustvarjanje dokumenta, pritisnite Enter, če želite hitro ustvariti nov Google Dokument</translation>
 <translation id="7501663406926337752">Vaša organizacija je označila spletno mesto, ki sledi</translation>
 <translation id="7501853161948120656">Izobraževalni viri</translation>
-<translation id="7506488012654002225">Chromium <ph name="BEGIN_EMPHASIS" />ne shrani<ph name="END_EMPHASIS" /> teh podatkov:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />zgodovine brskanja,
-            <ph name="LIST_ITEM" />piškotkov in podatkov spletnih mest,
-            <ph name="LIST_ITEM" />podatkov, vnesenih v obrazce.
-          <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Kuverta št. 9</translation>
 <translation id="7508255263130623398">Vrnjen ID naprave pravilnika je prazen ali se ne ujema s trenutnim ID-jem naprave</translation>
 <translation id="7508870219247277067">Avokadovo zelena</translation>
@@ -2559,7 +2549,7 @@ Dodatne podrobnosti:
 <translation id="7542995811387359312">Samodejno izpolnjevanje podatkov o kreditni kartici je onemogočeno, ker ta obrazec ne uporablja varne povezave.</translation>
 <translation id="7548892272833184391">Odpravljanje napak s povezavo</translation>
 <translation id="7549584377607005141">Za pravilen prikaz te strani so potrebni podatki, ki ste jih vnesli prej. Podatke lahko pošljete še enkrat, vendar se bodo s tem ponovila vsa prejšnja dejanja strani.</translation>
-<translation id="7550637293666041147">Uporabniško ime v napravi in uporabniško ime v Chromu</translation>
+<translation id="4843621636877577887">Uporabniško ime v napravi in uporabniško ime v Chromu</translation>
 <translation id="7551484245293639699">Potovalno zavarovanje</translation>
 <translation id="755279583747225797">Preizkus je aktiven.</translation>
 <translation id="7552846755917812628">Poskusite te nasvete:</translation>
@@ -2567,13 +2557,13 @@ Dodatne podrobnosti:
 <translation id="7554791636758816595">Nov zavihek</translation>
 <translation id="7555777498260651025">Družinske televizijske serije</translation>
 <translation id="7559278538486662777">Velikosti te aplikacije ni mogoče spremeniti.</translation>
-<translation id="7564049878696755256">Izgubite lahko dostop do računa za <ph name="ORG_NAME" /> ali postanete žrtev kraje identitete. Chrome priporoča, da spremenite geslo.</translation>
+<translation id="8940464370390138384">Izgubite lahko dostop do računa za <ph name="ORG_NAME" /> ali postanete žrtev kraje identitete. WEB3 DNA Browser priporoča, da spremenite geslo.</translation>
 <translation id="7564680668369175887">Kombiji</translation>
 <translation id="7567204685887185387">Strežniku ni uspelo dokazati, da je <ph name="DOMAIN" />; njegovo varnostno potrdilo je bilo morda izdano z goljufijo. Razlog za to je lahko napačna konfiguracija ali napadalčevo prestrezanje povezave.</translation>
-<translation id="7568616151991626879">Google Chrome poskuša izpolniti vaše geslo na <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser poskuša izpolniti vaše geslo na <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Gumb za upravljanje iskalnikov, pritisnite Enter, če želite upravljati privzeti iskalnik in iskanje po spletnih mestih.</translation>
-<translation id="7569952961197462199">Želite odstraniti kreditno kartico iz Chroma?</translation>
+<translation id="9202224267417193484">Želite odstraniti kreditno kartico iz Chroma?</translation>
 <translation id="7569983096843329377">Črna</translation>
 <translation id="7575207903026901870">Gumb za odstranitev predloga, pritisnite Enter za odstranitev tega predloga</translation>
 <translation id="7577900504646297215">Upravljanje zanimanj</translation>
@@ -2593,14 +2583,14 @@ Dodatne podrobnosti:
 <translation id="7610193165460212391">Vrednost je zunaj obsega <ph name="VALUE" />.</translation>
 <translation id="7613889955535752492">Veljavnost do: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
 <translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če si želite ogledati in upravljati gesla v Chromovih nastavitvah</translation>
-<translation id="7616645509853975347">Skrbnik je v brskalniku vklopil priključke Chrome Enterprise Connectors. Ti priključki imajo dostop do nekaterih vaših podatkov.</translation>
+<translation id="2698924724374512123">Skrbnik je v brskalniku vklopil priključke WEB3 DNA Browser Enterprise Connectors. Ti priključki imajo dostop do nekaterih vaših podatkov.</translation>
 <translation id="7617825962482469577">Kuverta C7/C6</translation>
 <translation id="7619838219691048931">Končni list</translation>
 <translation id="7625242817712715120">Pravilnik skrbnika ne priporoča tiskanja te vsebine.</translation>
 <translation id="762844065391966283">Posamezno</translation>
 <translation id="7631444403134069754">Mnogoboj</translation>
 <translation id="7633909222644580952">Podatki o delovanju in poročila o zrušitvah</translation>
-<translation id="7637571805876720304">Želite kreditno kartico odstraniti iz Chromiuma?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Nič}=1{1 geslo v računu (za <ph name="DOMAIN_LIST" />)}one{# geslo v računu (za <ph name="DOMAIN_LIST" />)}two{# gesli v računu (za <ph name="DOMAIN_LIST" />)}few{# gesla v računu (za <ph name="DOMAIN_LIST" />)}other{# gesel v računu (za <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Serijska vrata</translation>
 <translation id="7639968568612851608">Temno siva</translation>
@@ -2676,7 +2666,7 @@ Dodatne podrobnosti:
 <translation id="7805571567667010077">Upravlja vaša organizacija</translation>
 <translation id="7805768142964895445">Stanje</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Želite odstraniti predlog obrazca iz Chroma?</translation>
+
 <translation id="781440967107097262">Želite odložišče deliti z drugimi?</translation>
 <translation id="7815407501681723534">Za »<ph name="SEARCH_STRING" />« je bilo najdenih toliko <ph name="SEARCH_RESULTS" />: <ph name="NUMBER_OF_RESULTS" />.</translation>
 <translation id="7822320754433038727">Lov in streljanje</translation>
@@ -2727,7 +2717,7 @@ Dodatne podrobnosti:
 <translation id="7981129096182302364">Plesna in elektronska glasba</translation>
 <translation id="798134797138789862">Lahko zahteva uporabo naprav in podatkov za navidezno resničnost.</translation>
 <translation id="7983008347525536475">Športna terenska vozila</translation>
-<translation id="7984945080620862648">Spletnega mesta <ph name="SITE" /> trenutno ne morete obiskati, saj je poslalo šifrirane poverilnice, ki jih Chrome ne more obdelati. Napake omrežja in napadi na omrežje so običajno začasni, zato bo ta stran verjetno delovala pozneje.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Vezava</translation>
 <translation id="7992044431894087211">Deljenje zaslona z aplikacijo <ph name="APPLICATION_TITLE" /> se nadaljuje.</translation>
@@ -2760,7 +2750,7 @@ Dodatne podrobnosti:
 <translation id="8057711352706143257">Programska oprema »<ph name="SOFTWARE_NAME" />« ni pravilno konfigurirana. Običajno težavo odpravite tako, da odstranite programsko opremo »<ph name="SOFTWARE_NAME" />«. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Pridelava živil</translation>
 <translation id="8066225060526005217">Upravljajo nastavitve piškotkov</translation>
-<translation id="8067872629359326442">Pravkar ste vnesli geslo na zavajajočem spletnem mestu. Chromium lahko pomaga. Če želite spremeniti geslo in obvestiti Google, da je vaš račun morda ogrožen, kliknite »Zaščita računa«.</translation>
+
 <translation id="8070439594494267500">Ikona aplikacije</translation>
 <translation id="8075736640322370409">Hitro ustvarjanje nove Google Preglednice</translation>
 <translation id="8075898834294118863">Upravljanje nastavitev spletnega mesta</translation>
@@ -2801,7 +2791,7 @@ Dodatne podrobnosti:
 <translation id="8157295877370077682">Zapusti spletno mesto</translation>
 <translation id="8163866351304776260">Četverno luknjanje na levi</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Chrome ponuja shranjevanje kartic v račun Google, ker ste prijavljeni. To lahko spremenite v nastavitvah.</translation>
+<translation id="8903986195054043594">WEB3 DNA Browser ponuja shranjevanje kartic v račun Google, ker ste prijavljeni. To lahko spremenite v nastavitvah.</translation>
 <translation id="8176440868214972690">Skrbnik te naprave je poslal nekatere podatke, kot so nastavitve ali pravilniki, na ta spletna mesta.</translation>
 <translation id="8184538546369750125">Uporabi globalno privzeto (Dovoli)</translation>
 <translation id="8186706823560132848">Programska oprema</translation>
@@ -2846,7 +2836,7 @@ Dodatne podrobnosti:
 <translation id="8270242299912238708">Dokumenti PDF</translation>
 <translation id="8275952078857499577">Ne ponudi prevajanja tega spletnega mesta</translation>
 <translation id="8277900682056760511">List rutine za obravnavo plačil je odprt</translation>
-<translation id="8279611986089885641">Obvestila v Chromu morajo biti vklopljena. Vklopite jih lahko tukaj: <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">Obvestila v Chromu morajo biti vklopljena. Vklopite jih lahko tukaj: <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">Pladenj 11</translation>
 <translation id="8281886186245836920">Preskoči</translation>
 <translation id="8282947398454257691">podatke o edinstvenem identifikatorju naprave</translation>
@@ -2920,12 +2910,12 @@ Dodatne podrobnosti:
 <translation id="8473863474539038330">Naslovi in drugo</translation>
 <translation id="8474910779563686872">Pokaži podrobnosti o razvijalcu</translation>
 <translation id="8479754468255770962">Spenjanje spodaj levo</translation>
-<translation id="8483780878231876732">Če želite uporabljati kartice iz Google Računa, se prijavite v Chrome</translation>
+<translation id="8483780878231876732">Če želite uporabljati kartice iz Google Računa, se prijavite v WEB3 DNA Browser</translation>
 <translation id="8488350697529856933">Velja za</translation>
 <translation id="8490137692873530638">Zlagalnik 10</translation>
 <translation id="8493948351860045254">Sprosti prostor</translation>
 <translation id="8498891568109133222">Spletno mesto <ph name="HOST_NAME" /> se ni odzvalo v ustreznem času.</translation>
-<translation id="8503559462189395349">Gesla za Chrome</translation>
+<translation id="1863492395079744896">Gesla za WEB3 DNA Browser</translation>
 <translation id="8503813439785031346">Uporabniško ime</translation>
 <translation id="8507227106804027148">Ukazna vrstica</translation>
 <translation id="8508648098325802031">Ikona za iskanje</translation>
@@ -2933,7 +2923,7 @@ Dodatne podrobnosti:
 <translation id="851353418319061866">Preverjanje natančnosti</translation>
 <translation id="8513580896341796021">Prenos se je začel. Za ogled pritisnite |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">Naprava HID, ki jo je dovolil skrbnik</translation>
-<translation id="8522552481199248698">Chrome vam lahko pomaga zaščititi račun za Google in spremeniti geslo.</translation>
+
 <translation id="8530813470445476232">Počistite zgodovino brskanja, piškotke, predpomnilnik in drugo v nastavitvah v Chromu</translation>
 <translation id="853332391023689529">Poltovorna vozila</translation>
 <translation id="8533619373899488139">Na &lt;strong&gt;chrome://policy&lt;/strong&gt; si lahko ogledate seznam blokiranih URL-jev in drugih pravilnikov, ki jih uveljavlja skrbnik sistema.</translation>
@@ -2950,7 +2940,7 @@ Dodatne podrobnosti:
 <translation id="8557066899867184262">CVC je na zadnji strani kartice.</translation>
 <translation id="8559762987265718583">Zasebne povezave z domeno <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> ni mogoče vzpostaviti, ker sta datum in ura (<ph name="DATE_AND_TIME" />) v napravi nepravilna.</translation>
 <translation id="8564182942834072828">Ločeni dokumenti/nezbrane kopije</translation>
-<translation id="8564985650692024650">Chromium priporoča, da ponastavite geslo za <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />, če ste ga uporabljali tudi na drugih spletnih mestih.</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser priporoča, da ponastavite geslo za <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />, če ste ga uporabljali tudi na drugih spletnih mestih.</translation>
 <translation id="8576310925653847813">Sistemi za domači kino</translation>
 <translation id="8577348305244205642">Virtualna kartica ni na voljo</translation>
 <translation id="858637041960032120">Dodajte tel. št. </translation>
@@ -2982,7 +2972,7 @@ Dodatne podrobnosti:
 <translation id="868922510921656628">Strani na niz</translation>
 <translation id="869891660844655955">Datum izteka</translation>
 <translation id="8699041776323235191">Naprava HID</translation>
-<translation id="8699899385443889493">Gumb za igranje igre Dino za Chrome, pritisnite Enter, če želite igrati igro Dino Run v Chromu.</translation>
+<translation id="8699899385443889493">Gumb za igranje igre Dino za WEB3 DNA Browser, pritisnite Enter, če želite igrati igro Dino Run v Chromu.</translation>
 <translation id="8699985386408839112">Kuverta Kaku 1</translation>
 <translation id="8703575177326907206">Vaša povezava z <ph name="DOMAIN" /> ni kodirana.</translation>
 <translation id="8705331520020532516">Serijska številka</translation>
@@ -3004,7 +2994,7 @@ Dodatne podrobnosti:
 <translation id="8736059027199600831">30 x 40 palcev</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite odpreti novo anonimno okno za zasebno brskanje</translation>
 <translation id="8737685506611670901">Odpiranje povezav za <ph name="PROTOCOL" /> namesto <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Če želite vzpostaviti varno povezavo, mora biti ura pravilno nastavljena. Potrdila, ki jih uporabljajo spletna mesta za prepoznavanje, namreč veljajo samo določen čas. Ker je ura sistema nepravilna, Chromium teh potrdil ne more preveriti.</translation>
+
 <translation id="8740359287975076522">&lt;abbr id="dnsDefinition"&gt;Naslova DNS&lt;/abbr&gt; spletnega mesta <ph name="HOST_NAME" /> ni bilo mogoče najti. Poteka diagnosticiranje težave.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> je vaša koda za <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Dodajanje tega zavihka med zaznamke</translation>
@@ -3023,9 +3013,9 @@ Dodatne podrobnosti:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motorna kolesa</translation>
 <translation id="8790007591277257123">&amp;Uveljavi izbris</translation>
-<translation id="8792621596287649091">Izgubite lahko dostop do računa za <ph name="ORG_NAME" /> ali postanete žrtev kraje identitete. Chromium priporoča, da spremenite geslo.</translation>
+
 <translation id="8792626944327216835">mikrofon</translation>
-<translation id="8793655568873652685">Domena <ph name="ENROLLMENT_DOMAIN" /> je v brskalniku omogočila priključke Chrome Enterprise Connectors. Ti priključki imajo dostop do nekaterih vaših podatkov.</translation>
+<translation id="8238747517405767555">Domena <ph name="ENROLLMENT_DOMAIN" /> je v brskalniku omogočila priključke WEB3 DNA Browser Enterprise Connectors. Ti priključki imajo dostop do nekaterih vaših podatkov.</translation>
 <translation id="8798099450830957504">Privzeto</translation>
 <translation id="8798739476508189189">Iščete zastavice brskalnika? Obiščite</translation>
 <translation id="8805819170075074995">Vnos na seznamu »<ph name="LANGUAGE_ID" />«: vnos je prezrt, ker je vključen tudi v pravilnik SpellcheckLanguage.</translation>
@@ -3033,7 +3023,7 @@ Dodatne podrobnosti:
 <translation id="8807160976559152894">Obrezovanje po vsaki strani</translation>
 <translation id="8813277370772331957">Opomni me pozneje</translation>
 <translation id="8814707942599948500">Kuverta C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite posodobiti Chrome v Chromovih nastavitvah</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite posodobiti WEB3 DNA Browser v Chromovih nastavitvah</translation>
 <translation id="8820817407110198400">Zaznamki</translation>
 <translation id="882338992931677877">Ročni pladenj</translation>
 <translation id="8830320733681313421">Razglednica Hagaki</translation>
@@ -3047,7 +3037,7 @@ Dodatne podrobnosti:
 <translation id="885306012106043620">Tenis</translation>
 <translation id="8855742650226305367">Plesna glasba</translation>
 <translation id="885730110891505394">Deljenje z Googlom</translation>
-<translation id="8858065207712248076">Chrome priporoča, da ponastavite geslo za <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />, če ste ga uporabljali na drugih spletnih mestih.</translation>
+
 <translation id="885906927438988819">Če je črkovanje pravilno, <ph name="BEGIN_LINK" />poskušajte zagnati orodje za omrežno diagnostiko sistema Windows<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Filmska glasba</translation>
 <translation id="8866481888320382733">Napaka pri razčlenjevanju nastavitev pravilnika</translation>
@@ -3135,19 +3125,19 @@ Dodatne podrobnosti:
 <translation id="908796725011587895">Fakultetni športi</translation>
 <translation id="9089260154716455634">Pravilnik za nedejavnost:</translation>
 <translation id="9095388113577226029">Več jezikov …</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato tipko Enter, če želite nastaviti Chrome kot privzeti brskalnik sistema v nastavitvah sistema iOS.</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato tipko Enter, če želite nastaviti WEB3 DNA Browser kot privzeti brskalnik sistema v nastavitvah sistema iOS.</translation>
 <translation id="9096679202588811390">Televizijske oddaje in programi</translation>
 <translation id="9101630580131696064">Pladenj 1</translation>
 <translation id="9102081333385212048">Datoteke, ki jih kopirate ali premaknete, so poslane storitvi Google Cloud ali tretjim osebam v analizo. Lahko jih na primer pregledamo, da bi ugotovili, ali vsebujejo občutljive podatke ali zlonamerno programsko opremo.</translation>
 <translation id="9103537084693478942">Programska oprema za videoposnetke</translation>
-<translation id="9103872766612412690">Spletno mesto <ph name="SITE" /> za zaščito vaših podatkov običajno uporablja šifriranje. Ko se je Chromium tokrat poskusil povezati s spletnim mestom <ph name="SITE" />, je to vrnilo nenavadne in nepravilne poverilnice. Do tega lahko pride, če se napadalec lažno predstavlja za spletno mesto <ph name="SITE" /> ali če je povezavo prekinil zaslon za prijavo v omrežje Wi-Fi. Vaši podatki so še vedno varni, saj je Chromium pred izmenjavo podatkov prekinil povezavo.</translation>
+
 <translation id="9106062320799175032">Dodajanje naslova za izstavitev računa</translation>
 <translation id="9107467864910557787">Vaš brskalnik upravlja domena <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Pravilnik skrbnika onemogoča deljenje zaslona z aplikacijo <ph name="APPLICATION_TITLE" />, če je vidna zaupna vsebina.</translation>
 <translation id="9114524666733003316">Potrjevanje kartice …</translation>
-<translation id="9114581008513152754">Tega brskalnika ne upravlja podjetje ali druga organizacija. Dejavnost v tej napravi morda upravljajo zunaj Chroma. <ph name="BEGIN_LINK" />Več o tem<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Sveže</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite nadaljevati pot in si ogledati pomembno dejavnost v zgodovini uporabe Chroma.</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite tabulatorko, nato Enter, če želite nadaljevati pot in si ogledati pomembno dejavnost v zgodovini uporabe Chroma.</translation>
 <translation id="9119042192571987207">Naloženo</translation>
 <translation id="9122954576417194280">Trgovanje z blagom in terminski posli</translation>
 <translation id="9128016270925453879">Pravilniki so naloženi</translation>
@@ -3162,7 +3152,7 @@ Dodatne podrobnosti:
 <translation id="9148088599418889305">Izbira načina pošiljanja</translation>
 <translation id="9148507642005240123">&amp;Razveljavi urejanje</translation>
 <translation id="9150045010208374699">Uporabite kamero</translation>
-<translation id="9150685862434908345">Skrbnik lahko spremeni nastavitev brskalnika na daljavo. Dejavnost v tej napravi morda tudi upravljajo zunaj Chroma. <ph name="BEGIN_LINK" />Več o tem<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Posodobljeno</translation>
 <translation id="9155211586651734179">Priključena zvočna dodatna oprema</translation>
 <translation id="9157595877708044936">Nastavljanje ...</translation>
@@ -3188,12 +3178,12 @@ Dodatne podrobnosti:
 <translation id="920511547311754821">Ne najdete kode? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Članka ni bilo mogoče dodati.</translation>
 <translation id="9213433120051936369">Prilagajanje videza</translation>
-<translation id="9215416866750762878">Aplikacija Chromu preprečuje vzpostavitev varne povezave s tem mestom</translation>
+<translation id="717994082075351832">Aplikacija Chromu preprečuje vzpostavitev varne povezave s tem mestom</translation>
 <translation id="9219103736887031265">Slike</translation>
-<translation id="922152298093051471">Prilagodi Chrome</translation>
+<translation id="922152298093051471">Prilagodi WEB3 DNA Browser</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">POČISTI OBRAZEC</translation>
-<translation id="936602727769022409">Izgubite lahko dostop do Google Računa. Chromium priporoča, da spremenite geslo. Pozvani boste, da se prijavite.</translation>
+
 <translation id="937457230470581909">Živalski vrti, akvariji in rezervati</translation>
 <translation id="939736085109172342">Nova mapa</translation>
 <translation id="940053046584497293">Turizem in prevoz</translation>

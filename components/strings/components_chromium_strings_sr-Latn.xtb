@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="sr-Latn">
 <translation id="130631256467250065">Promene će stupiti na snagu kada sledeći put ponovo pokrenete uređaj.</translation>
-<translation id="275588974610408078">Izveštavanje o otkazivanjima nije dostupno u Chromium-u.</translation>
-<translation id="3064346599913645280">Gledate bezbednu Chromium stranicu.</translation>
-<translation id="358997566136285270">Chromium logotip</translation>
-<translation id="4365115785552740256">Chromium omogućavaju <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> projekat otvorenog koda i drugi <ph name="BEGIN_LINK_OSS" />softver otvorenog koda<ph name="END_LINK_OSS" />.</translation>
-<translation id="4559775032954821361">Idite u
-          Chromium meni &gt;
+<translation id="4791283969776588221">Izveštavanje o otkazivanjima nije dostupno u WEB3 DNA Browser-u.</translation>
+<translation id="2844608976961792034">Gledate bezbednu WEB3 DNA Browser stranicu.</translation>
+<translation id="1982446651380677046">WEB3 DNA Browser logotip</translation>
+<translation id="4523656775797881494">WEB3 DNA Browser omogućavaju <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> projekat otvorenog koda i drugi <ph name="BEGIN_LINK_OSS" />softver otvorenog koda<ph name="END_LINK_OSS" />.</translation>
+<translation id="4029636627665768575">Idite u
+          WEB3 DNA Browser meni &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,21 +16,21 @@
           &gt;
           LAN Settings (Podešavanja lokalne mreže)
           i opozovite izbor u polju za potvrdu „Use a proxy server for your LAN“ (Koristi proksi server za lokalnu mrežu).</translation>
-<translation id="4622039161600275920">Chromium blokira ovu stranicu</translation>
-<translation id="48558539577516920">Dozvolite Chromium-u da pristupa mreži u zaštitnom zidu ili antivirusnim
+<translation id="7398528135240070983">WEB3 DNA Browser blokira ovu stranicu</translation>
+<translation id="329184862608851407">Dozvolite WEB3 DNA Browser-u da pristupa mreži u zaštitnom zidu ili antivirusnim
           podešavanjima.</translation>
 <translation id="4918837013875648434">Chromium OS nije dovršio početno podešavanje.</translation>
-<translation id="580822234363523061">Idite u
-          Chromium meni &gt;
+<translation id="7951541701556745073">Idite u
+          WEB3 DNA Browser meni &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           i proverite da li je konfiguracija podešena na „no proxy“ (bez proksija) ili „direct“ (direktno).</translation>
-<translation id="6613594504749178791">Promene će stupiti na snagu kada sledeći put ponovo pokrenete Chromium.</translation>
-<translation id="7861509383340276692">Otvorite
-          Chromium meni &gt;
+<translation id="8823298025665339355">Promene će stupiti na snagu kada sledeći put ponovo pokrenete WEB3 DNA Browser.</translation>
+<translation id="5334530291357334686">Otvorite
+          WEB3 DNA Browser meni &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -38,5 +38,5 @@
           Ako vam to ne reši problem, preporučujemo da ponovo izaberete
           ovu opciju radi boljih performansi.</translation>
 <translation id="8187289872471304532">Idite na Applications (Aplikacije) &gt; System Preferences (Podešavanja sistema) &gt; Network (Mreža) &gt; Advanced (Više opcija) &gt; Proxies (Proksiji) i opozovite izbor svih proksija koji su izabrani.</translation>
-<translation id="8684913864886094367">Chromium se nije ispravno zatvorio.</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser se nije ispravno zatvorio.</translation>
 </translationbundle>

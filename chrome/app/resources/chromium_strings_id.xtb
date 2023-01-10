@@ -4,386 +4,386 @@
 <translation id="1026101648481255140">Lanjutkan Penginstalan</translation>
 <translation id="1029669172902658969">Luncurkan kembali untuk mengupdate &amp;ChromiumOS</translation>
 <translation id="1065672644894730302">Preferensi Anda tidak dapat dibaca. Beberapa fitur mungkin tidak tersedia dan perubahan pada preferensi tidak akan disimpan.</translation>
-<translation id="1098170124587656448">Chromium dapat membantu Anda agar tetap aman dari pelanggaran data, ekstensi berbahaya, dan lainnya</translation>
-<translation id="1104942323762546749">Chromium ingin mengekspor sandi. Ketik sandi Windows Anda untuk mengizinkannya.</translation>
-<translation id="113122355610423240">Chromium adalah browser default Anda</translation>
-<translation id="1131805035311359397">Untuk memeriksa apakah sandi Anda aman dari pelanggaran data dan masalah keamanan lainnya, <ph name="BEGIN_LINK" />login ke Chromium<ph name="END_LINK" />.</translation>
-<translation id="1185134272377778587">Tentang Chromium</translation>
+<translation id="4960963727707787489">WEB3 DNA Browser dapat membantu Anda agar tetap aman dari pelanggaran data, ekstensi berbahaya, dan lainnya</translation>
+<translation id="1018420750873862665">WEB3 DNA Browser ingin mengekspor sandi. Ketik sandi Windows Anda untuk mengizinkannya.</translation>
+<translation id="8728335547814212082">WEB3 DNA Browser adalah browser default Anda</translation>
+<translation id="3462550327714525487">Untuk memeriksa apakah sandi Anda aman dari pelanggaran data dan masalah keamanan lainnya, <ph name="BEGIN_LINK" />login ke WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="4464481789599383598">Tentang WEB3 DNA Browser</translation>
 <translation id="1203500561924088507">Terima kasih telah menginstal. Anda harus memulai ulang browser sebelum menggunakan <ph name="BUNDLE_NAME" />.</translation>
-<translation id="1231839967188101156">Jika diaktifkan, Chromium akan membebaskan memori dari tab yang tidak aktif. Tindakan ini akan memberikan lebih banyak resource komputer untuk tab aktif dan aplikasi lainnya, serta menjaga Chromium tetap cepat. Tab yang tidak aktif akan otomatis menjadi aktif lagi saat Anda kembali ke tab tersebut. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
-<translation id="1261119230216066228">Penghemat Memori Membuat Chromium Lebih Cepat</translation>
-<translation id="1315551408014407711">Siapkan profil Chromium baru Anda</translation>
-<translation id="1385859895174722837">Asisten Google di Chromium</translation>
-<translation id="1396446129537741364">Chromium mencoba menampilkan sandi.</translation>
-<translation id="1414495520565016063">Anda sudah masuk ke Chromium!</translation>
-<translation id="1493803763272692301">Anda dapat menikmati manfaat optimal Chromium</translation>
-<translation id="1524282610922162960">Bagikan tab Chromium</translation>
-<translation id="1553461853655228091">Chromium memerlukan izin untuk mengakses kamera guna membuat peta 3D untuk area di sekeliling Anda.</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Administrator mewajibkan Anda meluncurkan kembali Chromium untuk menerapkan update}=1{Administrator mewajibkan Anda meluncurkan kembali Chromium untuk menerapkan update. Jendela Samaran Anda tidak akan dibuka kembali.}other{Administrator mewajibkan Anda meluncurkan kembali Chromium untuk menerapkan update. # jendela Samaran Anda tidak akan dibuka kembali.}}</translation>
-<translation id="1625909126243026060">Meninjau kontrol privasi dan keamanan utama di Chromium</translation>
-<translation id="1632539827495546968">Jika Anda hanya ingin menggunakan akun ini sekali, Anda dapat menggunakan <ph name="GUEST_LINK_BEGIN" />mode Tamu<ph name="GUEST_LINK_END" /> di browser Chromium. Jika Anda ingin menambahkan akun untuk orang lain, <ph name="LINK_BEGIN" />tambahkan pengguna baru<ph name="LINK_END" /> ke <ph name="DEVICE_TYPE" />.
+<translation id="5978964989109500768">Jika diaktifkan, WEB3 DNA Browser akan membebaskan memori dari tab yang tidak aktif. Tindakan ini akan memberikan lebih banyak resource komputer untuk tab aktif dan aplikasi lainnya, serta menjaga WEB3 DNA Browser tetap cepat. Tab yang tidak aktif akan otomatis menjadi aktif lagi saat Anda kembali ke tab tersebut. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
+<translation id="2556820941333974881">Penghemat Memori Membuat WEB3 DNA Browser Lebih Cepat</translation>
+<translation id="8674698533637405550">Siapkan profil WEB3 DNA Browser baru Anda</translation>
+<translation id="5897235607289042281">Asisten Google di WEB3 DNA Browser</translation>
+<translation id="4011302926653396528">WEB3 DNA Browser mencoba menampilkan sandi.</translation>
+<translation id="7808556894409107558">Anda sudah masuk ke WEB3 DNA Browser!</translation>
+<translation id="2448956114941459869">Anda dapat menikmati manfaat optimal WEB3 DNA Browser</translation>
+<translation id="6123758632973468022">Bagikan tab WEB3 DNA Browser</translation>
+<translation id="1232307829393891937">WEB3 DNA Browser memerlukan izin untuk mengakses kamera guna membuat peta 3D untuk area di sekeliling Anda.</translation>
+<translation id="5103307222334991576">{COUNT,plural, =0{Administrator mewajibkan Anda meluncurkan kembali WEB3 DNA Browser untuk menerapkan update}=1{Administrator mewajibkan Anda meluncurkan kembali WEB3 DNA Browser untuk menerapkan update. Jendela Samaran Anda tidak akan dibuka kembali.}other{Administrator mewajibkan Anda meluncurkan kembali WEB3 DNA Browser untuk menerapkan update. # jendela Samaran Anda tidak akan dibuka kembali.}}</translation>
+<translation id="7291131704197390431">Meninjau kontrol privasi dan keamanan utama di WEB3 DNA Browser</translation>
+<translation id="5962221630684419652">Jika Anda hanya ingin menggunakan akun ini sekali, Anda dapat menggunakan <ph name="GUEST_LINK_BEGIN" />mode Tamu<ph name="GUEST_LINK_END" /> di browser WEB3 DNA Browser. Jika Anda ingin menambahkan akun untuk orang lain, <ph name="LINK_BEGIN" />tambahkan pengguna baru<ph name="LINK_END" /> ke <ph name="DEVICE_TYPE" />.
 
 Izin yang telah Anda berikan ke situs dan aplikasi dapat berlaku untuk akun ini. Anda dapat mengelola Akun Google Anda di <ph name="SETTINGS_LINK_BEGIN" />Setelan<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1640672724030957280">Mengunduh...</translation>
-<translation id="1708666629004767631">Tersedia versi Chromium yang baru dan lebih aman.</translation>
-<translation id="17264556997921157">Anda dapat melihat dan menghapus topik terkait minat yang digunakan situs untuk menampilkan iklan kepada Anda. Chromium memperkirakan minat Anda berdasarkan histori penjelajahan terbaru Anda.</translation>
-<translation id="1774152462503052664">Jalankan Chromium di latar belakang</translation>
-<translation id="1779356040007214683">Agar Chromium lebih aman, kami menonaktifkan beberapa ekstensi yang tidak tercantum dalam <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> dan mungkin telah ditambahkan tanpa sepengetahuan Anda.</translation>
-<translation id="1808667845054772817">Instal ulang Chromium</translation>
-<translation id="185970820835152459">Anda dapat mengelola Akun Google yang Anda gunakan untuk login. Akun Google Anda digunakan untuk browser Chromium, Play Store, Gmail, dan lainnya. Jika Anda ingin menambahkan akun untuk orang lain, seperti anggota keluarga, tambahkan pengguna baru ke <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Pelajari lebih lanjut<ph name="LINK_END" /></translation>
-<translation id="1863308913976887472">Situs dapat menyimpan informasi tentang minat Anda ke Chromium. Misalnya, jika Anda mengunjungi suatu situs untuk membeli sepatu maraton, situs tersebut dapat menetapkan minat Anda sebagai lari maraton. Kemudian, jika Anda mengunjungi situs lain untuk mendaftar lomba lari, situs tersebut dapat menampilkan iklan sepatu lari berdasarkan minat Anda.</translation>
-<translation id="1881322772814446296">Anda masuk dengan akun terkelola dan memberikan administratornya kontrol atas profil Chromium Anda. Data Chromium Anda, seperti aplikasi, bookmark, histori, sandi, dan setelan lain selamanya akan dikaitkan ke <ph name="USER_NAME" />. Anda dapat menghapus data ini melalui Dasbor Akun Google, namun Anda tidak akan dapat mengaitkan data ini dengan akun yang lain. Secara opsional, Anda dapat membuat profil untuk menjaga data Chromium Anda yang sudah ada tetap terpisah. <ph name="LEARN_MORE" /></translation>
-<translation id="1911763535808217981">Dengan menonaktifkan ini, Anda dapat login ke situs Google seperti Gmail tanpa harus login ke Chromium</translation>
-<translation id="1929939181775079593">Chromium tidak merespons. Luncurkan ulang sekarang?</translation>
+<translation id="2804101107797787361">Tersedia versi WEB3 DNA Browser yang baru dan lebih aman.</translation>
+<translation id="9029405963934901712">Anda dapat melihat dan menghapus topik terkait minat yang digunakan situs untuk menampilkan iklan kepada Anda. WEB3 DNA Browser memperkirakan minat Anda berdasarkan histori penjelajahan terbaru Anda.</translation>
+<translation id="2051400772676536118">Jalankan WEB3 DNA Browser di latar belakang</translation>
+<translation id="9219442880476358008">Agar WEB3 DNA Browser lebih aman, kami menonaktifkan beberapa ekstensi yang tidak tercantum dalam <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> dan mungkin telah ditambahkan tanpa sepengetahuan Anda.</translation>
+<translation id="2776567154969336836">Instal ulang WEB3 DNA Browser</translation>
+<translation id="4915372523140836376">Anda dapat mengelola Akun Google yang Anda gunakan untuk login. Akun Google Anda digunakan untuk browser WEB3 DNA Browser, Play Store, Gmail, dan lainnya. Jika Anda ingin menambahkan akun untuk orang lain, seperti anggota keluarga, tambahkan pengguna baru ke <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Pelajari lebih lanjut<ph name="LINK_END" /></translation>
+<translation id="4370275707492934729">Situs dapat menyimpan informasi tentang minat Anda ke WEB3 DNA Browser. Misalnya, jika Anda mengunjungi suatu situs untuk membeli sepatu maraton, situs tersebut dapat menetapkan minat Anda sebagai lari maraton. Kemudian, jika Anda mengunjungi situs lain untuk mendaftar lomba lari, situs tersebut dapat menampilkan iklan sepatu lari berdasarkan minat Anda.</translation>
+<translation id="4590088122952951314">Anda masuk dengan akun terkelola dan memberikan administratornya kontrol atas profil WEB3 DNA Browser Anda. Data WEB3 DNA Browser Anda, seperti aplikasi, bookmark, histori, sandi, dan setelan lain selamanya akan dikaitkan ke <ph name="USER_NAME" />. Anda dapat menghapus data ini melalui Dasbor Akun Google, namun Anda tidak akan dapat mengaitkan data ini dengan akun yang lain. Secara opsional, Anda dapat membuat profil untuk menjaga data WEB3 DNA Browser Anda yang sudah ada tetap terpisah. <ph name="LEARN_MORE" /></translation>
+<translation id="1773107071029134155">Dengan menonaktifkan ini, Anda dapat login ke situs Google seperti Gmail tanpa harus login ke WEB3 DNA Browser</translation>
+<translation id="1404683263809963517">WEB3 DNA Browser tidak merespons. Luncurkan ulang sekarang?</translation>
 <translation id="193439633299369377">ChromiumOS harus dimulai ulang untuk menerapkan update.</translation>
-<translation id="1940680973325097484">Jika Anda hanya ingin menggunakan akun ini sekali, Anda dapat menggunakan mode Tamu di browser Chromium. Jika Anda ingin menambahkan akun untuk orang lain, <ph name="LINK_BEGIN" />tambahkan pengguna baru<ph name="LINK_END" /> ke <ph name="DEVICE_TYPE" />.
+<translation id="2844934533235602125">Jika Anda hanya ingin menggunakan akun ini sekali, Anda dapat menggunakan mode Tamu di browser WEB3 DNA Browser. Jika Anda ingin menambahkan akun untuk orang lain, <ph name="LINK_BEGIN" />tambahkan pengguna baru<ph name="LINK_END" /> ke <ph name="DEVICE_TYPE" />.
 
 Izin yang telah Anda berikan ke situs dan aplikasi dapat berlaku untuk akun ini. Anda dapat mengelola Akun Google Anda di <ph name="SETTINGS_LINK_BEGIN" />Setelan<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1953553007165777902">Mendownload... <ph name="MINUTE" /> menit lagi</translation>
-<translation id="1966382378801805537">Chromium tidak dapat menentukan atau menyetel browser default</translation>
-<translation id="2008474315282236005">Tindakan ini akan menghapus 1 item dari perangkat. Untuk mengambil data nanti, login ke Chromium sebagai <ph name="USER_EMAIL" />.</translation>
+<translation id="7100172292317798034">WEB3 DNA Browser tidak dapat menentukan atau menyetel browser default</translation>
+<translation id="7388619658790717510">Tindakan ini akan menghapus 1 item dari perangkat. Untuk mengambil data nanti, login ke WEB3 DNA Browser sebagai <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Gagal menginstal. Coba lagi.</translation>
-<translation id="2020032459870799438">Untuk memeriksa apakah sandi Anda yang lain aman dari pelanggaran data dan masalah keamanan lainnya, <ph name="BEGIN_LINK" />login ke Chromium<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Pilih apakah akan menyertakan histori Chromium untuk mendapatkan pengalaman yang lebih dipersonalisasi di layanan Google</translation>
-<translation id="2088953378266246249">Informasi tentang cara Chromium mengelola root certificate-nya</translation>
-<translation id="2174178932569897599">Sesuaikan Chromium</translation>
+<translation id="8775681507105719302">Untuk memeriksa apakah sandi Anda yang lain aman dari pelanggaran data dan masalah keamanan lainnya, <ph name="BEGIN_LINK" />login ke WEB3 DNA Browser<ph name="END_LINK" />.</translation>
+<translation id="6765354414432698675">Pilih apakah akan menyertakan histori WEB3 DNA Browser untuk mendapatkan pengalaman yang lebih dipersonalisasi di layanan Google</translation>
+<translation id="5773286839920477494">Informasi tentang cara WEB3 DNA Browser mengelola root certificate-nya</translation>
+<translation id="1342703999636762729">Sesuaikan WEB3 DNA Browser</translation>
 <translation id="2174917724755363426">Penginstalan tidak selesai. Yakin ingin membatalkan?</translation>
-<translation id="2185166961232948079">Chromium - Login Jaringan - <ph name="PAGE_TITLE" /></translation>
-<translation id="2241627712206172106">Jika Anda berbagi komputer, teman dan keluarga bisa menjelajah secara terpisah dan menyiapkan Chromium sesuai keinginannya.</translation>
-<translation id="2313870531055795960">Memeriksa kesesuaian URL dengan daftar situs tidak aman yang disimpan di Chromium. Jika situs berusaha mencuri sandi Anda, atau jika Anda mendownload file berbahaya, Chromium mungkin juga mengirim URL, termasuk bit konten halaman, ke Safe Browsing.</translation>
-<translation id="2343156876103232566">Untuk mengirimkan nomor dari sini ke ponsel Android Anda, login ke Chromium di kedua perangkat.</translation>
-<translation id="2347108572062610441">Ekstensi ini telah mengubah apa yang ditampilkan oleh halaman saat Anda memulai Chromium.</translation>
+<translation id="4604256298037443917">WEB3 DNA Browser - Login Jaringan - <ph name="PAGE_TITLE" /></translation>
+<translation id="3692764894142598026">Jika Anda berbagi komputer, teman dan keluarga bisa menjelajah secara terpisah dan menyiapkan WEB3 DNA Browser sesuai keinginannya.</translation>
+<translation id="1653667178840181002">Memeriksa kesesuaian URL dengan daftar situs tidak aman yang disimpan di WEB3 DNA Browser. Jika situs berusaha mencuri sandi Anda, atau jika Anda mendownload file berbahaya, WEB3 DNA Browser mungkin juga mengirim URL, termasuk bit konten halaman, ke Safe Browsing.</translation>
+<translation id="4170954887813547201">Untuk mengirimkan nomor dari sini ke ponsel Android Anda, login ke WEB3 DNA Browser di kedua perangkat.</translation>
+<translation id="7632546848754920458">Ekstensi ini telah mengubah apa yang ditampilkan oleh halaman saat Anda memulai WEB3 DNA Browser.</translation>
 <translation id="2359808026110333948">Lanjutkan</translation>
 <translation id="2384373936468275798">ChromiumOS tidak dapat menyinkronkan data karena detail login akun Anda belum diperbarui.</translation>
-<translation id="2396765026452590966">Ekstensi "<ph name="EXTENSION_NAME" />" telah mengubah apa yang ditampilkan oleh halaman saat Anda memulai Chromium.</translation>
-<translation id="2401032172288869980">Chromium memerlukan izin mikrofon dan kamera untuk situs ini</translation>
-<translation id="2483889755041906834">Di Chromium</translation>
+<translation id="3766979587851503326">Ekstensi "<ph name="EXTENSION_NAME" />" telah mengubah apa yang ditampilkan oleh halaman saat Anda memulai WEB3 DNA Browser.</translation>
+<translation id="3197411627422504716">WEB3 DNA Browser memerlukan izin mikrofon dan kamera untuk situs ini</translation>
+<translation id="6895208784707407784">Di WEB3 DNA Browser</translation>
 <translation id="2485422356828889247">Uninstal</translation>
-<translation id="2560420686485554789">Chromium memerlukan akses penyimpanan untuk mendownload file</translation>
-<translation id="2572494885440352020">Pembantu Chromium</translation>
-<translation id="2583187216237139145">Data Chromium yang dibuat selama penggunaan profil ini (seperti pembuatan bookmark, histori, sandi, dan setelan lain) dapat dihapus oleh administrator profil kerja. <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Terus gunakan Chromium</translation>
-<translation id="2648074677641340862">Terjadi error pada sistem operasi saat pemasangan berlangsung. Download Chromium lagi.</translation>
-<translation id="2661879430930417727">Jika Anda berbagi perangkat, teman dan keluarga dapat menjelajah secara terpisah dan menyiapkan Chromium sesuai keinginannya</translation>
-<translation id="2669853942967761236">Chromium memblokir file arsip ini karena dapat menyembunyikan malware</translation>
-<translation id="268602741124540128">Selamat Datang di Chromium, <ph name="ACCOUNT_FIRST_NAME" /></translation>
-<translation id="2711502716910134313">Tab Chromium</translation>
-<translation id="2718390899429598676">Untuk keamanan tambahan, Chromium akan mengenkripsi data Anda.</translation>
+<translation id="5049950391929594900">WEB3 DNA Browser memerlukan akses penyimpanan untuk mendownload file</translation>
+<translation id="2749516262341915024">Pembantu WEB3 DNA Browser</translation>
+<translation id="2113242903075215938">Data WEB3 DNA Browser yang dibuat selama penggunaan profil ini (seperti pembuatan bookmark, histori, sandi, dan setelan lain) dapat dihapus oleh administrator profil kerja. <ph name="LEARN_MORE" /></translation>
+<translation id="4952960270884842265">Terus gunakan WEB3 DNA Browser</translation>
+<translation id="2731252252225464533">Terjadi error pada sistem operasi saat pemasangan berlangsung. Download WEB3 DNA Browser lagi.</translation>
+<translation id="1821196395946518624">Jika Anda berbagi perangkat, teman dan keluarga dapat menjelajah secara terpisah dan menyiapkan WEB3 DNA Browser sesuai keinginannya</translation>
+<translation id="5872680003660133275">WEB3 DNA Browser memblokir file arsip ini karena dapat menyembunyikan malware</translation>
+<translation id="7648513030043385007">Selamat Datang di WEB3 DNA Browser, <ph name="ACCOUNT_FIRST_NAME" /></translation>
+<translation id="544374351717235856">Tab WEB3 DNA Browser</translation>
+<translation id="5554916945232735698">Untuk keamanan tambahan, WEB3 DNA Browser akan mengenkripsi data Anda.</translation>
 <translation id="2770231113462710648">Ubah browser default ke:</translation>
 <translation id="2799223571221894425">Luncurkan Ulang</translation>
-<translation id="2837693172913560447">Ini akan membuat profil Chromium baru untuk <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="2847479871509788944">Buang dari Chromium...</translation>
-<translation id="2850691299438350830">Memastikan Anda tetap aman di Chromium dan dapat digunakan untuk meningkatkan keamanan Anda di aplikasi Google lainnya saat login</translation>
+<translation id="7343868188703540938">Ini akan membuat profil WEB3 DNA Browser baru untuk <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="4410717336615333062">Buang dari WEB3 DNA Browser...</translation>
+<translation id="4055140529823965372">Memastikan Anda tetap aman di WEB3 DNA Browser dan dapat digunakan untuk meningkatkan keamanan Anda di aplikasi Google lainnya saat login</translation>
 <translation id="2885378588091291677">Pengelola Tugas</translation>
-<translation id="2910007522516064972">Tentang &amp;Chromium</translation>
+<translation id="224853752763613334">Tentang &amp;WEB3 DNA Browser</translation>
 <translation id="2915996080311180594">Mulai Ulang Nanti</translation>
 <translation id="2928420929544864228">Penginstalan selesai.</translation>
-<translation id="2977470724722393594">Chromium sudah diperbarui</translation>
-<translation id="2977506796191543575">Jika situs berusaha mencuri sandi Anda, atau jika Anda mendownload file berbahaya, Chromium mungkin juga mengirimkan URL, termasuk bit konten halaman, ke Safe Browsing</translation>
-<translation id="2983934633046890458">Chromium mencoba mengedit sandi.</translation>
-<translation id="3032706164202344641">Chromium tidak dapat memeriksa sandi Anda. Coba lagi nanti.</translation>
-<translation id="3032787606318309379">Menambahkan Chromium...</translation>
+<translation id="8483611164641766271">WEB3 DNA Browser sudah diperbarui</translation>
+<translation id="2739338544529681223">Jika situs berusaha mencuri sandi Anda, atau jika Anda mendownload file berbahaya, WEB3 DNA Browser mungkin juga mengirimkan URL, termasuk bit konten halaman, ke Safe Browsing</translation>
+<translation id="6709063507223740532">WEB3 DNA Browser mencoba mengedit sandi.</translation>
+<translation id="6416874087185776406">WEB3 DNA Browser tidak dapat memeriksa sandi Anda. Coba lagi nanti.</translation>
+<translation id="7632657090539802919">Menambahkan WEB3 DNA Browser...</translation>
 <translation id="3038232873781883849">Menunggu untuk menginstal...</translation>
-<translation id="3068515742935458733">Bantu Chromium menjadi lebih baik dengan mengirim laporan kerusakan dan <ph name="UMA_LINK" /> ke Google</translation>
-<translation id="3101560983689755071">Histori penjelajahan Anda memengaruhi iklan yang Anda lihat dan minat yang diperkirakan di bawah. Untuk melindungi privasi Anda, Chromium otomatis menghapus minat Anda secara berkala setiap bulan. Minat dapat diperbarui kecuali jika Anda menghapusnya.</translation>
-<translation id="3103660991484857065">Pemasang gagal membatalkan kompresi arsip. Download Chromium lagi.</translation>
-<translation id="3130323860337406239">Chromium menggunakan mikrofon Anda.</translation>
-<translation id="3155163173539279776">Luncurkan ulang Chromium</translation>
-<translation id="3179665906251668410">Buka Link di Jendela Sa&amp;maran Chromium</translation>
-<translation id="3185330573522821672">Sesuaikan profil Chromium baru Anda</translation>
-<translation id="3190315855212034486">Aduh! Chromium ngadat. Luncurkan ulang sekarang?</translation>
-<translation id="3229526316128325841">Chromium ingin mengekspor sandi.</translation>
-<translation id="3258596308407688501">Chromium tidak dapat membaca dan menulis ke direktori datanya:
+<translation id="8517483409722571699">Bantu WEB3 DNA Browser menjadi lebih baik dengan mengirim laporan kerusakan dan <ph name="UMA_LINK" /> ke Google</translation>
+<translation id="4288053573753081242">Histori penjelajahan Anda memengaruhi iklan yang Anda lihat dan minat yang diperkirakan di bawah. Untuk melindungi privasi Anda, WEB3 DNA Browser otomatis menghapus minat Anda secara berkala setiap bulan. Minat dapat diperbarui kecuali jika Anda menghapusnya.</translation>
+<translation id="4786656728645530523">Pemasang gagal membatalkan kompresi arsip. Download WEB3 DNA Browser lagi.</translation>
+<translation id="9049602934378376908">WEB3 DNA Browser menggunakan mikrofon Anda.</translation>
+<translation id="5623271663074009477">Luncurkan ulang WEB3 DNA Browser</translation>
+<translation id="8452871758697304895">Buka Link di Jendela Sa&amp;maran WEB3 DNA Browser</translation>
+<translation id="1129084746726669073">Sesuaikan profil WEB3 DNA Browser baru Anda</translation>
+<translation id="5492613633683347362">Aduh! WEB3 DNA Browser ngadat. Luncurkan ulang sekarang?</translation>
+<translation id="8199824399077877420">WEB3 DNA Browser ingin mengekspor sandi.</translation>
+<translation id="4228792865955409287">WEB3 DNA Browser tidak dapat membaca dan menulis ke direktori datanya:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3283186697780795848">Chromium versi <ph name="PRODUCT_VERSION" /> telah terinstal</translation>
+<translation id="3857433786109736615">WEB3 DNA Browser versi <ph name="PRODUCT_VERSION" /> telah terinstal</translation>
 <translation id="3286538390144397061">Mulai Ulang Sekarang</translation>
-<translation id="328888136576916638">Kunci API Google tidak ada. Beberapa fungsi Chromium tidak akan berfungsi.</translation>
-<translation id="3296368748942286671">Lanjutkan aplikasi yang berjalan di latar belakang jika Chromium ditutup</translation>
-<translation id="3350761136195634146">Profil Chromium dengan akun ini sudah ada</translation>
+<translation id="1496654316150745021">Kunci API Google tidak ada. Beberapa fungsi WEB3 DNA Browser tidak akan berfungsi.</translation>
+<translation id="1658920309978171288">Lanjutkan aplikasi yang berjalan di latar belakang jika WEB3 DNA Browser ditutup</translation>
+<translation id="6099044929456210951">Profil WEB3 DNA Browser dengan akun ini sudah ada</translation>
 <translation id="3387527074123400161">ChromiumOS</translation>
-<translation id="3406848076815591792">Beralih ke profil Chromium yang sudah ada?</translation>
+<translation id="3490516070300665202">Beralih ke profil WEB3 DNA Browser yang sudah ada?</translation>
 <translation id="3412460710772753638">Di Pengelola Sandi di perangkat ini</translation>
-<translation id="3420193029125244288">{COUNT,plural, =1{Administrator telah mengonfigurasi Chromium agar ditutup jika tidak ada aktivitas selama lebih dari 1 menit.}other{Administrator telah mengonfigurasi Chromium agar ditutup jika tidak ada aktivitas selama lebih dari # menit.}}</translation>
-<translation id="3430503420100763906">Dengan profil Chromium, Anda dapat memisahkan semua aktivitas Chromium Anda. Buat profil untuk teman dan keluarga, atau pisahkan antara aktivitas kerja dan hiburan.</translation>
-<translation id="347328004046849135">Chromium akan memberi tahu Anda saat Anda login dengan sandi yang telah dibobol</translation>
-<translation id="3474745554856756813">Tindakan ini akan menghapus <ph name="ITEMS_COUNT" /> item dari perangkat. Untuk mengambil data nanti, login ke Chromium sebagai <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931"><ph name="SHORTCUT" /> dapat membuat berpindah-pindah profil Chromium</translation>
-<translation id="3509308970982693815">Tutup semua jendela Chromium dan coba lagi.</translation>
-<translation id="3518180795744733843">Asisten Google di Chromium dapat menyelesaikan tindakan di seluruh situs untuk Anda</translation>
-<translation id="3533435340678213462">Untuk melindungi privasi Anda, kami otomatis menghapus minat Anda yang tersimpan lebih dari 4 minggu. Saat Anda terus menjelajah, minat dapat kembali muncul di daftar. Atau Anda dapat menghapus minat yang tidak perlu dipertimbangkan oleh Chromium.</translation>
-<translation id="3567254597502212821">Histori penjelajahan Anda, catatan situs yang telah Anda buka menggunakan Chromium di perangkat ini.</translation>
-<translation id="3575459661164320785">Ada software berbahaya di komputer Anda. Chromium dapat menghapusnya, memulihkan setelan Anda, dan menonaktifkan ekstensi agar browser berfungsi kembali secara normal.</translation>
-<translation id="3593091352817399191">Akun lain sudah login. Agar penjelajahan Anda tetap terpisah, Chromium dapat membuat profil tersendiri untuk Anda.</translation>
-<translation id="3639635944603682591">Data browsing pengguna ini akan dihapus dari perangkat ini. Untuk memulihkan data, login ke Chromium sebagai <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Update baru untuk Chromium telah tersedia dan akan diterapkan segera setelah diluncurkan kembali.}=1{Update baru untuk Chromium telah tersedia dan akan diterapkan segera setelah diluncurkan kembali. Jendela Samaran Anda tidak akan dibuka kembali.}other{Update baru untuk Chromium telah tersedia dan akan diterapkan segera setelah diluncurkan kembali. # jendela Samaran Anda tidak akan dibuka kembali.}}</translation>
-<translation id="3651803019964686660">Untuk mengirimkan nomor dari <ph name="ORIGIN" /> ke ponsel Android Anda, login ke Chromium di kedua perangkat.</translation>
-<translation id="3685209450716071127">Chromium tidak dapat memeriksa sandi Anda. Coba periksa koneksi internet Anda.</translation>
-<translation id="3702352323269013324">Pelajari lebih lanjut personalisasi iklan di Chromium</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Administrator meminta Anda meluncurkan kembali Chromium untuk menerapkan update ini}=1{Administrator meminta Anda meluncurkan kembali Chromium untuk menerapkan update ini. Jendela Samaran Anda tidak akan dibuka kembali.}other{Administrator meminta Anda meluncurkan kembali Chromium untuk menerapkan update ini. # jendela Samaran Anda tidak akan dibuka kembali.}}</translation>
-<translation id="3713809861844741608">Buka link di &amp;tab Chromium baru</translation>
-<translation id="3728336900324680424">Chromium akan mengakses Drive Anda untuk membuat saran di kolom URL</translation>
-<translation id="378917192836375108">Chromium memungkinkan Anda mengklik nomor telepon pada web dan menghubunginya melalui Skype!</translation>
+<translation id="3459447433517900945">{COUNT,plural, =1{Administrator telah mengonfigurasi WEB3 DNA Browser agar ditutup jika tidak ada aktivitas selama lebih dari 1 menit.}other{Administrator telah mengonfigurasi WEB3 DNA Browser agar ditutup jika tidak ada aktivitas selama lebih dari # menit.}}</translation>
+<translation id="8670809163194068299">Dengan profil WEB3 DNA Browser, Anda dapat memisahkan semua aktivitas WEB3 DNA Browser Anda. Buat profil untuk teman dan keluarga, atau pisahkan antara aktivitas kerja dan hiburan.</translation>
+<translation id="9066892520177234564">WEB3 DNA Browser akan memberi tahu Anda saat Anda login dengan sandi yang telah dibobol</translation>
+<translation id="2558936839934178842">Tindakan ini akan menghapus <ph name="ITEMS_COUNT" /> item dari perangkat. Untuk mengambil data nanti, login ke WEB3 DNA Browser sebagai <ph name="USER_EMAIL" />.</translation>
+<translation id="3356184603360407459"><ph name="SHORTCUT" /> dapat membuat berpindah-pindah profil WEB3 DNA Browser</translation>
+<translation id="4904006555695224532">Tutup semua jendela WEB3 DNA Browser dan coba lagi.</translation>
+<translation id="1702866421814791137">Asisten Google di WEB3 DNA Browser dapat menyelesaikan tindakan di seluruh situs untuk Anda</translation>
+<translation id="5618636199529337261">Untuk melindungi privasi Anda, kami otomatis menghapus minat Anda yang tersimpan lebih dari 4 minggu. Saat Anda terus menjelajah, minat dapat kembali muncul di daftar. Atau Anda dapat menghapus minat yang tidak perlu dipertimbangkan oleh WEB3 DNA Browser.</translation>
+<translation id="319672769194370808">Histori penjelajahan Anda, catatan situs yang telah Anda buka menggunakan WEB3 DNA Browser di perangkat ini.</translation>
+<translation id="4060507003609322665">Ada software berbahaya di komputer Anda. WEB3 DNA Browser dapat menghapusnya, memulihkan setelan Anda, dan menonaktifkan ekstensi agar browser berfungsi kembali secara normal.</translation>
+<translation id="6858481853319304501">Akun lain sudah login. Agar penjelajahan Anda tetap terpisah, WEB3 DNA Browser dapat membuat profil tersendiri untuk Anda.</translation>
+<translation id="7181053905423306884">Data browsing pengguna ini akan dihapus dari perangkat ini. Untuk memulihkan data, login ke WEB3 DNA Browser sebagai <ph name="USER_EMAIL" />.</translation>
+<translation id="8833453854863974594">{COUNT,plural, =0{Update baru untuk WEB3 DNA Browser telah tersedia dan akan diterapkan segera setelah diluncurkan kembali.}=1{Update baru untuk WEB3 DNA Browser telah tersedia dan akan diterapkan segera setelah diluncurkan kembali. Jendela Samaran Anda tidak akan dibuka kembali.}other{Update baru untuk WEB3 DNA Browser telah tersedia dan akan diterapkan segera setelah diluncurkan kembali. # jendela Samaran Anda tidak akan dibuka kembali.}}</translation>
+<translation id="890421963650512515">Untuk mengirimkan nomor dari <ph name="ORIGIN" /> ke ponsel Android Anda, login ke WEB3 DNA Browser di kedua perangkat.</translation>
+<translation id="8559660999448670332">WEB3 DNA Browser tidak dapat memeriksa sandi Anda. Coba periksa koneksi internet Anda.</translation>
+<translation id="2460459186000985919">Pelajari lebih lanjut personalisasi iklan di WEB3 DNA Browser</translation>
+<translation id="1249507445971540698">{COUNT,plural, =0{Administrator meminta Anda meluncurkan kembali WEB3 DNA Browser untuk menerapkan update ini}=1{Administrator meminta Anda meluncurkan kembali WEB3 DNA Browser untuk menerapkan update ini. Jendela Samaran Anda tidak akan dibuka kembali.}other{Administrator meminta Anda meluncurkan kembali WEB3 DNA Browser untuk menerapkan update ini. # jendela Samaran Anda tidak akan dibuka kembali.}}</translation>
+<translation id="8552541042755991172">Buka link di &amp;tab WEB3 DNA Browser baru</translation>
+<translation id="6916875900143115982">WEB3 DNA Browser akan mengakses Drive Anda untuk membuat saran di kolom URL</translation>
+<translation id="336867116231879142">WEB3 DNA Browser memungkinkan Anda mengklik nomor telepon pada web dan menghubunginya melalui Skype!</translation>
 <translation id="3830894615770080216">Sistem ChromiumOS</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - Chromium</translation>
+<translation id="8864402478426522531"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser</translation>
 <translation id="386822487697155367">Dapatkan bantuan ChromiumOS</translation>
-<translation id="3871664619793219264">Dapatkan data browser Chromium Anda dari <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="388648406173476553">Sesuaikan dan kontrol Chromium. Ada sesuatu yang memerlukan perhatian Anda - klik untuk melihat detailnya.</translation>
-<translation id="3889543394854987837">Klik nama Anda untuk membuka Chromium dan mulai menjelajah.</translation>
-<translation id="390528597099634151"><ph name="EXISTING_USER" /> telah login ke profil Chromium ini. Agar penjelajahan Anda tetap terpisah, Chromium dapat membuat profil tersendiri untuk Anda.</translation>
-<translation id="391789666908693569">Akun Anda dikelola oleh <ph name="MANAGER_NAME" />. Administrator dapat melihat dan mengedit profil browser Chromium ini beserta datanya seperti bookmark, histori, dan sandi.</translation>
-<translation id="3945058413678539331">Chromium mencoba menyalin sandi. Ketik sandi Windows Anda untuk mengizinkannya.</translation>
-<translation id="3962623956404948996">Chromium merekomendasikan pemindaian file ini karena file mungkin berbahaya</translation>
+<translation id="3532820600057985798">Dapatkan data browser WEB3 DNA Browser Anda dari <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="3254774751045951355">Sesuaikan dan kontrol WEB3 DNA Browser. Ada sesuatu yang memerlukan perhatian Anda - klik untuk melihat detailnya.</translation>
+<translation id="5690972056512883402">Klik nama Anda untuk membuka WEB3 DNA Browser dan mulai menjelajah.</translation>
+<translation id="5645023388974281920"><ph name="EXISTING_USER" /> telah login ke profil WEB3 DNA Browser ini. Agar penjelajahan Anda tetap terpisah, WEB3 DNA Browser dapat membuat profil tersendiri untuk Anda.</translation>
+<translation id="8552133641824014764">Akun Anda dikelola oleh <ph name="MANAGER_NAME" />. Administrator dapat melihat dan mengedit profil browser WEB3 DNA Browser ini beserta datanya seperti bookmark, histori, dan sandi.</translation>
+<translation id="1745190996116952155">WEB3 DNA Browser mencoba menyalin sandi. Ketik sandi Windows Anda untuk mengizinkannya.</translation>
+<translation id="2363126436977372294">WEB3 DNA Browser merekomendasikan pemindaian file ini karena file mungkin berbahaya</translation>
 <translation id="3997429360543082038">Tentang ChromiumOS</translation>
 <translation id="4019629340646866719">ChromiumOS terwujud karena adanya <ph name="BEGIN_LINK_CROS_OSS" />software open source<ph name="END_LINK_CROS_OSS" /> tambahan, seperti <ph name="BEGIN_LINK_LINUX_OSS" />lingkungan pengembangan Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="4036079820698952681">Bantu Chromium jadi lebih baik dengan melaporkan <ph name="BEGIN_LINK" />setelan saat ini<ph name="END_LINK" /></translation>
+<translation id="7039332938370903722">Bantu WEB3 DNA Browser jadi lebih baik dengan melaporkan <ph name="BEGIN_LINK" />setelan saat ini<ph name="END_LINK" /></translation>
 <translation id="4050175100176540509">Peningkatan keamanan dan fitur baru yang penting tersedia di versi terbaru.</translation>
 <translation id="4148957013307229264">Memasang...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> - Login Jaringan - Chromium</translation>
-<translation id="421369550622382712">Temukan aplikasi, game, ekstensi, dan tema yang hebat untuk Chromium.</translation>
-<translation id="4216212958613226427">Bahasa ini digunakan untuk menampilkan UI Chromium</translation>
+<translation id="9037768363939314060"><ph name="PAGE_TITLE" /> - Login Jaringan - WEB3 DNA Browser</translation>
+<translation id="65082721690930806">Temukan aplikasi, game, ekstensi, dan tema yang hebat untuk WEB3 DNA Browser.</translation>
+<translation id="8180918330054927789">Bahasa ini digunakan untuk menampilkan UI WEB3 DNA Browser</translation>
 <translation id="4222932583846282852">Membatalkan...</translation>
-<translation id="4230135487732243613">Tautkan data Chromium Anda ke akun ini?</translation>
-<translation id="4271805377592243930">Dapatkan bantuan Chromium</translation>
-<translation id="4285930937574705105">Pemasangan gagal karena kesalahan yang tidak diketahui. Jika Chromium sedang berjalan, tutup, lalu ulang kembali.</translation>
+<translation id="4117615645977273587">Tautkan data WEB3 DNA Browser Anda ke akun ini?</translation>
+<translation id="2562528065031024752">Dapatkan bantuan WEB3 DNA Browser</translation>
+<translation id="4628286205171331451">Pemasangan gagal karena kesalahan yang tidak diketahui. Jika WEB3 DNA Browser sedang berjalan, tutup, lalu ulang kembali.</translation>
 <translation id="4304713468139749426">Pengelola Sandi</translation>
 <translation id="4334294535648607276">Download selesai.</translation>
 <translation id="439358628917130594"><ph name="MANAGER" /> mewajibkan Anda membaca dan menyetujui Persyaratan Layanan berikut sebelum menggunakan perangkat ini. Persyaratan ini tidak memperluas, mengubah, atau membatasi Persyaratan ChromiumOS.</translation>
-<translation id="4407044323746248786">Tetap keluar dari Chromium?</translation>
-<translation id="4415566066719264597">Jalankan Chromium di Background</translation>
-<translation id="4423735387467980091">Menyesuaikan dan mengontrol Chromium</translation>
+<translation id="5363800095683563940">Tetap keluar dari WEB3 DNA Browser?</translation>
+<translation id="4413681411297396618">Jalankan WEB3 DNA Browser di Background</translation>
+<translation id="4960563596527056032">Menyesuaikan dan mengontrol WEB3 DNA Browser</translation>
 <translation id="4427306783828095590">Perlindungan yang ditingkatkan akan memblokir phishing dan malware dengan lebih optimal</translation>
-<translation id="452711251841752011">Selamat datang di Chromium; jendela browser baru terbuka</translation>
-<translation id="4544142686420020088">Chromium tidak dapat diupdate, terjadi error. <ph name="BEGIN_LINK" />Perbaiki masalah update Chrome dan update yang gagal.<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">Lanjutkan di profil Chromium baru?</translation>
+<translation id="5075487038316202932">Selamat datang di WEB3 DNA Browser; jendela browser baru terbuka</translation>
+<translation id="8333408299151688471">WEB3 DNA Browser tidak dapat diupdate, terjadi error. <ph name="BEGIN_LINK" />Perbaiki masalah update WEB3 DNA Browser dan update yang gagal.<ph name="END_LINK" /></translation>
+<translation id="5710517655208362990">Lanjutkan di profil WEB3 DNA Browser baru?</translation>
 <translation id="4567424176335768812">Anda login sebagai <ph name="USER_EMAIL_ADDRESS" />. Kini Anda dapat mengakses bookmark, histori, dan setelan lainnya pada seluruh perangkat yang Anda masuki.</translation>
 <translation id="4594305310729380060">Ke Pengelola Sandi di perangkat ini</translation>
-<translation id="459535195905078186">Aplikasi Chromium</translation>
+<translation id="8700214093481776621">Aplikasi WEB3 DNA Browser</translation>
 <translation id="4613863813562375431">Versi ChromiumOS</translation>
-<translation id="4621240073146040695">Hampir selesai diperbarui! Luncurkan ulang Chromium untuk menyelesaikan pembaruan.</translation>
-<translation id="4665829708273112819">Peringatan: Chromium tidak dapat mencegah ekstensi merekam histori penjelajahan Anda. Untuk menonaktifkan ekstensi ini dalam mode Samaran, batalkan pilihan opsi ini.</translation>
-<translation id="4673151026126227699">Jika Anda juga membagikan laporan penggunaan Chromium, laporan tersebut akan menyertakan URL yang Anda buka</translation>
-<translation id="4677944499843243528">Profil tersebut mungkin digunakan pada proses Chromium lainnya (<ph name="PROCESS_ID" />) pada komputer lain (<ph name="HOST_NAME" />). Chromium telah mengunci profil tersebut agar tidak rusak. Jika yakin tidak ada proses lain yang menggunakan profil tersebut, Anda dapat membuka profil dan meluncurkan Chromium kembali.</translation>
+<translation id="6951246183774166202">Hampir selesai diperbarui! Luncurkan ulang WEB3 DNA Browser untuk menyelesaikan pembaruan.</translation>
+<translation id="1967316171334904609">Peringatan: WEB3 DNA Browser tidak dapat mencegah ekstensi merekam histori penjelajahan Anda. Untuk menonaktifkan ekstensi ini dalam mode Samaran, batalkan pilihan opsi ini.</translation>
+<translation id="6242940079717718930">Jika Anda juga membagikan laporan penggunaan WEB3 DNA Browser, laporan tersebut akan menyertakan URL yang Anda buka</translation>
+<translation id="4405105480942922067">Profil tersebut mungkin digunakan pada proses WEB3 DNA Browser lainnya (<ph name="PROCESS_ID" />) pada komputer lain (<ph name="HOST_NAME" />). WEB3 DNA Browser telah mengunci profil tersebut agar tidak rusak. Jika yakin tidak ada proses lain yang menggunakan profil tersebut, Anda dapat membuka profil dan meluncurkan WEB3 DNA Browser kembali.</translation>
 <translation id="4680828127924988555">Batalkan Penginstalan</translation>
-<translation id="4708774505295300557">Sebelumnya ada seseorang yang masuk ke Chromium di komputer ini sebagai <ph name="ACCOUNT_EMAIL_LAST" />. Buat pengguna Chromium baru agar informasi Anda tetap terpisah.</translation>
-<translation id="4746050847053251315">Tetap tutup Chromium?</translation>
-<translation id="4748217263233248895">Update keamanan khusus untuk Chromium baru saja diterapkan. Mulai ulang Chromium sekarang dan kami akan memulihkan tab Anda.</translation>
-<translation id="4765210420921718862">Anda dapat mengubahnya kapan saja di setelan Chromium. Uji coba berlangsung bersamaan dengan penayangan iklan saat ini, jadi Anda tidak akan langsung melihat perubahan.</translation>
-<translation id="4788777615168560705">Chromium tidak dapat memeriksa sandi Anda. Coba lagi setelah 24 jam atau <ph name="BEGIN_LINK" />periksa sandi di Akun Google Anda<ph name="END_LINK" />.</translation>
+<translation id="3750760070906465924">Sebelumnya ada seseorang yang masuk ke WEB3 DNA Browser di komputer ini sebagai <ph name="ACCOUNT_EMAIL_LAST" />. Buat pengguna WEB3 DNA Browser baru agar informasi Anda tetap terpisah.</translation>
+<translation id="1217313267986183942">Tetap tutup WEB3 DNA Browser?</translation>
+<translation id="4805555266423130696">Update keamanan khusus untuk WEB3 DNA Browser baru saja diterapkan. Mulai ulang WEB3 DNA Browser sekarang dan kami akan memulihkan tab Anda.</translation>
+<translation id="3541589509773411057">Anda dapat mengubahnya kapan saja di setelan WEB3 DNA Browser. Uji coba berlangsung bersamaan dengan penayangan iklan saat ini, jadi Anda tidak akan langsung melihat perubahan.</translation>
+<translation id="2655572098566031184">WEB3 DNA Browser tidak dapat memeriksa sandi Anda. Coba lagi setelah 24 jam atau <ph name="BEGIN_LINK" />periksa sandi di Akun Google Anda<ph name="END_LINK" />.</translation>
 <translation id="479167709087336770">Tindakan ini akan menggunakan pemeriksa ejaan yang sama dengan yang digunakan di penelusuran Google. Teks yang Anda ketikkan di browser dikirim ke Google. Anda dapat mengubah perilaku ini di setelan.</translation>
-<translation id="4888717733111232871">Inbound rule untuk Chromium guna mengizinkan lalu lintas mDNS.</translation>
-<translation id="4893347770495441059">Luncurkan kembali untuk Mengupdate &amp;Chromium</translation>
-<translation id="4943838377383847465">Chromium berjalan di mode latar belakang.</translation>
-<translation id="4987820182225656817">Tamu dapat menggunakan Chromium tanpa meninggalkan apa pun.</translation>
-<translation id="4994636714258228724">Tambahkan diri Anda ke Chromium</translation>
-<translation id="5114678101347489141">Chromium sedang mengembangkan fitur baru yang memungkinkan situs memberikan pengalaman penjelajahan yang sama, tetapi menggunakan lebih sedikit info pribadi Anda</translation>
-<translation id="5224391634244552924">Tidak ada sandi yang tersimpan. Chromium dapat memeriksa sandi Anda jika Anda menyimpannya.</translation>
-<translation id="5252179775517634216"><ph name="EXISTING_USER" /> telah login ke profil Chromium ini. Ini akan membuat profil Chromium baru untuk <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="5277894862589591112">Untuk menerapkan perubahan Anda, luncurkan ulang Chromium</translation>
-<translation id="5296845517486664001">Jika uji coba diaktifkan dan Chromium secara acak menempatkan Anda dalam uji coba aktif, histori penjelajahan Anda akan memengaruhi iklan yang Anda lihat dan minat seperti yang diperkirakan di bawah. Untuk melindungi privasi Anda, Chromium menghapus minat Anda secara berkala setiap bulan.</translation>
-<translation id="5358375970380395591">Anda masuk dengan akun terkelola dan memberikan administratornya kontrol atas profil Chromium Anda. Data Chromium Anda, seperti aplikasi, bookmark, histori, sandi, dan setelan lain selamanya akan dikaitkan ke <ph name="USER_NAME" />. Anda dapat menghapus data ini melalui Dasbor Akun Google, namun Anda tidak akan dapat mengaitkan data ini dengan akun yang lain. <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">Memperbarui Chromium (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Izinkan login Chromium</translation>
-<translation id="5398878173008909840">Tersedia Chromium versi baru.</translation>
-<translation id="5405650547142096840">Hapus dari Chromium</translation>
-<translation id="5421879995290576427">{0,plural, =0{Chromium akan ditutup sekarang.}=1{Chromium akan ditutup dalam 1 detik.}other{Chromium akan ditutup dalam # detik.}}</translation>
-<translation id="5427571867875391349">Setel Chromium sebagai browser default</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> - Chromium Beta</translation>
-<translation id="5473971139929175403">Chromium mungkin tidak berfungsi dengan semestinya karena sudah tidak didukung di distribusi Linux ini</translation>
-<translation id="5480860683791598150">Chromium memerlukan akses ke lokasi Anda untuk berbagi lokasi dengan situs ini</translation>
-<translation id="5487574057737591516">Untuk melindungi privasi Anda, kami otomatis menghapus minat Anda yang tersimpan lebih dari 4 minggu. Saat Anda terus menjelajah, minat dapat kembali muncul di daftar. Dan jika Chromium keliru atau Anda tidak ingin melihat iklan tertentu, Anda dapat menghapus minat.</translation>
-<translation id="549669000822060376">Harap tunggu selagi Chromium memasang pembaruan sistem terkini.</translation>
-<translation id="5496810170689441661">Chromium mencoba mengedit sandi. Ketik sandi Windows Anda untuk mengizinkannya.</translation>
-<translation id="5527463683072221100">Buka PDF di Chromium</translation>
-<translation id="5614091477838198795">Jika aktif, Anda juga akan logout dari Chromium</translation>
-<translation id="5623402015214259806">{0,plural, =0{Update Chromium tersedia}=1{Update Chromium tersedia}other{Update Chromium telah tersedia selama # hari}}</translation>
-<translation id="5634636535844844681">Chromium memerlukan Windows 7 atau lebih tinggi.</translation>
-<translation id="5653831366781983928">Mulai ulang Chromium sekarang</translation>
-<translation id="5698481217667032250">Tampilkan Chromium dalam bahasa ini</translation>
-<translation id="5862307444128926510">Selamat Datang di Chromium</translation>
-<translation id="5883558403894052917">Chromium menemukan bahwa item berikut berisi malware:</translation>
+<translation id="6402416911698425675">Inbound rule untuk WEB3 DNA Browser guna mengizinkan lalu lintas mDNS.</translation>
+<translation id="5496148131599227635">Luncurkan kembali untuk Mengupdate &amp;WEB3 DNA Browser</translation>
+<translation id="3889712706226772861">WEB3 DNA Browser berjalan di mode latar belakang.</translation>
+<translation id="5502939625951695202">Tamu dapat menggunakan WEB3 DNA Browser tanpa meninggalkan apa pun.</translation>
+<translation id="4935574428555172200">Tambahkan diri Anda ke WEB3 DNA Browser</translation>
+<translation id="60503244591890876">WEB3 DNA Browser sedang mengembangkan fitur baru yang memungkinkan situs memberikan pengalaman penjelajahan yang sama, tetapi menggunakan lebih sedikit info pribadi Anda</translation>
+<translation id="282690038359289128">Tidak ada sandi yang tersimpan. WEB3 DNA Browser dapat memeriksa sandi Anda jika Anda menyimpannya.</translation>
+<translation id="3588920839125338516"><ph name="EXISTING_USER" /> telah login ke profil WEB3 DNA Browser ini. Ini akan membuat profil WEB3 DNA Browser baru untuk <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="1712448899328197828">Untuk menerapkan perubahan Anda, luncurkan ulang WEB3 DNA Browser</translation>
+<translation id="5425968257754155673">Jika uji coba diaktifkan dan WEB3 DNA Browser secara acak menempatkan Anda dalam uji coba aktif, histori penjelajahan Anda akan memengaruhi iklan yang Anda lihat dan minat seperti yang diperkirakan di bawah. Untuk melindungi privasi Anda, WEB3 DNA Browser menghapus minat Anda secara berkala setiap bulan.</translation>
+<translation id="4715135477147720071">Anda masuk dengan akun terkelola dan memberikan administratornya kontrol atas profil WEB3 DNA Browser Anda. Data WEB3 DNA Browser Anda, seperti aplikasi, bookmark, histori, sandi, dan setelan lain selamanya akan dikaitkan ke <ph name="USER_NAME" />. Anda dapat menghapus data ini melalui Dasbor Akun Google, namun Anda tidak akan dapat mengaitkan data ini dengan akun yang lain. <ph name="LEARN_MORE" /></translation>
+<translation id="3959775081883542439">Memperbarui WEB3 DNA Browser (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="8468846229743402892">Izinkan login WEB3 DNA Browser</translation>
+<translation id="868709743621506099">Tersedia WEB3 DNA Browser versi baru.</translation>
+<translation id="8954902894032987165">Hapus dari WEB3 DNA Browser</translation>
+<translation id="8529594966625997901">{0,plural, =0{WEB3 DNA Browser akan ditutup sekarang.}=1{WEB3 DNA Browser akan ditutup dalam 1 detik.}other{WEB3 DNA Browser akan ditutup dalam # detik.}}</translation>
+<translation id="2581842036863502750">Setel WEB3 DNA Browser sebagai browser default</translation>
+<translation id="2775837035201231287"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Beta</translation>
+<translation id="3342188394733679831">WEB3 DNA Browser mungkin tidak berfungsi dengan semestinya karena sudah tidak didukung di distribusi Linux ini</translation>
+<translation id="6744035239102820989">WEB3 DNA Browser memerlukan akses ke lokasi Anda untuk berbagi lokasi dengan situs ini</translation>
+<translation id="1336779017674457494">Untuk melindungi privasi Anda, kami otomatis menghapus minat Anda yang tersimpan lebih dari 4 minggu. Saat Anda terus menjelajah, minat dapat kembali muncul di daftar. Dan jika WEB3 DNA Browser keliru atau Anda tidak ingin melihat iklan tertentu, Anda dapat menghapus minat.</translation>
+<translation id="5998903067774658363">Harap tunggu selagi WEB3 DNA Browser memasang pembaruan sistem terkini.</translation>
+<translation id="840929360644660930">WEB3 DNA Browser mencoba mengedit sandi. Ketik sandi Windows Anda untuk mengizinkannya.</translation>
+<translation id="7784374736068182823">Buka PDF di WEB3 DNA Browser</translation>
+<translation id="5825191796443441681">Jika aktif, Anda juga akan logout dari WEB3 DNA Browser</translation>
+<translation id="2714796268816869066">{0,plural, =0{Update WEB3 DNA Browser tersedia}=1{Update WEB3 DNA Browser tersedia}other{Update WEB3 DNA Browser telah tersedia selama # hari}}</translation>
+<translation id="685484431195180374">WEB3 DNA Browser memerlukan Windows 7 atau lebih tinggi.</translation>
+<translation id="8800866953688530873">Mulai ulang WEB3 DNA Browser sekarang</translation>
+<translation id="6138729568957684301">Tampilkan WEB3 DNA Browser dalam bahasa ini</translation>
+<translation id="3263014421647076303">Selamat Datang di WEB3 DNA Browser</translation>
+<translation id="5243775519569499373">WEB3 DNA Browser menemukan bahwa item berikut berisi malware:</translation>
 <translation id="5895138241574237353">Mulai Ulang</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> - Login Jaringan</translation>
 <translation id="5924017743176219022">Menghubungkan ke internet...</translation>
 <translation id="5941711191222866238">Perkecil</translation>
-<translation id="5972142260211327093">Jika Chromium secara acak menempatkan Anda dalam uji coba aktif, histori penjelajahan Anda akan memengaruhi iklan yang Anda lihat dan minat seperti yang diperkirakan di bawah. Untuk melindungi privasi Anda, Chromium menghapus minat Anda secara berkala setiap bulan. Minat akan diperbarui kecuali jika Anda menghapusnya.</translation>
-<translation id="5987687638152509985">Perbarui Chromium untuk memulai sinkronisasi</translation>
-<translation id="5988505247484123880">Situs yang Anda buka biasanya mengingat hal-hal yang Anda minati agar dapat mempersonalisasi pengalaman Anda. Situs juga dapat menyimpan informasi tentang minat Anda ke Chromium.</translation>
+<translation id="3298053682358110562">Jika WEB3 DNA Browser secara acak menempatkan Anda dalam uji coba aktif, histori penjelajahan Anda akan memengaruhi iklan yang Anda lihat dan minat seperti yang diperkirakan di bawah. Untuk melindungi privasi Anda, WEB3 DNA Browser menghapus minat Anda secara berkala setiap bulan. Minat akan diperbarui kecuali jika Anda menghapusnya.</translation>
+<translation id="692313353224514675">Perbarui WEB3 DNA Browser untuk memulai sinkronisasi</translation>
+<translation id="616886729690540411">Situs yang Anda buka biasanya mengingat hal-hal yang Anda minati agar dapat mempersonalisasi pengalaman Anda. Situs juga dapat menyimpan informasi tentang minat Anda ke WEB3 DNA Browser.</translation>
 <translation id="6003112304606738118">Mendownload... <ph name="HOURS" /> jam lagi</translation>
 <translation id="6040143037577758943">Tutup</translation>
-<translation id="6055895534982063517">Tersedia Chromium versi baru, dan versi ini lebih cepat dari sebelumnya.</translation>
-<translation id="6063093106622310249">&amp;Buka di Chromium</translation>
-<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> telah ditambahkan ke Chromium</translation>
-<translation id="6072463441809498330">Buat Chromium Lebih Cepat</translation>
+<translation id="6530764363503202587">Tersedia WEB3 DNA Browser versi baru, dan versi ini lebih cepat dari sebelumnya.</translation>
+<translation id="9118683902399158578">&amp;Buka di WEB3 DNA Browser</translation>
+<translation id="6636913786172654081"><ph name="EXTENSION_NAME" /> telah ditambahkan ke WEB3 DNA Browser</translation>
+<translation id="8335626147292265662">Buat WEB3 DNA Browser Lebih Cepat</translation>
 <translation id="608006075545470555">Tambahkan Profil Kerja ke browser ini</translation>
-<translation id="6096348254544841612">Sesuaikan dan kontrol Chromium. Update tersedia.</translation>
-<translation id="6119438414301547735">Izinkan ekstensi menampilkan permintaan akses di toolbar Chromium</translation>
-<translation id="6120345080069858279">Chromium akan menyimpan sandi ini di Akun Google. Anda tidak perlu mengingatnya.</translation>
-<translation id="6129621093834146363"><ph name="FILE_NAME" /> berbahaya, sehingga Chromium memblokirnya.</translation>
-<translation id="6134968993075716475">Safe Browsing nonaktif. Chromium merekomendasikan untuk mengaktifkannya.</translation>
-<translation id="6145820983052037069">Anda dapat berpindah-pindah profil Chromium di sini</translation>
-<translation id="6183079672144801177">Pastikan Anda login ke Chromium di <ph name="TARGET_DEVICE_NAME" /> Anda, lalu coba kirimkan lagi.</translation>
-<translation id="6212496753309875659">Komputer ini sudah memiliki versi Chromium yang lebih baru. Jika software tidak bekerja, harap coba uninstal Chromium, lalu cobalah kembali.</translation>
-<translation id="6219195342503754812">{0,plural, =0{Chromium akan diluncurkan ulang sekarang}=1{Chromium akan diluncurkan ulang dalam 1 detik}other{Chromium akan diluncurkan ulang dalam # detik}}</translation>
-<translation id="6241367896540709610">Chromium memerlukan izin akses penyimpanan untuk mendownload file</translation>
-<translation id="6245734527075554892">Memeriksa kesesuaian URL dengan daftar situs tidak aman yang disimpan di Chromium</translation>
-<translation id="6248213926982192922">Jadikan Chromium browser default</translation>
-<translation id="6266342355635466082">Chromium tidak dapat memeriksa update. Coba periksa koneksi internet Anda.</translation>
-<translation id="6268381023930128611">Keluar dari Chromium?</translation>
+<translation id="584202866735675117">Sesuaikan dan kontrol WEB3 DNA Browser. Update tersedia.</translation>
+<translation id="7117732708950464239">Izinkan ekstensi menampilkan permintaan akses di toolbar WEB3 DNA Browser</translation>
+<translation id="5619841049631523040">WEB3 DNA Browser akan menyimpan sandi ini di Akun Google. Anda tidak perlu mengingatnya.</translation>
+<translation id="6208909969393126843"><ph name="FILE_NAME" /> berbahaya, sehingga WEB3 DNA Browser memblokirnya.</translation>
+<translation id="3631145753627335779">Safe Browsing nonaktif. WEB3 DNA Browser merekomendasikan untuk mengaktifkannya.</translation>
+<translation id="5305820434154384954">Anda dapat berpindah-pindah profil WEB3 DNA Browser di sini</translation>
+<translation id="3213257950272370797">Pastikan Anda login ke WEB3 DNA Browser di <ph name="TARGET_DEVICE_NAME" /> Anda, lalu coba kirimkan lagi.</translation>
+<translation id="4829390996077196027">Komputer ini sudah memiliki versi WEB3 DNA Browser yang lebih baru. Jika software tidak bekerja, harap coba uninstal WEB3 DNA Browser, lalu cobalah kembali.</translation>
+<translation id="1584253311175653367">{0,plural, =0{WEB3 DNA Browser akan diluncurkan ulang sekarang}=1{WEB3 DNA Browser akan diluncurkan ulang dalam 1 detik}other{WEB3 DNA Browser akan diluncurkan ulang dalam # detik}}</translation>
+<translation id="2125787073718346702">WEB3 DNA Browser memerlukan izin akses penyimpanan untuk mendownload file</translation>
+<translation id="7121868166864824169">Memeriksa kesesuaian URL dengan daftar situs tidak aman yang disimpan di WEB3 DNA Browser</translation>
+<translation id="4611945660893475598">Jadikan WEB3 DNA Browser browser default</translation>
+<translation id="5093746667503154407">WEB3 DNA Browser tidak dapat memeriksa update. Coba periksa koneksi internet Anda.</translation>
+<translation id="3169777041995452544">Keluar dari WEB3 DNA Browser?</translation>
 <translation id="6273793429163604305">Bersiap-siap...</translation>
-<translation id="6281746429495226318">Sesuaikan profil Chromium Anda</translation>
-<translation id="6290827346642914212">Beri nama profil Chromium Anda</translation>
-<translation id="6295779123002464101"><ph name="FILE_NAME" /> mungkin berbahaya, sehingga Chromium memblokirnya.</translation>
-<translation id="6309712487085796862">Chromium menggunakan kamera Anda.</translation>
-<translation id="632355235628111698">Chromium memblokir file ini karena berbahaya</translation>
+<translation id="6865466134977675861">Sesuaikan profil WEB3 DNA Browser Anda</translation>
+<translation id="3066241024811585202">Beri nama profil WEB3 DNA Browser Anda</translation>
+<translation id="4551717314122756729"><ph name="FILE_NAME" /> mungkin berbahaya, sehingga WEB3 DNA Browser memblokirnya.</translation>
+<translation id="3046912207030099554">WEB3 DNA Browser menggunakan kamera Anda.</translation>
+<translation id="6384166038402983055">WEB3 DNA Browser memblokir file ini karena berbahaya</translation>
 <translation id="6327105987658262776">Tidak ada update yang tersedia.</translation>
-<translation id="6333502561965082103">Operasi lain di Chromium sedang berlangsung. Coba lagi nanti.</translation>
-<translation id="6334986366598267305">Kini, menggunakan Chromium dengan Akun Google Anda dan di komputer bersama jadi lebih mudah.</translation>
-<translation id="6373523479360886564">Anda yakin ingin meng-uninstal Chromium?</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Cara kami menggunakan data ini:<ph name="END_BOLD" /> Chromium dapat memperkirakan minat Anda. Kemudian, situs yang Anda buka dapat meminta Chromium untuk melihat minat Anda agar dapat mempersonalisasi iklan yang Anda lihat.</translation>
-<translation id="6403826409255603130">Chromium adalah browser web yang menjalankan halaman web dan aplikasi dengan kecepatan kilat. Browser ini cepat, stabil, dan mudah digunakan. Jelajahi web lebih aman dengan perlindungan dari software perusak dan phishing yang tertanam di dalam Chromium.</translation>
+<translation id="1452531430459107501">Operasi lain di WEB3 DNA Browser sedang berlangsung. Coba lagi nanti.</translation>
+<translation id="5949643712250952992">Kini, menggunakan WEB3 DNA Browser dengan Akun Google Anda dan di komputer bersama jadi lebih mudah.</translation>
+<translation id="3428207813941614733">Anda yakin ingin meng-uninstal WEB3 DNA Browser?</translation>
+<translation id="8367277764281804913"><ph name="BEGIN_BOLD" />Cara kami menggunakan data ini:<ph name="END_BOLD" /> WEB3 DNA Browser dapat memperkirakan minat Anda. Kemudian, situs yang Anda buka dapat meminta WEB3 DNA Browser untuk melihat minat Anda agar dapat mempersonalisasi iklan yang Anda lihat.</translation>
+<translation id="3646769559663834227">WEB3 DNA Browser adalah browser web yang menjalankan halaman web dan aplikasi dengan kecepatan kilat. Browser ini cepat, stabil, dan mudah digunakan. Jelajahi web lebih aman dengan perlindungan dari software perusak dan phishing yang tertanam di dalam WEB3 DNA Browser.</translation>
 <translation id="6442900851116057561">Mulai ulang ChromiumOS</translation>
-<translation id="6455857529632101747">Selamat datang di profil Chromium</translation>
-<translation id="6457450909262716557">{SECONDS,plural, =1{Chromium akan dimulai ulang dalam 1 detik}other{Chromium akan dimulai ulang dalam # detik}}</translation>
-<translation id="6475912303565314141">Juga mengontrol halaman apa yang ditampilkan saat Anda memulai Chromium.</translation>
-<translation id="6510925080656968729">Uninstal Chromium</translation>
-<translation id="6542839706527980775">Setiap profil memiliki info Chromium tersendiri, seperti bookmark, histori, sandi, dan lainnya</translation>
-<translation id="6570579332384693436">Untuk memperbaiki kesalahan ejaan, Chromium mengirimkan teks yang Anda ketik di kolom teks ke Google</translation>
-<translation id="6598877126913850652">Buka setelan notifikasi Chromium</translation>
-<translation id="6613594504749178791">Perubahan Anda akan berlaku saat berikutnya Anda membuka Chromium.</translation>
-<translation id="665732753414869868">Chromium memerlukan izin kamera untuk membuat peta 3D area sekitar Anda</translation>
+<translation id="4806322893637813344">Selamat datang di profil WEB3 DNA Browser</translation>
+<translation id="3150453102283643478">{SECONDS,plural, =1{WEB3 DNA Browser akan dimulai ulang dalam 1 detik}other{WEB3 DNA Browser akan dimulai ulang dalam # detik}}</translation>
+<translation id="6475912303565314141">Juga mengontrol halaman apa yang ditampilkan saat Anda memulai WEB3 DNA Browser.</translation>
+<translation id="1113676425111919541">Uninstal WEB3 DNA Browser</translation>
+<translation id="4127557045835948655">Setiap profil memiliki info WEB3 DNA Browser tersendiri, seperti bookmark, histori, sandi, dan lainnya</translation>
+<translation id="82412484113149506">Untuk memperbaiki kesalahan ejaan, WEB3 DNA Browser mengirimkan teks yang Anda ketik di kolom teks ke Google</translation>
+<translation id="1041508100495026545">Buka setelan notifikasi WEB3 DNA Browser</translation>
+<translation id="8823298025665339355">Perubahan Anda akan berlaku saat berikutnya Anda membuka WEB3 DNA Browser.</translation>
+<translation id="2513279141152484388">WEB3 DNA Browser memerlukan izin kamera untuk membuat peta 3D area sekitar Anda</translation>
 <translation id="6676384891291319759">Akses Internet</translation>
 <translation id="668175097507315160">ChromiumOS tidak dapat menyinkronkan data Anda karena terjadi error saat login.</translation>
-<translation id="6709350901466051922">Chromium memerlukan izin mikrofon untuk situs ini</translation>
-<translation id="6717134281241384636">Profil Anda tidak dapat digunakan karena berasal dari Chromium versi yang lebih baru.
+<translation id="3485439540953416536">WEB3 DNA Browser memerlukan izin mikrofon untuk situs ini</translation>
+<translation id="3898949707616141056">Profil Anda tidak dapat digunakan karena berasal dari WEB3 DNA Browser versi yang lebih baru.
 
-Sebagian fitur mungkin tidak tersedia. Tentukan direktori profil yang berbeda atau gunakan versi Chromium yang lebih baru.</translation>
-<translation id="6730677189742196061">Penghemat Memori membuat Chromium lebih cepat</translation>
-<translation id="6734291798041940871">Chromium sudah terpasang untuk semua pengguna di komputer Anda.</translation>
-<translation id="673636774878526923">Untuk mengakses aktivitas Chromium di semua perangkat, login lalu aktifkan sinkronisasi.</translation>
-<translation id="6774082503108938489">Orang tuamu telah menonaktifkan "Izin untuk situs, aplikasi, dan ekstensi" untuk Chromium. Tindakan mengaktifkan <ph name="EXTENSION_TYPE_PARAMETER" /> ini tidak diizinkan.</translation>
+Sebagian fitur mungkin tidak tersedia. Tentukan direktori profil yang berbeda atau gunakan versi WEB3 DNA Browser yang lebih baru.</translation>
+<translation id="2841305420532702376">Penghemat Memori membuat WEB3 DNA Browser lebih cepat</translation>
+<translation id="4553621150701650138">WEB3 DNA Browser sudah terpasang untuk semua pengguna di komputer Anda.</translation>
+<translation id="3957858324423880626">Untuk mengakses aktivitas WEB3 DNA Browser di semua perangkat, login lalu aktifkan sinkronisasi.</translation>
+<translation id="1489635928648141251">Orang tuamu telah menonaktifkan "Izin untuk situs, aplikasi, dan ekstensi" untuk WEB3 DNA Browser. Tindakan mengaktifkan <ph name="EXTENSION_TYPE_PARAMETER" /> ini tidak diizinkan.</translation>
 <translation id="6779406956731413166">ChromiumOS terwujud karena adanya <ph name="BEGIN_LINK_CROS_OSS" />software open source<ph name="END_LINK_CROS_OSS" /> tambahan.</translation>
-<translation id="6847869444787758381">Chromium akan memberi tahu jika sandi Anda disusupi</translation>
-<translation id="6852530923436401894">Chromium memblokir file ini karena memiliki malware</translation>
-<translation id="6857782730669500492">Chromium - <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">Google Pay (disalin ke Chromium)</translation>
-<translation id="6873893289264747459">Chromium menemukan bahwa "<ph name="EXTENSION_NAME" />" berisi malware</translation>
-<translation id="6893813176749746474">Chromium telah diperbarui, tetapi Anda belum menggunakannya selama setidaknya 30 hari.</translation>
-<translation id="691026815377248078">Chromium memerlukan akses Bluetooth untuk melanjutkan 
+<translation id="6798439930306865443">WEB3 DNA Browser akan memberi tahu jika sandi Anda disusupi</translation>
+<translation id="877665203225711835">WEB3 DNA Browser memblokir file ini karena memiliki malware</translation>
+<translation id="7732765206800238484">WEB3 DNA Browser - <ph name="PAGE_TITLE" /></translation>
+<translation id="2089740034323086528">Google Pay (disalin ke WEB3 DNA Browser)</translation>
+<translation id="2329130305935541101">WEB3 DNA Browser menemukan bahwa "<ph name="EXTENSION_NAME" />" berisi malware</translation>
+<translation id="2947483933825476413">WEB3 DNA Browser telah diperbarui, tetapi Anda belum menggunakannya selama setidaknya 30 hari.</translation>
+<translation id="8828344991758417694">WEB3 DNA Browser memerlukan akses Bluetooth untuk melanjutkan 
  penyambungan. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Jika uji coba diaktifkan, Pengukuran iklan akan memungkinkan situs yang Anda buka untuk meminta informasi dari Chromium yang membantu situs mengukur performa iklannya. Pengukuran iklan membatasi pelacakan lintas situs dengan mentransfer sesedikit mungkin informasi antar-situs.</translation>
-<translation id="6940431691900807093">Kemudian, situs yang Anda buka dapat meminta Chromium untuk melihat minat Anda agar dapat mempersonalisasi iklan yang Anda lihat. Chromium dapat membagikan hingga 3 minat.</translation>
-<translation id="6964305034639999644">Buka link di jendela sa&amp;maran Chromium</translation>
-<translation id="6978145336957848883">Sandi yang lemah mudah ditebak. Izinkan Chromium <ph name="BEGIN_LINK" />membuat dan mengingat sandi yang kuat untuk Anda<ph name="END_LINK" />.</translation>
-<translation id="6984667024406244807">Chromium tidak aktif</translation>
+<translation id="9067852028442542655">Jika uji coba diaktifkan, Pengukuran iklan akan memungkinkan situs yang Anda buka untuk meminta informasi dari WEB3 DNA Browser yang membantu situs mengukur performa iklannya. Pengukuran iklan membatasi pelacakan lintas situs dengan mentransfer sesedikit mungkin informasi antar-situs.</translation>
+<translation id="6638774777596425412">Kemudian, situs yang Anda buka dapat meminta WEB3 DNA Browser untuk melihat minat Anda agar dapat mempersonalisasi iklan yang Anda lihat. WEB3 DNA Browser dapat membagikan hingga 3 minat.</translation>
+<translation id="1618581910910744310">Buka link di jendela sa&amp;maran WEB3 DNA Browser</translation>
+<translation id="1141174083986936166">Sandi yang lemah mudah ditebak. Izinkan WEB3 DNA Browser <ph name="BEGIN_LINK" />membuat dan mengingat sandi yang kuat untuk Anda<ph name="END_LINK" />.</translation>
+<translation id="1422439798626251044">WEB3 DNA Browser tidak aktif</translation>
 <translation id="6985329841647292029">Persyaratan ChromiumOS</translation>
-<translation id="6990124437352146030">Chromium memerlukan izin akses ke mikrofon untuk situs ini</translation>
+<translation id="8045464583440265694">WEB3 DNA Browser memerlukan izin akses ke mikrofon untuk situs ini</translation>
 <translation id="7025789849649390912">Penginstalan Terhenti.</translation>
-<translation id="705851970750939768">Perbarui Chromium</translation>
-<translation id="7067091210845072982">Jika gambar tidak memiliki deskripsi yang berguna, Chromium akan mencoba memberikan deskripsi untuk Anda. Untuk membuat deskripsi, gambar akan dikirim ke Google.</translation>
-<translation id="718435575166326686">Chromium memerlukan izin kamera untuk situs ini</translation>
-<translation id="7196312274710523067">Tidak dapat meluncurkan Chromium. Harap coba lagi.</translation>
-<translation id="7197677400338048821">Chromium tidak dapat memeriksa sandi Anda. Coba lagi setelah 24 jam.</translation>
-<translation id="7218568399872925918">Situs yang dibuka akan mengingat informasi Anda hingga Anda menutup Chromium</translation>
-<translation id="7223968959479464213">Pengelola Tugas - Chromium</translation>
-<translation id="7246575524853130370">Minat Anda sesuai perkiraan Chromium</translation>
-<translation id="7309928523159922338">Pengukuran iklan memungkinkan situs yang Anda buka untuk meminta informasi dari Chromium yang membantu situs mengukur performa iklannya. Pengukuran iklan membatasi pelacakan lintas situs dengan mentransfer sesedikit mungkin informasi antar-situs.</translation>
-<translation id="731795002583552498">Memperbarui Chromium</translation>
-<translation id="7318036098707714271">File preferensi Anda rusak atau tidak valid.
+<translation id="475843105037256922">Perbarui WEB3 DNA Browser</translation>
+<translation id="326486748351990910">Jika gambar tidak memiliki deskripsi yang berguna, WEB3 DNA Browser akan mencoba memberikan deskripsi untuk Anda. Untuk membuat deskripsi, gambar akan dikirim ke Google.</translation>
+<translation id="5618043080831675837">WEB3 DNA Browser memerlukan izin kamera untuk situs ini</translation>
+<translation id="6831720849639347633">Tidak dapat meluncurkan WEB3 DNA Browser. Harap coba lagi.</translation>
+<translation id="7914905542208857296">WEB3 DNA Browser tidak dapat memeriksa sandi Anda. Coba lagi setelah 24 jam.</translation>
+<translation id="2219572028161280443">Situs yang dibuka akan mengingat informasi Anda hingga Anda menutup WEB3 DNA Browser</translation>
+<translation id="3988179273882088670">Pengelola Tugas - WEB3 DNA Browser</translation>
+<translation id="8082426603469914763">Minat Anda sesuai perkiraan WEB3 DNA Browser</translation>
+<translation id="3791422786486318548">Pengukuran iklan memungkinkan situs yang Anda buka untuk meminta informasi dari WEB3 DNA Browser yang membantu situs mengukur performa iklannya. Pengukuran iklan membatasi pelacakan lintas situs dengan mentransfer sesedikit mungkin informasi antar-situs.</translation>
+<translation id="3826673197841439968">Memperbarui WEB3 DNA Browser</translation>
+<translation id="3105300744480734014">File preferensi Anda rusak atau tidak valid.
 
-Chromium tidak dapat memulihkan setelan Anda.</translation>
-<translation id="7337881442233988129">Chromium</translation>
+WEB3 DNA Browser tidak dapat memulihkan setelan Anda.</translation>
+<translation id="4691707200828155405">WEB3 DNA Browser</translation>
 <translation id="7339898014177206373">Jendela baru</translation>
-<translation id="734373864078049451">Web, bookmark, dan barang Chromium Anda lainnya tersedia di sini.</translation>
-<translation id="7349591376906416160">Administrator sistem Anda telah mengonfigurasi Chromium untuk membuka <ph name="ALTERNATIVE_BROWSER_NAME" /> guna mengakses <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7398989605938454041">Dengan profil Chromium, Anda dapat memisahkan semua aktivitas Chromium Anda. Hal ini mempermudah pemisahan antara aktivitas kerja dan hiburan.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> - Chromium Dev</translation>
-<translation id="7451052299415159299">Chromium memerlukan izin akses ke kamera untuk situs ini</translation>
-<translation id="7461356015007898716">Untuk mendapatkan update Chromium berikutnya, Anda perlu Windows 10 atau yang lebih baru. Komputer ini menggunakan Windows 7.</translation>
-<translation id="7467949745582939695">Luncurkan kembali Chromium?</translation>
-<translation id="7483335560992089831">Tidak dapat memasang Chromium versi yang sama dengan yang sedang Anda jalankan. Tutup Chromium dan coba lagi.</translation>
-<translation id="753534427205733210">{0,plural, =1{Chromium akan diluncurkan ulang dalam 1 menit}other{Chromium akan diluncurkan ulang dalam # menit}}</translation>
-<translation id="7561906087460245826">Hapus juga data dari Chromium (<ph name="URL" />)</translation>
-<translation id="7582945390259497898">Chromium dapat memperkirakan minat Anda. Kemudian, situs yang Anda buka dapat meminta Chromium untuk melihat minat Anda agar dapat mempersonalisasi iklan yang Anda lihat.</translation>
+<translation id="866415121309420782">Web, bookmark, dan barang WEB3 DNA Browser Anda lainnya tersedia di sini.</translation>
+<translation id="2516718275146731816">Administrator sistem Anda telah mengonfigurasi WEB3 DNA Browser untuk membuka <ph name="ALTERNATIVE_BROWSER_NAME" /> guna mengakses <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="5218043865814307173">Dengan profil WEB3 DNA Browser, Anda dapat memisahkan semua aktivitas WEB3 DNA Browser Anda. Hal ini mempermudah pemisahan antara aktivitas kerja dan hiburan.</translation>
+<translation id="5690617926609878272"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Dev</translation>
+<translation id="3479625329890795142">WEB3 DNA Browser memerlukan izin akses ke kamera untuk situs ini</translation>
+<translation id="3327138471292503109">Untuk mendapatkan update WEB3 DNA Browser berikutnya, Anda perlu Windows 10 atau yang lebih baru. Komputer ini menggunakan Windows 7.</translation>
+<translation id="570029382864869633">Luncurkan kembali WEB3 DNA Browser?</translation>
+<translation id="7081567920020845898">Tidak dapat memasang WEB3 DNA Browser versi yang sama dengan yang sedang Anda jalankan. Tutup WEB3 DNA Browser dan coba lagi.</translation>
+<translation id="2308694661846361163">{0,plural, =1{WEB3 DNA Browser akan diluncurkan ulang dalam 1 menit}other{WEB3 DNA Browser akan diluncurkan ulang dalam # menit}}</translation>
+<translation id="7403013663461228352">Hapus juga data dari WEB3 DNA Browser (<ph name="URL" />)</translation>
+<translation id="5628570284195611526">WEB3 DNA Browser dapat memperkirakan minat Anda. Kemudian, situs yang Anda buka dapat meminta WEB3 DNA Browser untuk melihat minat Anda agar dapat mempersonalisasi iklan yang Anda lihat.</translation>
 <translation id="7583399374488819119">Penginstal <ph name="COMPANY_NAME" /></translation>
-<translation id="7597596667193879455">Anda mengaktifkan Safe Browsing yang Disempurnakan di akun Anda. Sekarang, aktifkan juga untuk Chromium.</translation>
-<translation id="761356813943268536">Chromium menggunakan kamera dan mikrofon Anda.</translation>
-<translation id="7617377681829253106">Chromium menjadi lebih baik</translation>
+<translation id="18937021822671718">Anda mengaktifkan Safe Browsing yang Disempurnakan di akun Anda. Sekarang, aktifkan juga untuk WEB3 DNA Browser.</translation>
+<translation id="2422729508884289622">WEB3 DNA Browser menggunakan kamera dan mikrofon Anda.</translation>
+<translation id="7649176261008984828">WEB3 DNA Browser menjadi lebih baik</translation>
 <translation id="7649070708921625228">Bantuan</translation>
-<translation id="7682213815243802460">Anda dapat mempelajari fitur ini lebih lanjut di setelan Chromium.</translation>
-<translation id="7682601070171973634">Chromium sedang menjelajahi fitur baru yang memungkinkan situs memberikan pengalaman penjelajahan yang sama dengan menggunakan lebih sedikit data Anda</translation>
-<translation id="7686590090926151193">Chromium bukan browser default</translation>
-<translation id="7689606757190482937">Menyinkronkan dan mempersonalisasi Chromium di perangkat Anda</translation>
-<translation id="7745317241717453663">Tindakan ini akan menghapus data browsing dari perangkat. Untuk mengambil data nanti, login ke Chromium sebagai <ph name="USER_EMAIL" />.</translation>
+<translation id="5663191066657660868">Anda dapat mempelajari fitur ini lebih lanjut di setelan WEB3 DNA Browser.</translation>
+<translation id="1180711544607099420">WEB3 DNA Browser sedang menjelajahi fitur baru yang memungkinkan situs memberikan pengalaman penjelajahan yang sama dengan menggunakan lebih sedikit data Anda</translation>
+<translation id="1427927054102592884">WEB3 DNA Browser bukan browser default</translation>
+<translation id="7195845268083706212">Menyinkronkan dan mempersonalisasi WEB3 DNA Browser di perangkat Anda</translation>
+<translation id="4540014860380760179">Tindakan ini akan menghapus data browsing dari perangkat. Untuk mengambil data nanti, login ke WEB3 DNA Browser sebagai <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Pemasang tidak dapat membuat direktori sementara. Periksa kapasitas kosong pada disk dan izin untuk memasang software.</translation>
-<translation id="7786760609782648049">Buat Chromium lebih cepat</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> - Chromium Canary</translation>
-<translation id="7828947555739565424">Profil Chromium dengan akun ini sudah ada di perangkat ini</translation>
+<translation id="3341158123816213810">Buat WEB3 DNA Browser lebih cepat</translation>
+<translation id="6564515530956462009"><ph name="PAGE_TITLE" /> - WEB3 DNA Browser Canary</translation>
+<translation id="8502268940781535829">Profil WEB3 DNA Browser dengan akun ini sudah ada di perangkat ini</translation>
 <translation id="7845233973568007926">Terima kasih telah menginstal. Anda harus memulai ulang komputer sebelum menggunakan <ph name="BUNDLE_NAME" />.</translation>
-<translation id="7867198900892795913">Chromium tidak dapat diupdate ke versi terbaru, sehingga Anda tidak mendapatkan perbaikan keamanan dan fitur baru.</translation>
+<translation id="5422417406245013307">WEB3 DNA Browser tidak dapat diupdate ke versi terbaru, sehingga Anda tidak mendapatkan perbaikan keamanan dan fitur baru.</translation>
 <translation id="7872446069773932638">Mendownload ... <ph name="SECONDS" /> detik lagi</translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Cara Anda dapat mengelola data Anda:<ph name="END_BOLD" /> Untuk melindungi privasi Anda, kami otomatis menghapus minat yang tersimpan lebih dari 4 minggu. Saat Anda terus menjelajah, minat dapat kembali muncul di daftar. Atau Anda dapat menghapus minat yang tidak perlu dipertimbangkan oleh Chromium.</translation>
-<translation id="7937630085815544518">Anda telah masuk ke Chromium sebagai <ph name="USER_EMAIL_ADDRESS" />. Gunakan akun yang sama untuk masuk kembali.</translation>
-<translation id="7975919845073681630">Ini adalah pemasangan Chromium sekunder, dan tidak dapat digunakan sebagai browser default.</translation>
-<translation id="7997934263947464652">Ekstensi, aplikasi, dan tema dari sumber tidak dikenal dapat membahayakan perangkat Anda. Chromium merekomendasikan hanya menginstal ekstensi, aplikasi, dan tema dari <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
-<translation id="8013436988911883588">Setelah Chromium memiliki akses, situs dapat meminta akses dari Anda.</translation>
+<translation id="6590823489474620893"><ph name="BEGIN_BOLD" />Cara Anda dapat mengelola data Anda:<ph name="END_BOLD" /> Untuk melindungi privasi Anda, kami otomatis menghapus minat yang tersimpan lebih dari 4 minggu. Saat Anda terus menjelajah, minat dapat kembali muncul di daftar. Atau Anda dapat menghapus minat yang tidak perlu dipertimbangkan oleh WEB3 DNA Browser.</translation>
+<translation id="7280500878215405781">Anda telah masuk ke WEB3 DNA Browser sebagai <ph name="USER_EMAIL_ADDRESS" />. Gunakan akun yang sama untuk masuk kembali.</translation>
+<translation id="2253021454574730566">Ini adalah pemasangan WEB3 DNA Browser sekunder, dan tidak dapat digunakan sebagai browser default.</translation>
+<translation id="2180063386451170761">Ekstensi, aplikasi, dan tema dari sumber tidak dikenal dapat membahayakan perangkat Anda. WEB3 DNA Browser merekomendasikan hanya menginstal ekstensi, aplikasi, dan tema dari <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
+<translation id="1446133009793910887">Setelah WEB3 DNA Browser memiliki akses, situs dapat meminta akses dari Anda.</translation>
 <translation id="80471789339884597">Terima kasih telah menginstal. Anda harus memulai ulang semua browser sebelum menggunakan <ph name="BUNDLE_NAME" />.</translation>
-<translation id="8105840573057009683">Chromium memerlukan izin akses lokasi untuk situs ini</translation>
+<translation id="3869525261991846539">WEB3 DNA Browser memerlukan izin akses lokasi untuk situs ini</translation>
 <translation id="8133124826068723441">ChromiumOS tidak dapat menyinkronkan data Anda karena Sinkronisasi tidak tersedia untuk domain Anda.</translation>
 <translation id="813913629614996137">Memulai...</translation>
-<translation id="81770708095080097">File ini berbahaya, jadi Chromium telah memblokirnya.</translation>
-<translation id="8213374284266571500">Chromium memblokir file ini karena jenis file ini berbahaya</translation>
-<translation id="8248265253516264921">Jika gambar tidak memiliki deskripsi yang berguna, Chromium akan mencoba memberikan deskripsi untuk Anda. Untuk membuat deskripsi, gambar akan dikirim ke Google. Anda dapat menonaktifkannya kapan saja di setelan.</translation>
-<translation id="8266560134891435528">Chromium tidak dapat memeriksa sandi karena Anda tidak login</translation>
-<translation id="8276522524898344151">Chromium mencoba menyalin sandi.</translation>
-<translation id="8290862415967981663">File ini mungkin berbahaya, jadi Chromium telah memblokirnya.</translation>
-<translation id="8330519371938183845">Login untuk menyinkronkan dan mempersonalisasi Chromium di perangkat Anda</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> sebelumnya menggunakan Chromium</translation>
-<translation id="8357820681460164151">Untuk mengakses aktivitas browser Chromium di semua perangkat, login lalu aktifkan sinkronisasi</translation>
-<translation id="8360718212975266891">Untuk mendapatkan update Chromium berikutnya, Anda perlu Windows 10 atau yang lebih baru. Komputer ini menggunakan Windows 8.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Luncurkan ulang Chromium dalam 1 hari}other{Luncurkan ulang Chromium dalam # hari}}</translation>
-<translation id="8453117565092476964">Arsip pemasang rusak atau tidak valid. Download Chromium lagi.</translation>
+<translation id="6871375725780252705">File ini berbahaya, jadi WEB3 DNA Browser telah memblokirnya.</translation>
+<translation id="8821717781402291672">WEB3 DNA Browser memblokir file ini karena jenis file ini berbahaya</translation>
+<translation id="8394136310056741303">Jika gambar tidak memiliki deskripsi yang berguna, WEB3 DNA Browser akan mencoba memberikan deskripsi untuk Anda. Untuk membuat deskripsi, gambar akan dikirim ke Google. Anda dapat menonaktifkannya kapan saja di setelan.</translation>
+<translation id="4863557335992202213">WEB3 DNA Browser tidak dapat memeriksa sandi karena Anda tidak login</translation>
+<translation id="8332908002682218419">WEB3 DNA Browser mencoba menyalin sandi.</translation>
+<translation id="3862328687893385239">File ini mungkin berbahaya, jadi WEB3 DNA Browser telah memblokirnya.</translation>
+<translation id="7450630974943556627">Login untuk menyinkronkan dan mempersonalisasi WEB3 DNA Browser di perangkat Anda</translation>
+<translation id="8910359951607649198"><ph name="USER_EMAIL_ADDRESS" /> sebelumnya menggunakan WEB3 DNA Browser</translation>
+<translation id="7837286795552251352">Untuk mengakses aktivitas browser WEB3 DNA Browser di semua perangkat, login lalu aktifkan sinkronisasi</translation>
+<translation id="4231941262737361466">Untuk mendapatkan update WEB3 DNA Browser berikutnya, Anda perlu Windows 10 atau yang lebih baru. Komputer ini menggunakan Windows 8.</translation>
+<translation id="4708615805477131870">{0,plural, =1{Luncurkan ulang WEB3 DNA Browser dalam 1 hari}other{Luncurkan ulang WEB3 DNA Browser dalam # hari}}</translation>
+<translation id="8293407095466346653">Arsip pemasang rusak atau tidak valid. Download WEB3 DNA Browser lagi.</translation>
 <translation id="8463672209299734063">Opsional: Bantu tingkatkan fitur dan performa ChromiumOS dengan mengirimkan data penggunaan dan diagnostik secara otomatis ke Google.</translation>
-<translation id="8493179195440786826">Chromium Terlalu Lawas</translation>
+<translation id="2275026549113043779">WEB3 DNA Browser Terlalu Lawas</translation>
 <translation id="8550334526674375523">Profil kerja ini sama sekali terpisah dari profil pribadi Anda.</translation>
-<translation id="8558383651099478961">Orang tuamu telah menonaktifkan "Izin untuk situs, aplikasi, dan ekstensi" untuk Chromium. Tindakan menambahkan <ph name="EXTENSION_TYPE_PARAMETER" /> ini tidak diizinkan.</translation>
-<translation id="8561285221328166383">Untuk mendapatkan update Chromium berikutnya, Anda perlu macOS 10.13 atau yang lebih baru. Komputer ini menggunakan macOS 10.12.</translation>
-<translation id="8568283329061645092">Chromium dapat memeriksa sandi saat Anda login dengan Akun Google</translation>
-<translation id="8574036838419011058">Jika diaktifkan, Chromium akan menghemat daya baterai dengan membatasi aktivitas latar belakang dan efek visual, seperti scroll yang lancar dan kecepatan frame video. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
-<translation id="8586442755830160949">Hak Cipta <ph name="YEAR" /> Pengarang Chromium. Semua hak dilindungi undang-undang.</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Cara kami menggunakan data ini:<ph name="END_BOLD" /> Situs dapat menyimpan informasi tentang minat Anda ke Chromium. Misalnya, jika Anda mengunjungi suatu situs untuk membeli sepatu maraton, situs tersebut dapat menetapkan minat Anda sebagai lari maraton. Kemudian, jika Anda mengunjungi situs lain untuk mendaftar lomba lari, situs tersebut dapat menampilkan iklan sepatu lari berdasarkan minat Anda.</translation>
-<translation id="8619360774459241877">Meluncurkan Chromium...</translation>
-<translation id="8621669128220841554">Pemasangan gagal karena kesalahan yang tidak ditentukan. Download Chromium lagi.</translation>
-<translation id="8697124171261953979">Juga mengontrol halaman apa yang ditampilkan saat Anda memulai Chromium atau menelusuri dari Omnibox.</translation>
-<translation id="8704119203788522458">Ini Chromium Anda</translation>
-<translation id="8713679423359107094">Jika Anda menutup semua jendela Chromium, cookie dan data situs akan otomatis dihapus</translation>
-<translation id="8796443464227412154">Anda akan <ph name="BEGIN_BOLD" />logout dari sebagian besar situs<ph name="END_BOLD" /> saat Anda menutup Chromium. Jika sinkronisasi nonaktif, Anda juga akan <ph name="BEGIN_BOLD" />logout dari layanan Google dan Chromium<ph name="END_BOLD" />.</translation>
-<translation id="8796602469536043152">Chromium memerlukan izin akses ke kamera dan mikrofon untuk situs ini</translation>
+<translation id="3829194378861761606">Orang tuamu telah menonaktifkan "Izin untuk situs, aplikasi, dan ekstensi" untuk WEB3 DNA Browser. Tindakan menambahkan <ph name="EXTENSION_TYPE_PARAMETER" /> ini tidak diizinkan.</translation>
+<translation id="6148620910029690666">Untuk mendapatkan update WEB3 DNA Browser berikutnya, Anda perlu macOS 10.13 atau yang lebih baru. Komputer ini menggunakan macOS 10.12.</translation>
+<translation id="1246723111619277441">WEB3 DNA Browser dapat memeriksa sandi saat Anda login dengan Akun Google</translation>
+<translation id="7115352036028984404">Jika diaktifkan, WEB3 DNA Browser akan menghemat daya baterai dengan membatasi aktivitas latar belakang dan efek visual, seperti scroll yang lancar dan kecepatan frame video. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
+<translation id="4799188800355420938">Hak Cipta <ph name="YEAR" /> Pengarang WEB3 DNA Browser. Semua hak dilindungi undang-undang.</translation>
+<translation id="1392803118131207008"><ph name="BEGIN_BOLD" />Cara kami menggunakan data ini:<ph name="END_BOLD" /> Situs dapat menyimpan informasi tentang minat Anda ke WEB3 DNA Browser. Misalnya, jika Anda mengunjungi suatu situs untuk membeli sepatu maraton, situs tersebut dapat menetapkan minat Anda sebagai lari maraton. Kemudian, jika Anda mengunjungi situs lain untuk mendaftar lomba lari, situs tersebut dapat menampilkan iklan sepatu lari berdasarkan minat Anda.</translation>
+<translation id="5546249279042208244">Meluncurkan WEB3 DNA Browser...</translation>
+<translation id="5255237181758616742">Pemasangan gagal karena kesalahan yang tidak ditentukan. Download WEB3 DNA Browser lagi.</translation>
+<translation id="8697124171261953979">Juga mengontrol halaman apa yang ditampilkan saat Anda memulai WEB3 DNA Browser atau menelusuri dari Omnibox.</translation>
+<translation id="4220559821674570264">Ini WEB3 DNA Browser Anda</translation>
+<translation id="8072998028605263569">Jika Anda menutup semua jendela WEB3 DNA Browser, cookie dan data situs akan otomatis dihapus</translation>
+<translation id="6903751245620697304">Anda akan <ph name="BEGIN_BOLD" />logout dari sebagian besar situs<ph name="END_BOLD" /> saat Anda menutup WEB3 DNA Browser. Jika sinkronisasi nonaktif, Anda juga akan <ph name="BEGIN_BOLD" />logout dari layanan Google dan WEB3 DNA Browser<ph name="END_BOLD" />.</translation>
+<translation id="7277260025828649281">WEB3 DNA Browser memerlukan izin akses ke kamera dan mikrofon untuk situs ini</translation>
 <translation id="8833697763442816810">Sistem ChromiumOS</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Data yang digunakan:<ph name="END_BOLD" /> Histori penjelajahan Anda, catatan situs yang telah Anda buka menggunakan Chromium di perangkat ini.</translation>
+<translation id="7404934872971073925"><ph name="BEGIN_BOLD" />Data yang digunakan:<ph name="END_BOLD" /> Histori penjelajahan Anda, catatan situs yang telah Anda buka menggunakan WEB3 DNA Browser di perangkat ini.</translation>
 <translation id="8862326446509486874">Anda tidak memiliki hak yang diperlukan untuk pemasangan tingkat sistem. Coba jalankan lagi pemasang saat login sebagai Administrator.</translation>
-<translation id="8880203542552872219">Jika ya, edit sandi Anda yang tersimpan di Chromium agar cocok dengan sandi baru Anda.</translation>
-<translation id="8897323336392112261">Juga mengontrol halaman apa yang ditampilkan saat Anda memulai Chromium atau mengklik tombol Beranda.</translation>
-<translation id="8907580949721785412">Chromium mencoba menampilkan sandi. Ketik sandi Windows untuk mengizinkannya.</translation>
-<translation id="8931379085695076764">Chromium dapat memperkirakan minat Anda berdasarkan histori penjelajahan Anda dari beberapa minggu terakhir. Informasi ini disimpan di perangkat Anda.</translation>
-<translation id="8941642502866065432">Tidak dapat mengupdate Chromium</translation>
-<translation id="897581876605952338">Logo Chromium Enterprise</translation>
+<translation id="8304007095757244531">Jika ya, edit sandi Anda yang tersimpan di WEB3 DNA Browser agar cocok dengan sandi baru Anda.</translation>
+<translation id="8897323336392112261">Juga mengontrol halaman apa yang ditampilkan saat Anda memulai WEB3 DNA Browser atau mengklik tombol Beranda.</translation>
+<translation id="257978004891740263">WEB3 DNA Browser mencoba menampilkan sandi. Ketik sandi Windows untuk mengizinkannya.</translation>
+<translation id="7500894618301979366">WEB3 DNA Browser dapat memperkirakan minat Anda berdasarkan histori penjelajahan Anda dari beberapa minggu terakhir. Informasi ini disimpan di perangkat Anda.</translation>
+<translation id="3731673200617615844">Tidak dapat mengupdate WEB3 DNA Browser</translation>
+<translation id="1787382483918628946">Logo WEB3 DNA Browser Enterprise</translation>
 <translation id="8986207147630327271">Anda menambahkan profil kerja ke browser ini dan memberikan kontrol kepada administrator hanya untuk profil kerja.</translation>
-<translation id="9019929317751753759">Agar Chromium lebih aman, kami menonaktifkan ekstensi berikut yang tidak tercantum dalam <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> dan mungkin telah ditambahkan tanpa sepengetahuan Anda.</translation>
-<translation id="9022552996538154597">Login ke Chromium</translation>
-<translation id="9089354809943900324">Chromium terlalu lawas</translation>
-<translation id="9093206154853821181">{0,plural, =1{Chromium akan diluncurkan ulang dalam 1 jam}other{Chromium akan diluncurkan ulang dalam # jam}}</translation>
-<translation id="9106612006984859720">Untuk mendapatkan update Chromium berikutnya, Anda perlu Windows 10 atau yang lebih baru. Komputer ini menggunakan Windows 8.1.</translation>
-<translation id="91086099826398415">Buka Link di &amp;tab Chromium Baru</translation>
+<translation id="8867249455463470821">Agar WEB3 DNA Browser lebih aman, kami menonaktifkan ekstensi berikut yang tidak tercantum dalam <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> dan mungkin telah ditambahkan tanpa sepengetahuan Anda.</translation>
+<translation id="8879833215600767638">Login ke WEB3 DNA Browser</translation>
+<translation id="853293422536067733">WEB3 DNA Browser terlalu lawas</translation>
+<translation id="325086175188777548">{0,plural, =1{WEB3 DNA Browser akan diluncurkan ulang dalam 1 jam}other{WEB3 DNA Browser akan diluncurkan ulang dalam # jam}}</translation>
+<translation id="8024211601023847048">Untuk mendapatkan update WEB3 DNA Browser berikutnya, Anda perlu Windows 10 atau yang lebih baru. Komputer ini menggunakan Windows 8.1.</translation>
+<translation id="2383920618768832592">Buka Link di &amp;tab WEB3 DNA Browser Baru</translation>
 <translation id="911206726377975832">Hapus juga data browsing Anda?</translation>
-<translation id="9144490074902256427">Selama uji coba, Anda dapat melihat dan menghapus topik terkait minat yang digunakan situs untuk menampilkan iklan kepada Anda. Chromium memperkirakan minat Anda berdasarkan histori penjelajahan terbaru Anda.</translation>
-<translation id="9158494823179993217">Administrator sistem Anda telah mengonfigurasi Chromium untuk membuka browser alternatif guna mengakses <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="9185526690718004400">Luncurkan kembali untuk mengupdate &amp;Chromium</translation>
-<translation id="9190841055450128916">Chromium (mDNS-In)</translation>
-<translation id="93478295209880648">Chromium mungkin tidak berfungsi dengan semestinya karena sudah tidak didukung di Windows XP atau Windows Vista</translation>
-<translation id="942598560705308788">Sertifikat yang dikelola oleh Chromium</translation>
-<translation id="945990405696787151">Untuk mendapatkan update Chromium berikutnya, Anda perlu macOS 10.13 atau yang lebih baru. Komputer ini menggunakan OS X 10.11.</translation>
-<translation id="965162752251293939">Siapa yang menggunakan Chromium?</translation>
-<translation id="967427899662692980">Dapatkan keamanan terkuat Chromium</translation>
-<translation id="985602178874221306">Pengarang Chromium</translation>
+<translation id="3209098675401285328">Selama uji coba, Anda dapat melihat dan menghapus topik terkait minat yang digunakan situs untuk menampilkan iklan kepada Anda. WEB3 DNA Browser memperkirakan minat Anda berdasarkan histori penjelajahan terbaru Anda.</translation>
+<translation id="3219820530884298089">Administrator sistem Anda telah mengonfigurasi WEB3 DNA Browser untuk membuka browser alternatif guna mengakses <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="3490070383213151269">Luncurkan kembali untuk mengupdate &amp;WEB3 DNA Browser</translation>
+<translation id="6090927689465861839">WEB3 DNA Browser (mDNS-In)</translation>
+<translation id="5838682317838879726">WEB3 DNA Browser mungkin tidak berfungsi dengan semestinya karena sudah tidak didukung di Windows XP atau Windows Vista</translation>
+<translation id="864578822176559036">Sertifikat yang dikelola oleh WEB3 DNA Browser</translation>
+<translation id="5999581564161388420">Untuk mendapatkan update WEB3 DNA Browser berikutnya, Anda perlu macOS 10.13 atau yang lebih baru. Komputer ini menggunakan OS X 10.11.</translation>
+<translation id="8170259981824726476">Siapa yang menggunakan WEB3 DNA Browser?</translation>
+<translation id="848072905736697318">Dapatkan keamanan terkuat WEB3 DNA Browser</translation>
+<translation id="3707690415152488007">Pengarang WEB3 DNA Browser</translation>
 </translationbundle>

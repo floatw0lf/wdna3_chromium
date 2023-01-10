@@ -458,7 +458,7 @@ are declared in tools/grit/grit_rule.gni.
         Main menu
       </message>
       <message name="IDS_HISTORY_HISTORY_MENU_ITEM" desc="Label displayed in history sidebar button to display history.">
-        Chrome history
+        WEB3 DNA Browser history
       </message>
       <message name="IDS_HISTORY_NO_SYNCED_RESULTS" desc="Text indicating that there are no synced tabs from other devices.">
         No tabs from other devices
@@ -1426,7 +1426,7 @@ are declared in tools/grit/grit_rule.gni.
       </if>
 
       <message name="IDS_TOS_NOTIFICATION_TITLE" desc="The title of the notification that informs the user that a term of service change is coming." formatter_data="android_java">
-        Chrome's Terms of Service are changing March 31
+        WEB3 DNA Browser's Terms of Service are changing March 31
       </message>
       <message name="IDS_TOS_NOTIFICATION_BODY_TEXT" desc="The body text of the notification that informs the user that a term of service change is coming." formatter_data="android_java">
         Please review the new terms
@@ -1451,7 +1451,7 @@ are declared in tools/grit/grit_rule.gni.
         Managed by <ph name="MANAGER">$1<ex>example.com</ex></ph>
       </message>
       <message name="IDS_CHROME_TIPS" desc="The text label of the Help menu item which takes the user to the Chrome Tips page.">
-        Tips for Chrome
+        Tips for WEB3 DNA Browser
       </message>
       <message name="IDS_CHROME_WHATS_NEW" desc="The text label of the Help menu item which takes the user to the Chrome What's New page.">
         What's New
@@ -2205,7 +2205,7 @@ are declared in tools/grit/grit_rule.gni.
       </message>
       <message name="IDS_DOWNLOAD_BY_EXTENSION_URL"
                desc="Indicates which extension downloaded this file by name and URL.">
-        Downloaded by &lt;a href=&quot;<ph name="URL">$1<ex>adblock.com</ex></ph>&quot;&gt;<ph name="EXTENSION">$2<ex>The Best Chrome Extension Ever</ex></ph>&lt;/a&gt;
+        Downloaded by &lt;a href=&quot;<ph name="URL">$1<ex>adblock.com</ex></ph>&quot;&gt;<ph name="EXTENSION">$2<ex>The Best WEB3 DNA Browser Extension Ever</ex></ph>&lt;/a&gt;
       </message>
       <message name="IDS_DOWNLOAD_IN_INCOGNITO"
                desc="Indicates a download was started in Incognito mode.">
@@ -2916,10 +2916,10 @@ are declared in tools/grit/grit_rule.gni.
           Quit
         </message>
         <message name="IDS_QUIT_WITH_APPS_EXPLANATION" desc="Text displayed in a notification explaining that Chrome will continue running in the background as long as there are Chrome Apps open.">
-          Chrome will keep running while Chrome Apps are open.
+          WEB3 DNA Browser will keep running while WEB3 DNA Browser Apps are open.
         </message>
         <message name="IDS_QUIT_WITH_APPS_QUIT_LABEL" desc="Button text to quit all running Chrome apps.">
-          Quit all Chrome Apps
+          Quit all WEB3 DNA Browser Apps
         </message>
         <message name="IDS_QUIT_WITH_APPS_SUPPRESSION_LABEL" desc="Button text to prevent a notification from showing in future.">
           Don't show this again
@@ -4245,7 +4245,7 @@ are declared in tools/grit/grit_rule.gni.
         </message>
       </if>
       <message name="IDS_UTILITY_PROCESS_FILE_UTILITY_NAME" desc="The name of the utility process used for various Chrome specific file operations.">
-          Chrome File Utilities
+          WEB3 DNA Browser File Utilities
       </message>
       <if expr="not is_android">
         <message name="IDS_UTILITY_PROCESS_PROFILE_IMPORTER_NAME" desc="The name of the utility process used for importing profiles.">
@@ -4281,7 +4281,7 @@ are declared in tools/grit/grit_rule.gni.
         No-op Service
       </message>
       <message name="IDS_SERVICE_PROCESS_DOCUMENT_ANALYSIS_NAME" desc="The name of the service process used for document analysis operations as part of Safe Browsing.">
-        Chrome Document Analysis
+        WEB3 DNA Browser Document Analysis
       </message>
       <!-- Theme preview infobar -->
       <message name="IDS_THEME_INSTALL_INFOBAR_LABEL" desc="Text displayed on an infobar when a theme has been installed.">
@@ -4379,18 +4379,18 @@ are declared in tools/grit/grit_rule.gni.
         Repair "<ph name="EXTENSION_NAME">$1<ex>Gmail Checker</ex></ph>"?
       </message>
       <message name="IDS_EXTENSION_EXTERNAL_INSTALL_PROMPT_TITLE_APP" desc="Titlebar of the prompt window for an externally installed app">
-        Another program on your computer added an app that may change the way Chrome works.
+        Another program on your computer added an app that may change the way WEB3 DNA Browser works.
 
 
 <ph name="EXTENSION_NAME">$1<ex>Babylon Toolbar</ex></ph>
       </message>
       <message name="IDS_EXTENSION_EXTERNAL_INSTALL_PROMPT_TITLE_EXTENSION" desc="Titlebar of the prompt window for an externally installed extension">
-        Another program on your computer added an extension that may change the way Chrome works.
+        Another program on your computer added an extension that may change the way WEB3 DNA Browser works.
 
 <ph name="EXTENSION_NAME">$1<ex>Babylon Toolbar</ex></ph>
       </message>
       <message name="IDS_EXTENSION_EXTERNAL_INSTALL_PROMPT_TITLE_THEME" desc="Titlebar of the prompt window for an externally installed theme">
-        Another program on your computer added a theme that may change the way Chrome works.
+        Another program on your computer added a theme that may change the way WEB3 DNA Browser works.
 
 <ph name="EXTENSION_NAME">$1<ex>Babylon Toolbar</ex></ph>
       </message>
@@ -4417,7 +4417,7 @@ are declared in tools/grit/grit_rule.gni.
         </message>
       </if>
       <message name="IDS_EXTENSION_EXTERNAL_INSTALL_PROMPT_ABORT_BUTTON" desc="Button on the external install prompt to remove an extension installed by a third party.">
-        Remove from Chrome
+        Remove from WEB3 DNA Browser
       </message>
 
       <!-- Extension alerts. -->
@@ -5422,13 +5422,13 @@ Keep your key file in a safe place. You will need it to create new versions of y
         "<ph name="EXTENSION_NAME">$1<ex>Babylon Toolbar</ex></ph>" added
       </message>
       <message name="IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_APP" desc="The heading text (below the title) for the bubble that alerts the user that a new external app was installed.">
-        Another program on your computer added an app that may change the way Chrome works.
+        Another program on your computer added an app that may change the way WEB3 DNA Browser works.
       </message>
       <message name="IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_EXTENSION" desc="The heading text (below the title) for the bubble that alerts the user that a new external extension was installed.">
-        Another program on your computer added an extension that may change the way Chrome works.
+        Another program on your computer added an extension that may change the way WEB3 DNA Browser works.
       </message>
       <message name="IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_THEME" desc="The heading text (below the title) for the bubble that alerts the user that a new external theme was installed.">
-        Another program on your computer added a theme that may change the way Chrome works.
+        Another program on your computer added a theme that may change the way WEB3 DNA Browser works.
       </message>
 
       <message name="IDS_EXTENSIONS_UNSUPPORTED_DISABLED_TITLE" desc="Title of the dialog shown when unsupported extensions have been disabled">
@@ -5485,22 +5485,22 @@ Keep your key file in a safe place. You will need it to create new versions of y
       <!-- Force Installed Deprecated Apps Deletion Dialog strings. -->
       <if expr="is_macosx">
         <message name="IDS_FORCE_INSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed deprecated app dialog">
-          Old versions of Chrome Apps won't open on Mac devices after December 2022. Contact your administrator to update to a new version or remove this app.
+          Old versions of WEB3 DNA Browser Apps won't open on Mac devices after December 2022. Contact your administrator to update to a new version or remove this app.
         </message>
       </if>
       <if expr="is_win">
         <message name="IDS_FORCE_INSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed deprecated app dialog">
-          Old versions of Chrome Apps won't open on Windows devices after December 2022. Contact your administrator to update to a new version or remove this app.
+          Old versions of WEB3 DNA Browser Apps won't open on Windows devices after December 2022. Contact your administrator to update to a new version or remove this app.
         </message>
       </if>
       <if expr="is_linux">
         <message name="IDS_FORCE_INSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed deprecated app dialog">
-          Old versions of Chrome Apps won't open on Linux devices after December 2022. Contact your administrator to update to a new version or remove this app.
+          Old versions of WEB3 DNA Browser Apps won't open on Linux devices after December 2022. Contact your administrator to update to a new version or remove this app.
         </message>
       </if>
       <if expr="is_fuchsia">
         <message name="IDS_FORCE_INSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed deprecated app dialog">
-          Old versions of Chrome Apps won't open after December 2022. Contact your administrator to update to a new version or remove this app.
+          Old versions of WEB3 DNA Browser Apps won't open after December 2022. Contact your administrator to update to a new version or remove this app.
         </message>
       </if>
       <!-- End Force Installed Deprecated Apps Deletion Dialog strings. -->
@@ -5513,29 +5513,29 @@ Keep your key file in a safe place. You will need it to create new versions of y
       </message>
       <if expr="is_macosx">
         <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Chrome Apps will soon no longer launch.">
-          Old versions of Chrome apps won't open on Mac devices after December 2022. You can check if there's a new version available.
+          Old versions of WEB3 DNA Browser apps won't open on Mac devices after December 2022. You can check if there's a new version available.
         </message>
       </if>
       <if expr="is_win">
         <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Chrome Apps will soon no longer launch.">
-          Old versions of Chrome apps won't open on Windows devices after December 2022. You can check if there's a new version available.
+          Old versions of WEB3 DNA Browser apps won't open on Windows devices after December 2022. You can check if there's a new version available.
         </message>
       </if>
       <if expr="is_linux">
         <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Chrome Apps will soon no longer launch.">
-          Old versions of Chrome apps won't open on Linux devices after December 2022. You can check if there's a new version available.
+          Old versions of WEB3 DNA Browser apps won't open on Linux devices after December 2022. You can check if there's a new version available.
         </message>
       </if>
       <if expr="is_fuchsia">
         <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Chrome Apps will soon no longer launch.">
-          Old versions of Chrome apps won't open after December 2022. You can check if there's a new version available.
+          Old versions of WEB3 DNA Browser apps won't open after December 2022. You can check if there's a new version available.
         </message>
       </if>
       <message name="IDS_DEPRECATED_APPS_LEARN_MORE" desc="Redirects to a link with more information on chrome apps deprecation">
         Learn more
       </message>
       <message name="IDS_DEPRECATED_APPS_LEARN_MORE_AX_LABEL" desc="Accessibility label text for IDS_DEPRECATED_APPS_LEARN_MORE link">
-        Learn more about unsupported Chrome apps
+        Learn more about unsupported WEB3 DNA Browser apps
       </message>
       <message name="IDS_DEPRECATED_APPS_DELETION_LINK" desc="Contains link to trigger the deprecated apps deletion dialog from chrome://apps">
         {NUM_APPS, plural,
@@ -6123,7 +6123,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
       </message>
 
       <message name="IDS_EXPERIMENTAL_LACROS_WARNING_MESSAGE_PRIMARY" desc="Addendum which is sometimes added to the initial warning message.">
-        The standard browser can be found by typing "Chrome" into Launcher.
+        The standard browser can be found by typing "WEB3 DNA Browser" into Launcher.
       </message>
 
       <message name="IDS_EXPERIMENTAL_LACROS_WARNING_MESSAGE_MANAGED" desc="Addendum which is sometimes added to the initial warning message.">
@@ -6271,7 +6271,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
           Reason: The inverted rule <ph name="REVERT_RULE">$1<ex>!example.com</ex></ph> was found in the "Force open in" list.
         </message>
         <message name="IDS_ABOUT_BROWSER_SWITCH_INTERNALS_OPEN_BROWSER_DEFAULT_REASON" desc="about:browser-switch/internals, section URL Checker, the explaination reason for check result, displayed when the entered URL did not match any listed rule and default browser will not get switched">
-          Reason: LBS stays in <ph name="DEFAULT_OPEN_BROWSER">$1<ex>Chromium</ex></ph> by default.
+          Reason: LBS stays in <ph name="DEFAULT_OPEN_BROWSER">$1<ex>WEB3 DNA Browser</ex></ph> by default.
         </message>
         <message name="IDS_ABOUT_BROWSER_SWITCH_INTERNALS_INVALID_URL" desc="about:browser-switch/internals, section URL Checker, specific error message when the url is invalid">
           Invalid URL. Make sure it is formatted properly.
@@ -6534,7 +6534,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Restore default shortcuts
       </message>
       <message name="IDS_NTP_CUSTOM_BG_CHROME_WALLPAPERS" desc="The text label of the Chrome backgrounds option for background customization.(On the New Tab Page)">
-        Chrome backgrounds
+        WEB3 DNA Browser backgrounds
       </message>
       <message name="IDS_NTP_CUSTOM_BG_UPLOAD_AN_IMAGE" desc="The text label of the upload an image option for background customization. (On the New Tab Page)">
         Upload an image
@@ -6612,7 +6612,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Color and theme
       </message>
       <message name="IDS_NTP_CUSTOMIZE_NO_BACKGROUND_LABEL" desc="The label for the 'Classic Chrome' tile in the customization menu on the New Tab Page">
-        Classic Chrome
+        Classic WEB3 DNA Browser
       </message>
       <message name="IDS_NTP_CUSTOMIZE_UPLOAD_FROM_DEVICE_LABEL" desc="The label for the 'Upload from device' tile in the customization menu on the New Tab Page">
         Upload from device
@@ -6776,13 +6776,13 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing suggested recipes based on your recent Search activity for recipes.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize WEB3 DNA Browser.
       </message>
       <message name="IDS_NTP_MODULES_RECIPE_EXTENDED_INFO" desc="Text shown in the body of the info dialog of the recipe module for Recipes V1.1.">
         You’re seeing recipes based on your recent Search activity for recipes.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize WEB3 DNA Browser.
       </message>
       <message name="IDS_NTP_MODULES_RECIPE_TASKS_SENTENCE" desc="Name of the recipe tasks module in sentence case shown in various UIs.">
         Recipe ideas
@@ -6821,7 +6821,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing carts that help you easily get back to items you left in shopping carts across the web.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize WEB3 DNA Browser.
       </message>
       <message name="IDS_NTP_MODULES_CART_ITEM_COUNT_SINGULAR" desc="Item count displayed on chrome cart module when there is a single item in a cart.">
         <ph name="ITEM_COUNT_ONE">$1<ex>1</ex></ph> item
@@ -6857,7 +6857,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing suggested files to help you easily get back to your most recent activity in Google Drive.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize WEB3 DNA Browser.
       </message>
       <message name="IDS_NTP_MODULES_PHOTOS_TITLE" desc="Title shown in the header of the photos module.">
         From your Google Photos
@@ -6884,7 +6884,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing photo and video highlights from your Google Photos library. You can control what shows up in your highlights at <ph name="BEGIN_LINK">&lt;a href="https://photos.google.com/settings?referrer=CHROME_NTP" target="_blank"&gt;</ph>photos.google.com/settings<ph name="END_LINK">&lt;/a&gt;</ph>.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings for this card from the card menu or see more options in Customize Chrome.
+        You can manage settings for this card from the card menu or see more options in Customize WEB3 DNA Browser.
       </message>
       <message name="IDS_NTP_MODULES_PHOTOS_MEMORIES_EXPLORE" desc="Text to encourage users to explore Google Photos in the new tab page.">
         Explore more of your memories in Google Photos
@@ -6993,7 +6993,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Got it
       </message>
       <message name="IDS_NTP_MODULES_CART_DISCOUNT_CONSENT_CONTENT_V2" desc="Text shown on the consent card for getting discount asking if users would like to give their consent to the feature.">
-        Let Chrome find personalized discounts on your carts?
+        Let WEB3 DNA Browser find personalized discounts on your carts?
       </message>
       <message name="IDS_NTP_MODULES_CART_DISCOUNT_CONSENT_CONTENT_V3" desc="Text shown on the consent card for getting discount asking if users would like to give their consent to the feature.">
         Let Google use your cart to find available discounts?
@@ -7023,7 +7023,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Pick cards that keep you updated on things that matter to you
       </message>
       <message name="IDS_NTP_MODULES_FIRST_RUN_EXPERIENCE_BODY_LINE_2" desc="Line 2 of Modular NTP Desktop v1 First Run Experience's body.">
-        See all card options in <ph name="BEGIN_LINK">&lt;a is="action-link" id="customizeChromeLink" tabIndex=0 on-click="onCustomizeModuleFre_"&gt;</ph>Customize Chrome<ph name="END_LINK">&lt;/a&gt;</ph>
+        See all card options in <ph name="BEGIN_LINK">&lt;a is="action-link" id="customizeChromeLink" tabIndex=0 on-click="onCustomizeModuleFre_"&gt;</ph>Customize WEB3 DNA Browser<ph name="END_LINK">&lt;/a&gt;</ph>
       </message>
       <message name="IDS_NTP_MODULES_FIRST_RUN_EXPERIENCE_OPT_IN" desc="Opt in button for Modular NTP Desktop v1 First Run Experience.">
         Got it
@@ -7167,7 +7167,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Side Panel Selector
       </message>
       <message name="IDS_SIDE_PANEL_CUSTOMIZE_CHROME_TITLE" desc="The name of the Customize Chrome feature in the side panel combo box.">
-        Customize Chrome
+        Customize WEB3 DNA Browser
       </message>
 
       <!-- Bookmarks strings -->
@@ -7424,7 +7424,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
           Open
         </message>
         <message name="IDS_INTENT_PICKER_BUBBLE_VIEW_STAY_IN_CHROME" desc="Message contained in a button to continue the navigation within Chrome.">
-          Stay in Chrome
+          Stay in WEB3 DNA Browser
         </message>
         <message name="IDS_INTENT_PICKER_BUBBLE_VIEW_INITIATING_ORIGIN" desc="The label for the initiating origin of the intent picker.">
           From <ph name="ORIGIN">$1<ex>https://google.com</ex></ph>
@@ -7467,7 +7467,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         <ph name="WINDOW_TITLE">$1</ph> (Guest)
       </message>
       <message name="IDS_ACCESSIBLE_WINDOW_TITLE_WITH_PROFILE_FORMAT" desc="The format for describing the accessible window title when the window is associated with a particular named profile.">
-        <ph name="WINDOW_TITLE">$1<ex>Wikipedia - Google Chrome</ex></ph> - <ph name="PROFILE_NAME">$2<ex>John Smith</ex></ph>
+        <ph name="WINDOW_TITLE">$1<ex>Wikipedia - WEB3 DNA Browser</ex></ph> - <ph name="PROFILE_NAME">$2<ex>John Smith</ex></ph>
       </message>
       <message name="IDS_ACCNAME_APP_UPGRADE_RECOMMENDED" desc="The accessible name for the app menu when software update is available.">
         <ph name="ACCNAME_APP">$1<ex>Chrome</ex></ph> (Update is available)
@@ -7606,7 +7606,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Get back here fast by bookmarking this tab
       </message>
       <message name="IDS_CHROME_TIP" desc="Accessible name used by a screen reader for the in-product-help or tutorial bubble icon." is_accessibility_with_no_ui="true">
-        Chrome tip
+        WEB3 DNA Browser tip
       </message>
       <message name="IDS_GLOBAL_MEDIA_CONTROLS_PROMO" desc="Text shown on promotional UI appearing next to the global media controls toolbar button.">
         New! Control your music, videos, and more.
@@ -7645,7 +7645,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         To get back here quickly, install <ph name="APP_NAME">$1<ex>Google Maps</ex></ph> by clicking the install button
       </message>
       <message name="IDS_UPDATED_CONNECTION_SECURITY_INDICATORS_PROMO" desc="Text shown on promotional UI appearing next to the new omnibox connection security icon">
-        Your connection is always secure unless Chrome tells you otherwise
+        Your connection is always secure unless WEB3 DNA Browser tells you otherwise
       </message>
       <message name="IDS_REOPEN_TAB_PROMO_SCREENREADER" desc="Text announced encouraging users to reopen a tab with the given shortcut">
         <ph name="SHORTCUT">$1<ex>CTRL+SHIFT+T</ex></ph> can reopen accidentally closed tabs
@@ -7824,12 +7824,12 @@ Keep your key file in a safe place. You will need it to create new versions of y
          Show original content?
       </message>
       <message name="IDS_NEAR_OOM_REDUCTION_MESSAGE_DESCRIPTION" desc="The description of the message stating that the browser removed some content on the page using too much memory.">
-         To save memory, Chrome removed some content
+         To save memory, WEB3 DNA Browser removed some content
       </message>
 
       <!-- Tailored Security Prompt for Unconsented users -->
       <message name="IDS_TAILORED_SECURITY_UNCONSENTED_MESSAGE_TITLE" desc="The title of the message asking if the user wants to enable Enhanced Safe Browsing">
-         Also turn on Enhanced Safe Browsing for this Chrome profile?
+         Also turn on Enhanced Safe Browsing for this WEB3 DNA Browser profile?
       </message>
       <message name="IDS_TAILORED_SECURITY_UNCONSENTED_MESSAGE_ACCEPT" desc="The text on the 'accept' button when asking if the user wants to enable Enhanced Safe Browsing">
         Turn on
@@ -7972,10 +7972,10 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
           Protect your passwords
         </message>
         <message name="IDS_PASSWORD_MANAGER_IMPORT_DIALOG_TITLE" desc="The title of the file selection dialog for importing passwords">
-          Import Passwords To Chrome
+          Import Passwords To WEB3 DNA Browser
         </message>
         <message name="IDS_PASSWORD_MANAGER_EXPORT_DIALOG_TITLE" desc="The title of the file selection dialog for exporting passwords">
-          Export Passwords From Chrome
+          Export Passwords From WEB3 DNA Browser
         </message>
         <message name="IDS_PASSWORD_MANAGER_MOVE_TITLE" desc="The title of the 'move password to account' bubble">
           Move to Google Account?
@@ -8251,10 +8251,10 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
         Clear browsing data
       </message>
       <message name="IDS_CLEAR_BROWSING_DATA_HISTORY_NOTICE" desc="A dialog informing the user that their Chrome browsing history was deleted, but other forms of history can still be found on Google My Activity.">
-        The selected data has been removed from Chrome and synced devices. Your Google Account may have other forms of browsing history like searches and activity from other Google services at <ph name="BEGIN_LINK">&lt;a target="_blank" href="$1"&gt;</ph>myactivity.google.com<ph name="END_LINK">&lt;/a&gt;</ph>.
+        The selected data has been removed from WEB3 DNA Browser and synced devices. Your Google Account may have other forms of browsing history like searches and activity from other Google services at <ph name="BEGIN_LINK">&lt;a target="_blank" href="$1"&gt;</ph>myactivity.google.com<ph name="END_LINK">&lt;/a&gt;</ph>.
       </message>
       <message name="IDS_CLEAR_BROWSING_DATA_HISTORY_NOTICE_TITLE" desc="Title of a dialog that informs the user that the deletion of Chrome's browsing data has been completed.">
-        Cleared Chrome data
+        Cleared WEB3 DNA Browser data
       </message>
       <message name="IDS_CLEAR_BROWSING_DATA_HISTORY_NOTICE_OK" desc="Button in a dialog that informs the user that the deletion of Chrome's browsing data has been completed.">
         Ok, got it
@@ -8282,7 +8282,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
       </message>
 
       <message name="IDS_ZOOMLEVELS_CHROME_ERROR_PAGES_LABEL" desc="Label for zoom level list entry for Chrome error pages.">
-        (Chrome error pages)
+        (WEB3 DNA Browser error pages)
       </message>
 
       <!-- Automatic updates -->
@@ -8872,10 +8872,10 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
         <ph name="APP_NAME">$1<ex>html5rocks.com</ex></ph> is sharing a window.
       </message>
       <message name="IDS_MEDIA_TAB_CAPTURE_NOTIFICATION_TEXT" desc="label used in screen capture notification UI to show the screen sharing status when the stream is consumed by the same app initiating the window picker">
-        <ph name="APP_NAME">$1<ex>html5rocks.com</ex></ph> is sharing a Chrome tab.
+        <ph name="APP_NAME">$1<ex>html5rocks.com</ex></ph> is sharing a WEB3 DNA Browser tab.
       </message>
       <message name="IDS_MEDIA_TAB_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT" desc="label used in screen capture notification UI to show the screen sharing status when the stream is consumed by the same app initiating the window picker">
-        <ph name="APP_NAME">$1<ex>html5rocks.com</ex></ph> is sharing a Chrome tab and audio.
+        <ph name="APP_NAME">$1<ex>html5rocks.com</ex></ph> is sharing a WEB3 DNA Browser tab and audio.
       </message>
       <message name="IDS_MEDIA_SCREEN_CAPTURE_NOTIFICATION_HIDE" desc="Text shown on a link that hides the notification that the screen is being captured.">
         Hide
@@ -8968,7 +8968,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
       <!-- Killed Tab Strings -->
       <if expr="is_chromeos">
         <message name="IDS_KILLED_TAB_BY_OOM_MESSAGE" desc="The message displayed on the killed tab page when the page was killed by an out of memory error.">
-          Either Chrome ran out of memory or the process for the webpage was terminated for some other reason.  To continue, reload or go to another page.
+          Either WEB3 DNA Browser ran out of memory or the process for the webpage was terminated for some other reason.  To continue, reload or go to another page.
         </message>
       </if>
       <message name="IDS_KILLED_TAB_FEEDBACK_MESSAGE" desc="The text to auto-populate the feedback page with. The triple single quotes are needed to preserve the line break.">
@@ -9075,7 +9075,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
           This extension violates the Chrome Web Store policy.
         </message>
         <message name="IDS_EXTENSIONS_BLOCKLISTED_POTENTIALLY_UNWANTED" desc="The text explaining the reason for disabling extension or app. The extension in question might have been installed without user consent.">
-          Disabled by Chrome. This extension may be unsafe.
+          Disabled by WEB3 DNA Browser. This extension may be unsafe.
         </message>
 
         <!-- Enhanced Safe Browsing CRX allowlist warning -->
@@ -9096,7 +9096,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
         <message name="IDS_RESET_PROFILE_SETTINGS_EXPLANATION_IN_BULLET_POINTS" desc="A label formatted with bullet points describing the consequences of the 'reset profile settings' feature">
           This action will:
           <ph name="LINE_BREAKS">&lt;br&gt;&lt;br&gt;</ph>
-           • Reset Chrome settings and Chrome shortcuts
+           • Reset WEB3 DNA Browser settings and WEB3 DNA Browser shortcuts
            <ph name="LINE_BREAK">&lt;br&gt;</ph>
            • Disable extensions
            <ph name="LINE_BREAK">&lt;br&gt;</ph>
@@ -9108,7 +9108,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
           <ph name="THIRD_PARTY_TOOL_NAME">$1<ex>SuperDuper PC Cleaner Pro</ex></ph> wants to reset your settings.
         </message>
         <message name="IDS_TRIGGERED_RESET_PROFILE_SETTINGS_EXPLANATION" desc="Dialog title for reset dialog triggered by a third party tool">
-          <ph name="THIRD_PARTY_TOOL_NAME">$1<ex>SuperDuper PC Cleaner Pro</ex></ph> wants to restore your Chrome settings to their original defaults. This will reset your homepage, new tab page and search engine, disable your extensions, and unpin all tabs. It will also clear other temporary and cached data, such as cookies, content and site data.
+          <ph name="THIRD_PARTY_TOOL_NAME">$1<ex>SuperDuper PC Cleaner Pro</ex></ph> wants to restore your WEB3 DNA Browser settings to their original defaults. This will reset your homepage, new tab page and search engine, disable your extensions, and unpin all tabs. It will also clear other temporary and cached data, such as cookies, content and site data.
         </message>
         <message name="IDS_TRIGGERED_RESET_PROFILE_SETTINGS_DEFAULT_TOOL_NAME" desc="Default tool name when a reset was triggered but a name could not be found.">
           A cleanup tool
@@ -9203,7 +9203,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
         Shared Tab
       </message>
       <message name="IDS_TOOLBAR_BUTTON_SEND_TAB_TO_SELF_BUTTON_HINT_TEXT" desc="The hint text shown on received tab dialog shown from the toolbar button. Where 'THERE' is the device the user selected.">
-        Choose a device. Then, to see the page, open Chrome there.
+        Choose a device. Then, to see the page, open WEB3 DNA Browser there.
       </message>
       <if expr="use_titlecase">
         <then>
@@ -10158,7 +10158,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
       <if expr="chromeos_lacros">
         <!--  TODO(crbug.com/1383167): Move to Chrome-specific resource file -->
         <message name="IDS_SYNC_CONFIRMATION_TITLE_LACROS_NON_FORCED" desc="Title of the sync confirmation dialog/screen on lacros when sync is not forced.">
-          Turn on Chrome browser sync?
+          Turn on WEB3 DNA Browser browser sync?
         </message>
         <message name="IDS_SYNC_CONFIRMATION_SYNC_INFO_TITLE_LACROS" desc="Text in the information about sync on the sync confirmation dialog/screen on lacros.">
           Your bookmarks, passwords, history, and more are synced on all your devices
@@ -10330,7 +10330,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Google 
         Passwords from your Google Account will also be available on this device while you're signed in
       </message>
       <message name="IDS_ACCOUNT_PASSWORDS_REAUTH_DESC_ALREADY_SAVED_LOCALLY" desc="Body of the account password storage reauth tab modal dialog, shown in the case where the password was already saved locally.">
-        Chrome saved your password to this device, but you can save it to your Google Account instead. Then, all passwords in your Google Account will also be available while you're signed in.
+        WEB3 DNA Browser saved your password to this device, but you can save it to your Google Account instead. Then, all passwords in your Google Account will also be available while you're signed in.
       </message>
       <message name="IDS_ACCOUNT_PASSWORDS_REAUTH_CONFIRM_BUTTON_LABEL" desc="Label of the confirmation button in the account password storage reauth tab modal dialog.">
         Yes
@@ -10431,7 +10431,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
 '''
       </message>
       <message name="IDS_COULDNT_STARTUP_PROFILE_ERROR" desc="Error displayed when Chrome cannot start because profiles were not opened correctly.">
-        Cannot start Chrome because something went wrong when opening your profile. Try to restart Chrome.
+        Cannot start WEB3 DNA Browser because something went wrong when opening your profile. Try to restart WEB3 DNA Browser.
       </message>
       <message name="IDS_REFUSE_TO_RUN_AS_ROOT" desc="Short error message displayed in an error dialog on startup if the user tries to run Chrome as root.">
         <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> can not be run as root.
@@ -11421,7 +11421,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
           Location is turned off in Mac System Preferences
         </message>
         <message name="IDS_GEOLOCATION_TURNED_OFF_IN_MACOS_SETTINGS" desc="Title for the geolocation bubble that is used when a site requests geolocation, but geolocation is blocked on an OS level in macOS.">
-          Turn on "Google Chrome" in Location Services on your Mac
+          Turn on "WEB3 DNA Browser" in Location Services on your Mac
         </message>
         <message name="IDS_GEOLOCATION_TURNED_OFF" desc="Description text in the omnibox icon showing when location permission is blocked on an OS level in macOS.">
           Location turned off
@@ -12345,7 +12345,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <if expr="not is_android">
       <!-- Device Chooser Prompt -->
       <message name="IDS_BLUETOOTH_DEVICE_CHOOSER_PROMPT_EXTENSION_NAME" desc="The label that is used to introduce Bluetooth chooser details to the user in a popup when it is from a Chrome extension.">
-        "<ph name="CHROME_EXTENSION_NAME">$1<ex>Chrome Extension Name</ex></ph>" wants to pair
+        "<ph name="CHROME_EXTENSION_NAME">$1<ex>WEB3 DNA Browser Extension Name</ex></ph>" wants to pair
       </message>
       <message name="IDS_BLUETOOTH_DEVICE_CHOOSER_TURN_ADAPTER_OFF" desc="Text of a link the user can click to get help information when Bluetooth adapter is turned off.">
         <ph name="TURN_ON_BLUETOOTH_LINK">$1<ex>Turn on Bluetooth</ex></ph> to allow pairing
@@ -12376,7 +12376,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       </message>
     </if>
     <message name="IDS_USB_DEVICE_CHOOSER_PROMPT_EXTENSION_NAME" desc="The label that is used to introduce USB chooser details to the user in a popup when it is from a Chrome extension.">
-      "<ph name="CHROME_EXTENSION_NAME">$1<ex>Chrome Extension Name</ex></ph>" wants to connect
+      "<ph name="CHROME_EXTENSION_NAME">$1<ex>WEB3 DNA Browser Extension Name</ex></ph>" wants to connect
     </message>
     <message name="IDS_DEVICE_CHOOSER_ACCNAME_COMPATIBLE_DEVICES_LIST" desc="The accessible name for the list of compatible devices, read to screen reader users when navigating to the container.">
       Compatible devices
@@ -12413,7 +12413,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         <ph name="Origin">$1<ex>www.google.com</ex></ph> wants to connect to a serial port
       </message>
       <message name="IDS_SERIAL_PORT_CHOOSER_PROMPT_EXTENSION_NAME" desc="The label that is used to introduce serial port chooser details to the user in a popup when it is from a Chrome extension.">
-        "<ph name="CHROME_EXTENSION_NAME">$1<ex>Chrome Extension Name</ex></ph>" wants to connect to a serial port
+        "<ph name="CHROME_EXTENSION_NAME">$1<ex>WEB3 DNA Browser Extension Name</ex></ph>" wants to connect to a serial port
       </message>
       <message name="IDS_SERIAL_PORT_CHOOSER_NAME_WITH_PATH" desc="User option displaying a human-readable name for a serial port with the device path in parenthesis">
         <ph name="FRIENDLY_NAME">$1<ex>Virtual COM Port</ex></ph> (<ph name="DEVICE_PATH">$2<ex>COM1</ex></ph>)
@@ -12453,7 +12453,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         <ph name="Origin">$1<ex>www.google.com</ex></ph> wants to connect to a HID device
       </message>
       <message name="IDS_HID_CHOOSER_PROMPT_EXTENSION_NAME" desc="The label that is used to introduce Human Interface Device (HID) chooser details to the user in a popup when it is from a Chrome extension.">
-        "<ph name="CHROME_EXTENSION_NAME">$1<ex>Chrome Extension Name</ex></ph>" wants to connect to a HID device
+        "<ph name="CHROME_EXTENSION_NAME">$1<ex>WEB3 DNA Browser Extension Name</ex></ph>" wants to connect to a HID device
       </message>
       <message name="IDS_HID_CHOOSER_ITEM_WITHOUT_NAME" desc="User option displaying the device IDs for a Human Interface Device (HID) without a device name.">
         Unknown Device (<ph name="DEVICE_ID">$1<ex>1234:abcd</ex></ph>)
@@ -12606,13 +12606,13 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <!-- Windows 10 toast strings -->
     <if expr="is_win">
       <message name="IDS_WIN10_TOAST_BROWSE_FAST" desc="Toast message variant: browse fast.">
-        Browse fast with Google Chrome
+        Browse fast with WEB3 DNA Browser
       </message>
       <message name="IDS_WIN10_TOAST_BROWSE_SAFELY" desc="Toast message variant: browse safely.">
-        Browse safely with Google Chrome
+        Browse safely with WEB3 DNA Browser
       </message>
       <message name="IDS_WIN10_TOAST_BROWSE_SMART" desc="Toast message variant: browse smart.">
-        Browse smart with Chrome
+        Browse smart with WEB3 DNA Browser
       </message>
       <message name="IDS_WIN10_TOAST_SWITCH_FAST" desc="Toast message variant: switch to a fast browser.">
         Switch to a fast browser
@@ -12627,10 +12627,10 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Switch to a smart and secure browser
       </message>
       <message name="IDS_WIN10_TOAST_RECOMMENDATION" desc="Toast header label noting Google recommends Chrome.">
-        Google recommends Chrome
+        Google recommends WEB3 DNA Browser
       </message>
       <message name="IDS_WIN10_TOAST_OPEN_CHROME" desc="The label on the button to dismiss the toast and launch Chrome.">
-        Open Chrome
+        Open WEB3 DNA Browser
       </message>
       <message name="IDS_WIN10_TOAST_NO_THANKS" desc="The label on the button to dismiss the toast without launching Chrome.">
         No thanks
@@ -12649,7 +12649,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
 
     <!-- Automation infobar -->
     <message name="IDS_CONTROLLED_BY_AUTOMATION" desc="Message shown when the browser session is being controlled by an automated test.">
-      Chrome is being controlled by automated test software.
+      WEB3 DNA Browser is being controlled by automated test software.
     </message>
 
     <!-- Security Key permission -->
@@ -12789,8 +12789,8 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <message name="IDS_FILE_SYSTEM_ACCESS_USAGE_BUBBLE_FILES_TEXT" desc="Text to display a list of files in the File System Access usage bubble">
       {0, plural, offset:2
         =1 {<ph name="FILE1">{1}<ex>README.md</ex></ph>}
-        =2 {<ph name="FILE1">{1}<ex>README.md</ex></ph>, <ph name="FILE2">{2}<ex>Chrome.png</ex></ph>}
-        other {<ph name="FILE1">{1}<ex>README.md</ex></ph>, <ph name="FILE2">{2}<ex>Chrome.png</ex></ph>, and # more}
+        =2 {<ph name="FILE1">{1}<ex>README.md</ex></ph>, <ph name="FILE2">{2}<ex>WEB3 DNA Browser.png</ex></ph>}
+        other {<ph name="FILE1">{1}<ex>README.md</ex></ph>, <ph name="FILE2">{2}<ex>WEB3 DNA Browser.png</ex></ph>, and # more}
       }
     </message>
     <message name="IDS_FILE_SYSTEM_ACCESS_USAGE_EXPAND" desc="Tooltip for and name of a button that shows (expands) a detailed list of files and directories">
@@ -12957,7 +12957,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
 
       <if expr="is_macosx">
         <message name="IDS_WEBAUTHN_BLUETOOTH_PERMISSION" desc="Body text in a dialog that appears when the user has requested some function that depends on Bluetooth, but Chrome doesn't have permission to use Bluetooth. The action on this dialog is a button that will open the macOS System Preferences so that the user can grant permission.">
-          Chrome needs permission to use Bluetooth to connect to your device
+          WEB3 DNA Browser needs permission to use Bluetooth to connect to your device
         </message>
       </if>
 
@@ -13030,7 +13030,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Use your Android phone as a security key
       </message>
       <message name="IDS_WEBAUTHN_CABLE_V2_ACTIVATE_DESCRIPTION_SHORT" desc="Second line of text in an item letting the user know how they can use Chrome on their Android phone as a security key. The substring 'Use phone as a security key' refers to the string IDS_PHONE_AS_SECURITY_KEY_TEXT in Chrome on Android.">
-        Open Chrome on your Android phone, and go to "Settings > Passwords > Use phone as a security key", and follow the instructions there.
+        Open WEB3 DNA Browser on your Android phone, and go to "Settings > Passwords > Use phone as a security key", and follow the instructions there.
       </message>
 
       <!-- WebAuthn authenticator PIN entry/setup -->
@@ -13481,21 +13481,21 @@ Please help our engineers fix this problem. Tell us what happened right before y
     </message>
 
     <message name="IDS_TAILORED_SECURITY_ENABLED_DIALOG_MAIN_TEXT" desc="Title shown in the tab dialog when the account tailored security setting changes for a consented primary account">
-      You have Chrome's strongest security against dangerous websites, downloads and extensions
+      You have WEB3 DNA Browser's strongest security against dangerous websites, downloads and extensions
     </message>
     <message name="IDS_TAILORED_SECURITY_DISABLED_DIALOG_MAIN_TEXT" desc="Title shown in the tab dialog when the account tailored security setting changes for a consented primary account">
-      You're getting standard security protection. To get more protection against dangerous websites, downloads, and extensions, turn on Enhanced Safe Browsing in Chrome settings.
+      You're getting standard security protection. To get more protection against dangerous websites, downloads, and extensions, turn on Enhanced Safe Browsing in WEB3 DNA Browser settings.
     </message>
     <message name="IDS_TAILORED_SECURITY_DISABLED_DIALOG_ACCEPT_BUTTON" desc="The text on the accept button in the tab modal dialog when the account tailored security setting is disabled for a consented primary account">
       Got it
     </message>
     <message name="IDS_TAILORED_SECURITY_DIALOG_SETTINGS_BUTTON" desc="The text on the cancel button in the tab dialog when the account tailored security setting changes for a consented primary account">
-      Chrome settings
+      WEB3 DNA Browser settings
     </message>
 
     <!-- Tailored security dialog for unconsented primary accounts -->
     <message name="IDS_TAILORED_SECURITY_UNCONSENTED_MODAL_TITLE" desc="Title shown in the tab modal dialog when the account tailored security setting changes for an unconsented primary account">
-      Also turn on Enhanced Safe Browsing for this Chrome profile?
+      Also turn on Enhanced Safe Browsing for this WEB3 DNA Browser profile?
     </message>
     <message name="IDS_TAILORED_SECURITY_UNCONSENTED_ACCEPT_BUTTON" desc="The text on the accept button in the tab modal dialog when the account tailored security setting changes for an unconsented primary account">
       Turn on
@@ -13509,7 +13509,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       Enhanced Safe Browsing is on
     </message>
     <message name="IDS_TAILORED_SECURITY_CONSENTED_ENABLE_MESSAGE_DESCRIPTION" desc="Description shown in the Android message when the account tailored security setting changes for a consented primary account">
-      You&#x2019;re on Chrome&#x2019;s strongest security
+      You&#x2019;re on WEB3 DNA Browser&#x2019;s strongest security
     </message>
     <message name="IDS_TAILORED_SECURITY_CONSENTED_DISABLE_MESSAGE_TITLE" desc="Title shown in the Android message when the account tailored security setting changes for a consented primary account">
       Enhanced Safe Browsing is off
@@ -13596,7 +13596,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     </message>
 
     <message name="IDS_APP_PAUSE_HEADING_FOR_WEB_APPS" desc="Tells the user the app will be paused.">
-      You reached the time limit your parent set for <ph name="APP_NAME">$1<ex>Google Photos</ex></ph> Chrome app. You can use it for <ph name="TIME_LIMIT">$2<ex>2 hours and 30 minutes</ex></ph> tomorrow.
+      You reached the time limit your parent set for <ph name="APP_NAME">$1<ex>Google Photos</ex></ph> WEB3 DNA Browser app. You can use it for <ph name="TIME_LIMIT">$2<ex>2 hours and 30 minutes</ex></ph> tomorrow.
     </message>
 
     <!-- App block prompt -->
@@ -13748,7 +13748,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       Tab Search
     </message>
     <message name="IDS_TAB_SEARCH_EXPERIMENT_DESCRIPTION" desc="Description for Tab Search experiment">
-      Enable a popup bubble in Top Chrome UI to search over currently open tabs.
+      Enable a popup bubble in Top WEB3 DNA Browser UI to search over currently open tabs.
     </message>
     <!-- ChromeLabs Lens Region Search -->
     <message name="IDS_LENS_REGION_SEARCH_EXPERIMENT_NAME" desc="Name for Lens Region Search experiment">
@@ -13935,7 +13935,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       Limited sharing between sites
     </message>
     <message name="IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_DESCRIPTION" desc="The body text of the bubble.* “Chrome is finding new ways”: “finding” is meant to convey a work in progress, like “build” in the title. The features are live and functional, but still in beta. So we want a verb that’s stronger than “exploring” but weaker than “launching”. * “reduce tracking”: This used to read “reduce cross-site tracking”, but we’ve dropped “cross-site” because it makes the idea unnecessarily complicated. * “estimate your interests”: Topics of interest include things like “Live comedy” and “Rock music”. Chrome estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “Then” is an important keyword. It suggests some amount of time later. The first step is that interests are generated. Later (minutes or weeks), a different site might request interests.">
-      Chrome is finding new ways to reduce tracking and keep you even safer as you browse. Chrome also <ph name="ESTIMATE_INTERESTS_LINK">$1<ex>estimates your interests</ex></ph> and enables you to manage them. Then, sites you visit can ask Chrome for your interests to show you ads.
+      WEB3 DNA Browser is finding new ways to reduce tracking and keep you even safer as you browse. WEB3 DNA Browser also <ph name="ESTIMATE_INTERESTS_LINK">$1<ex>estimates your interests</ex></ph> and enables you to manage them. Then, sites you visit can ask WEB3 DNA Browser for your interests to show you ads.
     </message>
     <message name="IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_SETTINGS_LINK" desc="The user can choose “Go to settings” to visit chrome://settings/privacySandbox. If they do, they’ll find the toggle on for Sandbox trials, which include everything they’ve read above. They can leave trials on or turn them off on this page. Choosing “Go to settings”, the user will navigate away from this page and won’t be able to return here.">
       Go to settings
@@ -13944,7 +13944,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       estimates your interests
     </message>
     <message name="IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_DESCRIPTION_ESTIMATES_INTERESTS_LINK_A11Y_NAME" desc="The accessible text read for IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_DESCRIPTION_ESTIMATES_INTERESTS_LINK. * “estimate your interests”: Topics of interest include things like “Live comedy” and “Rock music”. Chrome estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). ">
-      estimates your interests - Chrome can estimate your interests
+      estimates your interests - WEB3 DNA Browser can estimate your interests
     </message>
     <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_BODY_DESCRIPTION_1" desc="The description beneath the “Limited sharing between sites” subtitle. * “exploring” conveys that this is a work in progress. * “restrict” means to lessen. We don’t want to suggest that we’re “eliminating” cross-site tracking. * “tracking”: An example: a user visits site A and then site B. Based on how third-party cookies work today, when that user later visits site C, site C can be aware that the user visited sites A and B, and can even have some sense for what they did on those sites. * “stop ad spam and fraud”:  This feature isn’t really related to restricting cross-site tracking but we combined these features in the same sentence / section for structural reasons.">
       We’re exploring ways to restrict tracking while enabling sites to stop ad spam and fraud.
@@ -13992,10 +13992,10 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Let Google Assistant help you change your password
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_PASSWORD_CHANGE_ONBOARDING_DESCRIPTION" desc="The description / sub-title of the Automated Password Change on Desktop onboarding dialog.">
-        Google Assistant in Chrome can complete actions across websites for you
+        Google Assistant in WEB3 DNA Browser can complete actions across websites for you
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_PASSWORD_CHANGE_ONBOARDING_CONSENT_TEXT" desc="The description of what kind of data Google will send and process in order to enable Automated Password Change. This is shown at the bottom of the onboarding dialog.">
-        To help you complete tasks, Google will receive the URLs and contents of sites on which you use Assistant, as well as information you submit through Assistant. This information may be stored in your Google Account. You can turn off Assistant in Chrome settings. <ph name="LEARN_MORE">$1<ex>Learn more</ex></ph>
+        To help you complete tasks, Google will receive the URLs and contents of sites on which you use Assistant, as well as information you submit through Assistant. This information may be stored in your Google Account. You can turn off Assistant in WEB3 DNA Browser settings. <ph name="LEARN_MORE">$1<ex>Learn more</ex></ph>
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_PASSWORD_CHANGE_ONBOARDING_LEARN_MORE" desc="The text displayed on a link on the onboarding dialog that a user can click to navigate to a Google website with detailed information on how Automated Password Change on Desktop/ Assistant works and what data is collected.">
         Learn more

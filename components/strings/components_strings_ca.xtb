@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Proporcioneu més informació</translation>
 <translation id="1019413721762100891">Desactivat</translation>
 <translation id="1021110881106174305">Targetes acceptades</translation>
-<translation id="1021753677514347426">Aquest problema es produeix a causa d'un certificat que tu o una altra persona heu instal·lat al dispositiu. Se sap que aquest certificat s'utilitza per supervisar i interceptar xarxes, i Chromium no hi confia. Tot i que hi ha casos en què és legítim dur a terme una supervisió, per exemple, en el cas d'una empresa o d'un centre educatiu, Chromium vol assegurar-se que estiguis al cas d'aquesta situació, encara que no la puguis evitar. La supervisió es pot produir en qualsevol navegador o aplicació que accedeixi al web.</translation>
+<translation id="6843750610117699926">Aquest problema es produeix a causa d'un certificat que tu o una altra persona heu instal·lat al dispositiu. Se sap que aquest certificat s'utilitza per supervisar i interceptar xarxes, i WEB3 DNA Browser no hi confia. Tot i que hi ha casos en què és legítim dur a terme una supervisió, per exemple, en el cas d'una empresa o d'un centre educatiu, WEB3 DNA Browser vol assegurar-se que estiguis al cas d'aquesta situació, encara que no la puguis evitar. La supervisió es pot produir en qualsevol navegador o aplicació que accedeixi al web.</translation>
 <translation id="1024111578869940408">De vegades, els atacants imiten llocs web introduint canvis difícils de veure a l'adreça web.</translation>
 <translation id="1028781062521375153">Mostra els detalls</translation>
 <translation id="1030706264415084469"><ph name="URL" /> vol emmagatzemar una gran quantitat de dades al dispositiu de manera permanent</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Desfés l'addició</translation>
 <translation id="1056663316309890343">Programari de fotografia</translation>
 <translation id="1056898198331236512">Advertiment</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per jugar al joc del dinosaure de Chrome</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per jugar al joc del dinosaure de WEB3 DNA Browser</translation>
 <translation id="1058479211578257048">S'estan desant les targetes...</translation>
 <translation id="1060320201901229167">Sobre Kaku 5</translation>
 <translation id="10614374240317010">Contrasenyes que no es desen mai</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Afegeix el titular de la targeta</translation>
 <translation id="1089439967362294234">Canvia la contrasenya</translation>
 <translation id="1096545575934602868">Aquest camp no pot tenir més de <ph name="MAX_ITEMS_LIMIT" /> entrades. Es descartaran totes les entrades restants.</translation>
-<translation id="1100782917270858593">Botó Reprèn el recorregut: prem Retorn per reprendre el recorregut i veure activitat rellevant a l'historial de Chrome</translation>
+<translation id="3985486898664025513">Botó Reprèn el recorregut: prem Retorn per reprendre el recorregut i veure activitat rellevant a l'historial de WEB3 DNA Browser</translation>
 <translation id="1101672080107056897">Acció d'error</translation>
 <translation id="1103523840287552314">Tradueix sempre el text en <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Has introduït la contrasenya en un lloc web que no està gestionat per la teva organització. Per protegir el teu compte, no facis servir la mateixa contrasenya en altres aplicacions ni llocs web.</translation>
 <translation id="1257553931232494454">nivells de zoom</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar la configuració de Chrome</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar la configuració de WEB3 DNA Browser</translation>
 <translation id="1263231323834454256">Llista de lectura</translation>
 <translation id="1264309058268477500">Alternatiu</translation>
 <translation id="1264974993859112054">Esports</translation>
@@ -131,7 +131,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="1285320974508926690">No tradueixis mai aquest lloc</translation>
 <translation id="1288548991597756084">Desa la targeta de manera segura</translation>
 <translation id="1292571435393770077">Safata 16</translation>
-<translation id="1292701964462482250">"L'ordinador conté programari que impedeix que Chrome es connecti de manera segura al web" (només en ordinadors Windows)</translation>
+<translation id="3610512443326918645">"L'ordinador conté programari que impedeix que WEB3 DNA Browser es connecti de manera segura al web" (només en ordinadors Windows)</translation>
 <translation id="1293797321964802402">Sobre de 9 x 11 polzades</translation>
 <translation id="1294154142200295408">Variacions de la línia d'ordres</translation>
 <translation id="129553762522093515">Tancades recentment</translation>
@@ -150,7 +150,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="1323433172918577554">Mostra'n més</translation>
 <translation id="132390688737681464">Desa i emplena les adreces</translation>
 <translation id="1330449323196174374">Plegat amb finestra a l'esquerra</translation>
-<translation id="1333745675627230582">Juga al joc El dinosaure de Chrome</translation>
+<translation id="6227572462599550594">Juga al joc El dinosaure de WEB3 DNA Browser</translation>
 <translation id="1333989956347591814">És possible que la teva activitat <ph name="BEGIN_EMPHASIS" />continuï sent visible<ph name="END_EMPHASIS" /> per a:
 <ph name="BEGIN_LIST" />
 <ph name="LIST_ITEM" />els llocs web que visitis
@@ -223,7 +223,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="1483493594462132177">Envia</translation>
 <translation id="1484290072879560759">Tria l'adreça d'enviament</translation>
 <translation id="1492194039220927094">Tramesa automàtica de les polítiques:</translation>
-<translation id="149293076951187737">Quan tanques totes les pestanyes d'incògnit a Chrome, la teva activitat en aquelles pestanyes s'esborra del dispositiu:
+<translation id="3175654283800723944">Quan tanques totes les pestanyes d'incògnit a WEB3 DNA Browser, la teva activitat en aquelles pestanyes s'esborra del dispositiu:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Activitat de navegació<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Historial de cerques<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="154408704832528245">Tria l'adreça d'entrega</translation>
 <translation id="1549470594296187301">Heu d'activar el JavaScript per utilitzar aquesta funció.</translation>
 <translation id="1551884710160394169">Programari a 0 € i de prova</translation>
-<translation id="1553358976309200471">Actualitza Chrome</translation>
+<translation id="1553358976309200471">Actualitza WEB3 DNA Browser</translation>
 <translation id="1555130319947370107">Blau</translation>
 <translation id="1559447966090556585">Vols rebre notificacions?</translation>
 <translation id="1559528461873125649">No existeix el fitxer o el directori</translation>
@@ -263,7 +263,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="156703335097561114">Informació de les xarxes, com ara les adreces, la configuració de les interfícies i la qualitat de la connexió</translation>
 <translation id="1567040042588613346">Aquesta política funciona correctament, però s'ha establert el mateix valor en un altre lloc i s'ha substituït per la política.</translation>
 <translation id="1569487616857761740">Introdueix la data de caducitat</translation>
-<translation id="1569694109004336106">Google Chrome està provant d'activar Windows Hello per emplenar contrasenyes.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser està provant d'activar Windows Hello per emplenar contrasenyes.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> polzades</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">S'ha produït un error en mostrar aquesta pàgina web.</translation>
@@ -273,7 +273,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="1594030484168838125">Tria</translation>
 <translation id="1596296697375291157">Pel·lícules de crims, de misteri i thrillers</translation>
 <translation id="1599199147673445968">És una targeta nova? <ph name="BEGIN_LINK" />Introdueix els detalls de la targeta<ph name="END_LINK" />.</translation>
-<translation id="160851722280695521">Juga al joc del dinosaure de Chrome</translation>
+<translation id="160851722280695521">Juga al joc del dinosaure de WEB3 DNA Browser</translation>
 <translation id="161042844686301425">Cian</translation>
 <translation id="1611101756749861742">Segon corró</translation>
 <translation id="1615402009686901181">La política de l'administrador desactiva la captura de pantalla quan es mostra contingut confidencial</translation>
@@ -293,13 +293,13 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="1642410292376109062">Botó Canvia la contrasenya de Google: prem Retorn per canviar la contrasenya del teu Compte de Google</translation>
 <translation id="1644574205037202324">Historial</translation>
 <translation id="1645368109819982629">Protocol no admès</translation>
-<translation id="1650602712345345441">Gestiona la configuració de Chrome</translation>
+<translation id="1650602712345345441">Gestiona la configuració de WEB3 DNA Browser</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome ha simplificat aquesta pàgina perquè sigui més fàcil de llegir. A més, ha recuperat la pàgina original amb una connexió segura.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser ha simplificat aquesta pàgina perquè sigui més fàcil de llegir. A més, ha recuperat la pàgina original amb una connexió segura.</translation>
 <translation id="1656489000284462475">Recollida</translation>
 <translation id="1658918301167915956">dispositius Bluetooth</translation>
 <translation id="1662550410081243962">Desa i emplena les formes de pagament</translation>
-<translation id="1663943134801823270">Les targetes i les adreces s'obtenen de Chrome. Pots gestionar-les des de <ph name="BEGIN_LINK" />Configuració<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Les targetes i les adreces s'obtenen de WEB3 DNA Browser. Pots gestionar-les des de <ph name="BEGIN_LINK" />Configuració<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">A partir d'ara, les pàgines en <ph name="SOURCE_LANGUAGE" /> es traduiran a <ph name="TARGET_LANGUAGE" />.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> a <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">La vora curta primer</translation>
@@ -347,7 +347,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="1757773103848038814">Tipus de lletra monoespaiada</translation>
 <translation id="1763864636252898013">Aquest servidor no ha pogut comprovar que sigui <ph name="DOMAIN" /> perquè el sistema operatiu del vostre dispositiu considera que el seu certificat de seguretat no és de confiança. Això pot ser a causa d'una configuració incorrecta o d'un atacant que intercepta la vostra connexió.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Prova d'executar el diagnòstic de xarxes de Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Més informació sobre el mode d'incògnit a Chromium<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Més informació sobre el mode d'incògnit a WEB3 DNA Browser<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Les pestanyes obertes es mostren aquí</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -399,11 +399,11 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="1919526244108283799">400 x 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Cap}=1{1 lloc}other{# llocs}}</translation>
 <translation id="1924727005275031552">Nous</translation>
-<translation id="1927439593081478069">Botó Executa la comprovació de seguretat de Chrome: prem Retorn per executar la comprovació de seguretat a la configuració de Chrome</translation>
+<translation id="1927439593081478069">Botó Executa la comprovació de seguretat de WEB3 DNA Browser: prem Retorn per executar la comprovació de seguretat a la configuració de WEB3 DNA Browser</translation>
 <translation id="1935995810530254458">Copia igualment</translation>
 <translation id="1939175642807587452">Pot demanar permís per enviar notificacions</translation>
 <translation id="1943994668912612445">Disseny</translation>
-<translation id="1945968466830820669">Podries perdre l'accés al compte de la teva organització o ser víctima d'un robatori d'identitat. Chromium et recomana que canviïs la contrasenya ara.</translation>
+<translation id="5087943717045213809">Podries perdre l'accés al compte de la teva organització o ser víctima d'un robatori d'identitat. WEB3 DNA Browser et recomana que canviïs la contrasenya ara.</translation>
 <translation id="1946849748901605102">12 x 15 polzades</translation>
 <translation id="1947454675006758438">Grapat a la part superior dreta</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -426,8 +426,8 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2001146170449793414">{COUNT,plural, =1{i 1 aplicació més}other{i # aplicacions més}}</translation>
 <translation id="2003709556000175978">Restableix la contrasenya ara</translation>
 <translation id="2003775180883135320">Encunyació quàdruple a la part superior</translation>
-<translation id="201174227998721785">Gestiona els permisos i les dades emmagatzemades als llocs web des de la configuració de Chrome</translation>
-<translation id="2019607688127825327">Botó Gestiona la configuració d'accessibilitat: prem Retorn per personalitzar les eines d'accessibilitat a la configuració de Chrome</translation>
+<translation id="201174227998721785">Gestiona els permisos i les dades emmagatzemades als llocs web des de la configuració de WEB3 DNA Browser</translation>
+<translation id="2019607688127825327">Botó Gestiona la configuració d'accessibilitat: prem Retorn per personalitzar les eines d'accessibilitat a la configuració de WEB3 DNA Browser</translation>
 <translation id="202224654587969958">12 x 19 polzades</translation>
 <translation id="2025115093177348061">Realitat augmentada</translation>
 <translation id="2025186561304664664">El servidor intermediari està definit perquè es configuri automàticament.</translation>
@@ -444,7 +444,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2048261947532620704">S'està traduint la pàgina</translation>
 <translation id="205212645995975601">Barbacoa i cuina a la brasa</translation>
 <translation id="2053111141626950936">Les pàgines en <ph name="LANGUAGE" /> no es traduiran.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Quan aquest control està activat i la prova està activa, Chrome determina en quin grup gran de persones, o cohort, hi ha una activitat de navegació recent més semblant a la teva. Els anunciants poden seleccionar anuncis per al grup i la teva activitat de navegació es manté privada al teu dispositiu. El teu grup s'actualitza cada dia.}=1{Quan aquest control està activat i la prova està activa, Chrome determina en quin grup gran de persones, o cohort, hi ha una activitat de navegació recent més semblant a la teva. Els anunciants poden seleccionar anuncis per al grup i la teva activitat de navegació es manté privada al teu dispositiu. El teu grup s'actualitza cada dia.}other{Quan aquest control està activat i la prova està activa, Chrome determina en quin grup gran de persones, o cohort, hi ha una activitat de navegació recent més semblant a la teva. Els anunciants poden seleccionar anuncis per al grup i la teva activitat de navegació es manté privada al teu dispositiu. El teu grup s'actualitza cada {NUM_DAYS} dies}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Quan aquest control està activat i la prova està activa, WEB3 DNA Browser determina en quin grup gran de persones, o cohort, hi ha una activitat de navegació recent més semblant a la teva. Els anunciants poden seleccionar anuncis per al grup i la teva activitat de navegació es manté privada al teu dispositiu. El teu grup s'actualitza cada dia.}=1{Quan aquest control està activat i la prova està activa, WEB3 DNA Browser determina en quin grup gran de persones, o cohort, hi ha una activitat de navegació recent més semblant a la teva. Els anunciants poden seleccionar anuncis per al grup i la teva activitat de navegació es manté privada al teu dispositiu. El teu grup s'actualitza cada dia.}other{Quan aquest control està activat i la prova està activa, WEB3 DNA Browser determina en quin grup gran de persones, o cohort, hi ha una activitat de navegació recent més semblant a la teva. Els anunciants poden seleccionar anuncis per al grup i la teva activitat de navegació es manté privada al teu dispositiu. El teu grup s'actualitza cada {NUM_DAYS} dies}}</translation>
 <translation id="2059202684901022309">22 x 34 polzades</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 suggeriment}other{# suggeriments}}</translation>
 <translation id="2066915425250589881">sol·licitar que se suprimeixi</translation>
@@ -457,9 +457,9 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="20817612488360358">S'ha definit la configuració del servidor intermediari del sistema perquè es pugui utilitzar, però també s'ha especificat una configuració del servidor intermediari explícita.</translation>
 <translation id="2082238445998314030">Resultat <ph name="RESULT_NUMBER" /> de <ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">Desa…</translation>
-<translation id="2088086323192747268">Botó Gestiona la sincronització: prem Retorn per gestionar la informació que sincronitzes a la configuració de Chrome</translation>
+<translation id="2088086323192747268">Botó Gestiona la sincronització: prem Retorn per gestionar la informació que sincronitzes a la configuració de WEB3 DNA Browser</translation>
 <translation id="2091887806945687916">So</translation>
-<translation id="2093982008204312032">Google Chrome està provant de desactivar Windows Hello per emplenar contrasenyes.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser està provant de desactivar Windows Hello per emplenar contrasenyes.</translation>
 <translation id="2094505752054353250">Els dominis no coincideixen.</translation>
 <translation id="2099652385553570808">Grapat triple a l'esquerra</translation>
 <translation id="2101225219012730419">Versió:</translation>
@@ -543,7 +543,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2292556288342944218">El vostre accés a Internet està bloquejat</translation>
 <translation id="2293443924986248631">Quan està activada, els llocs web no poden utilitzar galetes que facin un seguiment de la teva activitat al web. Pot ser que les funcions d'alguns llocs web no funcionin.</translation>
 <translation id="2295290966866883927">Els URL de les pàgines que visites s'envien a Google Cloud o a tercers perquè s'analitzin. Per exemple, pot ser que s'analitzin per detectar llocs web no segurs.</translation>
-<translation id="2298855485018661510">Botó Gestiona les galetes: prem Retorn per gestionar les preferències de galetes a la configuració de Chrome</translation>
+<translation id="2298855485018661510">Botó Gestiona les galetes: prem Retorn per gestionar les preferències de galetes a la configuració de WEB3 DNA Browser</translation>
 <translation id="2300306941146563769">No penjat</translation>
 <translation id="2316159751672436664">Personalitza les eines d'accessibilitat a la configuració de Chrome OS</translation>
 <translation id="2316887270356262533">Allibera menys d'1 MB. És possible que alguns llocs web es carreguin més a poc a poc la propera vegada que els visitis.</translation>
@@ -571,9 +571,9 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="236340516568226369">Menú de commutadors per canviar la mida</translation>
 <translation id="2367567093518048410">Nivell</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Personalitza les eines d'accessibilitat a la configuració de Chrome</translation>
+<translation id="2383455408879745299">Personalitza les eines d'accessibilitat a la configuració de WEB3 DNA Browser</translation>
 <translation id="2384307209577226199">Predeterminada de l'empresa</translation>
-<translation id="2385809941344967209">Actualitza Chrome des de la configuració de Chrome</translation>
+<translation id="2385809941344967209">Actualitza WEB3 DNA Browser des de la configuració de WEB3 DNA Browser</translation>
 <translation id="2386255080630008482">El certificat del servidor s'ha revocat.</translation>
 <translation id="239293030466334554">Descapotables</translation>
 <translation id="2392959068659972793">Mostra les polítiques sense valors definits</translation>
@@ -592,7 +592,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2463739503403862330">Emplena</translation>
 <translation id="2465655957518002998">Tria el mètode d'entrega</translation>
 <translation id="2465688316154986572">Grapat</translation>
-<translation id="2465914000209955735">Gestiona els fitxers que has baixat a Chrome</translation>
+<translation id="2465914000209955735">Gestiona els fitxers que has baixat a WEB3 DNA Browser</translation>
 <translation id="2466004615675155314">Mostra informació del web</translation>
 <translation id="2467272921457885625">Especificacions i estadístiques de maquinari del dispositiu, com ara l'historial d'ús de CPU o RAM</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Executar el diagnòstic de xarxes<ph name="END_LINK" /></translation>
@@ -609,7 +609,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2505268675989099013">Protegeix el compte</translation>
 <translation id="2509167091171468975">Botigues d’alimentació i comestibles</translation>
 <translation id="2512101340618156538">No permès (opció predeterminada)</translation>
-<translation id="2512413427717747692">Botó per establir Chrome com a navegador predeterminat: prem Retorn per establir Chrome com a navegador predeterminat del sistema a la configuració d'iOS</translation>
+<translation id="2512413427717747692">Botó per establir WEB3 DNA Browser com a navegador predeterminat: prem Retorn per establir WEB3 DNA Browser com a navegador predeterminat del sistema a la configuració d'iOS</translation>
 <translation id="2515629240566999685">Comprova el senyal a la teva zona.</translation>
 <translation id="2515761554693942801">Has decidit verificar amb Touch ID els llocs web que utilitzen <ph name="PROVIDER_ORIGIN" />. És possible que aquest proveïdor hagi emmagatzemat informació sobre la teva forma de pagament, que pots <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Grapat a la part inferior dreta</translation>
@@ -626,7 +626,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2542106216580219892">Surf</translation>
 <translation id="2544546346215446551">L'administrador ha reiniciat el dispositiu</translation>
 <translation id="2544644783021658368">Document únic</translation>
-<translation id="254524874071906077">Estableix Chrome com a navegador predeterminat</translation>
+<translation id="1319028298140338735">Estableix WEB3 DNA Browser com a navegador predeterminat</translation>
 <translation id="2546283357679194313">Dades de llocs web i galetes</translation>
 <translation id="2547466893236767989">Disseny i desenvolupament web</translation>
 <translation id="254947805923345898">El valor de la política no és vàlid.</translation>
@@ -641,19 +641,19 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2570734079541893434">Gestiona la configuració</translation>
 <translation id="2573834589046842510">Premsa i editorials</translation>
 <translation id="257674075312929031">Grup</translation>
-<translation id="2576880857912732701">Botó Gestiona la configuració de seguretat: prem Retorn per gestionar Navegació segura i altres opcions de la configuració de Chrome</translation>
+<translation id="2576880857912732701">Botó Gestiona la configuració de seguretat: prem Retorn per gestionar Navegació segura i altres opcions de la configuració de WEB3 DNA Browser</translation>
 <translation id="2586657967955657006">Porta-retalls</translation>
 <translation id="2587730715158995865">Publicat per <ph name="ARTICLE_PUBLISHER" />. Llegeix aquesta història i <ph name="OTHER_ARTICLE_COUNT" /> més.</translation>
 <translation id="2587841377698384444">Identificador de l'API de directoris:</translation>
 <translation id="2594318783181750337">Visualització web ràpida:</translation>
 <translation id="2595719060046994702">Aquest dispositiu i aquest compte no estan gestionats per una empresa ni per una altra organització.</translation>
-<translation id="2596415276201385844">Per establir una connexió segura, el rellotge ha d'estar ben ajustat, perquè els certificats que els llocs web fan servir per identificar-se només són vàlids per a períodes de temps concrets. Com que el rellotge del dispositiu no està ben ajustat, Chrome no pot verificar aquests certificats.</translation>
+<translation id="7968235694092767490">Per establir una connexió segura, el rellotge ha d'estar ben ajustat, perquè els certificats que els llocs web fan servir per identificar-se només són vàlids per a períodes de temps concrets. Com que el rellotge del dispositiu no està ben ajustat, WEB3 DNA Browser no pot verificar aquests certificats.</translation>
 <translation id="2597378329261239068">Aquest document està protegit mitjançant contrasenya. Introduïu una contrasenya.</translation>
 <translation id="259821504105826686">Arts digitals i fotogràfiques</translation>
 <translation id="2601150049980261779">Pel·lícules romàntiques</translation>
 <translation id="2604589665489080024">Música pop</translation>
 <translation id="2610561535971892504">Fes clic per copiar</translation>
-<translation id="2617988307566202237">Chrome <ph name="BEGIN_EMPHASIS" />no desarà<ph name="END_EMPHASIS" /> la informació següent:
+<translation id="6174516088921923215">WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />no desarà<ph name="END_EMPHASIS" /> la informació següent:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />El teu historial de navegació
           <ph name="LIST_ITEM" />Les galetes o les dades de llocs web
@@ -661,14 +661,14 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
         <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">El rellotge està avançat</translation>
 <translation id="262745152991669301">Pot demanar permís per connectar-se a dispositius USB</translation>
-<translation id="2629325967560697240">Per obtenir el màxim nivell de seguretat de Chrome, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />activa la protecció millorada<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">Per obtenir el màxim nivell de seguretat de WEB3 DNA Browser, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />activa la protecció millorada<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">No s'ha trobat l'adreça IP del servidor de l'amfitrió <ph name="HOST_NAME" />.</translation>
 <translation id="2639739919103226564">Estat:</translation>
 <translation id="2643134278432436513">Cura del cabell</translation>
 <translation id="2647852283046201479">Jocs d'estratègia</translation>
 <translation id="264810637653812429">No s'ha trobat cap dispositiu compatible.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per esborrar l'historial de navegació, les galetes, la memòria cau i altres dades des de la configuració de Chrome</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per esborrar l'historial de navegació, les galetes, la memòria cau i altres dades des de la configuració de WEB3 DNA Browser</translation>
 <translation id="2650446666397867134">S'ha denegat l'accés al fitxer</translation>
 <translation id="2653659639078652383">Envia</translation>
 <translation id="2657637947725373811">{0,plural, =1{Vols transferir el fitxer confidencial?}other{Vols transferir els fitxers confidencials?}}</translation>
@@ -696,11 +696,11 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2705137772291741111">La còpia desada (a la memòria cau) d'aquest lloc no s'ha pogut llegir.</translation>
 <translation id="2709516037105925701">Emplenament automàtic</translation>
 <translation id="2713444072780614174">Blanc</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per gestionar la informació dels pagaments i de les targetes de crèdit a la configuració de Chrome</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per gestionar la informació dels pagaments i de les targetes de crèdit a la configuració de WEB3 DNA Browser</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Prem |<ph name="ACCELERATOR1" />|+|<ph name="ACCELERATOR2" />| per sortir de la pantalla completa</translation>
 <translation id="2721148159707890343">Sol·licitud realitzada correctament</translation>
-<translation id="2723669454293168317">Executa una comprovació de seguretat a la configuració de Chrome</translation>
+<translation id="2723669454293168317">Executa una comprovació de seguretat a la configuració de WEB3 DNA Browser</translation>
 <translation id="2726001110728089263">Safata lateral</translation>
 <translation id="2728127805433021124">El certificat del servidor està signat mitjançant un algoritme de signatura dèbil.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Executar el Diagnòstic de connectivitat<ph name="END_LINK" /></translation>
@@ -740,7 +740,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="287596039013813457">Amistosa</translation>
 <translation id="28761159517501904">Pel·lícules</translation>
 <translation id="2876489322757410363">Per pagar amb una aplicació externa, sortiràs del mode d'incògnit. Vols continuar?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar Navegació segura i altres opcions de la configuració de Chrome</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar Navegació segura i altres opcions de la configuració de WEB3 DNA Browser</translation>
 <translation id="2878197950673342043">Plegat en pòster</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Vols desar la targeta?</translation>
@@ -752,7 +752,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="290376772003165898">La pàgina no està en <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">S'ha detectat un canvi a la xarxa.</translation>
 <translation id="2911973620368911614">Identificador d'usuari del compte de treball</translation>
-<translation id="2914160345369867329">Normalment, al lloc web <ph name="SITE" /> es fa servir l'encriptació per protegir la vostra informació. En aquesta ocasió, quan Chrome ha provat de connectar-se a <ph name="SITE" />, el lloc web ha enviat credencials poc comunes i incorrectes. Pot ser que un atacant estigui provant de fer-se passar per <ph name="SITE" /> o que una pantalla d'inici de sessió a la xarxa Wi-Fi hagi interromput la connexió. En qualsevol cas, la vostra informació continua estant segura, perquè Chrome ha aturat la connexió abans no s'intercanviés cap dada.</translation>
+<translation id="6754677106668042373">Normalment, al lloc web <ph name="SITE" /> es fa servir l'encriptació per protegir la vostra informació. En aquesta ocasió, quan WEB3 DNA Browser ha provat de connectar-se a <ph name="SITE" />, el lloc web ha enviat credencials poc comunes i incorrectes. Pot ser que un atacant estigui provant de fer-se passar per <ph name="SITE" /> o que una pantalla d'inici de sessió a la xarxa Wi-Fi hagi interromput la connexió. En qualsevol cas, la vostra informació continua estant segura, perquè WEB3 DNA Browser ha aturat la connexió abans no s'intercanviés cap dada.</translation>
 <translation id="2915068235268646559">Inici del bloqueig: <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Pintura</translation>
 <translation id="2916038427272391327">Tanca altres programes</translation>
@@ -769,7 +769,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2943895734390379394">Hora de la pujada:</translation>
 <translation id="2945026002409061480">Comunitats virtuals</translation>
 <translation id="2948083400971632585">Podeu desactivar qualsevol servidor intermediari configurat per a una connexió des de la pàgina de configuració.</translation>
-<translation id="2949183777371959169">S'ha ignorat perquè la màquina no s'ha inscrit amb Gestió de navegadors Chrome en núvol.</translation>
+<translation id="7786089409521529641">S'ha ignorat perquè la màquina no s'ha inscrit amb Gestió de navegadors WEB3 DNA Browser en núvol.</translation>
 <translation id="2951588413176968965">La meva bústia de correu</translation>
 <translation id="2952820037279740115">Tanca totes les finestres d'incògnit</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -783,7 +783,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="2977665033722899841">S'ha seleccionat <ph name="ROW_NAME" />. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Òpera</translation>
 <translation id="2983666748527428214">Obre una pestanya d'incògnit</translation>
-<translation id="2985306909656435243">Si s'activa aquesta opció, Chromium desa una còpia de la vostra targeta en aquest dispositiu per agilitzar l'emplenament de formularis.</translation>
+<translation id="6458065442802745995">Si s'activa aquesta opció, WEB3 DNA Browser desa una còpia de la vostra targeta en aquest dispositiu per agilitzar l'emplenament de formularis.</translation>
 <translation id="2985398929374701810">Introdueix una adreça vàlida</translation>
 <translation id="2986368408720340940">Aquest mètode de recollida no està disponible. Prova'n un altre.</translation>
 <translation id="2987034854559945715">No hi ha cap funció que coincideixi</translation>
@@ -805,7 +805,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3037177537145227281">Estàs fent un seguiment del preu</translation>
 <translation id="3037605927509011580">Vaja!</translation>
 <translation id="3041612393474885105">Informació del certificat</translation>
-<translation id="305162504811187366">Historial de l'Escriptori remot de Chrome, inclosos els amfitrions, les marques de temps i els identificadors de sessió de client</translation>
+<translation id="6009592758194948058">Historial de l'Escriptori remot de WEB3 DNA Browser, inclosos els amfitrions, les marques de temps i els identificadors de sessió de client</translation>
 <translation id="3052964831964880138">Baixada de preu de <ph name="PRICE_DROP" /> per a <ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Servei de pedaç</translation>
 <translation id="306573536155379004">S'ha iniciat el joc.</translation>
@@ -853,7 +853,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3194737229810486521"><ph name="URL" /> vol emmagatzemar dades al dispositiu de manera permanent</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> a <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Pot demanar permís per saber quan estàs utilitzant aquest dispositiu de manera activa</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar la informació que sincronitzes a la configuració de Chrome</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar la informació que sincronitzes a la configuració de WEB3 DNA Browser</translation>
 <translation id="320323717674993345">Cancel·la el pagament</translation>
 <translation id="3203366800380907218">Del web</translation>
 <translation id="3207960819495026254">S'ha afegit a les adreces d'interès.</translation>
@@ -877,7 +877,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per personalitzar l'aspecte del teu navegador</translation>
 <translation id="3240791268468473923">S'ha obert el full de credencials no coincidents de credencials de pagament segur</translation>
 <translation id="324180406144491771">Els enllaços de "<ph name="HOST_NAME" />" estan bloquejats</translation>
-<translation id="3248611290851046188">Aquest lloc web defineix interessos que altres llocs web poden utilitzar per mostrar-te anuncis. També obté els teus interessos de Chrome per mostrar-te anuncis més rellevants.</translation>
+<translation id="8141792378421105106">Aquest lloc web defineix interessos que altres llocs web poden utilitzar per mostrar-te anuncis. També obté els teus interessos de WEB3 DNA Browser per mostrar-te anuncis més rellevants.</translation>
 <translation id="3249151924975132674">Crèdits d'estudi i finançament universitari</translation>
 <translation id="3249845759089040423">Atrevida</translation>
 <translation id="3250640885957938546">Publicitat i màrqueting</translation>
@@ -887,7 +887,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3256863843508922226">Jubilació i pensions</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per crear un esdeveniment ràpidament a Google Calendar</translation>
 <translation id="3261488570342242926">Informació sobre les targetes virtuals</translation>
-<translation id="3264837738038045344">Botó Gestiona la configuració de Chrome: prem Retorn per veure la configuració de Chrome</translation>
+<translation id="3264837738038045344">Botó Gestiona la configuració de WEB3 DNA Browser: prem Retorn per veure la configuració de WEB3 DNA Browser</translation>
 <translation id="3266793032086590337">Valor (en conflicte)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{No s'ha bloquejat cap lloc web, ni cap lloc web relacionat}=1{S'ha bloquejat 1 lloc web, inclosos els llocs web relacionats}other{S'han bloquejat # llocs web, inclosos els llocs web relacionats}}</translation>
 <translation id="3268451620468152448">Pestanyes obertes</translation>
@@ -901,7 +901,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3287510313208355388">Baixa quan estigui en línia</translation>
 <translation id="3288238092761586174">És possible que <ph name="URL" /> hagi de fer més passos per verificar el teu pagament</translation>
 <translation id="3293642807462928945">Més informació sobre la política <ph name="POLICY_NAME" /></translation>
-<translation id="3295444047715739395">Consulta i gestiona les teves contrasenyes a la configuració de Chrome</translation>
+<translation id="3295444047715739395">Consulta i gestiona les teves contrasenyes a la configuració de WEB3 DNA Browser</translation>
 <translation id="3299098170013242198">Windows Hello està activat per emplenar contrasenyes</translation>
 <translation id="3303176609391916566">30 x 42 polzades</translation>
 <translation id="3303855915957856445">No s'ha trobat cap resultat de la cerca</translation>
@@ -931,9 +931,9 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3366477098757335611">Mostra les targetes</translation>
 <translation id="3369192424181595722">Error de rellotge</translation>
 <translation id="3369459162151165748">Peces i accessoris de vehicles</translation>
-<translation id="3371064404604898522">Estableix Chrome com a navegador predeterminat</translation>
+<translation id="3371064404604898522">Estableix WEB3 DNA Browser com a navegador predeterminat</translation>
 <translation id="337363190475750230">No administrat</translation>
-<translation id="3375754925484257129">Executa la comprovació de seguretat de Chrome</translation>
+<translation id="3375754925484257129">Executa la comprovació de seguretat de WEB3 DNA Browser</translation>
 <translation id="3377144306166885718">El servidor ha utilitzat una versió obsoleta de TLS.</translation>
 <translation id="3377188786107721145">S'ha produït un error en analitzar la política</translation>
 <translation id="3377736046129930310">Fes servir el bloqueig de pantalla per confirmar les targetes més ràpidament</translation>
@@ -957,7 +957,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3423742043356668186">Especificat pel sistema</translation>
 <translation id="3427092606871434483">Permet (opció predeterminada)</translation>
 <translation id="3427342743765426898">&amp;Refés la modificació</translation>
-<translation id="342781501876943858">Chromium et recomana que restableixis la contrasenya si l'has fet servir en altres llocs web.</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser et recomana que restableixis la contrasenya si l'has fet servir en altres llocs web.</translation>
 <translation id="3428151540071562330">Un o més dels URI de plantilla de servidor corresponents a DnsOverHttpsTemplates no són vàlids i no s'utilitzaran.</translation>
 <translation id="3431216045099978607">Prem |<ph name="ACCELERATOR" />| per sortir de la pantalla completa i veure la baixada.</translation>
 <translation id="3431636764301398940">Desa aquesta targeta al dispositiu</translation>
@@ -979,7 +979,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per tancar totes les finestres d'incògnit que estan obertes en aquests moments</translation>
 <translation id="3477679029130949506">Cartelleres i horaris de cinemes</translation>
 <translation id="3479552764303398839">Ara no</translation>
-<translation id="3484560055331845446">Podries perdre l'accés al Compte de Google. Chrome et recomana que canviïs la contrasenya ara. Se't demanarà que iniciïs la sessió.</translation>
+<translation id="2148205384604312372">Podries perdre l'accés al Compte de Google. WEB3 DNA Browser et recomana que canviïs la contrasenya ara. Se't demanarà que iniciïs la sessió.</translation>
 <translation id="3484861421501147767">Recordatori: tens disponible un codi promocional desat</translation>
 <translation id="3487845404393360112">Safata 4</translation>
 <translation id="3495081129428749620">Cerca a la pàgina
@@ -988,7 +988,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3507936815618196901">Crear un mapa en 3D del teu entorn i fer un seguiment de la posició de la càmera</translation>
 <translation id="3512163584740124171">Aquesta política s'ignora perquè una altra política del mateix grup de polítiques té una prioritat més alta.</translation>
 <translation id="3515972145999192222">La teva organització ha bloquejat <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> perquè infringeix una política. <ph name="BEGIN_LEARN_MORE_LINK" />Més informació<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="35172538073169599">Botó Gestiona les adreces: prem Retorn per afegir i gestionar adreces a la configuració de Chrome</translation>
+<translation id="35172538073169599">Botó Gestiona les adreces: prem Retorn per afegir i gestionar adreces a la configuració de WEB3 DNA Browser</translation>
 <translation id="3518941727116570328">Gestió de diversos objectes</translation>
 <translation id="3525130752944427905">10 x 14 polzades</translation>
 <translation id="3528171143076753409">El certificat del servidor no és de confiança.</translation>
@@ -1015,7 +1015,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3576616784287504635">Una pàgina inserida a <ph name="SITE" /> diu</translation>
 <translation id="3577473026931028326">S'ha produït un error. Torna-ho a provar.</translation>
 <translation id="3577902790357386792">Gimnàstica</translation>
-<translation id="3581089476000296252">Chrome t'avisarà quan aquesta pàgina estigui preparada. &lt;a&gt;Cancel·la&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser t'avisarà quan aquesta pàgina estigui preparada. &lt;a&gt;Cancel·la&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Afegeix el nom</translation>
 <translation id="3583757800736429874">&amp;Refés el moviment</translation>
 <translation id="3584299510153766161">Encunyació doble a la part inferior</translation>
@@ -1030,7 +1030,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3611317423880285981">Productes per a la llar</translation>
 <translation id="3614103345592970299">Mida 2</translation>
 <translation id="361438452008624280">Entrada "<ph name="LANGUAGE_ID" />" de la llista: l'idioma és desconegut o no s'admet.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per executar la comprovació de seguretat a la configuració de Chrome</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per executar la comprovació de seguretat a la configuració de WEB3 DNA Browser</translation>
 <translation id="3615877443314183785">Introdueix una data de caducitat vàlida</translation>
 <translation id="36224234498066874">Esborra dades de navegació</translation>
 <translation id="362276910939193118">Mostra l'historial complet</translation>
@@ -1041,9 +1041,9 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3631244953324577188">Biometria</translation>
 <translation id="3632503704576938756">S'ha reprès la compartició de pantalla</translation>
 <translation id="3632892046558972264">S'ha posat en pausa la compartició de pantalla</translation>
-<translation id="3633738897356909127">Botó Actualitza Chrome; prem Retorn per actualitzar Chrome des de la configuració de Chrome</translation>
+<translation id="3633738897356909127">Botó Actualitza WEB3 DNA Browser; prem Retorn per actualitzar WEB3 DNA Browser des de la configuració de WEB3 DNA Browser</translation>
 <translation id="3634530185120165534">Safata 5</translation>
-<translation id="3634567936866541746">Acabes d'introduir la contrasenya en un lloc web enganyós. Per protegir els teus comptes, Chrome et recomana que comprovis les contrasenyes desades.</translation>
+<translation id="6586777830476909681">Acabes d'introduir la contrasenya en un lloc web enganyós. Per protegir els teus comptes, WEB3 DNA Browser et recomana que comprovis les contrasenyes desades.</translation>
 <translation id="3642638418806704195">Aplicació:</translation>
 <translation id="3647286794400715637">Cada entrada de la cadena d'URL ha de contenir 1 o 2 URL.</translation>
 <translation id="3650584904733503804">Validació correcta</translation>
@@ -1087,7 +1087,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="3740319564441798148">Autobusos i trens de llarga distància</translation>
 <translation id="3744111561329211289">Sincronització en segon pla</translation>
 <translation id="3744286742364977428">Els fitxers que baixes s'envien a Google Cloud o a tercers perquè s'analitzin. Per exemple, pot ser que s'analitzin per detectar-hi dades sensibles o programari maliciós i que s'emmagatzemin d'acord amb les polítiques de l'empresa.</translation>
-<translation id="3744899669254331632">En aquest moments no podeu visitar la pàgina <ph name="SITE" /> perquè el lloc web ha enviat credencials aleatòries que Chromium no pot processar. Els atacs i els errors de xarxa acostumen a ser temporals, o sigui que probablement la pàgina funcionarà més endavant.</translation>
+<translation id="3461179235677384837">En aquest moments no podeu visitar la pàgina <ph name="SITE" /> perquè el lloc web ha enviat credencials aleatòries que WEB3 DNA Browser no pot processar. Els atacs i els errors de xarxa acostumen a ser temporals, o sigui que probablement la pàgina funcionarà més endavant.</translation>
 <translation id="3745099705178523657">Un cop confirmada, la informació de la targeta del Compte de Google es compartirà amb aquest lloc web.</translation>
 <translation id="3748148204939282805">Els atacants del lloc web <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> et poden enganyar perquè facis alguna acció perillosa, com ara instal·lar programari o revelar informació personal (per exemple, contrasenyes, números de telèfon o targetes de crèdit). <ph name="BEGIN_LEARN_MORE_LINK" />Més informació<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Sector de l'aviació</translation>
@@ -1181,7 +1181,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4014128326099193693">{COUNT,plural, =1{Document PDF que conté {COUNT} pàgina}other{Document PDF que conté {COUNT} pàgines}}</translation>
 <translation id="4023431997072828269">Com que el formulari s'està enviant mitjançant una connexió que no és segura, altres persones podran veure la teva informació.</translation>
 <translation id="4024923292610332139">desactivar TouchID per emplenar contrasenyes</translation>
-<translation id="4025913568718019429">Botó Gestiona la configuració de privadesa de Chrome: prem Retorn per visitar la configuració de privadesa del teu Compte de Google</translation>
+<translation id="4025913568718019429">Botó Gestiona la configuració de privadesa de WEB3 DNA Browser: prem Retorn per visitar la configuració de privadesa del teu Compte de Google</translation>
 <translation id="4030383055268325496">&amp;Desfés l'addició</translation>
 <translation id="4031179711345676612">El micròfon es pot utilitzar</translation>
 <translation id="4040350669425716613">Universitats i facultats</translation>
@@ -1207,7 +1207,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4097288585054919042">Desactiva les alertes</translation>
 <translation id="4098354747657067197">Aquest lloc web és enganyós</translation>
 <translation id="4099048595830172239">La política de l'administrador no recomana compartir la pantalla amb <ph name="APPLICATION_TITLE" /> quan hi hagi contingut confidencial visible:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per personalitzar la mida i els tipus de lletra a Chrome</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per personalitzar la mida i els tipus de lletra a WEB3 DNA Browser</translation>
 <translation id="4101413244023615925">Text i gràfics</translation>
 <translation id="410148943680000050">Autoedició</translation>
 <translation id="4103249731201008433">El número de sèrie del dispositiu no és vàlid</translation>
@@ -1259,7 +1259,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4214357935346142455">perfil de la pantalla d'inici de sessió</translation>
 <translation id="4220128509585149162">Bloqueigs</translation>
 <translation id="422022731706691852">És possible que els atacants del lloc web <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> provin d'enganyar-te perquè instal·lis programes que poden perjudicar la teva experiència de navegació (per exemple, et poden canviar la pàgina d'inici o mostrar anuncis addicionals als llocs web que visitis). <ph name="BEGIN_LEARN_MORE_LINK" />Més informació<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;Pas 1: inicieu la sessió al portal&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;Pas 1: inicieu la sessió al portal&lt;/h4&gt;
     &lt;p&gt;Les xarxes Wi-Fi de llocs com ara cafeteries o aeroports requereixen que inicieu la sessió. Per veure la pàgina d'inici de sessió, aneu a una pàgina que faci servir &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Aneu a qualsevol lloc web que comenci per &lt;code&gt;http://&lt;/code&gt;, com ara &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1267,11 +1267,11 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
     &lt;/ol&gt;
     &lt;h4&gt;Pas 2: obriu la pàgina en mode d'incògnit (només a l'ordinador)&lt;/h4&gt;
     &lt;p&gt;Obriu la pàgina que estàveu visitant en una finestra d'incògnit.&lt;/p&gt;
-    &lt;p&gt;Si la pàgina s'obre, significa que alguna extensió de Chrome no funciona bé. Per solucionar l'error, desactiveu l'extensió.&lt;/p&gt;
+    &lt;p&gt;Si la pàgina s'obre, significa que alguna extensió de WEB3 DNA Browser no funciona bé. Per solucionar l'error, desactiveu l'extensió.&lt;/p&gt;
     &lt;h4&gt;Pas 3: actualitzeu el sistema operatiu&lt;/h4&gt;
     &lt;p&gt;Comproveu que el dispositiu estigui actualitzat.&lt;/p&gt;
     &lt;h4&gt;Pas 4: desactiveu l'antivirus temporalment&lt;/h4&gt;
-    &lt;p&gt;Aquest error es mostra si teniu un programari antivirus amb "protecció d'HTTPS" o "anàlisi d'HTTPS" que interfereix amb les funcions de seguretat de Chrome.&lt;/p&gt;
+    &lt;p&gt;Aquest error es mostra si teniu un programari antivirus amb "protecció d'HTTPS" o "anàlisi d'HTTPS" que interfereix amb les funcions de seguretat de WEB3 DNA Browser.&lt;/p&gt;
     &lt;p&gt;Per solucionar el problema, desactiveu el programari antivirus. Si la pàgina funciona en desactivar aquest programari, desactiveu-lo per consultar llocs web segurs.&lt;/p&gt;
     &lt;p&gt;Recordeu que heu de tornar a activar el programari antivirus quan hàgiu acabat.&lt;/p&gt;
     &lt;h4&gt;Pas 5: obteniu més ajuda&lt;/h4&gt;
@@ -1307,7 +1307,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4305666528087210886">No s'ha pogut accedir al fitxer</translation>
 <translation id="4306529830550717874">Vols desar l'adreça?</translation>
 <translation id="4306812610847412719">porta-retalls</translation>
-<translation id="4308567447483056043">Aquesta política s'ignora perquè l'usuari no està afiliat. Perquè s'apliqui aquesta política, el navegador i el perfil de Chrome han d'estar gestionats per la mateixa organització a través de la consola d'administració.</translation>
+<translation id="3323451588703398074">Aquesta política s'ignora perquè l'usuari no està afiliat. Perquè s'apliqui aquesta política, el navegador i el perfil de WEB3 DNA Browser han d'estar gestionats per la mateixa organització a través de la consola d'administració.</translation>
 <translation id="4310070645992025887">Cerca els teus recorreguts</translation>
 <translation id="4310496734563057511">Si comparteixes aquest dispositiu amb altres persones, pots activar Windows Hello per verificar que ets tu sempre que utilitzis una contrasenya desada</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1323,8 +1323,8 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4331519897422864041">Apiladora 5</translation>
 <translation id="4331708818696583467">No segur</translation>
 <translation id="4333561522337981382">Gestionar finestres en totes les pantalles</translation>
-<translation id="4340575312453649552">Com que aquest anunci feia servir massa recursos per al dispositiu, Chrome l'ha suprimit.</translation>
-<translation id="4340982228985273705">No ens consta que aquest ordinador estigui gestionat per una empresa. Per tant, la política només pot instal·lar automàticament extensions allotjades a Chrome Web Store. L'URL d'actualització de Chrome Web Store és <ph name="CWS_UPDATE_URL" />.</translation>
+<translation id="3964216933844012257">Com que aquest anunci feia servir massa recursos per al dispositiu, WEB3 DNA Browser l'ha suprimit.</translation>
+<translation id="2218799635675752219">No ens consta que aquest ordinador estigui gestionat per una empresa. Per tant, la política només pot instal·lar automàticament extensions allotjades a Chrome Web Store. L'URL d'actualització de Chrome Web Store és <ph name="CWS_UPDATE_URL" />.</translation>
 <translation id="4346197816712207223">Targetes de crèdit acceptades</translation>
 <translation id="4348834659292907206">La connexió a <ph name="SITE" /> no és segura</translation>
 <translation id="4349365535725594680">No es pot compartir el contingut confidencial</translation>
@@ -1335,7 +1335,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4356973930735388585">Els atacants d'aquest lloc poden provar d'instal·lar programes perillosos a l'ordinador per robar o suprimir la teva informació (per exemple, les fotos, les contrasenyes, els missatges i les targetes de crèdit).</translation>
 <translation id="4358059973562876591">Pot ser que les plantilles que has especificat no s'apliquin a causa d'un error amb la política DnsOverHttpsMode.</translation>
 <translation id="4358461427845829800">Gestiona les formes de pagament...</translation>
-<translation id="4359160567981085931">Acabes d'introduir la contrasenya en un lloc web enganyós. Chrome pot ajudar-te. Per canviar la contrasenya i notificar a Google que el compte pot estar en perill, fes clic a Protegeix el compte.</translation>
+<translation id="4550052488331606118">Acabes d'introduir la contrasenya en un lloc web enganyós. WEB3 DNA Browser pot ajudar-te. Per canviar la contrasenya i notificar a Google que el compte pot estar en perill, fes clic a Protegeix el compte.</translation>
 <translation id="4363222835916186793">Les alertes d'aquest producte s'han desactivat</translation>
 <translation id="437040971055499437">Es produeix un esdeveniment de seguretat</translation>
 <translation id="4372948949327679948">Valor <ph name="VALUE_TYPE" /> esperat.</translation>
@@ -1352,7 +1352,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4411435778612100394">Electrònica de consum</translation>
 <translation id="4414515549596849729">dades de llocs web i galetes</translation>
 <translation id="4415426530740016218">Adreça de recollida</translation>
-<translation id="4424024547088906515">Aquest servidor no ha pogut comprovar que sigui <ph name="DOMAIN" /> perquè Chrome considera que el seu certificat de seguretat no és de confiança. Això pot ser a causa d'una configuració incorrecta o d'un atacant que intercepta la vostra connexió.</translation>
+<translation id="7486060888782747880">Aquest servidor no ha pogut comprovar que sigui <ph name="DOMAIN" /> perquè WEB3 DNA Browser considera que el seu certificat de seguretat no és de confiança. Això pot ser a causa d'una configuració incorrecta o d'un atacant que intercepta la vostra connexió.</translation>
 <translation id="4428065317363009941">Personalització d'anuncis</translation>
 <translation id="443121186588148776">Port en sèrie</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> no ha acceptat el certificat d'inici de sessió o pot ser que no se n'hagi proporcionat cap.</translation>
@@ -1376,7 +1376,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4489023393592172404">Sobre Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Encripta contrasenyes sincronitzades amb el teu Compte de Google</translation>
-<translation id="4492519888999857993">Aquestes funcions estan desactivades de manera predeterminada. Deixaran d'estar disponibles en versions futures de Chrome.</translation>
+<translation id="5711551727888568041">Aquestes funcions estan desactivades de manera predeterminada. Deixaran d'estar disponibles en versions futures de WEB3 DNA Browser.</translation>
 <translation id="4493480324863638523">L'URL no és vàlid. Ha de tenir un esquema estàndard, com ara "http://example.com" o "https://example.com".</translation>
 <translation id="4500587658229086076">contingut no segur</translation>
 <translation id="4506176782989081258">Error de validació: <ph name="VALIDATION_ERROR" /></translation>
@@ -1384,7 +1384,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="450710068430902550">Comparteix informació amb l'administrador</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per traduir aquesta pàgina amb el Traductor de Google</translation>
 <translation id="4514308731478712184">Desactiva els recorreguts</translation>
-<translation id="4515275063822566619">Les targetes i les adreces s'obtenen de Chrome i del teu Compte de Google (<ph name="ACCOUNT_EMAIL" />). Pots gestionar-les des de <ph name="BEGIN_LINK" />Configuració<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Les targetes i les adreces s'obtenen de WEB3 DNA Browser i del teu Compte de Google (<ph name="ACCOUNT_EMAIL" />). Pots gestionar-les des de <ph name="BEGIN_LINK" />Configuració<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">La política de l'administrador ha bloquejat l'opció de baixar aquest fitxer</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Sobre Monarch</translation>
@@ -1401,11 +1401,11 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Desactiva les extensions</translation>
 <translation id="4566017918361049074">Activitats a l'aire lliure</translation>
-<translation id="4567686777917670400">L'administrador pot modificar la configuració del navegador de manera remota. És possible que l'activitat d'aquest dispositiu també es gestioni fora de Chromium. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">L'administrador pot modificar la configuració del navegador de manera remota. És possible que l'activitat d'aquest dispositiu també es gestioni fora de WEB3 DNA Browser. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Entrega</translation>
 <translation id="4582204425268416675">Suprimeix la targeta</translation>
 <translation id="4582595824823167856">Rep un missatge de text</translation>
-<translation id="4587425331216688090">Voleu suprimir l'adreça de Chrome?</translation>
+<translation id="4549859745110415735">Voleu suprimir l'adreça de WEB3 DNA Browser?</translation>
 <translation id="459089498662672729">La política de l'administrador no recomana enganxar contingut de <ph name="ORIGIN_NAME" /> en aquesta ubicació</translation>
 <translation id="4592951414987517459">La connexió a <ph name="DOMAIN" /> s'ha encriptat amb un sistema de xifratge modern.</translation>
 <translation id="4594403342090139922">&amp;Desfés la supressió</translation>
@@ -1414,18 +1414,18 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4600084978141515058">Cuina vegana</translation>
 <translation id="4602465984861132303">Bitlles</translation>
 <translation id="4606870351894164739">Impactant</translation>
-<translation id="4607603470419975064">Botó Mostra consells per a Chrome: prem Retorn per obtenir informació sobre les funcions de Chrome</translation>
-<translation id="4607608436550361748">Mostra consells per a Chrome</translation>
+<translation id="4607603470419975064">Botó Mostra consells per a WEB3 DNA Browser: prem Retorn per obtenir informació sobre les funcions de WEB3 DNA Browser</translation>
+<translation id="4607608436550361748">Mostra consells per a WEB3 DNA Browser</translation>
 <translation id="460848736049414407">Bloquejat per l'administrador</translation>
 <translation id="4610279718074907952">Aquest lloc web forma part d'un grup, definit per <ph name="SET_OWNER" />, que pot veure la teva activitat</translation>
 <translation id="4617273035598175554">Programari d'animació i gràfics</translation>
 <translation id="4622292761762557753">Transfereix igualment</translation>
-<translation id="4627675673814409125">Aquesta política no es pot establir a nivell del perfil de Chrome i s'ignorarà.</translation>
+<translation id="6607050922769407881">Aquesta política no es pot establir a nivell del perfil de WEB3 DNA Browser i s'ignorarà.</translation>
 <translation id="4628948037717959914">Foto</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Devolució de diners associada</translation>
 <translation id="4636930964841734540">Informació</translation>
-<translation id="4638670630777875591">Mode d'incògnit a Chromium</translation>
+<translation id="9064160697734393810">Mode d'incògnit a WEB3 DNA Browser</translation>
 <translation id="464342062220857295">Funcions de cerca</translation>
 <translation id="4644670975240021822">Ordre invers de cara avall</translation>
 <translation id="4646534391647090355">Porta-m'hi ara</translation>
@@ -1463,7 +1463,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4731638775147756694">L'administrador ha bloquejat l'aplicació</translation>
 <translation id="4733082559415072992"><ph name="URL" /> vol utilitzar la ubicació del dispositiu</translation>
 <translation id="4736491186715342415">Vehicles de motor</translation>
-<translation id="4736825316280949806">Reinicia Chromium</translation>
+<translation id="1624940062651381269">Reinicia WEB3 DNA Browser</translation>
 <translation id="4736934858538408121">Targeta virtual</translation>
 <translation id="473775607612524610">Actualitza</translation>
 <translation id="4738601419177586157">Suggeriment de cerca de <ph name="TEXT" /></translation>
@@ -1477,10 +1477,10 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4754461935447132332">No s'admet en llocs web no segurs</translation>
 <translation id="4756388243121344051">&amp;Historial</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Acabes d'introduir la contrasenya en un lloc web enganyós. Per protegir els teus comptes, Chromium et recomana que comprovis les contrasenyes desades.</translation>
+
 <translation id="4758311279753947758">Afegiu informació de contacte</translation>
 <translation id="4761104368405085019">Utilitzar el micròfon</translation>
-<translation id="4761869838909035636">Executa la comprovació de seguretat de Chrome</translation>
+<translation id="2178430137592069173">Executa la comprovació de seguretat de WEB3 DNA Browser</translation>
 <translation id="4764776831041365478">És possible que la pàgina web <ph name="URL" /> estigui temporalment fora de servei o s'hagi traslladat permanentment a una adreça web nova.</translation>
 <translation id="4766713847338118463">Grapat doble a la part inferior</translation>
 <translation id="4771973620359291008">S'ha produït un error desconegut.</translation>
@@ -1511,7 +1511,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4834250788637067901">Formes de pagament, ofertes i adreces que fan servir Google Pay</translation>
 <translation id="4838327282952368871">Somiadora</translation>
 <translation id="4839087176073128681">Paga més ràpidament la propera vegada i protegeix la teva targeta amb la seguretat líder del sector de Google.</translation>
-<translation id="4840250757394056958">Mostra l'historial de Chrome</translation>
+<translation id="4840250757394056958">Mostra l'historial de WEB3 DNA Browser</translation>
 <translation id="484462545196658690">Automàtic</translation>
 <translation id="484671803914931257">Obtén un descompte a <ph name="MERCHANT_NAME" /> i més</translation>
 <translation id="484988093836683706">Utilitza el desbloqueig del dispositiu</translation>
@@ -1553,7 +1553,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4934780484581617878">Gestió de finestres</translation>
 <translation id="4936134414789135531">No s'ha pogut trobar el valor <ph name="VALUE_NAME" /> inserit.</translation>
 <translation id="4936675324097895694">Finances</translation>
-<translation id="4940163644868678279">Mode d'incògnit a Chrome</translation>
+
 <translation id="4943872375798546930">No hi ha cap resultat</translation>
 <translation id="4943933359574417591">Missatgeria de text i instantània</translation>
 <translation id="4950898438188848926">Botó per canviar de pestanya; prem Retorn per canviar a la pestanya oberta, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1576,7 +1576,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="4995216769782533993">Confirma el codi de seguretat per compartir els detalls de la targeta amb aquest lloc web</translation>
 <translation id="4995474875135717171">Data de modificació:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar les cerques al lloc web i el motor de cerca predeterminat</translation>
-<translation id="5002932099480077015">Si s'activa, Chrome emmagatzemarà una còpia de la targeta en aquest dispositiu per agilitzar l'emplenament de formularis.</translation>
+
 <translation id="5011561501798487822">Idioma detectat</translation>
 <translation id="5015510746216210676">Nom de l'ordinador:</translation>
 <translation id="5017554619425969104">Text que has copiat</translation>
@@ -1585,7 +1585,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5018802455907704660">16 x 20 polzades</translation>
 <translation id="5019198164206649151">L'emmagatzematge de la còpia de seguretat està en mal estat</translation>
 <translation id="5020776957610079374">Música del món</translation>
-<translation id="5021557570875267742">Fes un seguiment dels preus amb Chrome</translation>
+<translation id="4735860266347344416">Fes un seguiment dels preus amb WEB3 DNA Browser</translation>
 <translation id="5023310440958281426">Consulteu les polítiques de l'administrador</translation>
 <translation id="5029568752722684782">Esborra la còpia</translation>
 <translation id="5030338702439866405">Emès per</translation>
@@ -1618,7 +1618,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5087580092889165836">Afegeix una targeta</translation>
 <translation id="5088142053160410913">Missatge a l'operador</translation>
 <translation id="5093232627742069661">Plegat en Z</translation>
-<translation id="5094747076828555589">Aquest servidor no ha pogut comprovar que sigui <ph name="DOMAIN" /> perquè Chromium considera que el seu certificat de seguretat no és de confiança. Això pot ser a causa d'una configuració incorrecta o d'un atacant que intercepta la vostra connexió.</translation>
+
 <translation id="5097099694988056070">Estadístiques del dispositiu, com ara l'ús de CPU o RAM</translation>
 <translation id="5097468150760963273">27 x 39 polzades</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1652,7 +1652,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5161506081086828129">Apiladora 9</translation>
 <translation id="5164798890604758545">S'introdueix text</translation>
 <translation id="516920405563544094">Introdueix el CVC de la targeta <ph name="CREDIT_CARD" />. Un cop confirmada, la informació de la targeta del Compte de Google es compartirà amb aquest lloc web.</translation>
-<translation id="5169827969064885044">Podries perdre l'accés al compte de la teva organització o ser víctima d'un robatori d'identitat. Chrome et recomana que canviïs la contrasenya ara.</translation>
+
 <translation id="5171045022955879922">Cerqueu o escriviu l'URL</translation>
 <translation id="5172758083709347301">Automàtica</translation>
 <translation id="5177076414499237632">Informació sobre la font i el tema d'aquesta pàgina</translation>
@@ -1664,7 +1664,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="51918995459521422"><ph name="ORIGIN" /> vol baixar diversos fitxers</translation>
 <translation id="519422657042045905">L'anotació no està disponible</translation>
 <translation id="5201306358585911203">Una pàgina inserida en aquesta pàgina diu</translation>
-<translation id="5204468114771111727">Chrome ha trobat la contrasenya que acabes de fer servir en una violació de les dades. L'Assistent de Google pot canviar la contrasenya automàticament.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser ha trobat la contrasenya que acabes de fer servir en una violació de les dades. L'Assistent de Google pot canviar la contrasenya automàticament.</translation>
 <translation id="5205222826937269299">El nom és obligatori</translation>
 <translation id="5209518306177824490">Empremta SHA-1</translation>
 <translation id="5209670883520018268">Safata 20</translation>
@@ -1681,7 +1681,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5239623327352565343">Està permès utilitzar la ubicació</translation>
 <translation id="5242889659037569123">Equipatge i accessoris de viatge</translation>
 <translation id="5250209940322997802">"Connecteu-vos a la xarxa"</translation>
-<translation id="52517543715119994">Més informació sobre les funcions de Chrome</translation>
+<translation id="52517543715119994">Més informació sobre les funcions de WEB3 DNA Browser</translation>
 <translation id="5251803541071282808">Núvol</translation>
 <translation id="5254043433801397071">Optimitza el contingut d'impressió</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1703,7 +1703,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5287456746628258573">Aquest lloc web utilitza una configuració de seguretat obsoleta i, per tant, la informació que hi enviïs podria quedar exposada (per exemple, les contrasenyes o els números de les targetes de crèdit).</translation>
 <translation id="5288108484102287882">La validació dels valors de la política ha generat advertiments</translation>
 <translation id="5288393065350884210">Auditories i comptabilitat</translation>
-<translation id="5288808348893593856">La connexió del lloc web és segura tret que Chrome t'indiqui el contrari.</translation>
+<translation id="8429736460204202092">La connexió del lloc web és segura tret que WEB3 DNA Browser t'indiqui el contrari.</translation>
 <translation id="5289384342738547352">Gestió de diversos documents</translation>
 <translation id="5293919335876685914">Cupès</translation>
 <translation id="5296589789433599000">Cuina i receptes</translation>
@@ -1722,14 +1722,14 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5324080437450482387">Tria la informació de contacte</translation>
 <translation id="5329858041417644019">El navegador no està gestionat</translation>
 <translation id="5332219387342487447">Mètode d'enviament</translation>
-<translation id="5333022057423422993">Chrome ha trobat la contrasenya que acabes de fer servir en una violació de les dades. Per protegir els teus comptes, et recomanem que comprovis les teves contrasenyes desades.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser ha trobat la contrasenya que acabes de fer servir en una violació de les dades. Per protegir els teus comptes, et recomanem que comprovis les teves contrasenyes desades.</translation>
 <translation id="5334013548165032829">Registres detallats del sistema</translation>
 <translation id="5334145288572353250">Vols desar l'adreça?</translation>
 <translation id="5335920952954443287">Cor que batega</translation>
 <translation id="5340250774223869109">L'aplicació està bloquejada</translation>
 <translation id="534295439873310000">Dispositius amb NFC</translation>
 <translation id="5344579389779391559">És possible que aquesta pàgina provi de fer-te algun càrrec</translation>
-<translation id="5347645913823149105">Botó Personalitza els tipus de lletra a Chrome: prem Retorn per personalitzar la lletra tipogràfica i les mides de la font a Chrome</translation>
+<translation id="5347645913823149105">Botó Personalitza els tipus de lletra a WEB3 DNA Browser: prem Retorn per personalitzar la lletra tipogràfica i les mides de la font a WEB3 DNA Browser</translation>
 <translation id="5355557959165512791">En aquest moment no pots visitar <ph name="SITE" /> perquè se li ha revocat el certificat. Els atacs i els errors de xarxa acostumen a ser temporals, o sigui que probablement la pàgina funcionarà més endavant.</translation>
 <translation id="5356837363448394805">Cara enrojolada</translation>
 <translation id="5357848622083956825">Arts visuals i disseny</translation>
@@ -1748,7 +1748,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="540630185148148480">Activa les alertes</translation>
 <translation id="540969355065856584">Aquest servidor no ha pogut demostrar que sigui <ph name="DOMAIN" /> perquè el seu certificat de seguretat no és vàlid en aquest moment. Això pot ser a causa d'una configuració incorrecta o d'un atacant que intercepta la connexió.</translation>
 <translation id="5412040515238827314">Format no vàlid: s'espera una llista de patrons.</translation>
-<translation id="5412236728747081950">Aquest lloc web obté els teus interessos de Chrome per mostrar-te anuncis més rellevants</translation>
+<translation id="3825896935771081728">Aquest lloc web obté els teus interessos de WEB3 DNA Browser per mostrar-te anuncis més rellevants</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> - <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">Apiladora 4</translation>
 <translation id="5414511064953050917">Mou igualment</translation>
@@ -1791,7 +1791,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per personalitzar les eines d'accessibilitat a la configuració de Chrome OS</translation>
 <translation id="5528532273234423708">Domòtica</translation>
 <translation id="55293785478302737">Cosit de la vora</translation>
-<translation id="5535133333442455806">Botó Esborra les dades de navegació; prem Retorn per esborrar l'historial de navegació, les galetes, la memòria cau i altres dades des de la configuració de Chrome</translation>
+<translation id="5535133333442455806">Botó Esborra les dades de navegació; prem Retorn per esborrar l'historial de navegació, les galetes, la memòria cau i altres dades des de la configuració de WEB3 DNA Browser</translation>
 <translation id="5536214594743852365">Mostra la secció "<ph name="SECTION" />"</translation>
 <translation id="553782666181800029">Sobre Chou 2</translation>
 <translation id="5539243836947087108">Raft</translation>
@@ -1801,7 +1801,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5541546772353173584">Afegeix un correu electrònic</translation>
 <translation id="5545756402275714221">Articles que et poden interessar</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="5552137475244467770">Chrome contrasta periòdicament les teves contrasenyes amb les d'una sèrie de llistes publicades en línia. Quan ho fa, les teves contrasenyes i els teus noms d'usuari s'encripten i, per tant, ningú no els pot llegir (ni tan sols Google).</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser contrasta periòdicament les teves contrasenyes amb les d'una sèrie de llistes publicades en línia. Quan ho fa, les teves contrasenyes i els teus noms d'usuari s'encripten i, per tant, ningú no els pot llegir (ni tan sols Google).</translation>
 <translation id="5556459405103347317">Torna a carregar</translation>
 <translation id="5560088892362098740">Data de caducitat</translation>
 <translation id="55635442646131152">Esquema del document</translation>
@@ -1864,7 +1864,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5720705177508910913">Usuari actual</translation>
 <translation id="5723287205918986743">Sector de defensa</translation>
 <translation id="5725567311035061582">Gestiona les galetes i les dades dels llocs web</translation>
-<translation id="5730040223043577876">Chrome et recomana que restableixis la contrasenya si l'has fet servir en altres llocs web.</translation>
+
 <translation id="5736165827969430182">Metal·lúrgia i mineria</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Desa la targeta al Compte de Google}other{Desa targetes al Compte de Google}}</translation>
 <translation id="5738385766833540397">Gestiona com reps les alertes de baixada de preu dels productes que segueixes</translation>
@@ -1890,14 +1890,14 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="5784606427469807560">S'ha produït un problema en confirmar la targeta. Comprova la connexió a Internet i torna-ho a provar.</translation>
 <translation id="5785756445106461925">A més, aquesta pàgina conté altres recursos que no són segurs. La resta d'usuaris poden visualitzar-los mentre estan en trànsit, i algun atacant podria modificar-los per canviar l'aparença de la pàgina.</translation>
 <translation id="5786044859038896871">Vols emplenar la informació de la teva targeta?</translation>
-<translation id="578633867165174378">Chrome ha trobat la contrasenya que acabes de fer servir en una violació de les dades. Et recomanem que canviïs la contrasenya ara.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser ha trobat la contrasenya que acabes de fer servir en una violació de les dades. Et recomanem que canviïs la contrasenya ara.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Vols emplenar la informació de la teva targeta <ph name="CARD_DETAIL" />?</translation>
 <translation id="5804241973901381774">Permisos</translation>
-<translation id="5808435672482059465">Mostra l'historial de Chrome</translation>
+<translation id="7552154626705223867">Mostra l'historial de WEB3 DNA Browser</translation>
 <translation id="5808542072418270309">Jocs de simulació</translation>
 <translation id="5810442152076338065">La connexió a <ph name="DOMAIN" /> s'ha encriptat amb un sistema de xifratge obsolet.</translation>
-<translation id="5812947184178430888">Quan Chrome marca esdeveniments de seguretat, se n'envien les dades rellevants a l'administrador. Per exemple, URL de pàgines que visites a Chrome, noms o metadades de fitxers i el nom d'usuari que fas servir per iniciar la sessió en aplicacions web, al dispositiu i a Chrome.</translation>
+<translation id="8479644990349381409">Quan WEB3 DNA Browser marca esdeveniments de seguretat, se n'envien les dades rellevants a l'administrador. Per exemple, URL de pàgines que visites a WEB3 DNA Browser, noms o metadades de fitxers i el nom d'usuari que fas servir per iniciar la sessió en aplicacions web, al dispositiu i a WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Refés l'addició</translation>
 <translation id="5813309815819933152">Xous d'impacte de televisió</translation>
 <translation id="5813753398265398978">Física</translation>
@@ -2014,10 +2014,10 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6118782133429281336">La llista d'origen està buida.</translation>
 <translation id="6120179357481664955">Recordes el teu identificador d'UPI?</translation>
 <translation id="6122181661879998141">a l'anvers de la targeta</translation>
-<translation id="6124432979022149706">Connectors de Chrome Enterprise</translation>
+<translation id="7419188267353166461">Connectors de WEB3 DNA Browser Enterprise</translation>
 <translation id="6126565365696310362">Sobre xinès número 2</translation>
 <translation id="6127379762771434464">S'ha suprimit l'element</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Més informació sobre el mode d'incògnit a Chrome<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">L'extensió de fitxer està buida o té un format incorrecte.</translation>
 <translation id="6139975341602920272">17 x 22 polzades</translation>
 <translation id="6146055958333702838">Reviseu els cables i reinicieu els encaminadors, els mòdems o altres
@@ -2043,10 +2043,10 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6197648101609735209">89 x 89 mm</translation>
 <translation id="6203231073485539293">Comprovació de la connexió a Internet</translation>
 <translation id="6212314149070368045">US Fanfold</translation>
-<translation id="6218753634732582820">Voleu suprimir l'adreça de Chromium?</translation>
+
 <translation id="622039917539443112">Plegat en paral·lel</translation>
 <translation id="6221345481584921695">Navegació segura de Google ha <ph name="BEGIN_LINK" />detectat programari maliciós<ph name="END_LINK" /> recentment a <ph name="SITE" />. De vegades, els llocs web que acostumen a ser segurs s'infecten amb programari maliciós. El contingut maliciós prové de l'amfitrió <ph name="SUBRESOURCE_HOST" />, un distribuïdor conegut de programari maliciós.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per personalitzar les eines d'accessibilitat a la configuració de Chrome</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per personalitzar les eines d'accessibilitat a la configuració de WEB3 DNA Browser</translation>
 <translation id="6229649258872345286">Viatges en família</translation>
 <translation id="6232271601416750929">Cosmètica ètica i sostenible</translation>
 <translation id="6233160458685643793">Cara somrient</translation>
@@ -2055,7 +2055,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6240447795304464094">Logotip de Google Pay</translation>
 <translation id="6241121617266208201">Amaga els suggeriments</translation>
 <translation id="624499991300733384">Servei de composició d'impressió</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar els fitxers que has baixat a Chrome</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per gestionar els fitxers que has baixat a WEB3 DNA Browser</translation>
 <translation id="6254436959401408446">No hi ha prou memòria per obrir aquesta pàgina</translation>
 <translation id="6259156558325130047">&amp;Refés el canvi d'ordre</translation>
 <translation id="6263376278284652872">Adreces d'interès de <ph name="DOMAIN" /></translation>
@@ -2063,21 +2063,21 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6264485186158353794">Torna a una pàgina segura</translation>
 <translation id="6265794661083428563">Copia el valor de la política <ph name="POLICY_NAME" /></translation>
 <translation id="6266934640124581640">Verd blavós clar</translation>
-<translation id="6272088941196661550">Reprèn el recorregut per veure activitat rellevant a l'historial de Chrome</translation>
+<translation id="1989642600714730446">Reprèn el recorregut per veure activitat rellevant a l'historial de WEB3 DNA Browser</translation>
 <translation id="6272383483618007430">Google Update</translation>
 <translation id="6276112860590028508">Les pàgines de la teva llista de lectura es mostren aquí</translation>
 <translation id="627746635834430766">Perquè la propera vegada puguis pagar més ràpidament, desa la targeta i l'adreça de facturació al compte de Google.</translation>
 <translation id="6279183038361895380">Premeu |<ph name="ACCELERATOR" />| per veure el cursor</translation>
 <translation id="6280223929691119688">No es pot entregar a aquesta adreça. Selecciona'n una altra.</translation>
 <translation id="6284292079994426700">26 x 38 polzades</translation>
-<translation id="6285507000506177184">Botó Gestiona les baixades a Chrome: prem Retorn per gestionar els fitxers que has baixat a Chrome</translation>
+<translation id="6285507000506177184">Botó Gestiona les baixades a WEB3 DNA Browser: prem Retorn per gestionar els fitxers que has baixat a WEB3 DNA Browser</translation>
 <translation id="6289939620939689042">Color de la pàgina</translation>
 <translation id="6290238015253830360">Els articles suggerits es mostren aquí</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{El dispositiu es reiniciarà ara}=1{El dispositiu es reiniciarà d'aquí a 1 segon}other{El dispositiu es reiniciarà d'aquí a # segons}}</translation>
 <translation id="6301104306974789820">Rep notificacions de seguiment de preus</translation>
-<translation id="6302269476990306341">S'està aturant l'Assistent de Google a Chrome</translation>
+<translation id="6804344251855709483">S'està aturant l'Assistent de Google a WEB3 DNA Browser</translation>
 <translation id="6305205051461490394">No es pot accedir a <ph name="URL" />.</translation>
 <translation id="6311165245110979290">Targeta virtual disponible</translation>
 <translation id="6312113039770857350">La pàgina web no està disponible</translation>
@@ -2086,7 +2086,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6319249456820053699">Càmeres i videocàmeres</translation>
 <translation id="6321917430147971392">Reviseu la configuració de DNS</translation>
 <translation id="6322182122604171028">No s'ha pogut fer servir Windows Hello</translation>
-<translation id="6326947323444967009">Estableix Chrome com a navegador predeterminat del sistema a la configuració d'iOS</translation>
+<translation id="6326947323444967009">Estableix WEB3 DNA Browser com a navegador predeterminat del sistema a la configuració d'iOS</translation>
 <translation id="6328639280570009161">Proveu de desactivar la predicció de xarxa</translation>
 <translation id="6328784461820205019">"La connexió no és privada", "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;", "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;", "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;", "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" o "Error de certificat SSL"</translation>
 <translation id="6328786501058569169">Aquest lloc web és enganyós</translation>
@@ -2097,7 +2097,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6348220984832452017">Variacions actives</translation>
 <translation id="6349101878882523185">Instal·la <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Cap}=1{1 contrasenya per a <ph name="DOMAIN_LIST" /> (sincronitzats)}=2{2 contrasenyes per a <ph name="DOMAIN_LIST" /> (sincronitzats)}other{# contrasenyes per a <ph name="DOMAIN_LIST" /> (sincronitzats)}}</translation>
-<translation id="6355392890578844978">Cap empresa ni cap altra organització no gestiona aquest navegador. És possible que l'activitat d'aquest dispositiu es gestioni fora de Chromium. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Cap empresa ni cap altra organització no gestiona aquest navegador. És possible que l'activitat d'aquest dispositiu es gestioni fora de WEB3 DNA Browser. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Què vol dir tot això?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />Comprova el servidor intermediari, el tallafoc i la configuració de DNS segur<ph name="END_LINK" /></translation>
@@ -2122,7 +2122,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6405181733356710802">Vols continuar a <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Introdueix la data de caducitat i el CVC de la targeta <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium et pot ajudar a protegir el Compte de Google i a canviar la contrasenya.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser et pot ajudar a protegir el Compte de Google i a canviar la contrasenya.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Material</translation>
 <translation id="6427730057873428458">Plegat en finestra</translation>
@@ -2160,7 +2160,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6502626736864595182">Proveïdors de xats i fòrums</translation>
 <translation id="6502991525169604759">Sense els meus canvis</translation>
 <translation id="6506959208958864820">Sobre</translation>
-<translation id="6508722015517270189">Reinicia Chrome</translation>
+
 <translation id="6513005815064132016">Pot demanar permís per fer un seguiment de la posició de la càmera</translation>
 <translation id="6517596291481585650">Advertiment: aquesta política no s'ha combinat com a llista segons el que s'especifica a la política perquè no és una llista.</translation>
 <translation id="6518133107902771759">Verifica</translation>
@@ -2181,11 +2181,11 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="657902945730878902">Dibuix i pintura</translation>
 <translation id="6579630537141957243">Vols connectar el dispositiu MIDI?</translation>
 <translation id="6579990219486187401">Rosa clar</translation>
-<translation id="6587182488465657433">Chrome ha trobat la contrasenya que acabes de fer servir en una violació de les dades. Per protegir els teus comptes, et recomanem que la canviïs ara i que, després, comprovis les contrasenyes que tens desades.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser ha trobat la contrasenya que acabes de fer servir en una violació de les dades. Per protegir els teus comptes, et recomanem que la canviïs ara i que, després, comprovis les contrasenyes que tens desades.</translation>
 <translation id="6587893660316489419">Sobre B5</translation>
 <translation id="6587923378399804057">Enllaç que has copiat</translation>
 <translation id="6591833882275308647">El dispositiu <ph name="DEVICE_TYPE" /> no està gestionat</translation>
-<translation id="6592952801936330159">Botó Gestiona la configuració del lloc web: prem Retorn per gestionar els permisos i les dades emmagatzemades als llocs web des de la configuració de Chrome</translation>
+<translation id="6592952801936330159">Botó Gestiona la configuració del lloc web: prem Retorn per gestionar els permisos i les dades emmagatzemades als llocs web des de la configuració de WEB3 DNA Browser</translation>
 <translation id="6596325263575161958">Opcions d'encriptació</translation>
 <translation id="6599642189720630047">Productes que segueixes</translation>
 <translation id="6611723696964473273">Notícies d'economia</translation>
@@ -2202,7 +2202,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6645291930348198241">Accedir a les galetes i a les dades del lloc web.</translation>
 <translation id="6645478838938543427">Les alertes de baixada de preu s'enviaran a <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Cap}=1{D'1 lloc web (no se't tancarà la sessió del Compte de Google)}other{De # llocs web (no se't tancarà la sessió del Compte de Google)}}</translation>
-<translation id="6648459603387803038">L'administrador pot modificar la configuració del navegador de manera remota. És possible que l'activitat d'aquest dispositiu també es gestioni fora de Chrome.</translation>
+<translation id="6228269625838082008">L'administrador pot modificar la configuració del navegador de manera remota. És possible que l'activitat d'aquest dispositiu també es gestioni fora de WEB3 DNA Browser.</translation>
 <translation id="6648524591329069940">Tipus de lletra Serif</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
 <translation id="6651270836885078973">Gestionades per:</translation>
@@ -2214,7 +2214,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6663846344464066639">Mans creuades</translation>
 <translation id="6665553082534466207">Encunyació triple a la dreta</translation>
 <translation id="6668389483194953109">S'ha trobat el nom de la mida del paper "custom", però la propietat "custom_size" està buida o no és vàlida.</translation>
-<translation id="6671697161687535275">Voleu suprimir el suggeriment de formulari de Chromium?</translation>
+<translation id="3922033200710514285">Voleu suprimir el suggeriment de formulari de WEB3 DNA Browser?</translation>
 <translation id="6683717648675961851">Ofertes de feina</translation>
 <translation id="6685834062052613830">Tanqueu la sessió i completeu la configuració</translation>
 <translation id="6687335167692595844">Cos de font sol·licitada</translation>
@@ -2222,7 +2222,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6688743156324860098">Actualitza…</translation>
 <translation id="6688775486821967877">La targeta virtual no està disponible en aquests moments. Torna-ho a provar més tard.</translation>
 <translation id="6689249931105087298">Relatiu amb compressió de punts negres</translation>
-<translation id="6689271823431384964">Chrome t'està oferint desar les targetes al Compte de Google perquè tens la sessió iniciada. Pots canviar aquest comportament a la configuració. El nom del titular de la targeta s'obté del teu compte.</translation>
+<translation id="6568883612935818921">WEB3 DNA Browser t'està oferint desar les targetes al Compte de Google perquè tens la sessió iniciada. Pots canviar aquest comportament a la configuració. El nom del titular de la targeta s'obté del teu compte.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per cercar el teu dispositiu al Compte de Google</translation>
 <translation id="6696588630955820014">Botó Comparteix aquesta pestanya: prem Retorn per compartir aquesta pestanya mitjançant l'enllaç, creant un codi QR, fent una emissió i d'altres maneres</translation>
 <translation id="6698381487523150993">Creat:</translation>
@@ -2287,7 +2287,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="6883221904761970440">El full d'autenticació de credencials de pagament segur està tancat</translation>
 <translation id="6884662655240309489">Mida 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> (<ph name="SHORT_URL" />)</translation>
-<translation id="6888584790432772780">Chrome ha simplificat aquesta pàgina perquè sigui més fàcil de llegir. A més, ha recuperat la pàgina original amb una connexió no segura.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser ha simplificat aquesta pàgina perquè sigui més fàcil de llegir. A més, ha recuperat la pàgina original amb una connexió no segura.</translation>
 <translation id="6890443033788248019">Vols permetre l'accés a la ubicació?</translation>
 <translation id="6890531741535756070">Has decidit verificar amb <ph name="DEVICE_LABEL" /> els llocs web que utilitzen <ph name="PROVIDER_ORIGIN" />. És possible que aquest proveïdor hagi emmagatzemat informació sobre la teva forma de pagament. Si vols, pots <ph name="BEGIN_LINK" />sol·licitar que se suprimeixi<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">No s'admet el nivell de la política.</translation>
@@ -2360,7 +2360,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="7058774143982824355">Servei d'anàlisi de contrasenyes de CSV</translation>
 <translation id="7061777300866737982">Seguretat i salut domèstica</translation>
 <translation id="7062635574500127092">Verd blavós</translation>
-<translation id="706295145388601875">Afegeix i gestiona adreces a la configuració de Chrome</translation>
+<translation id="706295145388601875">Afegeix i gestiona adreces a la configuració de WEB3 DNA Browser</translation>
 <translation id="7064851114919012435">Informació de contacte</translation>
 <translation id="7067633076996245366">Soul i rhythm and blues</translation>
 <translation id="7068733155164172741">Introdueix el codi de <ph name="OTP_LENGTH" /> dígits</translation>
@@ -2371,11 +2371,11 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="7081308185095828845">Aquesta funció no està disponible al teu dispositiu</translation>
 <translation id="7083258188081898530">Safata 9</translation>
 <translation id="7086090958708083563">Pujada sol·licitada per l'usuari</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prem Tab i després Retorn per gestionar els permisos i les dades emmagatzemades als llocs web des de la configuració de Chrome</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, prem Tab i després Retorn per gestionar els permisos i les dades emmagatzemades als llocs web des de la configuració de WEB3 DNA Browser</translation>
 <translation id="7096937462164235847">La identitat d'aquest lloc web no s'ha verificat.</translation>
 <translation id="7101893872976785596">Pel·lícules de terror</translation>
 <translation id="7102079138917191645">Construcció i manteniment</translation>
-<translation id="7102554173784142865">Juga al joc del dinosaure de Chrome</translation>
+<translation id="7102554173784142865">Juga al joc del dinosaure de WEB3 DNA Browser</translation>
 <translation id="7108338896283013870">Amaga</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> vol utilitzar la càmera</translation>
 <translation id="7108819624672055576">Permès per una extensió</translation>
@@ -2383,12 +2383,7 @@ En cas contrari, la configuració de privadesa el bloquejarà. Això permetrà q
 <translation id="7112327784801341716">No es mostren les teves dades actuals? Contacta amb el teu banc per actualitzar-les.</translation>
 <translation id="7118618213916969306">Cerca l'URL (<ph name="SHORT_URL" />) del porta-retalls</translation>
 <translation id="7119414471315195487">Tanca altres pestanyes o programes</translation>
-<translation id="7129355289156517987">Quan tanques totes les pestanyes d'incògnit a Chromium, la teva activitat en aquelles pestanyes s'esborra del dispositiu:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Activitat de navegació<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Historial de cerques<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Informació introduïda en formularis<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">No es pot enviar a aquesta adreça. Selecciona'n una altra.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Pujada bloquejada</translation>
@@ -2475,13 +2470,13 @@ Detalls addicionals:
 <translation id="7359588939039777303">S'han bloquejat els anuncis.</translation>
 <translation id="7360451453306104998">Quan Google trobi descomptes disponibles, es mostraran durant la tramitació de la compra</translation>
 <translation id="7363096869660964304">Tanmateix, no ets invisible. La teva empresa, el teu proveïdor de serveis d'Internet i els llocs web que visites poden veure la navegació d'incògnit.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prem Tab i després Retorn per afegir i gestionar adreces a la configuració de Chrome</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prem Tab i després Retorn per afegir i gestionar adreces a la configuració de WEB3 DNA Browser</translation>
 <translation id="7365849542400970216">Vols deixar que se sàpiga l'ús que fas del dispositiu?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Gestors de pagaments</translation>
 <translation id="7372973238305370288">resultat de la cerca</translation>
 <translation id="7374461526650987610">Gestors de protocol</translation>
-<translation id="7374733840632556089">Aquest problema es produeix a causa d'un certificat que tu o una altra persona heu instal·lat al dispositiu. Se sap que aquest certificat s'utilitza per supervisar i interceptar xarxes, i Chrome no hi confia. Tot i que hi ha casos en què és legítim dur a terme una supervisió, per exemple, en el cas d'una empresa o d'un centre educatiu, Chrome vol assegurar-se que estiguis al cas d'aquesta situació, encara que no la puguis evitar. La supervisió es pot produir en qualsevol navegador o aplicació que accedeixi al web.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{No es permet cap lloc web}=1{Es permet 1 lloc web}other{Es permeten # llocs web}}</translation>
 <translation id="7375818412732305729">S'adjunta un fitxer</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2499,7 +2494,7 @@ Detalls addicionals:
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Pots compartir aquesta pestanya mitjançant l'enllaç, creant un codi QR, fent una emissió i d'altres maneres</translation>
 <translation id="7403591733719184120">El dispositiu <ph name="DEVICE_NAME" /> està gestionat</translation>
-<translation id="7407424307057130981">&lt;p&gt;Aquest error es mostra si teniu el programari Superfish en un ordinador Windows.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Aquest error es mostra si teniu el programari Superfish en un ordinador Windows.&lt;/p&gt;
     &lt;p&gt;Seguiu aquests passos per desactivar temporalment el programari perquè pugueu accedir al web. Per fer-ho, necessitareu privilegis d'administrador.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Feu clic a &lt;strong&gt;Inicia&lt;/strong&gt; i, a continuació, cerqueu i seleccioneu &lt;strong&gt;Visualitza els serveis locals&lt;/strong&gt;.
@@ -2507,7 +2502,7 @@ Detalls addicionals:
     &lt;li&gt;A &lt;strong&gt;Tipus d'inici&lt;/strong&gt;, seleccioneu &lt;strong&gt;Inhabilitat&lt;/strong&gt;.
     &lt;li&gt;A &lt;strong&gt;Estat del servei&lt;/strong&gt;, feu clic a &lt;strong&gt;Atura&lt;/strong&gt;.
     &lt;li&gt;Feu clic a &lt;strong&gt;Aplica&lt;/strong&gt; i, a continuació, a &lt;strong&gt;D'acord&lt;/strong&gt;.
-    &lt;li&gt;Visiteu el &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Centre d'ajuda de Chrome&lt;/a&gt; per obtenir informació sobre com podeu suprimir permanentment el programari de l'ordinador.
+    &lt;li&gt;Visiteu el &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Centre d'ajuda de WEB3 DNA Browser&lt;/a&gt; per obtenir informació sobre com podeu suprimir permanentment el programari de l'ordinador.
     &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Encantadora</translation>
 <translation id="741204030948306876">Sí, ho accepto</translation>
@@ -2515,7 +2510,7 @@ Detalls addicionals:
 <translation id="7418620734632363981">Programació</translation>
 <translation id="7419106976560586862">Camí del perfil</translation>
 <translation id="7421067045979951561">gestors de protocol</translation>
-<translation id="7426022697669111648">Botó Mostra l'historial de Chrome: prem Retorn per veure i gestionar l'historial de navegació a la configuració de Chrome</translation>
+<translation id="7426022697669111648">Botó Mostra l'historial de WEB3 DNA Browser: prem Retorn per veure i gestionar l'historial de navegació a la configuració de WEB3 DNA Browser</translation>
 <translation id="7427366580982928791">Seguretat infantil a Internet</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Afegeix informació de contacte</translation>
@@ -2544,12 +2539,7 @@ Detalls addicionals:
 <translation id="7497998058912824456">Botó Crea un document: prem Retorn per crear un document de Google ràpidament</translation>
 <translation id="7501663406926337752">La teva organització ha marcat aquest lloc web</translation>
 <translation id="7501853161948120656">Recursos educatius</translation>
-<translation id="7506488012654002225">Chromium <ph name="BEGIN_EMPHASIS" />no desarà<ph name="END_EMPHASIS" /> la informació següent:
-        <ph name="BEGIN_LIST" />
-          <ph name="LIST_ITEM" />El teu historial de navegació
-          <ph name="LIST_ITEM" />Les galetes o les dades de llocs web
-          <ph name="LIST_ITEM" />La informació introduïda en formularis
-        <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Sobre número 9</translation>
 <translation id="7508255263130623398">L'identificador de dispositiu de la política que s'ha tornat és buit o no coincideix amb l'actual</translation>
 <translation id="7508870219247277067">Verd alvocat</translation>
@@ -2571,7 +2561,7 @@ Detalls addicionals:
 <translation id="7542995811387359312">L'emplenament automàtic de targetes de crèdit està desactivat perquè el formulari no utilitza una connexió segura.</translation>
 <translation id="7548892272833184391">Solucionar errors de connexió</translation>
 <translation id="7549584377607005141">Aquesta pàgina web necessita dades que heu introduït anteiorment per poder mostrar-la correctament. Podeu tornar a enviar les dades, però es tornarà a repetir qualsevol acció que la pàgina hagi dut a terme prèviament.</translation>
-<translation id="7550637293666041147">El nom d'usuari del dispositiu i el nom d'usuari de Chrome</translation>
+<translation id="4843621636877577887">El nom d'usuari del dispositiu i el nom d'usuari de WEB3 DNA Browser</translation>
 <translation id="7551484245293639699">Assegurança de viatges</translation>
 <translation id="755279583747225797">La prova està activa</translation>
 <translation id="7552846755917812628">Prova els consells següents:</translation>
@@ -2579,13 +2569,13 @@ Detalls addicionals:
 <translation id="7554791636758816595">Pestanya nova</translation>
 <translation id="7555777498260651025">Programes de televisió orientats a les famílies</translation>
 <translation id="7559278538486662777">No es pot canviar la mida d'aquesta aplicació.</translation>
-<translation id="7564049878696755256">Podries perdre l'accés al compte de <ph name="ORG_NAME" /> o tenir problemes de suplantació d'identitat. Chrome et recomana que canviïs la contrasenya ara.</translation>
+<translation id="8940464370390138384">Podries perdre l'accés al compte de <ph name="ORG_NAME" /> o tenir problemes de suplantació d'identitat. WEB3 DNA Browser et recomana que canviïs la contrasenya ara.</translation>
 <translation id="7564680668369175887">Vehicles familiars</translation>
 <translation id="7567204685887185387">Aquest servidor no ha pogut comprovar que sigui <ph name="DOMAIN" /> perquè és possible que el seu certificat de seguretat s'hagi emès de manera fraudulenta. Això pot ser a causa d'una configuració incorrecta o d'un atacant que intercepta la vostra connexió.</translation>
-<translation id="7568616151991626879">Google Chrome està provant d'emplenar la teva contrasenya a <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser està provant d'emplenar la teva contrasenya a <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Botó Gestiona els motors de cerca: prem Retorn per gestionar el motor de cerca predeterminat i la cerca de llocs web</translation>
-<translation id="7569952961197462199">Voleu suprimir la targeta de crèdit de Chrome?</translation>
+<translation id="9202224267417193484">Voleu suprimir la targeta de crèdit de WEB3 DNA Browser?</translation>
 <translation id="7569983096843329377">Negre</translation>
 <translation id="7575207903026901870">Botó Suprimeix el suggeriment, prem Retorn per suprimir aquest suggeriment</translation>
 <translation id="7577900504646297215">Gestiona els interessos</translation>
@@ -2604,15 +2594,15 @@ Detalls addicionals:
 <translation id="7600965453749440009">No tradueixis mai de: <ph name="LANGUAGE" /></translation>
 <translation id="7610193165460212391">El valor es troba fora de l'interval <ph name="VALUE" /> .</translation>
 <translation id="7613889955535752492">Data de caducitat: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per veure i gestionar les contrasenyes a la configuració de Chrome</translation>
-<translation id="7616645509853975347">L'administrador ha activat Chrome Enterprise Connectors al navegador. Aquests connectors tenen accés a algunes de les teves dades.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per veure i gestionar les contrasenyes a la configuració de WEB3 DNA Browser</translation>
+<translation id="2698924724374512123">L'administrador ha activat WEB3 DNA Browser Enterprise Connectors al navegador. Aquests connectors tenen accés a algunes de les teves dades.</translation>
 <translation id="7617825962482469577">Sobre C7/C6</translation>
 <translation id="7619838219691048931">Full final</translation>
 <translation id="7625242817712715120">La política de l'administrador no recomana imprimir aquest contingut</translation>
 <translation id="762844065391966283">Un element cada cop</translation>
 <translation id="7631444403134069754">Atletisme</translation>
 <translation id="7633909222644580952">Dades de rendiment i informes d'errors</translation>
-<translation id="7637571805876720304">Voleu suprimir la targeta de crèdit de Chromium?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Cap}=1{1 contrasenya al compte (per a <ph name="DOMAIN_LIST" />)}other{# contrasenyes al compte (per a <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Ports en sèrie</translation>
 <translation id="7639968568612851608">Gris fosc</translation>
@@ -2636,7 +2626,7 @@ Detalls addicionals:
 <translation id="7673278391011283842">Bústia de correu 6</translation>
 <translation id="7675325315208090829">Gestiona les formes de pagament...</translation>
 <translation id="7676643023259824263">Cerca el text (<ph name="TEXT" />) del porta-retalls</translation>
-<translation id="7679367271685653708">Consulta i gestiona l'historial de navegació a la configuració de Chrome</translation>
+<translation id="7679367271685653708">Consulta i gestiona l'historial de navegació a la configuració de WEB3 DNA Browser</translation>
 <translation id="7679947978757153706">Beisbol</translation>
 <translation id="7681273392938116652">Esports de fantasia</translation>
 <translation id="7682287625158474539">Enviament</translation>
@@ -2665,7 +2655,7 @@ Detalls addicionals:
 <translation id="7740996059027112821">Estàndard</translation>
 <translation id="77424286611022110">Aquest lloc web mostra anuncis intrusius o enganyosos. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">S'ha bloquejat el contingut perillós.</translation>
-<translation id="7751971323486164747">Personalitza la mida i els tipus de lletra a Chrome</translation>
+<translation id="7751971323486164747">Personalitza la mida i els tipus de lletra a WEB3 DNA Browser</translation>
 <translation id="7752995774971033316">Sense gestionar</translation>
 <translation id="7755624218968747854">Corró principal</translation>
 <translation id="7758069387465995638">És possible que l'antivirus o el tallafoc hagi bloquejat la connexió.</translation>
@@ -2689,7 +2679,7 @@ Detalls addicionals:
 <translation id="7805571567667010077">Gestionat per la teva organització</translation>
 <translation id="7805768142964895445">Estat</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Voleu suprimir el suggeriment de formulari de Chrome?</translation>
+
 <translation id="781440967107097262">Vols compartir el porta-retalls?</translation>
 <translation id="7815407501681723534">S'han trobat <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> per a "<ph name="SEARCH_STRING" />"</translation>
 <translation id="7822320754433038727">Caça i tir</translation>
@@ -2724,8 +2714,8 @@ Detalls addicionals:
 <translation id="7943397946612013052">Baixada bloquejada</translation>
 <translation id="7943893128817522649">Pot demanar permís per baixar automàticament diversos fitxers</translation>
 <translation id="7947285636476623132">Comprova l'any de caducitat i torna-ho a provar</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per obtenir informació sobre les funcions de Chrome</translation>
-<translation id="7950027195171824198">Gestiona les preferències de galetes a la configuració de Chrome</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per obtenir informació sobre les funcions de WEB3 DNA Browser</translation>
+<translation id="7950027195171824198">Gestiona les preferències de galetes a la configuració de WEB3 DNA Browser</translation>
 <translation id="7951415247503192394">(32 bits)</translation>
 <translation id="7952192831285741665">EDP europeu</translation>
 <translation id="7953569069500808819">Cosit de la vora a la part superior</translation>
@@ -2740,7 +2730,7 @@ Detalls addicionals:
 <translation id="7981129096182302364">Música dance i electrònica</translation>
 <translation id="798134797138789862">Pot demanar permís per utilitzar dispositius i dades de realitat virtual</translation>
 <translation id="7983008347525536475">Vehicles tot camí</translation>
-<translation id="7984945080620862648">En aquest moment no podeu visitar <ph name="SITE" /> perquè el lloc web ha enviat credencials barrejades que Chrome no pot processar. Els errors i els atacs de xarxa solen ser temporals, de manera que és probable que aquesta pàgina torni a funcionar més tard.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Enquadernació</translation>
 <translation id="7992044431894087211">S'ha reprès la compartició de la pantalla amb <ph name="APPLICATION_TITLE" /></translation>
@@ -2773,7 +2763,7 @@ Detalls addicionals:
 <translation id="8057711352706143257"><ph name="SOFTWARE_NAME" /> no s'ha configurat correctament. Normalment el problema se soluciona desinstal·lant <ph name="SOFTWARE_NAME" />. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Producció alimentària</translation>
 <translation id="8066225060526005217">Gestionat per la configuració de galetes</translation>
-<translation id="8067872629359326442">Acabes d'introduir la contrasenya en un lloc web enganyós. Chromium pot ajudar-te. Per canviar la contrasenya i notificar a Google que el compte pot estar en perill, fes clic a Protegeix el compte.</translation>
+
 <translation id="8070439594494267500">Icona de l'aplicació</translation>
 <translation id="8075736640322370409">Crea un full de càlcul de Google ràpidament</translation>
 <translation id="8075898834294118863">Gestiona la configuració del lloc web</translation>
@@ -2803,7 +2793,7 @@ Detalls addicionals:
 <translation id="8116925261070264013">Silenciats</translation>
 <translation id="8118489163946903409">Mètode de pagament</translation>
 <translation id="8123046743443732598">Equips d'escriptori</translation>
-<translation id="8124639700796374294">Botó Personalitza Chrome: prem Retorn per personalitzar l'aspecte del navegador</translation>
+<translation id="8124639700796374294">Botó Personalitza WEB3 DNA Browser: prem Retorn per personalitzar l'aspecte del navegador</translation>
 <translation id="8126056688005753476">Viatges d'aventura</translation>
 <translation id="8127301229239896662"><ph name="SOFTWARE_NAME" /> no s'ha instal·lat correctament a l'ordinador o a la xarxa. Demana a l'administrador de TI que resolgui aquest problema.</translation>
 <translation id="8131740175452115882">Confirma</translation>
@@ -2814,7 +2804,7 @@ Detalls addicionals:
 <translation id="8157295877370077682">Surt del lloc web</translation>
 <translation id="8163866351304776260">Encunyació quàdruple a l'esquerra</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Chrome t'està oferint desar les targetes al Compte de Google perquè tens la sessió iniciada. Pots canviar aquest comportament a la configuració.</translation>
+<translation id="8903986195054043594">WEB3 DNA Browser t'està oferint desar les targetes al Compte de Google perquè tens la sessió iniciada. Pots canviar aquest comportament a la configuració.</translation>
 <translation id="8176440868214972690">L'administrador d'aquest dispositiu ha enviat informació als llocs web següents, com ara opcions de configuració o polítiques.</translation>
 <translation id="8184538546369750125">Utilitza l'opció predeterminada global (Permet)</translation>
 <translation id="8186706823560132848">Programari</translation>
@@ -2859,11 +2849,11 @@ Detalls addicionals:
 <translation id="8270242299912238708">Documents PDF</translation>
 <translation id="8275952078857499577">No proposis traduir aquest lloc web</translation>
 <translation id="8277900682056760511">El full del gestor de pagaments està obert</translation>
-<translation id="8279611986089885641">Les notificacions de Chrome han d'estar activades. Pots activar-les a la <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">Les notificacions de WEB3 DNA Browser han d'estar activades. Pots activar-les a la <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">Safata 11</translation>
 <translation id="8281886186245836920">Omet</translation>
 <translation id="8282947398454257691">Saber l'identificador únic del dispositiu</translation>
-<translation id="8284769179630993263">Gestiona Navegació segura i altres opcions de la configuració de Chrome</translation>
+<translation id="8284769179630993263">Gestiona Navegació segura i altres opcions de la configuració de WEB3 DNA Browser</translation>
 <translation id="8286036467436129157">Inicia la sessió</translation>
 <translation id="8288807391153049143">Mostra el certificat</translation>
 <translation id="8289355894181816810">Si no esteu segur de què significa això, contacteu amb l'administrador de la xarxa.</translation>
@@ -2902,7 +2892,7 @@ Detalls addicionals:
 <translation id="8390725133630534698">La política de l'administrador no permet compartir contingut de <ph name="ORIGIN_NAME" /> a <ph name="VM_NAME" /></translation>
 <translation id="8396522675989118466">És el codi de <ph name="NUMBER_OF_DIGITS" /> dígits que hi ha a la <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Troba el teu telèfon</translation>
-<translation id="8405579342203358118">Gestiona la informació que sincronitzes a la configuració de Chrome</translation>
+<translation id="8405579342203358118">Gestiona la informació que sincronitzes a la configuració de WEB3 DNA Browser</translation>
 <translation id="8409413588194360210">gestors de pagament</translation>
 <translation id="8412145213513410671">Bloqueigs (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Heu d'introduir la mateixa frase de contrasenya dues vegades.</translation>
@@ -2913,7 +2903,7 @@ Detalls addicionals:
 <translation id="8427848540066057481">500 x 750 mm</translation>
 <translation id="8428213095426709021">Configuració</translation>
 <translation id="8428634594422941299">D'acord</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prem Tab i després Retorn per gestionar les preferències de galetes a la configuració de Chrome</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prem Tab i després Retorn per gestionar les preferències de galetes a la configuració de WEB3 DNA Browser</translation>
 <translation id="8433057134996913067">Amb aquesta acció es tancarà la sessió a la majoria de llocs web.</translation>
 <translation id="8434840396568290395">Animals de companyia</translation>
 <translation id="8437238597147034694">&amp;Desfés el moviment</translation>
@@ -2933,12 +2923,12 @@ Detalls addicionals:
 <translation id="8473863474539038330">Adreces i més</translation>
 <translation id="8474910779563686872">Mostra els detalls del desenvolupador</translation>
 <translation id="8479754468255770962">Grapat a la part inferior esquerra</translation>
-<translation id="8483780878231876732">Per poder utilitzar targetes del teu compte de Google, inicia la sessió a Chrome</translation>
+<translation id="8483780878231876732">Per poder utilitzar targetes del teu compte de Google, inicia la sessió a WEB3 DNA Browser</translation>
 <translation id="8488350697529856933">Objectiu d'aplicació</translation>
 <translation id="8490137692873530638">Apiladora 10</translation>
 <translation id="8493948351860045254">Allibera espai</translation>
 <translation id="8498891568109133222"><ph name="HOST_NAME" /> ha tardat massa a respondre.</translation>
-<translation id="8503559462189395349">Contrasenyes de Chrome</translation>
+<translation id="1863492395079744896">Contrasenyes de WEB3 DNA Browser</translation>
 <translation id="8503813439785031346">Nom d'usuari</translation>
 <translation id="8507227106804027148">Línia d'ordres</translation>
 <translation id="8508648098325802031">Icona de la cerca</translation>
@@ -2946,8 +2936,8 @@ Detalls addicionals:
 <translation id="851353418319061866">Comprovació de la precisió</translation>
 <translation id="8513580896341796021">S'ha iniciat la baixada. Per veure-la, prem |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">Dispositiu d'interfície humana permès pel teu administrador</translation>
-<translation id="8522552481199248698">Chrome et pot ajudar a protegir el Compte de Google i a canviar la contrasenya.</translation>
-<translation id="8530813470445476232">Esborra l'historial de navegació, les galetes, la memòria cau i molt més a la configuració de Chrome</translation>
+
+<translation id="8530813470445476232">Esborra l'historial de navegació, les galetes, la memòria cau i molt més a la configuració de WEB3 DNA Browser</translation>
 <translation id="853332391023689529">Camionetes descobertes</translation>
 <translation id="8533619373899488139">Ves a &lt;strong&gt;chrome://policy&lt;/strong&gt; per veure la llista d'URL bloquejats i altres polítiques aplicades per l'administrador del sistema.</translation>
 <translation id="8539500321752640291">Vols concedir els dos permisos?</translation>
@@ -2963,7 +2953,7 @@ Detalls addicionals:
 <translation id="8557066899867184262">El CVC es troba a la part posterior de la targeta.</translation>
 <translation id="8559762987265718583">No es pot establir una connexió privada amb <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> perquè la data i l'hora (<ph name="DATE_AND_TIME" />) del dispositiu són incorrectes.</translation>
 <translation id="8564182942834072828">Documents independents / Còpies sense recopilar</translation>
-<translation id="8564985650692024650">Chromium et recomana que restableixis la contrasenya per a <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> si l'has fet servir en altres llocs web.</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser et recomana que restableixis la contrasenya per a <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> si l'has fet servir en altres llocs web.</translation>
 <translation id="8576310925653847813">Sistemes de cinema domèstic</translation>
 <translation id="8577348305244205642">La targeta virtual no està disponible</translation>
 <translation id="858637041960032120">Afegeix un número de telèfon</translation>
@@ -2995,7 +2985,7 @@ Detalls addicionals:
 <translation id="868922510921656628">Pàgines per conjunt</translation>
 <translation id="869891660844655955">Data de caducitat</translation>
 <translation id="8699041776323235191">Dispositiu d'interfície humana</translation>
-<translation id="8699899385443889493">Botó Juga al joc El dinosaure de Chrome: prem Retorn per jugar al joc El dinosaure de Chrome</translation>
+<translation id="8699899385443889493">Botó Juga al joc El dinosaure de WEB3 DNA Browser: prem Retorn per jugar al joc El dinosaure de WEB3 DNA Browser</translation>
 <translation id="8699985386408839112">Sobre Kaku 1</translation>
 <translation id="8703575177326907206">La teva connexió a <ph name="DOMAIN" /> no està xifrada.</translation>
 <translation id="8705331520020532516">Número de sèrie</translation>
@@ -3013,12 +3003,12 @@ Detalls addicionals:
 <translation id="8726549941689275341">Mida de la pàgina:</translation>
 <translation id="8730621377337864115">Fet</translation>
 <translation id="8731268612289859741">Codi de seguretat</translation>
-<translation id="8731544501227493793">Botó Gestiona les contrasenyes; prem Retorn per veure i gestionar les teves contrasenyes a la configuració de Chrome</translation>
+<translation id="8731544501227493793">Botó Gestiona les contrasenyes; prem Retorn per veure i gestionar les teves contrasenyes a la configuració de WEB3 DNA Browser</translation>
 <translation id="8734529307927223492">El teu dispositiu <ph name="DEVICE_TYPE" /> està gestionat per <ph name="MANAGER" /></translation>
 <translation id="8736059027199600831">30 x 40 polzades</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per obrir una finestra d'incògnit nova i navegar en privat</translation>
 <translation id="8737685506611670901">Obrir els enllaços del protocol <ph name="PROTOCOL" /> en lloc del gestor <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Per establir una connexió segura, el rellotge ha d'estar ben ajustat, perquè els certificats que els llocs web fan servir per identificar-se només són vàlids per a períodes de temps concrets. Com que el rellotge del dispositiu no està ben ajustat, Chromium no pot verificar aquests certificats.</translation>
+
 <translation id="8740359287975076522">No s'ha trobat l'&lt;abbr id="dnsDefinition"&gt;adreça DNS&lt;/abbr&gt; de <ph name="HOST_NAME" />. S'està diagnosticant el problema.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> és el teu codi per a <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Afegeix aquesta pestanya a les adreces d'interès</translation>
@@ -3037,9 +3027,9 @@ Detalls addicionals:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motocicletes</translation>
 <translation id="8790007591277257123">&amp;Refés la supressió</translation>
-<translation id="8792621596287649091">Podries perdre l'accés al compte de <ph name="ORG_NAME" /> o tenir problemes de suplantació d'identitat. Chromium et recomana que canviïs la contrasenya ara.</translation>
+
 <translation id="8792626944327216835">micròfon</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> ha activat Chrome Enterprise Connectors al navegador. Aquests connectors tenen accés a algunes de les teves dades.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> ha activat WEB3 DNA Browser Enterprise Connectors al navegador. Aquests connectors tenen accés a algunes de les teves dades.</translation>
 <translation id="8798099450830957504">Predeterminat</translation>
 <translation id="8798739476508189189">Cerques les marques del navegador? Visita</translation>
 <translation id="8805819170075074995">Entrada "<ph name="LANGUAGE_ID" />" de la llista: l'entrada s'ha ignorat perquè també s'inclou a la política SpellcheckLanguage.</translation>
@@ -3047,7 +3037,7 @@ Detalls addicionals:
 <translation id="8807160976559152894">Retalla després de cada pàgina</translation>
 <translation id="8813277370772331957">Recorda-m'ho més tard</translation>
 <translation id="8814707942599948500">Sobre C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per actualitzar Chrome des de la configuració de Chrome</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />; prem Tab i després Retorn per actualitzar WEB3 DNA Browser des de la configuració de WEB3 DNA Browser</translation>
 <translation id="8820817407110198400">Adreces d'interès</translation>
 <translation id="882338992931677877">Alimentador manual</translation>
 <translation id="8830320733681313421">Postal Hagaki</translation>
@@ -3061,7 +3051,7 @@ Detalls addicionals:
 <translation id="885306012106043620">Tennis</translation>
 <translation id="8855742650226305367">Ball</translation>
 <translation id="885730110891505394">Comparteix informació amb Google</translation>
-<translation id="8858065207712248076">Chrome et recomana que restableixis la contrasenya per a <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> si l'has fet servir en altres llocs web.</translation>
+
 <translation id="885906927438988819">Si està ben escrit, <ph name="BEGIN_LINK" />prova d'executar el diagnòstic de xarxes de Windows<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Bandes sonores</translation>
 <translation id="8866481888320382733">S'ha produït un error en analitzar la configuració de la política</translation>
@@ -3081,7 +3071,7 @@ Detalls addicionals:
 <translation id="8903921497873541725">Amplia</translation>
 <translation id="890493561996401738">Botó Suprimeix el suggeriment, prem Retorn per suprimir, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Compte de Google</translation>
-<translation id="8913778647360618320">Botó Gestiona les formes de pagament; prem Retorn per gestionar la informació dels pagaments i de les targetes de crèdit a la configuració de Chrome</translation>
+<translation id="8913778647360618320">Botó Gestiona les formes de pagament; prem Retorn per gestionar la informació dels pagaments i de les targetes de crèdit a la configuració de WEB3 DNA Browser</translation>
 <translation id="8922013791253848639">Permet sempre els anuncis en aquest lloc web</translation>
 <translation id="892588693504540538">Encunyació a la part superior dreta</translation>
 <translation id="8930330541574156305">Béns immobles</translation>
@@ -3102,7 +3092,7 @@ Detalls addicionals:
 <translation id="8975263830901772334">Noms de fitxers que imprimeixes</translation>
 <translation id="8978053250194585037">Navegació segura de Google ha <ph name="BEGIN_LINK" />detectat recentment activitat de pesca de credencials<ph name="END_LINK" /> a <ph name="SITE" />. Els llocs web de pesca de credencials es fan passar per altres llocs web per enganyar-te.</translation>
 <translation id="8983369100812962543">Ara pots canviar la mida de l'aplicació</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per veure l'historial de navegació a Chrome</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per veure l'historial de navegació a WEB3 DNA Browser</translation>
 <translation id="8987927404178983737">Mes</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Busques la versió del sistema? Ves a</translation>
@@ -3150,19 +3140,19 @@ Detalls addicionals:
 <translation id="908796725011587895">Esports universitaris</translation>
 <translation id="9089260154716455634">Política fora de l'horari:</translation>
 <translation id="9095388113577226029">Més idiomes...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i, a continuació, Retorn per establir Chrome com a navegador predeterminat del sistema a la configuració d'iOS.</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i, a continuació, Retorn per establir WEB3 DNA Browser com a navegador predeterminat del sistema a la configuració d'iOS.</translation>
 <translation id="9096679202588811390">Programes i xous de televisió</translation>
 <translation id="9101630580131696064">Safata 1</translation>
 <translation id="9102081333385212048">Els fitxers que copies o mous s'envien a Google Cloud o a tercers perquè s'analitzin. Per exemple, pot ser que s'analitzin per detectar-hi dades sensibles o programari maliciós.</translation>
 <translation id="9103537084693478942">Programari de vídeo</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> utilitza normalment l'encriptació per protegir la vostra informació. En aquesta ocasió, quan Chromium ha provat de connectar-se a <ph name="SITE" />, el lloc web ha enviat credencials poc comunes i incorrectes. Pot ser que un atacant estigui provant de fer-se passar per <ph name="SITE" /> o que una pantalla d'inici de sessió a la xarxa Wi-Fi hagi interromput la connexió. En qualsevol cas, la vostra informació continua estant segura, perquè Chromium ha aturat la connexió abans no s'intercanviés cap dada.</translation>
+
 <translation id="9106062320799175032">Afegeix una adreça de facturació</translation>
 <translation id="9107467864910557787">El navegador està gestionat per <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">La política de l'administrador desactiva la compartició de pantalla amb <ph name="APPLICATION_TITLE" /> quan es mostra contingut confidencial</translation>
 <translation id="9114524666733003316">S'està confirmant la targeta...</translation>
-<translation id="9114581008513152754">Cap empresa ni cap altra organització no gestiona aquest navegador. És possible que l'activitat d'aquest dispositiu es gestioni fora de Chrome. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Fresca</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per reprendre el recorregut i veure activitat rellevant a l'historial de Chrome</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />: prem Tab i després Retorn per reprendre el recorregut i veure activitat rellevant a l'historial de WEB3 DNA Browser</translation>
 <translation id="9119042192571987207">Penjat</translation>
 <translation id="9122954576417194280">Comerç de matèries primeres i futurs</translation>
 <translation id="9128016270925453879">Les polítiques s'han carregat</translation>
@@ -3177,7 +3167,7 @@ Detalls addicionals:
 <translation id="9148088599418889305">Tria el mètode d'enviament</translation>
 <translation id="9148507642005240123">&amp;Desfés la modificació</translation>
 <translation id="9150045010208374699">Utilitzar la càmera</translation>
-<translation id="9150685862434908345">L'administrador pot modificar la configuració del navegador de manera remota. És possible que l'activitat d'aquest dispositiu també es gestioni fora de Chrome. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">S'ha actualitzat.</translation>
 <translation id="9155211586651734179">Els perifèrics d'àudio enllaçats</translation>
 <translation id="9157595877708044936">S'està configurant...</translation>
@@ -3192,7 +3182,7 @@ Detalls addicionals:
 <translation id="917450738466192189">El certificat del servidor no és vàlid.</translation>
 <translation id="9174623988242579721">Vehicles personalitzats i d'alt rendiment</translation>
 <translation id="9174917557437862841">Botó per canviar de pestanya; prem Retorn per canviar a aquesta pestanya</translation>
-<translation id="9179703756951298733">Gestiona la informació dels pagaments i de les targetes de crèdit a la configuració de Chrome</translation>
+<translation id="9179703756951298733">Gestiona la informació dels pagaments i de les targetes de crèdit a la configuració de WEB3 DNA Browser</translation>
 <translation id="9179907736442194268">Si el preu baixa en qualsevol lloc web, rebràs una alerta per correu electrònic.</translation>
 <translation id="9183302530794969518">Documents de Google</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> fa servir un protocol no admès.</translation>
@@ -3203,12 +3193,12 @@ Detalls addicionals:
 <translation id="920511547311754821">No trobes el codi? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">No s'ha pogut afegir l'article.</translation>
 <translation id="9213433120051936369">Personalitza l'aspecte</translation>
-<translation id="9215416866750762878">Una aplicació impedeix que Chrome es connecti de manera segura a aquest lloc web</translation>
+<translation id="717994082075351832">Una aplicació impedeix que WEB3 DNA Browser es connecti de manera segura a aquest lloc web</translation>
 <translation id="9219103736887031265">Imatges</translation>
-<translation id="922152298093051471">Personalitza Chrome</translation>
+<translation id="922152298093051471">Personalitza WEB3 DNA Browser</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">ESBORRA EL FORMULARI</translation>
-<translation id="936602727769022409">Podries perdre l'accés al Compte de Google. Chromium et recomana que canviïs la contrasenya ara. Se't demanarà que iniciïs la sessió.</translation>
+
 <translation id="937457230470581909">Zoològics, aquaris i reserves naturals</translation>
 <translation id="939736085109172342">Carpeta nova</translation>
 <translation id="940053046584497293">Viatges i transport</translation>

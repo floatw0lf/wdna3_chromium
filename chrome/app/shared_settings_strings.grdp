@@ -213,7 +213,7 @@
     Sends some cookies and searches from the address bar and search box to your default search engine
   </message>
   <message name="IDS_SETTINGS_ENABLE_LOGGING_PREF" desc="The label of the checkbox to enable/disable crash and user metrics logging. This string does not need a Chromium counter-part because it will only be visible if Google-branded.">
-    Help improve Chrome's features and performance
+    Help improve WEB3 DNA Browser's features and performance
   </message>
   <if expr="is_fuchsia">
     <then>
@@ -245,7 +245,7 @@
     Sync is paused
   </message>
   <message name="IDS_SETTINGS_PEOPLE_SIGN_IN_PROMPT" desc="The text displayed to prompt users to sign in to chrome.">
-    Get Google smarts in Chrome
+    Get Google smarts in WEB3 DNA Browser
   </message>
   <message name="IDS_SETTINGS_PEOPLE_SYNC_TURN_OFF" desc="The label for the button that lets the user turn off profile syncing with their gaia account.">
     Turn off
@@ -372,20 +372,20 @@
     <if expr="chromeos_ash">
     <!-- TODO(crbug.com/1231500): Remove this string after Lacros side-by-side rollout stage. -->
     <message name="IDS_SYNC_SETTINGS_SIDE_BY_SIDE_WARNING_ASH" desc="The warning message that is shown when lacros side-by-side mode is enabled.">
-      Changes you make here apply only to Chrome Browser. To make changes to your Lacros Chrome Browser settings, open Lacros Chrome Browser and go to settings.
+      Changes you make here apply only to WEB3 DNA Browser Browser. To make changes to your Lacros WEB3 DNA Browser Browser settings, open Lacros WEB3 DNA Browser Browser and go to settings.
     </message>
   </if>
 
   <if expr="chromeos_lacros">
     <!-- TODO(crbug.com/1231500): Remove this string after Lacros side-by-side rollout stage. -->
     <message name="IDS_SYNC_SETTINGS_SIDE_BY_SIDE_WARNING_LACROS" desc="The warning message that is shown when lacros side-by-side mode is enabled.">
-      Changes you make here apply only to Lacros Chrome Browser. To make changes to your Chrome Browser settings, open Chrome Browser and go to settings.
+      Changes you make here apply only to Lacros WEB3 DNA Browser Browser. To make changes to your WEB3 DNA Browser Browser settings, open WEB3 DNA Browser Browser and go to settings.
     </message>
   </if>
 
   <if expr="is_chromeos">
     <message name="IDS_BROWSER_SETTINGS_SYNC_FEATURE_LABEL" desc="Label describing the browser sync feature.">
-      Your data will be synced across all Chrome browsers where you have turned on sync for this account. For ChromeOS sync options, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>ChromeOS settings<ph name="LINK_END">&lt;/a&gt;</ph>.
+      Your data will be synced across all WEB3 DNA Browser browsers where you have turned on sync for this account. For ChromeOS sync options, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>ChromeOS settings<ph name="LINK_END">&lt;/a&gt;</ph>.
     </message>
   </if>
 

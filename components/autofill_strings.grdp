@@ -29,24 +29,24 @@
   </message>
   <if expr="_google_chrome">
     <message name="IDS_AUTOFILL_DELETE_AUTOCOMPLETE_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete an autocomplete form history suggestion.">
-      Remove form suggestion from Chrome?
+      Remove form suggestion from WEB3 DNA Browser?
     </message>
     <message name="IDS_AUTOFILL_DELETE_CREDIT_CARD_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete a credit card from Autofill.">
-      Remove credit card from Chrome?
+      Remove credit card from WEB3 DNA Browser?
     </message>
     <message name="IDS_AUTOFILL_DELETE_PROFILE_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete an address from Autofill.">
-      Remove address from Chrome?
+      Remove address from WEB3 DNA Browser?
     </message>
   </if>
   <if expr="not _google_chrome">
     <message name="IDS_AUTOFILL_DELETE_AUTOCOMPLETE_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete an autocomplete form history suggestion.">
-      Remove form suggestion from Chromium?
+      Remove form suggestion from WEB3 DNA Browser?
     </message>
     <message name="IDS_AUTOFILL_DELETE_CREDIT_CARD_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete a credit card from Autofill.">
-      Remove credit card from Chromium?
+      Remove credit card from WEB3 DNA Browser?
     </message>
     <message name="IDS_AUTOFILL_DELETE_PROFILE_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete an address from Autofill.">
-      Remove address from Chromium?
+      Remove address from WEB3 DNA Browser?
     </message>
   </if>
   <message name="IDS_AUTOFILL_CC_AMEX" desc="Full American Express credit card name." formatter_data="android_java">

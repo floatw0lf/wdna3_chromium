@@ -83,12 +83,12 @@
       </if>
       <if expr="_google_chrome">
         <message name="IDS_SAD_TAB_RELOAD_RESTART_BROWSER" desc="One of the bullet points displayed on the web page if a reload failed to fix the issue, advising the user to restart Chrome." formatter_data="android_java">
-          Restart Chrome
+          Restart WEB3 DNA Browser
         </message>
       </if>
       <if expr="not _google_chrome">
         <message name="IDS_SAD_TAB_RELOAD_RESTART_BROWSER" desc="One of the bullet points displayed on the web page if a reload failed to fix the issue, advising the user to restart Chromium." formatter_data="android_java">
-          Restart Chromium
+          Restart WEB3 DNA Browser
         </message>
       </if>
       <if expr="is_android or is_ios">
@@ -160,7 +160,7 @@
       </message>
        <if expr="_google_chrome">
         <message name="IDS_NEW_TAB_OTR_NOT_SAVED" desc="Bullet points listing data that are not saved in the Incognito mode. 'Browsing history' means a history of visited websites. 'Cookies and site data' refers to data saved by websites on the user's device (e.g. sign-in state, preferences, etc.). 'Information entered in forms' refers to names, addresses, passwords etc. that users enter into forms on the web." formatter_data="android_java">
-          Chrome <ph name="BEGIN_EMPHASIS">&lt;em&gt;</ph>won’t save<ph name="END_EMPHASIS">&lt;/em&gt;</ph> the following information:
+          WEB3 DNA Browser <ph name="BEGIN_EMPHASIS">&lt;em&gt;</ph>won’t save<ph name="END_EMPHASIS">&lt;/em&gt;</ph> the following information:
           <ph name="BEGIN_LIST">&lt;ul&gt;</ph>
             <ph name="LIST_ITEM">&lt;li&gt;</ph>Your browsing history
             <ph name="LIST_ITEM">&lt;li&gt;</ph>Cookies and site data
@@ -170,7 +170,7 @@
       </if>
       <if expr="not _google_chrome">
         <message name="IDS_NEW_TAB_OTR_NOT_SAVED" desc="Bullet points listing data that are not saved in the Incognito mode. 'Browsing history' means a history of visited websites. 'Cookies and site data' refers to data saved by websites on the user's device (e.g. sign-in state, preferences, etc.). 'Information entered in forms' refers to names, addresses, passwords etc. that users enter into forms on the web." formatter_data="android_java">
-          Chromium <ph name="BEGIN_EMPHASIS">&lt;em&gt;</ph>won’t save<ph name="END_EMPHASIS">&lt;/em&gt;</ph> the following information:
+          WEB3 DNA Browser <ph name="BEGIN_EMPHASIS">&lt;em&gt;</ph>won’t save<ph name="END_EMPHASIS">&lt;/em&gt;</ph> the following information:
           <ph name="BEGIN_LIST">&lt;ul&gt;</ph>
             <ph name="LIST_ITEM">&lt;li&gt;</ph>Your browsing history
             <ph name="LIST_ITEM">&lt;li&gt;</ph>Cookies and site data
@@ -202,12 +202,12 @@
 
       <if expr="_google_chrome">
         <message name="IDS_REVAMPED_INCOGNITO_NTP_TITLE" desc="Title of the Incognito new tab page." formatter_data="android_java">
-          Incognito in Chrome
+          Incognito in WEB3 DNA Browser
         </message>
       </if>
       <if expr="not _google_chrome">
         <message name="IDS_REVAMPED_INCOGNITO_NTP_TITLE" desc="Title of the Incognito new tab page." formatter_data="android_java">
-          Incognito in Chromium
+          Incognito in WEB3 DNA Browser
         </message>
       </if>
       <message name="IDS_REVAMPED_INCOGNITO_NTP_DOES_HEADER" desc="Header for the 'Incognito does' section that informs users about what happens while browsing Incognito: browsing activity, search history and information entered in forms are not saved locally." formatter_data="android_java">
@@ -215,7 +215,7 @@
       </message>
       <if expr="_google_chrome">
         <message name="IDS_REVAMPED_INCOGNITO_NTP_DOES_DESCRIPTION" desc="Paragraph that informs users about Incognito's functionalities: browsing activity, search history and information entered in forms are not saved locally, they are cleared after closing all Incognito tabs. 'Browsing activity' refers to the browsing history (list of visited websites) and the cookies (data saved by websites on the user's device such as: sign-in state, preferences, etc.). 'Search history from this device' means that searches will not be saved locally or used as search suggestions in the future. 'Information entered in forms' refers to names, addresses, passwords etc. that users enter into forms on the web." formatter_data="android_java">
-          When you close all Chrome Incognito tabs, your activity in those tabs is cleared from this device:
+          When you close all WEB3 DNA Browser Incognito tabs, your activity in those tabs is cleared from this device:
           <ph name="BEGIN_LIST">&lt;ul&gt;</ph>
             <ph name="LIST_ITEM">&lt;li&gt;</ph>Browsing activity<ph name="END_LIST_ITEM">&lt;/li&gt;</ph>
             <ph name="LIST_ITEM">&lt;li&gt;</ph>Search history<ph name="END_LIST_ITEM">&lt;/li&gt;</ph>
@@ -225,7 +225,7 @@
       </if>
       <if expr="not _google_chrome">
         <message name="IDS_REVAMPED_INCOGNITO_NTP_DOES_DESCRIPTION" desc="Paragraph that informs users about Incognito's functionalities: browsing activity, search history and information entered in forms are not saved locally, they are cleared after closing all Incognito tabs. 'Browsing activity' refers to the browsing history (list of visited websites) and the cookies (data saved by websites on the user's device such as: sign-in state, preferences, etc.). 'Search history from this device' means that searches will not be saved locally or used as search suggestions in the future. 'Information entered in forms' refers to names, addresses, passwords etc. that users enter into forms on the web." formatter_data="android_java">
-          When you close all Chromium Incognito tabs, your activity in those tabs is cleared from this device:
+          When you close all WEB3 DNA Browser Incognito tabs, your activity in those tabs is cleared from this device:
           <ph name="BEGIN_LIST">&lt;ul&gt;</ph>
             <ph name="LIST_ITEM">&lt;li&gt;</ph>Browsing activity<ph name="END_LIST_ITEM">&lt;/li&gt;</ph>
             <ph name="LIST_ITEM">&lt;li&gt;</ph>Search history<ph name="END_LIST_ITEM">&lt;/li&gt;</ph>
@@ -246,12 +246,12 @@
       </message>
       <if expr="_google_chrome">
         <message name="IDS_REVAMPED_INCOGNITO_NTP_LEARN_MORE" desc="The link text displayed on the Incognito new tab page pointing users to the Incognito learn more page." formatter_data="android_java">
-          <ph name="BEGIN_LINK">&lt;a&gt;</ph>Learn more about Incognito in Chrome<ph name="END_LINK">&lt;/a&gt;</ph>
+          <ph name="BEGIN_LINK">&lt;a&gt;</ph>Learn more about Incognito in WEB3 DNA Browser<ph name="END_LINK">&lt;/a&gt;</ph>
         </message>
       </if>
       <if expr="not _google_chrome">
         <message name="IDS_REVAMPED_INCOGNITO_NTP_LEARN_MORE" desc="The link text displayed on the Incognito new tab page pointing users to the Incognito learn more page." formatter_data="android_java">
-          <ph name="BEGIN_LINK">&lt;a&gt;</ph>Learn more about Incognito in Chromium<ph name="END_LINK">&lt;/a&gt;</ph>
+          <ph name="BEGIN_LINK">&lt;a&gt;</ph>Learn more about Incognito in WEB3 DNA Browser<ph name="END_LINK">&lt;/a&gt;</ph>
         </message>
       </if>
       <message name="IDS_REVAMPED_INCOGNITO_NTP_OTR_THIRD_PARTY_COOKIE" desc="Label for the Block 3rd-party cookie checkbox on the Cookies category." formatter_data="android_java">

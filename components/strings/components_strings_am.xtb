@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">ተጨማሪ ዝርዝሮችን ያቅርቡ</translation>
 <translation id="1019413721762100891">ጠፍቷል</translation>
 <translation id="1021110881106174305">ተቀባይነት ያላቸው ካርዶች</translation>
-<translation id="1021753677514347426">ይህ ችግር የተፈጠረው በእርስዎ ወይም በሌላ ሰው በእርስዎ መሣሪያ ላይ በተጫነ የዕውቅና ማረጋገጫ ምክንያት ነው። ይህ የዕውቅና ማረጋገጫ አውታረ መረቦችን እንደሚከታተል እና አቋርጦ እንደሚገባ የታወቀ ነው እና በChromium የታመነ አይደለም። ክትትል ለማድረግ እንደ ትምህርት ቤት ወይም የኩባንያ አውታረ መረብ በመሳሰሉ አንዳንድ ሕጋዊ አስፈላጊ ምክንያቶች ቢኖሩም Chromium ይህ እየተፈጠረ እንዳለ ምንም እንኳ እርስዎ ሊያስቆሙት ባይችሉም እንዲያውቁት ማድረግ ይፈልጋል። ክትትል ማድረግ በማናቸውም ድሩን በሚደርስ አሳሽ ወይም መተግበሪያ ላይ ሊያጋጥም ይችል ይሆናል።</translation>
+<translation id="6843750610117699926">ይህ ችግር የተፈጠረው በእርስዎ ወይም በሌላ ሰው በእርስዎ መሣሪያ ላይ በተጫነ የዕውቅና ማረጋገጫ ምክንያት ነው። ይህ የዕውቅና ማረጋገጫ አውታረ መረቦችን እንደሚከታተል እና አቋርጦ እንደሚገባ የታወቀ ነው እና በWEB3 DNA Browser የታመነ አይደለም። ክትትል ለማድረግ እንደ ትምህርት ቤት ወይም የኩባንያ አውታረ መረብ በመሳሰሉ አንዳንድ ሕጋዊ አስፈላጊ ምክንያቶች ቢኖሩም WEB3 DNA Browser ይህ እየተፈጠረ እንዳለ ምንም እንኳ እርስዎ ሊያስቆሙት ባይችሉም እንዲያውቁት ማድረግ ይፈልጋል። ክትትል ማድረግ በማናቸውም ድሩን በሚደርስ አሳሽ ወይም መተግበሪያ ላይ ሊያጋጥም ይችል ይሆናል።</translation>
 <translation id="1024111578869940408">አጥቂዎች አንዳንድ ጊዜ በድር አድራሻው ላይ ለማየት የሚያስቸግሩ ለውጦችን ለማድረግ ጣቢያዎችን ያስመስላሉ።</translation>
 <translation id="1028781062521375153">ዝርዝሮችን ይመልከቱ</translation>
 <translation id="1030706264415084469"><ph name="URL" /> ትልቅ ውሂብ በእርስዎ መሣሪያ ላይ እስከ መጨረሻው ማከማቸት ይፈልጋል</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;አክልን ቀልብስ</translation>
 <translation id="1056663316309890343">የፎቶ ሶፍትዌር</translation>
 <translation id="1056898198331236512">ማስጠንቀቂያ</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChrome ውስጥ የDino አሂድ ጨዋታ ለመጫወት ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በWEB3 DNA Browser ውስጥ የDino አሂድ ጨዋታ ለመጫወት ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="1058479211578257048">ካርዶችን በማቀመጥ ላይ...</translation>
 <translation id="1060320201901229167">ካኩ 5 ፖስታ</translation>
 <translation id="10614374240317010">በጭራሽ አልተቀመጠም</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">በካርድ ላይ ስም ያክሉ</translation>
 <translation id="1089439967362294234">የይለፍ ቃል ቀይር</translation>
 <translation id="1096545575934602868">ይህመስክ ከ<ph name="MAX_ITEMS_LIMIT" /> ግቤቶች በላይ ሊኖሩት አይገባም። ሌሎች ተጨማሪ ግቤቶች ሁሉ ይወገዳሉ።</translation>
-<translation id="1100782917270858593">የጉዞን ከቆመበት ቀጥል አዝራር፣ ጉዞዎን ከቆመበት ለመቀጠል አስገባን ይጫኑ እና በChrome ታሪክዎ ውስጥ አግባብነት ያለው እንቅስቃሴን ይመልከቱ</translation>
+<translation id="3985486898664025513">የጉዞን ከቆመበት ቀጥል አዝራር፣ ጉዞዎን ከቆመበት ለመቀጠል አስገባን ይጫኑ እና በWEB3 DNA Browser ታሪክዎ ውስጥ አግባብነት ያለው እንቅስቃሴን ይመልከቱ</translation>
 <translation id="1101672080107056897">የስህተት እርምጃ</translation>
 <translation id="1103523840287552314">ሁልጊዜ <ph name="LANGUAGE" />ን መተርጎም</translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">የእርስዎን የይለፍ ቃል በድርጅትዎ በማይተዳደር ጣቢያ ላይ አስገብተዋል። የእርስዎን መለያ ለመጠበቅ ሲባል የእርስዎን የይለፍ ቃል በሌሎች መተግበሪያዎች እና ጣቢያዎች ላይ አይጠቀሙበት።</translation>
 <translation id="1257553931232494454">የማጉላት ደረጃዎች</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ የChrome ቅንብሮችን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ የWEB3 DNA Browser ቅንብሮችን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="1263231323834454256">የንባብ ዝርዝር</translation>
 <translation id="1264309058268477500">ተለዋጭ</translation>
 <translation id="1264974993859112054">ሰፖርቶች</translation>
@@ -131,7 +131,7 @@
 <translation id="1285320974508926690">ይህን ጣቢያ በጭራሽ አትተርጉም</translation>
 <translation id="1288548991597756084">ካርድ ደህንነቱ በተጠበቀ ሁኔታ ያስቀምጡ</translation>
 <translation id="1292571435393770077">መሳቢያ 16</translation>
-<translation id="1292701964462482250">«በእርስዎ ኮምፒውተር ላይ ያለ ሶፍትዌር Chrome ደህንነቱ በተጠበቀ ሁኔታ ከድር ጋር እንዳይገናኝ እያስቆመው ነው» (የWindows ኮምፒውተሮች ብቻ)</translation>
+<translation id="3610512443326918645">«በእርስዎ ኮምፒውተር ላይ ያለ ሶፍትዌር WEB3 DNA Browser ደህንነቱ በተጠበቀ ሁኔታ ከድር ጋር እንዳይገናኝ እያስቆመው ነው» (የWindows ኮምፒውተሮች ብቻ)</translation>
 <translation id="1293797321964802402">9 x 11 ኢንች ፖስታ</translation>
 <translation id="1294154142200295408">የትእዛዝ መስመር ልዩነቶች</translation>
 <translation id="129553762522093515">በቅርብ ጊዜ የተዘጉ</translation>
@@ -150,7 +150,7 @@
 <translation id="1323433172918577554">ተጨማሪ አሳይ</translation>
 <translation id="132390688737681464">አድራሻዎችን አስቀምጥ እና ሙላ</translation>
 <translation id="1330449323196174374">ግራ በር እጠፍ</translation>
-<translation id="1333745675627230582">የChrome Dino ጨዋታን አጫውት</translation>
+<translation id="6227572462599550594">የWEB3 DNA Browser Dino ጨዋታን አጫውት</translation>
 <translation id="1333989956347591814">የእርስዎ እንቅስቃሴ ለሚከተሉት <ph name="BEGIN_EMPHASIS" />አሁንም የሚታይ ሊሆን ይችላል<ph name="END_EMPHASIS" />፦
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />እርስዎ የሚጎበኟቸው ድር ጣቢያዎች
@@ -223,7 +223,7 @@
 <translation id="1483493594462132177">ላክ</translation>
 <translation id="1484290072879560759">የመላኪያ አድራሻ ይምረጡ</translation>
 <translation id="1492194039220927094">የመመሪያዎች ግፊት፦</translation>
-<translation id="149293076951187737">ሁሉንም የChrome ማንነት የማያሳውቁ ትሮች ሲዘጉ በእነዚህ ትሮች ውስጥ ያለዎት እንቅስቃሴ ከዚህ መሣሪያ ይጸዳል፦
+<translation id="3175654283800723944">ሁሉንም የWEB3 DNA Browser ማንነት የማያሳውቁ ትሮች ሲዘጉ በእነዚህ ትሮች ውስጥ ያለዎት እንቅስቃሴ ከዚህ መሣሪያ ይጸዳል፦
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />የአሰሳ እንቅስቃሴ<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />የፍለጋ ታሪክ<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@
 <translation id="154408704832528245">የማድረሻ አድራሻ ይምረጡ</translation>
 <translation id="1549470594296187301">ይህን ባህሪ ለመጠቀም ጃቫስክሪፕት መንቃት አለበት።</translation>
 <translation id="1551884710160394169">ነፃ ዌር እና ተከፋይ ዌር</translation>
-<translation id="1553358976309200471">Chromeን አዘምን</translation>
+<translation id="1553358976309200471">WEB3 DNA Browserን አዘምን</translation>
 <translation id="1555130319947370107">ሰማያዊ</translation>
 <translation id="1559447966090556585">ማሳወቂያዎችን ያግኙ?</translation>
 <translation id="1559528461873125649">እንደዚህ ያለ ፋይል ወይም አቃፊ የለም</translation>
@@ -263,7 +263,7 @@
 <translation id="156703335097561114">እንደ አድራሻዎች፣ የበይነገጽ ውቅረት እና የግንኙነት ጥራት ያሉ የአውታረ መረብ መረጃ</translation>
 <translation id="1567040042588613346">ይህ መመሪያ እንደታሰበው እየሰራ ነው፣ ነገር ግን ተመሳሳይ እሴት በሌላ ቦታ የተቀናበረ ሲሆን በዚህ መመሪያ ተተክቷል።</translation>
 <translation id="1569487616857761740">የጊዜ ማብቂያ ቀን ያስገቡ</translation>
-<translation id="1569694109004336106">Google Chrome የይለፍ ቃላትን ለመሙላት Windows Helloን ለማብራት እየሞከረ ነው።</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser የይለፍ ቃላትን ለመሙላት Windows Helloን ለማብራት እየሞከረ ነው።</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> ኢንች</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">ይህን ድረ-ገጽ በማሳየት ላይ ሳለ የሆነ ችግር ተፈጥሯል።</translation>
@@ -273,7 +273,7 @@
 <translation id="1594030484168838125">ምረጥ</translation>
 <translation id="1596296697375291157">አጓጊ፣ ወንጀል እና ሚስጥራዊ ፊልሞች</translation>
 <translation id="1599199147673445968">አዲስ ካርድ? <ph name="BEGIN_LINK" />የካርድ ዝርዝሮችን ያስገቡ<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">በChrome ውስጥ የDino አሂድ ጨዋታ አጫውት</translation>
+<translation id="160851722280695521">በWEB3 DNA Browser ውስጥ የDino አሂድ ጨዋታ አጫውት</translation>
 <translation id="161042844686301425">ውሃ ሰማያዊ</translation>
 <translation id="1611101756749861742">ሁለተኛ ጥቅልል</translation>
 <translation id="1615402009686901181">ሚስጥራዊ ይዘት በሚታይበት ጊዜ የአስተዳዳሪ መመሪያ የማያ ገጽ ማንሳትን ያሰናክላል</translation>
@@ -293,13 +293,13 @@
 <translation id="1642410292376109062">የGoogle የይለፍ ቃልዎን አዝራር ይቀይሩ፣ የGoogle መለያ የይለፍ ቃልዎን ለመቀየር አስገባን ይጫኑ</translation>
 <translation id="1644574205037202324">ታሪክ</translation>
 <translation id="1645368109819982629">የማይደገፍ ፕሮቶኮል</translation>
-<translation id="1650602712345345441">የእርስዎን Chrome ቅንብሮች ያቀናብሩ</translation>
+<translation id="1650602712345345441">የእርስዎን WEB3 DNA Browser ቅንብሮች ያቀናብሩ</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome ለማንበብ እንዲቀልል ይህን ገጽ አቃልሎታል። Chrome የመጀመሪያውን ገጽ ደህንነቱ በተጠበቀ ግንኙነት ላይ ሰርስሮ አውጥቶታል።</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser ለማንበብ እንዲቀልል ይህን ገጽ አቃልሎታል። WEB3 DNA Browser የመጀመሪያውን ገጽ ደህንነቱ በተጠበቀ ግንኙነት ላይ ሰርስሮ አውጥቶታል።</translation>
 <translation id="1656489000284462475">መውሰጃ</translation>
 <translation id="1658918301167915956">የብሉቱዝ መሣሪያዎች</translation>
 <translation id="1662550410081243962">የመክፈያ ዘዴዎችን አስቀምጥ እና ሙላ</translation>
-<translation id="1663943134801823270">ካርዶች እና አድራሻዎች ከChrome የመጡ ናቸው። በ<ph name="BEGIN_LINK" />ቅንብሮች<ph name="END_LINK" /> ውስጥ ሊያስተዳድሯቸው ይችላሉ።</translation>
+<translation id="716145566107023410">ካርዶች እና አድራሻዎች ከWEB3 DNA Browser የመጡ ናቸው። በ<ph name="BEGIN_LINK" />ቅንብሮች<ph name="END_LINK" /> ውስጥ ሊያስተዳድሯቸው ይችላሉ።</translation>
 <translation id="1671391448414634642">ከአሁን በኋላ በ<ph name="SOURCE_LANGUAGE" /> ያሉ ገጾች ወደ <ph name="TARGET_LANGUAGE" /> ይተረጎማሉ።</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> ወደ <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">አጭር ጠርዝ መጀመሪያ</translation>
@@ -347,7 +347,7 @@
 <translation id="1757773103848038814">Monospace ቅርጸ-ቁምፊ</translation>
 <translation id="1763864636252898013">ይህ አገልጋይ <ph name="DOMAIN" /> መሆኑን ሊያረጋግጥ አልቻለም፤ የደህንነት እውቅና ማረጋገጫው በመሣሪያዎ ስርዓተ ክወና የሚታመን አይደለም። ይሄ በተሳሳተ አወቃቀር ወይም አንድ አጥቂ ግንኙነትዎን በመጥለፉ የተከሰተ ሊሆን ይችላል።</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />የWindows አውታረ መረብ መመርመሪያውን ለማሄድ ይሞክሩ<ph name="END_LINK" />።</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />በChromium ውስጥ ስላለ ማንነት የማያሳውቅ ተጨማሪ ይወቁ<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />በWEB3 DNA Browser ውስጥ ስላለ ማንነት የማያሳውቅ ተጨማሪ ይወቁ<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">የእርስዎ ክፍት ትሮች እዚህ ይመጣሉ</translation>
 <translation id="1791429645902722292">Google ዘመናዊ ቁልፍ</translation>
@@ -398,11 +398,11 @@
 <translation id="1919526244108283799">400 x 600 ሚሜ</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{ምንም}=1{1 ጣቢያ}one{# ጣቢያዎች}other{# ጣቢያዎች}}</translation>
 <translation id="1924727005275031552">አዲስ</translation>
-<translation id="1927439593081478069">በChrome ቅንብሮች ውስጥ የደህንነት ፍተሻን ለማሄድ የChrome ደህንነት ፍተሻ ቁልፍን ያሂዱ፣ ከዚያ አስገባን ይጫኑ</translation>
+<translation id="1927439593081478069">በWEB3 DNA Browser ቅንብሮች ውስጥ የደህንነት ፍተሻን ለማሄድ የWEB3 DNA Browser ደህንነት ፍተሻ ቁልፍን ያሂዱ፣ ከዚያ አስገባን ይጫኑ</translation>
 <translation id="1935995810530254458">ለማንኛውም ቅዳ</translation>
 <translation id="1939175642807587452">ማሳወቂያዎችን ለመላክ መጠየቅ ይችላል</translation>
 <translation id="1943994668912612445">ንድፍ</translation>
-<translation id="1945968466830820669">የድርጅት መለያዎን መዳረሻ ሊያጡ ወይም የማንነት ስርቆት ሊያጋጥመዎት ይችላሉ። Chromium የይለፍ ቃልዎን አሁን እንዲቀይሩ ይመክራል።</translation>
+<translation id="5087943717045213809">የድርጅት መለያዎን መዳረሻ ሊያጡ ወይም የማንነት ስርቆት ሊያጋጥመዎት ይችላሉ። WEB3 DNA Browser የይለፍ ቃልዎን አሁን እንዲቀይሩ ይመክራል።</translation>
 <translation id="1946849748901605102">12 x 15 ኢንች</translation>
 <translation id="1947454675006758438">በቀኝ በኩል ስቴፕለር ምታ</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -425,8 +425,8 @@
 <translation id="2001146170449793414">{COUNT,plural, =1{እና 1 ተጨማሪ}one{እና # ተጨማሪ}other{እና # ተጨማሪ}}</translation>
 <translation id="2003709556000175978">የእርስዎን የይለፍ ቃል አሁኑኑ ዳግም ያቀናብሩ</translation>
 <translation id="2003775180883135320">ከላይ አራቴ መታ አድርግ</translation>
-<translation id="201174227998721785">በChrome ቅንብሮች ውስጥ በመላ ጣቢያዎች ላይ የተከማቹ ፈቃዶችን እና ውሂብን ያቀናብሩ</translation>
-<translation id="2019607688127825327">የተደራሽነት ቅንብሮች አዝራርን ያቀናብሩ፣ በChrome ቅንብሮች ውስጥ የተደራሽነት መሣሪያዎችዎን ግላዊነት ለማላበስ አስገባን ይጫኑ</translation>
+<translation id="201174227998721785">በWEB3 DNA Browser ቅንብሮች ውስጥ በመላ ጣቢያዎች ላይ የተከማቹ ፈቃዶችን እና ውሂብን ያቀናብሩ</translation>
+<translation id="2019607688127825327">የተደራሽነት ቅንብሮች አዝራርን ያቀናብሩ፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የተደራሽነት መሣሪያዎችዎን ግላዊነት ለማላበስ አስገባን ይጫኑ</translation>
 <translation id="202224654587969958">12 x 19 ኢንች</translation>
 <translation id="2025115093177348061">የላቀ እውነታ</translation>
 <translation id="2025186561304664664">ተኪ ወደ ራስ-ውቅር ተዋቅሯል።</translation>
@@ -443,7 +443,7 @@
 <translation id="2048261947532620704">ገጽን በመተርጎም ላይ</translation>
 <translation id="205212645995975601">ባርበኩ እና ጥብስ</translation>
 <translation id="2053111141626950936">በ<ph name="LANGUAGE" /> ያሉ ገጾች አይተረጎሙም።</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{ይህ መቆጣጠሪያ ሲበራ እና ሁኔታው ንቁ ሲሆን Chrome የቅርብ ጊዜ የአሰሳ እንቅስቃሴዎ ከየትኛው የብዙ ሰዎች ስብስብ ወይም «የተመሳሳይ ሰዎች ስብስቦች» ጋር በጣም እንደሚቀራረብ ይወስናል። ማስታወቂያ ሰሪዎች ለቡድኑ ማስታወቂያዎችን መምረጥ ይችላሉ፣ እንዲሁም የአሰሳ እንቅስቃሴዎ በመሣሪያዎ ላይ በግል ሆኖ ይቀመጣል። የእርስዎ ቡድን በየቀኑ ይዘምናል።}=1{ይህ መቆጣጠሪያ ሲበራ እና ሁኔታው ንቁ ሲሆን Chrome የቅርብ ጊዜ የአሰሳ እንቅስቃሴዎ ከየትኛው የብዙ ሰዎች ስብስብ ወይም «የተመሳሳይ ሰዎች ስብስቦች» ጋር በጣም እንደሚቀራረብ ይወስናል። ማስታወቂያ ሰሪዎች ለቡድኑ ማስታወቂያዎችን መምረጥ ይችላሉ፣ እንዲሁም የአሰሳ እንቅስቃሴዎ በመሣሪያዎ ላይ በግል ሆኖ ይቀመጣል። የእርስዎ ቡድን በየቀኑ ይዘምናል።}one{ይህ መቆጣጠሪያ ሲበራ እና ሁኔታው ንቁ ሲሆን Chrome የቅርብ ጊዜ የአሰሳ እንቅስቃሴዎ ከየትኛው የብዙ ሰዎች ስብስብ ወይም «የተመሳሳይ ሰዎች ስብስቦች» ጋር በጣም እንደሚቀራረብ ይወስናል። ማስታወቂያ ሰሪዎች ለቡድኑ ማስታወቂያዎችን መምረጥ ይችላሉ፣ እንዲሁም የአሰሳ እንቅስቃሴዎ በመሣሪያዎ ላይ በግል ሆኖ ይቀመጣል። የእርስዎ ቡድን በየ{NUM_DAYS} ቀኖች ይዘመናል።}other{ይህ መቆጣጠሪያ ሲበራ እና ሁኔታው ንቁ ሲሆን Chrome የቅርብ ጊዜ የአሰሳ እንቅስቃሴዎ ከየትኛው የብዙ ሰዎች ስብስብ ወይም «የተመሳሳይ ሰዎች ስብስቦች» ጋር በጣም እንደሚቀራረብ ይወስናል። ማስታወቂያ ሰሪዎች ለቡድኑ ማስታወቂያዎችን መምረጥ ይችላሉ፣ እንዲሁም የአሰሳ እንቅስቃሴዎ በመሣሪያዎ ላይ በግል ሆኖ ይቀመጣል። የእርስዎ ቡድን በየ{NUM_DAYS} ቀኖች ይዘመናል።}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{ይህ መቆጣጠሪያ ሲበራ እና ሁኔታው ንቁ ሲሆን WEB3 DNA Browser የቅርብ ጊዜ የአሰሳ እንቅስቃሴዎ ከየትኛው የብዙ ሰዎች ስብስብ ወይም «የተመሳሳይ ሰዎች ስብስቦች» ጋር በጣም እንደሚቀራረብ ይወስናል። ማስታወቂያ ሰሪዎች ለቡድኑ ማስታወቂያዎችን መምረጥ ይችላሉ፣ እንዲሁም የአሰሳ እንቅስቃሴዎ በመሣሪያዎ ላይ በግል ሆኖ ይቀመጣል። የእርስዎ ቡድን በየቀኑ ይዘምናል።}=1{ይህ መቆጣጠሪያ ሲበራ እና ሁኔታው ንቁ ሲሆን WEB3 DNA Browser የቅርብ ጊዜ የአሰሳ እንቅስቃሴዎ ከየትኛው የብዙ ሰዎች ስብስብ ወይም «የተመሳሳይ ሰዎች ስብስቦች» ጋር በጣም እንደሚቀራረብ ይወስናል። ማስታወቂያ ሰሪዎች ለቡድኑ ማስታወቂያዎችን መምረጥ ይችላሉ፣ እንዲሁም የአሰሳ እንቅስቃሴዎ በመሣሪያዎ ላይ በግል ሆኖ ይቀመጣል። የእርስዎ ቡድን በየቀኑ ይዘምናል።}one{ይህ መቆጣጠሪያ ሲበራ እና ሁኔታው ንቁ ሲሆን WEB3 DNA Browser የቅርብ ጊዜ የአሰሳ እንቅስቃሴዎ ከየትኛው የብዙ ሰዎች ስብስብ ወይም «የተመሳሳይ ሰዎች ስብስቦች» ጋር በጣም እንደሚቀራረብ ይወስናል። ማስታወቂያ ሰሪዎች ለቡድኑ ማስታወቂያዎችን መምረጥ ይችላሉ፣ እንዲሁም የአሰሳ እንቅስቃሴዎ በመሣሪያዎ ላይ በግል ሆኖ ይቀመጣል። የእርስዎ ቡድን በየ{NUM_DAYS} ቀኖች ይዘመናል።}other{ይህ መቆጣጠሪያ ሲበራ እና ሁኔታው ንቁ ሲሆን WEB3 DNA Browser የቅርብ ጊዜ የአሰሳ እንቅስቃሴዎ ከየትኛው የብዙ ሰዎች ስብስብ ወይም «የተመሳሳይ ሰዎች ስብስቦች» ጋር በጣም እንደሚቀራረብ ይወስናል። ማስታወቂያ ሰሪዎች ለቡድኑ ማስታወቂያዎችን መምረጥ ይችላሉ፣ እንዲሁም የአሰሳ እንቅስቃሴዎ በመሣሪያዎ ላይ በግል ሆኖ ይቀመጣል። የእርስዎ ቡድን በየ{NUM_DAYS} ቀኖች ይዘመናል።}}</translation>
 <translation id="2059202684901022309">22 x 34 ኢንች</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 የአስተያየት ጥቆማ}one{# የአስተያየት ጥቆማዎች}other{# የአስተያየት ጥቆማዎች}}</translation>
 <translation id="2066915425250589881">ለመሰረዝ መጠየቅ</translation>
@@ -455,9 +455,9 @@
 <translation id="20817612488360358">የስርዓት ተኪ ቅንብሮች ስራ ላይ እንዲውሉ ተቀናብረዋል ግን ግልፅ የሆነ የተኪ ውቅርም ተገልጿል።</translation>
 <translation id="2082238445998314030">ውጤት <ph name="RESULT_NUMBER" /> ከ<ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">አስቀምጥ…</translation>
-<translation id="2088086323192747268">የአስምር አዝራርን ያቀናብሩ፣ በChrome ቅንብሮች ውስጥ ምን መረጃ እንደሚያሰምሩ ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="2088086323192747268">የአስምር አዝራርን ያቀናብሩ፣ በWEB3 DNA Browser ቅንብሮች ውስጥ ምን መረጃ እንደሚያሰምሩ ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="2091887806945687916">ድምፅ</translation>
-<translation id="2093982008204312032">Google Chrome የይለፍ ቃላትን ለመሙላት Windows Helloን ለማጥፋት እየሞከረ ነው።</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser የይለፍ ቃላትን ለመሙላት Windows Helloን ለማጥፋት እየሞከረ ነው።</translation>
 <translation id="2094505752054353250">የጎራ አለመዛመድ</translation>
 <translation id="2099652385553570808">ሦስቴ ስቴፕለር በግራ በኩል ምታ</translation>
 <translation id="2101225219012730419">ስሪት፦</translation>
@@ -540,7 +540,7 @@
 <translation id="2292556288342944218">የእርስዎ የበየነመረብ መዳረሻ ታግዷል</translation>
 <translation id="2293443924986248631">ሲበራ ጣቢያዎች እርስዎን በመላው ድር ላይ የሚከታተሉ ኩኪዎችን መጠቀም አይችሉም። በአንዳንድ ጣቢያዎች ላይ ያሉ ባህሪያት ሊሰበሩ ይችላሉ።</translation>
 <translation id="2295290966866883927">የጎበኟቸው ገጾች ዩአርኤል ወደ Google ደመና ወይም ሦስተኛ ወገኖች ለትንታኔ ይላካሉ። ለምሳሌ፣ ደህንነታቸው ያልተጠበቀ ድር ጣቢያዎችን ለመለየት ሊቃኙ ይችላሉ።</translation>
-<translation id="2298855485018661510">የኩኪዎችን አዝራር ያቀናብሩ፣ በChrome ቅንብሮች ውስጥ የኩኪ ምርጫዎችዎን ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="2298855485018661510">የኩኪዎችን አዝራር ያቀናብሩ፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የኩኪ ምርጫዎችዎን ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="2300306941146563769">አልተሰቀለም</translation>
 <translation id="2316159751672436664">በChromeOS ቅንብሮች ውስጥ የተደራሽነት መሣሪያዎችዎን ግላዊነት ያላብሱ</translation>
 <translation id="2316887270356262533">እስከ 1 ሜባ ቦታ ድረስ ያስለቅቃል። አንዳንድ ጣቢያዎች በሚቀጥለው ጉብኝትዎ ላይ ይበልጥ በዝግታ ሊጫኑ ይችላሉ።</translation>
@@ -568,9 +568,9 @@
 <translation id="236340516568226369">የመቀየሪያ ምናሌን መጠን ቀይር</translation>
 <translation id="2367567093518048410">ደረጃ</translation>
 <translation id="2380886658946992094">የሕግ</translation>
-<translation id="2383455408879745299">በChrome ቅንብሮች ውስጥ የተደራሽነት መሣሪያዎችዎ ግላዊነትን ያላብሱ</translation>
+<translation id="2383455408879745299">በWEB3 DNA Browser ቅንብሮች ውስጥ የተደራሽነት መሣሪያዎችዎ ግላዊነትን ያላብሱ</translation>
 <translation id="2384307209577226199">የንግድ ድርጅት ነባሪ</translation>
-<translation id="2385809941344967209">ከእርስዎ የChrome ቅንብሮች ሆነው Chromeን ያዘምኑ</translation>
+<translation id="2385809941344967209">ከእርስዎ የWEB3 DNA Browser ቅንብሮች ሆነው WEB3 DNA Browserን ያዘምኑ</translation>
 <translation id="2386255080630008482">የአገልጋይ እውቅና ማረጋገጫ ተሽሯል።</translation>
 <translation id="239293030466334554">ጣራቸው ክፍት የሚሆኑ መኪናዎች</translation>
 <translation id="2392959068659972793">ምንም እሴት ያልተዋቀረላቸው መምሪያዎችን አሳይ</translation>
@@ -589,7 +589,7 @@
 <translation id="2463739503403862330">ሙላ</translation>
 <translation id="2465655957518002998">የማድረሻ ዘዴ ይምረጡ</translation>
 <translation id="2465688316154986572">ስቴፕለር ምታ</translation>
-<translation id="2465914000209955735">በChrome ውስጥ ያወረዷቸውን ፋይሎች ያቀናብሩ</translation>
+<translation id="2465914000209955735">በWEB3 DNA Browser ውስጥ ያወረዷቸውን ፋይሎች ያቀናብሩ</translation>
 <translation id="2466004615675155314">ከድሩ መረጃ አሳይ</translation>
 <translation id="2467272921457885625">እንደ የሲፒዩ/ራም አጠቃቀም ታሪክ ያሉ የመሣሪያ ሃርድዌር ዝርዝሮች እና ስታቲስቲክስ</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />የአውታረ መረብ መመርመሪያን በማሄድ ላይ<ph name="END_LINK" /></translation>
@@ -606,7 +606,7 @@
 <translation id="2505268675989099013">መለያን ጠብቅ</translation>
 <translation id="2509167091171468975">የምግብ እና የሸቀጣሸቀጥ ቸርቻሪዎች</translation>
 <translation id="2512101340618156538">አልተፈቀደም (ነባሪ)</translation>
-<translation id="2512413427717747692">Chromeን እንደ ነባሪ አሳሽ አዝራር ያዋቅሩ፣ Chromeን በiOS ቅንብሮች ውስጥ የስርዓቱ ነባሪ አሳሽ ለማዋቀር አስገባን ይጫኑ</translation>
+<translation id="2512413427717747692">WEB3 DNA Browserን እንደ ነባሪ አሳሽ አዝራር ያዋቅሩ፣ WEB3 DNA Browserን በiOS ቅንብሮች ውስጥ የስርዓቱ ነባሪ አሳሽ ለማዋቀር አስገባን ይጫኑ</translation>
 <translation id="2515629240566999685">በእርስዎ አካባቢ ያለውን ሲግናል መፈተሽ</translation>
 <translation id="2515761554693942801"><ph name="PROVIDER_ORIGIN" />ን በሚጠቀሙ ድር ጣቢያዎች ላይ በTouch ID ማረጋገጥን መርጠዋል። ይህ አቅራቢ ስለእርስዎ የመክፈያ ዘዴ መረጃ አከማችቶ ሊሆን ይችላል። እርስዎ ይህንን <ph name="LINK_TEXT" /> ይችላሉ።</translation>
 <translation id="2521385132275182522">ከግራጌ በቀኝ በኩል ስቴፕለር ምታ</translation>
@@ -623,7 +623,7 @@
 <translation id="2542106216580219892">ሰርፊንግ</translation>
 <translation id="2544546346215446551">የእርስዎ አስተዳዳሪ መሣሪያዎን እንደገና አስጀምረውታል</translation>
 <translation id="2544644783021658368">ነጠላ ሰነድ</translation>
-<translation id="254524874071906077">Chrome እንደ ነባሪ አሳሽ ያስቀምጡት</translation>
+<translation id="1319028298140338735">WEB3 DNA Browser እንደ ነባሪ አሳሽ ያስቀምጡት</translation>
 <translation id="2546283357679194313">ኩኪዎች እና የጣቢያ ውሂብ</translation>
 <translation id="2547466893236767989">የድር ዲዛይን እና ግንባታ</translation>
 <translation id="254947805923345898">የመመሪያ እሴት የሚሰራ አይደለም።</translation>
@@ -638,19 +638,19 @@
 <translation id="2570734079541893434">ቅንብሮችን ያቀናብሩ</translation>
 <translation id="2573834589046842510">ህትመት</translation>
 <translation id="257674075312929031">ቡድን</translation>
-<translation id="2576880857912732701">የደህንነት ቅንብሮችን ያቀናብሩ፣ በChrome ቅንብሮች ውስጥ የጥንቃቄ አሰሳዎን እና ተጨማሪ ነገሮችን ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="2576880857912732701">የደህንነት ቅንብሮችን ያቀናብሩ፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የጥንቃቄ አሰሳዎን እና ተጨማሪ ነገሮችን ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="2586657967955657006">የቅንጥብ ሰሌዳ</translation>
 <translation id="2587730715158995865">ከ<ph name="ARTICLE_PUBLISHER" />። ይህን እና <ph name="OTHER_ARTICLE_COUNT" /> ሌሎች ዘገባዎችን ያንብቡ።</translation>
 <translation id="2587841377698384444">የማውጫ የኤፒአይ መታወቂያ፦</translation>
 <translation id="2594318783181750337">ፈጣን የድር እይታ፦</translation>
 <translation id="2595719060046994702">ይህ መሣሪያ እና መለያ በኩባንያ ወይም ሌላ ድርጅት አይተዳደሩም።</translation>
-<translation id="2596415276201385844">ደህንነቱ የተጠበቀ ግንኙነት ለመመስረት፣ የእርስዎ ሰዓት በትክክል መቀናበር ያስፈልገዋል። ይህን የሆነበት ምክንያት የድር ጣቢያዎች ራሳቸውን ለማሳወቅ የሚጠቀሙባቸው የምስክር ወረቀቶች የሚሰሩት ለተወሰኑ ክፍለ ጊዜያቶች ብቻ ስለሆነ ነው። የእርስዎ መሣሪያ ሰዓት ልክ እንዳለመሆኑ መጠን Chromium እነዚህን ምስክር ወረቀቶች ሊያረጋግጣቸው አይችልም።</translation>
+<translation id="7968235694092767490">ደህንነቱ የተጠበቀ ግንኙነት ለመመስረት፣ የእርስዎ ሰዓት በትክክል መቀናበር ያስፈልገዋል። ይህን የሆነበት ምክንያት የድር ጣቢያዎች ራሳቸውን ለማሳወቅ የሚጠቀሙባቸው የምስክር ወረቀቶች የሚሰሩት ለተወሰኑ ክፍለ ጊዜያቶች ብቻ ስለሆነ ነው። የእርስዎ መሣሪያ ሰዓት ልክ እንዳለመሆኑ መጠን WEB3 DNA Browser እነዚህን ምስክር ወረቀቶች ሊያረጋግጣቸው አይችልም።</translation>
 <translation id="2597378329261239068">ይህ ሰነድ በይለፍ ቃል የተጠበቀ ነው። እባክዎ የይለፍ ቃል ያስገቡ።</translation>
 <translation id="259821504105826686">የፎቶግራፍ እና ዲጂታል ስነ ጥበባት</translation>
 <translation id="2601150049980261779">የፍቅር ፊልሞች</translation>
 <translation id="2604589665489080024">ፖፕ ሙዚቃ</translation>
 <translation id="2610561535971892504">ለመቅዳት ጠቅ ያድርጉ</translation>
-<translation id="2617988307566202237">Chrome የሚከተለውን መረጃ <ph name="BEGIN_EMPHASIS" />አያስቀምጥም<ph name="END_EMPHASIS" />፦
+<translation id="6174516088921923215">WEB3 DNA Browser የሚከተለውን መረጃ <ph name="BEGIN_EMPHASIS" />አያስቀምጥም<ph name="END_EMPHASIS" />፦
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />የእርስዎ የአሰሳ ታሪክ
           <ph name="LIST_ITEM" />ኩኪዎች እና የጣቢያ ውሂብ
@@ -658,14 +658,14 @@
         <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">የእርስዎ ሰዓት ገና የወደፊት ነው</translation>
 <translation id="262745152991669301">ከዩኤስቢ መሣሪያዎች ጋር ለመገናኘት መጠየቅ ይችላል</translation>
-<translation id="2629325967560697240">የChrome ከፍተኛው የደህንነት ደረጃን ለማግኘት <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />የተሻሻለውን ጥበቃ ያብሩ<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">የWEB3 DNA Browser ከፍተኛው የደህንነት ደረጃን ለማግኘት <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />የተሻሻለውን ጥበቃ ያብሩ<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">የ<ph name="HOST_NAME" /> አገልጋይ አይፒ አድራሻ ሊገኝ አልቻለም።</translation>
 <translation id="2639739919103226564">ሁኔታ፦</translation>
 <translation id="2643134278432436513">የጸጉር እንክብካቤ</translation>
 <translation id="2647852283046201479">የስትራቴጂ ጨዋታዎች</translation>
 <translation id="264810637653812429">ምንም ተኳሃኝ መሣሪያዎች አልተገኙም።</translation>
 <translation id="2649204054376361687"><ph name="CITY" />፣ <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ የእርስዎን የአሰሳ ታሪክ፣ ኩኪዎች፣ መሸጎጫ እና ተጨማሪ ነገሮች ለማጽዳት ትርን ይጫኑ፣ ከዚያ በChrome ቅንብሮች ውስጥ አስገባን ይጫኑ</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ የእርስዎን የአሰሳ ታሪክ፣ ኩኪዎች፣ መሸጎጫ እና ተጨማሪ ነገሮች ለማጽዳት ትርን ይጫኑ፣ ከዚያ በWEB3 DNA Browser ቅንብሮች ውስጥ አስገባን ይጫኑ</translation>
 <translation id="2650446666397867134">የፋይሉ መዳረሻ ተከልክሏል</translation>
 <translation id="2653659639078652383">አስገባ</translation>
 <translation id="2657637947725373811">{0,plural, =1{ምስጢራዊ ፋይል ይተላለፍ?}one{ምስጢራዊ ፋይል ይተላለፍ?}other{ምስጢራዊ ፋይሎች ይተላለፉ?}}</translation>
@@ -693,11 +693,11 @@
 <translation id="2705137772291741111">የተቀመጠው (የተሸጎጠ) የዚህ ጣቢያ ቅጂ የሚነበብ አልነበረም።</translation>
 <translation id="2709516037105925701">ራስ-ሙላ</translation>
 <translation id="2713444072780614174">ነጭ</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትር ይጫኑ፣ ከዚያ የእርስዎን ክፍያዎች እና የክሬዲት ካርድ መረጃ በChrome ቅንብሮች ውስጥ ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትር ይጫኑ፣ ከዚያ የእርስዎን ክፍያዎች እና የክሬዲት ካርድ መረጃ በWEB3 DNA Browser ቅንብሮች ውስጥ ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="2715808615350965923">ልዕለ-A</translation>
 <translation id="271663710482723385">ከሙሉ ገጽ ዕይታ ለመውጣት |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />|ን ይጫኑ</translation>
 <translation id="2721148159707890343">ጥያቄ ተሳክቷል</translation>
-<translation id="2723669454293168317">በChrome ቅንብሮች ውስጥ የደህንነት ፍተሻን ያሂዱ</translation>
+<translation id="2723669454293168317">በWEB3 DNA Browser ቅንብሮች ውስጥ የደህንነት ፍተሻን ያሂዱ</translation>
 <translation id="2726001110728089263">የጎን መሳቢያ</translation>
 <translation id="2728127805433021124">የአገልጋዩ እውቅና ማረጋገጫ የተፈረመው በደካማ የፊርማ ስልተቀመር ነው።</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />የግንኙነት መመርመሪያን በማሄድ ላይ<ph name="END_LINK" /></translation>
@@ -737,7 +737,7 @@
 <translation id="287596039013813457">የወዳጅነት</translation>
 <translation id="28761159517501904">ፊልሞች</translation>
 <translation id="2876489322757410363">በውጫዊ ማከማቻ በኩል ለማጫወት ማንነት ከማያሳውቅ ሁነታ በመውጣት ላይ። ይቀጥል?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChrome ቅንብሮች ውስጥ የጥንቃቄ አሰሳዎን እና ተጨማሪ ነገሮችን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የጥንቃቄ አሰሳዎን እና ተጨማሪ ነገሮችን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="2878197950673342043">የፖስተር እጥፋት</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">ካርድ ይቀመጥ?</translation>
@@ -749,7 +749,7 @@
 <translation id="290376772003165898">ገጽ በ<ph name="LANGUAGE" /> አይደለም?</translation>
 <translation id="2909946352844186028">የአውታረ መረብ ለውጥ ተገኝቷል።</translation>
 <translation id="2911973620368911614">የስራ አካውንቲንግ ተጠቃሚ መታወቂያ</translation>
-<translation id="2914160345369867329"><ph name="SITE" /> የእርስዎን መረጃ ለመጠበቅ በመደበኝነት ምስጠራ ይጠቀማል። Chrome አሁን ከ<ph name="SITE" /> ጋር ለመገናኘት ሲሞክር ድር ጣቢያው ያልተለመደ እና ትክክል ያልሆኑ የመግቢያ ማስረጃዎችን መልሷል። ይህ አንድ አጥቂ <ph name="SITE" />ን አስመስሎ ለመቅረብ ከሞከረ ነው ወይም አንድ የWi-Fi መግቢያ ገጽ ግንኙነቱን ካቋረጠ ሊከሰት ይችላል። Chrome ማንኛውም የውሂብ ልውውጥ ከመካሄዱ በፊት ግንኙነቱን ስላቋረጠው የእርስዎ መረጃ ደህንነት ተጠብቋል።</translation>
+<translation id="6754677106668042373"><ph name="SITE" /> የእርስዎን መረጃ ለመጠበቅ በመደበኝነት ምስጠራ ይጠቀማል። WEB3 DNA Browser አሁን ከ<ph name="SITE" /> ጋር ለመገናኘት ሲሞክር ድር ጣቢያው ያልተለመደ እና ትክክል ያልሆኑ የመግቢያ ማስረጃዎችን መልሷል። ይህ አንድ አጥቂ <ph name="SITE" />ን አስመስሎ ለመቅረብ ከሞከረ ነው ወይም አንድ የWi-Fi መግቢያ ገጽ ግንኙነቱን ካቋረጠ ሊከሰት ይችላል። WEB3 DNA Browser ማንኛውም የውሂብ ልውውጥ ከመካሄዱ በፊት ግንኙነቱን ስላቋረጠው የእርስዎ መረጃ ደህንነት ተጠብቋል።</translation>
 <translation id="2915068235268646559"><ph name="CRASH_TIME" /> ላይ ስንክል</translation>
 <translation id="2915496182262110498">የቀለም ስዕል</translation>
 <translation id="2916038427272391327">ሌሎች ፕሮግራሞችን ይዝጉ</translation>
@@ -766,7 +766,7 @@
 <translation id="2943895734390379394">የሰቀላ ጊዜ፦</translation>
 <translation id="2945026002409061480">መስመር ላይ ማኀበረሰቦች</translation>
 <translation id="2948083400971632585">ከቅንብሮች ገጽ ሆነው ማናቸውንም ለግንኙነት የተዋቀሩ ተኪዎችን ማሰናከል ይችላሉ።</translation>
-<translation id="2949183777371959169">ማሽኑ በChrome አሳሽ ደመና አስተዳደር ያልተመዘገበ ስለሆነ ችላ ተብሏል።</translation>
+<translation id="7786089409521529641">ማሽኑ በWEB3 DNA Browser አሳሽ ደመና አስተዳደር ያልተመዘገበ ስለሆነ ችላ ተብሏል።</translation>
 <translation id="2951588413176968965">የእኔ የመልዕክት ሳጥን</translation>
 <translation id="2952820037279740115">ሁሉንም ማንነት የማያሳውቁ መስኮቶች ዝጋ</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -780,7 +780,7 @@
 <translation id="2977665033722899841"><ph name="ROW_NAME" />፣ አሁን ላይ ተመርጧል። <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2983666748527428214">ማንነት የማያሳውቅ ትርን ክፈት</translation>
-<translation id="2985306909656435243">ከነቃ Chromium ለተሻለ የቅጽ አሞላል ፍጥነት ሲባል በዚህ መሣሪያ ላይ ያለው የካርድዎን ቅጂ ያከማቻል።</translation>
+<translation id="6458065442802745995">ከነቃ WEB3 DNA Browser ለተሻለ የቅጽ አሞላል ፍጥነት ሲባል በዚህ መሣሪያ ላይ ያለው የካርድዎን ቅጂ ያከማቻል።</translation>
 <translation id="2985398929374701810">የሚሰራ አድራሻ ያስገቡ</translation>
 <translation id="2986368408720340940">ይህ የመውሰጃ ዘዴ አይደገፍም። የተለየ ዘዴ ይምረጡ።</translation>
 <translation id="2987034854559945715">ምንም ተዛማጅ ባህሪያት የሉም</translation>
@@ -802,7 +802,7 @@
 <translation id="3037177537145227281">ዋጋዎችን በመከታተል ላይ</translation>
 <translation id="3037605927509011580">ውይ፣ ተሰናከለ!</translation>
 <translation id="3041612393474885105">የሰርቲፊኬት መረጃ</translation>
-<translation id="305162504811187366">የጊዜ ማህተሞች፣ አስተናጋጆች እና የደንበኛ ክፍለ-ጊዜ መታወቂያዎችን ጨምሮ Chrome የርቀት ዴስክቶፕ ታሪክ</translation>
+<translation id="6009592758194948058">የጊዜ ማህተሞች፣ አስተናጋጆች እና የደንበኛ ክፍለ-ጊዜ መታወቂያዎችን ጨምሮ WEB3 DNA Browser የርቀት ዴስክቶፕ ታሪክ</translation>
 <translation id="3052964831964880138"><ph name="PRODUCT_NAME" /> ላይ የ<ph name="PRICE_DROP" /> ዋጋ ቅናሽ</translation>
 <translation id="3061707000357573562">የመጠገኛ አገልግሎት</translation>
 <translation id="306573536155379004">ጨዋታው ተጀምሯል።</translation>
@@ -849,7 +849,7 @@
 <translation id="3194737229810486521"><ph name="URL" /> ውሂብ እስከ መጨረሻው በእርስዎ መሣሪያ ላይ ማከማቸት ይፈልጋል</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> በ<ph name="SERVER_NAME" /> ላይ</translation>
 <translation id="3197136577151645743">ይህን መሣሪያ በንቃት ሲጠቀሙ ለማወቅ መጠየቅ ይችላል</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChrome ቅንብሮች ውስጥ ምን መረጃ እንደሚያሰምሩ ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በWEB3 DNA Browser ቅንብሮች ውስጥ ምን መረጃ እንደሚያሰምሩ ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="320323717674993345">ክፍያን ሰርዝ</translation>
 <translation id="3203366800380907218">ከድሩ</translation>
 <translation id="3207960819495026254">ዕልባት ተደርጎበታል</translation>
@@ -873,7 +873,7 @@
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ የአሳሽዎን መልክ ለማበጀት ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="3240791268468473923">ደህንነቱ የተጠበቀ የመግቢያ ማስረጃ ምንም ተዛማጅ የመግቢያ ማስረጃ ሉህ አልተከፈተም</translation>
 <translation id="324180406144491771">የ«<ph name="HOST_NAME" />» አገናኞች ታግደዋል</translation>
-<translation id="3248611290851046188">ይህ ጣቢያ የሚገልጸው ማስታወቂያዎችን ለእርስዎ ለማሳየት ሌሎች ጣቢያዎች ሊጠቀሙባቸው የሚችሏቸውን ዝንባሌዎች ነው። እንዲሁም ይህ ጣቢያ ይበልጥ አግባብነት ያላቸውን ማስታወቂያዎች ለእርስዎ ለማሳየት የእርስዎን ዝንባሌዎች ከChrome ያገኛል።</translation>
+<translation id="8141792378421105106">ይህ ጣቢያ የሚገልጸው ማስታወቂያዎችን ለእርስዎ ለማሳየት ሌሎች ጣቢያዎች ሊጠቀሙባቸው የሚችሏቸውን ዝንባሌዎች ነው። እንዲሁም ይህ ጣቢያ ይበልጥ አግባብነት ያላቸውን ማስታወቂያዎች ለእርስዎ ለማሳየት የእርስዎን ዝንባሌዎች ከWEB3 DNA Browser ያገኛል።</translation>
 <translation id="3249151924975132674">የተማሪ ብድሮች እና የኮሌጅ ፋይናንስ</translation>
 <translation id="3249845759089040423">ቅጥ ያለው</translation>
 <translation id="3250640885957938546">ማስታወቂያ እና ማሻሻጥ</translation>
@@ -883,7 +883,7 @@
 <translation id="3256863843508922226">ጡረታ እና የጡረታ አበል</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በGoogle ቀን መቁጠሪያ ውስጥ አዲስ ክስተት በፍጥነት ለመፍጠር ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="3261488570342242926">ስለምናባዊ ካርዶች ይወቁ</translation>
-<translation id="3264837738038045344">የChrome ቅንብሮች አዝራርን ያቀናብሩ፣ የChrome ቅንብሮችዎን ለመጎብኘት አስገባን ይጫኑ</translation>
+<translation id="3264837738038045344">የWEB3 DNA Browser ቅንብሮች አዝራርን ያቀናብሩ፣ የWEB3 DNA Browser ቅንብሮችዎን ለመጎብኘት አስገባን ይጫኑ</translation>
 <translation id="3266793032086590337">እሴት (ግጭት)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{ተዛማጅ ጣቢያዎችን ጨምሮ ምንም ጣቢያዎች አላገዱም}=1{ተዛማጅ ጣቢያዎችን ጨምሮ 1 ጣቢያ አግዷል}one{ተዛማጅ ጣቢያዎችን ጨምሮ # ጣቢያ አግዷል}other{ተዛማጅ ጣቢያዎችን ጨምሮ # ጣቢያዎች አግደዋል}}</translation>
 <translation id="3268451620468152448">ክፍት ትሮች</translation>
@@ -897,7 +897,7 @@
 <translation id="3287510313208355388">መስመር ላይ ሲሆኑ ያውርዱ</translation>
 <translation id="3288238092761586174"><ph name="URL" /> ክፍያዎን ለማረጋገጥ ተጨማሪ እርምጃዎችን መውሰድ ሊፈልግ ይችላል</translation>
 <translation id="3293642807462928945">ስለ<ph name="POLICY_NAME" /> መመሪያው ተጨማሪ ይወቁ</translation>
-<translation id="3295444047715739395">በChrome ቅንብሮች ውስጥ የእርስዎን የይለፍ ቃላት ይመልከቱ እና ያስተዳድሩ</translation>
+<translation id="3295444047715739395">በWEB3 DNA Browser ቅንብሮች ውስጥ የእርስዎን የይለፍ ቃላት ይመልከቱ እና ያስተዳድሩ</translation>
 <translation id="3299098170013242198">Windows Hello የይለፍ ቃላትን ለመሙላት በርቷል</translation>
 <translation id="3303176609391916566">30 x 42 ኢንች</translation>
 <translation id="3303855915957856445">ምንም የፍለጋ ውጤቶች አልተገኙም</translation>
@@ -927,9 +927,9 @@
 <translation id="3366477098757335611">ካርዶችን ይመልከቱ</translation>
 <translation id="3369192424181595722">የሰዓት ስህተት</translation>
 <translation id="3369459162151165748">የተሽከርካሪ ክፍሎች እና መለዋወጫዎች</translation>
-<translation id="3371064404604898522">Chromeን እንደ ነባሪ አሳሽ ያስቀምጡት</translation>
+<translation id="3371064404604898522">WEB3 DNA Browserን እንደ ነባሪ አሳሽ ያስቀምጡት</translation>
 <translation id="337363190475750230">አቅርቦት ተቋርጧል</translation>
-<translation id="3375754925484257129">የChrome ደህንነት ፍተሻን ያሂዱ</translation>
+<translation id="3375754925484257129">የWEB3 DNA Browser ደህንነት ፍተሻን ያሂዱ</translation>
 <translation id="3377144306166885718">አገልጋዩ ጊዜ ያለፈበት የTLS ስሪት ተጠቅመዋል።</translation>
 <translation id="3377188786107721145">የመምሪያ ትንተና ስህተት</translation>
 <translation id="3377736046129930310">ካርዶችን በበለጠ ፍጥነት ለማረጋገጥ የማያ ገጽ መቆለፊያን ይጠቀሙ</translation>
@@ -953,7 +953,7 @@
 <translation id="3423742043356668186">ስርዓቱ የተገለጸ</translation>
 <translation id="3427092606871434483">ፍቀድ (ነባሪ)</translation>
 <translation id="3427342743765426898">&amp;አርትዕን ድገም</translation>
-<translation id="342781501876943858">Chromium የእርስዎን ይለፍ ቃል በሌሎች ጣቢያዎች ላይ ዳግም ከተጠቀሙበት እንደገና እንዲያዋቅሩት ይመክራል።</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser የእርስዎን ይለፍ ቃል በሌሎች ጣቢያዎች ላይ ዳግም ከተጠቀሙበት እንደገና እንዲያዋቅሩት ይመክራል።</translation>
 <translation id="3428151540071562330">አንድ ወይም ተጨማሪ የDnsOverHttpsTemplates አገልጋይ ቅንብር ደንብ ዩአርአዮች ልክ ያልሆኑ ናቸው፣ እና ስራ ላይ አይውሉም።</translation>
 <translation id="3431216045099978607">ከሙሉ ገጽ ዕይታ ለመውጣት እና ውርድን ለማየት |<ph name="ACCELERATOR" />|ን ይጫኑ።</translation>
 <translation id="3431636764301398940">ይህን ካርድ ወደዚህ መሣሪያ አስቀምጥ</translation>
@@ -975,7 +975,7 @@
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ አሁን ክፍት የሆኑት ሁሉንም ማንነት የማያሳውቁ መስኮቶችን ለመዝጋት ትር ከዚያ አስገባን ይጫኑ</translation>
 <translation id="3477679029130949506">የፊልም ዝርዝሮች እና የትያትር ማሳያ ሰዓቶች</translation>
 <translation id="3479552764303398839">አሁን አይደለም</translation>
-<translation id="3484560055331845446">የGoogle መለያዎን መዳረሻ ሊያጡ ይችላሉ። Chrome የይለፍ ቃልዎን አሁኑኑ እንዲቀይሩት ይመክራል። በመለያ እንዲገቡ ይጠየቃሉ።</translation>
+<translation id="2148205384604312372">የGoogle መለያዎን መዳረሻ ሊያጡ ይችላሉ። WEB3 DNA Browser የይለፍ ቃልዎን አሁኑኑ እንዲቀይሩት ይመክራል። በመለያ እንዲገቡ ይጠየቃሉ።</translation>
 <translation id="3484861421501147767">ማስታወሻ፦ የተቀመጠ የማስተዋወቂያ ኮድ አለ</translation>
 <translation id="3487845404393360112">መሳቢያ 4</translation>
 <translation id="3495081129428749620">በገጽ ውስጥ ያግኙ
@@ -983,7 +983,7 @@
 <translation id="350069200438440499">የፋይል ስም፦</translation>
 <translation id="3507936815618196901">የዙሪያዎ የ3ል ካርታ መፍጠር ወይም የካሜራ ቦታን መከታተል</translation>
 <translation id="3512163584740124171">ይህ መመሪያ ከተመሳሳይ የመመሪያ ቡድን የመጣ ሌላ መመሪያ ከፍተኛ ተቀዳሚነት ስላለው ችላ ተብሏል።</translation>
-<translation id="35172538073169599">የአድራሻዎች አዝራርን ያቀናብሩ፣ በChrome ቅንብሮች ውስጥ አድራሻዎችን ለማከል እና ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="35172538073169599">የአድራሻዎች አዝራርን ያቀናብሩ፣ በWEB3 DNA Browser ቅንብሮች ውስጥ አድራሻዎችን ለማከል እና ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="3518941727116570328">በርካታ ነገሮችን መያዝ</translation>
 <translation id="3525130752944427905">10 x 14 ኢንች</translation>
 <translation id="3528171143076753409">የአገልጋይ እውቅና ማረጋገጫ የታመነ አይደለም።</translation>
@@ -1010,7 +1010,7 @@
 <translation id="3576616784287504635"><ph name="SITE" /> ላይ የተካተተ ገጽ እንዲህ ይላል፦</translation>
 <translation id="3577473026931028326">የሆነ ችግር ተፈጥሯል። እንደገና ይሞክሩ።</translation>
 <translation id="3577902790357386792">ጂምናስቲክስ</translation>
-<translation id="3581089476000296252">Chrome ይህ ገጽ ዝግጁ ሲሆን እርስዎ እንዲያውቁት ያደርጋል። &lt;a&gt;ተወው&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser ይህ ገጽ ዝግጁ ሲሆን እርስዎ እንዲያውቁት ያደርጋል። &lt;a&gt;ተወው&lt;/a&gt;</translation>
 <translation id="3582930987043644930">ስም ያክሉ</translation>
 <translation id="3583757800736429874">&amp;ውሰድን ድገም</translation>
 <translation id="3584299510153766161">ድርብ ብስ ከታች</translation>
@@ -1025,7 +1025,7 @@
 <translation id="3611317423880285981">የቤተሰብ ዕቃዎች</translation>
 <translation id="3614103345592970299">መጠን 2</translation>
 <translation id="361438452008624280">የዝርዝር ግቤት «<ph name="LANGUAGE_ID" />»፦ ያልታወቀ ወይም የማይደገፍ ቋንቋ።</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChrome ቅንብሮች ውስጥ የደህንነት ፍተሻን ለማሄድ ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የደህንነት ፍተሻን ለማሄድ ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="3615877443314183785">ትክክለኛ የአገልግሎት ማብቂያ ቀን ያስገቡ</translation>
 <translation id="36224234498066874">የአሰሳ ውሂብ አስወግድ…</translation>
 <translation id="362276910939193118">ሙሉ ታሪክ አሳይ</translation>
@@ -1036,9 +1036,9 @@
 <translation id="3631244953324577188">ባዮሜትሪክስ</translation>
 <translation id="3632503704576938756">ማያ ገጽ ማጋራት ከቆመበት ቀጥሏል</translation>
 <translation id="3632892046558972264">ማያ ገጽ ማጋራት ባለበት ቆሟል</translation>
-<translation id="3633738897356909127">የChrome አዝራርን ያዘምኑ፣ Chromeን ለማዘመን ከእርስዎ Chrome ቅንብሮች ሆነው አስገባን ይጫኑ</translation>
+<translation id="3633738897356909127">የWEB3 DNA Browser አዝራርን ያዘምኑ፣ WEB3 DNA Browserን ለማዘመን ከእርስዎ WEB3 DNA Browser ቅንብሮች ሆነው አስገባን ይጫኑ</translation>
 <translation id="3634530185120165534">መሳቢያ 5</translation>
-<translation id="3634567936866541746">አሁን የይለፍ ቃልዎን በአንድ አታላይ ጣቢያ ላይ አስገብተዋል። የእርስዎን መለያዎች ደህንነት ለመጠበቅ፣ Chrome የተቀመጡ ይለፍ ቃላትዎን መፈተሽ ይመክራል።</translation>
+<translation id="6586777830476909681">አሁን የይለፍ ቃልዎን በአንድ አታላይ ጣቢያ ላይ አስገብተዋል። የእርስዎን መለያዎች ደህንነት ለመጠበቅ፣ WEB3 DNA Browser የተቀመጡ ይለፍ ቃላትዎን መፈተሽ ይመክራል።</translation>
 <translation id="3642638418806704195">መተግበሪያ፦</translation>
 <translation id="3647286794400715637">እያንዳንዱ የዩአርኤል ሕብረቁምፊ ከ1 እስከ 2 ዩአርኤሎች መያዝ አለበት።</translation>
 <translation id="3650584904733503804">ማረጋገጥ ተሳክቷል</translation>
@@ -1081,7 +1081,7 @@
 <translation id="3740319564441798148">የረጅም ርቀት አውቶቡስ እና ባቡር</translation>
 <translation id="3744111561329211289">የዳራ ስምረት</translation>
 <translation id="3744286742364977428">እርስዎ የሚያወርዷቸው ፋይሎች ወደ Google ደመና ወይም ሶስተኛ ወገኖች ለትንታኔ ይላካሉ። ለምሳሌ፣ አደጋ ሊያስከትል ለሚችል ውሂብ ወይም ለተንኮል አዘል ዌር ሊቃኙ እና ምናልባት በኩባንያ መመሪያዎች መሰረት ሊከማቹ ይችላሉ።</translation>
-<translation id="3744899669254331632">የድር ጣቢያው Chromium ሊያስኬዳቸው የማይችሉ የተዘበራረቁ ምስክርነቶችን ስለላከ አሁን ላይ <ph name="SITE" />ን መጎብኘት አይችሉም። የአውታረ መረብ ስህተቶች እና ጥቃቶች ብዙውን ጊዜ ጊዜያዊ ናቸው፣ ስለዚህ ይህ ገጽ በኋላ ላይ ምናልባት ሊሰራ ይችል ይሆናል።</translation>
+<translation id="3461179235677384837">የድር ጣቢያው WEB3 DNA Browser ሊያስኬዳቸው የማይችሉ የተዘበራረቁ ምስክርነቶችን ስለላከ አሁን ላይ <ph name="SITE" />ን መጎብኘት አይችሉም። የአውታረ መረብ ስህተቶች እና ጥቃቶች ብዙውን ጊዜ ጊዜያዊ ናቸው፣ ስለዚህ ይህ ገጽ በኋላ ላይ ምናልባት ሊሰራ ይችል ይሆናል።</translation>
 <translation id="3745099705178523657">ካረጋገጡ በኋላ የGoogle መለያዎ ካርድ ዝርዝሮች ለዚህ ጣቢያ ይጋራሉ።</translation>
 <translation id="3748148204939282805">በ<ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> ላይ ያሉ አጥቂዎች ልክ እንደ ሶፍትዌርን መጫን ወይም የግል መረጃዎችን (ለምሳሌ፦ የይለፍ ቃላትን፣ የስልክ ቁጥሮችን ወይም የክሬዲት ካርዶችን የመሳሰሉ) አጋልጦ መስጠት እንዲያደርጉ ሊያታልለዎት ይችላል። <ph name="BEGIN_LEARN_MORE_LINK" />የበለጠ ለመረዳት<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">የአየር በረራ ኢንዱስትሪ</translation>
@@ -1200,7 +1200,7 @@
 <translation id="4097288585054919042">ማንቂያዎችን አጥፋ</translation>
 <translation id="4098354747657067197">አሳሳች ጣቢያ ከፊት አለ</translation>
 <translation id="4099048595830172239">ሚስጥራዊ ይዘት በሚታይበት ጊዜ የአስተዳዳሪ መመሪያ ማያ ገጽዎን ለ<ph name="APPLICATION_TITLE" /> ማጋራትን አይመከርም፦</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ከዚያ በChrome ውስጥ የቅርጸ-ቁምፊ መጠኖችን እና መልከ ቁምፊዎችን ለማበጀት ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ከዚያ በWEB3 DNA Browser ውስጥ የቅርጸ-ቁምፊ መጠኖችን እና መልከ ቁምፊዎችን ለማበጀት ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="4101413244023615925">ጽሁፍ እና ግራፊክ</translation>
 <translation id="410148943680000050">የዴስክቶፕ ህትመት</translation>
 <translation id="4103249731201008433">የመሣሪያ መለያ ቁጥር ልክ ያልሆነ ነው</translation>
@@ -1252,7 +1252,7 @@
 <translation id="4214357935346142455">በማያ ገጽ መግቢያ መገለጫ</translation>
 <translation id="4220128509585149162">ብልሽቶች</translation>
 <translation id="422022731706691852">በ<ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> ላይ ያሉ አጥቂዎች (የአሰሳ ተሞክሮዎን የሚጎዱ ፕሮግራሞችን እንዲጭኑ ሊያታልልዎት ሊሞክሩ ይችላሉ ለምሳሌ፦ የእርስዎን የመነሻ ገጽ በመለወጥ ወይም እርስዎ በሚጎበኙዋቸው ጣቢያዎች ላይ ትርፍ ማስታወቂያዎችን ማሳየት የመሳሰሉ በማድረግ)። <ph name="BEGIN_LEARN_MORE_LINK" />የበለጠ ለመረዳት<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;ደረጃ 1፦ ወደ መግቢያው ይግቡ&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;ደረጃ 1፦ ወደ መግቢያው ይግቡ&lt;/h4&gt;
     &lt;p&gt;እንደ ካፌዎች ወይም የአየር ማረፊያዎች ያሉ የWi-Fi አውታረ መረቦች እንዲገቡ ይፈልጋሉ። የመግቢያ ገጹን ለመመልከት &lt;code&gt;http://&lt;/code&gt;ን የሚጠቀም ገጽ ይጠቀሙ።&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;እንደ &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt; ያለ በ&lt;code&gt;http://&lt;/code&gt; ወደሚጀምር ማንኛውም ድር ጣቢያ ይሂዱ።&lt;/li&gt;
@@ -1260,11 +1260,11 @@
     &lt;/ol&gt;
     &lt;h4&gt;ደረጃ 2፦ ገጹን ማንነት በማያሳውቅ ሁነታ ላይ ይክፈቱ (ኮምፒውተር ብቻ)&lt;/h4&gt;
     &lt;p&gt;ሲጎበኙት የነበረውን ገጽ ማንነት በማያሳውቅ መስኮት ውስጥ ይክፈቱት።&lt;/p&gt;
-    &lt;p&gt;ገጹ ከተከፈተ አንድ የChrome ቅጥያ በአግባቡ እየሰራ አይደለም። ስህተቱን ለማስተካከል ቅጥያውን ያጥፉት።&lt;/p&gt;
+    &lt;p&gt;ገጹ ከተከፈተ አንድ የWEB3 DNA Browser ቅጥያ በአግባቡ እየሰራ አይደለም። ስህተቱን ለማስተካከል ቅጥያውን ያጥፉት።&lt;/p&gt;
     &lt;h4&gt;ደረጃ 3፦ ስርዓተ-ክወናዎን ያዘምኑት&lt;/h4&gt;
     &lt;p&gt;መሣሪያዎ የተዘመነ መሆኑን ያረጋግጡ።&lt;/p&gt;
     &lt;h4&gt;ደረጃ 4፦ ጸረ-ቫይረስዎን ለጊዜው ያጥፉት&lt;/h4&gt;
-    &lt;p&gt;«HTTPS protection» ወይም «HTTPS scanning»ን የሚያቀርብ የጸረ-ቫይረስ ሶፍትዌር ካለዎት ይህን ስህተት ያዩታል። ጸረ-ቫይረሱ Chrome ደህንነት እንዳያቀርብ እየከለከለው ነው።&lt;/p&gt;
+    &lt;p&gt;«HTTPS protection» ወይም «HTTPS scanning»ን የሚያቀርብ የጸረ-ቫይረስ ሶፍትዌር ካለዎት ይህን ስህተት ያዩታል። ጸረ-ቫይረሱ WEB3 DNA Browser ደህንነት እንዳያቀርብ እየከለከለው ነው።&lt;/p&gt;
     &lt;p&gt;ችግሩን ለመፍታት የጸረ-ቫይረስ ሶፍትዌርዎን ያጥፉት። ሶፍትዌሩን ካጠፉት በኋላ ገጹ ከሰራ ደህንነታቸው የተጠበቁ ጣቢያዎችን ሲጠቀሙ ይህን ሶፍትዌር ያጥፉት።&lt;/p&gt;
     &lt;p&gt;ሲጨርሱ የጸረ-ቫይረስዎን መልሰው ማብራትዎን ያስታውሱ።&lt;/p&gt;
     &lt;h4&gt;ደረጃ 5፦ ተጨማሪ እገዛ ያግኙ&lt;/h4&gt;
@@ -1300,7 +1300,7 @@
 <translation id="4305666528087210886">የእርስዎ ፋይል ሊደርስበት አልተቻለም</translation>
 <translation id="4306529830550717874">አድራሻ ይቀመጥ?</translation>
 <translation id="4306812610847412719">ቅንጥብ ሰሌዳ</translation>
-<translation id="4308567447483056043">ተጠቃሚው አጋር ስላልሆነ መመሪያው ችላ ተብሏል። ይህ መመሪያ እንዲተገበር የChrome አሳሽ እና መገለጫ በተመሳሳይ ድርጅት አስተዳዳሪ ኮንሶል በኩል መተዳዳር አለባቸው።</translation>
+<translation id="3323451588703398074">ተጠቃሚው አጋር ስላልሆነ መመሪያው ችላ ተብሏል። ይህ መመሪያ እንዲተገበር የWEB3 DNA Browser አሳሽ እና መገለጫ በተመሳሳይ ድርጅት አስተዳዳሪ ኮንሶል በኩል መተዳዳር አለባቸው።</translation>
 <translation id="4310070645992025887">ጉዞዎችዎን ይፈልጉ</translation>
 <translation id="4310496734563057511">ይህን መሣሪያ ከሌሎች ጋር የሚጋሩ ከሆነ የተቀመጠ የይለፍ ቃልን በተጠቀሙ ቁጥር እርስዎ መሆንዎን ለማረጋገጥ Windows Helloን ማብራት ይችላሉ</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1316,8 +1316,8 @@
 <translation id="4331519897422864041">ቁልል 5</translation>
 <translation id="4331708818696583467">ደህንነቱ አልተጠበቀም</translation>
 <translation id="4333561522337981382">በሁሉም የእርስዎ ማሳያዎች ላይ መስኮቶችን ማስተዳደር</translation>
-<translation id="4340575312453649552">ይህ ማስታወቂያ ለመሣሪያዎ በጣም ብዙ ሀብቶችን ተጠቅሟል፣ ስለዚህ Chrome አስወግደውታል።</translation>
-<translation id="4340982228985273705">ይህ ኮምፒውተር እንደ በድርጅት የሚተዳደር ሆኖ አይታይም፣ ስለዚህ መመሪያ በChrome የድር ማከማቻ ላይ የሚስተናገዱ ቅጥያዎችን ብቻ በራስ-ሰር ነው መጫን የሚችለው። የChrome ድር ማከማቻው ዝማኔ ዩአርኤል «<ph name="CWS_UPDATE_URL" />» ነው።</translation>
+<translation id="3964216933844012257">ይህ ማስታወቂያ ለመሣሪያዎ በጣም ብዙ ሀብቶችን ተጠቅሟል፣ ስለዚህ WEB3 DNA Browser አስወግደውታል።</translation>
+<translation id="2218799635675752219">ይህ ኮምፒውተር እንደ በድርጅት የሚተዳደር ሆኖ አይታይም፣ ስለዚህ መመሪያ በWEB3 DNA Browser የድር ማከማቻ ላይ የሚስተናገዱ ቅጥያዎችን ብቻ በራስ-ሰር ነው መጫን የሚችለው። የWEB3 DNA Browser ድር ማከማቻው ዝማኔ ዩአርኤል «<ph name="CWS_UPDATE_URL" />» ነው።</translation>
 <translation id="4346197816712207223">ተቀባይነት ያላቸው ክሬዲት ካርዶች</translation>
 <translation id="4348834659292907206">ከ<ph name="SITE" /> ጋር ያለው ግንኙነት ደህንነቱ የተጠበቀ አይደለም</translation>
 <translation id="4349365535725594680">ሚስጥራዊ ይዘትን ማጋራት አይቻልም</translation>
@@ -1328,7 +1328,7 @@
 <translation id="4356973930735388585">በዚህ ጣቢያ ላይ ያሉ አጥቂዎች መረጃዎን (ለምሳሌ፦ ፎቶዎች፣ የይለፍ ቃላት፣ መልዕክቶች እና ክሬዲት ካርዶች) ሊሰርቁ ወይም ሊሰርዙ የሚችሉ አደገኛ ፕሮግራሞችን በኮምፒውተርዎ ላይ ለመጫን ሊሞክሩ ይችላሉ።</translation>
 <translation id="4358059973562876591">በDnsOverHttpsMode መመሪያው ላይ ባለ ስህተት ምክንያት እርስዎ የገለጿቸው ቅንብር ደንቦች ላይተገበሩ ይችላሉ።</translation>
 <translation id="4358461427845829800">የመክፈያ ዘዴዎችን ያቀናብሩ...</translation>
-<translation id="4359160567981085931">አሁን የይለፍ ቃልዎን በአንድ አታላይ ጣቢያ ላይ አስገብተዋል። Chrome ሊያግዝ ይችላል። የእርስዎን የይለፍ ቃል ለመለወጥ እና የእርስዎ መለያ ስጋት ውስጥ እንዳለ ለGoogle ለማሳወቅ፣ መለያን ከጥቃት ተከላከል የሚለው ላይ ጠቅ ያድርጉ።</translation>
+<translation id="4550052488331606118">አሁን የይለፍ ቃልዎን በአንድ አታላይ ጣቢያ ላይ አስገብተዋል። WEB3 DNA Browser ሊያግዝ ይችላል። የእርስዎን የይለፍ ቃል ለመለወጥ እና የእርስዎ መለያ ስጋት ውስጥ እንዳለ ለGoogle ለማሳወቅ፣ መለያን ከጥቃት ተከላከል የሚለው ላይ ጠቅ ያድርጉ።</translation>
 <translation id="4363222835916186793">የዚህ ምርት ማንቂያዎች ጠፍተዋል</translation>
 <translation id="437040971055499437">የደህንነት ክስተት ሲከሰት</translation>
 <translation id="4372948949327679948">የተጠበቀው የ<ph name="VALUE_TYPE" /> ዋጋ ነው።</translation>
@@ -1345,7 +1345,7 @@
 <translation id="4411435778612100394">የሸማች ኤሌክትሮኒክስ</translation>
 <translation id="4414515549596849729">ኩኪዎች እና የጣቢያ ውሂብ</translation>
 <translation id="4415426530740016218">የመውሰጃ አድራሻ</translation>
-<translation id="4424024547088906515">ይህ አገልጋይ <ph name="DOMAIN" /> መሆኑን ሊያረጋግጥ አልቻለም፤ የደህንነት እውቅና ማረጋገጫው በChrome የሚታመን አይደለም። ይሄ በተሳሳተ አወቃቀር ወይም አንድ አጥቂ ግንኙነትዎን በመጥለፉ የተከሰተ ሊሆን ይችላል።</translation>
+<translation id="7486060888782747880">ይህ አገልጋይ <ph name="DOMAIN" /> መሆኑን ሊያረጋግጥ አልቻለም፤ የደህንነት እውቅና ማረጋገጫው በWEB3 DNA Browser የሚታመን አይደለም። ይሄ በተሳሳተ አወቃቀር ወይም አንድ አጥቂ ግንኙነትዎን በመጥለፉ የተከሰተ ሊሆን ይችላል።</translation>
 <translation id="4428065317363009941">ማስታወቂያን ግላዊነት ማላበስ</translation>
 <translation id="443121186588148776">የመለያ ወደብ</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> የመግቢያ እውቅና ማረጋገጫዎን አልተቀበለም፣ ወይም ገና አልተሰጠዎት ይሆናል።</translation>
@@ -1369,7 +1369,7 @@
 <translation id="4489023393592172404">ካኩ 4 ፖስታ</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">የሰመረውን የይለፍ ቃላት ከGoogle መለያዎች ጋር ይመስጥሩ</translation>
-<translation id="4492519888999857993">እነዚህ ባህሪዎች በነባሪነት ተሰናክሏል። በወደፊት የChrome ስሪቶች ላይ አይገኙም።</translation>
+<translation id="5711551727888568041">እነዚህ ባህሪዎች በነባሪነት ተሰናክሏል። በወደፊት የWEB3 DNA Browser ስሪቶች ላይ አይገኙም።</translation>
 <translation id="4493480324863638523">ልክ ያልሆነ ዩአርኤል። ደረጃውን የጠበቀ ቅርጸ አጻጻፍ ያለው ዩአርኤል መሆን አለበት፣ ለምሳሌ፦ http://example.com ወይም https://example.com.</translation>
 <translation id="4500587658229086076">ደህንነቱ ያልተጠበቀ ይዘት</translation>
 <translation id="4506176782989081258">የማረጋገጥ ስህተት፦ <ph name="VALIDATION_ERROR" /></translation>
@@ -1377,7 +1377,7 @@
 <translation id="450710068430902550">ከአስተዳዳሪ ጋር ማጋራት</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትርን ይጫኑ በመቀጠል በGoogle ትርጉም ይህን ገጽ ለመተርጎም አስገባን ይጫኑ</translation>
 <translation id="4514308731478712184">ጉዞዎችን ያጥፉ</translation>
-<translation id="4515275063822566619">ካርዶች እና አድራሻዎች ከChrome እና ከGoogle መለያዎ (<ph name="ACCOUNT_EMAIL" />) የተገኙ ናቸው። በ<ph name="BEGIN_LINK" />ቅንብሮች<ph name="END_LINK" /> ውስጥ ሊያቀናብሯቸው ይችላሉ።</translation>
+<translation id="3850866307128304430">ካርዶች እና አድራሻዎች ከWEB3 DNA Browser እና ከGoogle መለያዎ (<ph name="ACCOUNT_EMAIL" />) የተገኙ ናቸው። በ<ph name="BEGIN_LINK" />ቅንብሮች<ph name="END_LINK" /> ውስጥ ሊያቀናብሯቸው ይችላሉ።</translation>
 <translation id="4520048001084013693">ይህን ፋይል ማውረድ በአስተዳዳሪ መመሪያ ታግዷል</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> በ <ph name="HEIGHT" /> ሚሜ (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">ሞናርክ ፖስታ</translation>
@@ -1393,10 +1393,10 @@
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">ቅጥያዎችዎን አሰናክለው ይሞክሩ።</translation>
 <translation id="4566017918361049074">ከቤት ውጭ</translation>
-<translation id="4567686777917670400">የእርስዎ አስተዳዳሪ በርቀት የአሳሽዎን ውቅረት መቀየር ይችላል። በዚህ መሣሪያ ላይ ያለ እንቅስቃሴ እንዲሁም ከChromium ውጭ ሊተዳደር ይችላል። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">የእርስዎ አስተዳዳሪ በርቀት የአሳሽዎን ውቅረት መቀየር ይችላል። በዚህ መሣሪያ ላይ ያለ እንቅስቃሴ እንዲሁም ከWEB3 DNA Browser ውጭ ሊተዳደር ይችላል። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">ማድረስ</translation>
 <translation id="4582204425268416675">ካርድ አስወግድ</translation>
-<translation id="4587425331216688090">አድራሻ ከChrome ይወገድ?</translation>
+<translation id="4549859745110415735">አድራሻ ከWEB3 DNA Browser ይወገድ?</translation>
 <translation id="459089498662672729">ከ<ph name="ORIGIN_NAME" /> ወደዚህ አካባቢ መለጠፍ በአስተዳዳሪ መመሪያ አይመከርም</translation>
 <translation id="4592951414987517459">ወደ የእርስዎ <ph name="DOMAIN" /> ግንኙነት ዘመናዊ የምስጠራ ጥቅል በመጠቀም ተመስጥሯል።</translation>
 <translation id="4594403342090139922">&amp;ሰርዝን ቀልብስ</translation>
@@ -1405,17 +1405,17 @@
 <translation id="4600084978141515058">የአትክልት ብቻ ተመገቢ ምግብ</translation>
 <translation id="4602465984861132303">ቦውሊንግ</translation>
 <translation id="4606870351894164739">ተጽዕኖ ፈጣሪ</translation>
-<translation id="4607603470419975064">የChrome ጠቃሚ ምክሮች አዝራር የልከቱ፣ ስለChrome ባህሪዎች ለማወቅ አስገባን ይጫኑ</translation>
-<translation id="4607608436550361748">የChrome ጠቃሚ ምክሮችን ይመልከቱ</translation>
+<translation id="4607603470419975064">የWEB3 DNA Browser ጠቃሚ ምክሮች አዝራር የልከቱ፣ ስለWEB3 DNA Browser ባህሪዎች ለማወቅ አስገባን ይጫኑ</translation>
+<translation id="4607608436550361748">የWEB3 DNA Browser ጠቃሚ ምክሮችን ይመልከቱ</translation>
 <translation id="4610279718074907952">ይህ ጣቢያ እንቅስቃሴዎን ማየት በሚችል በ<ph name="SET_OWNER" /> በተገለጸ አንድ ቡድን ውስጥ ነው</translation>
 <translation id="4617273035598175554">የግራፊክስ እና የእነማ ሶፍትዌር</translation>
 <translation id="4622292761762557753">ቢሆንም አስተላልፍ</translation>
-<translation id="4627675673814409125">ይህ መመሪያ በChrome መገለጫ ደረጃ ላይ ሊዋቀር አይችልም፣ እንዲሁም ችላ ይባላል።</translation>
+<translation id="6607050922769407881">ይህ መመሪያ በWEB3 DNA Browser መገለጫ ደረጃ ላይ ሊዋቀር አይችልም፣ እንዲሁም ችላ ይባላል።</translation>
 <translation id="4628948037717959914">ፎቶ</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">ከተመላሽ ገንዘብ ጋር ተገናኝቷል</translation>
 <translation id="4636930964841734540">መረጃ</translation>
-<translation id="4638670630777875591">በChromium ውስጥ ማንነት የማያሳውቅ</translation>
+<translation id="9064160697734393810">በWEB3 DNA Browser ውስጥ ማንነት የማያሳውቅ</translation>
 <translation id="464342062220857295">ባህሪያትን ይፈልጉ</translation>
 <translation id="4644670975240021822">ተቃራኒ ቅደም-ተከተል ፊቱ ወደ ታች</translation>
 <translation id="4646534391647090355">አሁን ወደዚያ ውሰደኝ</translation>
@@ -1453,7 +1453,7 @@
 <translation id="4731638775147756694">ይህ መተግበሪያ በእርስዎ አስተዳዳሪ ታግዷል</translation>
 <translation id="4733082559415072992"><ph name="URL" /> የመሣሪያዎን አካባቢ መጠቀም ይፈልጋል</translation>
 <translation id="4736491186715342415">የሞተር ተሽከርካሪዎች</translation>
-<translation id="4736825316280949806">Chromiumን ዳግም ያስጀምሩት</translation>
+<translation id="1624940062651381269">WEB3 DNA Browserን ዳግም ያስጀምሩት</translation>
 <translation id="4736934858538408121">ምናባዊ ካርድ</translation>
 <translation id="473775607612524610">አዘምን</translation>
 <translation id="4738601419177586157"><ph name="TEXT" /> የፍለጋ አስተያየት ጥቆማ</translation>
@@ -1467,10 +1467,10 @@
 <translation id="4754461935447132332">ደህንነት ለሌላቸው ጣቢያዎች አይፈቀድም</translation>
 <translation id="4756388243121344051">&amp;ታሪክ</translation>
 <translation id="4756501505996488486">ፒአርሲ 16ኬ</translation>
-<translation id="4757993714154412917">አሁን የይለፍ ቃልዎን በአንድ አታላይ ጣቢያ ላይ አስገብተዋል። የእርስዎን መለያዎች ደህንነት ለመጠበቅ Chromium የተቀመጡ ይለፍ ቃላትዎን መፈተሽ ይመክራል።</translation>
+
 <translation id="4758311279753947758">የእውቂያ መረጃን ያክሉ</translation>
 <translation id="4761104368405085019">ማይክፎሮንዎን ይጠቀማል</translation>
-<translation id="4761869838909035636">የChrome ደህንነት ፍተሻን ያሂዱ</translation>
+<translation id="2178430137592069173">የWEB3 DNA Browser ደህንነት ፍተሻን ያሂዱ</translation>
 <translation id="4764776831041365478"><ph name="URL" /> ላይ ያለው ድረ-ገጽ ለጊዜው የማይሰራ ወይም እስከመጨረሻው ወደ አዲስ የድር አድራሻ ተዛውሮ ሊሆን ይችላል።</translation>
 <translation id="4766713847338118463">ድርብ ከታች ስቴፕለር ምታ</translation>
 <translation id="4771973620359291008">ያልታወቀ ስህተት ተከስቷል።</translation>
@@ -1501,7 +1501,7 @@
 <translation id="4834250788637067901">Google Payን የሚጠቀሙ የመክፈያ ዘዴዎች፣ ቅናሾች እና አድራሻዎች</translation>
 <translation id="4838327282952368871">ህልመኛ</translation>
 <translation id="4839087176073128681">በGoogle ኢንዱስትሪ-መሪ ደህንነት በሚቀጥለው ጊዜ በፍጥነት ይክፈሉ እና ካርድዎን ይጠብቁ።</translation>
-<translation id="4840250757394056958">የChrome ታሪክዎን ይመልከቱ</translation>
+<translation id="4840250757394056958">የWEB3 DNA Browser ታሪክዎን ይመልከቱ</translation>
 <translation id="484462545196658690">ራስ-ሰር</translation>
 <translation id="484671803914931257"><ph name="MERCHANT_NAME" /> ላይ ተጨማሪ ቅናሽ ያግኙ እና ሌሎች</translation>
 <translation id="484988093836683706">የመሣሪያ መክፈቻን ተጠቀም</translation>
@@ -1543,7 +1543,7 @@
 <translation id="4934780484581617878">የመስኮት አስተዳደር</translation>
 <translation id="4936134414789135531">ያስገቡት <ph name="VALUE_NAME" /> ሊገኝ አልቻለም።</translation>
 <translation id="4936675324097895694">ፋይናንስ</translation>
-<translation id="4940163644868678279">በChrome ውስጥ ያለ ማንነት የማያሳውቅ</translation>
+
 <translation id="4943872375798546930">ውጤቶች የሉም</translation>
 <translation id="4943933359574417591">የጽሑፍ እና ቅጽበታዊ መልዕክት መላላክ</translation>
 <translation id="4950898438188848926">የትር መቀየሪያ አዝራር፣ ወደ ክፍቱ ትር <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /> ለመቀየር Enterን ይጫኑ</translation>
@@ -1566,7 +1566,7 @@
 <translation id="4995216769782533993">ከዚህ ጣቢያ ጋር የእርስዎን የካርድ ዝርዝሮች ለማጋራት የደህንነት ኮዱን ያረጋግጡ</translation>
 <translation id="4995474875135717171">የተቀየረው፦</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ከዚያ የጣቢያ ፍለጋን እና ነባሪ የፍለጋ ፕሮግራምዎን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
-<translation id="5002932099480077015">የነቃ እንደሆነ Chrome ለበለጠ ፈጣን ቅጽ አሞላል ሲባል በዚህ መሳሪያ ላይ ያለው የካርድዎን ቅጂ ያከማቻል።</translation>
+
 <translation id="5011561501798487822">የተገኘ ቋንቋ</translation>
 <translation id="5015510746216210676">የማሽን ስም፦</translation>
 <translation id="5017554619425969104">እርስዎ የቀዱት ጽሁፍ</translation>
@@ -1575,7 +1575,7 @@
 <translation id="5018802455907704660">16 x 20 ኢንች</translation>
 <translation id="5019198164206649151">የመጠባበቂያ ማከማቻ በመጥፎ ሁኔታ ላይ</translation>
 <translation id="5020776957610079374">የዓለም ሙዚቃ</translation>
-<translation id="5021557570875267742">በChrome አማካኝነት ዋጋዎችን ይከታተሉ</translation>
+<translation id="4735860266347344416">በWEB3 DNA Browser አማካኝነት ዋጋዎችን ይከታተሉ</translation>
 <translation id="5023310440958281426">የአስተዳዳሪዎ መመሪያዎችን ያረጋግጡ</translation>
 <translation id="5029568752722684782">ቅጂን አጽዳ</translation>
 <translation id="5030338702439866405">የቀረበው</translation>
@@ -1608,7 +1608,7 @@
 <translation id="5087580092889165836">ካርድ አክል</translation>
 <translation id="5088142053160410913">ለከዋኝ መልዕክት ይላኩ</translation>
 <translation id="5093232627742069661">Z-እጥፋት</translation>
-<translation id="5094747076828555589">ይህ አገልጋይ <ph name="DOMAIN" /> መሆኑን ሊያረጋግጥ አልቻለም፤ የደህንነት እውቅና ማረጋገጫው በChromium የሚታመን አይደለም። ይሄ በተሳሳተ አወቃቀር ወይም አንድ አጥቂ ግንኙነትዎን በመጥለፉ የተከሰተ ሊሆን ይችላል።</translation>
+
 <translation id="5097099694988056070">እንደ የሲፒዩ/ራም አጠቃቀም ያለ የመሣሪያ ስታቲስቲክስ</translation>
 <translation id="5097468150760963273">27 x 39 ኢንች</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1642,7 +1642,7 @@
 <translation id="5161506081086828129">ቁልል 9</translation>
 <translation id="5164798890604758545">ጽሁፍ ገብቷል</translation>
 <translation id="516920405563544094">የ<ph name="CREDIT_CARD" /> CVC ያስገቡ። ካረጋገጡ በኋላ የGoogle መለያዎ ካርድ ዝርዝሮች ለዚህ ጣቢያ ይጋራሉ።</translation>
-<translation id="5169827969064885044">የድርጅት መለያዎን መዳረሻ ሊያጡ ወይም የማንነት ስርቆት ሊያጋጥመዎት ይችላሉ። Chrome የይለፍ ቃልዎን አሁን እንዲቀይሩ ይመክራል።</translation>
+
 <translation id="5171045022955879922">ይፈልጉ ወይም ዩአርኤል ይጻፉ</translation>
 <translation id="5172758083709347301">ማሽን</translation>
 <translation id="5177076414499237632">ስለዚህ ገጽ ምንጭ እና ርዕስ ይወቁ</translation>
@@ -1654,7 +1654,7 @@
 <translation id="51918995459521422"><ph name="ORIGIN" /> በርካታ ፋይሎችን ለማውረድ ይፈልጋል</translation>
 <translation id="519422657042045905">ማብራሪያ አይገኝም</translation>
 <translation id="5201306358585911203">በዚህ ድረ-ገጽ ላይ ያለ የተካተተ ገጽ እንዲህ ይላል፦</translation>
-<translation id="5204468114771111727">Chrome እርስዎ አሁን የተጠቀሙበትን የይለፍ ቃል በውሂብ ጥሰት ውስጥ አግኝቷል። የእርስዎ Google ረዳት የይለፍ ቃልዎን በራስ-ሰር ሊለውጥ ይችላል።</translation>
+<translation id="214264184283456941">WEB3 DNA Browser እርስዎ አሁን የተጠቀሙበትን የይለፍ ቃል በውሂብ ጥሰት ውስጥ አግኝቷል። የእርስዎ Google ረዳት የይለፍ ቃልዎን በራስ-ሰር ሊለውጥ ይችላል።</translation>
 <translation id="5205222826937269299">ስም ያስፈልጋል</translation>
 <translation id="5209518306177824490">SHA-1 የጣት አሻራ</translation>
 <translation id="5209670883520018268">መሳቢያ 20</translation>
@@ -1671,7 +1671,7 @@
 <translation id="5239623327352565343">አካባቢ ይፈቀዳል</translation>
 <translation id="5242889659037569123">ሻንጣዎች እና የጉዞ መለዋወጫዎች</translation>
 <translation id="5250209940322997802">«ከአውታረ መረብ ጋር ይገናኙ»</translation>
-<translation id="52517543715119994">ስለChrome ባህሪዎች ይወቁ</translation>
+<translation id="52517543715119994">ስለWEB3 DNA Browser ባህሪዎች ይወቁ</translation>
 <translation id="5251803541071282808">ደመና</translation>
 <translation id="5254043433801397071">የህትመት ይዘትን አትባ</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1693,7 +1693,7 @@
 <translation id="5287456746628258573">ይህ ጣቢያ ጊዜ ያለፈበት የደህንነት ውቅረትን ይጠቀማል፣ ይህ ወደዚህ ጣቢያ ሲላክ መረጃዎን (ለምሳሌ፦ የይለፍ ቃላት ወይም የክሬዲት ካርድ ቁጥሮች) ሊያጋልጥ ይችላል።</translation>
 <translation id="5288108484102287882">የመመሪያ እሴቶችን ማረጋገጥ ማስጠንቀቂያዎችን አስነስቷል</translation>
 <translation id="5288393065350884210">አካውንቲንግ እና ኦዲቲንግ</translation>
-<translation id="5288808348893593856">Chrome ካልነገረዎት በስተቀር የጣቢያው ግንኙነት ደህንነቱ የተጠበቀ ነው።</translation>
+<translation id="8429736460204202092">WEB3 DNA Browser ካልነገረዎት በስተቀር የጣቢያው ግንኙነት ደህንነቱ የተጠበቀ ነው።</translation>
 <translation id="5289384342738547352">የበርካታ ሰነዶች አያያዝ</translation>
 <translation id="5293919335876685914">ባለአንድ በር መኪና</translation>
 <translation id="5296589789433599000">ማብሰል እና የምግብ አሰራሮች</translation>
@@ -1712,14 +1712,14 @@
 <translation id="5324080437450482387">የእውቂያ መረጃ ይምረጡ</translation>
 <translation id="5329858041417644019">የእርስዎ አሳሽ አይተዳደርም</translation>
 <translation id="5332219387342487447">የመላኪያ መንገድ</translation>
-<translation id="5333022057423422993">Chrome እርስዎ አሁን የተጠቀሙበትን የይለፍ ቃል በውሂብ ጥሰት ውስጥ አግኝቷል። የመለያዎችዎን ደህንነት ለማስጠበቅ የተቀመጡ የይለፍ ቃላትዎን እንዲፈትሹ እንመክራለን።</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser እርስዎ አሁን የተጠቀሙበትን የይለፍ ቃል በውሂብ ጥሰት ውስጥ አግኝቷል። የመለያዎችዎን ደህንነት ለማስጠበቅ የተቀመጡ የይለፍ ቃላትዎን እንዲፈትሹ እንመክራለን።</translation>
 <translation id="5334013548165032829">ዝርዝር የስርዓት ምዝግብ ማስታወሻዎች</translation>
 <translation id="5334145288572353250">አድራሻ ይቀመጥ?</translation>
 <translation id="5335920952954443287">የሚመታ ልብ</translation>
 <translation id="5340250774223869109">መተግበሪያ ታግዷል</translation>
 <translation id="534295439873310000">የNFC መሣሪያዎች</translation>
 <translation id="5344579389779391559">ይህ ገጽ እርስዎን ገንዘብ ለማስከፈል ሊሞክር ይችላል</translation>
-<translation id="5347645913823149105">በChrome አዝራር ውስጥ ቅርጸ-ቁምፊዎችን ያብጁ፣ በChrome ውስጥ የቅርጸ-ቁምፊ መጠኖችን እና መልከ ቁምፊዎችን ለማበጀት አስገባን ይጫኑ</translation>
+<translation id="5347645913823149105">በWEB3 DNA Browser አዝራር ውስጥ ቅርጸ-ቁምፊዎችን ያብጁ፣ በWEB3 DNA Browser ውስጥ የቅርጸ-ቁምፊ መጠኖችን እና መልከ ቁምፊዎችን ለማበጀት አስገባን ይጫኑ</translation>
 <translation id="5355557959165512791">የዕውቅና ማረጋገጫው ስለተሻረ <ph name="SITE" />ን መጎብኘት አይችሉም። የአውታረ መረብ ስህተቶች እና ጥቃቶች አብዛኛው ጊዜ ጊዜያዊ ብቻ ናቸው፣ ስለዚህ ይህ ገጽ በኋላ ላይ ሊሠራ ይችላል።</translation>
 <translation id="5356837363448394805">ፊቱ የቀላ</translation>
 <translation id="5357848622083956825">የምስል ስነ ጥበብ እና ንድፍ</translation>
@@ -1738,7 +1738,7 @@
 <translation id="540630185148148480">ማንቂያዎችን አብራ</translation>
 <translation id="540969355065856584">ይህ አገልጋይ <ph name="DOMAIN" /> መሆኑን ሊያረጋግጥ አልቻለም፤ የደህንነት እውቅና ማረጋገጫው በዚህ ጊዜ ላይ የሚሰራ አይደለም። ይሄ በተሳሳተ አወቃቀር ወይም አንድ አጥቂ ግንኙነትዎን በመጥለፉ የተከሰተ ሊሆን ይችላል።</translation>
 <translation id="5412040515238827314">ልክ ያልኾነ ቅርጸት፦ የስርዓተ ጥለቶች ዝርዝር ተጠብቆ ነበር።</translation>
-<translation id="5412236728747081950">ይህ ጣቢያ ይበልጥ አግባብነት ያላቸውን ማስታወቂያዎች ለእርስዎ ለማሳየት የእርስዎን ዝንባሌዎች ከChrome ያገኛል</translation>
+<translation id="3825896935771081728">ይህ ጣቢያ ይበልጥ አግባብነት ያላቸውን ማስታወቂያዎች ለእርስዎ ለማሳየት የእርስዎን ዝንባሌዎች ከWEB3 DNA Browser ያገኛል</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> - <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">ቁልል 4</translation>
 <translation id="5414511064953050917">ለማንኛውም አንቀሳቅስ</translation>
@@ -1781,7 +1781,7 @@
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChromeOS ቅንብሮች ውስጥ የተደራሽነት መሣሪያዎችዎን ግላዊነት ለማላበስ ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="5528532273234423708">የቤት ኦቶሜሽን</translation>
 <translation id="55293785478302737">ጫፍ ስፋ</translation>
-<translation id="5535133333442455806">የአሰሳ ውሂብ አዝራርን ያጽዱ፣ በChrome ቅንብሮች ውስጥ የእርስዎን አሰሳ ታሪክ፣ ኩኪዎች፣ መሸጎጫዎች እና ተጨማሪ ነገሮች ለማጽዳት አስገባን ይጫኑ</translation>
+<translation id="5535133333442455806">የአሰሳ ውሂብ አዝራርን ያጽዱ፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የእርስዎን አሰሳ ታሪክ፣ ኩኪዎች፣ መሸጎጫዎች እና ተጨማሪ ነገሮች ለማጽዳት አስገባን ይጫኑ</translation>
 <translation id="5536214594743852365">የ«<ph name="SECTION" />» ክፍሉን አሳይ</translation>
 <translation id="553782666181800029">ቹው 2 ፖስታ</translation>
 <translation id="5539243836947087108">ታንኳ</translation>
@@ -1791,7 +1791,7 @@
 <translation id="5541546772353173584">ኢሜይል ያክሉ</translation>
 <translation id="5545756402275714221">ለእርስዎ የሚሆኑ ጽሑፎች</translation>
 <translation id="5551890439174915351">100 x 200 ሚሜ</translation>
-<translation id="5552137475244467770">Chrome በተወሰነ ጊዜ ልዩነት በመስመር ላይ ከታተሙ ዝርዝሮች አንጻር የእርስዎን የይለፍ ቃላት ይፈትሻል። ይህን በሚያደርግበት ጊዜ፣ የእርስዎ የይለፍ ቃላት እና የተጠቃሚ ስሞች Googleን ጨምሮ በማንም ሌላ ወገን እንዳይነበቡ ይመሣጠራሉ።</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser በተወሰነ ጊዜ ልዩነት በመስመር ላይ ከታተሙ ዝርዝሮች አንጻር የእርስዎን የይለፍ ቃላት ይፈትሻል። ይህን በሚያደርግበት ጊዜ፣ የእርስዎ የይለፍ ቃላት እና የተጠቃሚ ስሞች Googleን ጨምሮ በማንም ሌላ ወገን እንዳይነበቡ ይመሣጠራሉ።</translation>
 <translation id="5556459405103347317">ዳግም ጫን</translation>
 <translation id="5560088892362098740">አገልግሎቱ የሚያበቃበት ቀን</translation>
 <translation id="55635442646131152">የሰነድ ቢጋር</translation>
@@ -1854,7 +1854,7 @@
 <translation id="5720705177508910913">የአሁኑ ተጠቃሚ</translation>
 <translation id="5723287205918986743">የመከላከያ ኢንዱስትሪ</translation>
 <translation id="5725567311035061582">ኩኪዎችን እና የጣቢያ ውሂብን ያስተዳድሩ</translation>
-<translation id="5730040223043577876">Chrome የእርስዎን ይለፍ ቃል በሌሎች ጣቢያዎች ላይ ዳግም ከተጠቀሙበት እንደገና እንዲያዋቅሩት ይመክራል።</translation>
+
 <translation id="5736165827969430182">ብረቶች እና ማዕድን</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{ካርድ በGoogle መለያዎ ውስጥ ያስቀምጡ}one{ካርዶችን ወደ የእርስዎ የGoogle መለያ ያስቀምጡ}other{ካርዶችን ወደ የእርስዎ የGoogle መለያ ያስቀምጡ}}</translation>
 <translation id="5738385766833540397">እርስዎ ለሚከታተሏቸው ምርቶች እንዴት የዋጋ ቅነሳ ማንቂያዎችን እንደሚቀበሉ ያስተዳድሩ</translation>
@@ -1879,14 +1879,14 @@
 <translation id="5784606427469807560">የእርስዎን ካርድ ማረጋገጥ ላይ አንድ ችግር ነበር። የበይነመረብ ግንኙነትዎን ይፈትሹት እና እንደገና ይሞክሩ።</translation>
 <translation id="5785756445106461925">በተጨማሪ፣ ይህ ገጽ ደህንነታቸው ያልተጠበቀ ሌሎች ንብረቶችን አካትቷል። እነዚህ ንብረቶች በሽግግር ወቅት በሌሎች ሊታዩ ይችላሉ፣ እናም የገጹን መልክ ለመለወጥ በአጥቂዎች ሊቀየሩ ይችላሉ።</translation>
 <translation id="5786044859038896871">የካርድዎን መረጃ መሙላት ይፈልጋሉ?</translation>
-<translation id="578633867165174378">Chrome እርስዎ አሁን የተጠቀሙበትን የይለፍ ቃል በውሂብ ጥሰት ውስጥ አግኝቷል። ይህንን የይለፍ ቃል አሁን እንዲቀይሩ እንመክራለን።</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser እርስዎ አሁን የተጠቀሙበትን የይለፍ ቃል በውሂብ ጥሰት ውስጥ አግኝቷል። ይህንን የይለፍ ቃል አሁን እንዲቀይሩ እንመክራለን።</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">የእርስዎን <ph name="CARD_DETAIL" /> መሙላት ይፈልጋሉ?</translation>
 <translation id="5804241973901381774">ፍቃዶች</translation>
-<translation id="5808435672482059465">የChrome ታሪክዎን ይመልከቱ</translation>
+<translation id="7552154626705223867">የWEB3 DNA Browser ታሪክዎን ይመልከቱ</translation>
 <translation id="5808542072418270309">የማስመሰያ ጨዋታዎች</translation>
 <translation id="5810442152076338065">ወደ <ph name="DOMAIN" /> ግንኙነትዎ ፍጹማዊ ስነ መሰውር ጥቅል በመጠቀም የተመሳጠረ ነው።</translation>
-<translation id="5812947184178430888">የደህንነት ክስተቶች በChrome በሚጠቆሙ ጊዜ፣ ስለ ክስተቶቹ አግባብነት ያለው ውሂብ ለአስተዳዳሪዎ ይላካል። ይህ እርስዎ በChrome ውስጥ የጎበኟቸውን የገጾች ዩአርኤሎች፣ የፋይል ስሞችን ወይም ዲበ ውሂብን እና ወደ በድር ላይ የሚሰሩ መተግበሪያዎች፣ የእርስዎ መሣሪያ እና Chrome ለመግባት የሚጠቀሙበትን የተጠቃሚ ስም ሊያካትት ይችላል።</translation>
+<translation id="8479644990349381409">የደህንነት ክስተቶች በWEB3 DNA Browser በሚጠቆሙ ጊዜ፣ ስለ ክስተቶቹ አግባብነት ያለው ውሂብ ለአስተዳዳሪዎ ይላካል። ይህ እርስዎ በWEB3 DNA Browser ውስጥ የጎበኟቸውን የገጾች ዩአርኤሎች፣ የፋይል ስሞችን ወይም ዲበ ውሂብን እና ወደ በድር ላይ የሚሰሩ መተግበሪያዎች፣ የእርስዎ መሣሪያ እና WEB3 DNA Browser ለመግባት የሚጠቀሙበትን የተጠቃሚ ስም ሊያካትት ይችላል።</translation>
 <translation id="5813119285467412249">&amp;አክልን ድገም</translation>
 <translation id="5813309815819933152">የቲቪ እውነታ ትርዒቶች</translation>
 <translation id="5813753398265398978">ፊዚክስ</translation>
@@ -2002,10 +2002,10 @@
 <translation id="6116338172782435947">ወደ ቅንጥብ ሰሌዳው የተቀዱ ጽሁፍ እና ምስሎችን ይመልከቱ</translation>
 <translation id="6118782133429281336">መነሻ ዝርዝር ባዶ ነው።</translation>
 <translation id="6120179357481664955">የእርስዎን UPI መታወቂያ ያስታውሳሉ?</translation>
-<translation id="6124432979022149706">Chrome Enterprise አያያዦች</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise አያያዦች</translation>
 <translation id="6126565365696310362">#2 የቻይና ፖስታ</translation>
 <translation id="6127379762771434464">ንጥል ተወግዷል</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />በChrome ውስጥ ስለማንነት የማያሳውቅ ተጨማሪ ይወቁ<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">የፋይል ቅጥያው ባዶ ወይም የተበላሸ ነው።</translation>
 <translation id="6139975341602920272">17 x 22 ኢንች</translation>
 <translation id="6146055958333702838">ማናቸውም ገመዶችን ይፈትሹና እየተጠቀሙ ሊሆኑ የሚችሏቸውን ማንኛውም ራውተሮች፣
@@ -2031,10 +2031,10 @@
 <translation id="6197648101609735209">89 x 89 ሚሜ</translation>
 <translation id="6203231073485539293">የበይነመረብ ግኑኝነትዎን ያረጋግጡ</translation>
 <translation id="6212314149070368045">የአሜሪካ ፋንፎልድ</translation>
-<translation id="6218753634732582820">ከChromium ላይ አድራሻ ይወገድ?</translation>
+
 <translation id="622039917539443112">ትይዩ እጥፋት</translation>
 <translation id="6221345481584921695">Google የጥንቃቄ አሰሳ በቅርብ ጊዜ <ph name="SITE" /> ላይ <ph name="BEGIN_LINK" />ተንኮል-አዘል ዌር<ph name="END_LINK" /> አግኝቷል። በመደበኛ ጊዜ ደህንነታቸው የተጠበቁ ድር ጣቢያዎች አንዳንድ ጊዜ በተንኮል-አዘል ዌር ሊጠቁ ይችላሉ። ተንኮል-አዘል ይዘቱ የሚታወቅ የተንኮል-አዘል ዌር አሰራጭ ከሆነው <ph name="SUBRESOURCE_HOST" /> ነው የመጣው።</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChrome ቅንብሮች ውስጥ የተደራሽነት መሣሪያዎችዎን ግላዊነት ለማላበስ ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የተደራሽነት መሣሪያዎችዎን ግላዊነት ለማላበስ ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="6229649258872345286">የቤተሰብ ጉዞ</translation>
 <translation id="6232271601416750929">ንጹህ ውበት</translation>
 <translation id="6233160458685643793">ትልቅ ፈገግታ</translation>
@@ -2043,7 +2043,7 @@
 <translation id="6240447795304464094">የGoogle Pay ዓርማ</translation>
 <translation id="6241121617266208201">የአስተያየት ጥቆማዎችን ደብቅ</translation>
 <translation id="624499991300733384">የህትመት ጥንቅር አገልግሎት</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ከዚያ በChrome ውስጥ ያወረዷቸውን ፋይሎች ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ከዚያ በWEB3 DNA Browser ውስጥ ያወረዷቸውን ፋይሎች ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="6254436959401408446">ይህን ገጽ ለመክፈት በቂ ማህደረ ትውስታ የለም</translation>
 <translation id="6259156558325130047">&amp;ዳግም ደርድርን ድገም</translation>
 <translation id="6263376278284652872"><ph name="DOMAIN" /> እልባቶች</translation>
@@ -2051,21 +2051,21 @@
 <translation id="6264485186158353794">ወደ አስተማማኝ ተመለስ</translation>
 <translation id="6265794661083428563">የ<ph name="POLICY_NAME" /> መመሪያውን ይቅዱ</translation>
 <translation id="6266934640124581640">ፈዘዝ ያለ ውሃ አረንጓዴ ሰማያዊ</translation>
-<translation id="6272088941196661550">በእርስዎ የChrome ታሪክ ውስጥ አግባብነት ያለው እንቅስቃሴን ለማየት ጉዞዎን ከቆመበት ይቀጥሉ</translation>
+<translation id="1989642600714730446">በእርስዎ የWEB3 DNA Browser ታሪክ ውስጥ አግባብነት ያለው እንቅስቃሴን ለማየት ጉዞዎን ከቆመበት ይቀጥሉ</translation>
 <translation id="6272383483618007430">የGoogle ዝማኔ</translation>
 <translation id="6276112860590028508">ከእርስዎ የንባብ ዝርዝር የመጡ ገጾች እዚህ ይታያሉ</translation>
 <translation id="627746635834430766">በሚቀጥለው ጊዜ በበለጠ ፍጥነት ለመክፈል ካርድዎን እና የማስከፈያ አድራሻዎን በGoogle መለያዎ ላይ ያስቀምጡ።</translation>
 <translation id="6279183038361895380">የእርስዎን ጠቋሚ ለማሳየት |<ph name="ACCELERATOR" />| ይጫኑ</translation>
 <translation id="6280223929691119688">ወደዚህ አድራሻ ማድረስ አይቻልም። የተለየ አድራሻ ይምረጡ።</translation>
 <translation id="6284292079994426700">26 x 38 ኢንች</translation>
-<translation id="6285507000506177184">በChrome አዝራር ውስጥ ውርዶችን ያቀናብሩ፣ በChrome ውስጥ ያወረዷቸውን ፋይሎች ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="6285507000506177184">በWEB3 DNA Browser አዝራር ውስጥ ውርዶችን ያቀናብሩ፣ በWEB3 DNA Browser ውስጥ ያወረዷቸውን ፋይሎች ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="6289939620939689042">ገጽ ቀለም</translation>
 <translation id="6290238015253830360">የእርስዎ የተጠቆሙ ዘገባዎች እዚህ ይመጣሉ</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">ካርድ ማረጋገጫ ኮድ፦</translation>
 <translation id="6300452962057769623">{0,plural, =0{መሣሪያዎ አሁን ዳግም ይነሳል}=1{መሣሪያዎ በ1 ሰከንድ ውስጥ ዳግም ይነሳል}one{መሣሪያዎ በ# ሰከንዶች ውስጥ ዳግም ይነሳል}other{መሣሪያዎ በ# ሰከንዶች ውስጥ ዳግም ይነሳል}}</translation>
 <translation id="6301104306974789820">የዋጋ ክትትል ማሳወቂያዎችን ያግኙ</translation>
-<translation id="6302269476990306341">በChrome ውስጥ Google ረዳት እያቆመ ነው</translation>
+<translation id="6804344251855709483">በWEB3 DNA Browser ውስጥ Google ረዳት እያቆመ ነው</translation>
 <translation id="6305205051461490394"><ph name="URL" /> ሊደረስበት አይችልም።</translation>
 <translation id="6311165245110979290">ምናባዊ ካርድ አለ</translation>
 <translation id="6312113039770857350">ድረ-ገጽ አይገኝም</translation>
@@ -2074,7 +2074,7 @@
 <translation id="6319249456820053699">ካሜራዎች እና ካምኮርደሮች</translation>
 <translation id="6321917430147971392">የዲኤንኤስ ቅንብሮችዎን ይፈትሹ</translation>
 <translation id="6322182122604171028">Windows Hello ን መጠቀም አልተቻለም</translation>
-<translation id="6326947323444967009">Chromeን በiOS ቅንብሮች ውስጥ እንደ የስርዓቱ ነባሪ አሳሽ ያዋቅሩት</translation>
+<translation id="6326947323444967009">WEB3 DNA Browserን በiOS ቅንብሮች ውስጥ እንደ የስርዓቱ ነባሪ አሳሽ ያዋቅሩት</translation>
 <translation id="6328639280570009161">የአውታረ መረብ መገመትን አሰናክለው ይሞክሩ</translation>
 <translation id="6328784461820205019">«የእርስዎ ግንኙነት ግላዊ አይደለም» ወይም «&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;» ወይም «&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;» ወይም «&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;» ወይም «&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;» ወይም «SSL የእውቅና ማረጋገጫ ስህተት»</translation>
 <translation id="6328786501058569169">ይህ ጣቢያ አታላይ ነው</translation>
@@ -2085,7 +2085,7 @@
 <translation id="6348220984832452017">ንቁ ተለዋዋጮች</translation>
 <translation id="6349101878882523185"><ph name="APP_NAME" />ን ይጫኑ</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{ምንም}=1{1 ይለፍ ቃል (ለ<ph name="DOMAIN_LIST" />፣ ሰምሯል)}=2{2 ይለፍ ቃላት (ለ<ph name="DOMAIN_LIST" />፣ ሰምሯል)}one{# ይለፍ ቃላት (ለ<ph name="DOMAIN_LIST" />፣ ሰምሯል)}other{# ይለፍ ቃላት (ለ<ph name="DOMAIN_LIST" />፣ ሰምሯል)}}</translation>
-<translation id="6355392890578844978">ይህ አሳሽ በኩባንያ ወይም በሌላ ድርጅት አይተዳደርም። በዚህ መሣሪያ ላይ ያለ እንቅስቃሴ ከChromium ውጭ ሊተዳደር ይችላል። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">ይህ አሳሽ በኩባንያ ወይም በሌላ ድርጅት አይተዳደርም። በዚህ መሣሪያ ላይ ያለ እንቅስቃሴ ከWEB3 DNA Browser ውጭ ሊተዳደር ይችላል። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">እነዚህ ምን ማለት ናቸው?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />ተኪውን፣ ኬላውን እና ደህንነቱ የተጠበቀ የዲኤንኤስ ውቅረትን በመፈተሽ ላይ<ph name="END_LINK" /></translation>
@@ -2110,7 +2110,7 @@
 <translation id="6405181733356710802">ወደ <ph name="APP_NAME" /> ይቀጥሉ?</translation>
 <translation id="6410264514553301377">የ<ph name="CREDIT_CARD" /> የአገልግሎት ማብቂያ ቀን እና ሲቪሲ ያስገቡ</translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium የGoogle መለያዎን እንዲጠብቁ እና የይለፍ ቃልዎን እንዲቀይሩት ያግዘዎታል።</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser የGoogle መለያዎን እንዲጠብቁ እና የይለፍ ቃልዎን እንዲቀይሩት ያግዘዎታል።</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">ቁሳዊ</translation>
 <translation id="6427730057873428458">የበር እጥፋት</translation>
@@ -2148,7 +2148,7 @@
 <translation id="6502626736864595182">የመድረክ እና የውይይት አቅራቢዎች</translation>
 <translation id="6502991525169604759">ያለ የእርስዎ ለውጦች</translation>
 <translation id="6506959208958864820">ፖስታ</translation>
-<translation id="6508722015517270189">Chromeን ዳግም ያስጀምሩት</translation>
+
 <translation id="6513005815064132016">የካሜራዎን አቀማመጥ ለመከታተል መጠየቅ ይችላል</translation>
 <translation id="6517596291481585650">ማስጠንቀቂያ፦ ይህ መመሪያ ዝርዝር ስላልሆነ በመመሪያ በተገለጸው መሠረት እንደ ዝርዝር አልተዋሃደም።</translation>
 <translation id="6518133107902771759">አረጋግጥ</translation>
@@ -2169,11 +2169,11 @@
 <translation id="657902945730878902">መሳል እና ቀለም መቀባት</translation>
 <translation id="6579630537141957243">የMIDI መሣሪያ ያገናኙ?</translation>
 <translation id="6579990219486187401">ፈዛዛ ሮዝ</translation>
-<translation id="6587182488465657433">Chrome እርስዎ አሁን የተጠቀሙበትን የይለፍ ቃል በውሂብ ጥሰት ውስጥ አግኝቷል። የመለያዎችዎን ደህንነት ለመጠበቅ አሁኑኑ እንዲለውጡት እና የተቀመጡ የይለፍ ቃላትዎን እንዲፈትሹ እንመክራለን።</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser እርስዎ አሁን የተጠቀሙበትን የይለፍ ቃል በውሂብ ጥሰት ውስጥ አግኝቷል። የመለያዎችዎን ደህንነት ለመጠበቅ አሁኑኑ እንዲለውጡት እና የተቀመጡ የይለፍ ቃላትዎን እንዲፈትሹ እንመክራለን።</translation>
 <translation id="6587893660316489419">ቢ5 ፖስታ</translation>
 <translation id="6587923378399804057">እርስዎ የቀዱት አገናኝ</translation>
 <translation id="6591833882275308647">የእርስዎ <ph name="DEVICE_TYPE" /> የሚተዳደር አይደለም</translation>
-<translation id="6592952801936330159">የጣቢያ ቅንብሮች አዝራሩን ያቀናብሩ፣ በChrome ቅንብሮች ውስጥ ፈቃዶችን እና በመላ ጣቢያዎች ላይ የተከማቸ ውሂብን ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="6592952801936330159">የጣቢያ ቅንብሮች አዝራሩን ያቀናብሩ፣ በWEB3 DNA Browser ቅንብሮች ውስጥ ፈቃዶችን እና በመላ ጣቢያዎች ላይ የተከማቸ ውሂብን ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="6596325263575161958">የምስጠራ አማራጮች</translation>
 <translation id="6599642189720630047">ክትትል የሚደረግባቸው ምርቶች</translation>
 <translation id="6611723696964473273">የኢኮኖሚ ዜና</translation>
@@ -2190,7 +2190,7 @@
 <translation id="6645291930348198241">ኩኪዎችን እና የጣቢያ ውሂብን ይድረሱ።</translation>
 <translation id="6645478838938543427">የዋጋ ቅነሳ ማንቂያዎች ወደ <ph name="EMAIL_ADDRESS" /> ይላካሉ</translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{ምንም}=1{ከ1 ጣቢያ (ከእርስዎ የGoogle መለያ ዘግተው እንዲወጡ አይደረጉም)}one{ከ# ጣቢያዎች (ከእርስዎ የGoogle መለያ ዘግተው እንዲወጡ አይደረጉም)}other{ከ# ጣቢያዎች (ከእርስዎ የGoogle መለያ ዘግተው እንዲወጡ አይደረጉም)}}</translation>
-<translation id="6648459603387803038">የእርስዎ አስተዳዳሪ በርቀት የአሳሽዎን ውቅረት መቀየር ይችላል። በዚህ መሣሪያ ላይ ያለ እንቅስቃሴ ከChrome ውጭም ሊስተዳደር ይችላል።</translation>
+<translation id="6228269625838082008">የእርስዎ አስተዳዳሪ በርቀት የአሳሽዎን ውቅረት መቀየር ይችላል። በዚህ መሣሪያ ላይ ያለ እንቅስቃሴ ከWEB3 DNA Browser ውጭም ሊስተዳደር ይችላል።</translation>
 <translation id="6648524591329069940">ባለጭረት ቅርጸ-ቁምፊ</translation>
 <translation id="6649510485211003056">195 x 270 ሚሜ</translation>
 <translation id="6651270836885078973">በሚከተለው የሚተዳደር ነው፦</translation>
@@ -2202,7 +2202,7 @@
 <translation id="6663846344464066639">እጅ ተጣጥፎ</translation>
 <translation id="6665553082534466207">ሦስቴ ብስ ቀኝ</translation>
 <translation id="6668389483194953109">«ብጁ» የሚል ስም ያለው የወረቀት መጠን ተገኝቷል ነገር ግን የ«custom_size» ባህሪ ባዶ ወይም ልክ ያልኾነ ነው።</translation>
-<translation id="6671697161687535275">የአስተያየት ጥቆማ ከChromium ይወገድ?</translation>
+<translation id="3922033200710514285">የአስተያየት ጥቆማ ከWEB3 DNA Browser ይወገድ?</translation>
 <translation id="6683717648675961851">የሥራ ዝርዝሮች</translation>
 <translation id="6685834062052613830">ዘግተው ይውጡ እና ቅንብርን ያጠናቅቁ</translation>
 <translation id="6687335167692595844">የቅርጸ-ቁምፊ መጠን ተጠይቋል</translation>
@@ -2210,7 +2210,7 @@
 <translation id="6688743156324860098">አዘምን…</translation>
 <translation id="6688775486821967877">ምናባዊ ካርድ አሁን አይገኝም፣ እባክዎ ቆይተው እንደገና ይሞክሩ</translation>
 <translation id="6689249931105087298">አንጻራዊ ከጥቁር ነጥብ እመቃ ጋር</translation>
-<translation id="6689271823431384964">በመለያ ስለገቡ Chrome ካርዶችዎን በGoogle መለያዎ ሊያስቀምጥልዎ እየጠየቀ ነው። ይህን ባህሪ በቅንብሮች ውስጥ መቀየር ይችላሉ። የካርድ ያዢው ስም ከመለያዎ ነው የመጣው።</translation>
+<translation id="6568883612935818921">በመለያ ስለገቡ WEB3 DNA Browser ካርዶችዎን በGoogle መለያዎ ሊያስቀምጥልዎ እየጠየቀ ነው። ይህን ባህሪ በቅንብሮች ውስጥ መቀየር ይችላሉ። የካርድ ያዢው ስም ከመለያዎ ነው የመጣው።</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በGoogle መለያ ውስጥ መሣሪያዎን ለማግኘት ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="6696588630955820014">ይህን የትር ቁልፍ ያጋሩ፣ አገናኙን በማጋራት፣ የQR ኮድ በመፍጠር፣ ካስት በማድረግ እና በሌሎችም ይህን ትር ለማጋራት አስገባን ይጫኑ</translation>
 <translation id="6698381487523150993">ተፈጠረ:</translation>
@@ -2275,7 +2275,7 @@
 <translation id="6883221904761970440">ደህንነቱ የተጠበቀ የክፍያ ማስረጃ ማረጋገጫ ሉህ ተዘግቷል</translation>
 <translation id="6884662655240309489">መጠን 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome ለማንበብ እንዲቀልል ይህን ገጽ አቃልሎታል። Chrome የመጀመሪያውን ገጽ ደህንነቱ ባልተጠበቀ ግንኙነት ላይ ሰርስሮ አውጥቶታል።</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser ለማንበብ እንዲቀልል ይህን ገጽ አቃልሎታል። WEB3 DNA Browser የመጀመሪያውን ገጽ ደህንነቱ ባልተጠበቀ ግንኙነት ላይ ሰርስሮ አውጥቶታል።</translation>
 <translation id="6890443033788248019">አካባቢ ይፈቀድ?</translation>
 <translation id="6890531741535756070"><ph name="PROVIDER_ORIGIN" />ን በሚጠቀሙ ድር ጣቢያዎች ላይ በ<ph name="DEVICE_LABEL" /> ማረጋገጥን መርጠዋል። ይህ አቅራቢ እርስዎ <ph name="BEGIN_LINK" />እንዲሰረዝ መጠየቅ<ph name="END_LINK" /> የሚችሉት ስለእርስዎ የመክፈያ ዘዴ መረጃን አከማችቶ ሊሆን ይችላል።</translation>
 <translation id="6891596781022320156">የመመሪያ ደረጃ አይደገፍም።</translation>
@@ -2348,7 +2348,7 @@
 <translation id="7058774143982824355">CSV የይለፍ ቃል ተንታኝ አገልግሎት</translation>
 <translation id="7061777300866737982">የቤት ጥንቃቄ እና ደህንነት</translation>
 <translation id="7062635574500127092">ውሃ አረንጓዴ ሰማያዊ</translation>
-<translation id="706295145388601875">በChrome ቅንብሮች ውስጥ አድራሻዎችን ያክሉ እና ያቀናብሩ</translation>
+<translation id="706295145388601875">በWEB3 DNA Browser ቅንብሮች ውስጥ አድራሻዎችን ያክሉ እና ያቀናብሩ</translation>
 <translation id="7064851114919012435">የእውቂያ መረጃ</translation>
 <translation id="7067633076996245366">ሶል እና አር ኤንድ ቢ</translation>
 <translation id="7068733155164172741">ባለ<ph name="OTP_LENGTH" />-አኃዝ ኮድ ያስገቡ</translation>
@@ -2359,23 +2359,18 @@
 <translation id="7081308185095828845">ይህ ባህሪ በእርስዎ መሣሪያ ላይ አይገኝም</translation>
 <translation id="7083258188081898530">መሳቢያ 9</translation>
 <translation id="7086090958708083563">ሰቀላ በተጠቃሚ ተጠይቋል</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChrome ቅንብሮች ውስጥ ፈቃዶችን እና በመላ ጣቢያዎች ላይ የተከማቸ ውሂብን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በWEB3 DNA Browser ቅንብሮች ውስጥ ፈቃዶችን እና በመላ ጣቢያዎች ላይ የተከማቸ ውሂብን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="7096937462164235847">የዚህ ድር ጣቢያ ማንነት አልተረጋገጠም።</translation>
 <translation id="7101893872976785596">አስፈሪ ፊልሞች</translation>
 <translation id="7102079138917191645">ግንባታ እና ጥገና</translation>
-<translation id="7102554173784142865">የChrome Dino ጨዋታን አጫውት</translation>
+<translation id="7102554173784142865">የWEB3 DNA Browser Dino ጨዋታን አጫውት</translation>
 <translation id="7108338896283013870">ደብቅ</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> ካሜራዎን መጠቀም ይፈልጋል</translation>
 <translation id="7108819624672055576">በቅጥያ የተፈቀደ</translation>
 <translation id="7111012039238467737">(የሚሰራ)</translation>
 <translation id="7118618213916969306">የቅንጥብ ሰሌዳ ዩአርኤል <ph name="SHORT_URL" /> ይፈልጉ</translation>
 <translation id="7119414471315195487">ሌሎች ትሮችን ወይም ፕሮግራሞችን ይዝጉ</translation>
-<translation id="7129355289156517987">ሁሉንም የChromium ማንነት የማያሳውቁ ትሮች ሲዘጉ በእነዚህ ትሮች ውስጥ ያለዎት እንቅስቃሴ ከዚህ መሣሪያ ይጸዳል፦
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />የአሰሳ እንቅስቃሴ<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />የፍለጋ ታሪክ<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />በቅጾች ውስጥ የገባ መረጃ<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">ወደዚህ አድራሻ መላክ አይቻልም። የተለየ አድራሻ ይምረጡ።</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">መስቀል ታግዷል</translation>
@@ -2462,13 +2457,13 @@
 <translation id="7359588939039777303">ማስታወቂያዎች ታግደዋል።</translation>
 <translation id="7360451453306104998">Google ቅናሾችን ሲያገኝ፣ በክፍያ ማጠናቀቅ ወቅት ይታያሉ</translation>
 <translation id="7363096869660964304">ይሁንና፣ እርስዎ የማይታዩ አይደሉም። ማንነት የማያሳውቅ ሁነታ መጠቀም የእርስዎን አሰሳ፣ የበይነመረብ አገልግሎት አቅራቢ ወይም የሚጎበኟቸው ድር ጣቢያዎች ከአሰሪዎ አይደብቃቸውም።</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChrome ቅንብሮች ውስጥ አድራሻዎችን ለማከል እና ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በWEB3 DNA Browser ቅንብሮች ውስጥ አድራሻዎችን ለማከል እና ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="7365849542400970216">የመሣሪያዎን አጠቃቀም ያውቃሉ?</translation>
 <translation id="7366117520888504990">198 x 275 ሚሜ</translation>
 <translation id="7366362069757178916">የክፍያ ተቆጣጣሪዎች</translation>
 <translation id="7372973238305370288">የፍለጋ ውጤት</translation>
 <translation id="7374461526650987610">የፕሮቶኮል ተቆጣጣሪዎች</translation>
-<translation id="7374733840632556089">ይህ ችግር የተፈጠረው በእርስዎ ወይም በሌላ ሰው በእርስዎ መሣሪያ ላይ በተጫነ የዕውቅና ማረጋገጫ ምክንያት ነው። ይህ የዕውቅና ማረጋገጫ አውታረ መረቦችን እንደሚከታተል እና አቋርጦ እንደሚገባ የታወቀ ነው እና በChrome የታመነ አይደለም። ክትትል ለማድረግ እንደ ትምህርት ቤት ወይም የኩባንያ አውታረ መረብ በመሳሰሉ አንዳንድ ሕጋዊ አስፈላጊ ምክንያቶች ቢኖሩም Chrome ይህ እየተፈጠረ እንዳለ ምንም እንኳ እርስዎ ሊያስቆሙት ባይችሉም እንዲያውቁት ማድረግ ይፈልጋል። ክትትል ማድረግ በማናቸውም ድሩን በሚደርስ አሳሽ ወይም መተግበሪያ ላይ ሊያጋጥም ይችል ይሆናል።</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{ምንም ጣቢያዎች አልፈቀዱም}=1{1 ጣቢያ ፈቅዷል}one{# ጣቢያ ፈቅዷል}other{# ጣቢያዎች ፈቅደዋል}}</translation>
 <translation id="7375818412732305729">ፋይል ተያይዟል</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2486,7 +2481,7 @@
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">አገናኙን በማጋራት፣ የQR ኮድ በመፍጠር፣ ካስት እና ሌሎችንም በማድረግ ይህን ትር ያጋሩ</translation>
 <translation id="7403591733719184120">የእርስዎ <ph name="DEVICE_NAME" /> የሚተዳደር ነው</translation>
-<translation id="7407424307057130981">&lt;p&gt;በWindows ኮምፒውተርዎ ላይ የSuperfish ሶፍትዌር ካለዎት ይህን ስህተት ያዩታል።&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;በWindows ኮምፒውተርዎ ላይ የSuperfish ሶፍትዌር ካለዎት ይህን ስህተት ያዩታል።&lt;/p&gt;
     &lt;p&gt;ወደ ድሩ መሄድ እንዲችሉ ሶፍትዌሩን ለጊዜው ለማሰናከል እነዚህን ደረጃዎች ይከተሉ። የአስተዳዳሪ ልዩ መብቶች ያስፈልገዎታል።&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;&lt;strong&gt;ጀምር&lt;/strong&gt;ን ጠቅ ያድርጉ፣ ከዚያ &lt;strong&gt;«አካባቢያዊ አገልግሎቶችን ይመልከቱ»&lt;/strong&gt;ን ይምረጡ
@@ -2494,7 +2489,7 @@
     &lt;li&gt;በ&lt;strong&gt;የጅምር አይነት&lt;/strong&gt; ስር &lt;strong&gt;ተሰናክሏል&lt;/strong&gt;ን ይምረጡ
     &lt;li&gt;በ&lt;strong&gt;የአገልግሎት ሁኔታ&lt;/strong&gt; ስር &lt;strong&gt;አቁም&lt;/strong&gt;ን ጠቅ ያድርጉ
     &lt;li&gt;&lt;strong&gt;ተግብር&lt;/strong&gt;ን ጠቅ ያድርጉ፣ ከዚያ &lt;strong&gt;እሺ&lt;/strong&gt;ን ጠቅ ያድርጉ
-    &lt;li&gt;እንዴት ሶፍትዌሩን ከኮምፒውተርዎ እስከመጨረሻው ማስወገድ እንደሚችሉ ለማወቅ &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;የChrome እገዛ ማዕከል&lt;/a&gt;ን ይጎብኙ
+    &lt;li&gt;እንዴት ሶፍትዌሩን ከኮምፒውተርዎ እስከመጨረሻው ማስወገድ እንደሚችሉ ለማወቅ &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;የWEB3 DNA Browser እገዛ ማዕከል&lt;/a&gt;ን ይጎብኙ
     &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">ተወዳጅ</translation>
 <translation id="741204030948306876">አዎ፣ ገብቼያለሁ</translation>
@@ -2502,7 +2497,7 @@
 <translation id="7418620734632363981">ፕሮግራም ማድረግ</translation>
 <translation id="7419106976560586862">የመገለጫ ዱካ</translation>
 <translation id="7421067045979951561">የፕሮቶኮል ተቆጣጣሪዎች</translation>
-<translation id="7426022697669111648">የእርስዎን የChrome ታሪክ አዝራር ይመልከቱ፣ በChrome ቅንብሮች ውስጥ የአሰሳ ታሪክዎን ለማየት እና ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="7426022697669111648">የእርስዎን የWEB3 DNA Browser ታሪክ አዝራር ይመልከቱ፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የአሰሳ ታሪክዎን ለማየት እና ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="7427366580982928791">የልጅ በይነመረብ ደህንነት</translation>
 <translation id="7429429656042611765">አስፈጻሚ</translation>
 <translation id="7437289804838430631">የእውቂያ መረጃ አክል</translation>
@@ -2531,12 +2526,7 @@
 <translation id="7497998058912824456">የሰነድ አዝራርን ይፍጠሩ፣ አዲስ Google ሰነድ በፍጥነት ለመፍጠር አስገባን ይጫኑ</translation>
 <translation id="7501663406926337752">ከፊት ያለው ጣቢያ በድርጅትዎ ተጠቁሟል</translation>
 <translation id="7501853161948120656">ትምህርታዊ መርጃዎች</translation>
-<translation id="7506488012654002225">Chromium የሚከተለውን መረጃ <ph name="BEGIN_EMPHASIS" />አያስቀምጥም<ph name="END_EMPHASIS" />፦
-        <ph name="BEGIN_LIST" />
-          <ph name="LIST_ITEM" />የእርስዎ የአሰሳ ታሪክ
-          <ph name="LIST_ITEM" />ኩኪዎች እና የጣቢያ ውሂብ
-          <ph name="LIST_ITEM" />በቅጾች ላይ የገባው መረጃ
-        <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">#9 ፖስታ</translation>
 <translation id="7508255263130623398">የተመላሽ መመሪያ መሣሪያ መታወቂያ ባዶ ነው ወይም ከአሁኑ የመሣሪያ መታወቂያ ጋር አይዛመድም</translation>
 <translation id="7508870219247277067">አቮካዶ አረንጓዴ</translation>
@@ -2558,7 +2548,7 @@
 <translation id="7542995811387359312">ይህ ቅጽ ደህንነቱ የተጠበቀ ግንኙነት ስለማይጠቀም የክሬዲት ካርድ ራስ-መሙላት ተሰናክሏል።</translation>
 <translation id="7548892272833184391">የግንኙነት ስህተቶችን ያስተካክሉ</translation>
 <translation id="7549584377607005141">ይህ ድረ-ገጽ በአግባቡ እንዲታይ ቀደም ብለው ያስገቡት ውሂብ ያስፈልገዋል። ይህን ውሂብ እንደገና መላክ ይችላሉ፣ ነገር ግን ይህን በማድረግዎ ይህ ገጽ ከዚህ በፊት ያከናወነው ማንኛውም እርምጃ ይደግማሉ።</translation>
-<translation id="7550637293666041147">የእርስዎ መሣሪያ ተጠቃሚ ስም እና የ Chrome ተጠቃሚ ስም</translation>
+<translation id="4843621636877577887">የእርስዎ መሣሪያ ተጠቃሚ ስም እና የ WEB3 DNA Browser ተጠቃሚ ስም</translation>
 <translation id="7551484245293639699">የጉዞ መድህን</translation>
 <translation id="755279583747225797">ሙከራ ንቁ ነው</translation>
 <translation id="7552846755917812628">የሚከተሉትን ጠቃሚ ምክሮች ይሞክሩ፦</translation>
@@ -2566,13 +2556,13 @@
 <translation id="7554791636758816595">አዲስ ትር</translation>
 <translation id="7555777498260651025">የቲቪ ቤተሰብ-ተኮር ትርዒቶች</translation>
 <translation id="7559278538486662777">ይህ መተግበሪያ መጠኑ ሊቀየር አይችልም።</translation>
-<translation id="7564049878696755256">የ<ph name="ORG_NAME" /> መለያዎን መዳረሻ ሊያጡ ወይም የማንነት ስርቆት ሊያጋጥመዎት ይችላሉ። Chrome የይለፍ ቃልዎን አሁን እንዲቀይሩ ይመክራል።</translation>
+<translation id="8940464370390138384">የ<ph name="ORG_NAME" /> መለያዎን መዳረሻ ሊያጡ ወይም የማንነት ስርቆት ሊያጋጥመዎት ይችላሉ። WEB3 DNA Browser የይለፍ ቃልዎን አሁን እንዲቀይሩ ይመክራል።</translation>
 <translation id="7564680668369175887">ስቴሽን ዋቅገኖች</translation>
 <translation id="7567204685887185387">ይህ አገልጋይ <ph name="DOMAIN" /> መሆኑን ሊያረጋግጥ አልቻለም፤ የደህንነት እውቅና ማረጋገጫው በተጭበረበረ ሁኔታ ተሰጥቶ ሊሆን ይችላል። ይሄ በተሳሳተ አወቃቀር ወይም አንድ አጥቂ ግንኙነትዎን በመጥለፉ የተከሰተ ሊሆን ይችላል።</translation>
-<translation id="7568616151991626879">Google Chrome <ph name="APP_NAME" /> ላይ የይለፍ ቃልዎን ለመሙላት እየሞከረ ነው።</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser <ph name="APP_NAME" /> ላይ የይለፍ ቃልዎን ለመሙላት እየሞከረ ነው።</translation>
 <translation id="7569490014721427265">ጎልፍ</translation>
 <translation id="7569761772822664555">የፍለጋ ፕሮግራሞች ቁልፍን ያቀናብሩ፣ ነባሪ የፍለጋ ፕሮግራምዎን እና የጣቢያ ፍለጋዎን ለማቀናበር አስገባን ይጫኑ</translation>
-<translation id="7569952961197462199">ክሬዲት ካርድ ከChrome ይወገድ?</translation>
+<translation id="9202224267417193484">ክሬዲት ካርድ ከWEB3 DNA Browser ይወገድ?</translation>
 <translation id="7569983096843329377">ጥቁር</translation>
 <translation id="7575207903026901870">የአስተያየት ጥቆማ አስወግድ አዝራር፣ ይህን የአስተያየት ጥቆማ ለማስወገድ አስገባን ይጫኑ</translation>
 <translation id="7577900504646297215">ፍላጎቶችን አቀናብር</translation>
@@ -2591,15 +2581,15 @@
 <translation id="7600965453749440009"><ph name="LANGUAGE" />ን በጭራሽ አትተርጉም</translation>
 <translation id="7610193165460212391">እሴት ከክልል <ph name="VALUE" /> ውጭ ነው።</translation>
 <translation id="7613889955535752492">የሚያበቃበት ጊዜ፦ <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትር ይጫኑ በመቀጠል በChrome ቅንብሮች ውስጥ የእርስዎን የይለፍ ቃላት ለማየት እና ለማስተዳደር አስገባን ይጫኑ</translation>
-<translation id="7616645509853975347">የእርስዎ አስተዳዳሪ በአሳሽዎ ላይ የChrome Enterprise አገናኞችን አብርቷል። እነዚህ አገናኞች የአንዳንድ ውሂብዎ መዳረሻ አላቸው።</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትር ይጫኑ በመቀጠል በWEB3 DNA Browser ቅንብሮች ውስጥ የእርስዎን የይለፍ ቃላት ለማየት እና ለማስተዳደር አስገባን ይጫኑ</translation>
+<translation id="2698924724374512123">የእርስዎ አስተዳዳሪ በአሳሽዎ ላይ የWEB3 DNA Browser Enterprise አገናኞችን አብርቷል። እነዚህ አገናኞች የአንዳንድ ውሂብዎ መዳረሻ አላቸው።</translation>
 <translation id="7617825962482469577">ሲ7/ሲ6 ፖስታ</translation>
 <translation id="7619838219691048931">የመጨረሻ ሉህ</translation>
 <translation id="7625242817712715120">የአስተዳዳሪ መመሪያ ይህን ይዘት ማተምን አይመክርም።</translation>
 <translation id="762844065391966283">አንድ በአንድ</translation>
 <translation id="7631444403134069754">ትራክ እና ሜዳ</translation>
 <translation id="7633909222644580952">የአፈጻጸም ውሂብ እና የብልሽት ሪፖርቶች</translation>
-<translation id="7637571805876720304">ክሬዲት ካርድ ከChromium ይወገድ?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{ምንም}=1{በእርስዎ መለያ ውስጥ 1 የይለፍ ቃል (ለ<ph name="DOMAIN_LIST" />)}one{በእርስዎ መለያ ውስጥ # የይለፍ ቃላት (ለ<ph name="DOMAIN_LIST" />)}other{በእርስዎ መለያ ውስጥ # የይለፍ ቃላት (ለ<ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">ተከታታይ ወደቦች</translation>
 <translation id="7639968568612851608">ጠቆር ያለ ግራጫ</translation>
@@ -2623,7 +2613,7 @@
 <translation id="7673278391011283842">የመልዕክት ሳጥን 6</translation>
 <translation id="7675325315208090829">የክፍያ ዘዴዎችን ያስተዳድሩ...</translation>
 <translation id="7676643023259824263">የቅንጥብ ሰሌዳ ጽሁፍ <ph name="TEXT" /> ይፈልጉ</translation>
-<translation id="7679367271685653708">በChrome ቅንብሮች ውስጥ የአሰሳ ታሪክዎን ይመልከቱ እና ያቀናብሩ</translation>
+<translation id="7679367271685653708">በWEB3 DNA Browser ቅንብሮች ውስጥ የአሰሳ ታሪክዎን ይመልከቱ እና ያቀናብሩ</translation>
 <translation id="7679947978757153706">ቤዝቦል</translation>
 <translation id="7681273392938116652">ምናባዊ ስፖርቶች</translation>
 <translation id="7682287625158474539">ዕቃን የማጓጓዝ ስራ</translation>
@@ -2652,7 +2642,7 @@
 <translation id="7740996059027112821">መደበኛ</translation>
 <translation id="77424286611022110">ይህ ጣቢያ ረባሽ ወይም አሳሳች ማስታወቂያዎችን ያሳያል። <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">አደገኛ ይዘት ታግዷል።</translation>
-<translation id="7751971323486164747">በChrome ውስጥ የቅርጸ-ቁምፊ መጠኖችን እና መልከ ቁምፊዎችን ያብጁ</translation>
+<translation id="7751971323486164747">በWEB3 DNA Browser ውስጥ የቅርጸ-ቁምፊ መጠኖችን እና መልከ ቁምፊዎችን ያብጁ</translation>
 <translation id="7752995774971033316">አይቀናበርም</translation>
 <translation id="7755624218968747854">ዋና ጥቅልል</translation>
 <translation id="7758069387465995638">የኬላ ወይም የፀረ-ቫይረስ ሶፍትዌር ግንኙነቱን አግዶት ሊሆን ይችላል።</translation>
@@ -2675,7 +2665,7 @@
 <translation id="7805571567667010077">በእርስዎ ድርጅት የሚተዳደር</translation>
 <translation id="7805768142964895445">ሁኔታ</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">የአስተያየት ጥቆማ ከChrome ይወገድ?</translation>
+
 <translation id="781440967107097262">ቅንጥብ ሰሌዳ ይጋራ?</translation>
 <translation id="7815407501681723534">ለ«<ph name="SEARCH_STRING" />» <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> ተገኝተዋል።</translation>
 <translation id="7822320754433038727">ማደን እና ተኩስ</translation>
@@ -2710,8 +2700,8 @@
 <translation id="7943397946612013052">ማውረድ ታግዷል</translation>
 <translation id="7943893128817522649">ብዙ ፋይሎችን በራስ-ሰር ለማውረድ መጠየቅ ይችላል</translation>
 <translation id="7947285636476623132">የእርስዎን የአገልግሎት ማብቂያ ዓመት ይመልከቱ እና እንደገና ይሞክሩ</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ስለChrome ባህሪዎች ለማወቅ ትርን ከዚያ አስገባን ይጫኑ</translation>
-<translation id="7950027195171824198">በChrome ቅንብሮች ውስጥ የኩኪ ምርጫዎችዎን ያቀናብሩ</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ስለWEB3 DNA Browser ባህሪዎች ለማወቅ ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="7950027195171824198">በWEB3 DNA Browser ቅንብሮች ውስጥ የኩኪ ምርጫዎችዎን ያቀናብሩ</translation>
 <translation id="7951415247503192394">(32-ቢት)</translation>
 <translation id="7952192831285741665">የአውሮፓ EDP</translation>
 <translation id="7953569069500808819">ከላይ ጫፍን ስፋ</translation>
@@ -2726,7 +2716,7 @@
 <translation id="7981129096182302364">የዳንስ እና ኤሌክትሮኒክ ሙዚቃ</translation>
 <translation id="798134797138789862">ምናባዊ የእውነታ መሣሪያዎችን እና ውሂብን ለመጠቀም መጠየቅ ይችላል</translation>
 <translation id="7983008347525536475">ኤስዩቪዎች</translation>
-<translation id="7984945080620862648">ድር ጣቢያው Chrome ሊሰራባቸው የማይችላቸው የተዘበራረቁ ምስክርነቶችን ስለላከ <ph name="SITE" />ን አሁን መጎብኘት ይችላሉ። የአውታረ መረብ ስህተቶች እና ጥቃቶች አብዛኛው ጊዜ ጊዜያዊ ናቸው፣ ስለዚህ ይህ ገጽ በኋላ ላይ ሊሰራ ይችላል።</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">ጠርዝ</translation>
 <translation id="7992044431894087211">ከ <ph name="APPLICATION_TITLE" /> ጋር የማያ ገጽ መጋራት ከቆመበት ቀጥሏል</translation>
@@ -2759,7 +2749,7 @@
 <translation id="8057711352706143257">«<ph name="SOFTWARE_NAME" />» በአግባቡ አልተዋቀረም። «<ph name="SOFTWARE_NAME" />»ን ማራገፍ አብዛኛው ጊዜ ችግሩን ይፈታዋል። <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">የምግብ ማምረት</translation>
 <translation id="8066225060526005217">በኩኪዎች ቅንብሮች የሚተዳደር</translation>
-<translation id="8067872629359326442">አሁን የይለፍ ቃልዎን በአንድ አታላይ ጣቢያ ላይ አስገብተዋል። Chromium ሊያግዝ ይችላል። የእርስዎን የይለፍ ቃል ለመለወጥ እና የእርስዎ መለያ ስጋት ውስጥ እንዳለ ለGoogle ለማሳወቅ፣ መለያን ከጥቃት ተከላከል የሚለው ላይ ጠቅ ያድርጉ።</translation>
+
 <translation id="8070439594494267500">የመተግበሪያ አዶ</translation>
 <translation id="8075736640322370409">አዲስ Google ሉህ በፍጥነት ፍጠር</translation>
 <translation id="8075898834294118863">የጣቢያ ቅንብሮችን ያቀናብሩ</translation>
@@ -2789,7 +2779,7 @@
 <translation id="8116925261070264013">ድምፀ ከል ተደርጓል</translation>
 <translation id="8118489163946903409">የመክፈያ ዘዴ</translation>
 <translation id="8123046743443732598">የዴስክቶፕ ኮምፒውተሮች</translation>
-<translation id="8124639700796374294">የChrome አዝራርን ያብጁ፣ የአሳሽዎን ገጽታ ለማበጀት አስገባን ይጫኑ</translation>
+<translation id="8124639700796374294">የWEB3 DNA Browser አዝራርን ያብጁ፣ የአሳሽዎን ገጽታ ለማበጀት አስገባን ይጫኑ</translation>
 <translation id="8126056688005753476">የጀብድ ጉዞ</translation>
 <translation id="8127301229239896662">«<ph name="SOFTWARE_NAME" />» በእርስዎ ኮምፒውተር ወይም አውታረ መረብ ላይ በአግባቡ አልተጫነም። አስተዳዳሪዎ ይህን ችግር እንዲፈታ ይጠይቁ።</translation>
 <translation id="8131740175452115882">አረጋግጥ</translation>
@@ -2800,7 +2790,7 @@
 <translation id="8157295877370077682">ከጣቢያ ውጣ</translation>
 <translation id="8163866351304776260">በግራ በኩል አራቴ ብሳ</translation>
 <translation id="8175330382720204696">የመንግስት ደብዳቤ</translation>
-<translation id="8175796834047840627">እርስዎ በመለያ ስለገቡ Chrome ወደ የእርስዎ የGoogle መለያ ለማስቀመጥ አማራጭ እያቀረበ ነው። ይህን ባህሪ በቅንብሮች ውስጥ መለወጥ ይችላሉ።</translation>
+<translation id="8903986195054043594">እርስዎ በመለያ ስለገቡ WEB3 DNA Browser ወደ የእርስዎ የGoogle መለያ ለማስቀመጥ አማራጭ እያቀረበ ነው። ይህን ባህሪ በቅንብሮች ውስጥ መለወጥ ይችላሉ።</translation>
 <translation id="8176440868214972690">የዚህ መሣሪያ አስተዳዳሪ እንደ ቅንብሮች ወይም መመሪያዎች ላሉት ለሚከተሉት ድር ጣቢያዎች የተወሰነ መረጃ ልኳል።</translation>
 <translation id="8184538546369750125">ሁለንተናዊ ነባሪውን ተጠቀም (ፍቀድ)</translation>
 <translation id="8186706823560132848">ሶፍትዌር</translation>
@@ -2845,11 +2835,11 @@
 <translation id="8270242299912238708">የፒዲኤፍ ሰነዶች</translation>
 <translation id="8275952078857499577">ይህንን ጣቢያ ለመተርጎም አያቅርቡ</translation>
 <translation id="8277900682056760511">የክፍያ ቁጥጥር ሉህ ተከፍቷል</translation>
-<translation id="8279611986089885641">የChrome ማሳወቂያዎች መብራት አለባቸው። በ<ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" /> ውስጥ እነሱን ማብራት ይችላሉ።</translation>
+<translation id="2375797557832310962">የWEB3 DNA Browser ማሳወቂያዎች መብራት አለባቸው። በ<ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" /> ውስጥ እነሱን ማብራት ይችላሉ።</translation>
 <translation id="8280630997017109758">መሳቢያ 11</translation>
 <translation id="8281886186245836920">ዝለል</translation>
 <translation id="8282947398454257691">የእርስዎን ልዩ የመሣሪያ ለይቶ ማወቂያ ይወቁ</translation>
-<translation id="8284769179630993263">በChrome ቅንብሮች ውስጥ የጥንቃቄ አሰሳ እና ሌሎችንም ያቀናብሩ</translation>
+<translation id="8284769179630993263">በWEB3 DNA Browser ቅንብሮች ውስጥ የጥንቃቄ አሰሳ እና ሌሎችንም ያቀናብሩ</translation>
 <translation id="8286036467436129157">ግባ</translation>
 <translation id="8288807391153049143">የእውቅና ማረጋገጫን አሳይ</translation>
 <translation id="8289355894181816810">ይሄ ምን ማለት እንደሆነ እርግጠኛ ካልሆኑ የአውታረ መረብ አስተዳዳሪዎን ያግኙ።</translation>
@@ -2888,7 +2878,7 @@
 <translation id="8390725133630534698">ከ<ph name="ORIGIN_NAME" />ወደ <ph name="VM_NAME" /> ማጋራት በአስተዳዳሪ መመሪያ ታግዷል</translation>
 <translation id="8396522675989118466">ይህ በ<ph name="SIDE_OF_CARD" /> ላይ ያለው ባለ<ph name="NUMBER_OF_DIGITS" /> አሃዙ ኮድ ነው</translation>
 <translation id="8398790343843005537">ስልክዎን ያግኙ</translation>
-<translation id="8405579342203358118">በChrome ቅንብሮች ውስጥ ምን መረጃ እንደሚያሰምሩ ያቀናብሩ</translation>
+<translation id="8405579342203358118">በWEB3 DNA Browser ቅንብሮች ውስጥ ምን መረጃ እንደሚያሰምሩ ያቀናብሩ</translation>
 <translation id="8409413588194360210">የክፍያ ተቆጣጣሪዎች</translation>
 <translation id="8412145213513410671">ብልሽቶች (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">ተመሳሳዩ የይለፍ ሐረጉን ሁለት ጊዜ ማስገባት አለብዎት።</translation>
@@ -2899,7 +2889,7 @@
 <translation id="8427848540066057481">500 x 750 ሚሜ</translation>
 <translation id="8428213095426709021">ቅንብሮች</translation>
 <translation id="8428634594422941299">ገባኝ</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በChrome ቅንብሮች ውስጥ የኩኪ ምርጫዎችዎን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ በWEB3 DNA Browser ቅንብሮች ውስጥ የኩኪ ምርጫዎችዎን ለማቀናበር ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="8433057134996913067">ይህ ከአብዛኛዎቹ የድር ጣቢያዎች ዘግቶ ያስወጣዎታል።</translation>
 <translation id="8434840396568290395">የቤት እንስሳት</translation>
 <translation id="8437238597147034694">&amp;ውሰድን ቀልብስ</translation>
@@ -2919,12 +2909,12 @@
 <translation id="8473863474539038330">አድራሻዎች እና ተጨማሪ</translation>
 <translation id="8474910779563686872">የገንቢ ዝርዝሮችን አሳይ</translation>
 <translation id="8479754468255770962">ከታች ግራ በኩል ስቴፕለር ምታ</translation>
-<translation id="8483780878231876732">ከእርስዎ የGoogle መለያ ካርዶችን ለመጠቀም ወደ Chrome በመለያ ይግቡ</translation>
+<translation id="8483780878231876732">ከእርስዎ የGoogle መለያ ካርዶችን ለመጠቀም ወደ WEB3 DNA Browser በመለያ ይግቡ</translation>
 <translation id="8488350697529856933">የሚመለከተው ለ</translation>
 <translation id="8490137692873530638">ቁልል 10</translation>
 <translation id="8493948351860045254">ቦታ አስለቅቅ</translation>
 <translation id="8498891568109133222"><ph name="HOST_NAME" /> ምላሽ ለመስጠት ከልክ በላይ ረዥም ጊዜ ወስዷል።</translation>
-<translation id="8503559462189395349">የChrome ይለፍ ቃላት</translation>
+<translation id="1863492395079744896">የWEB3 DNA Browser ይለፍ ቃላት</translation>
 <translation id="8503813439785031346">የተጣቃሚ ስም</translation>
 <translation id="8507227106804027148">የትዕዛዝ መስመር</translation>
 <translation id="8508648098325802031">የፍለጋ አዶ</translation>
@@ -2932,8 +2922,8 @@
 <translation id="851353418319061866">የትክክለኝነት ፍተሻ</translation>
 <translation id="8513580896341796021">ማውረድ ተጀምሯል። እሱን ለማየት |<ph name="ACCELERATOR" />|ን ይጫኑ።</translation>
 <translation id="8519753333133776369">በአስተዳዳሪዎ የተፈቀደ የHID መሣሪያ</translation>
-<translation id="8522552481199248698">Chrome የGoogle መለያዎን እንዲጠብቁ እና የይለፍ ቃልዎን እንዲቀይሩት ያግዘዎታል።</translation>
-<translation id="8530813470445476232">የእርስዎን የአሰሳ ታሪክ፣ ኩኪዎች፣ መሸጎጫዎች እና ተጨማሪ በChrome ቅንብሮች ውስጥ ያጽዱ</translation>
+
+<translation id="8530813470445476232">የእርስዎን የአሰሳ ታሪክ፣ ኩኪዎች፣ መሸጎጫዎች እና ተጨማሪ በWEB3 DNA Browser ቅንብሮች ውስጥ ያጽዱ</translation>
 <translation id="853332391023689529">ፒካፕ መኪናዎች</translation>
 <translation id="8533619373899488139">የታገዱ የዩአርኤሎች ዝርዝር እና ሌሎች በሥርዓት አስተዳዳሪዎ አስገዳጅነት የተሰጣቸው መመሪያዎችን ለማየት &lt;strong&gt;chrome://policy&lt;/strong&gt;ን ይጎብኙ።</translation>
 <translation id="8539500321752640291">2 ፈቃዶች ይፈቀዱ?</translation>
@@ -2949,7 +2939,7 @@
 <translation id="8557066899867184262">CVC ከካርድዎ በስተጀርባ ላይ ይገኛል።</translation>
 <translation id="8559762987265718583">የእርስዎ መሣሪያ ቀን (<ph name="DATE_AND_TIME" />) ልክ ስላልሆነ ወደ <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> የግል ግንኙነት መመስረት አይቻልም።</translation>
 <translation id="8564182942834072828">የተለዩ ሰነዶች/ያልተጣመሩ ቅጂዎች</translation>
-<translation id="8564985650692024650">Chromium የእርስዎን የ<ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ይለፍ ቃል በሌሎች ጣቢያዎች ላይ ዳግም ከተጠቀሙበት እንደገና እንዲያዋቅሩት ይመክራል።</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser የእርስዎን የ<ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ይለፍ ቃል በሌሎች ጣቢያዎች ላይ ዳግም ከተጠቀሙበት እንደገና እንዲያዋቅሩት ይመክራል።</translation>
 <translation id="8576310925653847813">የቤት ትያትር ስርዓቶች</translation>
 <translation id="8577348305244205642">ምናባዊ ካርድ አይገኝም</translation>
 <translation id="858637041960032120">ስልክ ቁጥር ያክሉ
@@ -2982,7 +2972,7 @@
 <translation id="868922510921656628">ገጾች በስብስብብ</translation>
 <translation id="869891660844655955">የሚያበቀበት ጊዜ</translation>
 <translation id="8699041776323235191">የHID መሣሪያ</translation>
-<translation id="8699899385443889493">የChrome Dino ጨዋታ ቁልፍን ይጫወቱ፣ በChrome ውስጥ የDino አሂድ ጨዋታ ለመጫወት አስገባን ይጫኑ</translation>
+<translation id="8699899385443889493">የWEB3 DNA Browser Dino ጨዋታ ቁልፍን ይጫወቱ፣ በWEB3 DNA Browser ውስጥ የDino አሂድ ጨዋታ ለመጫወት አስገባን ይጫኑ</translation>
 <translation id="8699985386408839112">ካኩ 1 ፖስታ</translation>
 <translation id="8703575177326907206">ከ<ph name="DOMAIN" /> ጋር ያለዎት ግንኙነት አልተመሰጠረም</translation>
 <translation id="8705331520020532516">መለያ ቁጥር</translation>
@@ -2999,12 +2989,12 @@
 <translation id="8725066075913043281">እንደገና ይሞክሩ</translation>
 <translation id="8726549941689275341">የገጽ መጠን፦</translation>
 <translation id="8730621377337864115">ተከናውኗል</translation>
-<translation id="8731544501227493793">የይለፍ ቃላት አዝራርን ያቀናብሩ፣ የእርስዎን የይለፍ ቃላት በChrome ቅንብሮች ውስጥ ለማየት እና ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="8731544501227493793">የይለፍ ቃላት አዝራርን ያቀናብሩ፣ የእርስዎን የይለፍ ቃላት በWEB3 DNA Browser ቅንብሮች ውስጥ ለማየት እና ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="8734529307927223492">የእርስዎ <ph name="DEVICE_TYPE" /> በ<ph name="MANAGER" /> የሚተዳደር ነው</translation>
 <translation id="8736059027199600831">30 x 40 ኢንች</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትርን ይጫኑና ከዚያ በግል እንዲያስሱ ማንነት የማያሳውቅ ሁነታ መስኮት ለመክፈት አስገባን ይጫኑ</translation>
 <translation id="8737685506611670901"><ph name="PROTOCOL" /> አገናኞች በ<ph name="REPLACED_HANDLER_TITLE" /> ፈንታ ክፈት</translation>
-<translation id="8738058698779197622">ደህንነቱ የተጠበቀ ግንኙነት ለመመስረት፣ የእርስዎ ሰዓት በትክክል መቀናበር ያስፈልገዋል። ይህን የሆነበት ምክንያት የድር ጣቢያዎች ራሳቸውን ለማሳወቅ የሚጠቀሙባቸው የምስክር ወረቀቶች የሚሰሩት ለተወሰኑ ክፍለ ጊዜያቶች ብቻ ስለሆነ ነው። የእርስዎ መሣሪያ ሰዓት ልክ እንዳለመሆኑ መጠን Chromium እነዚህን ምስክር ወረቀቶች ሊያረጋግጣቸው አይችልም።</translation>
+
 <translation id="8740359287975076522">የ<ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;የዲኤንኤስ አድራሻ&lt;/abbr&gt; ሊገኝ አልተቻለም። ችግሩን በመመርመር ላይ።</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> የእርስዎ የ <ph name="ORIGIN" /> ኮድ ነው</translation>
 <translation id="874918643257405732">ይህን ትር ዕልባት ያድርጉት</translation>
@@ -3023,9 +3013,9 @@
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">ሞተርሳይክሎች</translation>
 <translation id="8790007591277257123">&amp;ሰርዝን ድገም</translation>
-<translation id="8792621596287649091">የ<ph name="ORG_NAME" /> መለያዎን መዳረሻ ሊያጡ ወይም የማንነት ስርቆት ሊያጋጥመዎት ይችላሉ። Chromium የይለፍ ቃልዎን አሁን እንዲቀይሩ ይመክራል።</translation>
+
 <translation id="8792626944327216835">ማይክሮፎን</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> የChrome Enterprise አገናኞችን በእርስዎ አሳሽ ላይ አብርቷል። እነዚህ አገናኞች የአንዳንድ ውሂብዎ መዳረሻ አላቸው።</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> የWEB3 DNA Browser Enterprise አገናኞችን በእርስዎ አሳሽ ላይ አብርቷል። እነዚህ አገናኞች የአንዳንድ ውሂብዎ መዳረሻ አላቸው።</translation>
 <translation id="8798099450830957504">እንደወረደ</translation>
 <translation id="8798739476508189189">የአሳሽ ጥቆማዎችን እየፈለጉ ነው? ይጎብኙ</translation>
 <translation id="8805819170075074995">የዝርዝር ግቤት «<ph name="LANGUAGE_ID" />»፦ ግቤት እንዲሁም በSpellcheckLanguage መመሪያው ላይ ስለተካተተ ችላ ተብሏል።</translation>
@@ -3033,7 +3023,7 @@
 <translation id="8807160976559152894">ከእያንዳንዱ ገጽ በኋላ ከርክም</translation>
 <translation id="8813277370772331957">ቆይተህ አስታውሰኝ</translation>
 <translation id="8814707942599948500">ሲ8 ፖስታ</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትርን ይጫኑ እና ከእርስዎ Chrome ቅንብሮች Chromeን ለማዘመን አስገባን ይጫኑ</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትርን ይጫኑ እና ከእርስዎ WEB3 DNA Browser ቅንብሮች WEB3 DNA Browserን ለማዘመን አስገባን ይጫኑ</translation>
 <translation id="8820817407110198400">ዕልባቶች</translation>
 <translation id="882338992931677877">ራስዎ የሚያስገቡበት ክፍተት</translation>
 <translation id="8830320733681313421">ሃጋኪ ፖስታ ካርድ</translation>
@@ -3047,7 +3037,7 @@
 <translation id="885306012106043620">ቴኒስ</translation>
 <translation id="8855742650226305367">ዳንስ</translation>
 <translation id="885730110891505394">ከGoogle ጋር ማጋራት</translation>
-<translation id="8858065207712248076">Chrome የእርስዎን የ<ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ይለፍ ቃል በሌሎች ጣቢያዎች ላይ ዳግም ከተጠቀሙበት እንደገና እንዲያዋቅሩት ይመክራል።</translation>
+
 <translation id="885906927438988819">የፊደል አጻጻፉ ትክክል ከሆነ <ph name="BEGIN_LINK" />የWindows አውታረ መረብ ምርመራን ለማስኬድ ይሞክሩ<ph name="END_LINK" />።</translation>
 <translation id="8866132857352163524">አጃቢ ሙዚቃ</translation>
 <translation id="8866481888320382733">የመምሪያ ቅንብሮችን መተንተን ላይ ስህተት</translation>
@@ -3067,7 +3057,7 @@
 <translation id="8903921497873541725">አጉላ</translation>
 <translation id="890493561996401738">የአስተያየት ጥቆማ አስወግድ አዝራር፣ ለማስወገድ አስገባን ይጫኑ፣ <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">የGoogle መለያ</translation>
-<translation id="8913778647360618320">የክፍያ ዘዴዎች አዝራርን ያቀናብሩ፣ የእርስዎን ክፍያዎች እና የክሬዲት ካርድ መረጃ በChrome ቅንብሮች ውስጥ ለማቀናበር አስገባን ይጫኑ</translation>
+<translation id="8913778647360618320">የክፍያ ዘዴዎች አዝራርን ያቀናብሩ፣ የእርስዎን ክፍያዎች እና የክሬዲት ካርድ መረጃ በWEB3 DNA Browser ቅንብሮች ውስጥ ለማቀናበር አስገባን ይጫኑ</translation>
 <translation id="8922013791253848639">ሁልጊዜ በዚህ ጣቢያ ላይ ማስታወቂያዎችን አሳይ</translation>
 <translation id="892588693504540538">ከላይ ቀኝ በኩል ብሳ</translation>
 <translation id="8930330541574156305">ሪል እስቴት</translation>
@@ -3088,7 +3078,7 @@
 <translation id="8975263830901772334">እርስዎ የሚያትሟቸው የፋይሎች ስም</translation>
 <translation id="8978053250194585037">Google የጥንቃቄ አሰሳ በቅርቡ በ<ph name="SITE" /> ላይ <ph name="BEGIN_LINK" />ማስገር አግኝቷል<ph name="END_LINK" />። የማስገር ጣቢያዎች እርስዎን ለማታለል ሌሎች ድር ጣቢያዎች እንደሆኑ ያስመስላሉ።</translation>
 <translation id="8983369100812962543">አሁን የመተግበሪያውን መጠን መለወጥ ይችላሉ</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ከዚያ በChrome ውስጥ የአሰሳ ታሪክዎን ለማየት ትርን ከዚያ አስገባን ይጫኑ</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ከዚያ በWEB3 DNA Browser ውስጥ የአሰሳ ታሪክዎን ለማየት ትርን ከዚያ አስገባን ይጫኑ</translation>
 <translation id="8987927404178983737">ወር</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">የስርዓት ስሪት እየፈለጉ ነው? ይጎብኙ</translation>
@@ -3135,19 +3125,19 @@
 <translation id="908796725011587895">የኮሌጅ ስፖርቶች</translation>
 <translation id="9089260154716455634">ከሰዓታት ውጭ መመሪያ፦</translation>
 <translation id="9095388113577226029">ተጨማሪ ቋንቋዎች...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ Chromeን በiOS ቅንብሮች ውስጥ እንደ የስርዓቱ ነባሪ አሳሽ ለማዋቀር ትርን ከዛ አስገባን ይጫኑ</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ WEB3 DNA Browserን በiOS ቅንብሮች ውስጥ እንደ የስርዓቱ ነባሪ አሳሽ ለማዋቀር ትርን ከዛ አስገባን ይጫኑ</translation>
 <translation id="9096679202588811390">የቲቪ ትርዒቶች እና ፕሮግራሞች</translation>
 <translation id="9101630580131696064">መሳቢያ 1</translation>
 <translation id="9102081333385212048">እርስዎ የቀዷቸው ወይም የወሰዷቸው ፋይሎች ለትንታኔ ወደ Google ደመና ወይም ሶስተኛ ወገኖች ይላካሉ። ለምሳሌ፣ አደጋን ሊያስከትል ለሚችል ውሂብ ወይም ተንኮል-አዘል ዌር ሊቃኙ ይችላሉ።</translation>
 <translation id="9103537084693478942">የቪዲዮ ሶፍትዌር</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> የእርስዎን መረጃ ለመጠበቅ በመደበኝነት ምስጠራን ይጠቀማል። Chromium አሁን ከ<ph name="SITE" /> ጋር ለመገናኘት ሲሞክር ድር ጣቢያው ያልተለመዱ እና ትክክል ያልሆኑ ምስክርነቶችን መልሷል። ይህ አንድ አጥቂ <ph name="SITE" />ን አስመስሎ ለመቅረብ ሲሞክር ነው ወይም አንድ የWi-Fi መግቢያ ገጽ ግንኙነቱን ሲቋረጥ ሊከሰት ይችላል። Chromium ማንኛውም የውሂብ ልውውጥ ከመካሄዱ በፊት ግንኙነቱን ስላቋረጠው አሁንም የእርስዎ መረጃ ደህንነት የተጠበቀ ነው።</translation>
+
 <translation id="9106062320799175032">የመክፈያ አድራሻ ያክሉ</translation>
 <translation id="9107467864910557787">የእርስዎ አሳሽ የሚተዳደረው በ<ph name="MANAGER" /> ነው</translation>
 <translation id="91108059142052966">ሚስጥራዊ ይዘት በሚታይበት ጊዜ የአስተዳዳሪ መመሪያ ከ <ph name="APPLICATION_TITLE" /> ጋር የማያ ገጽ መጋራትን ያሰናክላል</translation>
 <translation id="9114524666733003316">ካርድን በማረጋገጥ ላይ...</translation>
-<translation id="9114581008513152754">ይህ አሳሽ በኩባንያ ወይም ሌላ ድርጅት አይተዳደርም። በዚህ መሣሪያ ላይ ያለ እንቅስቃሴ ከChrome ውጭ ሊተዳደር ይችላል። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">አዲስ</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትርን ጠቅ ያድርጉ ከዚያ ጉዞዎን ከቆመበት ለመቀጠል ያስገቡ እና በChrome ታሪክዎ ውስጥ አግባብነት ያለው እንቅስቃሴን ይመልከቱ</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />፣ ትርን ጠቅ ያድርጉ ከዚያ ጉዞዎን ከቆመበት ለመቀጠል ያስገቡ እና በWEB3 DNA Browser ታሪክዎ ውስጥ አግባብነት ያለው እንቅስቃሴን ይመልከቱ</translation>
 <translation id="9119042192571987207">ተሰቅሏል</translation>
 <translation id="9122954576417194280">ምርቶች እና የግዢ/ሽያጭ ውል</translation>
 <translation id="9128016270925453879">መመሪያዎች ተጭነዋል</translation>
@@ -3162,7 +3152,7 @@
 <translation id="9148088599418889305">የመላኪያ ዘዴ ይምረጡ</translation>
 <translation id="9148507642005240123">&amp;አርትዕን ቀልብስ</translation>
 <translation id="9150045010208374699">ካሜራዎን ይጠቀማል</translation>
-<translation id="9150685862434908345">የእርስዎ አስተዳዳሪ በርቀት የአሳሽዎን ውቅረት መቀየር ይችላል። በዚህ መሣሪያ ላይ ያለ እንቅስቃሴ ከChrome ውጭም ሊስተዳደር ይችላል። <ph name="BEGIN_LINK" />የበለጠ ለመረዳት<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">የተዘመነ</translation>
 <translation id="9155211586651734179">የድምፅ መሳሪያዎች ተያይዘዋል</translation>
 <translation id="9157595877708044936">በማዋቀር ላይ…</translation>
@@ -3177,7 +3167,7 @@
 <translation id="917450738466192189">የአገልጋይ እውቅና ማረጋገጫ ልክ ያልኾነ ነው።</translation>
 <translation id="9174623988242579721">ብጁ እና የከፍተኛ ስራ ተሽከርካሪዎች</translation>
 <translation id="9174917557437862841">የማብሪያ ማጥፊያ አዝራር ትር፣ ወደዚህ ትር ለመቀየር Enter ይጫኑ</translation>
-<translation id="9179703756951298733">በChrome ቅንብሮች ውስጥ የእርስዎን ክፍያዎች እና የክሬዲት ካርድ መረጃ ያስተዳድሩ</translation>
+<translation id="9179703756951298733">በWEB3 DNA Browser ቅንብሮች ውስጥ የእርስዎን ክፍያዎች እና የክሬዲት ካርድ መረጃ ያስተዳድሩ</translation>
 <translation id="9179907736442194268">በማንኛውም ጣቢያ ላይ ዋጋው ቢቀንስ የኢሜይል ማንቂያዎችን ያግኙ</translation>
 <translation id="9183302530794969518">Google ሰነድ</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME" /> የማይጠቀም ፕሮቶኮል ይጠቀማል።</translation>
@@ -3188,12 +3178,12 @@
 <translation id="920511547311754821">ኮድዎን ማግኘት አልቻሉም? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">ጽሁፍ ማከል አልተቻለም።</translation>
 <translation id="9213433120051936369">ገጽታን ያብጁ</translation>
-<translation id="9215416866750762878">አንድ መተግበሪያ Chrome ከዚህ ጣቢያ ጋር ደህንነቱ በተጠበቀ ሁኔታ እንዳይገናኝ እያቆመው ነው</translation>
+<translation id="717994082075351832">አንድ መተግበሪያ WEB3 DNA Browser ከዚህ ጣቢያ ጋር ደህንነቱ በተጠበቀ ሁኔታ እንዳይገናኝ እያቆመው ነው</translation>
 <translation id="9219103736887031265">ምስሎች</translation>
-<translation id="922152298093051471">Chromeን አብጅ</translation>
+<translation id="922152298093051471">WEB3 DNA Browserን አብጅ</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">ቅጽን አጽዳ</translation>
-<translation id="936602727769022409">የGoogle መለያዎን መዳረሻ ሊያጡ ይችላሉ። Chromium የይለፍ ቃልዎን አሁኑኑ እንዲቀይሩት ይመክራል። በመለያ እንዲገቡ ይጠየቃሉ።</translation>
+
 <translation id="937457230470581909">መካነ አራዊት፣ የውሃ ማጠራቀሚያዎች እና ጥበቃዎች</translation>
 <translation id="939736085109172342">አዲስ ዓቃፊ</translation>
 <translation id="940053046584497293">ጉዞ እና መጓጓዣ</translation>

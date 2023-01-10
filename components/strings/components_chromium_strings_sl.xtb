@@ -2,11 +2,11 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="sl">
 <translation id="130631256467250065">Spremembe bodo uveljavljene pri naslednjem vnovičnem zagonu naprave.</translation>
-<translation id="275588974610408078">Poročanje o zrušitvah ni na voljo v Chromiumu.</translation>
-<translation id="3064346599913645280">Ogledujete si varno stran Chromiuma</translation>
-<translation id="358997566136285270">Logotip Chromiuma</translation>
-<translation id="4365115785552740256">Chromium omogočata odprtokodni projekt <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> in druga <ph name="BEGIN_LINK_OSS" />odprtokodna programska oprema<ph name="END_LINK_OSS" />.</translation>
-<translation id="4559775032954821361">Odprite
+<translation id="4791283969776588221">Poročanje o zrušitvah ni na voljo v Chromiumu.</translation>
+<translation id="2844608976961792034">Ogledujete si varno stran Chromiuma</translation>
+<translation id="1982446651380677046">Logotip Chromiuma</translation>
+<translation id="4523656775797881494">WEB3 DNA Browser omogočata odprtokodni projekt <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> in druga <ph name="BEGIN_LINK_OSS" />odprtokodna programska oprema<ph name="END_LINK_OSS" />.</translation>
+<translation id="4029636627665768575">Odprite
           meni Chromiuma &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
@@ -16,11 +16,11 @@
           &gt;
           Nastavitve lokalnega omrežja
           in počistite potrditveno polje »Uporabi namestniški strežnik za lokalno omrežje«.</translation>
-<translation id="4622039161600275920">To stran je blokiral Chromium.</translation>
-<translation id="48558539577516920">V nastavitvah požarnega zidu ali protivirusnega programa omogočite Chromiumu dostop do
+<translation id="7398528135240070983">To stran je blokiral WEB3 DNA Browser.</translation>
+<translation id="329184862608851407">V nastavitvah požarnega zidu ali protivirusnega programa omogočite Chromiumu dostop do
         omrežja.</translation>
 <translation id="4918837013875648434">Chromium OS ni dokončal začetne nastavitve.</translation>
-<translation id="580822234363523061">Odprite
+<translation id="7951541701556745073">Odprite
           meni Chromiuma &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
@@ -28,8 +28,8 @@
           &gt;
           <ph name="PROXIES_TITLE" />
           in poskrbite, da je konfiguracija nastavljena na »brez namestniškega strežnika« ali »neposredno«.</translation>
-<translation id="6613594504749178791">Spremembe bodo začele veljati ob naslednjem zagonu Chromiuma.</translation>
-<translation id="7861509383340276692">Odprite
+<translation id="8823298025665339355">Spremembe bodo začele veljati ob naslednjem zagonu Chromiuma.</translation>
+<translation id="5334530291357334686">Odprite
         meni Chromiuma &gt;
         <ph name="SETTINGS_TITLE" />
         &gt;
@@ -40,5 +40,5 @@
 <translation id="8187289872471304532">Odprite
           Aplikacije &gt; Sistemske nastavitve &gt; Omrežje &gt; Dodatno &gt; Namestniški strežniki
           in počistite polja z označenimi namestniškimi strežniki.</translation>
-<translation id="8684913864886094367">Chromium se ni pravilno zaustavil.</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser se ni pravilno zaustavil.</translation>
 </translationbundle>

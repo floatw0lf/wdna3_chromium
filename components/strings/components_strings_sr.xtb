@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">Наведите додатне детаље</translation>
 <translation id="1019413721762100891">Искључено</translation>
 <translation id="1021110881106174305">Прихваћене картице</translation>
-<translation id="1021753677514347426">Овај проблем се јавља због сертификата који сте ви или неко други инсталирали на уређају. Сертификат се користи за надгледање и пресретање мрежа и Chromium га не сматра поузданим. Иако постоје поједини оправдани разлози за надгледање, на пример на школској или пословној мрежи, Chromium жели да будете свесни да се то догађа, чак и ако то не можете да спречите. Надгледање је могуће у било ком прегледачу или апликацији која приступа вебу.</translation>
+<translation id="6843750610117699926">Овај проблем се јавља због сертификата који сте ви или неко други инсталирали на уређају. Сертификат се користи за надгледање и пресретање мрежа и WEB3 DNA Browser га не сматра поузданим. Иако постоје поједини оправдани разлози за надгледање, на пример на школској или пословној мрежи, WEB3 DNA Browser жели да будете свесни да се то догађа, чак и ако то не можете да спречите. Надгледање је могуће у било ком прегледачу или апликацији која приступа вебу.</translation>
 <translation id="1024111578869940408">Нападачи понекад имитирају сајтове тако што скоро неприметно измене веб-адресу.</translation>
 <translation id="1028781062521375153">Прикажи детаље</translation>
 <translation id="1030706264415084469"><ph name="URL" /> жели трајно да складишти велике количине података на уређају</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Опозови додавање</translation>
 <translation id="1056663316309890343">Софтвер за обраду фотографија</translation>
 <translation id="1056898198331236512">Упозорење</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте играли игру Диносаурус у Chrome-у</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте играли игру Диносаурус у WEB3 DNA Browser-у</translation>
 <translation id="1058479211578257048">Картице се чувају...</translation>
 <translation id="1060320201901229167">Коверта Kaku 5</translation>
 <translation id="10614374240317010">Никада се не чува</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Додајте име са картице</translation>
 <translation id="1089439967362294234">Промена лозинке</translation>
 <translation id="1096545575934602868">Ово поље не сме да има више од <ph name="MAX_ITEMS_LIMIT" /> уноса. Сви додатни уноси ће бити одбачени.</translation>
-<translation id="1100782917270858593">Дугме Наставите пут, притисните Enter да бисте наставили пут и видели релевантне активности у историји Chrome-а</translation>
+<translation id="3985486898664025513">Дугме Наставите пут, притисните Enter да бисте наставили пут и видели релевантне активности у историји WEB3 DNA Browser-а</translation>
 <translation id="1101672080107056897">Радња због грешке</translation>
 <translation id="1103523840287552314">Увек преводи <ph name="LANGUAGE" /></translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Унели сте лозинку на сајту којим не управља ваша организација. Да бисте заштитили налог, не користите лозинку поново у другим апликацијама ни на другим сајтовима.</translation>
 <translation id="1257553931232494454">нивои зумирања</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали подешавањима Chrome-а</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали подешавањима WEB3 DNA Browser-а</translation>
 <translation id="1263231323834454256">Листа за читање</translation>
 <translation id="1264309058268477500">Алтернативно</translation>
 <translation id="1264974993859112054">Спорт</translation>
@@ -131,7 +131,7 @@
 <translation id="1285320974508926690">Никад не преводи овај сајт</translation>
 <translation id="1288548991597756084">Безбедно сачувајте картицу</translation>
 <translation id="1292571435393770077">16. фиока</translation>
-<translation id="1292701964462482250">„Софтвер на вашем рачунару онемогућава Chrome-у да се безбедно повеже на веб“ (само на Windows рачунарима)</translation>
+<translation id="3610512443326918645">„Софтвер на вашем рачунару онемогућава WEB3 DNA Browser-у да се безбедно повеже на веб“ (само на Windows рачунарима)</translation>
 <translation id="1293797321964802402">Коверта 23×28 cm</translation>
 <translation id="1294154142200295408">Варијације командне линије</translation>
 <translation id="129553762522093515">Недавно затворено</translation>
@@ -150,7 +150,7 @@
 <translation id="1323433172918577554">Прикажи више</translation>
 <translation id="132390688737681464">Чувај и уноси адресе</translation>
 <translation id="1330449323196174374">Пресавијање на левој страни у облику прозора</translation>
-<translation id="1333745675627230582">Играјте игру Chrome диносаурус</translation>
+<translation id="6227572462599550594">Играјте игру WEB3 DNA Browser диносаурус</translation>
 <translation id="1333989956347591814">Активности ће <ph name="BEGIN_EMPHASIS" />можда ипак бити видљиве<ph name="END_EMPHASIS" /> за:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />веб-сајтове које посећујете
@@ -223,7 +223,7 @@
 <translation id="1483493594462132177">Пошаљи</translation>
 <translation id="1484290072879560759">Одаберите адресу за испоруку</translation>
 <translation id="1492194039220927094">Слање смерница:</translation>
-<translation id="149293076951187737">Када затворите све Chrome картице без архивирања, активност на тим картицама се брише са уређаја:
+<translation id="3175654283800723944">Када затворите све WEB3 DNA Browser картице без архивирања, активност на тим картицама се брише са уређаја:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Активности прегледања<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Историја претраге<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@
 <translation id="154408704832528245">Одаберите адресу за доставу</translation>
 <translation id="1549470594296187301">JavaScript мора да буде омогућен да бисте користили ову функцију.</translation>
 <translation id="1551884710160394169">Бесплатан и пробни софтвер</translation>
-<translation id="1553358976309200471">Ажурирај Chrome</translation>
+<translation id="1553358976309200471">Ажурирај WEB3 DNA Browser</translation>
 <translation id="1555130319947370107">Плава</translation>
 <translation id="1559447966090556585">Дозволићете слање обавештења?</translation>
 <translation id="1559528461873125649">Нема такве датотеке или директоријума</translation>
@@ -263,7 +263,7 @@
 <translation id="156703335097561114">Информације о мрежама попут адреса, конфигурације интерфејса и квалитета везе</translation>
 <translation id="1567040042588613346">Ове смернице раде као што је предвиђено, али иста вредност је подешена на другом месту и замењују је ове смернице.</translation>
 <translation id="1569487616857761740">Унесите датум истека</translation>
-<translation id="1569694109004336106">Google Chrome покушава да укључи Windows Hello за попуњавање лозинки.</translation>
+<translation id="8064078726251017937">WEB3 DNA Browser покушава да укључи Windows Hello за попуњавање лозинки.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" />x<ph name="HEIGHT" /> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Дошло је до грешке при приказивању ове веб-странице.</translation>
@@ -273,7 +273,7 @@
 <translation id="1594030484168838125">Одабери</translation>
 <translation id="1596296697375291157">Трилери, криминалистички филмови и филмови мистерије</translation>
 <translation id="1599199147673445968">Нова картица? <ph name="BEGIN_LINK" />Унесите податке о картици<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">Играјте игру Диносаурус у Chrome-у</translation>
+<translation id="160851722280695521">Играјте игру Диносаурус у WEB3 DNA Browser-у</translation>
 <translation id="161042844686301425">Плавозелена</translation>
 <translation id="1611101756749861742">Други котур</translation>
 <translation id="1615402009686901181">Смернице администратора онемогућавају снимање екрана када је видљив поверљив садржај</translation>
@@ -293,13 +293,13 @@
 <translation id="1642410292376109062">Дугме Промените Google лозинку, притисните Enter да бисте променили лозинку за Google налог</translation>
 <translation id="1644574205037202324">Историја</translation>
 <translation id="1645368109819982629">Неподржани протокол</translation>
-<translation id="1650602712345345441">Управљајте подешавањима Chrome-а</translation>
+<translation id="1650602712345345441">Управљајте подешавањима WEB3 DNA Browser-а</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">Chrome је поједноставио ову страницу ради лакшег читања. Chrome је преузео оригиналну страницу преко безбедне везе.</translation>
+<translation id="5043029585940149901">WEB3 DNA Browser је поједноставио ову страницу ради лакшег читања. WEB3 DNA Browser је преузео оригиналну страницу преко безбедне везе.</translation>
 <translation id="1656489000284462475">Преузимање</translation>
 <translation id="1658918301167915956">Bluetooth уређаји</translation>
 <translation id="1662550410081243962">Чувај и уноси начине плаћања</translation>
-<translation id="1663943134801823270">Картице и адресе су из Chrome-а. Њима можете да управљате у <ph name="BEGIN_LINK" />подешавањима<ph name="END_LINK" />.</translation>
+<translation id="716145566107023410">Картице и адресе су из WEB3 DNA Browser-а. Њима можете да управљате у <ph name="BEGIN_LINK" />подешавањима<ph name="END_LINK" />.</translation>
 <translation id="1671391448414634642">Странице на језику <ph name="SOURCE_LANGUAGE" /> се од сада преводе на <ph name="TARGET_LANGUAGE" />.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> на <ph name="TARGET_LANGUAGE" /></translation>
 <translation id="1682696192498422849">Прво кратка ивица</translation>
@@ -347,7 +347,7 @@
 <translation id="1757773103848038814">Фонт фиксне ширине</translation>
 <translation id="1763864636252898013">Овај сервер не може да докаже да је <ph name="DOMAIN" />; оперативни систем уређаја нема поверења у његов безбедносни сертификат. Узрок томе је можда погрешна конфигурација или нападач који је прекинуо везу.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Покушајте да покренете Windows дијагностику мреже<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Сазнајте више о режиму Без архивирања у Chromium-у<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />Сазнајте више о режиму Без архивирања у WEB3 DNA Browser-у<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Отворене картице се појављују овде</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -399,11 +399,11 @@
 <translation id="1919526244108283799">400×600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{None}=1{1 сајт}one{# сајт}few{# сајта}other{# сајтова}}</translation>
 <translation id="1924727005275031552">Ново</translation>
-<translation id="1927439593081478069">Дугме Покрените Chrome проверу безбедности, притисните Enter да бисте покренули проверу безбедности у Chrome подешавањима</translation>
+<translation id="1927439593081478069">Дугме Покрените WEB3 DNA Browser проверу безбедности, притисните Enter да бисте покренули проверу безбедности у WEB3 DNA Browser подешавањима</translation>
 <translation id="1935995810530254458">Ипак копирај</translation>
 <translation id="1939175642807587452">Може да тражи да шаље обавештења</translation>
 <translation id="1943994668912612445">Дизајн</translation>
-<translation id="1945968466830820669">Могли бисте да изгубите приступ налогу за организацију или би могло да дође до крађе идентитета. Chromium вам препоручује да одмах промените лозинку.</translation>
+<translation id="5087943717045213809">Могли бисте да изгубите приступ налогу за организацију или би могло да дође до крађе идентитета. WEB3 DNA Browser вам препоручује да одмах промените лозинку.</translation>
 <translation id="1946849748901605102">12×15 in</translation>
 <translation id="1947454675006758438">Спајање у горњем десном углу</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -426,8 +426,8 @@
 <translation id="2001146170449793414">{COUNT,plural, =1{ и још 1}one{и још #}few{и још #}other{и још #}}</translation>
 <translation id="2003709556000175978">Ресетујте лозинку</translation>
 <translation id="2003775180883135320">Четвороструко бушење на врху</translation>
-<translation id="201174227998721785">Управљајте дозволама и подацима сачуваним на различитим сајтовима у подешавањима Chrome-а</translation>
-<translation id="2019607688127825327">Дугме Прилагоди подешавања приступачности, притисните Enter да бисте персонализовали алатке за приступачност у подешавањима Chrome-а</translation>
+<translation id="201174227998721785">Управљајте дозволама и подацима сачуваним на различитим сајтовима у подешавањима WEB3 DNA Browser-а</translation>
+<translation id="2019607688127825327">Дугме Прилагоди подешавања приступачности, притисните Enter да бисте персонализовали алатке за приступачност у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="202224654587969958">12×19 in</translation>
 <translation id="2025115093177348061">Проширена реалност</translation>
 <translation id="2025186561304664664">Прокси је подешен да буде аутоматски конфигурисан.</translation>
@@ -444,7 +444,7 @@
 <translation id="2048261947532620704">Страница се преводи</translation>
 <translation id="205212645995975601">Роштиљ</translation>
 <translation id="2053111141626950936">Странице на језику <ph name="LANGUAGE" /> неће бити преведене.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Када је ова контрола укључена и статус је активан, Chrome одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира сваког дана.}=1{Када је ова контрола укључена и статус је активан, Chrome одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира сваког дана.}one{Када је ова контрола укључена и статус је активан, Chrome одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира на {NUM_DAYS} дан.}few{Када је ова контрола укључена и статус је активан, Chrome одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира на {NUM_DAYS} дана.}other{Када је ова контрола укључена и статус је активан, Chrome одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира на {NUM_DAYS} дана.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Када је ова контрола укључена и статус је активан, WEB3 DNA Browser одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира сваког дана.}=1{Када је ова контрола укључена и статус је активан, WEB3 DNA Browser одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира сваког дана.}one{Када је ова контрола укључена и статус је активан, WEB3 DNA Browser одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира на {NUM_DAYS} дан.}few{Када је ова контрола укључена и статус је активан, WEB3 DNA Browser одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира на {NUM_DAYS} дана.}other{Када је ова контрола укључена и статус је активан, WEB3 DNA Browser одређује велику групу људи, или кохорту, којој су ваше недавне активности прегледања најсличније. Оглашавачи могу да бирају огласе за групу и ваше активности прегледања остају приватне на уређају. Група се ажурира на {NUM_DAYS} дана.}}</translation>
 <translation id="2059202684901022309">22×34 in</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 предлог}one{# предлог}few{# предлога}other{# предлога}}</translation>
 <translation id="2066915425250589881">затражите брисање</translation>
@@ -457,9 +457,9 @@
 <translation id="20817612488360358">Подешено је да се користе системска подешавања проксија, али је наведена експлицитна конфигурација проксија.</translation>
 <translation id="2082238445998314030"><ph name="RESULT_NUMBER" />. од <ph name="TOTAL_RESULTS" /> резултата</translation>
 <translation id="2085876078937250610">Сачувај…</translation>
-<translation id="2088086323192747268">Дугме Управљајте синхронизацијом, притисните Enter да бисте управљали тиме које информације синхронизујете у подешавањима Chrome-а</translation>
+<translation id="2088086323192747268">Дугме Управљајте синхронизацијом, притисните Enter да бисте управљали тиме које информације синхронизујете у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="2091887806945687916">Звук</translation>
-<translation id="2093982008204312032">Google Chrome покушава да искључи Windows Hello за попуњавање лозинки.</translation>
+<translation id="2399368725255444543">WEB3 DNA Browser покушава да искључи Windows Hello за попуњавање лозинки.</translation>
 <translation id="2094505752054353250">Домени се не подударају</translation>
 <translation id="2099652385553570808">Троструко спајање на левој страни</translation>
 <translation id="2101225219012730419">Верзија:</translation>
@@ -543,9 +543,9 @@
 <translation id="2292556288342944218">Приступ интернету је блокиран</translation>
 <translation id="2293443924986248631">Када је ова опција укључена, сајтови не могу да користе колачиће који вас прате на вебу. Функције на неким сајтовима могу да престану са радом.</translation>
 <translation id="2295290966866883927">URL-ови страница које посећујете се шаљу у Google Cloud или трећим странама на анализу. На пример, можда ће бити скенирани да би се открили небезбедни веб-сајтови.</translation>
-<translation id="2298855485018661510">Дугме Управљајте колачићима, притисните Enter да бисте управљали подешавањима колачића у подешавањима Chrome-а</translation>
+<translation id="2298855485018661510">Дугме Управљајте колачићима, притисните Enter да бисте управљали подешавањима колачића у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="2300306941146563769">Није отпремљено</translation>
-<translation id="2316159751672436664">Персонализујте алатке за приступачност у подешавањима Chrome ОС-а</translation>
+<translation id="2316159751672436664">Персонализујте алатке за приступачност у подешавањима WEB3 DNA Browser ОС-а</translation>
 <translation id="2316887270356262533">Ослобађа мање од 1 MB. Неки сајтови ће се можда спорије учитавати кад их следећи пут посетите.</translation>
 <translation id="2317259163369394535"><ph name="DOMAIN" /> захтева корисничко име и лозинку.</translation>
 <translation id="2318594867107319532">Последња временска ознака смерница:</translation>
@@ -571,9 +571,9 @@
 <translation id="236340516568226369">Мени за промену величине</translation>
 <translation id="2367567093518048410">Ниво</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Персонализујте алатке за приступачност у подешавањима Chrome-а</translation>
+<translation id="2383455408879745299">Персонализујте алатке за приступачност у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="2384307209577226199">Подразумеване смернице за предузеће</translation>
-<translation id="2385809941344967209">Ажурирајте Chrome помоћу подешавања Chrome-а</translation>
+<translation id="2385809941344967209">Ажурирајте WEB3 DNA Browser помоћу подешавања WEB3 DNA Browser-а</translation>
 <translation id="2386255080630008482">Сертификат сервера је опозван.</translation>
 <translation id="239293030466334554">Кабриолети</translation>
 <translation id="2392959068659972793">Прикажи смернице без подешених вредности</translation>
@@ -592,7 +592,7 @@
 <translation id="2463739503403862330">Попуни</translation>
 <translation id="2465655957518002998">Одаберите начин доставе</translation>
 <translation id="2465688316154986572">Спајање</translation>
-<translation id="2465914000209955735">Управљајте фајловима које сте преузели у Chrome-у</translation>
+<translation id="2465914000209955735">Управљајте фајловима које сте преузели у WEB3 DNA Browser-у</translation>
 <translation id="2466004615675155314">Приказује информације са веба</translation>
 <translation id="2467272921457885625">Хардверске спецификације уређаја и статистика, на пример, историја коришћења процесора или RAM-а</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />да покренете дијагностику мреже<ph name="END_LINK" /></translation>
@@ -609,7 +609,7 @@
 <translation id="2505268675989099013">Заштити налог</translation>
 <translation id="2509167091171468975">Малопродајни објекти са храном и намирницама</translation>
 <translation id="2512101340618156538">Није дозвољено (подразумевано)</translation>
-<translation id="2512413427717747692">Дугме Подеси Chrome као подразумевани прегледач, притисните Enter да бисте подесили Chrome као подразумевани прегледач система у подешавањима iOS-а</translation>
+<translation id="2512413427717747692">Дугме Подеси WEB3 DNA Browser као подразумевани прегледач, притисните Enter да бисте подесили WEB3 DNA Browser као подразумевани прегледач система у подешавањима iOS-а</translation>
 <translation id="2515629240566999685">да проверите сигнал у својој области</translation>
 <translation id="2515761554693942801">Одабрали сте да се верификујете помоћу Touch ID-а на веб-сајтовима који користе <ph name="PROVIDER_ORIGIN" />. Овај добављач је можда сачувао информације о начину плаћања, за који можете да <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Спајање у доњем десном углу</translation>
@@ -626,7 +626,7 @@
 <translation id="2542106216580219892">Сурфовање</translation>
 <translation id="2544546346215446551">Администратор је рестартовао уређај</translation>
 <translation id="2544644783021658368">Један документ</translation>
-<translation id="254524874071906077">Постави Chrome као подразумевани прегледач</translation>
+<translation id="1319028298140338735">Постави WEB3 DNA Browser као подразумевани прегледач</translation>
 <translation id="2546283357679194313">Колачићи и подаци о сајтовима</translation>
 <translation id="2547466893236767989">Веб-дизајн и програмирање</translation>
 <translation id="254947805923345898">Вредност смерница није важећа.</translation>
@@ -641,19 +641,19 @@
 <translation id="2570734079541893434">Управљајте подешавањима</translation>
 <translation id="2573834589046842510">Штампарство и издаваштво</translation>
 <translation id="257674075312929031">Група</translation>
-<translation id="2576880857912732701">Дугме Управљајте безбедносним подешавањима, притисните Enter да бисте управљали Безбедним прегледањем и другим садржајем у подешавањима Chrome-а</translation>
+<translation id="2576880857912732701">Дугме Управљајте безбедносним подешавањима, притисните Enter да бисте управљали Безбедним прегледањем и другим садржајем у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="2586657967955657006">Меморија</translation>
 <translation id="2587730715158995865">Од издавача <ph name="ARTICLE_PUBLISHER" />. Прочитајте овај чланак вести и још <ph name="OTHER_ARTICLE_COUNT" /> чланака.</translation>
 <translation id="2587841377698384444">ИД API-ја за директоријуме:</translation>
 <translation id="2594318783181750337">Брзи веб-приказ:</translation>
 <translation id="2595719060046994702">Овим уређајем и налогом не управља компанија нити друга организација.</translation>
-<translation id="2596415276201385844">Да бисте успоставили безбедну везу, сат на уређају мора да буде тачан. То је зато што сертификати које веб-сајтови користе за идентификацију важе само одређени временски период. Пошто сат на вашем уређају није тачан, Chrome не може да верификује ове сертификате.</translation>
+<translation id="7968235694092767490">Да бисте успоставили безбедну везу, сат на уређају мора да буде тачан. То је зато што сертификати које веб-сајтови користе за идентификацију важе само одређени временски период. Пошто сат на вашем уређају није тачан, WEB3 DNA Browser не може да верификује ове сертификате.</translation>
 <translation id="2597378329261239068">Овај документ је заштићен лозинком. Унесите лозинку.</translation>
 <translation id="259821504105826686">Фотографска и дигитална уметност</translation>
 <translation id="2601150049980261779">Љубавни филмови</translation>
 <translation id="2604589665489080024">Поп музика</translation>
 <translation id="2610561535971892504">Кликните да бисте копирали</translation>
-<translation id="2617988307566202237">Chrome <ph name="BEGIN_EMPHASIS" />не чува<ph name="END_EMPHASIS" /> следеће информације:
+<translation id="6174516088921923215">WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />не чува<ph name="END_EMPHASIS" /> следеће информације:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />историју прегледања
           <ph name="LIST_ITEM" />колачиће и податке о сајтовима
@@ -661,14 +661,14 @@
         <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Сат вам жури</translation>
 <translation id="262745152991669301">Може да тражи да се повезује са USB уређајима</translation>
-<translation id="2629325967560697240">Да бисте добили највиши ниво заштите у Chrome-у, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />укључите побољшану заштиту<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">Да бисте добили највиши ниво заштите у WEB3 DNA Browser-у, <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />укључите побољшану заштиту<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">Нисмо успели да пронађемо IP адресу сервера хоста <ph name="HOST_NAME" />.</translation>
 <translation id="2639739919103226564">Статус:</translation>
 <translation id="2643134278432436513">Нега косе</translation>
 <translation id="2647852283046201479">Стратешке игре</translation>
 <translation id="264810637653812429">Није пронађен ниједан компатибилан уређај.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте обрисали историју прегледања, колачиће, кеш и друго у подешавањима Chrome-а</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте обрисали историју прегледања, колачиће, кеш и друго у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="2650446666397867134">Приступ датотеци је одбијен</translation>
 <translation id="2653659639078652383">Пошаљи</translation>
 <translation id="2657637947725373811">{0,plural, =1{Желите да пренесете поверљив фајл?}one{Желите да пренесете поверљиве фајлове?}few{Желите да пренесете поверљиве фајлове?}other{Желите да пренесете поверљиве фајлове?}}</translation>
@@ -696,11 +696,11 @@
 <translation id="2705137772291741111">Сачувана (кеширана) копија овог сајта није могла да се чита.</translation>
 <translation id="2709516037105925701">Аутоматско попуњавање</translation>
 <translation id="2713444072780614174">Бела</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали плаћањима и информацијама о кредитним картицама у подешавањима Chrome-а</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали плаћањима и информацијама о кредитним картицама у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="2715808615350965923">Super A</translation>
 <translation id="271663710482723385">Притисните |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />| да бисте изашли из режима целог екрана</translation>
 <translation id="2721148159707890343">Захтев је успео</translation>
-<translation id="2723669454293168317">Покрените проверу безбедности у Chrome подешавањима</translation>
+<translation id="2723669454293168317">Покрените проверу безбедности у WEB3 DNA Browser подешавањима</translation>
 <translation id="2726001110728089263">Бочна фиока</translation>
 <translation id="2728127805433021124">Сертификат сервера је потписан слабим алгоритмом.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />да покренете дијагностику везе<ph name="END_LINK" /></translation>
@@ -740,7 +740,7 @@
 <translation id="287596039013813457">Пријатељски</translation>
 <translation id="28761159517501904">Филмови</translation>
 <translation id="2876489322757410363">Напустићете режим без архивирања да бисте платили у спољној апликацији. Желите ли да наставите?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали Безбедним прегледањем и другим садржајем у подешавањима Chrome-а</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали Безбедним прегледањем и другим садржајем у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="2878197950673342043">Пресавијање у облику постера</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Желите ли да сачувате картицу?</translation>
@@ -752,7 +752,7 @@
 <translation id="290376772003165898">Ова страница није на језику <ph name="LANGUAGE" />?</translation>
 <translation id="2909946352844186028">Откривена је промена на мрежи.</translation>
 <translation id="2911973620368911614">ИД корисника за рачуноводствени задатак</translation>
-<translation id="2914160345369867329"><ph name="SITE" /> обично користи шифровање да би заштитио информације. Када је Chrome овог пута покушао да се повеже са <ph name="SITE" />, веб-сајт је вратио необичне и нетачне акредитиве. Или нападач покушава да се представи као <ph name="SITE" /> или је екран за WiFi пријављивање прекинуо везу. Информације су и даље безбедне зато што је Chrome прекинуо везу пре него што су размењени било какви подаци.</translation>
+<translation id="6754677106668042373"><ph name="SITE" /> обично користи шифровање да би заштитио информације. Када је WEB3 DNA Browser овог пута покушао да се повеже са <ph name="SITE" />, веб-сајт је вратио необичне и нетачне акредитиве. Или нападач покушава да се представи као <ph name="SITE" /> или је екран за WiFi пријављивање прекинуо везу. Информације су и даље безбедне зато што је WEB3 DNA Browser прекинуо везу пре него што су размењени било какви подаци.</translation>
 <translation id="2915068235268646559">Извештај о отказивању од <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Сликање</translation>
 <translation id="2916038427272391327">Затворите друге програме</translation>
@@ -769,7 +769,7 @@
 <translation id="2943895734390379394">Време отпремања:</translation>
 <translation id="2945026002409061480">Онлајн заједнице</translation>
 <translation id="2948083400971632585">На страници Подешавања можете да онемогућите све проксије конфигурисане за везу.</translation>
-<translation id="2949183777371959169">Занемарено зато што машина није регистрована за управљање клаудом у прегледачу Chrome.</translation>
+<translation id="7786089409521529641">Занемарено зато што машина није регистрована за управљање клаудом у прегледачу WEB3 DNA Browser.</translation>
 <translation id="2951588413176968965">Моје поштанско сандуче</translation>
 <translation id="2952820037279740115">Затвори све прозоре без архивирања</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -783,7 +783,7 @@
 <translation id="2977665033722899841"><ph name="ROW_NAME" />, тренутно изабрано. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Опера</translation>
 <translation id="2983666748527428214">Отвори картицу без архивирања</translation>
-<translation id="2985306909656435243">Ако омогућите ову опцију, Chromium ће складиштити копију картице на овом уређају ради бржег попуњавања образаца.</translation>
+<translation id="6458065442802745995">Ако омогућите ову опцију, WEB3 DNA Browser ће складиштити копију картице на овом уређају ради бржег попуњавања образаца.</translation>
 <translation id="2985398929374701810">Унесите важећу адресу</translation>
 <translation id="2986368408720340940">Овај начин преузимања није доступан. Испробајте неки други начин.</translation>
 <translation id="2987034854559945715">Нема функција које се подударају</translation>
@@ -805,7 +805,7 @@
 <translation id="3037177537145227281">Прати се цена</translation>
 <translation id="3037605927509011580">О, не!</translation>
 <translation id="3041612393474885105">Информације о сертификату</translation>
-<translation id="305162504811187366">Историја Chrome удаљеног рачунара, укључујући временске ознаке, ИД-еве сесија хостова и клијената</translation>
+<translation id="6009592758194948058">Историја WEB3 DNA Browser удаљеног рачунара, укључујући временске ознаке, ИД-еве сесија хостова и клијената</translation>
 <translation id="3052964831964880138">Снижење од <ph name="PRICE_DROP" /> за:<ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Услуга крпљења</translation>
 <translation id="306573536155379004">Игра је покренута.</translation>
@@ -853,7 +853,7 @@
 <translation id="3194737229810486521"><ph name="URL" /> жели да трајно складишти податке на уређају</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> на: <ph name="SERVER_NAME" /></translation>
 <translation id="3197136577151645743">Може да тражи да зна када активно користите уређај</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали тиме које информације синхронизујете у подешавањима Chrome-а</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали тиме које информације синхронизујете у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="320323717674993345">Откажи плаћање</translation>
 <translation id="3203366800380907218">Са веба</translation>
 <translation id="3207960819495026254">Обележено</translation>
@@ -877,7 +877,7 @@
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте прилагодили изглед прегледача</translation>
 <translation id="3240791268468473923">Отворено је обавештење да нема акредитива који се подударају за безбедно плаћање</translation>
 <translation id="324180406144491771">Линкови хоста <ph name="HOST_NAME" /> су блокирани</translation>
-<translation id="3248611290851046188">Овај сајт дефинише интересовања која други сајтови могу да користе да би вам приказивали огласе. Овај сајт такође прима податке о вашим интересовањима из Chrome-а да би вам приказивао релевантније огласе.</translation>
+<translation id="8141792378421105106">Овај сајт дефинише интересовања која други сајтови могу да користе да би вам приказивали огласе. Овај сајт такође прима податке о вашим интересовањима из WEB3 DNA Browser-а да би вам приказивао релевантније огласе.</translation>
 <translation id="3249151924975132674">Студентски кредити и стипендирање</translation>
 <translation id="3249845759089040423">Хипи</translation>
 <translation id="3250640885957938546">Оглашавање и маркетинг</translation>
@@ -887,7 +887,7 @@
 <translation id="3256863843508922226">Пензионисање</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте брзо направили нов догађај у Google календару</translation>
 <translation id="3261488570342242926">Сазнајте више о виртуелним картицама</translation>
-<translation id="3264837738038045344">Дугме за управљање подешавањима Chrome-а, притисните Enter да бисте посетили подешавања Chrome-а</translation>
+<translation id="3264837738038045344">Дугме за управљање подешавањима WEB3 DNA Browser-а, притисните Enter да бисте посетили подешавања WEB3 DNA Browser-а</translation>
 <translation id="3266793032086590337">Вредност (неусаглашена)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Нема блокираних сајтова, укључујући сродне сајтове}=1{1 сајт је блокиран, укључујући сродне сајтове}one{# сајт је блокиран, укључујући сродне сајтове}few{# сајта су блокирана, укључујући сродне сајтове}other{# сајтова је блокирано, укључујући сродне сајтове}}</translation>
 <translation id="3268451620468152448">Отворене картице</translation>
@@ -901,7 +901,7 @@
 <translation id="3287510313208355388">Преузми када сам онлајн</translation>
 <translation id="3288238092761586174"><ph name="URL" /> треба да обави додатне кораке ради потврде плаћања</translation>
 <translation id="3293642807462928945">Сазнајте више о смерницама <ph name="POLICY_NAME" /></translation>
-<translation id="3295444047715739395">Прегледајте лозинке и управљајте њима у подешавањима Chrome-а</translation>
+<translation id="3295444047715739395">Прегледајте лозинке и управљајте њима у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="3299098170013242198">Windows Hello је укључен за попуњавање лозинки</translation>
 <translation id="3303176609391916566">30×42 in</translation>
 <translation id="3303855915957856445">Нису пронађени резултати претраге</translation>
@@ -931,9 +931,9 @@
 <translation id="3366477098757335611">Прикажи картице</translation>
 <translation id="3369192424181595722">Грешка на сату</translation>
 <translation id="3369459162151165748">Делови и опрема за возила</translation>
-<translation id="3371064404604898522">Подеси Chrome као подразумевани прегледач</translation>
+<translation id="3371064404604898522">Подеси WEB3 DNA Browser као подразумевани прегледач</translation>
 <translation id="337363190475750230">Онемогућен је</translation>
-<translation id="3375754925484257129">Покрени Chrome проверу безбедности</translation>
+<translation id="3375754925484257129">Покрени WEB3 DNA Browser проверу безбедности</translation>
 <translation id="3377144306166885718">Сервер користи застарелу верзију TLS-а.</translation>
 <translation id="3377188786107721145">Грешка при рашчлањивању смерница</translation>
 <translation id="3377736046129930310">Користите закључавање екрана за бржу потврду картица</translation>
@@ -957,7 +957,7 @@
 <translation id="3423742043356668186">Наведени систем</translation>
 <translation id="3427092606871434483">Дозволи (подразумевано)</translation>
 <translation id="3427342743765426898">&amp;Понови измену</translation>
-<translation id="342781501876943858">Chromium вам препоручује да ресетујете лозинку ако сте је користили на другим сајтовима.</translation>
+<translation id="6443314628900752956">WEB3 DNA Browser вам препоручује да ресетујете лозинку ако сте је користили на другим сајтовима.</translation>
 <translation id="3428151540071562330">Један или више URI-ја шаблона DnsOverHttpsTemplates сервера су неважећи и неће се користити.</translation>
 <translation id="3431216045099978607">Притисните |<ph name="ACCELERATOR" />| да бисте изашли из режима целог екрана и видели преузимање.</translation>
 <translation id="3431636764301398940">Сачувај ову картицу на овом уређају</translation>
@@ -979,7 +979,7 @@
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте затворили све прозоре без архивирања који су тренутно отворени</translation>
 <translation id="3477679029130949506">Листе филмова и репертоари биоскопа</translation>
 <translation id="3479552764303398839">Не сада</translation>
-<translation id="3484560055331845446">Могли бисте да изгубите приступ Google налогу. Chrome препоручује да одмах промените лозинку. Мораћете да се пријавите.</translation>
+<translation id="2148205384604312372">Могли бисте да изгубите приступ Google налогу. WEB3 DNA Browser препоручује да одмах промените лозинку. Мораћете да се пријавите.</translation>
 <translation id="3484861421501147767">Подсетник: Доступан је сачувани промотивни кôд</translation>
 <translation id="3487845404393360112">4. фиока</translation>
 <translation id="3495081129428749620">Пронађите на страници
@@ -988,7 +988,7 @@
 <translation id="3507936815618196901">Прави 3D мапу окружења и прати положај камере</translation>
 <translation id="3512163584740124171">Ове смернице су занемарене јер друге смернице из исте групе смерница имају предност.</translation>
 <translation id="3515972145999192222">Организација је блокирала <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> зато што крши смернице. <ph name="BEGIN_LEARN_MORE_LINK" />Сазнајте више<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="35172538073169599">Дугме Управљајте адресама, притисните Enter да бисте додали адресе и управљали њима у подешавањима Chrome-а</translation>
+<translation id="35172538073169599">Дугме Управљајте адресама, притисните Enter да бисте додали адресе и управљали њима у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="3518941727116570328">Обрада више предмета</translation>
 <translation id="3525130752944427905">10×14 in</translation>
 <translation id="3528171143076753409">Сертификат сервера није поуздан.</translation>
@@ -1015,7 +1015,7 @@
 <translation id="3576616784287504635">Уграђена страница на <ph name="SITE" /> наводи:</translation>
 <translation id="3577473026931028326">Дошло је до грешке. Пробајте поново.</translation>
 <translation id="3577902790357386792">Гимнастика</translation>
-<translation id="3581089476000296252">Chrome ће вас обавестити када ова страница буде спремна. &lt;a&gt;Откажи&lt;/a&gt;</translation>
+<translation id="8000957821693253206">WEB3 DNA Browser ће вас обавестити када ова страница буде спремна. &lt;a&gt;Откажи&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Додајте име</translation>
 <translation id="3583757800736429874">&amp;Понови премештање</translation>
 <translation id="3584299510153766161">Двоструко бушење на дну</translation>
@@ -1030,7 +1030,7 @@
 <translation id="3611317423880285981">Кућне потрепштине</translation>
 <translation id="3614103345592970299">Величина 2</translation>
 <translation id="361438452008624280">Унос на листи „<ph name="LANGUAGE_ID" />“: непознат или неподржан језик.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте покренули проверу безбедности у Chrome подешавањима</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте покренули проверу безбедности у WEB3 DNA Browser подешавањима</translation>
 <translation id="3615877443314183785">Унесите важећи датум истека</translation>
 <translation id="36224234498066874">Обриши податке прегледања...</translation>
 <translation id="362276910939193118">Прикажи комплетну историју</translation>
@@ -1041,9 +1041,9 @@
 <translation id="3631244953324577188">Биометрија</translation>
 <translation id="3632503704576938756">Дељење садржаја екрана је настављено</translation>
 <translation id="3632892046558972264">Дељење садржаја екрана је паузирано</translation>
-<translation id="3633738897356909127">Дугме Ажурирај Chrome, притисните Enter да бисте ажурирали Chrome из подешавања Chrome-а</translation>
+<translation id="3633738897356909127">Дугме Ажурирај WEB3 DNA Browser, притисните Enter да бисте ажурирали WEB3 DNA Browser из подешавања WEB3 DNA Browser-а</translation>
 <translation id="3634530185120165534">5. фиока</translation>
-<translation id="3634567936866541746">Управо сте унели лозинку на обмањујућем сајту. Да бисте заштитили налоге, Chrome препоручује да проверите сачуване лозинке.</translation>
+<translation id="6586777830476909681">Управо сте унели лозинку на обмањујућем сајту. Да бисте заштитили налоге, WEB3 DNA Browser препоручује да проверите сачуване лозинке.</translation>
 <translation id="3642638418806704195">Апликација:</translation>
 <translation id="3647286794400715637">Унос сваког стринга URL-а мора да садржи између 1 и 2 URL-а.</translation>
 <translation id="3650584904733503804">Потврда ваљаности је успела</translation>
@@ -1087,7 +1087,7 @@
 <translation id="3740319564441798148">Међународни аутобуски и железнички превоз</translation>
 <translation id="3744111561329211289">Синхронизација у позадини</translation>
 <translation id="3744286742364977428">Фајлови које преузмете се шаљу у Google Cloud или трећим странама на анализу. На пример, можда ће бити скенирани у потрази за осетљивим подацима или малвером и могу да се чувају на основу смерница предузећа.</translation>
-<translation id="3744899669254331632">Тренутно не можете да посетите <ph name="SITE" /> јер је веб-сајт послао кодиране акредитиве које Chromium не може да обради. Грешке на мрежи и напади су углавном привремени, па ће страница вероватно прорадити касније.</translation>
+<translation id="3461179235677384837">Тренутно не можете да посетите <ph name="SITE" /> јер је веб-сајт послао кодиране акредитиве које WEB3 DNA Browser не може да обради. Грешке на мрежи и напади су углавном привремени, па ће страница вероватно прорадити касније.</translation>
 <translation id="3745099705178523657">Када будете потврдили, подаци о картици са Google налога ће се делити са овим сајтом.</translation>
 <translation id="3748148204939282805">Нападачи на <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> могу да вас наведу да урадите нешто опасно, на пример, да инсталирате софтвер или откријете личне податке (попут лозинки, бројева телефона или бројева кредитних картица). <ph name="BEGIN_LEARN_MORE_LINK" />Сазнајте више<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="3748912308089554501">Авиоиндустрија</translation>
@@ -1207,7 +1207,7 @@
 <translation id="4097288585054919042">Искључите обавештења</translation>
 <translation id="4098354747657067197">Пред вама је обмањујући сајт</translation>
 <translation id="4099048595830172239">Смернице администратора не препоручују дељење екрана са <ph name="APPLICATION_TITLE" /> када се види поверљив садржај:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте прилагодили величине и изглед фонтова у Chrome-у</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте прилагодили величине и изглед фонтова у WEB3 DNA Browser-у</translation>
 <translation id="4101413244023615925">Текст и слика</translation>
 <translation id="410148943680000050">Стоно издаваштво</translation>
 <translation id="4103249731201008433">Серијски број уређаја је неважећи</translation>
@@ -1222,7 +1222,7 @@
 <translation id="4117700440116928470">Опсег смерница није подржан.</translation>
 <translation id="4121428309786185360">Истиче</translation>
 <translation id="4123572138124678573">Троструко бушење на дну</translation>
-<translation id="4127575959421463246">Тражите Chrome ОС ознаке? Посети</translation>
+<translation id="4127575959421463246">Тражите WEB3 DNA Browser ОС ознаке? Посети</translation>
 <translation id="4129401438321186435">{COUNT,plural, =1{још 1}one{још #}few{још #}other{још #}}</translation>
 <translation id="4130226655945681476">да проверите мрежне каблове, модем и рутер</translation>
 <translation id="4132448310531350254">Дуплирани обрађивачи за екстензију фајла<ph name="FILE_EXTENSION" /> наведени у апликацијама <ph name="POLICY_IDS_LIST" />.</translation>
@@ -1259,7 +1259,7 @@
 <translation id="4214357935346142455">профил на екрану за пријављивање</translation>
 <translation id="4220128509585149162">Отказивања</translation>
 <translation id="422022731706691852">Нападачи на <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> могу да покушају да вас наведу да инсталирате програме који штете доживљају прегледања (на пример, тако што мењају почетну страницу или приказују додатне огласе на сајтовима које посећујете). <ph name="BEGIN_LEARN_MORE_LINK" />Сазнајте више<ph name="END_LEARN_MORE_LINK" /></translation>
-<translation id="4221630205957821124">&lt;h4&gt;1. корак: Пријавите се на портал&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;1. корак: Пријавите се на портал&lt;/h4&gt;
     &lt;p&gt;На местима попут кафића или аеродрома морате да се пријавите на WiFi мреже. Да бисте видели страницу за пријављивање, посетите страницу која користи &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Идите на било који веб-сајт који почиње са &lt;code&gt;http://&lt;/code&gt;, попут &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1267,11 +1267,11 @@
     &lt;/ol&gt;
     &lt;h4&gt;2. корак: Отворите страницу у режиму без архивирања (само за рачунаре)&lt;/h4&gt;
     &lt;p&gt;Страницу коју сте посетили отворите у прозору без архивирања.&lt;/p&gt;
-    &lt;p&gt;Ако се страница отвори, додатак за Chrome не ради како треба. Да бисте отклонили грешку, искључите додатак.&lt;/p&gt;
+    &lt;p&gt;Ако се страница отвори, додатак за WEB3 DNA Browser не ради како треба. Да бисте отклонили грешку, искључите додатак.&lt;/p&gt;
     &lt;h4&gt;3. корак: Ажурирајте оперативни систем&lt;/h4&gt;
     &lt;p&gt;Проверите да ли је уређај ажуриран.&lt;/p&gt;
     &lt;h4&gt;4. корак: Привремено искључите антивирусни програм&lt;/h4&gt;
-    &lt;p&gt;Ова грешка ће вам се приказати ако имате антивирусни софтвер који пружа „HTTPS заштиту“ или „HTTPS скенирање“. Антивирус спречава Chrome да пружа заштиту.&lt;/p&gt;
+    &lt;p&gt;Ова грешка ће вам се приказати ако имате антивирусни софтвер који пружа „HTTPS заштиту“ или „HTTPS скенирање“. Антивирус спречава WEB3 DNA Browser да пружа заштиту.&lt;/p&gt;
     &lt;p&gt;Да бисте отклонили овај проблем, искључите антивирусни софтвер. Ако страница ради када искључите софтвер, искључите тај софтвер када користите безбедне сајтове.&lt;/p&gt;
     &lt;p&gt;Не заборавите да поново укључите антивирусни програм када завршите.&lt;/p&gt;
     &lt;h4&gt;5. корак: Потражите додатну помоћ&lt;/h4&gt;
@@ -1307,7 +1307,7 @@
 <translation id="4305666528087210886">Приступ датотеци није успео</translation>
 <translation id="4306529830550717874">Желите да сачувате адресу?</translation>
 <translation id="4306812610847412719">привремена меморија</translation>
-<translation id="4308567447483056043">Ове смернице се игноришу зато што корисник није повезан. Да би се ове смернице примењивале, иста организација мора да управља Chrome прегледачем и профилом преко Администраторске конзоле.</translation>
+<translation id="3323451588703398074">Ове смернице се игноришу зато што корисник није повезан. Да би се ове смернице примењивале, иста организација мора да управља WEB3 DNA Browser прегледачем и профилом преко Администраторске конзоле.</translation>
 <translation id="4310070645992025887">Претражите своје путеве</translation>
 <translation id="4310496734563057511">Ако делите овај уређај са другима, можете да укључите Windows Hello да бисте потврдили да сте то ви када год користите сачувану лозинку</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1323,8 +1323,8 @@
 <translation id="4331519897422864041">5. преграда за слагање</translation>
 <translation id="4331708818696583467">Није безбедан</translation>
 <translation id="4333561522337981382">Управљајте прозорима на свим екранима</translation>
-<translation id="4340575312453649552">Овај оглас је користио превише ресурса за уређај, па га је Chrome уклонио.</translation>
-<translation id="4340982228985273705">Откривено је да овим рачунаром не управља предузеће, па смернице могу аутоматски да инсталирају само додатке који се хостују у Chrome веб-продавници. URL ажурирања у Chrome веб-продавници је „<ph name="CWS_UPDATE_URL" />“.</translation>
+<translation id="3964216933844012257">Овај оглас је користио превише ресурса за уређај, па га је WEB3 DNA Browser уклонио.</translation>
+<translation id="2218799635675752219">Откривено је да овим рачунаром не управља предузеће, па смернице могу аутоматски да инсталирају само додатке који се хостују у WEB3 DNA Browser веб-продавници. URL ажурирања у WEB3 DNA Browser веб-продавници је „<ph name="CWS_UPDATE_URL" />“.</translation>
 <translation id="4346197816712207223">Кредитне картице које се прихватају</translation>
 <translation id="4348834659292907206">Веза са сајтом <ph name="SITE" /> није безбедна</translation>
 <translation id="4349365535725594680">Дељење поверљивог садржаја није успело</translation>
@@ -1335,7 +1335,7 @@
 <translation id="4356973930735388585">Нападачи на овом сајту ће можда покушати да инсталирају опасне програме на рачунару који краду или бришу информације (на пример, слике, лозинке, поруке и бројеве кредитних картица).</translation>
 <translation id="4358059973562876591">Није могуће применити шаблоне које сте навели због грешке у DnsOverHttpsMode смерницама.</translation>
 <translation id="4358461427845829800">Управљајте начинима плаћања...</translation>
-<translation id="4359160567981085931">Управо сте унели лозинку на обмањујућем сајту. Chrome може да вам помогне. Да бисте променили лозинку и обавестили Google да је налог можда угрожен, кликните на Заштити налог.</translation>
+<translation id="4550052488331606118">Управо сте унели лозинку на обмањујућем сајту. WEB3 DNA Browser може да вам помогне. Да бисте променили лозинку и обавестили Google да је налог можда угрожен, кликните на Заштити налог.</translation>
 <translation id="4363222835916186793">Обавештења за овај производ су искључена</translation>
 <translation id="437040971055499437">Безбедносни догађај се дешава</translation>
 <translation id="4372948949327679948">Очекивана вредност je <ph name="VALUE_TYPE" />.</translation>
@@ -1352,7 +1352,7 @@
 <translation id="4411435778612100394">Уређаји за домаћинство</translation>
 <translation id="4414515549596849729">колачићи и подаци о сајтовима</translation>
 <translation id="4415426530740016218">Адреса преузимања</translation>
-<translation id="4424024547088906515">Овај сервер не може да докаже да је <ph name="DOMAIN" />; Chrome нема поверења у његов безбедносни сертификат. Узрок томе је можда погрешна конфигурација или нападач који је прекинуо везу.</translation>
+<translation id="7486060888782747880">Овај сервер не може да докаже да је <ph name="DOMAIN" />; WEB3 DNA Browser нема поверења у његов безбедносни сертификат. Узрок томе је можда погрешна конфигурација или нападач који је прекинуо везу.</translation>
 <translation id="4428065317363009941">Персонализација огласа</translation>
 <translation id="443121186588148776">Серијски порт</translation>
 <translation id="4432688616882109544"><ph name="HOST_NAME" /> није прихватио сертификат за пријављивање или сертификат за пријављивање није приложен.</translation>
@@ -1376,7 +1376,7 @@
 <translation id="4489023393592172404">Коверта Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Шифруј синхронизоване лозинке помоћу Google налога</translation>
-<translation id="4492519888999857993">Ове функције су подразумевано онемогућене. Оне неће бити доступне у будућим верзијама Chrome-а.</translation>
+<translation id="5711551727888568041">Ове функције су подразумевано онемогућене. Оне неће бити доступне у будућим верзијама WEB3 DNA Browser-а.</translation>
 <translation id="4493480324863638523">URL је неважећи. URL мора да има стандардну шему, нпр. http://example.com или https://example.com.</translation>
 <translation id="4500587658229086076">небезбедан садржај</translation>
 <translation id="4506176782989081258">Грешка при потврди ваљаности: <ph name="VALIDATION_ERROR" /></translation>
@@ -1384,7 +1384,7 @@
 <translation id="450710068430902550">Дељење са администратором</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте превели ову страницу помоћу Google преводиоца</translation>
 <translation id="4514308731478712184">Искључи Путеве</translation>
-<translation id="4515275063822566619">Картице и адресе су из Chrome-а и са вашег Google налога (<ph name="ACCOUNT_EMAIL" />). Њима можете да управљате у <ph name="BEGIN_LINK" />подешавњима<ph name="END_LINK" />.</translation>
+<translation id="3850866307128304430">Картице и адресе су из WEB3 DNA Browser-а и са вашег Google налога (<ph name="ACCOUNT_EMAIL" />). Њима можете да управљате у <ph name="BEGIN_LINK" />подешавњима<ph name="END_LINK" />.</translation>
 <translation id="4520048001084013693">Смернице администратора блокирају преузимање овог фајла</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" />×<ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Коверта Monarch</translation>
@@ -1401,11 +1401,11 @@
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Покушајте да онемогућите додатке.</translation>
 <translation id="4566017918361049074">Рекреација на отвореном</translation>
-<translation id="4567686777917670400">Администратор може даљински да промени подешавање прегледача. Активностима на овом уређају може да се управља и ван Chromium-а. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">Администратор може даљински да промени подешавање прегледача. Активностима на овом уређају може да се управља и ван WEB3 DNA Browser-а. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Испорука</translation>
 <translation id="4582204425268416675">Уклони картицу</translation>
 <translation id="4582595824823167856">Добијте SMS</translation>
-<translation id="4587425331216688090">Желите ли да уклоните адресу из Chrome-а?</translation>
+<translation id="4549859745110415735">Желите ли да уклоните адресу из WEB3 DNA Browser-а?</translation>
 <translation id="459089498662672729">Смернице администратора не препоручују налепљивање са <ph name="ORIGIN_NAME" /> на ову локацију</translation>
 <translation id="4592951414987517459">Веза са доменом <ph name="DOMAIN" /> је шифрована помоћу модерног пакета за шифровање.</translation>
 <translation id="4594403342090139922">&amp;Опозови брисање</translation>
@@ -1414,18 +1414,18 @@
 <translation id="4600084978141515058">Веганска кухиња</translation>
 <translation id="4602465984861132303">Куглање</translation>
 <translation id="4606870351894164739">Упечатљиво</translation>
-<translation id="4607603470419975064">Дугме Погледајте Chrome савете, притисните Enter да бисте сазнали више о Chrome функцијама</translation>
-<translation id="4607608436550361748">Прикажи Chrome савете</translation>
+<translation id="4607603470419975064">Дугме Погледајте WEB3 DNA Browser савете, притисните Enter да бисте сазнали више о WEB3 DNA Browser функцијама</translation>
+<translation id="4607608436550361748">Прикажи WEB3 DNA Browser савете</translation>
 <translation id="460848736049414407">Блокирао је администратор</translation>
 <translation id="4610279718074907952">Овај сајт је у групи, коју дефинише <ph name="SET_OWNER" />, који може да види ваше активности</translation>
 <translation id="4617273035598175554">Софтвер за графику и анимацију</translation>
 <translation id="4622292761762557753">Ипак пренеси</translation>
-<translation id="4627675673814409125">Ове смернице не могу да се подесе на нивоу Chrome профила и биће занемарене.</translation>
+<translation id="6607050922769407881">Ове смернице не могу да се подесе на нивоу WEB3 DNA Browser профила и биће занемарене.</translation>
 <translation id="4628948037717959914">Слика</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Повезан је повраћај готовине</translation>
 <translation id="4636930964841734540">Информације</translation>
-<translation id="4638670630777875591">Без архивирања у Chromium-у</translation>
+<translation id="9064160697734393810">Без архивирања у WEB3 DNA Browser-у</translation>
 <translation id="464342062220857295">Функције претраге</translation>
 <translation id="4644670975240021822">Обрнутим редоследом са одштампаном страном надоле</translation>
 <translation id="4646534391647090355">Одведи ме тамо</translation>
@@ -1463,7 +1463,7 @@
 <translation id="4731638775147756694">Администратор је блокирао ову апликацију</translation>
 <translation id="4733082559415072992"><ph name="URL" /> жели да користи локацију уређаја</translation>
 <translation id="4736491186715342415">Моторна возила</translation>
-<translation id="4736825316280949806">Поново покрените Chromium</translation>
+<translation id="1624940062651381269">Поново покрените WEB3 DNA Browser</translation>
 <translation id="4736934858538408121">Виртуелна картица</translation>
 <translation id="473775607612524610">Ажурирај</translation>
 <translation id="4738601419177586157">Предлог за претрагу <ph name="TEXT" /></translation>
@@ -1477,10 +1477,10 @@
 <translation id="4754461935447132332">Није дозвољено за небезбедне сајтове</translation>
 <translation id="4756388243121344051">&amp;Историја</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Управо сте унели лозинку на обмањујућем сајту. Да бисте заштитили налоге, Chromium препоручује да проверите сачуване лозинке.</translation>
+
 <translation id="4758311279753947758">Додај контакт информације</translation>
 <translation id="4761104368405085019">Коришћење микрофона</translation>
-<translation id="4761869838909035636">Покрените Chrome безбедносну проверу</translation>
+<translation id="2178430137592069173">Покрените WEB3 DNA Browser безбедносну проверу</translation>
 <translation id="4764776831041365478">Могуће је да веб-страница на адреси <ph name="URL" /> привремено не функционише или да је трајно премештена на нову веб адресу.</translation>
 <translation id="4766713847338118463">Двоструко спајање на дну</translation>
 <translation id="4771973620359291008">Дошло је до непознате грешке.</translation>
@@ -1511,7 +1511,7 @@
 <translation id="4834250788637067901">Начини плаћања, понуде и адресе који користе Google Pay</translation>
 <translation id="4838327282952368871">Чаробно</translation>
 <translation id="4839087176073128681">Следећег пута платите брже и заштитите картицу помоћу врхунске Google безбедности.</translation>
-<translation id="4840250757394056958">Прегледајте историју Chrome-а</translation>
+<translation id="4840250757394056958">Прегледајте историју WEB3 DNA Browser-а</translation>
 <translation id="484462545196658690">Аутоматски</translation>
 <translation id="484671803914931257">Остварите попуст код продавца <ph name="MERCHANT_NAME" /> и других продаваца</translation>
 <translation id="484988093836683706">Користи откључавање уређаја</translation>
@@ -1553,7 +1553,7 @@
 <translation id="4934780484581617878">Управљање прозорима</translation>
 <translation id="4936134414789135531">Уметнута вредност <ph name="VALUE_NAME" /> није пронађена.</translation>
 <translation id="4936675324097895694">Финансије</translation>
-<translation id="4940163644868678279">Без архивирања у Chrome-у</translation>
+
 <translation id="4943872375798546930">Нема резултата</translation>
 <translation id="4943933359574417591">Размена текстуалних и тренутних порука</translation>
 <translation id="4950898438188848926">Дугме за промену картице, притисните Enter да бисте прешли на отворену картицу, <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1576,7 +1576,7 @@
 <translation id="4995216769782533993">Потврдите безбедносни кôд да бисте делили детаље картице са овим сајтом</translation>
 <translation id="4995474875135717171">Измењено:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали претрагом сајтова и подразумеваним претраживачем</translation>
-<translation id="5002932099480077015">Ако је ова опција омогућена, Chrome ће складиштити копију картице на овом уређају ради бржег попуњавања образаца.</translation>
+
 <translation id="5011561501798487822">Откривени језик</translation>
 <translation id="5015510746216210676">Назив уређаја:</translation>
 <translation id="5017554619425969104">Текст који сте копирали</translation>
@@ -1585,7 +1585,7 @@
 <translation id="5018802455907704660">16×20 in</translation>
 <translation id="5019198164206649151">Складиште тока података је у лошем стању</translation>
 <translation id="5020776957610079374">Етно музика</translation>
-<translation id="5021557570875267742">Пратите цене помоћу Chrome-а</translation>
+<translation id="4735860266347344416">Пратите цене помоћу WEB3 DNA Browser-а</translation>
 <translation id="5023310440958281426">Проверите смернице администратора</translation>
 <translation id="5029568752722684782">Обриши копију</translation>
 <translation id="5030338702439866405">Издао/ла</translation>
@@ -1618,7 +1618,7 @@
 <translation id="5087580092889165836">Додај картицу</translation>
 <translation id="5088142053160410913">Порука оператеру</translation>
 <translation id="5093232627742069661">Пресавијање у облику слова Z</translation>
-<translation id="5094747076828555589">Овај сервер не може да докаже да је <ph name="DOMAIN" />; Chromium нема поверења у његов безбедносни сертификат. Узрок томе је можда погрешна конфигурација или нападач који је прекинуо везу.</translation>
+
 <translation id="5097099694988056070">Статистички подаци о уређају, попут искоришћености процесора/RAM меморије</translation>
 <translation id="5097468150760963273">27×39 in</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1652,7 +1652,7 @@
 <translation id="5161506081086828129">9. преграда за слагање</translation>
 <translation id="5164798890604758545">Текст је унет</translation>
 <translation id="516920405563544094">Унесите CVC за картицу <ph name="CREDIT_CARD" />. Када будете потврдили, подаци о картици са Google налога ће се делити са овим сајтом.</translation>
-<translation id="5169827969064885044">Могли бисте да изгубите приступ налогу за организацију или би могло да дође до крађе идентитета. Chrome вам препоручује да одмах промените лозинку.</translation>
+
 <translation id="5171045022955879922">Претражите или унесите URL адресу</translation>
 <translation id="5172758083709347301">Рачунар</translation>
 <translation id="5177076414499237632">Сазнајте више о извору и теми ове странице</translation>
@@ -1664,7 +1664,7 @@
 <translation id="51918995459521422"><ph name="ORIGIN" /> жели да преузме више датотека</translation>
 <translation id="519422657042045905">Напомена није доступна</translation>
 <translation id="5201306358585911203">Уграђена страница на овој веб-страници наводи:</translation>
-<translation id="5204468114771111727">Chrome је пронашао лозинку коју сте управо користили при повреди података. Google помоћник може аутоматски да вам промени лозинку.</translation>
+<translation id="214264184283456941">WEB3 DNA Browser је пронашао лозинку коју сте управо користили при повреди података. Google помоћник може аутоматски да вам промени лозинку.</translation>
 <translation id="5205222826937269299">Име је обавезно</translation>
 <translation id="5209518306177824490">SHA-1 Fingerprint</translation>
 <translation id="5209670883520018268">20. фиока</translation>
@@ -1681,7 +1681,7 @@
 <translation id="5239623327352565343">Локација је дозвољена</translation>
 <translation id="5242889659037569123">Пртљаг и прибор за путовања</translation>
 <translation id="5250209940322997802">„Повежите се на мрежу“</translation>
-<translation id="52517543715119994">Сазнајте више о Chrome функцијама</translation>
+<translation id="52517543715119994">Сазнајте више о WEB3 DNA Browser функцијама</translation>
 <translation id="5251803541071282808">Клауд</translation>
 <translation id="5254043433801397071">Оптимизујте садржај за штампање</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1703,7 +1703,7 @@
 <translation id="5287456746628258573">Овај сајт користи застарелу безбедносну конфигурацију, која може да открије ваше информације (на пример, лозинке или бројеве кредитних картица) када се шаљу на њега.</translation>
 <translation id="5288108484102287882">Валидација вредности смерница је активирала упозорења</translation>
 <translation id="5288393065350884210">Рачуноводство и ревизија</translation>
-<translation id="5288808348893593856">Веза сајта је безбедна ако вам Chrome не каже другачије.</translation>
+<translation id="8429736460204202092">Веза сајта је безбедна ако вам WEB3 DNA Browser не каже другачије.</translation>
 <translation id="5289384342738547352">Обрада више докумената</translation>
 <translation id="5293919335876685914">Купеи</translation>
 <translation id="5296589789433599000">Кување и рецепти</translation>
@@ -1722,14 +1722,14 @@
 <translation id="5324080437450482387">Одаберите контакт информације</translation>
 <translation id="5329858041417644019">Прегледачем нико не управља</translation>
 <translation id="5332219387342487447">Начин испоруке</translation>
-<translation id="5333022057423422993">Chrome је пронашао лозинку коју сте управо користили при повреди података. Да бисте заштитили налоге, препоручујемо вам да проверите сачуване лозинке.</translation>
+<translation id="5377534826839863091">WEB3 DNA Browser је пронашао лозинку коју сте управо користили при повреди података. Да бисте заштитили налоге, препоручујемо вам да проверите сачуване лозинке.</translation>
 <translation id="5334013548165032829">Детаљне евиденције система</translation>
 <translation id="5334145288572353250">Желите да сачувате адресу?</translation>
 <translation id="5335920952954443287">Срце које куца</translation>
 <translation id="5340250774223869109">Апликација је блокирана</translation>
 <translation id="534295439873310000">NFC уређаји</translation>
 <translation id="5344579389779391559">Ова страница може да покуша да вам нешто наплати</translation>
-<translation id="5347645913823149105">Дугме Прилагоди фонтове у Chrome-у, притисните Enter да бисте прилагодили величине и изглед фонтова у Chrome-у</translation>
+<translation id="5347645913823149105">Дугме Прилагоди фонтове у WEB3 DNA Browser-у, притисните Enter да бисте прилагодили величине и изглед фонтова у WEB3 DNA Browser-у</translation>
 <translation id="5355557959165512791">Тренутно не можете да посетите <ph name="SITE" /> јер је његов сертификат опозван. Грешке и напади на мрежи су обично привремени, па ће ова страница вероватно функционисати касније.</translation>
 <translation id="5356837363448394805">Поцрвенелост</translation>
 <translation id="5357848622083956825">Визуелна уметност и дизајн</translation>
@@ -1748,7 +1748,7 @@
 <translation id="540630185148148480">Укључите обавештења</translation>
 <translation id="540969355065856584">Овај сервер не може да докаже да је <ph name="DOMAIN" />; његов безбедносни сертификат тренутно није важећи. Узрок томе је можда погрешна конфигурација или нападач који је прекинуо везу.</translation>
 <translation id="5412040515238827314">Неважећи формат: Очекивана је листа образаца.</translation>
-<translation id="5412236728747081950">Овај сајт прима податке о вашим интересовањима из Chrome-а да би вам приказивао релевантније огласе</translation>
+<translation id="3825896935771081728">Овај сајт прима податке о вашим интересовањима из WEB3 DNA Browser-а да би вам приказивао релевантније огласе</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" />–<ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">4. преграда за слагање</translation>
 <translation id="5414511064953050917">Ипак премести</translation>
@@ -1788,10 +1788,10 @@
 <translation id="5519516356611866228">Са променама</translation>
 <translation id="5523118979700054094">Назив смерница</translation>
 <translation id="5525755241743357906">Фајл је копиран или премештен</translation>
-<translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте персонализовали алатке за приступачност у подешавањима Chrome ОС-а</translation>
+<translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте персонализовали алатке за приступачност у подешавањима WEB3 DNA Browser ОС-а</translation>
 <translation id="5528532273234423708">Аутоматизација дома</translation>
 <translation id="55293785478302737">Спајање ивица шавом</translation>
-<translation id="5535133333442455806">Дугме Обриши податке прегледања, притисните Enter да бисте обрисали историју прегледања, колачиће, кеш и друго у подешавањима Chrome-а</translation>
+<translation id="5535133333442455806">Дугме Обриши податке прегледања, притисните Enter да бисте обрисали историју прегледања, колачиће, кеш и друго у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="5536214594743852365">Прикажи одељак <ph name="SECTION" /></translation>
 <translation id="553782666181800029">Коверта Chou 2</translation>
 <translation id="5539243836947087108">Подлога</translation>
@@ -1801,7 +1801,7 @@
 <translation id="5541546772353173584">Додајте имејл</translation>
 <translation id="5545756402275714221">Чланци за вас</translation>
 <translation id="5551890439174915351">100×200 mm</translation>
-<translation id="5552137475244467770">Chrome повремено упоређује ваше лозинке са листама које су објављене онлајн. Док то ради, ваше лозинке и корисничка имена су шифровани, па нико не може да их прочита, укључујући Google.</translation>
+<translation id="8518722024434498270">WEB3 DNA Browser повремено упоређује ваше лозинке са листама које су објављене онлајн. Док то ради, ваше лозинке и корисничка имена су шифровани, па нико не може да их прочита, укључујући Google.</translation>
 <translation id="5556459405103347317">Учитај поново</translation>
 <translation id="5560088892362098740">Датум истека</translation>
 <translation id="55635442646131152">Структура документа</translation>
@@ -1864,7 +1864,7 @@
 <translation id="5720705177508910913">Тренутни корисник</translation>
 <translation id="5723287205918986743">Војна индустрија</translation>
 <translation id="5725567311035061582">Управљај колачићима и подацима о сајтовима</translation>
-<translation id="5730040223043577876">Chrome вам препоручује да ресетујете лозинку ако сте је користили на другим сајтовима.</translation>
+
 <translation id="5736165827969430182">Металургија и рударство</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Сачувајте картицу на Google налогу}one{Сачувајте картице на Google налогу}few{Сачувајте картице на Google налогу}other{Сачувајте картице на Google налогу}}</translation>
 <translation id="5738385766833540397">Управљајте начином на који примате обавештења о снижењима за производе које пратите</translation>
@@ -1890,14 +1890,14 @@
 <translation id="5784606427469807560">Дошло је до проблема при потврди картице. Проверите интернет везу и покушајте поново.</translation>
 <translation id="5785756445106461925">Поред тога, ова страница садржи и друге ресурсе који нису безбедни. Ове ресурсе могу да виде и други док су у пролазу и нападач може да их измени како би променио изглед странице.</translation>
 <translation id="5786044859038896871">Желите ли да попуните информације о картици?</translation>
-<translation id="578633867165174378">Chrome је пронашао лозинку коју сте управо користили при повреди података. Препоручујемо вам да одмах промените ту лозинку.</translation>
+<translation id="5116020889491573249">WEB3 DNA Browser је пронашао лозинку коју сте управо користили при повреди података. Препоручујемо вам да одмах промените ту лозинку.</translation>
 <translation id="5789643057113097023">,</translation>
 <translation id="5803412860119678065">Желите ли да попуните подацима <ph name="CARD_DETAIL" />?</translation>
 <translation id="5804241973901381774">Дозволе</translation>
-<translation id="5808435672482059465">Прегледајте историју Chrome-а</translation>
+<translation id="7552154626705223867">Прегледајте историју WEB3 DNA Browser-а</translation>
 <translation id="5808542072418270309">Игре симулације</translation>
 <translation id="5810442152076338065">Веза са доменом <ph name="DOMAIN" /> је шифрована помоћу застарелог пакета за шифровање.</translation>
-<translation id="5812947184178430888">Када Chrome обележи безбедносне догађаје, релевантни подаци о догађајима се шаљу администратору. То може да обухвата URL-ове страница које посећујете у Chrome-у, називе фајлова или метаподатке и корисничко име помоћу ког се пријављујете у апликације на вебу, на уређај и у Chrome.</translation>
+<translation id="8479644990349381409">Када WEB3 DNA Browser обележи безбедносне догађаје, релевантни подаци о догађајима се шаљу администратору. То може да обухвата URL-ове страница које посећујете у WEB3 DNA Browser-у, називе фајлова или метаподатке и корисничко име помоћу ког се пријављујете у апликације на вебу, на уређај и у WEB3 DNA Browser.</translation>
 <translation id="5813119285467412249">&amp;Понови додавање</translation>
 <translation id="5813309815819933152">ТВ ријалити емисије</translation>
 <translation id="5813753398265398978">Физика</translation>
@@ -2014,10 +2014,10 @@
 <translation id="6118782133429281336">Листа порекла је празна.</translation>
 <translation id="6120179357481664955">Желите да сачувате ИД за UPI?</translation>
 <translation id="6122181661879998141">предњој страни картице</translation>
-<translation id="6124432979022149706">Прикључци за Chrome за предузећа</translation>
+<translation id="7419188267353166461">Прикључци за WEB3 DNA Browser за предузећа</translation>
 <translation id="6126565365696310362">Кинеска коверта бр. 2</translation>
 <translation id="6127379762771434464">Уклонили сте ставку</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />Сазнајте више о режиму Без архивирања у Chrome-у<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">Екстензија фајла је празна или је у погрешном формату.</translation>
 <translation id="6139975341602920272">17×22 in</translation>
 <translation id="6146055958333702838">Проверите све каблове и рестартујте све рутере, модеме или друге мрежне уређаје које можда користите.</translation>
@@ -2042,10 +2042,10 @@
 <translation id="6197648101609735209">89×89 mm</translation>
 <translation id="6203231073485539293">Проверите интернет везу</translation>
 <translation id="6212314149070368045">US Fanfold</translation>
-<translation id="6218753634732582820">Желите ли да уклоните адресу из Chromium-а?</translation>
+
 <translation id="622039917539443112">Паралелно пресавијање</translation>
 <translation id="6221345481584921695">Google безбедно прегледање је недавно <ph name="BEGIN_LINK" />открило малвер<ph name="END_LINK" /> на <ph name="SITE" />. Веб-сајтови који су обично безбедни се понекад заразе малвером. Злонамеран садржај потиче са <ph name="SUBRESOURCE_HOST" />, који је познати дистрибутер малвера.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте персонализовали алатке за приступачност у подешавањима Chrome-а</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте персонализовали алатке за приступачност у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="6229649258872345286">Породична путовања</translation>
 <translation id="6232271601416750929">Природни козметички производи</translation>
 <translation id="6233160458685643793">Широк осмех</translation>
@@ -2054,7 +2054,7 @@
 <translation id="6240447795304464094">Google Pay логотип</translation>
 <translation id="6241121617266208201">Сакриј предлоге</translation>
 <translation id="624499991300733384">Услуга слагања за штампање</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали фајловима које сте преузели у Chrome-у</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали фајловима које сте преузели у WEB3 DNA Browser-у</translation>
 <translation id="6254436959401408446">Нема довољно меморије за отварање ове странице</translation>
 <translation id="6259156558325130047">&amp;Понови промену редоследа</translation>
 <translation id="6263376278284652872">Обележивачи домена <ph name="DOMAIN" /></translation>
@@ -2062,21 +2062,21 @@
 <translation id="6264485186158353794">Назад на безбедно</translation>
 <translation id="6265794661083428563">Копирајте вредност смернице <ph name="POLICY_NAME" /></translation>
 <translation id="6266934640124581640">Светлотиркизна</translation>
-<translation id="6272088941196661550">Наставите пут да бисте видели релевантне активности у историји Chrome-а</translation>
+<translation id="1989642600714730446">Наставите пут да бисте видели релевантне активности у историји WEB3 DNA Browser-а</translation>
 <translation id="6272383483618007430">Google ажурирање</translation>
 <translation id="6276112860590028508">Странице са листе за читање ће се појавити овде</translation>
 <translation id="627746635834430766">Да бисте следећи пут платили брже, сачувајте картицу и адресу за обрачун на Google налогу.</translation>
 <translation id="6279183038361895380">Притисните |<ph name="ACCELERATOR" />| да бисте приказали показивач</translation>
 <translation id="6280223929691119688">Испорука на ову адресу није могућа. Изаберите другу адресу.</translation>
 <translation id="6284292079994426700">26×38 in</translation>
-<translation id="6285507000506177184">Дугме за управљање преузимањима у Chrome-у, притисните Enter да бисте управљали фајловима које сте преузели у Chrome-у</translation>
+<translation id="6285507000506177184">Дугме за управљање преузимањима у WEB3 DNA Browser-у, притисните Enter да бисте управљали фајловима које сте преузели у WEB3 DNA Browser-у</translation>
 <translation id="6289939620939689042">Боја странице</translation>
 <translation id="6290238015253830360">Предложени чланци се приказују овде</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Уређај ће се рестартовати}=1{Уређај ће се рестартовати за 1 секунду}one{Уређај ће се рестартовати за # секунду}few{Уређај ће се рестартовати за # секунде}other{Уређај ће се рестартовати за # секунди}}</translation>
 <translation id="6301104306974789820">Добијајте обавештења о праћењу цена</translation>
-<translation id="6302269476990306341">Google помоћник у Chrome-у се зауставља</translation>
+<translation id="6804344251855709483">Google помоћник у WEB3 DNA Browser-у се зауставља</translation>
 <translation id="6305205051461490394">URL <ph name="URL" /> није доступан.</translation>
 <translation id="6311165245110979290">Виртуелна картица је доступна</translation>
 <translation id="6312113039770857350">Веб-страница није доступна</translation>
@@ -2085,7 +2085,7 @@
 <translation id="6319249456820053699">Фото-апарати и камкордери</translation>
 <translation id="6321917430147971392">Проверите DNS подешавања</translation>
 <translation id="6322182122604171028">Коришћење функције Windows Hello није успело</translation>
-<translation id="6326947323444967009">Подесите Chrome као подразумевани прегледач система у подешавањима iOS-а</translation>
+<translation id="6326947323444967009">Подесите WEB3 DNA Browser као подразумевани прегледач система у подешавањима iOS-а</translation>
 <translation id="6328639280570009161">Покушајте да онемогућите предвиђање мреже</translation>
 <translation id="6328784461820205019">„Веза није приватна“ или „&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;“ или „&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;“ или „&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;“ или „&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;“ или „Грешка у вези са SSL сертификатом“</translation>
 <translation id="6328786501058569169">Овај сајт је обмањујућ</translation>
@@ -2096,7 +2096,7 @@
 <translation id="6348220984832452017">Активне варијације</translation>
 <translation id="6349101878882523185">Инсталирајте <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Ниједна}=1{1 лозинка (за <ph name="DOMAIN_LIST" />, синхронизовано)}=2{2 лозинке (за <ph name="DOMAIN_LIST" />, синхронизовано)}one{# лозинка (за <ph name="DOMAIN_LIST" />, синхронизовано)}few{# лозинке (за <ph name="DOMAIN_LIST" />, синхронизовано)}other{# лозинки (за <ph name="DOMAIN_LIST" />, синхронизовано)}}</translation>
-<translation id="6355392890578844978">Овим прегледачем не управља компанија нити друга организација. Активностима на овом уређају се можда управља ван Chromium-а. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Овим прегледачем не управља компанија нити друга организација. Активностима на овом уређају се можда управља ван WEB3 DNA Browser-а. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Шта ово значи?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />да проверите конфигурацију проксија, заштитног зида и безбедног DNS-а<ph name="END_LINK" /></translation>
@@ -2121,7 +2121,7 @@
 <translation id="6405181733356710802">Желите ли да наставите на: <ph name="APP_NAME" />?</translation>
 <translation id="6410264514553301377">Унесите датум истека и CVC за картицу <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">Chromium може да вам помогне да заштитите Google налог и промените лозинку.</translation>
+<translation id="4571189034051647917">WEB3 DNA Browser може да вам помогне да заштитите Google налог и промените лозинку.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="6425092077175753609">Material</translation>
 <translation id="6427730057873428458">Пресавијање у облику прозора</translation>
@@ -2159,7 +2159,7 @@
 <translation id="6502626736864595182">Добављачи за форуме и услуге ћаскања</translation>
 <translation id="6502991525169604759">Без ваших промена</translation>
 <translation id="6506959208958864820">Коверта</translation>
-<translation id="6508722015517270189">Поново покрените Chrome</translation>
+
 <translation id="6513005815064132016">Може да тражи да прати положај камере</translation>
 <translation id="6517596291481585650">Упозорење: Ове смернице нису обједињене као листа како је наведено у смерницама јер нису листа.</translation>
 <translation id="6518133107902771759">Верификуј</translation>
@@ -2180,11 +2180,11 @@
 <translation id="657902945730878902">Цртање и бојење</translation>
 <translation id="6579630537141957243">Желите да повежете MIDI уређај?</translation>
 <translation id="6579990219486187401">Светлорозе</translation>
-<translation id="6587182488465657433">Chrome је пронашао лозинку коју сте управо користили при повреди података. Да бисте заштитили налоге, препоручујемо вам да одмах промените лозинку, па да проверите сачуване лозинке.</translation>
+<translation id="3021126460781205886">WEB3 DNA Browser је пронашао лозинку коју сте управо користили при повреди података. Да бисте заштитили налоге, препоручујемо вам да одмах промените лозинку, па да проверите сачуване лозинке.</translation>
 <translation id="6587893660316489419">Коверта B5</translation>
 <translation id="6587923378399804057">Линк који сте копирали</translation>
 <translation id="6591833882275308647"><ph name="DEVICE_TYPE" />-ом се не управља</translation>
-<translation id="6592952801936330159">Дугме Управљајте подешавањима сајтова, притисните Enter да бисте управљали дозволама и подацима сачуваним на различитим сајтовима у подешавањима Chrome-а</translation>
+<translation id="6592952801936330159">Дугме Управљајте подешавањима сајтова, притисните Enter да бисте управљали дозволама и подацима сачуваним на различитим сајтовима у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="6596325263575161958">Опције шифровања</translation>
 <translation id="6599642189720630047">Производи које пратите</translation>
 <translation id="6611723696964473273">Вести из економије</translation>
@@ -2201,7 +2201,7 @@
 <translation id="6645291930348198241">да приступа колачићима и подацима о сајтовима.</translation>
 <translation id="6645478838938543427">Обавештења о снижењима ће се слати на <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{None}=1{Са 1 сајта (нећемо вас одјавити са Google налога)}one{Са # сајта (нећемо вас одјавити са Google налога)}few{Са # сајта (нећемо вас одјавити са Google налога)}other{Са # сајтова (нећемо вас одјавити са Google налога)}}</translation>
-<translation id="6648459603387803038">Администратор може даљински да промени подешавање прегледача. Активностима на овом уређају може да се управља и ван Chrome-а.</translation>
+<translation id="6228269625838082008">Администратор може даљински да промени подешавање прегледача. Активностима на овом уређају може да се управља и ван WEB3 DNA Browser-а.</translation>
 <translation id="6648524591329069940">Фонт Serif</translation>
 <translation id="6649510485211003056">195×270 mm</translation>
 <translation id="6651270836885078973">Овим управља:</translation>
@@ -2213,7 +2213,7 @@
 <translation id="6663846344464066639">Склопљене шаке</translation>
 <translation id="6665553082534466207">Троструко бушење на десној страни</translation>
 <translation id="6668389483194953109">Пронађен је назив величине папира „прилагођено“, али је својство „custom_size“ празно или неважеће.</translation>
-<translation id="6671697161687535275">Желите ли да уклоните предлог из Chromium-а?</translation>
+<translation id="3922033200710514285">Желите ли да уклоните предлог из WEB3 DNA Browser-а?</translation>
 <translation id="6683717648675961851">Огласи за посао</translation>
 <translation id="6685834062052613830">Одјавите се и довршите подешавање</translation>
 <translation id="6687335167692595844">Затражена је величина фонта</translation>
@@ -2221,7 +2221,7 @@
 <translation id="6688743156324860098">Ажурирајте…</translation>
 <translation id="6688775486821967877">Виртуелна картица тренутно није доступна. Пробајте поново касније.</translation>
 <translation id="6689249931105087298">Релативно са компресијом црних тачака</translation>
-<translation id="6689271823431384964">Chrome вам нуди чување картица на Google налогу зато што сте пријављени. То можете да промените у подешавањима. Име власника картице смо узели са налога.</translation>
+<translation id="6568883612935818921">WEB3 DNA Browser вам нуди чување картица на Google налогу зато што сте пријављени. То можете да промените у подешавањима. Име власника картице смо узели са налога.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте отворили опцију за тражење уређаја на Google налогу</translation>
 <translation id="6696588630955820014">Дугме Дели ову картицу, притисните Enter да бисте делили ову картицу дељењем линка, прављењем QR кода, пребацивањем и на друге начине</translation>
 <translation id="6698381487523150993">Направљено:</translation>
@@ -2286,7 +2286,7 @@
 <translation id="6883221904761970440">Табела за потврду акредитива за безбедно плаћање је затворена</translation>
 <translation id="6884662655240309489">Величина 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">Chrome је поједноставио ову страницу ради лакшег читања. Chrome је преузео оригиналну страницу преко небезбедне везе.</translation>
+<translation id="2764758098439961275">WEB3 DNA Browser је поједноставио ову страницу ради лакшег читања. WEB3 DNA Browser је преузео оригиналну страницу преко небезбедне везе.</translation>
 <translation id="6890443033788248019">Желите ли да дозволите локацију?</translation>
 <translation id="6890531741535756070">Одабрали сте да верификујете помоћу <ph name="DEVICE_LABEL" /> на веб-сајтовима који користе <ph name="PROVIDER_ORIGIN" />. Овај добављач је можда сачувао информације о начину плаћања, за који можете да <ph name="BEGIN_LINK" />затражите брисање<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Ниво смерница није подржан.</translation>
@@ -2359,7 +2359,7 @@
 <translation id="7058774143982824355">Услуга рашчлањивача CSV лозинки</translation>
 <translation id="7061777300866737982">Кућна сигурност и безбедност</translation>
 <translation id="7062635574500127092">Тиркизна</translation>
-<translation id="706295145388601875">Додајте адресе и управљајте њима у подешавањима Chrome-а</translation>
+<translation id="706295145388601875">Додајте адресе и управљајте њима у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="7064851114919012435">Контакт информације</translation>
 <translation id="7067633076996245366">Соул и ритам и блуз</translation>
 <translation id="7068733155164172741">Унесите <ph name="OTP_LENGTH" />-цифрени кôд</translation>
@@ -2370,11 +2370,11 @@
 <translation id="7081308185095828845">Ова функција није доступна на уређају</translation>
 <translation id="7083258188081898530">9. фиока</translation>
 <translation id="7086090958708083563">Корисник је тражио отпремање</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали дозволама и подацима сачуваним на различитим сајтовима у подешавањима Chrome-а</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали дозволама и подацима сачуваним на различитим сајтовима у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="7096937462164235847">Идентитет овог веб-сајта није верификован.</translation>
 <translation id="7101893872976785596">Хорор филмови</translation>
 <translation id="7102079138917191645">Изградња и одржавање</translation>
-<translation id="7102554173784142865">Играјте игру Chrome диносаурус</translation>
+<translation id="7102554173784142865">Играјте игру WEB3 DNA Browser диносаурус</translation>
 <translation id="7108338896283013870">Сакриј</translation>
 <translation id="7108634116785509031"><ph name="HOST" /> жели да користи камеру</translation>
 <translation id="7108819624672055576">Дозвољава додатак</translation>
@@ -2382,12 +2382,7 @@
 <translation id="7112327784801341716">Не видите актуелне податке? Обратите се банци да бисте их ажурирали.</translation>
 <translation id="7118618213916969306">Потражите URL у привременој меморији, <ph name="SHORT_URL" /></translation>
 <translation id="7119414471315195487">Затворите друге картице или програме</translation>
-<translation id="7129355289156517987">Када затворите све Chromium картице без архивирања, активност на тим картицама се брише са уређаја:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />Активности прегледања<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Историја претраге<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />Информације унете у обрасцима<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Слање на ову адресу није могуће. Изаберите другу адресу.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Отпремање је блокирано</translation>
@@ -2474,13 +2469,13 @@
 <translation id="7359588939039777303">Огласи су блокирани.</translation>
 <translation id="7360451453306104998">Када Google пронађе доступне попусте, они ће се приказивати током плаћања</translation>
 <translation id="7363096869660964304">Међутим, нисте невидљиви. Преласком у режим без архивирања нећете сакрити прегледање од послодавца, интернет провајдера или веб-сајтова које посећујете.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте додали адресе и управљали њима у подешавањима Chrome-а</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте додали адресе и управљали њима у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="7365849542400970216">Дозволићете сајту да зна када користите уређај?</translation>
 <translation id="7366117520888504990">198×275 mm</translation>
 <translation id="7366362069757178916">Обрађивачи плаћања</translation>
 <translation id="7372973238305370288">резултат претраге</translation>
 <translation id="7374461526650987610">Обрађивачи протокола</translation>
-<translation id="7374733840632556089">Овај проблем се јавља због сертификата који сте ви или неко други инсталирали на уређају. Сертификат се користи за надгледање и пресретање мрежа и Chrome га не сматра поузданим. Иако постоје поједини оправдани разлози за надгледање, на пример на школској или пословној мрежи, Chrome жели да будете свесни да се то догађа, чак и ако то не можете да спречите. Надгледање је могуће у било ком прегледачу или апликацији која приступа вебу.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Ниједан сајт није дозвољен}=1{1 сајт је дозвољен}one{# сајт је дозвољен}few{# сајта су дозвољена}other{# сајтова је дозвољено}}</translation>
 <translation id="7375818412732305729">Датотека је приложена</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2498,7 +2493,7 @@
 <translation id="7400418766976504921">URL адреса</translation>
 <translation id="7403392780200267761">Делите ову картицу дељењем линка, прављењем QR кода, пребацивањем и на друге начине</translation>
 <translation id="7403591733719184120"><ph name="DEVICE_NAME" />-ом се управља</translation>
-<translation id="7407424307057130981">&lt;p&gt;Ова грешка ће вам се приказати ако имате Superfish софтвер на Windows рачунару.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Ова грешка ће вам се приказати ако имате Superfish софтвер на Windows рачунару.&lt;/p&gt;
     &lt;p&gt;Пратите ове кораке да бисте привремено онемогућили софтвер и приступили вебу. Требаће вам привилегије администратора.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Кликните на &lt;strong&gt;Start&lt;/strong&gt; (Покрени), па претражите и изаберите &lt;strong&gt;„View local services“&lt;/strong&gt; (Прикажи локалне услуге)
@@ -2506,7 +2501,7 @@
     &lt;li&gt;У опцији &lt;strong&gt;Startup type&lt;/strong&gt; (Тип покретања) изаберите &lt;strong&gt;Disabled&lt;/strong&gt; (Онемогућено)
     &lt;li&gt;У опцији &lt;strong&gt;Service status&lt;/strong&gt; (Статус услуге) кликните на &lt;strong&gt;Stop&lt;/strong&gt; (Заустави)
     &lt;li&gt;Прво кликните на &lt;strong&gt;Apply&lt;/strong&gt; (Примени), па на &lt;strong&gt;OK&lt;/strong&gt; (У реду)
-    &lt;li&gt;Посетите &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Chrome центар за помоћ&lt;/a&gt; да бисте сазнали како да трајно уклоните софтвер са рачунара
+    &lt;li&gt;Посетите &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;WEB3 DNA Browser центар за помоћ&lt;/a&gt; да бисте сазнали како да трајно уклоните софтвер са рачунара
     &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Дивно</translation>
 <translation id="741204030948306876">Да, омогући</translation>
@@ -2514,7 +2509,7 @@
 <translation id="7418620734632363981">Програмирање</translation>
 <translation id="7419106976560586862">Путања профила</translation>
 <translation id="7421067045979951561">обрађивачи протокола</translation>
-<translation id="7426022697669111648">Дугме Прикажи историју Chrome-а, притисните Enter да бисте прегледали историју прегледања и управљали њом у подешавањима Chrome-а</translation>
+<translation id="7426022697669111648">Дугме Прикажи историју WEB3 DNA Browser-а, притисните Enter да бисте прегледали историју прегледања и управљали њом у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="7427366580982928791">Безбедност деце на интернету</translation>
 <translation id="7429429656042611765">Executive</translation>
 <translation id="7437289804838430631">Додај контакт информације</translation>
@@ -2543,12 +2538,7 @@
 <translation id="7497998058912824456">Дугме Направите документ, притисните Enter да бисте брзо направили нов Google документ</translation>
 <translation id="7501663406926337752">Организација је обележила сајт у наставку</translation>
 <translation id="7501853161948120656">Образовна средства</translation>
-<translation id="7506488012654002225">Chromium <ph name="BEGIN_EMPHASIS" />не чува<ph name="END_EMPHASIS" /> следеће информације:
-        <ph name="BEGIN_LIST" />
-          <ph name="LIST_ITEM" />историју прегледања
-          <ph name="LIST_ITEM" />колачиће и податке о сајтовима
-          <ph name="LIST_ITEM" />информације које уносите у обрасцима
-        <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">Коверта бр. 9</translation>
 <translation id="7508255263130623398">Враћени ИД уређаја за смернице је празан или се не подудара са актуелним ИД-ом уређаја</translation>
 <translation id="7508870219247277067">Зеленожута</translation>
@@ -2570,7 +2560,7 @@
 <translation id="7542995811387359312">Онемогућено је аутоматско попуњавање кредитне картице зато што овај образац не користи безбедну везу.</translation>
 <translation id="7548892272833184391">Отклоните грешке при повезивању</translation>
 <translation id="7549584377607005141">Ова веб-страница захтева податке које сте унели раније да би се правилно приказала. Можете поново да пошаљете те податке, али ако то урадите, поновићете било коју радњу коју је ова страница претходно обавила.</translation>
-<translation id="7550637293666041147">Корисничко име уређаја и корисничко име за Chrome</translation>
+<translation id="4843621636877577887">Корисничко име уређаја и корисничко име за WEB3 DNA Browser</translation>
 <translation id="7551484245293639699">Путно осигурање</translation>
 <translation id="755279583747225797">Проба је активна</translation>
 <translation id="7552846755917812628">Испробајте следеће савете:</translation>
@@ -2578,13 +2568,13 @@
 <translation id="7554791636758816595">Нова картица</translation>
 <translation id="7555777498260651025">Породичне ТВ емисије</translation>
 <translation id="7559278538486662777">Величина ове апликације не може да се промени.</translation>
-<translation id="7564049878696755256">Можете да изгубите приступ налогу за <ph name="ORG_NAME" /> или би могло да дође до крађе идентитета. Chrome вам препоручује да одмах промените лозинку.</translation>
+<translation id="8940464370390138384">Можете да изгубите приступ налогу за <ph name="ORG_NAME" /> или би могло да дође до крађе идентитета. WEB3 DNA Browser вам препоручује да одмах промените лозинку.</translation>
 <translation id="7564680668369175887">Караван возила</translation>
 <translation id="7567204685887185387">Овај сервер не може да докаже да је <ph name="DOMAIN" />; његов безбедносни сертификат је можда лажно издат. Узрок томе је можда погрешна конфигурација или нападач који је прекинуо везу.</translation>
-<translation id="7568616151991626879">Google Chrome покушава да унесе лозинку на <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">WEB3 DNA Browser покушава да унесе лозинку на <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Голф</translation>
 <translation id="7569761772822664555">Дугме Управљај претраживачима, притисните Enter да бисте управљали подразумеваним претраживачем и претрагом сајта</translation>
-<translation id="7569952961197462199">Желите ли да уклоните кредитну картицу из Chrome-а?</translation>
+<translation id="9202224267417193484">Желите ли да уклоните кредитну картицу из WEB3 DNA Browser-а?</translation>
 <translation id="7569983096843329377">Црна</translation>
 <translation id="7575207903026901870">Дугме Уклони предлог, притисните Enter да бисте уклонили овај предлог</translation>
 <translation id="7577900504646297215">Управљајте интересовањима</translation>
@@ -2603,15 +2593,15 @@
 <translation id="7600965453749440009">Никад не преводи <ph name="LANGUAGE" /></translation>
 <translation id="7610193165460212391">Вредност је изван опсега <ph name="VALUE" />.</translation>
 <translation id="7613889955535752492">Истиче: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте прегледали лозинке и управљали њима у подешавањима Chrome-а</translation>
-<translation id="7616645509853975347">Администратор је укључио Chrome Enterprise Connectors у прегледачу. Ови прикључци имају приступ неким вашим подацима.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте прегледали лозинке и управљали њима у подешавањима WEB3 DNA Browser-а</translation>
+<translation id="2698924724374512123">Администратор је укључио WEB3 DNA Browser Enterprise Connectors у прегледачу. Ови прикључци имају приступ неким вашим подацима.</translation>
 <translation id="7617825962482469577">Коверта C7/C6</translation>
 <translation id="7619838219691048931">Последњи лист</translation>
 <translation id="7625242817712715120">Смернице администратора не препоручују штампање овог садржаја</translation>
 <translation id="762844065391966283">Појединачно</translation>
 <translation id="7631444403134069754">Атлетика</translation>
 <translation id="7633909222644580952">Подаци о учинку и извештаји о отказивању</translation>
-<translation id="7637571805876720304">Желите ли да уклоните кредитну картицу из Chromium-а?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Ниједна}=1{1 лозинка на налогу (за <ph name="DOMAIN_LIST" />)}one{# лозинка на налогу (за <ph name="DOMAIN_LIST" />)}few{# лозинке на налогу (за <ph name="DOMAIN_LIST" />)}other{# лозинки на налогу (за <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Серијски портови</translation>
 <translation id="7639968568612851608">Тамносива</translation>
@@ -2635,7 +2625,7 @@
 <translation id="7673278391011283842">6. поштанско сандуче</translation>
 <translation id="7675325315208090829">Управљајте начинима плаћања…</translation>
 <translation id="7676643023259824263">Потражите текст у привременој меморији, <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Прегледајте историју прегледања и управљајте њом у подешавањима Chrome-а</translation>
+<translation id="7679367271685653708">Прегледајте историју прегледања и управљајте њом у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="7679947978757153706">Бејзбол</translation>
 <translation id="7681273392938116652">Виртуелни спортови</translation>
 <translation id="7682287625158474539">Испорука</translation>
@@ -2664,7 +2654,7 @@
 <translation id="7740996059027112821">Стандардно</translation>
 <translation id="77424286611022110">Овај сајт приказује огласе који ометају активности или обмањујуће огласе.<ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Опасан садржај је блокиран.</translation>
-<translation id="7751971323486164747">Прилагодите величине и изглед фонтова у Chrome-у</translation>
+<translation id="7751971323486164747">Прилагодите величине и изглед фонтова у WEB3 DNA Browser-у</translation>
 <translation id="7752995774971033316">Не управља</translation>
 <translation id="7755624218968747854">Примарни котур</translation>
 <translation id="7758069387465995638">Можда је заштитни зид или антивирусни софтвер блокирао везу.</translation>
@@ -2688,7 +2678,7 @@
 <translation id="7805571567667010077">Управља организација</translation>
 <translation id="7805768142964895445">Статус</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Желите ли да уклоните предлог из Chrome-а?</translation>
+
 <translation id="781440967107097262">Дозволићете дељење привремене меморије?</translation>
 <translation id="7815407501681723534">Пронашли смо <ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> за „<ph name="SEARCH_STRING" />“</translation>
 <translation id="7822320754433038727">Лов и стрељаштво</translation>
@@ -2723,8 +2713,8 @@
 <translation id="7943397946612013052">Преузимање је блокирано</translation>
 <translation id="7943893128817522649">Може да тражи да аутоматски преузима више фајлова</translation>
 <translation id="7947285636476623132">Проверите годину истека и пробајте поново</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте сазнали више о Chrome функцијама</translation>
-<translation id="7950027195171824198">Управљајте подешавањима колачића у подешавањима Chrome-а</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте сазнали више о WEB3 DNA Browser функцијама</translation>
+<translation id="7950027195171824198">Управљајте подешавањима колачића у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="7951415247503192394">(32-битни)</translation>
 <translation id="7952192831285741665">European EDP</translation>
 <translation id="7953569069500808819">Спајање ивица на врху</translation>
@@ -2739,7 +2729,7 @@
 <translation id="7981129096182302364">Денс и електронска музика</translation>
 <translation id="798134797138789862">Може да тражи да користи уређаје и податке виртуелне реалности</translation>
 <translation id="7983008347525536475">Спортско-теренска возила</translation>
-<translation id="7984945080620862648">Тренутно не можете да посетите <ph name="SITE" /> зато што је веб-сајт послао шифроване акредитиве које Chrome не може да обради. Грешке и напади на мрежи су обично привремени, па ће ова страница вероватно функционисати касније.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Повезивање</translation>
 <translation id="7992044431894087211">Настављено је дељење садржаја екрана са апликацијом <ph name="APPLICATION_TITLE" /></translation>
@@ -2772,7 +2762,7 @@
 <translation id="8057711352706143257">Софтвер „<ph name="SOFTWARE_NAME" />“ није правилно конфигурисан. Деинсталирање софтвера „<ph name="SOFTWARE_NAME" />“ обично решава проблем. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Производња хране</translation>
 <translation id="8066225060526005217">Управљају подешавања колачића</translation>
-<translation id="8067872629359326442">Управо сте унели лозинку на обмањујућем сајту. Chromium може да вам помогне. Да бисте променили лозинку и обавестили Google да је налог можда угрожен, кликните на Заштити налог.</translation>
+
 <translation id="8070439594494267500">Икона апликације</translation>
 <translation id="8075736640322370409">Брзо направите нову Google табелу</translation>
 <translation id="8075898834294118863">Управљајте подешавањима сајтова</translation>
@@ -2802,7 +2792,7 @@
 <translation id="8116925261070264013">Звук је искључен</translation>
 <translation id="8118489163946903409">Начин плаћања</translation>
 <translation id="8123046743443732598">Стони рачунари</translation>
-<translation id="8124639700796374294">Дугме Прилагоди Chrome, притисните Enter да бисте прилагодили изглед прегледача</translation>
+<translation id="8124639700796374294">Дугме Прилагоди WEB3 DNA Browser, притисните Enter да бисте прилагодили изглед прегледача</translation>
 <translation id="8126056688005753476">Авантуристичка путовања</translation>
 <translation id="8127301229239896662">Софтвер „<ph name="SOFTWARE_NAME" />“ није правилно инсталиран на рачунару или мрежи. Затражите од ИТ администратора да реши овај проблем.</translation>
 <translation id="8131740175452115882">Потврди</translation>
@@ -2813,7 +2803,7 @@
 <translation id="8157295877370077682">Напусти сајт</translation>
 <translation id="8163866351304776260">Четвороструко бушење на левој страни</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="8175796834047840627">Chrome вам нуди чување картица на Google налогу зато што сте пријављени. То можете да промените у подешавањима.</translation>
+<translation id="8903986195054043594">WEB3 DNA Browser вам нуди чување картица на Google налогу зато што сте пријављени. То можете да промените у подешавањима.</translation>
 <translation id="8176440868214972690">Администратор овог уређаја је послао одређене податке следећим веб-сајтовима, попут подешавања или смерница.</translation>
 <translation id="8184538546369750125">Користи глобалну подразумевану вредност (Дозволи)</translation>
 <translation id="8186706823560132848">Софтвер</translation>
@@ -2845,7 +2835,7 @@
 <translation id="8242426110754782860">Настави</translation>
 <translation id="8249296373107784235">Откажи</translation>
 <translation id="8249463483885748674">Стандардни и пријемни тестови</translation>
-<translation id="8252991034201168845">Дугме Управљајте подешавањима приступачности, притисните Enter да бисте персонализовали алатке за приступачност у подешавањима Chrome ОС-а</translation>
+<translation id="8252991034201168845">Дугме Управљајте подешавањима приступачности, притисните Enter да бисте персонализовали алатке за приступачност у подешавањима WEB3 DNA Browser ОС-а</translation>
 <translation id="8253091569723639551">Адреса за обрачун је обавезна</translation>
 <translation id="8257387598443225809">Ова апликација је дизајнирана за мобилне уређаје</translation>
 <translation id="825929999321470778">Прикажи све сачуване лозинке</translation>
@@ -2858,11 +2848,11 @@
 <translation id="8270242299912238708">PDF документи</translation>
 <translation id="8275952078857499577">Не нуди превод овог сајта</translation>
 <translation id="8277900682056760511">Страница обрађивача плаћања је отворена</translation>
-<translation id="8279611986089885641">Chrome обавештења морају да буду укључена. Можете да их укључите у одељку <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">WEB3 DNA Browser обавештења морају да буду укључена. Можете да их укључите у одељку <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">11. фиока</translation>
 <translation id="8281886186245836920">Прескочи</translation>
 <translation id="8282947398454257691">зна јединствени идентификатор уређаја</translation>
-<translation id="8284769179630993263">Управљајте Безбедним прегледањем и другим садржајем у подешавањима Chrome-а</translation>
+<translation id="8284769179630993263">Управљајте Безбедним прегледањем и другим садржајем у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="8286036467436129157">Пријави ме</translation>
 <translation id="8288807391153049143">Прикажи сертификат</translation>
 <translation id="8289355894181816810">Контактирајте администратора мреже ако нисте сигурни шта то значи.</translation>
@@ -2901,7 +2891,7 @@
 <translation id="8390725133630534698">Смернице за администраторе блокирају дељење са <ph name="ORIGIN_NAME" /> на локацију <ph name="VM_NAME" /></translation>
 <translation id="8396522675989118466">Ово је <ph name="NUMBER_OF_DIGITS" />-цифрени кôд на: <ph name="SIDE_OF_CARD" /></translation>
 <translation id="8398790343843005537">Пронађи телефон</translation>
-<translation id="8405579342203358118">Управљајте тиме које информације синхронизујете у подешавањима Chrome-а</translation>
+<translation id="8405579342203358118">Управљајте тиме које информације синхронизујете у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="8409413588194360210">обрађивачи плаћања</translation>
 <translation id="8412145213513410671">Отказивања (<ph name="CRASH_COUNT" />)</translation>
 <translation id="8412392972487953978">Потребно је да двапут унесете исту приступну фразу.</translation>
@@ -2912,7 +2902,7 @@
 <translation id="8427848540066057481">500×750 mm</translation>
 <translation id="8428213095426709021">Подешавања</translation>
 <translation id="8428634594422941299">Важи</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали подешавањима колачића у подешавањима Chrome-а</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте управљали подешавањима колачића у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="8433057134996913067">Овако ћете се одјавити са већине веб-сајтова.</translation>
 <translation id="8434840396568290395">Кућни љубимци</translation>
 <translation id="8437238597147034694">&amp;Опозови премештање</translation>
@@ -2932,12 +2922,12 @@
 <translation id="8473863474539038330">Адресе и друго</translation>
 <translation id="8474910779563686872">Прикажи детаље о програмеру</translation>
 <translation id="8479754468255770962">Спајање у доњем левом углу</translation>
-<translation id="8483780878231876732">Да бисте користили картице са Google налога, пријавите се у Chrome</translation>
+<translation id="8483780878231876732">Да бисте користили картице са Google налога, пријавите се у WEB3 DNA Browser</translation>
 <translation id="8488350697529856933">Односе се на</translation>
 <translation id="8490137692873530638">10. преграда за слагање</translation>
 <translation id="8493948351860045254">Ослободите простор</translation>
 <translation id="8498891568109133222">Одговор хоста <ph name="HOST_NAME" /> је трајао предуго.</translation>
-<translation id="8503559462189395349">Лозинке за Chrome</translation>
+<translation id="1863492395079744896">Лозинке за WEB3 DNA Browser</translation>
 <translation id="8503813439785031346">Корисничко име</translation>
 <translation id="8507227106804027148">Командна линија</translation>
 <translation id="8508648098325802031">Икона Претрага</translation>
@@ -2945,8 +2935,8 @@
 <translation id="851353418319061866">Провера тачности</translation>
 <translation id="8513580896341796021">Преузимање је почело. Да бисте га видели, притисните |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">Администратор је дозволио HID уређај</translation>
-<translation id="8522552481199248698">Chrome може да вам помогне да заштитите Google налог и промените лозинку.</translation>
-<translation id="8530813470445476232">Обришите историју прегледања, колачиће, кеш и друго у подешавањима Chrome-а</translation>
+
+<translation id="8530813470445476232">Обришите историју прегледања, колачиће, кеш и друго у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="853332391023689529">Камионети</translation>
 <translation id="8533619373899488139">Посетите &lt;strong&gt;chrome://policy&lt;/strong&gt; да бисте видели листу блокираних URL-ова и друге смернице које је одредио администратор система.</translation>
 <translation id="8539500321752640291">Желите ли да омогућите 2 дозволе?</translation>
@@ -2962,7 +2952,7 @@
 <translation id="8557066899867184262">CVC је на полеђини картице.</translation>
 <translation id="8559762987265718583">Није могуће успоставити приватну везу са доменом <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> јер датум и време на уређају (<ph name="DATE_AND_TIME" />) нису тачни.</translation>
 <translation id="8564182942834072828">Одвојени документи/несређене копије</translation>
-<translation id="8564985650692024650">Chromium вам препоручује да ресетујете лозинку за <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ако сте је користили на другим сајтовима.</translation>
+<translation id="6226192724169192103">WEB3 DNA Browser вам препоручује да ресетујете лозинку за <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ако сте је користили на другим сајтовима.</translation>
 <translation id="8576310925653847813">Кућни биоскопи</translation>
 <translation id="8577348305244205642">Виртуелна картица није доступна</translation>
 <translation id="858637041960032120">Додај тел. број
@@ -2995,7 +2985,7 @@
 <translation id="868922510921656628">Странице по скупу</translation>
 <translation id="869891660844655955">Датум истека</translation>
 <translation id="8699041776323235191">Уређај са интерфејсом</translation>
-<translation id="8699899385443889493">Дугме Играј игру Chrome диносаурус, притисните Enter да бисте играли игру Диносаурус у Chrome-у</translation>
+<translation id="8699899385443889493">Дугме Играј игру WEB3 DNA Browser диносаурус, притисните Enter да бисте играли игру Диносаурус у WEB3 DNA Browser-у</translation>
 <translation id="8699985386408839112">Коверта Kaku 1</translation>
 <translation id="8703575177326907206">Ваша веза са доменом <ph name="DOMAIN" /> није шифрована.</translation>
 <translation id="8705331520020532516">Серијски број</translation>
@@ -3013,12 +3003,12 @@
 <translation id="8726549941689275341">Величина странице:</translation>
 <translation id="8730621377337864115">Готово</translation>
 <translation id="8731268612289859741">Безбедносни кôд</translation>
-<translation id="8731544501227493793">Дугме Управљај лозинкама, притисните Enter да бисте прегледали лозинке и управљали њима у подешавањима Chrome-а</translation>
+<translation id="8731544501227493793">Дугме Управљај лозинкама, притисните Enter да бисте прегледали лозинке и управљали њима у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="8734529307927223492"><ph name="DEVICE_TYPE" />-ом управља <ph name="MANAGER" /></translation>
 <translation id="8736059027199600831">30×40 in</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте отворили нов прозор без архивирања и прегледали приватно</translation>
 <translation id="8737685506611670901">отвори линкове за <ph name="PROTOCOL" /> уместо <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Да бисте успоставили безбедну везу, сат на уређају мора да буде тачан. То је зато што сертификати које веб-сајтови користе за идентификацију важе само одређени временски период. Пошто сат на вашем уређају није тачан, Chromium не може да верификује ове сертификате.</translation>
+
 <translation id="8740359287975076522">Нисмо успели да пронађемо &lt;abbr id="dnsDefinition"&gt;DNS адресу&lt;/abbr&gt; хоста <ph name="HOST_NAME" />. Покушавамо да утврдимо у чему је проблем.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> је ваш кôд за <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Обележите ову картицу</translation>
@@ -3037,9 +3027,9 @@
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Мотоцикли</translation>
 <translation id="8790007591277257123">&amp;Понови брисање</translation>
-<translation id="8792621596287649091">Можете да изгубите приступ налогу за <ph name="ORG_NAME" /> или би могло да дође до крађе идентитета. Chromium вам препоручује да одмах промените лозинку.</translation>
+
 <translation id="8792626944327216835">микрофон</translation>
-<translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> је укључио Chrome Enterprise Connectors у прегледачу. Ови прикључци имају приступ неким вашим подацима.</translation>
+<translation id="8238747517405767555"><ph name="ENROLLMENT_DOMAIN" /> је укључио WEB3 DNA Browser Enterprise Connectors у прегледачу. Ови прикључци имају приступ неким вашим подацима.</translation>
 <translation id="8798099450830957504">Подразумевано</translation>
 <translation id="8798739476508189189">Тражите ознаке прегледача? Посети</translation>
 <translation id="8805819170075074995">Унос на листи „<ph name="LANGUAGE_ID" />“: Унос се занемарује јер је обухваћен и смерницама SpellcheckLanguage.</translation>
@@ -3047,7 +3037,7 @@
 <translation id="8807160976559152894">Скраћивање после сваке странице</translation>
 <translation id="8813277370772331957">Подсети ме касније</translation>
 <translation id="8814707942599948500">Коверта C8</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте ажурирали Chrome из подешавања Chrome-а</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте ажурирали WEB3 DNA Browser из подешавања WEB3 DNA Browser-а</translation>
 <translation id="8820817407110198400">Обележивачи</translation>
 <translation id="882338992931677877">Отвор за ручни унос</translation>
 <translation id="8830320733681313421">Hagaki разгледница</translation>
@@ -3061,7 +3051,7 @@
 <translation id="885306012106043620">Тенис</translation>
 <translation id="8855742650226305367">Плес</translation>
 <translation id="885730110891505394">Дељење са Google-ом</translation>
-<translation id="8858065207712248076">Chrome вам препоручује да ресетујете лозинку за <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ако сте је користили на другим сајтовима.</translation>
+
 <translation id="885906927438988819">Ако нема грешака, <ph name="BEGIN_LINK" />покрените Windows дијагностику мреже<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Музика из филмова</translation>
 <translation id="8866481888320382733">Грешка при рашчлањивању подешавања смерница</translation>
@@ -3081,7 +3071,7 @@
 <translation id="8903921497873541725">Увећавање</translation>
 <translation id="890493561996401738">Дугме Уклони предлог, притисните Enter да бисте уклонили, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google налога</translation>
-<translation id="8913778647360618320">Дугме Управљај начинима плаћања, притисните Enter да бисте управљали плаћањима и информацијама о кредитним картицама у подешавањима Chrome-а</translation>
+<translation id="8913778647360618320">Дугме Управљај начинима плаћања, притисните Enter да бисте управљали плаћањима и информацијама о кредитним картицама у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="8922013791253848639">Увек дозвољавај огласе на овом сајту</translation>
 <translation id="892588693504540538">Бушење у горњем десном углу</translation>
 <translation id="8930330541574156305">Некретнине</translation>
@@ -3102,7 +3092,7 @@
 <translation id="8975263830901772334">Називи датотека које штампате</translation>
 <translation id="8978053250194585037">Google безбедно прегледање је недавно <ph name="BEGIN_LINK" />открило „пецање“<ph name="END_LINK" /> на <ph name="SITE" />. Сајтови са „пецањем“ се представљају као неки други веб-сајтови да би вас преварили.</translation>
 <translation id="8983369100812962543">Сада можете да промените величину апликације</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте прегледали историју прегледања у Chrome-у</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте прегледали историју прегледања у WEB3 DNA Browser-у</translation>
 <translation id="8987927404178983737">Месец</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">Тражите верзију система? Посетите</translation>
@@ -3150,19 +3140,19 @@
 <translation id="908796725011587895">Факултетски спортови</translation>
 <translation id="9089260154716455634">Смернице са временским распоредом:</translation>
 <translation id="9095388113577226029">Још језика...</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните tab, па Enter да бисте подесили Chrome као подразумевани прегледач система у подешавањима iOS-а</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните tab, па Enter да бисте подесили WEB3 DNA Browser као подразумевани прегледач система у подешавањима iOS-а</translation>
 <translation id="9096679202588811390">ТВ емисије и програми</translation>
 <translation id="9101630580131696064">1. фиока</translation>
 <translation id="9102081333385212048">Фајлови које копирате или преместите се шаљу у Google Cloud или трећим странама на анализу. На пример, можда ће се скенирати у потрази за осетљивим подацима или малвером.</translation>
 <translation id="9103537084693478942">Софтвер за обраду видеа</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> обично користи шифровање да би заштитио информације. Када је Chromium овог пута покушао да се повеже са <ph name="SITE" />, веб-сајт је вратио необичне и нетачне акредитиве. Или нападач покушава да се представи као <ph name="SITE" /> или је екран за WiFi пријављивање прекинуо везу. Информације су и даље безбедне зато што је Chromium прекинуо везу пре него што су размењени било какви подаци.</translation>
+
 <translation id="9106062320799175032">Додајте адресу за обрачун</translation>
 <translation id="9107467864910557787">Прегледачем управља <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Смернице за администраторе онемогућавају дељење садржаја екрана са апликацијом <ph name="APPLICATION_TITLE" /> када је видљив поверљиви садржај</translation>
 <translation id="9114524666733003316">Картица се потврђује...</translation>
-<translation id="9114581008513152754">Овим прегледачем не управља компанија нити друга организација. Активностима на овом уређају се можда управља ван Chrome-а. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
+
 <translation id="9117930699067497412">Свеже</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте наставили путањом и видели релевантне активности у историји Chrome-а</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, притисните Tab, па Enter да бисте наставили путањом и видели релевантне активности у историји WEB3 DNA Browser-а</translation>
 <translation id="9119042192571987207">Отпремљено</translation>
 <translation id="9122954576417194280">Трговина робом и фјучерсима</translation>
 <translation id="9128016270925453879">Смернице су учитане</translation>
@@ -3177,7 +3167,7 @@
 <translation id="9148088599418889305">Одаберите начин испоруке</translation>
 <translation id="9148507642005240123">&amp;Опозови измену</translation>
 <translation id="9150045010208374699">Коришћење камере</translation>
-<translation id="9150685862434908345">Администратор може даљински да промени подешавање прегледача. Активностима на овом уређају се можда управља и ван Chrome-а. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
+
 <translation id="9154194610265714752">Ажурирано</translation>
 <translation id="9155211586651734179">Аудио периферни уређаји су прикључени</translation>
 <translation id="9157595877708044936">Подешавање...</translation>
@@ -3192,7 +3182,7 @@
 <translation id="917450738466192189">Сертификат сервера је неважећи.</translation>
 <translation id="9174623988242579721">Прилагођена возила и возила високих перформанси</translation>
 <translation id="9174917557437862841">Дугме за промену картице, притисните Enter да бисте прешли на ту картицу</translation>
-<translation id="9179703756951298733">Управљајте плаћањима и информацијама о кредитним картицама у подешавањима Chrome-а</translation>
+<translation id="9179703756951298733">Управљајте плаћањима и информацијама о кредитним картицама у подешавањима WEB3 DNA Browser-а</translation>
 <translation id="9179907736442194268">Добијајте обавештења имејлом ако се цена снизи на било ком сајту</translation>
 <translation id="9183302530794969518">Google документи</translation>
 <translation id="9183425211371246419">Хост <ph name="HOST_NAME" /> користи неподржани протокол.</translation>
@@ -3203,12 +3193,12 @@
 <translation id="920511547311754821">Не можете да пронађете кôд? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">Додавање чланка није успело.</translation>
 <translation id="9213433120051936369">Прилагодите изглед</translation>
-<translation id="9215416866750762878">Апликација онемогућава Chrome-у да се безбедно повеже са овим сајтом</translation>
+<translation id="717994082075351832">Апликација онемогућава WEB3 DNA Browser-у да се безбедно повеже са овим сајтом</translation>
 <translation id="9219103736887031265">Слике</translation>
-<translation id="922152298093051471">Прилагодите Chrome</translation>
+<translation id="922152298093051471">Прилагодите WEB3 DNA Browser</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">ОБРИШИ ОБРАЗАЦ</translation>
-<translation id="936602727769022409">Могли бисте да изгубите приступ Google налогу. Chromium препоручује да одмах промените лозинку. Мораћете да се пријавите.</translation>
+
 <translation id="937457230470581909">Зоолошки вртови, акваријуми и резервати</translation>
 <translation id="939736085109172342">Нови директоријум</translation>
 <translation id="940053046584497293">Путовања и превоз</translation>

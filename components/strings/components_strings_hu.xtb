@@ -9,7 +9,7 @@
 <translation id="1015730422737071372">További részletek megadása</translation>
 <translation id="1019413721762100891">Ki</translation>
 <translation id="1021110881106174305">Elfogadott kártyák</translation>
-<translation id="1021753677514347426">A probléma oka az Ön vagy valaki más által az eszközre telepített egyik tanúsítvány. Erről a tanúsítványról tudni lehet, hogy hálózati forgalom megfigyelésére és elfogására használják, és a Chromium szerint nem megbízható. Bár a megfigyelésnek létezik néhány jogszerű formája (például iskolai vagy vállalati hálózatokon), a Chromium biztosra szeretne menni abban, hogy Ön ezzel tisztában van – még akkor is, ha Ön nem tud tenni ellene. A megfigyelés az internethez hozzáférő bármely böngészőben vagy alkalmazásban megtörténhet.</translation>
+<translation id="6843750610117699926">A probléma oka az Ön vagy valaki más által az eszközre telepített egyik tanúsítvány. Erről a tanúsítványról tudni lehet, hogy hálózati forgalom megfigyelésére és elfogására használják, és a WEB3 DNA Browser szerint nem megbízható. Bár a megfigyelésnek létezik néhány jogszerű formája (például iskolai vagy vállalati hálózatokon), a WEB3 DNA Browser biztosra szeretne menni abban, hogy Ön ezzel tisztában van – még akkor is, ha Ön nem tud tenni ellene. A megfigyelés az internethez hozzáférő bármely böngészőben vagy alkalmazásban megtörténhet.</translation>
 <translation id="1024111578869940408">A támadók néha úgy próbálnak meg webhelyeket utánozni, hogy alig észrevehető változtatásokat végeznek a webhely címében.</translation>
 <translation id="1028781062521375153">Részletek megtekintése</translation>
 <translation id="1030706264415084469">A(z) <ph name="URL" /> webhely állandó jelleggel nagy méretű adatokat szeretne tárolni az eszközön</translation>
@@ -32,7 +32,7 @@
 <translation id="1055184225775184556">&amp;Hozzáadás visszavonása</translation>
 <translation id="1056663316309890343">Képszerkesztő szoftverek</translation>
 <translation id="1056898198331236512">Figyelmeztetés</translation>
-<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a Dino Run játék elindításához a Chrome-ban.</translation>
+<translation id="1058344460600311577"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a Dino Run játék elindításához a WEB3 DNA Browser-ban.</translation>
 <translation id="1058479211578257048">Kártyák mentése…</translation>
 <translation id="1060320201901229167">Kaku 5 boríték</translation>
 <translation id="10614374240317010">Az alábbi oldalakról soha ne mentsen jelszavakat</translation>
@@ -49,7 +49,7 @@
 <translation id="1088860948719068836">Adja meg a kártyán szereplő nevet</translation>
 <translation id="1089439967362294234">Jelszó módosítása</translation>
 <translation id="1096545575934602868">Ebben a mezőben legfeljebb <ph name="MAX_ITEMS_LIMIT" /> bejegyzés szerepelhet. A rendszer az összes további bejegyzést elveti.</translation>
-<translation id="1100782917270858593">Utazás folytatása gomb. Nyomja le az Enter billentyűt, ha folytatni szeretné az utazást, és meg szeretné tekinteni a releváns tevékenységet Chrome-előzményei között.</translation>
+<translation id="3985486898664025513">Utazás folytatása gomb. Nyomja le az Enter billentyűt, ha folytatni szeretné az utazást, és meg szeretné tekinteni a releváns tevékenységet WEB3 DNA Browser-előzményei között.</translation>
 <translation id="1101672080107056897">Hibaművelet</translation>
 <translation id="1103523840287552314"><ph name="LANGUAGE" /> - mindig legyen lefordítva</translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -118,7 +118,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">Olyan webhelyen adta meg a jelszavát, amelyet nem az Ön szervezete kezel. Fiókja védelme érdekében ne használja fel újra a jelszót más alkalmazásokban és webhelyeken.</translation>
 <translation id="1257553931232494454">nagyítási/kicsinyítési szintek</translation>
-<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a Chrome-beállítások kezeléséhez.</translation>
+<translation id="1262388120645841613"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a WEB3 DNA Browser-beállítások kezeléséhez.</translation>
 <translation id="1263231323834454256">Olvasási lista</translation>
 <translation id="1264309058268477500">Alternatív</translation>
 <translation id="1264974993859112054">Sport</translation>
@@ -131,7 +131,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1285320974508926690">Ezt a webhelyet soha ne fordítsa le</translation>
 <translation id="1288548991597756084">Kártya biztonságos mentése</translation>
 <translation id="1292571435393770077">16. tálca</translation>
-<translation id="1292701964462482250">„A számítógépen található valamelyik szoftver megakadályozza a Chrome-ot abban, hogy biztonságosan csatlakozzon az internetre” (csak Windows rendszerű számítógépeken)</translation>
+<translation id="3610512443326918645">„A számítógépen található valamelyik szoftver megakadályozza a WEB3 DNA Browser-ot abban, hogy biztonságosan csatlakozzon az internetre” (csak Windows rendszerű számítógépeken)</translation>
 <translation id="1293797321964802402">9 × 11 hüvelykes boríték</translation>
 <translation id="1294154142200295408">Parancssorváltozatok</translation>
 <translation id="129553762522093515">Mostanában bezárt</translation>
@@ -150,7 +150,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1323433172918577554">Több</translation>
 <translation id="132390688737681464">Címek mentése és betöltése</translation>
 <translation id="1330449323196174374">Bal oldalon kihajtható</translation>
-<translation id="1333745675627230582">A Chrome-dinó játék elindítása</translation>
+<translation id="6227572462599550594">A WEB3 DNA Browser-dinó játék elindítása</translation>
 <translation id="1333989956347591814">Tevékenysége <ph name="BEGIN_EMPHASIS" />továbbra is látható maradhat<ph name="END_EMPHASIS" /> a következők számára:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />A megtekintett webhelyek
@@ -223,7 +223,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1483493594462132177">Küldés</translation>
 <translation id="1484290072879560759">Szállítási cím kiválasztása</translation>
 <translation id="1492194039220927094">Irányelvek leküldése:</translation>
-<translation id="149293076951187737">Amikor bezárja a Chrome összes inkognitó lapját, az érintett lapokon végzett tevékenységei, így akövetkezők is törlődnek erről az eszközről:
+<translation id="3175654283800723944">Amikor bezárja a WEB3 DNA Browser összes inkognitó lapját, az érintett lapokon végzett tevékenységei, így akövetkezők is törlődnek erről az eszközről:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />böngészési tevékenységek;<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />keresési előzmények;<ph name="END_LIST_ITEM" />
@@ -252,7 +252,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="154408704832528245">Kézbesítési cím kiválasztása</translation>
 <translation id="1549470594296187301">A funkció használatához engedélyezni kell a JavaScriptet.</translation>
 <translation id="1551884710160394169">Freeware és shareware programok</translation>
-<translation id="1553358976309200471">A Chrome böngésző frissítése</translation>
+<translation id="1553358976309200471">A WEB3 DNA Browser böngésző frissítése</translation>
 <translation id="1555130319947370107">Kék</translation>
 <translation id="1559447966090556585">Engedélyezi az értesítéseket?</translation>
 <translation id="1559528461873125649">Nincs ilyen fájl vagy könyvtár</translation>
@@ -263,7 +263,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="156703335097561114">Hálózati információk, többek között címek, a kezelőfelület beállításai és a kapcsolat minősége</translation>
 <translation id="1567040042588613346">A házirend az elvárt módon működik, de valahol máshol ugyanaz az érték van beállítva, amelyet felülír ez a házirend.</translation>
 <translation id="1569487616857761740">Adja meg a lejárat dátumát</translation>
-<translation id="1569694109004336106">A Google Chrome megpróbálja bekapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
+<translation id="8064078726251017937">A WEB3 DNA Browser megpróbálja bekapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> hüvelyk</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Valami nem sikerült a weboldal megjelenítése során.</translation>
@@ -273,7 +273,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1594030484168838125">Kiválaszt</translation>
 <translation id="1596296697375291157">Thrillerek, bűnügyi és misztikus filmek</translation>
 <translation id="1599199147673445968">Új kártya? <ph name="BEGIN_LINK" />Adja meg a kártya adatait<ph name="END_LINK" /></translation>
-<translation id="160851722280695521">A Dino Run játék elindítása a Chrome-ban</translation>
+<translation id="160851722280695521">A Dino Run játék elindítása a WEB3 DNA Browser-ban</translation>
 <translation id="161042844686301425">Cián</translation>
 <translation id="1611101756749861742">2. tekercs</translation>
 <translation id="1615402009686901181">Rendszergazdai házirend tiltja képernyőfelvétel készítését, ha bizalmas tartalom látható a képernyőn.</translation>
@@ -293,13 +293,13 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1642410292376109062">Google-jelszó módosítása gomb, nyomja meg az Enter billentyűt a Google-fiók jelszavának módosításához</translation>
 <translation id="1644574205037202324">Előzmények</translation>
 <translation id="1645368109819982629">Nem támogatott protokoll</translation>
-<translation id="1650602712345345441">A Chrome beállításainak kezelése</translation>
+<translation id="1650602712345345441">A WEB3 DNA Browser beállításainak kezelése</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1656024727720460136">A Chrome egyszerűsítette ezt az oldalt, hogy könnyebben olvasható legyen. Az eredeti oldalt biztonságos kapcsolaton keresztül kérte le.</translation>
+<translation id="5043029585940149901">A WEB3 DNA Browser egyszerűsítette ezt az oldalt, hogy könnyebben olvasható legyen. Az eredeti oldalt biztonságos kapcsolaton keresztül kérte le.</translation>
 <translation id="1656489000284462475">Átvétel</translation>
 <translation id="1658918301167915956">Bluetooth-eszközök</translation>
 <translation id="1662550410081243962">Fizetési módok mentése és kitöltése</translation>
-<translation id="1663943134801823270">A kártyák és a címek a Chrome-ból származnak. A <ph name="BEGIN_LINK" />Beállításokban<ph name="END_LINK" /> kezelheti őket.</translation>
+<translation id="716145566107023410">A kártyák és a címek a WEB3 DNA Browser-ból származnak. A <ph name="BEGIN_LINK" />Beállításokban<ph name="END_LINK" /> kezelheti őket.</translation>
 <translation id="1671391448414634642">A(z) <ph name="SOURCE_LANGUAGE" /> nyelvű oldalak mostantól le lesznek fordítva <ph name="TARGET_LANGUAGE" /> nyelvre.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE" /> nyelvről <ph name="TARGET_LANGUAGE" /> nyelvre</translation>
 <translation id="1682696192498422849">Rövid él először</translation>
@@ -347,7 +347,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1757773103848038814">Fix szélességű betűtípus</translation>
 <translation id="1763864636252898013">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványa az Ön eszközének operációs rendszere szerint nem megbízható. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Próbálkozzon a Windows Hálózati diagnosztika futtatásával<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />További információ a Chromium inkognitó módjáról<ph name="END_LINK" /></translation>
+<translation id="8137652501168176949"><ph name="BEGIN_LINK" />További információ a WEB3 DNA Browser inkognitó módjáról<ph name="END_LINK" /></translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">A megnyitott lapok helye</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -399,11 +399,11 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1919526244108283799">400 × 600 mm</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{Nincs}=1{1 webhely}other{# webhely}}</translation>
 <translation id="1924727005275031552">Új</translation>
-<translation id="1927439593081478069">A Chrome biztonsági ellenőrzését futtató gomb. Nyomja le az Enter billentyűt a biztonsági ellenőrzés futtatásához a Chrome beállításaiban.</translation>
+<translation id="1927439593081478069">A WEB3 DNA Browser biztonsági ellenőrzését futtató gomb. Nyomja le az Enter billentyűt a biztonsági ellenőrzés futtatásához a WEB3 DNA Browser beállításaiban.</translation>
 <translation id="1935995810530254458">Másolás mindenképpen</translation>
 <translation id="1939175642807587452">Engedélyt kérhet értesítések küldésére</translation>
 <translation id="1943994668912612445">Dizájn</translation>
-<translation id="1945968466830820669">Elveszítheti a hozzáférést szervezete fiókjához, vagy visszaélhetnek személyes adataival. A Chromium azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
+<translation id="5087943717045213809">Elveszítheti a hozzáférést szervezete fiókjához, vagy visszaélhetnek személyes adataival. A WEB3 DNA Browser azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
 <translation id="1946849748901605102">12 × 15 hüvelyk</translation>
 <translation id="1947454675006758438">Kapocs jobbra fent</translation>
 <translation id="1954847915560574887">A3x3</translation>
@@ -426,8 +426,8 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2001146170449793414">{COUNT,plural, =1{és 1 további}other{és # további}}</translation>
 <translation id="2003709556000175978">Jelszó visszaállítása</translation>
 <translation id="2003775180883135320">Négy lyuk felül</translation>
-<translation id="201174227998721785">A a webhelyek engedélyeinek és tárolt adatainak a Chrome-beállítások közötti kezelése</translation>
-<translation id="2019607688127825327">Kisegítő lehetőségek beállításainak kezelése gomb. Nyomja le az Entert, ha személyre szeretné szabni a kisegítő eszközöket a Chrome beállításaiban.</translation>
+<translation id="201174227998721785">A a webhelyek engedélyeinek és tárolt adatainak a WEB3 DNA Browser-beállítások közötti kezelése</translation>
+<translation id="2019607688127825327">Kisegítő lehetőségek beállításainak kezelése gomb. Nyomja le az Entert, ha személyre szeretné szabni a kisegítő eszközöket a WEB3 DNA Browser beállításaiban.</translation>
 <translation id="202224654587969958">12 × 19 hüvelyk</translation>
 <translation id="2025115093177348061">Kiterjesztett valóság</translation>
 <translation id="2025186561304664664">Automatikusan konfigurálhatóra beállított proxy.</translation>
@@ -444,7 +444,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2048261947532620704">Oldal fordítása</translation>
 <translation id="205212645995975601">Barbecue és grillezés</translation>
 <translation id="2053111141626950936">A(z) <ph name="LANGUAGE" /> nyelvű oldalak nem lesznek lefordítva.</translation>
-<translation id="2053373601901562871">{NUM_DAYS,plural, =0{Ha ez a vezérlő be van kapcsolva, és az állapot aktív, a Chrome meghatározza, hogy az Ön legutóbbi böngészési tevékenysége melyik nagy társadalmi csoporthoz, azaz „kohorszhoz” hasonlít leginkább. A hirdetők kiválaszthatják a hirdetéseket a csoporthoz, ám a böngészési előzményeit privát módon tárolja a rendszer az eszközén. Csoportja minden nap frissül.}=1{Ha ez a vezérlő be van kapcsolva, és az állapot aktív, a Chrome meghatározza, hogy az Ön legutóbbi böngészési tevékenysége melyik nagy társadalmi csoporthoz, azaz „kohorszhoz” hasonlít leginkább. A hirdetők kiválaszthatják a hirdetéseket a csoporthoz, ám a böngészési előzményeit privát módon tárolja a rendszer az eszközén. Csoportja minden nap frissül.}other{Ha ez a vezérlő be van kapcsolva, és az állapot aktív, a Chrome meghatározza, hogy az Ön legutóbbi böngészési tevékenysége melyik nagy társadalmi csoporthoz, azaz „kohorszhoz” hasonlít leginkább. A hirdetők kiválaszthatják a hirdetéseket a csoporthoz, ám a böngészési előzményeit privát módon tárolja a rendszer az eszközén. Csoportja {NUM_DAYS} naponta frissül.}}</translation>
+<translation id="5381629995518525841">{NUM_DAYS,plural, =0{Ha ez a vezérlő be van kapcsolva, és az állapot aktív, a WEB3 DNA Browser meghatározza, hogy az Ön legutóbbi böngészési tevékenysége melyik nagy társadalmi csoporthoz, azaz „kohorszhoz” hasonlít leginkább. A hirdetők kiválaszthatják a hirdetéseket a csoporthoz, ám a böngészési előzményeit privát módon tárolja a rendszer az eszközén. Csoportja minden nap frissül.}=1{Ha ez a vezérlő be van kapcsolva, és az állapot aktív, a WEB3 DNA Browser meghatározza, hogy az Ön legutóbbi böngészési tevékenysége melyik nagy társadalmi csoporthoz, azaz „kohorszhoz” hasonlít leginkább. A hirdetők kiválaszthatják a hirdetéseket a csoporthoz, ám a böngészési előzményeit privát módon tárolja a rendszer az eszközén. Csoportja minden nap frissül.}other{Ha ez a vezérlő be van kapcsolva, és az állapot aktív, a WEB3 DNA Browser meghatározza, hogy az Ön legutóbbi böngészési tevékenysége melyik nagy társadalmi csoporthoz, azaz „kohorszhoz” hasonlít leginkább. A hirdetők kiválaszthatják a hirdetéseket a csoporthoz, ám a böngészési előzményeit privát módon tárolja a rendszer az eszközén. Csoportja {NUM_DAYS} naponta frissül.}}</translation>
 <translation id="2059202684901022309">22 × 34 hüvelyk</translation>
 <translation id="2064691555167957331">{COUNT,plural, =1{1 javaslat}other{# javaslat}}</translation>
 <translation id="2066915425250589881">kérelmezheti az adatok törlését</translation>
@@ -457,9 +457,9 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="20817612488360358">A rendszer proxybeállításai konfigurálva vannak a használathoz, de kifejezett proxykonfiguráció is meg van adva.</translation>
 <translation id="2082238445998314030">Eredmény: <ph name="RESULT_NUMBER" />/<ph name="TOTAL_RESULTS" /></translation>
 <translation id="2085876078937250610">Mentés…</translation>
-<translation id="2088086323192747268">Szinkronizálás kezelése gomb. Nyomja le az Enter billentyűt az adatok szinkronizálásának Chrome-beállítások közötti kezeléséhez.</translation>
+<translation id="2088086323192747268">Szinkronizálás kezelése gomb. Nyomja le az Enter billentyűt az adatok szinkronizálásának WEB3 DNA Browser-beállítások közötti kezeléséhez.</translation>
 <translation id="2091887806945687916">Hang</translation>
-<translation id="2093982008204312032">A Google Chrome megpróbálja kikapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
+<translation id="2399368725255444543">A WEB3 DNA Browser megpróbálja kikapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
 <translation id="2094505752054353250">Domainkeveredés</translation>
 <translation id="2099652385553570808">Három kapocs a bal oldalon</translation>
 <translation id="2101225219012730419">Verzió:</translation>
@@ -543,7 +543,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2292556288342944218">Az internethez való hozzáférést a rendszer letiltotta</translation>
 <translation id="2293443924986248631">Bekapcsolt állapotban a webhelyek nem tudnak olyan cookie-kat használni, amelyek nyomon követik tevékenységeit az interneten. Előfordulhat, hogy bizonyos webhelyek funkciói nem működnek megfelelően.</translation>
 <translation id="2295290966866883927">A böngésző a felkeresett oldalak URL-címét elemzés céljából elküldi a Google Cloudnak vagy harmadik feleknek. Az elemzés oka lehet például annak az ellenőrzése, hogy nem biztonságos webhelyről van-e szó.</translation>
-<translation id="2298855485018661510">Cookie-k kezelése gomb. Nyomja le az Enter billentyűt a cookie-beállítások Chrome-beállítások közötti kezeléséhez.</translation>
+<translation id="2298855485018661510">Cookie-k kezelése gomb. Nyomja le az Enter billentyűt a cookie-beállítások WEB3 DNA Browser-beállítások közötti kezeléséhez.</translation>
 <translation id="2300306941146563769">Nincs feltöltve</translation>
 <translation id="2316159751672436664">Személyre szabhatja a kisegítő lehetőségeket a ChromeOS beállításaiban</translation>
 <translation id="2316887270356262533">1 MB-nál kevesebb hely szabadul fel. Előfordulhat, hogy egyes webhelyek lassabban töltődnek be, amikor legközelebb felkeresi őket.</translation>
@@ -571,9 +571,9 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="236340516568226369">Méretváltó menü</translation>
 <translation id="2367567093518048410">Szint</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="2383455408879745299">Személyre szabhatja a kisegítő lehetőségeket a Chrome beállításaiban.</translation>
+<translation id="2383455408879745299">Személyre szabhatja a kisegítő lehetőségeket a WEB3 DNA Browser beállításaiban.</translation>
 <translation id="2384307209577226199">Vállalati alapértelmezett</translation>
-<translation id="2385809941344967209">A Chrome-ot a Chrome-beállítások között frissítheti</translation>
+<translation id="2385809941344967209">A WEB3 DNA Browser-ot a WEB3 DNA Browser-beállítások között frissítheti</translation>
 <translation id="2386255080630008482">A szerver tanúsítványát visszavonták.</translation>
 <translation id="239293030466334554">Nyitott és nyitható tetejű járművek</translation>
 <translation id="2392959068659972793">Beállított értékkel nem rendelkező házirendek megjelenítése</translation>
@@ -592,7 +592,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2463739503403862330">Kitöltés</translation>
 <translation id="2465655957518002998">Kézbesítési mód kiválasztása</translation>
 <translation id="2465688316154986572">Kapocs</translation>
-<translation id="2465914000209955735">Kezelheti a Chrome-ban letöltött fájlokat.</translation>
+<translation id="2465914000209955735">Kezelheti a WEB3 DNA Browser-ban letöltött fájlokat.</translation>
 <translation id="2466004615675155314">Az internetről származó információk megjelenítése</translation>
 <translation id="2467272921457885625">Eszköz hardverspecifikációi és statisztikai adatai (például a CPU/RAM kihasználtságának előzményei)</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK" />Hálózati diagnosztika futtatása<ph name="END_LINK" /></translation>
@@ -609,7 +609,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2505268675989099013">Fiók védelme</translation>
 <translation id="2509167091171468975">Élelmiszerüzletek és vegyesboltok</translation>
 <translation id="2512101340618156538">Nem engedélyezett (alapértelmezett)</translation>
-<translation id="2512413427717747692">A Chrome beállítása alapértelmezett böngészőként gomb. Nyomja le az Entert, ha a Chrome-ot szeretné beállítani a rendszer alapértelmezett böngészőjeként az iOS beállításaiban</translation>
+<translation id="2512413427717747692">A WEB3 DNA Browser beállítása alapértelmezett böngészőként gomb. Nyomja le az Entert, ha a WEB3 DNA Browser-ot szeretné beállítani a rendszer alapértelmezett böngészőjeként az iOS beállításaiban</translation>
 <translation id="2515629240566999685">A térerő ellenőrzése tartózkodási helyén</translation>
 <translation id="2515761554693942801">Úgy döntött, hogy a Touch ID használatával igazolja magát a következőt használó webhelyeken: <ph name="PROVIDER_ORIGIN" />. Ez a szolgáltató eltárolhatott információkat az Ön fizetési módjáról. Ön <ph name="LINK_TEXT" />.</translation>
 <translation id="2521385132275182522">Kapocs jobbra lent</translation>
@@ -626,7 +626,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2542106216580219892">Szörfözés</translation>
 <translation id="2544546346215446551">Rendszergazdája újraindította az Ön eszközét</translation>
 <translation id="2544644783021658368">Egyetlen dokumentum</translation>
-<translation id="254524874071906077">A Chrome beállítása alapértelmezett böngészőként</translation>
+<translation id="1319028298140338735">A WEB3 DNA Browser beállítása alapértelmezett böngészőként</translation>
 <translation id="2546283357679194313">Cookie-k és webhelyadatok</translation>
 <translation id="2547466893236767989">Webdesign és -fejlesztés</translation>
 <translation id="254947805923345898">A házirend értéke nem érvényes.</translation>
@@ -641,19 +641,19 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2570734079541893434">Beállítások kezelése</translation>
 <translation id="2573834589046842510">Nyomdászat és kiadás</translation>
 <translation id="257674075312929031">Csoport</translation>
-<translation id="2576880857912732701">Biztonsági beállítások kezelése gomb. Nyomja le az Enter billentyűt a Biztonságos Böngészésnek és más funkcióknak a Chrome-beállítások közötti kezeléséhez.</translation>
+<translation id="2576880857912732701">Biztonsági beállítások kezelése gomb. Nyomja le az Enter billentyűt a Biztonságos Böngészésnek és más funkcióknak a WEB3 DNA Browser-beállítások közötti kezeléséhez.</translation>
 <translation id="2586657967955657006">Vágólap</translation>
 <translation id="2587730715158995865">Forrás: <ph name="ARTICLE_PUBLISHER" />. Olvassa el ezt és további <ph name="OTHER_ARTICLE_COUNT" /> hírt.</translation>
 <translation id="2587841377698384444">Könyvtár API-azonosítója:</translation>
 <translation id="2594318783181750337">Gyors webnézet:</translation>
 <translation id="2595719060046994702">Ezt az eszközt és fiókot nem kezeli cég vagy más szervezet.</translation>
-<translation id="2596415276201385844">Biztonságos kapcsolat létrehozásához az órát pontosan be kell állítani.Ez azért szükséges, mert a webhelyek által az azonosításukra használt tanúsítványok csak adott ideig érvényesek. Mivel az eszköz órája nem pontos, a Chrome nem tudja ellenőrizni ezeket a tanúsítványokat.</translation>
+<translation id="7968235694092767490">Biztonságos kapcsolat létrehozásához az órát pontosan be kell állítani.Ez azért szükséges, mert a webhelyek által az azonosításukra használt tanúsítványok csak adott ideig érvényesek. Mivel az eszköz órája nem pontos, a WEB3 DNA Browser nem tudja ellenőrizni ezeket a tanúsítványokat.</translation>
 <translation id="2597378329261239068">Ez a dokumentum jelszóval védett. Kérjük, adja meg a jelszót.</translation>
 <translation id="259821504105826686">Fényképezés és digitális művészetek</translation>
 <translation id="2601150049980261779">Romantikus filmek</translation>
 <translation id="2604589665489080024">Popzene</translation>
 <translation id="2610561535971892504">Kattintson a másoláshoz</translation>
-<translation id="2617988307566202237">A Chrome <ph name="BEGIN_EMPHASIS" />nem menti<ph name="END_EMPHASIS" /> a következő adatokat:
+<translation id="6174516088921923215">A WEB3 DNA Browser <ph name="BEGIN_EMPHASIS" />nem menti<ph name="END_EMPHASIS" /> a következő adatokat:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />böngészési előzmények;
             <ph name="LIST_ITEM" />cookie-k és webhelyadatok;
@@ -661,14 +661,14 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
           <ph name="END_LIST" /></translation>
 <translation id="2625385379895617796">Az órája siet</translation>
 <translation id="262745152991669301">Engedélyt kérhet az USB-eszközökhöz való csatlakozásra</translation>
-<translation id="2629325967560697240">A Chrome legmagasabb szintű biztonságának eléréséhez <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />kapcsolja be a speciális védelmet<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
+<translation id="9155656925188613813">A WEB3 DNA Browser legmagasabb szintű biztonságának eléréséhez <ph name="BEGIN_ENHANCED_PROTECTION_LINK" />kapcsolja be a speciális védelmet<ph name="END_ENHANCED_PROTECTION_LINK" /></translation>
 <translation id="2634124572758952069">A(z) <ph name="HOST_NAME" /> szerver IP-címe nem található.</translation>
 <translation id="2639739919103226564">Állapot:</translation>
 <translation id="2643134278432436513">Hajápolás</translation>
 <translation id="2647852283046201479">Stratégiai játékok</translation>
 <translation id="264810637653812429">Nem találhatók kompatibilis eszközök.</translation>
 <translation id="2649204054376361687"><ph name="CITY" />, <ph name="COUNTRY" /></translation>
-<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt a böngészési előzményeknek, a cookie-knak, a gyorsítótárnak és egyebeknek a Chrome beállításaiban való törléséhez</translation>
+<translation id="2649259151839507861"><ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt a böngészési előzményeknek, a cookie-knak, a gyorsítótárnak és egyebeknek a WEB3 DNA Browser beállításaiban való törléséhez</translation>
 <translation id="2650446666397867134">A hozzáférés a fájlhoz megtagadva.</translation>
 <translation id="2653659639078652383">Küldés</translation>
 <translation id="2657637947725373811">{0,plural, =1{Átviszi a bizalmas fájlt?}other{Átviszi a bizalmas fájlokat?}}</translation>
@@ -696,11 +696,11 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2705137772291741111">A webhely mentett (gyorsítótárazott) példánya nem olvasható.</translation>
 <translation id="2709516037105925701">Automatikus kitöltés</translation>
 <translation id="2713444072780614174">Fehér</translation>
-<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt a fizetési és hitelkártyaadatoknak a Chrome beállításaiban való kezeléséhez</translation>
+<translation id="2715612312510870559"><ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt a fizetési és hitelkártyaadatoknak a WEB3 DNA Browser beállításaiban való kezeléséhez</translation>
 <translation id="2715808615350965923">„Super A” méret</translation>
 <translation id="271663710482723385">A teljes képernyős módból való kilépéshez nyomja le a következő billentyűkombinációt: |<ph name="ACCELERATOR1" />| + |<ph name="ACCELERATOR2" />|</translation>
 <translation id="2721148159707890343">Sikeres kérés</translation>
-<translation id="2723669454293168317">Biztonsági ellenőrzés futtatása a Chrome-beállításokban</translation>
+<translation id="2723669454293168317">Biztonsági ellenőrzés futtatása a WEB3 DNA Browser-beállításokban</translation>
 <translation id="2726001110728089263">Oldalsó tálca</translation>
 <translation id="2728127805433021124">A szerver tanúsítványa gyenge aláírási algoritmussal van aláírva.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK" />Kapcsolódási diagnosztika futtatása<ph name="END_LINK" /></translation>
@@ -740,7 +740,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="287596039013813457">Barátságos</translation>
 <translation id="28761159517501904">Filmek</translation>
 <translation id="2876489322757410363">Az inkognitó mód elhagyása külső alkalmazással történő fizetéshez. Folytatja?</translation>
-<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a Biztonságos Böngészés és más funkciók Chrome-beállítások közötti kezeléséhez.</translation>
+<translation id="2876949457278336305"><ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a Biztonságos Böngészés és más funkciók WEB3 DNA Browser-beállítások közötti kezeléséhez.</translation>
 <translation id="2878197950673342043">Kereszthajtás</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2881276955470682203">Menti a kártyát?</translation>
@@ -752,7 +752,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="290376772003165898">Az oldal nem <ph name="LANGUAGE" /> nyelvű?</translation>
 <translation id="2909946352844186028">Változást érzékeltünk a hálózatban.</translation>
 <translation id="2911973620368911614">Munkafiók felhasználói azonosítója</translation>
-<translation id="2914160345369867329">A(z) <ph name="SITE" /> webhely rendes esetben titkosítást alkalmaz az Ön adatainak védelme érdekében. Amikor a Chrome most csatlakozni próbált, a(z) <ph name="SITE" /> webhely szokatlan és helytelen hitelesítési adatokat küldött vissza. Ez olyankor fordulhat elő, amikor egy támadó megpróbálja magát kiadni a(z) <ph name="SITE" /> webhelynek, vagy valamilyen Wi-Fi-bejelentkezési képernyő megszakította a kapcsolatot. Adatai továbbra is biztonságban vannak, mivel a Chrome még azt megelőzően megszakította a kapcsolatot, hogy bármiféle adatcserére sor kerülhetett volna.</translation>
+<translation id="6754677106668042373">A(z) <ph name="SITE" /> webhely rendes esetben titkosítást alkalmaz az Ön adatainak védelme érdekében. Amikor a WEB3 DNA Browser most csatlakozni próbált, a(z) <ph name="SITE" /> webhely szokatlan és helytelen hitelesítési adatokat küldött vissza. Ez olyankor fordulhat elő, amikor egy támadó megpróbálja magát kiadni a(z) <ph name="SITE" /> webhelynek, vagy valamilyen Wi-Fi-bejelentkezési képernyő megszakította a kapcsolatot. Adatai továbbra is biztonságban vannak, mivel a WEB3 DNA Browser még azt megelőzően megszakította a kapcsolatot, hogy bármiféle adatcserére sor kerülhetett volna.</translation>
 <translation id="2915068235268646559">Összeomlás – <ph name="CRASH_TIME" /></translation>
 <translation id="2915496182262110498">Festés</translation>
 <translation id="2916038427272391327">Zárja be a többi programot</translation>
@@ -769,7 +769,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2943895734390379394">Feltöltés ideje:</translation>
 <translation id="2945026002409061480">Online közösségek</translation>
 <translation id="2948083400971632585">Bármelyik kapcsolatlétesítésre használt proxyt letilthatja a beállítások oldalon.</translation>
-<translation id="2949183777371959169">Figyelmen kívül hagyva, mert a gép nincs regisztrálva a Chrome Browser Cloud Management szolgáltatásra.</translation>
+<translation id="7786089409521529641">Figyelmen kívül hagyva, mert a gép nincs regisztrálva a WEB3 DNA Browser Browser Cloud Management szolgáltatásra.</translation>
 <translation id="2951588413176968965">Saját postaládám</translation>
 <translation id="2952820037279740115">Az összes inkognitóablak bezárása</translation>
 <translation id="2952904171810469095">A2x5</translation>
@@ -783,7 +783,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2977665033722899841"><ph name="ROW_NAME" /> van jelenleg kiválasztva. <ph name="ROW_CONTENT" /></translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2983666748527428214">Inkognitó lap megnyitása</translation>
-<translation id="2985306909656435243">Ha engedélyezi, a Chromium megőrzi a kártya másolatát ezen az eszközön a gyorsabb űrlapkitöltés érdekében.</translation>
+<translation id="6458065442802745995">Ha engedélyezi, a WEB3 DNA Browser megőrzi a kártya másolatát ezen az eszközön a gyorsabb űrlapkitöltés érdekében.</translation>
 <translation id="2985398929374701810">Érvényes címet adjon meg</translation>
 <translation id="2986368408720340940">Ez az átvételi mód nem áll rendelkezésre. Próbálkozzon másik móddal.</translation>
 <translation id="2987034854559945715">Nem található ilyen funkció</translation>
@@ -805,7 +805,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3037177537145227281">Ár nyomon követése…</translation>
 <translation id="3037605927509011580">A manóba!</translation>
 <translation id="3041612393474885105">Tanúsítvány adatai</translation>
-<translation id="305162504811187366">A Chrome távoliasztal-szolgáltatás előzményei, beleértve az időbélyegeket, a gazdagépeket és az ügyfelek munkamenet-azonosítóit is</translation>
+<translation id="6009592758194948058">A WEB3 DNA Browser távoliasztal-szolgáltatás előzményei, beleértve az időbélyegeket, a gazdagépeket és az ügyfelek munkamenet-azonosítóit is</translation>
 <translation id="3052964831964880138"><ph name="PRICE_DROP" /> értékű árcsökkenés a következő terméknél: <ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Javítókészlet szolgáltatás</translation>
 <translation id="306573536155379004">A játék elindult.</translation>
@@ -851,7 +851,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3194737229810486521">A(z) <ph name="URL" /> webhely állandó jelleggel adatokat szeretne tárolni az eszközön</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME" /> nyomtató a(z) <ph name="SERVER_NAME" /> nevű szerveren</translation>
 <translation id="3197136577151645743">Engedélyt kérhet annak észlelésére, hogy Ön mikor használja aktívan az eszközt</translation>
-<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt az adatok szinkronizálásának Chrome-beállítások közötti kezeléséhez.</translation>
+<translation id="3202497928925179914"><ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt az adatok szinkronizálásának WEB3 DNA Browser-beállítások közötti kezeléséhez.</translation>
 <translation id="320323717674993345">Fizetés visszavonása</translation>
 <translation id="3203366800380907218">Az internetről</translation>
 <translation id="3207960819495026254">Könyvjelző rögzítve</translation>
@@ -875,7 +875,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a böngésző megjelenésének személyre szabásához.</translation>
 <translation id="3240791268468473923">A biztonságos fizetés hitelesítési adataihoz tartozó nem egyező hitelesítési adatok űrlapja megnyitva</translation>
 <translation id="324180406144491771">A(z) „<ph name="HOST_NAME" />” linkjei le vannak tiltva</translation>
-<translation id="3248611290851046188">Ez a webhely olyan érdeklődési köröket határoz meg, amelyeket más webhelyek arra használhatnak fel, hogy hirdetéseket jelenítsenek meg Önnek. Ez a webhely ezenkívül a Chrome-tól is lekéri az érdeklődési köreit, hogy relevánsabb hirdetéseket jelenítsen meg Önnek.</translation>
+<translation id="8141792378421105106">Ez a webhely olyan érdeklődési köröket határoz meg, amelyeket más webhelyek arra használhatnak fel, hogy hirdetéseket jelenítsenek meg Önnek. Ez a webhely ezenkívül a WEB3 DNA Browser-tól is lekéri az érdeklődési köreit, hogy relevánsabb hirdetéseket jelenítsen meg Önnek.</translation>
 <translation id="3249151924975132674">Diákhitelek és felsőfokú képzés finanszírozása</translation>
 <translation id="3249845759089040423">Izgalmas</translation>
 <translation id="3250640885957938546">Reklám és marketing</translation>
@@ -885,7 +885,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3256863843508922226">Nyugdíjba vonulás és nyugdíj</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, tartsa lenyomva a Tab billentyűt, majd nyomja meg az Enter billentyűt új esemény gyors létrehozásához a Google Naptár szolgáltatással</translation>
 <translation id="3261488570342242926">További információ a virtuális kártyákról</translation>
-<translation id="3264837738038045344">A Chrome beállításainak kezelése gomb. Nyomja le az Enter gombot a Chrome beállításainak megnyitásához.</translation>
+<translation id="3264837738038045344">A WEB3 DNA Browser beállításainak kezelése gomb. Nyomja le az Enter gombot a WEB3 DNA Browser beállításainak megnyitásához.</translation>
 <translation id="3266793032086590337">Érték (ütközés)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{Nincs letiltott webhely, beleértve a kapcsolódó webhelyeket is}=1{1 letiltott webhely, beleértve a kapcsolódó webhelyeket is}other{# letiltott webhely, beleértve a kapcsolódó webhelyeket is}}</translation>
 <translation id="3268451620468152448">Megnyitott lapok</translation>
@@ -899,7 +899,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3287510313208355388">Letöltés online állapotban</translation>
 <translation id="3288238092761586174">Előfordulhat, hogy a(z) <ph name="URL" /> webhelynek további lépések megtételére van szüksége az Ön fizetésének ellenőrzéséhez.</translation>
 <translation id="3293642807462928945">További információ a(z) <ph name="POLICY_NAME" /> házirendről</translation>
-<translation id="3295444047715739395">Jelszavait a Chrome-beállítások között tekintheti meg és kezelheti</translation>
+<translation id="3295444047715739395">Jelszavait a WEB3 DNA Browser-beállítások között tekintheti meg és kezelheti</translation>
 <translation id="3299098170013242198">A Windows Hello be van kapcsolva a jelszavak kitöltéséhez</translation>
 <translation id="3303176609391916566">30 × 42 hüvelyk</translation>
 <translation id="3303855915957856445">Nincs találat</translation>
@@ -929,9 +929,9 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3366477098757335611">Kártyák megtekintése</translation>
 <translation id="3369192424181595722">Órahiba</translation>
 <translation id="3369459162151165748">Járműalkatrészek és kiegészítők</translation>
-<translation id="3371064404604898522">A Chrome beállítása alapértelmezett böngészőként</translation>
+<translation id="3371064404604898522">A WEB3 DNA Browser beállítása alapértelmezett böngészőként</translation>
 <translation id="337363190475750230">Deaktiválva</translation>
-<translation id="3375754925484257129">A Chrome biztonsági ellenőrzésének futtatása</translation>
+<translation id="3375754925484257129">A WEB3 DNA Browser biztonsági ellenőrzésének futtatása</translation>
 <translation id="3377144306166885718">A szerver elavult TLS-verziót használt.</translation>
 <translation id="3377188786107721145">Irányelv-előfeldolgozási hiba</translation>
 <translation id="3377736046129930310">Képernyőzár használata a kártyák gyorsabb ellenőrzése érdekében</translation>
@@ -955,7 +955,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3423742043356668186">Rendszer által meghatározott</translation>
 <translation id="3427092606871434483">Engedélyezés (alapértelmezett)</translation>
 <translation id="3427342743765426898">&amp;Szerkesztés újra</translation>
-<translation id="342781501876943858">A Chromium azt javasolja, hogy adjon meg új jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
+<translation id="6443314628900752956">A WEB3 DNA Browser azt javasolja, hogy adjon meg új jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
 <translation id="3428151540071562330">A DnsOverHttpsTemplates szerversablon-URI-k közül legalább egy érvénytelen, és nem használható.</translation>
 <translation id="3431216045099978607">Nyomja meg a(z) |<ph name="ACCELERATOR" />| gombot a teljes képernyős nézetből való kilépéshez és a letöltés megjelenítéséhez.</translation>
 <translation id="3431636764301398940">Kártya mentése az eszközre</translation>
@@ -977,7 +977,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3470563864795286535"><ph name="CLOSE_INCOGNITO_WINDOWS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt az összes jelenleg megnyitott inkognitó ablak bezárásához.</translation>
 <translation id="3477679029130949506">Mozi- és színházműsorok</translation>
 <translation id="3479552764303398839">Ne most</translation>
-<translation id="3484560055331845446">Elveszítheti a hozzáférést Google-fiókjához. A Chrome azt javasolja, hogy azonnal módosítsa jelszavát. Be kell majd jelentkeznie.</translation>
+<translation id="2148205384604312372">Elveszítheti a hozzáférést Google-fiókjához. A WEB3 DNA Browser azt javasolja, hogy azonnal módosítsa jelszavát. Be kell majd jelentkeznie.</translation>
 <translation id="3484861421501147767">Emlékeztető: Mentett promóciós kódot használhat fel</translation>
 <translation id="3487845404393360112">4. tálca</translation>
 <translation id="3495081129428749620">Keresés a következő oldalon:
@@ -986,7 +986,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3507936815618196901">3D-s térkép készítése az Ön környezetéről és a kamera pozíciójának követése</translation>
 <translation id="3512163584740124171">A böngésző figyelmen kívül hagyja ezt a házirendet, mert magasabb prioritással rendelkezik egy másik házirend ugyanabból a házirendcsoportból.</translation>
 <translation id="3515972145999192222">Szervezete letiltotta a(z) <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> webhelyet, mert irányelvet sért. <ph name="BEGIN_LEARN_MORE_LINK" />További információ<ph name="END_LEARN_MORE_LINK" />.</translation>
-<translation id="35172538073169599">Címek kezelése gomb. Nyomja le az Enter billentyűt a címek Chrome-beállítások közötti hozzáadásához és kezeléséhez.</translation>
+<translation id="35172538073169599">Címek kezelése gomb. Nyomja le az Enter billentyűt a címek WEB3 DNA Browser-beállítások közötti hozzáadásához és kezeléséhez.</translation>
 <translation id="3518941727116570328">Több elem kezelése</translation>
 <translation id="3525130752944427905">10 × 14 hüvelyk</translation>
 <translation id="3528171143076753409">A szervezet tanúsítványa nem megbízható.</translation>
@@ -1013,7 +1013,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3576616784287504635">A(z) <ph name="SITE" /> egyik beágyazott oldalának közlendője</translation>
 <translation id="3577473026931028326">Hiba történt. Próbálja újra.</translation>
 <translation id="3577902790357386792">Torna</translation>
-<translation id="3581089476000296252">A Chrome értesíteni fogja, ha készen áll az oldal. &lt;a&gt;Megszakítás&lt;/a&gt;</translation>
+<translation id="8000957821693253206">A WEB3 DNA Browser értesíteni fogja, ha készen áll az oldal. &lt;a&gt;Megszakítás&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Név hozzáadása</translation>
 <translation id="3583757800736429874">&amp;Áthelyezés újra</translation>
 <translation id="3584299510153766161">Két lyuk alul</translation>
@@ -1028,7 +1028,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3611317423880285981">Háztartási kellékek</translation>
 <translation id="3614103345592970299">Méret: 2</translation>
 <translation id="361438452008624280">„<ph name="LANGUAGE_ID" />” listabejegyzés: Ismeretlen vagy nem támogatott nyelv.</translation>
-<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a biztonsági ellenőrzés futtatásához a Chrome beállításaiban.</translation>
+<translation id="3614934205542186002"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a biztonsági ellenőrzés futtatásához a WEB3 DNA Browser beállításaiban.</translation>
 <translation id="3615877443314183785">Érvényes lejárati dátumot kell megadnia</translation>
 <translation id="36224234498066874">Böngészési adatok törlése…</translation>
 <translation id="362276910939193118">Az összes előzmény</translation>
@@ -1039,9 +1039,9 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3631244953324577188">Biometria</translation>
 <translation id="3632503704576938756">Képernyőmegosztás folytatva</translation>
 <translation id="3632892046558972264">Képernyőmegosztás szüneteltetve</translation>
-<translation id="3633738897356909127">Chrome frissítése gomb, nyomja le az Enter billentyűt a Chrome-nak a Chrome beállításaiban való frissítéséhez</translation>
+<translation id="3633738897356909127">WEB3 DNA Browser frissítése gomb, nyomja le az Enter billentyűt a WEB3 DNA Browser-nak a WEB3 DNA Browser beállításaiban való frissítéséhez</translation>
 <translation id="3634530185120165534">5. tálca</translation>
-<translation id="3634567936866541746">Megtévesztő webhelyen adta meg jelszavát. Fiókjai védelmében a Chrome azt javasolja, hogy ellenőrizze mentett jelszavait.</translation>
+<translation id="6586777830476909681">Megtévesztő webhelyen adta meg jelszavát. Fiókjai védelmében a WEB3 DNA Browser azt javasolja, hogy ellenőrizze mentett jelszavait.</translation>
 <translation id="3642638418806704195">Alkalmazás:</translation>
 <translation id="3647286794400715637">Minden egyes URL-karakterláncnak 1 vagy 2 URL-címet kell tartalmaznia.</translation>
 <translation id="3650584904733503804">Sikeres érvényesítés</translation>
@@ -1085,7 +1085,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3740319564441798148">Távolsági busz- és vonatközlekedés</translation>
 <translation id="3744111561329211289">Szinkronizálás a háttérben</translation>
 <translation id="3744286742364977428">A böngésző elemzés céljából a Google Cloudnak vagy harmadik feleknek továbbítja a letöltött fájlokat. A Google Cloud vagy a harmadik fél például bizalmas adatokat vagy rosszindulatú programokat kereshet a fájlokban, és az is előfordulhat, hogy a vállalati irányelvek alapján tárolni is fogják majd őket.</translation>
-<translation id="3744899669254331632">Most nem keresheti fel a(z) <ph name="SITE" /> webhelyet, mert az zavaros, a Chromium által nem feldolgozható hitelesítő adatokat küldött. A hálózati hibák és támadások általában ideiglenesek, úgyhogy az oldal később valószínűleg megfelelően fog működni.</translation>
+<translation id="3461179235677384837">Most nem keresheti fel a(z) <ph name="SITE" /> webhelyet, mert az zavaros, a WEB3 DNA Browser által nem feldolgozható hitelesítő adatokat küldött. A hálózati hibák és támadások általában ideiglenesek, úgyhogy az oldal később valószínűleg megfelelően fog működni.</translation>
 <translation id="3745099705178523657">A megerősítést követően a böngésző megosztja az Ön Google-fiókjából származó kártyaadatokat ezzel a webhellyel.</translation>
 <translation id="3748148204939282805">A támadók a(z) <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> webhelyen megpróbálhatják csellel rávenni Önt például arra, hogy veszélyes szoftvert telepítsen, vagy felfedje személyes adatait (jelszavakat, telefonszámokat, bankkártyaadatokat stb). <ph name="BEGIN_LEARN_MORE_LINK" />További információ<ph name="END_LEARN_MORE_LINK" />.</translation>
 <translation id="3748912308089554501">Repülőipar</translation>
@@ -1205,7 +1205,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4097288585054919042">Értesítések kikapcsolása</translation>
 <translation id="4098354747657067197">Megtévesztő webhely megnyitására készül</translation>
 <translation id="4099048595830172239">A rendszergazda által beállított házirend nem javasolja a képernyő <ph name="APPLICATION_TITLE" /> alkalmazással való megosztását, ha bizalmas tartalom látható a képernyőn:</translation>
-<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a Chrome-ban megjelenő betűméretek és betűképek személyre szabásához.</translation>
+<translation id="4099391883283080991"><ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a WEB3 DNA Browser-ban megjelenő betűméretek és betűképek személyre szabásához.</translation>
 <translation id="4101413244023615925">Szöveg és grafika</translation>
 <translation id="410148943680000050">Kiadványszerkesztés (DTP)</translation>
 <translation id="4103249731201008433">Az eszköz sorozatszáma érvénytelen</translation>
@@ -1257,7 +1257,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4214357935346142455">bejelentkezési képernyőn használt profil</translation>
 <translation id="4220128509585149162">Összeomlások</translation>
 <translation id="422022731706691852">A(z) <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> webhelyen lévő támadók megpróbálhatják rávenni Önt olyan programok telepítésére, amelyek károsak a böngészési élmény szempontjából (például módosítják a kezdőlapot vagy plusz hirdetéseket jelenítenek meg a felkeresett webhelyeken). <ph name="BEGIN_LEARN_MORE_LINK" />További információ<ph name="END_LEARN_MORE_LINK" />.</translation>
-<translation id="4221630205957821124">&lt;h4&gt;1. lépés: Jelentkezzen be a portálra&lt;/h4&gt;
+<translation id="8815963446268063427">&lt;h4&gt;1. lépés: Jelentkezzen be a portálra&lt;/h4&gt;
     &lt;p&gt;Az olyan nyilvános helyek Wi-Fi-hálózatai esetében, mint a kávézók és a repterek, bejelentkezés szükséges. A bejelentkezési oldal megtekintéséhez keresse fel valamelyik olyan oldalt, amely a &lt;code&gt;http://&lt;/code&gt; előtaggal kezdődik.&lt;/p&gt;
     &lt;ol&gt;
     &lt;li&gt;Keresse fel valamelyik tetszőleges, &lt;code&gt;http://&lt;/code&gt; karakterlánccal kezdődő webhelyet, például a következőt: &lt;a href="http://example.com" target="_blank"&gt;http://example.com&lt;/a&gt;.&lt;/li&gt;
@@ -1265,11 +1265,11 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
     &lt;/ol&gt;
     &lt;h4&gt;2. lépés: Nyissa meg a weboldalt inkognitó módban (csak számítógépen)&lt;/h4&gt;
     &lt;p&gt;Nyissa meg a felkeresett weboldalt inkognitó ablakban.&lt;/p&gt;
-    &lt;p&gt;Ha megnyílik az oldal, akkor valamelyik Chrome-bővítmény nem működik megfelelően. A hiba kijavításához kapcsolja ki a bővítményt.&lt;/p&gt;
+    &lt;p&gt;Ha megnyílik az oldal, akkor valamelyik WEB3 DNA Browser-bővítmény nem működik megfelelően. A hiba kijavításához kapcsolja ki a bővítményt.&lt;/p&gt;
     &lt;h4&gt;3. lépés: Frissítse az operációs rendszert&lt;/h4&gt;
     &lt;p&gt;Gondoskodjon arról, hogy az eszköz operációs rendszere naprakész legyen.&lt;/p&gt;
     &lt;h4&gt;4. tipp: Ideiglenesen kapcsolja ki a vírusirtó szoftvert&lt;/h4&gt;
-    &lt;p&gt;Ezt a hibát akkor láthatja, ha „HTTPS-védelmet” vagy „HTTPS-vizsgálatot” biztosító vírusirtó szoftvert használ, amely megakadályozza, hogy a Chrome gondoskodhasson a védelemről.&lt;/p&gt;
+    &lt;p&gt;Ezt a hibát akkor láthatja, ha „HTTPS-védelmet” vagy „HTTPS-vizsgálatot” biztosító vírusirtó szoftvert használ, amely megakadályozza, hogy a WEB3 DNA Browser gondoskodhasson a védelemről.&lt;/p&gt;
     &lt;p&gt;A probléma megoldásához kapcsolja ki vírusirtó szoftverét. Ha a weboldal a szoftver kikapcsolása után működik, minden alkalommal kapcsolja ki, ha biztonságos webhelyen jár.&lt;/p&gt;
     &lt;p&gt;Ne feledje el újra bekapcsolni a vírusirtó programot, ha elkészült.&lt;/p&gt;
     &lt;h4&gt;5. lépés: Vegyen igénybe külső segítséget&lt;/h4&gt;
@@ -1305,7 +1305,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4305666528087210886">A fájlhoz nem sikerült hozzáférni</translation>
 <translation id="4306529830550717874">Menti a címet?</translation>
 <translation id="4306812610847412719">vágólap</translation>
-<translation id="4308567447483056043">A rendszer figyelmen kívül hagyja ezt a házirendet, mert a felhasználó nem köthető a szervezethez. A házirend alkalmazásához a Chrome böngészőt és a profilt ugyanazon szervezetnek kell kezelnie a Felügyeleti Konzolon keresztül.</translation>
+<translation id="3323451588703398074">A rendszer figyelmen kívül hagyja ezt a házirendet, mert a felhasználó nem köthető a szervezethez. A házirend alkalmazásához a WEB3 DNA Browser böngészőt és a profilt ugyanazon szervezetnek kell kezelnie a Felügyeleti Konzolon keresztül.</translation>
 <translation id="4310070645992025887">Utazások keresése</translation>
 <translation id="4310496734563057511">Ha másokkal is megosztja ezt az eszközt, bekapcsolhatja a Windows Hello szolgáltatást, hogy igazolja személyazonosságát, amikor mentett jelszót használ</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1321,8 +1321,8 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4331519897422864041">5. kötegelő</translation>
 <translation id="4331708818696583467">Nem biztonságos</translation>
 <translation id="4333561522337981382">Ablakok kezelése az összes képernyőn</translation>
-<translation id="4340575312453649552">Ez a hirdetés az eszköz túl sok erőforrását használta, ezért a Chrome eltávolította.</translation>
-<translation id="4340982228985273705">A rendszer nem vállalat által kezeltként érzékeli ezt a számítógépet, ezért a házirend csak a Chrome Webáruházban tárolt bővítményeket tudja automatikusan telepíteni. A Chrome Webáruház frissítési URL-je: <ph name="CWS_UPDATE_URL" />.</translation>
+<translation id="3964216933844012257">Ez a hirdetés az eszköz túl sok erőforrását használta, ezért a WEB3 DNA Browser eltávolította.</translation>
+<translation id="2218799635675752219">A rendszer nem vállalat által kezeltként érzékeli ezt a számítógépet, ezért a házirend csak a WEB3 DNA Browser Webáruházban tárolt bővítményeket tudja automatikusan telepíteni. A WEB3 DNA Browser Webáruház frissítési URL-je: <ph name="CWS_UPDATE_URL" />.</translation>
 <translation id="4346197816712207223">Elfogadott hitelkártyák</translation>
 <translation id="4348834659292907206">A kapcsolat a következő webhellyel nem biztonságos: <ph name="SITE" /></translation>
 <translation id="4349365535725594680">Nem lehet megosztani bizalmas tartalmat</translation>
@@ -1333,7 +1333,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4356973930735388585">Előfordulhat, hogy a támadók ezen a webhelyen olyan veszélyes programokat próbálnak telepíteni számítógépére, amelyek ellopják vagy törlik adatait (például fotóit, jelszavait, üzeneteit vagy bankkártyájának adatait).</translation>
 <translation id="4358059973562876591">A DnsOverHttpsMode házirenddel kapcsolatos hiba miatt előfordulhat, hogy a megadott sablonok nem alkalmazhatók.</translation>
 <translation id="4358461427845829800">Fizetési módok kezelése…</translation>
-<translation id="4359160567981085931">Megtévesztő webhelyen adta meg jelszavát. A Chrome segíthet. Ha módosítani szeretné jelszavát, és értesíteni szeretné a Google-t arról, hogy fiókja veszélyben lehet, kattintson a Fiók védelme gombra.</translation>
+<translation id="4550052488331606118">Megtévesztő webhelyen adta meg jelszavát. A WEB3 DNA Browser segíthet. Ha módosítani szeretné jelszavát, és értesíteni szeretné a Google-t arról, hogy fiókja veszélyben lehet, kattintson a Fiók védelme gombra.</translation>
 <translation id="4363222835916186793">A termékhez tartozó értesítések ki vannak kapcsolva</translation>
 <translation id="437040971055499437">Biztonsági esemény történik</translation>
 <translation id="4372948949327679948">Várt <ph name="VALUE_TYPE" /> érték.</translation>
@@ -1350,7 +1350,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4411435778612100394">Szórakoztató elektronika</translation>
 <translation id="4414515549596849729">cookie-k és webhelyadatok</translation>
 <translation id="4415426530740016218">Átvételi cím</translation>
-<translation id="4424024547088906515">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványa a Chrome szerint nem megbízható. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
+<translation id="7486060888782747880">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványa a WEB3 DNA Browser szerint nem megbízható. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
 <translation id="4428065317363009941">Hirdetések személyre szabása</translation>
 <translation id="443121186588148776">Soros port</translation>
 <translation id="4432688616882109544">A(z) <ph name="HOST_NAME" /> nem fogadta el az Ön bejelentkezési tanúsítványát, vagy nem talált ilyet.</translation>
@@ -1374,7 +1374,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4489023393592172404">Kaku 4 boríték</translation>
 <translation id="4490717597759821841">A7</translation>
 <translation id="449126573531210296">Szinkronizált jelszavak titkosítása a Google-fiókkal</translation>
-<translation id="4492519888999857993">Ezek a funkciók alapértelmezés szerint le vannak tiltva. A Chrome későbbi verzióiban nem állnak majd rendelkezésre.</translation>
+<translation id="5711551727888568041">Ezek a funkciók alapértelmezés szerint le vannak tiltva. A WEB3 DNA Browser későbbi verzióiban nem állnak majd rendelkezésre.</translation>
 <translation id="4493480324863638523">Érvénytelen URL. Az URL-nek szabványos sémával kell rendelkeznie, például http://example.com vagy https://example.com.</translation>
 <translation id="4500587658229086076">nem biztonságos tartalmak</translation>
 <translation id="4506176782989081258">Érvényesítési hiba: <ph name="VALIDATION_ERROR" /></translation>
@@ -1382,7 +1382,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="450710068430902550">Megosztás a rendszergazdával</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt az oldalnak a Google Fordítóval történő lefordításához</translation>
 <translation id="4514308731478712184">Az utazások kikapcsolása</translation>
-<translation id="4515275063822566619">A kártyák és a címek a Chrome-ból és az Ön Google-fiókjából (<ph name="ACCOUNT_EMAIL" />) származnak. A <ph name="BEGIN_LINK" />Beállításokban<ph name="END_LINK" /> kezelheti őket.</translation>
+<translation id="3850866307128304430">A kártyák és a címek a WEB3 DNA Browser-ból és az Ön Google-fiókjából (<ph name="ACCOUNT_EMAIL" />) származnak. A <ph name="BEGIN_LINK" />Beállításokban<ph name="END_LINK" /> kezelheti őket.</translation>
 <translation id="4520048001084013693">A fájl letöltését rendszergazdai házirend tiltja</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Monarch boríték</translation>
@@ -1399,11 +1399,11 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="455113658016510503">A9</translation>
 <translation id="4558551763791394412">Próbálkozzon a bővítmények letiltásával.</translation>
 <translation id="4566017918361049074">Szabadtéri tevékenységek</translation>
-<translation id="4567686777917670400">A rendszergazda távolról módosítani tudja a böngészőbeállításokat. Az is lehetséges, hogy az eszközön végzett tevékenységeket a Chromiumon kívülről felügyelik. <ph name="BEGIN_LINK" />További információ<ph name="END_LINK" /></translation>
+<translation id="5323229076538691433">A rendszergazda távolról módosítani tudja a böngészőbeállításokat. Az is lehetséges, hogy az eszközön végzett tevékenységeket a Chromiumon kívülről felügyelik. <ph name="BEGIN_LINK" />További információ<ph name="END_LINK" /></translation>
 <translation id="457875822857220463">Szállítás</translation>
 <translation id="4582204425268416675">Kártya eltávolítása</translation>
 <translation id="4582595824823167856">SMS kérése</translation>
-<translation id="4587425331216688090">Eltávolítja a címet a Chrome-ból?</translation>
+<translation id="4549859745110415735">Eltávolítja a címet a WEB3 DNA Browser-ból?</translation>
 <translation id="459089498662672729">A rendszergazda által beállított házirend nem javasolja, hogy tartalmat illesszen be ide a következő helyről: <ph name="ORIGIN_NAME" /></translation>
 <translation id="4592951414987517459">A(z) <ph name="DOMAIN" /> domainnel való kapcsolata modern kriptográfiával van titkosítva.</translation>
 <translation id="4594403342090139922">&amp;Törlés visszavonása</translation>
@@ -1412,18 +1412,18 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4600084978141515058">Vegán konyha</translation>
 <translation id="4602465984861132303">Bowling</translation>
 <translation id="4606870351894164739">Hatásos</translation>
-<translation id="4607603470419975064">Chrome-tippek megjelenítése gomb, nyomja meg az Enter billentyűt a Chrome funkcióival kapcsolatos további információkért</translation>
-<translation id="4607608436550361748">Chrome-tippek megjelenítése</translation>
+<translation id="4607603470419975064">WEB3 DNA Browser-tippek megjelenítése gomb, nyomja meg az Enter billentyűt a WEB3 DNA Browser funkcióival kapcsolatos további információkért</translation>
+<translation id="4607608436550361748">WEB3 DNA Browser-tippek megjelenítése</translation>
 <translation id="460848736049414407">Rendszergazda által letiltva</translation>
 <translation id="4610279718074907952">Ez a webhely egy olyan, a(z) <ph name="SET_OWNER" /> által meghatározott csoportban található, amely láthatja az Ön tevékenységeit</translation>
 <translation id="4617273035598175554">Grafikai és animációs szoftverek</translation>
 <translation id="4622292761762557753">Átvitel mégis</translation>
-<translation id="4627675673814409125">Ez az irányelv nem állítható be a Chrome-profil szintjén, ezért figyelmen kívül hagyja a rendszer.</translation>
+<translation id="6607050922769407881">Ez az irányelv nem állítható be a WEB3 DNA Browser-profil szintjén, ezért figyelmen kívül hagyja a rendszer.</translation>
 <translation id="4628948037717959914">Fénykép</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Pénzvisszatérítéssel összekapcsolva</translation>
 <translation id="4636930964841734540">Információ</translation>
-<translation id="4638670630777875591">Inkognitó a Chromiumban</translation>
+<translation id="9064160697734393810">Inkognitó a Chromiumban</translation>
 <translation id="464342062220857295">Funkciók keresése</translation>
 <translation id="4644670975240021822">Fordított sorrend, lefelé fordítva</translation>
 <translation id="4646534391647090355">Megnézem most</translation>
@@ -1461,7 +1461,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4731638775147756694">Ezt az alkalmazást a rendszergazda letiltotta</translation>
 <translation id="4733082559415072992">A(z) <ph name="URL" /> az eszköz helyadatait szeretné használni</translation>
 <translation id="4736491186715342415">Gépjárművek</translation>
-<translation id="4736825316280949806">Indítsa újra a Chromiumot</translation>
+<translation id="1624940062651381269">Indítsa újra a Chromiumot</translation>
 <translation id="4736934858538408121">Virtuális kártya</translation>
 <translation id="473775607612524610">Frissítés</translation>
 <translation id="4738601419177586157"><ph name="TEXT" /> keresési javaslat</translation>
@@ -1475,10 +1475,10 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4754461935447132332">Nincs engedélyezve nem biztonságos webhelyeknél</translation>
 <translation id="4756388243121344051">&amp;Előzmények</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="4757993714154412917">Megtévesztő webhelyen adta meg jelszavát. Fiókjai védelmében a Chromium azt javasolja, hogy ellenőrizze mentett jelszavait.</translation>
+
 <translation id="4758311279753947758">Névjegyadatok hozzáadása</translation>
 <translation id="4761104368405085019">Mikrofon használata</translation>
-<translation id="4761869838909035636">A Chrome biztonsági ellenőrzésének futtatása</translation>
+<translation id="2178430137592069173">A WEB3 DNA Browser biztonsági ellenőrzésének futtatása</translation>
 <translation id="4764776831041365478">A <ph name="URL" /> weboldal ideiglenesen nem érhető el, vagy véglegesen új címre költözött.</translation>
 <translation id="4766713847338118463">Kettő kapocs alul</translation>
 <translation id="4771973620359291008">Ismeretlen hiba történt.</translation>
@@ -1509,7 +1509,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4834250788637067901">A Google Pay szolgáltatásban használt fizetési módok, ajánlatok és címek</translation>
 <translation id="4838327282952368871">Álmodozó</translation>
 <translation id="4839087176073128681">Fizessen gyorsabban legközelebb, és védje meg kártyáját a Google iparági szinten vezető biztonsági megoldásával.</translation>
-<translation id="4840250757394056958">Chrome-előzmények megtekintése</translation>
+<translation id="4840250757394056958">WEB3 DNA Browser-előzmények megtekintése</translation>
 <translation id="484462545196658690">Automatikus</translation>
 <translation id="484671803914931257">Kedvezmények <ph name="MERCHANT_NAME" /> keresekedőnél és másoknál</translation>
 <translation id="484988093836683706">Eszközfeloldási módszer használata</translation>
@@ -1551,7 +1551,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4934780484581617878">Ablakkezelés</translation>
 <translation id="4936134414789135531">A beillesztett <ph name="VALUE_NAME" /> nem található.</translation>
 <translation id="4936675324097895694">Pénzügy</translation>
-<translation id="4940163644868678279">Inkognitó a Chrome-ban</translation>
+
 <translation id="4943872375798546930">Nincs találat</translation>
 <translation id="4943933359574417591">Szöveges és azonnali üzenetek</translation>
 <translation id="4950898438188848926">Lapváltó gomb. Nyomja meg az Entert a következő megnyitott lapra való váltáshoz: <ph name="TAB_SWITCH_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
@@ -1574,7 +1574,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4995216769782533993">Ahhoz, hogy megoszthassa kártyájának adatait ezzel a webhellyel, meg kell erősítenie a biztonsági kódot</translation>
 <translation id="4995474875135717171">Módosítva:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a Site Search és az alapértelmezett keresőmotor kezeléséhez.</translation>
-<translation id="5002932099480077015">Ha engedélyezi, a Chrome megőrzi a kártya másolatát ezen az eszközön a gyorsabb űrlapkitöltés érdekében.</translation>
+
 <translation id="5011561501798487822">Észlelt nyelv</translation>
 <translation id="5015510746216210676">Számítógépnév:</translation>
 <translation id="5017554619425969104">Vágólapra másolt szöveg</translation>
@@ -1583,7 +1583,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5018802455907704660">16 × 20 hüvelyk</translation>
 <translation id="5019198164206649151">A háttértároló állapota nem megfelelő</translation>
 <translation id="5020776957610079374">Világzene</translation>
-<translation id="5021557570875267742">Árak nyomon követése a Chrome segítségével</translation>
+<translation id="4735860266347344416">Árak nyomon követése a WEB3 DNA Browser segítségével</translation>
 <translation id="5023310440958281426">Ellenőrizze rendszergazdai házirendjeit</translation>
 <translation id="5029568752722684782">Példány törlése</translation>
 <translation id="5030338702439866405">Kiállította:</translation>
@@ -1616,7 +1616,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5087580092889165836">Kártya hozzáadása</translation>
 <translation id="5088142053160410913">Üzenet az operátornak</translation>
 <translation id="5093232627742069661">Z-hajtás</translation>
-<translation id="5094747076828555589">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványa a Chromium szerint nem megbízható. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
+
 <translation id="5097099694988056070">Eszközstatisztikák, például processzor- és memóriahasználat</translation>
 <translation id="5097468150760963273">27 × 39 hüvelyk</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1650,7 +1650,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5161506081086828129">9. kötegelő</translation>
 <translation id="5164798890604758545">Szövegbevitel történt</translation>
 <translation id="516920405563544094">Adja meg a(z) <ph name="CREDIT_CARD" /> kártya CVC-kódját. A megerősítést követően a böngésző megosztja majd az Ön Google-fiókjából származó kártyaadatokat ezzel a webhellyel.</translation>
-<translation id="5169827969064885044">Elveszítheti a hozzáférést szervezete fiókjához, vagy visszaélhetnek személyes adataival. A Chrome azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
+
 <translation id="5171045022955879922">Keressen vagy írjon be egy URL-t</translation>
 <translation id="5172758083709347301">Számítógép</translation>
 <translation id="5177076414499237632">További információ az oldal forrásáról és témájáról</translation>
@@ -1662,7 +1662,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="51918995459521422">A(z) <ph name="ORIGIN" /> több fájlt szeretne letölteni</translation>
 <translation id="519422657042045905">A jelölési funkció nem áll rendelkezésre</translation>
 <translation id="5201306358585911203">Az oldal egyik beágyazott oldalának közlendője</translation>
-<translation id="5204468114771111727">A Chrome észlelte, hogy a most használt jelszava adatvédelmi incidensben volt érintett. A Google Segéd képes a jelszava automatikus módosítására.</translation>
+<translation id="214264184283456941">A WEB3 DNA Browser észlelte, hogy a most használt jelszava adatvédelmi incidensben volt érintett. A Google Segéd képes a jelszava automatikus módosítására.</translation>
 <translation id="5205222826937269299">A név megadása kötelező</translation>
 <translation id="5209518306177824490">SHA-1 ujjlenyomat</translation>
 <translation id="5209670883520018268">20. tálca</translation>
@@ -1679,7 +1679,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5239623327352565343">Helyadatok engedélyezve</translation>
 <translation id="5242889659037569123">Poggyász és egyéb utazási kellékek</translation>
 <translation id="5250209940322997802">„Csatlakozás a hálózathoz”</translation>
-<translation id="52517543715119994">További információ a Chrome funkcióiról</translation>
+<translation id="52517543715119994">További információ a WEB3 DNA Browser funkcióiról</translation>
 <translation id="5251803541071282808">Felhő</translation>
 <translation id="5254043433801397071">Nyomattartalom optimalizálása</translation>
 <translation id="5254958791078852567">E1</translation>
@@ -1701,7 +1701,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5287456746628258573">Ez a webhely elavult biztonsági konfigurációt használ, ezért előfordulhat, hogy mások látják az Ön adatait (például jelszavait vagy hitelkártyaszámait), amikor elküldi őket a webhelynek.</translation>
 <translation id="5288108484102287882">A házirendértékek ellenőrzése során figyelmeztetések merültek fel</translation>
 <translation id="5288393065350884210">Számvitel és auditálás</translation>
-<translation id="5288808348893593856">A webhely kapcsolata biztonságos, hacsak a Chrome nem értesíti Önt ennek ellenkezőjéről.</translation>
+<translation id="8429736460204202092">A webhely kapcsolata biztonságos, hacsak a WEB3 DNA Browser nem értesíti Önt ennek ellenkezőjéről.</translation>
 <translation id="5289384342738547352">Több dokumentum kezelése</translation>
 <translation id="5293919335876685914">Kupék</translation>
 <translation id="5296589789433599000">Főzés és receptek</translation>
@@ -1720,14 +1720,14 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5324080437450482387">Kapcsolatfelvételi adatok kiválasztása</translation>
 <translation id="5329858041417644019">A böngésző nem áll felügyelet alatt</translation>
 <translation id="5332219387342487447">Szállítási mód</translation>
-<translation id="5333022057423422993">A Chrome észlelte, hogy a most használt jelszava adatvédelmi incidensben volt érintett. Fiókjai biztonsága érdekében javasoljuk a mentett jelszavak ellenőrzését.</translation>
+<translation id="5377534826839863091">A WEB3 DNA Browser észlelte, hogy a most használt jelszava adatvédelmi incidensben volt érintett. Fiókjai biztonsága érdekében javasoljuk a mentett jelszavak ellenőrzését.</translation>
 <translation id="5334013548165032829">Részletes rendszernaplók</translation>
 <translation id="5334145288572353250">Menti a címet?</translation>
 <translation id="5335920952954443287">Dobogó szív</translation>
 <translation id="5340250774223869109">Alkalmazás letiltva</translation>
 <translation id="534295439873310000">NFC-eszközök</translation>
 <translation id="5344579389779391559">Ez az oldal fizetésre próbálhatja meg rávenni</translation>
-<translation id="5347645913823149105">Betűtípusok személyre szabása a Chrome-ban gomb. Nyomja le az Entert a Chrome-ban megjelenő betűméretek és betűképek személyre szabásához.</translation>
+<translation id="5347645913823149105">Betűtípusok személyre szabása a WEB3 DNA Browser-ban gomb. Nyomja le az Entert a WEB3 DNA Browser-ban megjelenő betűméretek és betűképek személyre szabásához.</translation>
 <translation id="5355557959165512791">Pillanatnyilag nem tudja felkeresni a(z) <ph name="SITE" /> webhelyet, mert a webhely tanúsítványát visszavonták. A hálózati hibák és támadások rendszerint átmenetiek, ezért az említett oldal működése később valószínűleg helyreáll.</translation>
 <translation id="5356837363448394805">Elvörösödött</translation>
 <translation id="5357848622083956825">Vizuális művészet és design</translation>
@@ -1746,7 +1746,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="540630185148148480">Értesítések bekapcsolása</translation>
 <translation id="540969355065856584">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványa jelenleg nem érvényes. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolatát.</translation>
 <translation id="5412040515238827314">Érvénytelen formátum: A rendszer mintalistát várt.</translation>
-<translation id="5412236728747081950">Ez a webhely lekéri az érdeklődési köreit a Chrome-tól, hogy relevánsabb hirdetéseket jelenítsen meg Önnek</translation>
+<translation id="3825896935771081728">Ez a webhely lekéri az érdeklődési köreit a WEB3 DNA Browser-tól, hogy relevánsabb hirdetéseket jelenítsen meg Önnek</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT" /> – <ph name="ADDITIONAL_TEXT" /></translation>
 <translation id="541416427766103491">4. kötegelő</translation>
 <translation id="5414511064953050917">Áthelyezés mindenképp</translation>
@@ -1789,7 +1789,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5526617258931667850"><ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a kisegítő eszközöknek a ChromeOS beállításaiban való személyre szabásához.</translation>
 <translation id="5528532273234423708">Otthonautomatizálás</translation>
 <translation id="55293785478302737">Éltűzés</translation>
-<translation id="5535133333442455806">Böngészési adatok törlése gomb, nyomja meg az Enter billentyűt a böngészési előzményeknek, a cookie-knak, a gyorsítótárnak és egyebeknek a Chrome beállításaiban való törléséhez</translation>
+<translation id="5535133333442455806">Böngészési adatok törlése gomb, nyomja meg az Enter billentyűt a böngészési előzményeknek, a cookie-knak, a gyorsítótárnak és egyebeknek a WEB3 DNA Browser beállításaiban való törléséhez</translation>
 <translation id="5536214594743852365">A(z) „<ph name="SECTION" />” szakasz megjelenítése</translation>
 <translation id="553782666181800029">Chou 2 boríték</translation>
 <translation id="5539243836947087108">Tutaj</translation>
@@ -1799,7 +1799,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5541546772353173584">E-mail-cím hozzáadása</translation>
 <translation id="5545756402275714221">Cikkek Önnek</translation>
 <translation id="5551890439174915351">100 × 200 mm</translation>
-<translation id="5552137475244467770">A Chrome rendszeres időközönként online közzétett listák alapján ellenőrzi az Ön jelszavait. Az eljárás során jelszavai és felhasználónevei titkosítva vannak, így senki nem láthatja őket, még a Google sem.</translation>
+<translation id="8518722024434498270">A WEB3 DNA Browser rendszeres időközönként online közzétett listák alapján ellenőrzi az Ön jelszavait. Az eljárás során jelszavai és felhasználónevei titkosítva vannak, így senki nem láthatja őket, még a Google sem.</translation>
 <translation id="5556459405103347317">Újratöltés</translation>
 <translation id="5560088892362098740">Lejárati dátum</translation>
 <translation id="55635442646131152">Dokumentumvázlat</translation>
@@ -1862,7 +1862,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5720705177508910913">Jelenlegi felhasználó</translation>
 <translation id="5723287205918986743">Védelmi ipar</translation>
 <translation id="5725567311035061582">Cookie-k és webhelyadatok kezelése</translation>
-<translation id="5730040223043577876">A Chrome azt javasolja, hogy adjon meg új jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
+
 <translation id="5736165827969430182">Fémek és bányászat</translation>
 <translation id="5737183892635480227">{NUM_CARDS,plural, =1{Kártya mentése a Google-fiókba}other{Kártyák mentése a Google-fiókba}}</translation>
 <translation id="5738385766833540397">Kezelheti a nyomon követett termékekkel kapcsolatos árcsökkenési értesítések fogadásának módját</translation>
@@ -1888,14 +1888,14 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5784606427469807560">A kártya ellenőrzése során hiba történt. Ellenőrizze az internetkapcsolatot, majd próbálkozzon újra.</translation>
 <translation id="5785756445106461925">Emellett az oldal azonban más forrásokat is tartalmaz, amelyek nem biztonságosak. Ezeket a forrásokat mások is megtekinthetik átvitel közben, és megváltoztatásukkal a támadók módosíthatják az oldal viselkedését.</translation>
 <translation id="5786044859038896871">Ki szeretné tölteni a kártyaadatait?</translation>
-<translation id="578633867165174378">A Chrome észlelte, hogy a most használt jelszava adatvédelmi incidensben volt érintett. Javasoljuk a jelszó azonnali módosítását.</translation>
+<translation id="5116020889491573249">A WEB3 DNA Browser észlelte, hogy a most használt jelszava adatvédelmi incidensben volt érintett. Javasoljuk a jelszó azonnali módosítását.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">Ki szeretné tölteni <ph name="CARD_DETAIL" /> kártyájának adataival?</translation>
 <translation id="5804241973901381774">Engedélyek</translation>
-<translation id="5808435672482059465">Chrome-előzmények megtekintése</translation>
+<translation id="7552154626705223867">WEB3 DNA Browser-előzmények megtekintése</translation>
 <translation id="5808542072418270309">Szimulációs játékok</translation>
 <translation id="5810442152076338065">A(z) <ph name="DOMAIN" /> domainnel való kapcsolata elavult kriptográfiával van titkosítva.</translation>
-<translation id="5812947184178430888">Amikor a Chrome biztonsági eseményeket észlel, a böngésző elküldi az eseménnyel kapcsolatos releváns adatokat a rendszergazdának. Az ilyen adatok közé tartozhatnak a Chrome-ban felkeresett oldalak URL-jei, a fájlnevek és metaadatok, valamint a webalapú alkalmazásokba, az eszközre és a Chrome-ba való bejelentkezéshez használt felhasználónév.</translation>
+<translation id="8479644990349381409">Amikor a WEB3 DNA Browser biztonsági eseményeket észlel, a böngésző elküldi az eseménnyel kapcsolatos releváns adatokat a rendszergazdának. Az ilyen adatok közé tartozhatnak a WEB3 DNA Browser-ban felkeresett oldalak URL-jei, a fájlnevek és metaadatok, valamint a webalapú alkalmazásokba, az eszközre és a WEB3 DNA Browser-ba való bejelentkezéshez használt felhasználónév.</translation>
 <translation id="5813119285467412249">&amp;Hozzáadás újra</translation>
 <translation id="5813309815819933152">Televíziós valóságshow-k</translation>
 <translation id="5813753398265398978">Fizika</translation>
@@ -2012,10 +2012,10 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6118782133429281336">Az eredetlista üres.</translation>
 <translation id="6120179357481664955">Emlékszik UPI-azonosítójára?</translation>
 <translation id="6122181661879998141">a kártya elején</translation>
-<translation id="6124432979022149706">Chrome Enterprise csatlakozási szoftverek</translation>
+<translation id="7419188267353166461">WEB3 DNA Browser Enterprise csatlakozási szoftverek</translation>
 <translation id="6126565365696310362">2. kínai boríték</translation>
 <translation id="6127379762771434464">Elem eltávolítva</translation>
-<translation id="6132161237766805930"><ph name="BEGIN_LINK" />További információ a Chrome inkognitó módjáról<ph name="END_LINK" /></translation>
+
 <translation id="6133984428121856852">A fájlkiterjesztés üres vagy hibás formátumú.</translation>
 <translation id="6139975341602920272">17 × 22 hüvelyk</translation>
 <translation id="6146055958333702838">Ellenőrizze a kábeleket, majd indítsa újra a routert, modemet vagy más
@@ -2041,10 +2041,10 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6197648101609735209">89 × 89 mm</translation>
 <translation id="6203231073485539293">Ellenőrizze az internetkapcsolatot</translation>
 <translation id="6212314149070368045">„US Fanfold” méret</translation>
-<translation id="6218753634732582820">Eltávolítja a címet a Chromiumból?</translation>
+
 <translation id="622039917539443112">Paralel hajtás</translation>
 <translation id="6221345481584921695">A Google – Biztonságos böngészés nemrég <ph name="BEGIN_LINK" />rosszindulatú programokat<ph name="END_LINK" /> észlelt a következő webhelyen: <ph name="SITE" />. A rendes esetben biztonságos webhelyek néha rosszindulatú programokkal fertőződnek. A rosszindulatú tartalom az ilyen programok következő ismert terjesztőjétől származik: <ph name="SUBRESOURCE_HOST" />.</translation>
-<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a kisegítő eszközöknek a Chrome beállításaiban való személyre szabásához.</translation>
+<translation id="6226163402662242066"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a kisegítő eszközöknek a WEB3 DNA Browser beállításaiban való személyre szabásához.</translation>
 <translation id="6229649258872345286">Családi utazás</translation>
 <translation id="6232271601416750929">Etikus szépségápolás</translation>
 <translation id="6233160458685643793">Vigyor</translation>
@@ -2053,7 +2053,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6240447795304464094">Google Pay-embléma</translation>
 <translation id="6241121617266208201">Javaslatok elrejtése</translation>
 <translation id="624499991300733384">Nyomatösszeállító szolgáltatás</translation>
-<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a Chrome-ban letöltött fájlok kezeléséhez.</translation>
+<translation id="6252613631861574218"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a WEB3 DNA Browser-ban letöltött fájlok kezeléséhez.</translation>
 <translation id="6254436959401408446">Nincs elég memória az oldal megnyitásához</translation>
 <translation id="6259156558325130047">&amp;Átrendezés újra</translation>
 <translation id="6263376278284652872"><ph name="DOMAIN" /> könyvjelzők</translation>
@@ -2061,21 +2061,21 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6264485186158353794">Vissza a biztonsághoz</translation>
 <translation id="6265794661083428563">A(z) <ph name="POLICY_NAME" /> házirend értékének másolása</translation>
 <translation id="6266934640124581640">Világos pávakék</translation>
-<translation id="6272088941196661550">Utazás folytatása a Chrome-előzmények között található releváns tevékenységek megtekintéséhez</translation>
+<translation id="1989642600714730446">Utazás folytatása a WEB3 DNA Browser-előzmények között található releváns tevékenységek megtekintéséhez</translation>
 <translation id="6272383483618007430">Google Frissítés</translation>
 <translation id="6276112860590028508">Az olvasási listájának adatai itt jelennek meg</translation>
 <translation id="627746635834430766">A következő alkalommal gyorsabban fizethet, ha Google-fiókjába menti kártyáját és számlázási címét.</translation>
 <translation id="6279183038361895380">Az egérmutató megjelenítéséhez nyomja meg a következő billentyűt: |<ph name="ACCELERATOR" />|</translation>
 <translation id="6280223929691119688">Erre a címre nem lehetséges a kézbesítés. Válasszon másik címet.</translation>
 <translation id="6284292079994426700">26 × 38 hüvelyk</translation>
-<translation id="6285507000506177184">Letöltések kezelése a Chrome-ban gomb. Nyomja le az Enter billentyűt a Chrome-ban letöltött fájlok kezeléséhez.</translation>
+<translation id="6285507000506177184">Letöltések kezelése a WEB3 DNA Browser-ban gomb. Nyomja le az Enter billentyűt a WEB3 DNA Browser-ban letöltött fájlok kezeléséhez.</translation>
 <translation id="6289939620939689042">Oldalszín</translation>
 <translation id="6290238015253830360">A javasolt cikkek helye</translation>
 <translation id="6293309776179964942">JIS B5</translation>
 <translation id="6295618774959045776">CVC:</translation>
 <translation id="6300452962057769623">{0,plural, =0{Eszköze most újraindul}=1{Eszköze 1 másodperc múlva újraindul}other{Eszköze # másodperc múlva újraindul}}</translation>
 <translation id="6301104306974789820">Árkövetési értesítések fogadása</translation>
-<translation id="6302269476990306341">A Google Segéd a Chrome-ban szolgáltatás leáll</translation>
+<translation id="6804344251855709483">A Google Segéd a WEB3 DNA Browser-ban szolgáltatás leáll</translation>
 <translation id="6305205051461490394">A(z) <ph name="URL" /> nem érhető el.</translation>
 <translation id="6311165245110979290">Virtuális kártya rendelkezésre áll</translation>
 <translation id="6312113039770857350">A weboldal nem érhető el</translation>
@@ -2084,7 +2084,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6319249456820053699">Fényképezőgépek és kamerák</translation>
 <translation id="6321917430147971392">Ellenőrizze a DNS-beállításokat</translation>
 <translation id="6322182122604171028">Hiba történt a Windows Hello használata során</translation>
-<translation id="6326947323444967009">A Chrome beállítása a rendszer alapértelmezett böngészőjeként az iOS beállításaiban</translation>
+<translation id="6326947323444967009">A WEB3 DNA Browser beállítása a rendszer alapértelmezett böngészőjeként az iOS beállításaiban</translation>
 <translation id="6328639280570009161">Próbálkozzon a hálózati előrejelzések kikapcsolásával</translation>
 <translation id="6328784461820205019">„Az Ön kapcsolata nem privát”, „&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;”, „&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;”, „&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;”, „&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;” vagy „SSL-tanúsítványhiba”</translation>
 <translation id="6328786501058569169">A webhely megtévesztő</translation>
@@ -2095,7 +2095,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6348220984832452017">Aktív változatok</translation>
 <translation id="6349101878882523185"><ph name="APP_NAME" /> telepítése</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Nincs}=1{1 jelszó (a következő domainekhez: <ph name="DOMAIN_LIST" />, szinkronizálva)}=2{2 jelszó (a következő domainekhez: <ph name="DOMAIN_LIST" />, szinkronizálva)}other{# jelszó (a következő domainekhez: <ph name="DOMAIN_LIST" />, szinkronizálva)}}</translation>
-<translation id="6355392890578844978">Ezt a böngészőt nem kezeli cég vagy más szervezet. Lehetséges, hogy az eszközön végzett tevékenységeket a Chromiumon kívülről felügyelik. <ph name="BEGIN_LINK" />További információ<ph name="END_LINK" /></translation>
+<translation id="8005063923560553803">Ezt a böngészőt nem kezeli cég vagy más szervezet. Lehetséges, hogy az eszközön végzett tevékenységeket a Chromiumon kívülről felügyelik. <ph name="BEGIN_LINK" />További információ<ph name="END_LINK" /></translation>
 <translation id="6358450015545214790">Mit jelent ez?</translation>
 <translation id="6361757823711327522">B7</translation>
 <translation id="6364095313648930329"><ph name="BEGIN_LINK" />A proxy, a tűzfal és a biztonságos DNS-szerver konfigurációjának ellenőrzése<ph name="END_LINK" /></translation>
@@ -2120,7 +2120,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6405181733356710802">Továbblép a(z) <ph name="APP_NAME" /> webhelyre?</translation>
 <translation id="6410264514553301377">Írja be a(z) <ph name="CREDIT_CARD" /> kártyán szereplő lejárati dátumot és CVC-t</translation>
 <translation id="6411107829285739505">A4x8</translation>
-<translation id="6415778972515849510">A Chromium segíthet a Google-fiók védelmében és a jelszó módosításában.</translation>
+<translation id="4571189034051647917">A WEB3 DNA Browser segíthet a Google-fiók védelmében és a jelszó módosításában.</translation>
 <translation id="6416877227920300343">„EDP” méret</translation>
 <translation id="6425092077175753609">Anyag</translation>
 <translation id="6427730057873428458">Kihajtható</translation>
@@ -2158,7 +2158,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6502626736864595182">Fórum- és chatszolgáltatók</translation>
 <translation id="6502991525169604759">Az Ön módosításai nélkül</translation>
 <translation id="6506959208958864820">Boríték</translation>
-<translation id="6508722015517270189">Indítsa újra a Chrome-ot</translation>
+
 <translation id="6513005815064132016">Engedélyt kérhet a kamera pozíciójának nyomon követésére</translation>
 <translation id="6517596291481585650">Figyelem: Ezt a házirendet nem egyesítette a rendszer listaként a házirend előírásainak megfelelően, mert nem lista.</translation>
 <translation id="6518133107902771759">Ellenőrzés</translation>
@@ -2179,11 +2179,11 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="657902945730878902">Rajzolás és színezés</translation>
 <translation id="6579630537141957243">Csatlakoztatja a MIDI-eszközt?</translation>
 <translation id="6579990219486187401">Világos rózsaszín</translation>
-<translation id="6587182488465657433">A Chrome észlelte, hogy a most használt jelszava adatvédelmi incidensben volt érintett. Fiókjai biztonsága érdekében javasoljuk ennek a jelszónak az azonnali módosítását, majd a mentett jelszavai ellenőrzését.</translation>
+<translation id="3021126460781205886">A WEB3 DNA Browser észlelte, hogy a most használt jelszava adatvédelmi incidensben volt érintett. Fiókjai biztonsága érdekében javasoljuk ennek a jelszónak az azonnali módosítását, majd a mentett jelszavai ellenőrzését.</translation>
 <translation id="6587893660316489419">B5 boríték</translation>
 <translation id="6587923378399804057">Vágólapra másolt link</translation>
 <translation id="6591833882275308647"><ph name="DEVICE_TYPE" /> eszköze nem áll felügyelet alatt</translation>
-<translation id="6592952801936330159">Webhelybeállítások kezelése gomb. Nyomja le az Enter billentyűt a webhelyek engedélyeinek és tárolt adatainak a Chrome-beállítások közötti kezeléséhez.</translation>
+<translation id="6592952801936330159">Webhelybeállítások kezelése gomb. Nyomja le az Enter billentyűt a webhelyek engedélyeinek és tárolt adatainak a WEB3 DNA Browser-beállítások közötti kezeléséhez.</translation>
 <translation id="6596325263575161958">Titkosítási lehetőségek</translation>
 <translation id="6599642189720630047">Nyomon követett termékek</translation>
 <translation id="6611723696964473273">Gazdasági hírek</translation>
@@ -2200,7 +2200,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6645291930348198241">Hozzáférés a cookie-khoz és a webhelyadatokhoz.</translation>
 <translation id="6645478838938543427">Az árcsökkenésről szóló értesítések a következő címre érkeznek majd: <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="6646269444027925224">{COUNT,plural, =0{Nincs}=1{1 webhelyről (a böngésző nem jelentkezteti ki Google-fiókjából)}other{# webhelyről (a böngésző nem jelentkezteti ki Google-fiókjából)}}</translation>
-<translation id="6648459603387803038">A rendszergazda távolról módosítani tudja a böngészőbeállításokat. Az is lehetséges, hogy az eszközön végzett tevékenységeket a Chrome-on kívülről felügyelik.</translation>
+<translation id="6228269625838082008">A rendszergazda távolról módosítani tudja a böngészőbeállításokat. Az is lehetséges, hogy az eszközön végzett tevékenységeket a WEB3 DNA Browser-on kívülről felügyelik.</translation>
 <translation id="6648524591329069940">Serif betűtípus</translation>
 <translation id="6649510485211003056">195 × 270 mm</translation>
 <translation id="6651270836885078973">Kezelő:</translation>
@@ -2212,7 +2212,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6663846344464066639">Összekulcsolt kéz</translation>
 <translation id="6665553082534466207">Három lyuk a jobb oldalon</translation>
 <translation id="6668389483194953109">Az észlelt papírméret neve „custom” (egyéni), de a „custom_size” tulajdonság üres vagy érvénytelen.</translation>
-<translation id="6671697161687535275">Eltávolítja az űrlapjavaslatot a Chromiumból?</translation>
+<translation id="3922033200710514285">Eltávolítja az űrlapjavaslatot a Chromiumból?</translation>
 <translation id="6683717648675961851">Álláshirdetések</translation>
 <translation id="6685834062052613830">Kijelentkezés és a beállítás befejezése</translation>
 <translation id="6687335167692595844">Kért betűméret</translation>
@@ -2220,7 +2220,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6688743156324860098">Frissítés…</translation>
 <translation id="6688775486821967877">A virtuális kártya jelenleg nem áll rendelkezésre, próbálja újra később</translation>
 <translation id="6689249931105087298">Relatív, feketepontos tömörítéssel</translation>
-<translation id="6689271823431384964">A Chrome felajánlja a kártyák mentését az Ön Google-fiókjába, mert be van jelentkezve. A beállítások között ezt bármikor módosíthatja. A kártyatulajdonos nevének forrása az Ön fiókja.</translation>
+<translation id="6568883612935818921">A WEB3 DNA Browser felajánlja a kártyák mentését az Ön Google-fiókjába, mert be van jelentkezve. A beállítások között ezt bármikor módosíthatja. A kártyatulajdonos nevének forrása az Ön fiókja.</translation>
 <translation id="6694681292321232194"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a Készülékkereső megnyitásához a Google-fiókban.</translation>
 <translation id="6696588630955820014">Lap megosztása gomb. Az Enter billentyű megnyomásával megoszthatja ezt a lapot a link megosztása, QR-kód létrehozása, átküldés és egyebek révén.</translation>
 <translation id="6698381487523150993">Létrehozva:</translation>
@@ -2285,7 +2285,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6883221904761970440">Biztonságos fizetés hitelesítési adatainak hitelesítési űrlapja bezárva.</translation>
 <translation id="6884662655240309489">Méret: 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE" /> <ph name="SHORT_URL" /></translation>
-<translation id="6888584790432772780">A Chrome egyszerűsítette ezt az oldalt, hogy könnyebben olvasható legyen. Az eredeti oldalt nem biztonságos kapcsolaton keresztül kérte le.</translation>
+<translation id="2764758098439961275">A WEB3 DNA Browser egyszerűsítette ezt az oldalt, hogy könnyebben olvasható legyen. Az eredeti oldalt nem biztonságos kapcsolaton keresztül kérte le.</translation>
 <translation id="6890443033788248019">Engedélyezi a helyadatokat?</translation>
 <translation id="6890531741535756070">Úgy döntött, hogy <ph name="DEVICE_LABEL" /> a használatával igazolja magát a következőt használó webhelyeken: <ph name="PROVIDER_ORIGIN" />. Ez a szolgáltató eltárolhatott információkat az Ön fizetési módjáról. Ön <ph name="BEGIN_LINK" />kérelmezheti az adatok törlését<ph name="END_LINK" />.</translation>
 <translation id="6891596781022320156">Ezt a házirendszintet a rendszer nem támogatja.</translation>
@@ -2358,7 +2358,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="7058774143982824355">Jelszavakat tartalmazó CSV-fájlt elemző szolgáltatás</translation>
 <translation id="7061777300866737982">Otthonvédelem és -biztonság</translation>
 <translation id="7062635574500127092">Pávakék</translation>
-<translation id="706295145388601875">Címek hozzáadása és kezelése a Chrome-beállítások között</translation>
+<translation id="706295145388601875">Címek hozzáadása és kezelése a WEB3 DNA Browser-beállítások között</translation>
 <translation id="7064851114919012435">Kapcsolatfelvételi adatok</translation>
 <translation id="7067633076996245366">Soul és R&amp;B</translation>
 <translation id="7068733155164172741">Adja meg a kapott, <ph name="OTP_LENGTH" /> számjegyből álló kódot</translation>
@@ -2369,11 +2369,11 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="7081308185095828845">Ez a funkció nem áll rendelkezésre az eszközén</translation>
 <translation id="7083258188081898530">9. tálca</translation>
 <translation id="7086090958708083563">A felhasználó kérte a feltöltést</translation>
-<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a webhelyek engedélyeinek és tárolt adatainak Chrome-beállítások közötti kezeléséhez.</translation>
+<translation id="7095139009144195559"><ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a webhelyek engedélyeinek és tárolt adatainak WEB3 DNA Browser-beállítások közötti kezeléséhez.</translation>
 <translation id="7096937462164235847">Igazolatlan azonosságú webhely.</translation>
 <translation id="7101893872976785596">Horrorfilmek</translation>
 <translation id="7102079138917191645">Építkezés és karbantartás</translation>
-<translation id="7102554173784142865">A Chrome dinós játékának elindítása</translation>
+<translation id="7102554173784142865">A WEB3 DNA Browser dinós játékának elindítása</translation>
 <translation id="7108338896283013870">Elrejtés</translation>
 <translation id="7108634116785509031">A(z) <ph name="HOST" /> webhely használni szeretné a kamerát</translation>
 <translation id="7108819624672055576">Bővítmény engedélyezi</translation>
@@ -2381,12 +2381,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="7112327784801341716">Nem látja aktuális adatait? A frissítés érdekében forduljon bankjához.</translation>
 <translation id="7118618213916969306">Vágólapon lévő URL, <ph name="SHORT_URL" /> keresése</translation>
 <translation id="7119414471315195487">Zárja be a többi lapot vagy programot</translation>
-<translation id="7129355289156517987">Amikor bezárja a Chromium összes inkognitó lapját, az érintett lapokon végzett tevékenységei, így a következők is törlődnek erről az eszközről:
-          <ph name="BEGIN_LIST" />
-            <ph name="LIST_ITEM" />böngészési tevékenységek;<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />keresési előzmények;<ph name="END_LIST_ITEM" />
-            <ph name="LIST_ITEM" />űrlapokon megadott információk.<ph name="END_LIST_ITEM" />
-          <ph name="END_LIST" /></translation>
+
 <translation id="7129409597930077180">Erre a címre nem lehetséges a szállítás. Válasszon másik címet.</translation>
 <translation id="7129809579943936035"><ph name="VALUE_PROP" /> <ph name="DETAILS" /></translation>
 <translation id="7130775116821607281">Feltöltés letiltva</translation>
@@ -2473,13 +2468,13 @@ További részletek:
 <translation id="7359588939039777303">Hirdetések letiltva.</translation>
 <translation id="7360451453306104998">Ha a Google talál egy kedvezményt, az megjelenik a fizetéskor</translation>
 <translation id="7363096869660964304">Azonban Ön nem teljesen láthatatlan. Az inkognitó mód használata nem rejti el böngészési műveleteit munkáltatója, az internetszolgáltatója és a felkeresett webhelyek elől.</translation>
-<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" /> Nyomja le a Tab, majd az Enter billentyűt a címek Chrome-beállítások közötti hozzáadásához és kezeléséhez.</translation>
+<translation id="7365596969960773405"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT" /> Nyomja le a Tab, majd az Enter billentyűt a címek WEB3 DNA Browser-beállítások közötti hozzáadásához és kezeléséhez.</translation>
 <translation id="7365849542400970216">Ismerheti a webhely az Ön eszközhasználatát?</translation>
 <translation id="7366117520888504990">198 × 275 mm</translation>
 <translation id="7366362069757178916">Fizetéskezelők</translation>
 <translation id="7372973238305370288">keresési találat</translation>
 <translation id="7374461526650987610">Protokollkezelők</translation>
-<translation id="7374733840632556089">A probléma oka az Ön vagy valaki más által az eszközre telepített egyik tanúsítvány. Erről a tanúsítványról tudni lehet, hogy hálózati forgalom megfigyelésére és elfogására használják, és a Chrome szerint nem megbízható. Bár a megfigyelésnek létezik néhány jogszerű formája (például iskolai vagy vállalati hálózatokon), a Chrome biztosra szeretne menni abban, hogy Ön ezzel tisztában van – még akkor is, ha Ön nem tud tenni ellene. A megfigyelés az internethez hozzáférő bármely böngészőben vagy alkalmazásban megtörténhet.</translation>
+
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Nincs engedélyezett webhely}=1{1 engedélyezett webhely}other{# engedélyezett webhely}}</translation>
 <translation id="7375818412732305729">Fájlcsatolás történt</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE" /> - <ph name="FULL_DATE" /></translation>
@@ -2497,7 +2492,7 @@ További részletek:
 <translation id="7400418766976504921">URL</translation>
 <translation id="7403392780200267761">Megoszthatja ezt a lapot a link használatával, QR-kód létrehozásával, átküldéssel és egyéb műveletekkel</translation>
 <translation id="7403591733719184120"><ph name="DEVICE_NAME" /> eszköze felügyelet alatt áll</translation>
-<translation id="7407424307057130981">&lt;p&gt;Ez a hibaüzenet akkor jelenik meg, ha Superfish szoftverrel rendelkezik Windows rendszerű számítógépen.&lt;/p&gt;
+<translation id="858721762484239365">&lt;p&gt;Ez a hibaüzenet akkor jelenik meg, ha Superfish szoftverrel rendelkezik Windows rendszerű számítógépen.&lt;/p&gt;
       &lt;p&gt;Kövesse ezeket a lépéseket, ha szeretné átmenetileg letiltani a szoftvert, hogy hozzáférhessen az internethez. Ehhez rendszergazdai jogosultságokra lesz szüksége.&lt;/p&gt;
       &lt;ol&gt;
       &lt;li&gt;Kattintson a &lt;strong&gt;Start&lt;/strong&gt; menüre, majd keresse meg és válassza ki a &lt;strong&gt;„Helyi szolgáltatások megjelenítése”&lt;/strong&gt; lehetőséget.
@@ -2505,7 +2500,7 @@ További részletek:
       &lt;li&gt;Az &lt;strong&gt;Indítási típus&lt;/strong&gt; részben válassza a &lt;strong&gt;Letiltva&lt;/strong&gt; lehetőséget.
       &lt;li&gt;A &lt;strong&gt;Szolgáltatás állapota&lt;/strong&gt; részben kattintson a &lt;strong&gt;Leállítás&lt;/strong&gt; gombra.
       &lt;li&gt;Kattintson az &lt;strong&gt;Alkalmaz&lt;/strong&gt;, majd az &lt;strong&gt;OK&lt;/strong&gt; gombra.
-      &lt;li&gt;Keresse fel a &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Chrome súgóját&lt;/a&gt;, ahol további információt talál a szoftver számítógépről történő végleges eltávolításáról.
+      &lt;li&gt;Keresse fel a &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;WEB3 DNA Browser súgóját&lt;/a&gt;, ahol további információt talál a szoftver számítógépről történő végleges eltávolításáról.
     &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Kedves</translation>
 <translation id="741204030948306876">Igen, folytatom</translation>
@@ -2513,7 +2508,7 @@ További részletek:
 <translation id="7418620734632363981">Programozás</translation>
 <translation id="7419106976560586862">Profil elérési útja</translation>
 <translation id="7421067045979951561">protokollkezelők</translation>
-<translation id="7426022697669111648">Chrome-előzmények megtekintése gomb. Nyomja le az Entert a böngészési előzmények megtekintéséhez és kezeléséhez a Chrome beállításaiban.</translation>
+<translation id="7426022697669111648">WEB3 DNA Browser-előzmények megtekintése gomb. Nyomja le az Entert a böngészési előzmények megtekintéséhez és kezeléséhez a WEB3 DNA Browser beállításaiban.</translation>
 <translation id="7427366580982928791">Gyermekek internetes biztonsága</translation>
 <translation id="7429429656042611765">„Executive” méret</translation>
 <translation id="7437289804838430631">Kapcsolatfelvételi adatok hozzáadása</translation>
@@ -2542,12 +2537,7 @@ További részletek:
 <translation id="7497998058912824456">Dokumentum létrehozása gomb, nyomja meg az Enter billentyűt egy új Google-dokumentum gyors létrehozásához</translation>
 <translation id="7501663406926337752">A megnyitni kívánt webhelyet megjelölte az Ön szervezete</translation>
 <translation id="7501853161948120656">Oktatási anyagok</translation>
-<translation id="7506488012654002225">A Chromium <ph name="BEGIN_EMPHASIS" />nem menti<ph name="END_EMPHASIS" /> a következő adatokat:
-        <ph name="BEGIN_LIST" />
-          <ph name="LIST_ITEM" />böngészési előzmények;
-          <ph name="LIST_ITEM" />cookie-k és webhelyadatok;
-          <ph name="LIST_ITEM" />űrlapokon megadott információk.
-        <ph name="END_LIST" /></translation>
+
 <translation id="7507075214339298899">9. boríték</translation>
 <translation id="7508255263130623398">A visszakapott házirend eszközazonosítója üres, vagy nem felel meg a jelenlegi eszközazonosítónak</translation>
 <translation id="7508870219247277067">Avokádózöld</translation>
@@ -2569,7 +2559,7 @@ További részletek:
 <translation id="7542995811387359312">Az automatikus bankkártya-kitöltés le van tiltva, mivel ez az űrlap nem biztonságos kapcsolatot használ.</translation>
 <translation id="7548892272833184391">A kapcsolódási hibák elhárítása</translation>
 <translation id="7549584377607005141">Ez a weboldal korábban megadott adatokat kér ahhoz, hogy megfelelően jelenjen meg. Az adatokat újra elküldheti, de ezzel meg fog ismételni minden olyan műveletet, amelyet ez az oldal korábban végrehajtott.</translation>
-<translation id="7550637293666041147">Az Ön eszközhöz és Chrome-hoz tartozó felhasználóneve</translation>
+<translation id="4843621636877577887">Az Ön eszközhöz és WEB3 DNA Browser-hoz tartozó felhasználóneve</translation>
 <translation id="7551484245293639699">Utazási biztosítás</translation>
 <translation id="755279583747225797">A próba aktív</translation>
 <translation id="7552846755917812628">Próbálja ki az alábbi tippeket:</translation>
@@ -2577,13 +2567,13 @@ További részletek:
 <translation id="7554791636758816595">Új lap</translation>
 <translation id="7555777498260651025">Családi tévéműsorok</translation>
 <translation id="7559278538486662777">Ezt az alkalmazást nem lehet átméretezni.</translation>
-<translation id="7564049878696755256">Elveszítheti hozzáférést <ph name="ORG_NAME" />-fiókjához, vagy visszaélhetnek személyes adataival. A Chrome azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
+<translation id="8940464370390138384">Elveszítheti hozzáférést <ph name="ORG_NAME" />-fiókjához, vagy visszaélhetnek személyes adataival. A WEB3 DNA Browser azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
 <translation id="7564680668369175887">Kombik</translation>
 <translation id="7567204685887185387">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványát csalással állíthatták ki. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
-<translation id="7568616151991626879">A Google Chrome megpróbálja kitölteni a jelszavát itt: <ph name="APP_NAME" />.</translation>
+<translation id="6904908563789447683">A WEB3 DNA Browser megpróbálja kitölteni a jelszavát itt: <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">A keresőmotorok gombjának kezelése. Az Enter billentyű lenyomásával kezelheti az alapértelmezett keresőmotort és a webhelyen való keresést</translation>
-<translation id="7569952961197462199">Eltávolítja a hitelkártyát a Chrome-ból?</translation>
+<translation id="9202224267417193484">Eltávolítja a hitelkártyát a WEB3 DNA Browser-ból?</translation>
 <translation id="7569983096843329377">Fekete</translation>
 <translation id="7575207903026901870">Javaslat eltávolítása gomb. Nyomja meg az Entert a javaslat eltávolításához</translation>
 <translation id="7577900504646297215">Érdeklődési körök kezelése</translation>
@@ -2602,15 +2592,15 @@ További részletek:
 <translation id="7600965453749440009">Soha ne fordítsa le a(z) <ph name="LANGUAGE" /> nyelvű szöveget</translation>
 <translation id="7610193165460212391">Az érték kívül esik a következő tartományon: <ph name="VALUE" />.</translation>
 <translation id="7613889955535752492">Lejárat: <ph name="EXPIRATION_MONTH" />/<ph name="EXPIRATION_YEAR" /></translation>
-<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt a jelszavaknak a Chrome beállításaiban való megtekintéséhez és kezeléséhez</translation>
-<translation id="7616645509853975347">Rendszergazdája bekapcsolta a Chrome Enterprise Connectors integrációs eszközöket az Ön böngészőjében. Az eszközök hozzáférnek bizonyos adatokhoz.</translation>
+<translation id="7614494068621678628"><ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt a jelszavaknak a WEB3 DNA Browser beállításaiban való megtekintéséhez és kezeléséhez</translation>
+<translation id="2698924724374512123">Rendszergazdája bekapcsolta a WEB3 DNA Browser Enterprise Connectors integrációs eszközöket az Ön böngészőjében. Az eszközök hozzáférnek bizonyos adatokhoz.</translation>
 <translation id="7617825962482469577">C7/C6 boríték</translation>
 <translation id="7619838219691048931">Befejező lap</translation>
 <translation id="7625242817712715120">A rendszergazda által beállított házirend nem javasolja ennek a tartalomnak a kinyomtatását</translation>
 <translation id="762844065391966283">Egyesével</translation>
 <translation id="7631444403134069754">Atlétika</translation>
 <translation id="7633909222644580952">Teljesítményre vonatkozó adatok és hibajelentések</translation>
-<translation id="7637571805876720304">Eltávolítja a hitelkártyát a Chromiumból?</translation>
+
 <translation id="7637586430889951925">{COUNT,plural, =0{Nincs}=1{1 jelszó található a fiókban (a következőhöz: <ph name="DOMAIN_LIST" />)}other{# jelszó található a fiókban (a következőhöz: <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Soros portok</translation>
 <translation id="7639968568612851608">Sötétszürke</translation>
@@ -2634,7 +2624,7 @@ További részletek:
 <translation id="7673278391011283842">6. postaláda</translation>
 <translation id="7675325315208090829">Fizetési módok kezelése…</translation>
 <translation id="7676643023259824263">Vágólapon lévő szöveg keresése, <ph name="TEXT" /></translation>
-<translation id="7679367271685653708">Megtekintheti és kezelheti böngészési előzményeit a Chrome beállításaiban.</translation>
+<translation id="7679367271685653708">Megtekintheti és kezelheti böngészési előzményeit a WEB3 DNA Browser beállításaiban.</translation>
 <translation id="7679947978757153706">Baseball</translation>
 <translation id="7681273392938116652">Fantasy sportok</translation>
 <translation id="7682287625158474539">Szállítási cím</translation>
@@ -2663,7 +2653,7 @@ További részletek:
 <translation id="7740996059027112821">Szokásos</translation>
 <translation id="77424286611022110">Ez a webhely tolakodó vagy félrevezető hirdetéseket jelenít meg. <ph name="LEARN_MORE_LINK_TEXT" /></translation>
 <translation id="774634243536837715">Veszélyes tartalom letiltva.</translation>
-<translation id="7751971323486164747">Személyre szabhatja a Chrome-ban megjelenő betűméreteket és betűképeket.</translation>
+<translation id="7751971323486164747">Személyre szabhatja a WEB3 DNA Browser-ban megjelenő betűméreteket és betűképeket.</translation>
 <translation id="7752995774971033316">Nem kezelt</translation>
 <translation id="7755624218968747854">Elsődleges tekercs</translation>
 <translation id="7758069387465995638">Előfordulhat, hogy a tűzfal vagy a vírusirtó szoftver tiltotta le a kapcsolatot.</translation>
@@ -2687,7 +2677,7 @@ További részletek:
 <translation id="7805571567667010077">A szervezete kezeli</translation>
 <translation id="7805768142964895445">Állapot</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="7813600968533626083">Eltávolítja a javaslatot a Chrome-ból?</translation>
+
 <translation id="781440967107097262">Engedélyezi a vágólap megosztását?</translation>
 <translation id="7815407501681723534"><ph name="NUMBER_OF_RESULTS" /> <ph name="SEARCH_RESULTS" /> található a(z) „<ph name="SEARCH_STRING" />” kifejezésre</translation>
 <translation id="7822320754433038727">Vadászat és lövészet</translation>
@@ -2722,8 +2712,8 @@ További részletek:
 <translation id="7943397946612013052">Letiltott letöltés</translation>
 <translation id="7943893128817522649">Engedélyt kérhet arra, hogy több fájlt is letöltsön automatikusan</translation>
 <translation id="7947285636476623132">Ellenőrizze a lejárati évet, majd próbálja újra</translation>
-<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, tartsa lenyomva a Tab billentyűt, majd nyomja meg az Enter billentyűt a Chrome funkcióival kapcsolatos további információkért</translation>
-<translation id="7950027195171824198">Cookie-beállítások kezelése a Chrome-beállítások között</translation>
+<translation id="7947813448670013867"><ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT" />, tartsa lenyomva a Tab billentyűt, majd nyomja meg az Enter billentyűt a WEB3 DNA Browser funkcióival kapcsolatos további információkért</translation>
+<translation id="7950027195171824198">Cookie-beállítások kezelése a WEB3 DNA Browser-beállítások között</translation>
 <translation id="7951415247503192394">(32 bites)</translation>
 <translation id="7952192831285741665">„Európai EDP” méret</translation>
 <translation id="7953569069500808819">Éltűzés felül</translation>
@@ -2738,7 +2728,7 @@ További részletek:
 <translation id="7981129096182302364">Dance és elektronikus zene</translation>
 <translation id="798134797138789862">Hozzáférést kérhet a virtuálisvalóság-eszközökhöz és -adatokhoz</translation>
 <translation id="7983008347525536475">Városi terepjárók</translation>
-<translation id="7984945080620862648">Pillanatnyilag nem tudja felkeresni a(z) <ph name="SITE" /> webhelyet, mivel a webhely olyan titkosított hitelesítő adatokat küldött, amelyeket a Chrome nem tud feldolgozni. A hálózati hibák és támadások rendszerint átmenetiek, ezért az említett oldal később valószínűleg már működni fog.</translation>
+
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Kötés</translation>
 <translation id="7992044431894087211">Képernyőmegosztás folytatva a(z) <ph name="APPLICATION_TITLE" /> alkalmazással</translation>
@@ -2771,7 +2761,7 @@ További részletek:
 <translation id="8057711352706143257">A(z) „<ph name="SOFTWARE_NAME" />” nincs megfelelően beállítva. A(z) „<ph name="SOFTWARE_NAME" />” eltávolítása általában megoldja a problémát. <ph name="FURTHER_EXPLANATION" /></translation>
 <translation id="8058009102480785916">Élelmiszergyártás</translation>
 <translation id="8066225060526005217">A cookie-beállítások kezelik</translation>
-<translation id="8067872629359326442">Megtévesztő webhelyen adta meg jelszavát. A Chromium segíthet. Ha módosítani szeretné jelszavát, és értesíteni szeretné a Google-t arról, hogy fiókja veszélyben lehet, kattintson a Fiók védelme gombra.</translation>
+
 <translation id="8070439594494267500">Alkalmazásikon</translation>
 <translation id="8075736640322370409">Új Google-táblázat létrehozása gyorsan</translation>
 <translation id="8075898834294118863">Webhelybeállítások kezelése</translation>
@@ -2801,7 +2791,7 @@ További részletek:
 <translation id="8116925261070264013">Némítva</translation>
 <translation id="8118489163946903409">Fizetési mód</translation>
 <translation id="8123046743443732598">Asztali számítógépek</translation>
-<translation id="8124639700796374294">A Chrome személyre szabása gomb. Nyomja le az Enter billentyűt, ha személyre szeretné szabni a böngésző megjelenését.</translation>
+<translation id="8124639700796374294">A WEB3 DNA Browser személyre szabása gomb. Nyomja le az Enter billentyűt, ha személyre szeretné szabni a böngésző megjelenését.</translation>
 <translation id="8126056688005753476">Kalandturizmus</translation>
 <translation id="8127301229239896662">A(z) „<ph name="SOFTWARE_NAME" />” nem megfelelően lett telepítve a számítógépre vagy a hálózatra. A probléma elhárítása érdekében forduljon rendszergazdájához.</translation>
 <translation id="8131740175452115882">Megerősítés</translation>
@@ -2812,7 +2802,7 @@ További részletek:
 <translation id="8157295877370077682">Webhely elhagyása</translation>
 <translation id="8163866351304776260">Négy lyuk a bal oldalon</translation>
 <translation id="8175330382720204696">„Government Letter” méret</translation>
-<translation id="8175796834047840627">A Chrome felajánlja a kártyák mentését az Ön Google-fiókjába, mert be van jelentkezve. A beállítások között ezt bármikor módosíthatja.</translation>
+<translation id="8903986195054043594">A WEB3 DNA Browser felajánlja a kártyák mentését az Ön Google-fiókjába, mert be van jelentkezve. A beállítások között ezt bármikor módosíthatja.</translation>
 <translation id="8176440868214972690">Az eszköz rendszergazdája elküldött bizonyos információkat (pl. a beállításokat és a házirendeket) a következő webhelyeknek.</translation>
 <translation id="8184538546369750125">Globális alapértelmezés használata (Engedélyezés)</translation>
 <translation id="8186706823560132848">Szoftver</translation>
@@ -2857,11 +2847,11 @@ További részletek:
 <translation id="8270242299912238708">PDF-dokumentumok</translation>
 <translation id="8275952078857499577">Ne ajánlja fel ennek a webhelynek a fordítását</translation>
 <translation id="8277900682056760511">A fizetési információk munkalapja meg van nyitva</translation>
-<translation id="8279611986089885641">Be kell kapcsolni a Chrome-értesítéseket. Itt kapcsolhatja be őket: <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
+<translation id="2375797557832310962">Be kell kapcsolni a WEB3 DNA Browser-értesítéseket. Itt kapcsolhatja be őket: <ph name="BEGIN_LINK" /><ph name="NOTIFICATION_SETTINGS" /><ph name="END_LINK" />.</translation>
 <translation id="8280630997017109758">11. tálca</translation>
 <translation id="8281886186245836920">Kihagyás</translation>
 <translation id="8282947398454257691">Az egyedi eszközazonosító megtekintése</translation>
-<translation id="8284769179630993263">A Biztonságos böngészés és más funkciók kezelése a Chrome-beállítások között</translation>
+<translation id="8284769179630993263">A Biztonságos böngészés és más funkciók kezelése a WEB3 DNA Browser-beállítások között</translation>
 <translation id="8286036467436129157">Bejelentkezés</translation>
 <translation id="8288807391153049143">Tanúsítvány megjelenítése</translation>
 <translation id="8289355894181816810">Forduljon a hálózati rendszergazdához, ha nem tudja, hogy ez mit jelent.</translation>
@@ -2900,7 +2890,7 @@ További részletek:
 <translation id="8390725133630534698">Rendszergazdai házirend tiltja a tartalmak megosztását innen: <ph name="ORIGIN_NAME" />, ide: <ph name="VM_NAME" /></translation>
 <translation id="8396522675989118466">Ez a kártya <ph name="SIDE_OF_CARD" /> szereplő <ph name="NUMBER_OF_DIGITS" /> jegyű kód</translation>
 <translation id="8398790343843005537">A telefonja megkeresése</translation>
-<translation id="8405579342203358118">A különféle adattípusok kezelése a Chrome-beállítások között</translation>
+<translation id="8405579342203358118">A különféle adattípusok kezelése a WEB3 DNA Browser-beállítások között</translation>
 <translation id="8409413588194360210">fizetéskezelők</translation>
 <translation id="8412145213513410671">Rendszerösszeomlások ( <ph name="CRASH_COUNT" /> )</translation>
 <translation id="8412392972487953978">Mindkét alkalommal ugyanazt az összetett jelszót kell megadnia.</translation>
@@ -2911,7 +2901,7 @@ További részletek:
 <translation id="8427848540066057481">500 × 750 mm</translation>
 <translation id="8428213095426709021">Beállítások</translation>
 <translation id="8428634594422941299">Értem</translation>
-<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a cookie-beállítások Chrome-beállítások közötti kezeléséhez.</translation>
+<translation id="8431194080598727332"><ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter billentyűt a cookie-beállítások WEB3 DNA Browser-beállítások közötti kezeléséhez.</translation>
 <translation id="8433057134996913067">Ezzel kijelentkezik a legtöbb webhelyről.</translation>
 <translation id="8434840396568290395">Házi kedvencek</translation>
 <translation id="8437238597147034694">&amp;Áthelyezés visszavonása</translation>
@@ -2931,12 +2921,12 @@ További részletek:
 <translation id="8473863474539038330">Címek és egyebek</translation>
 <translation id="8474910779563686872">Fejlesztői részletek megjelenítése</translation>
 <translation id="8479754468255770962">Kapocs balra lent</translation>
-<translation id="8483780878231876732">Jelentkezzen be a Chrome-ba, hogy használhassa a kártyákat Google-fiókjából.</translation>
+<translation id="8483780878231876732">Jelentkezzen be a WEB3 DNA Browser-ba, hogy használhassa a kártyákat Google-fiókjából.</translation>
 <translation id="8488350697529856933">A következőre érvényes</translation>
 <translation id="8490137692873530638">10. kötegelő</translation>
 <translation id="8493948351860045254">Terület felszabadítása</translation>
 <translation id="8498891568109133222">A(z) <ph name="HOST_NAME" /> túl hosszú ideje nem válaszol.</translation>
-<translation id="8503559462189395349">Chrome-jelszavak</translation>
+<translation id="1863492395079744896">WEB3 DNA Browser-jelszavak</translation>
 <translation id="8503813439785031346">Felhasználónév</translation>
 <translation id="8507227106804027148">Parancssor</translation>
 <translation id="8508648098325802031">Keresés ikon</translation>
@@ -2944,8 +2934,8 @@ További részletek:
 <translation id="851353418319061866">Pontosság ellenőrzése</translation>
 <translation id="8513580896341796021">A letöltés megkezdődött. A megtekintéséhez nyomja meg a következő gombot: |<ph name="ACCELERATOR" />|.</translation>
 <translation id="8519753333133776369">Rendszergazda által engedélyezett HID-eszköz</translation>
-<translation id="8522552481199248698">A Chrome segíthet a Google-fiók védelmében és a jelszó módosításában.</translation>
-<translation id="8530813470445476232">A böngészési előzmények, a cookie-k, a gyorsítótár és egyebek törlése a Chrome-beállítások között</translation>
+
+<translation id="8530813470445476232">A böngészési előzmények, a cookie-k, a gyorsítótár és egyebek törlése a WEB3 DNA Browser-beállítások között</translation>
 <translation id="853332391023689529">Pickupok</translation>
 <translation id="8533619373899488139">A &lt;strong&gt;chrome://policy&lt;/strong&gt; oldalon láthatja a rendszergazda által letiltott URL-ek és a beállított egyéb kötelező irányelvek listáját.</translation>
 <translation id="8539500321752640291">Megad 2 engedélyt?</translation>
@@ -2961,7 +2951,7 @@ További részletek:
 <translation id="8557066899867184262">A CVC-kód a kártya hátulján található.</translation>
 <translation id="8559762987265718583">Nem hozható létre privát kapcsolat a következővel: <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" />, mert az eszköz dátum- és időbeállítása helytelen (<ph name="DATE_AND_TIME" />).</translation>
 <translation id="8564182942834072828">Különálló dokumentumok/Nem szétválogatott másolatok</translation>
-<translation id="8564985650692024650">A Chromium azt javasolja, hogy adjon meg új <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />-jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
+<translation id="6226192724169192103">A WEB3 DNA Browser azt javasolja, hogy adjon meg új <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />-jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
 <translation id="8576310925653847813">Házimozirendszerek</translation>
 <translation id="8577348305244205642">A virtuális kártya nem áll rendelkezésre</translation>
 <translation id="858637041960032120">Szám hozzáadása
@@ -2994,7 +2984,7 @@ További részletek:
 <translation id="868922510921656628">Oldalak száma készletenként</translation>
 <translation id="869891660844655955">Lejárati dátum</translation>
 <translation id="8699041776323235191">HID-eszköz</translation>
-<translation id="8699899385443889493">Chrome-dinó játék elindítása gomb. Az Enter billentyű lenyomásával elindíthatja a Dino Run játékot a Chrome-ban.</translation>
+<translation id="8699899385443889493">WEB3 DNA Browser-dinó játék elindítása gomb. Az Enter billentyű lenyomásával elindíthatja a Dino Run játékot a WEB3 DNA Browser-ban.</translation>
 <translation id="8699985386408839112">Kaku 1 boríték</translation>
 <translation id="8703575177326907206">A kapcsolat (<ph name="DOMAIN" />) nem titkosított.</translation>
 <translation id="8705331520020532516">Sorozatszám</translation>
@@ -3012,12 +3002,12 @@ További részletek:
 <translation id="8726549941689275341">Oldalméret:</translation>
 <translation id="8730621377337864115">Kész</translation>
 <translation id="8731268612289859741">Biztonsági kód</translation>
-<translation id="8731544501227493793">Jelszavak kezelése gomb, nyomja meg az Enter billentyűt a jelszavaknak a Chrome beállításaiban való megtekintéséhez és kezeléséhez</translation>
+<translation id="8731544501227493793">Jelszavak kezelése gomb, nyomja meg az Enter billentyűt a jelszavaknak a WEB3 DNA Browser beállításaiban való megtekintéséhez és kezeléséhez</translation>
 <translation id="8734529307927223492"><ph name="DEVICE_TYPE" /> eszközét a(z) <ph name="MANAGER" /> kezeli</translation>
 <translation id="8736059027199600831">30 × 40 hüvelyk</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt új inkognitó ablak megnyitásához, amelyben privát módon böngészhet</translation>
 <translation id="8737685506611670901"><ph name="PROTOCOL" /> linkek megnyitása a(z) <ph name="REPLACED_HANDLER_TITLE" /> helyett</translation>
-<translation id="8738058698779197622">Biztonságos kapcsolat létrehozásához az órát pontosan be kell állítani. Ez azért szükséges, mert a webhelyek által az azonosításukra használt tanúsítványok csak adott ideig érvényesek. Mivel az eszköz órája nem pontos, a Chromium nem tudja ellenőrizni ezeket a tanúsítványokat.</translation>
+
 <translation id="8740359287975076522">A(z) <ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;DNS-címe&lt;/abbr&gt; nem található. A probléma diagnosztizálása folyamatban van.</translation>
 <translation id="8742371904523228557">A(z) <ph name="ORIGIN" /> webhelyhez tartozó kód a következő: <ph name="ONE_TIME_CODE" /></translation>
 <translation id="874918643257405732">Lap hozzáadása a könyvjelzőkhöz</translation>
@@ -3036,9 +3026,9 @@ További részletek:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motorkerékpárok</translation>
 <translation id="8790007591277257123">&amp;Törlés újra</translation>
-<translation id="8792621596287649091">Elveszítheti a hozzáférést <ph name="ORG_NAME" />-fiókjához, vagy visszaélhetnek személyes adataival. A Chromium azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
+
 <translation id="8792626944327216835">mikrofon</translation>
-<translation id="8793655568873652685">A(z) <ph name="ENROLLMENT_DOMAIN" /> bekapcsolta a Chrome Enterprise Connectors integrációs eszközöket az Ön böngészőjében. Az eszközök hozzáférnek bizonyos adatokhoz.</translation>
+<translation id="8238747517405767555">A(z) <ph name="ENROLLMENT_DOMAIN" /> bekapcsolta a WEB3 DNA Browser Enterprise Connectors integrációs eszközöket az Ön böngészőjében. Az eszközök hozzáférnek bizonyos adatokhoz.</translation>
 <translation id="8798099450830957504">Alapértelmezett</translation>
 <translation id="8798739476508189189">Böngészőjelzőket keres? Keresse fel a következő oldalt:</translation>
 <translation id="8805819170075074995">„<ph name="LANGUAGE_ID" />” listabejegyzés: A bejegyzést figyelmen kívül hagyja a rendszer, mert szerepel a SpellcheckLanguage házirendben is.</translation>
@@ -3046,7 +3036,7 @@ További részletek:
 <translation id="8807160976559152894">Vágás minden oldal után</translation>
 <translation id="8813277370772331957">Emlékeztessen később</translation>
 <translation id="8814707942599948500">C8 boríték</translation>
-<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt a Chrome-nak a Chrome beállításaiban való frissítéséhez</translation>
+<translation id="8816395686387277279"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt a WEB3 DNA Browser-nak a WEB3 DNA Browser beállításaiban való frissítéséhez</translation>
 <translation id="8820817407110198400">Könyvjelzők</translation>
 <translation id="882338992931677877">Manuális nyílás</translation>
 <translation id="8830320733681313421">Hagaki (képeslap)</translation>
@@ -3060,7 +3050,7 @@ További részletek:
 <translation id="885306012106043620">Tenisz</translation>
 <translation id="8855742650226305367">Tánc</translation>
 <translation id="885730110891505394">Megosztás a Google-lal</translation>
-<translation id="8858065207712248076">A Chrome azt javasolja, hogy adjon meg új <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />-jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
+
 <translation id="885906927438988819">Ha helyesen írta, <ph name="BEGIN_LINK" />próbálkozzon a Windows hálózati diagnosztikájának futtatásával<ph name="END_LINK" />.</translation>
 <translation id="8866132857352163524">Filmzenék</translation>
 <translation id="8866481888320382733">Irányelv-beállítások előfeldolgozási hibája</translation>
@@ -3080,7 +3070,7 @@ További részletek:
 <translation id="8903921497873541725">Nagyítás</translation>
 <translation id="890493561996401738">Javaslat eltávolítása gomb. Nyomja meg az Entert a következő eltávolításához: <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT" /></translation>
 <translation id="8912362522468806198">Google Fiókjába</translation>
-<translation id="8913778647360618320">Fizetési módok kezelése gomb, nyomja meg az Enter billentyűt a fizetési és hitelkártyaadatoknak a Chrome beállításaiban való kezeléséhez</translation>
+<translation id="8913778647360618320">Fizetési módok kezelése gomb, nyomja meg az Enter billentyűt a fizetési és hitelkártyaadatoknak a WEB3 DNA Browser beállításaiban való kezeléséhez</translation>
 <translation id="8922013791253848639">Mindig engedélyezi a hirdetéseket ezen a webhelyen</translation>
 <translation id="892588693504540538">Lyuk jobbra fent</translation>
 <translation id="8930330541574156305">Ingatlan</translation>
@@ -3101,7 +3091,7 @@ További részletek:
 <translation id="8975263830901772334">A kinyomtatott fájlok nevei</translation>
 <translation id="8978053250194585037">A Google Biztonságos Böngészés funkciója nemrégiben <ph name="BEGIN_LINK" />adathalászatot észlelt<ph name="END_LINK" /> a következő webhelyen: <ph name="SITE" />. Az adathalász webhelyek más webhelynek adják ki magukat, hogy félrevezessék Önt.</translation>
 <translation id="8983369100812962543">Most már újraméretezheti az alkalmazást</translation>
-<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a Chrome böngészési előzményeinek megtekintéséhez</translation>
+<translation id="8987245424886630962"><ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot a WEB3 DNA Browser böngészési előzményeinek megtekintéséhez</translation>
 <translation id="8987927404178983737">hónap</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION" /> [<ph name="COUNTRY" />]</translation>
 <translation id="8992061558343343009">A rendszerverziót keresi? Nyissa meg ezt az oldalt:</translation>
@@ -3149,19 +3139,19 @@ További részletek:
 <translation id="908796725011587895">Egyetemi sportok</translation>
 <translation id="9089260154716455634">Házirend figyelmen kívül hagyása:</translation>
 <translation id="9095388113577226029">További nyelvek…</translation>
-<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot, ha a Chrome-ot szeretné beállítani a rendszer alapértelmezett böngészőjeként az iOS beállításaiban</translation>
+<translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot, ha a WEB3 DNA Browser-ot szeretné beállítani a rendszer alapértelmezett böngészőjeként az iOS beállításaiban</translation>
 <translation id="9096679202588811390">Televíziós show-k és műsorok</translation>
 <translation id="9101630580131696064">1. tálca</translation>
 <translation id="9102081333385212048">A másolt vagy áthelyezett fájlokat elküldjük a Google Cloudnak vagy harmadik feleknek elemzésre. A Google Cloud vagy a harmadik fél például bizalmas adatokat vagy rosszindulatú programokat kereshet a fájlokban.</translation>
 <translation id="9103537084693478942">Videós szoftverek</translation>
-<translation id="9103872766612412690">A(z) <ph name="SITE" /> webhely rendes esetben titkosítást alkalmaz az Ön adatainak védelme érdekében. Amikor a Chromium most csatlakozni próbált, a(z) <ph name="SITE" /> webhely szokatlan és helytelen hitelesítési adatokat küldött vissza.Ez olyankor fordulhat elő, amikor egy támadó megpróbálja magát kiadni a(z) <ph name="SITE" /> webhelynek, vagy valamilyen Wi-Fi-bejelentkezési képernyő megszakította a kapcsolatot. Adatai továbbra is biztonságban vannak, mivel a Chromium még azt megelőzően megszakította a kapcsolatot, hogy bármiféle adatcserére sor kerülhetett volna.</translation>
+
 <translation id="9106062320799175032">Számlázási cím hozzáadása</translation>
 <translation id="9107467864910557787">Böngészőjét a(z) <ph name="MANAGER" /> kezeli</translation>
 <translation id="91108059142052966">Rendszergazdai házirend tiltja a(z) <ph name="APPLICATION_TITLE" /> alkalmazással való képernyőmegosztást, ha bizalmas tartalom látható a képernyőn.</translation>
 <translation id="9114524666733003316">Kártya ellenőrzése…</translation>
-<translation id="9114581008513152754">Ezt a böngészőt nem kezeli cég vagy más szervezet. Lehetséges, hogy az eszközön végzett tevékenységeket a Chrome-on kívülről felügyelik. <ph name="BEGIN_LINK" />További információ<ph name="END_LINK" />.</translation>
+
 <translation id="9117930699067497412">Friss</translation>
-<translation id="9118692854637641831"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt, ha folytatni szeretné a keresést, és meg szeretné tekinteni a releváns tevékenységet Chrome-előzményei között</translation>
+<translation id="1160223980975103471"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt, ha folytatni szeretné a keresést, és meg szeretné tekinteni a releváns tevékenységet WEB3 DNA Browser-előzményei között</translation>
 <translation id="9119042192571987207">Feltöltve</translation>
 <translation id="9122954576417194280">Árukereskedelem és árutőzsde</translation>
 <translation id="9128016270925453879">Házirendek betöltve</translation>
@@ -3176,7 +3166,7 @@ További részletek:
 <translation id="9148088599418889305">Szállítási mód kiválasztása</translation>
 <translation id="9148507642005240123">&amp;Szerkesztés visszavonása</translation>
 <translation id="9150045010208374699">Kamera használata</translation>
-<translation id="9150685862434908345">A rendszergazda távolról módosítani tudja a böngészőbeállításokat. Az is lehetséges, hogy az eszközön végzett tevékenységeket a Chrome-on kívülről felügyelik. <ph name="BEGIN_LINK" />További információ<ph name="END_LINK" />.</translation>
+
 <translation id="9154194610265714752">Frissítve</translation>
 <translation id="9155211586651734179">Csatlakoztatott hangperifériák</translation>
 <translation id="9157595877708044936">Előkészítés...</translation>
@@ -3191,7 +3181,7 @@ További részletek:
 <translation id="917450738466192189">A szerver tanúsítványa érvénytelen.</translation>
 <translation id="9174623988242579721">Egyedi és nagy teljesítményű járművek</translation>
 <translation id="9174917557437862841">Lapváltó gomb. Az Enter billentyűvel erre a lapra válthat.</translation>
-<translation id="9179703756951298733">A fizetéssel és a hitelkártyával kapcsolatos adatait a Chrome-beállítások között kezelheti</translation>
+<translation id="9179703756951298733">A fizetéssel és a hitelkártyával kapcsolatos adatait a WEB3 DNA Browser-beállítások között kezelheti</translation>
 <translation id="9179907736442194268">E-mailes értesítést küldünk, ha valamelyik webhelyen csökken az ár</translation>
 <translation id="9183302530794969518">Google Dokumentumok</translation>
 <translation id="9183425211371246419">A(z) <ph name="HOST_NAME" /> egy nem támogatott protokollt használ.</translation>
@@ -3202,12 +3192,12 @@ További részletek:
 <translation id="920511547311754821">Nem találja a kódját? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE" /></translation>
 <translation id="9207861905230894330">A cikk hozzáadása sikertelen.</translation>
 <translation id="9213433120051936369">Megjelenés személyre szabása</translation>
-<translation id="9215416866750762878">Valamelyik alkalmazás megakadályozza a Chrome-ot abban, hogy biztonságosan csatlakozzon a webhelyhez</translation>
+<translation id="717994082075351832">Valamelyik alkalmazás megakadályozza a WEB3 DNA Browser-ot abban, hogy biztonságosan csatlakozzon a webhelyhez</translation>
 <translation id="9219103736887031265">Képek</translation>
-<translation id="922152298093051471">A Chrome személyre szabása</translation>
+<translation id="922152298093051471">A WEB3 DNA Browser személyre szabása</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">ŰRLAP TÖRLÉSE</translation>
-<translation id="936602727769022409">Elveszítheti a hozzáférést Google-fiókjához. A Chromium azt javasolja, hogy azonnal módosítsa jelszavát. Be kell majd jelentkeznie.</translation>
+
 <translation id="937457230470581909">Állatkertek, akváriumok és rezervátumok</translation>
 <translation id="939736085109172342">Új mappa</translation>
 <translation id="940053046584497293">Utazás és közlekedés</translation>

@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="nl">
 <translation id="130631256467250065">Je wijzigingen worden doorgevoerd wanneer je het apparaat opnieuw opstart.</translation>
-<translation id="275588974610408078">Crashrapportage is niet beschikbaar in Chromium.</translation>
-<translation id="3064346599913645280">Je bekijkt een beveiligde Chromium-pagina</translation>
-<translation id="358997566136285270">Chromium-logo</translation>
-<translation id="4365115785552740256">Chromium wordt mogelijk gemaakt door het <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> open-sourceproject en andere <ph name="BEGIN_LINK_OSS" />open-sourcesoftware<ph name="END_LINK_OSS" />.</translation>
-<translation id="4559775032954821361">Ga naar
-          het menu 'Chromium' &gt;
+<translation id="4791283969776588221">Crashrapportage is niet beschikbaar in WEB3 DNA Browser.</translation>
+<translation id="2844608976961792034">Je bekijkt een beveiligde WEB3 DNA Browser-pagina</translation>
+<translation id="1982446651380677046">WEB3 DNA Browser-logo</translation>
+<translation id="4523656775797881494">WEB3 DNA Browser wordt mogelijk gemaakt door het <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> open-sourceproject en andere <ph name="BEGIN_LINK_OSS" />open-sourcesoftware<ph name="END_LINK_OSS" />.</translation>
+<translation id="4029636627665768575">Ga naar
+          het menu 'WEB3 DNA Browser' &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,20 +16,20 @@
           &gt;
           LAN-instellingen
           en verwijder het vinkje uit het selectievakje bij 'Een proxyserver voor het LAN-netwerk gebruiken'.</translation>
-<translation id="4622039161600275920">Deze pagina is geblokkeerd door Chromium</translation>
-<translation id="48558539577516920">Sta Chromium toe via je firewall- of antivirusinstellingen het netwerk te gebruiken.</translation>
-<translation id="4918837013875648434">De eerste instelling van Chromium OS is niet afgerond.</translation>
-<translation id="580822234363523061">Ga naar
-          het menu 'Chromium' &gt;
+<translation id="7398528135240070983">Deze pagina is geblokkeerd door WEB3 DNA Browser</translation>
+<translation id="329184862608851407">Sta WEB3 DNA Browser toe via je firewall- of antivirusinstellingen het netwerk te gebruiken.</translation>
+<translation id="4918837013875648434">De eerste instelling van WEB3 DNA Browser OS is niet afgerond.</translation>
+<translation id="7951541701556745073">Ga naar
+          het menu 'WEB3 DNA Browser' &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           en zorg ervoor dat de configuratie is ingesteld op 'geen proxy' of 'direct'.</translation>
-<translation id="6613594504749178791">Je wijzigingen worden toegepast wanneer je Chromium opnieuw start.</translation>
-<translation id="7861509383340276692">Ga naar
-          het Chromium-menu &gt;
+<translation id="8823298025665339355">Je wijzigingen worden toegepast wanneer je WEB3 DNA Browser opnieuw start.</translation>
+<translation id="5334530291357334686">Ga naar
+          het WEB3 DNA Browser-menu &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -37,5 +37,5 @@
           Als het probleem aanhoudt, adviseren we deze optie weer aan te
           vinken voor betere prestaties.</translation>
 <translation id="8187289872471304532">Ga naar 'Applicaties &gt; Systeemvoorkeuren &gt; Netwerk &gt; Geavanceerd &gt; Proxy's' en verwijder de vinkjes bij proxyservers die zijn aangevinkt.</translation>
-<translation id="8684913864886094367">Chromium is niet goed afgesloten.</translation>
+<translation id="7950276115919177274">WEB3 DNA Browser is niet goed afgesloten.</translation>
 </translationbundle>
