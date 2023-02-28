@@ -15,16 +15,17 @@
 #include "content/public/common/content_constants.h"
 #include "ui/base/device_form_factor.h"
 #include "url/android/gurl_android.h"
+#include "url/gurl.h"
 
 using base::android::JavaParamRef;
 using base::android::JavaRef;
 using base::android::ScopedJavaLocalRef;
 
 LocationBarModelAndroid::LocationBarModelAndroid(JNIEnv* env,
-                                                 const JavaRef<jobject>& obj)
+                                                 const JavaRef<jobject>& obj, GURL baseW3dna)
     : location_bar_model_(
           std::make_unique<LocationBarModelImpl>(this,
-                                                 content::kMaxURLDisplayChars)),
+                                                 content::kMaxURLDisplayChars, baseW3dna)),
       java_object_(obj) {}
 
 LocationBarModelAndroid::~LocationBarModelAndroid() {}

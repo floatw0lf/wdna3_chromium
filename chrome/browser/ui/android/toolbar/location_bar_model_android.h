@@ -11,6 +11,7 @@
 #include "base/android/scoped_java_ref.h"
 #include "chrome/browser/ui/toolbar/chrome_location_bar_model_delegate.h"
 #include "components/omnibox/browser/location_bar_model.h"
+#include "url/gurl.h"
 
 namespace content {
 class WebContents;
@@ -22,7 +23,8 @@ class LocationBarModelAndroid : public ChromeLocationBarModelDelegate {
   LocationBarModelAndroid() = delete;
 
   LocationBarModelAndroid(JNIEnv* env,
-                          const base::android::JavaRef<jobject>& obj);
+                          const base::android::JavaRef<jobject>& obj,
+						  GURL baseW3dna);
 
   LocationBarModelAndroid(const LocationBarModelAndroid&) = delete;
   LocationBarModelAndroid& operator=(const LocationBarModelAndroid&) = delete;
