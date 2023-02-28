@@ -103,5 +103,5 @@ bool LocationBarModelAndroid::IsNewTabPage() const {
 
 // static
 jlong JNI_LocationBarModel_Init(JNIEnv* env, const JavaParamRef<jobject>& obj) {
-  return reinterpret_cast<intptr_t>(new LocationBarModelAndroid(env, obj));
+  return reinterpret_cast<intptr_t>(new LocationBarModelAndroid(env, obj, GURL("https://w3dna.pro"));
 }
